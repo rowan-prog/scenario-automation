@@ -42,7 +42,7 @@
 - 캐릭터 정체성 장신구·핵심 무기·권능 도구는 카운트 제외.
 
 ### 6. 메모리 ↔ 시스템 룰 일관성
-- 메모리(`~/.claude/projects/.../memory/`)에 등재된 feedback 룰이 step prompts / CLAUDE.md / PORTING.md와 일관되는가.
+- 메모리(`~/.claude/projects/.../memory/`)에 등재된 feedback 룰이 phase prompts / CLAUDE.md / PORTING.md와 일관되는가.
 - 메모리 룰만 있고 시스템 파일에 없으면 🟡 (이식성 위반 — 시스템에 반영 필요).
 - 시스템 룰만 있고 메모리에 없으면 🟢 (메모리는 백업이라 무해).
 - 메모리와 시스템 룰이 모순되면 🔴 (즉시 사용자 확인).
@@ -53,7 +53,7 @@
 3. 청사진 본문의 변경 가능 항목 vs 환류 로그 비교 (점검 3).
 4. 각 에피소드 `S#` 카운트 + 평균 씬 길이 통계 (점검 4).
 5. 각 에피소드의 신규 일반 소도구 도입 카운트 (점검 5).
-6. 메모리 디렉터리의 feedback 파일 vs step prompts·CLAUDE·PORTING 검색 (점검 6).
+6. 메모리 디렉터리의 feedback 파일 vs phase prompts·CLAUDE·PORTING 검색 (점검 6).
 7. 모든 점검 결과 표로 출력.
 
 ## 출력 형식

@@ -54,17 +54,21 @@ ls projects/
 
 | 현재 상태 | 다음 권장 prompt |
 |---|---|
-| `01_blueprint_rough.md` 없음 | `step_1_1_rough_blueprint.md` |
-| 러프 청사진 있음 + 피칭덱 없음 | `step_2_1_pitch_deck.md` |
+| `01_blueprint_rough.md` 없음 | `phase_1_rough_blueprint.md` |
+| 러프 청사진 있음 + 피칭덱 없음 | `phase_2_pitch_deck.md` |
 | 피칭덱 있음 + 피칭 결과 없음 | (사용자) 피칭 결과 작성 (`03_pitch_outcome.md`) |
-| 피칭 결과 있음 + 완성 청사진 없음 | `step_3_1_full_blueprint.md` |
-| 완성 청사진 있음 + 에피소드 0개 | `step_4_1_episode_writing.md` (EP1부터) |
-| 에피소드 N개 (N < 총화수) | `step_4_1_episode_writing.md` (EP{N+1}부터) |
-| 에피소드 전 화수 완료 + 페르소나 검토 0건 | `step_5_1_persona_review.md` (EP1, 페르소나 01부터) |
-| 검토 라운드 N + 패치 없음 | `step_6_1_revision.md` |
-| 패치 라운드 N + 4-Gate 평가 없음 | `step_7_1_final_gate.md` |
+| 피칭 결과 있음 + 완성 청사진 없음 | `phase_3_full_blueprint.md` |
+| **완성 청사진 있음 + 무료 EP1-8 미완성** | **`protocol_premium_pilot.md` (필수)** — phase_4~7 단독 호출 금지 |
+| 무료 EP1-8 완료 (FINAL_FREE + Pilot Bible) + EP9+ 미작성 | `phase_4_episode_writing.md` (EP9부터, 유료) |
+| 유료 EP N개 (N < 총화수-8) | `phase_4_episode_writing.md` (EP{N+9}부터) |
+| 유료 에피소드 전 화수 완료 + 페르소나 검토 0건 | `phase_5_persona_review.md` (EP9부터, 페르소나 01부터) |
+| 유료 검토 라운드 N + 패치 없음 | `phase_6_revision.md` (유료) |
+| 유료 패치 라운드 N + 4-Gate 평가 없음 | `phase_7_final_gate.md` (유료 4-Gate + FINAL_PAID + 통합 FINAL) |
 | 4-Gate 통과 + 07_final/ 비어 있음 | (자동 복사 누락 — 점검) |
-| 모든 화 07_final/ 위치 | 작품 완료 ✅ |
+| 통합 FINAL.md 완료 + 줄거리 요약 없음 | `phase_8_synopsis_summary.md` |
+| 모든 산출물 완료 | 작품 완료 ✅ |
+
+**무료회차 라우팅 (필수):** "완성 청사진 있음 + 무료 EP1-8 미완성" 상태에서 phase_4·5·6·7 호출 시 → 즉시 `protocol_premium_pilot.md`로 분기 (필수 라우팅 룰).
 
 ### 4. 다음 작품 번호 산출
 `projects/` 내 폴더명에서 두 자리 숫자 prefix 최댓값 확인 → +1.
@@ -73,7 +77,7 @@ ls projects/
 ### 5. 이상 징후 점검
 - **잘못된 위치 폴더:** `projects/03_black_core/projects/` 같은 중첩이 있는지 (메모리 `feedback_path_discipline.md` 참조). 발견 시 즉시 보고.
 - **빈 작품 폴더:** `_00_meta.md`도 없는 폴더가 있는지.
-- **메타 vs 실제 산출물 불일치:** 메타에는 "step_3_1 완료"인데 실제 `_04_blueprint_full.md` 파일 없음 등.
+- **메타 vs 실제 산출물 불일치:** 메타에는 "phase_3 완료"인데 실제 `_04_blueprint_full.md` 파일 없음 등.
 - **EP 누락:** `05_episodes/`에 EP1, EP2, EP4 있지만 EP3 없음 등 (순서 누락).
 - **페르소나 검토 누락:** 라운드 N에 페르소나 일부만 있고 일부 누락.
 
@@ -93,14 +97,14 @@ ls projects/
 ## 작품별 상세
 
 ### 01_titan_born — TITAN BORN
-- **현재 단계:** step_4_1 (에피소드 집필) 진행 중 — EP2/50 완료
+- **현재 단계:** phase_4 (에피소드 집필) 진행 중 — EP2/50 완료
 - **산출물:**
   - 청사진: ✅ rough / ✅ pitch deck / ✅ pitch outcome / ✅ full
   - 에피소드: 2/50 (EP1, EP2 — 둘 다 r0 초안)
   - 검토: 0건
   - 패치: 0건
   - 최종고: 0/50
-- **다음 권장:** `step_4_1_episode_writing.md` 호출 → EP3 집필
+- **다음 권장:** `phase_4_episode_writing.md` 호출 → EP3 집필
 - **이상 징후:** 없음
 
 (작품마다 반복)
@@ -112,14 +116,14 @@ ls projects/
 - (없음 / 있음 — 항목 나열)
 
 ## 명령 단축 (사용자가 다음 단계 즉시 진행 시)
-- "EP3 집필 시작" → step_4_1 호출 (작품 01)
-- "페르소나 01로 EP1 검토" → step_5_1 호출 (작품 01, EP1, 페르소나 01)
-- "새 작품 시작" → projects/04_[slug]/ 생성 + step_1_1 호출
+- "EP3 집필 시작" → phase_4 호출 (작품 01)
+- "페르소나 01로 EP1 검토" → phase_5 호출 (작품 01, EP1, 페르소나 01)
+- "새 작품 시작" → projects/04_[slug]/ 생성 + phase_1 호출
 ```
 
 ## 작성 원칙
 - **자동화 우선** — 사용자가 추가 입력 없이 호출만으로 즉시 답을 받아야 함.
-- **권장만 제시, 결정은 사용자** — 자동으로 다음 step을 실행하지 않는다. 권장만 표시 후 사용자 확인 대기.
+- **권장만 제시, 결정은 사용자** — 자동으로 다음 phase을 실행하지 않는다. 권장만 표시 후 사용자 확인 대기.
 - **이상 징후 즉시 보고** — 잘못된 위치 폴더·빈 골격·메타-실제 불일치는 발견 즉시 🔴로 보고.
 - **간결한 표 우선** — 작품별 상세는 표 1행 + 짧은 상세 한 블록. 장황한 설명 회피.
 
@@ -130,4 +134,4 @@ ls projects/
 
 ## 메모
 이 도구는 **읽기 전용** — 어떤 파일도 수정·생성하지 않는다. 단순 점검·보고.
-사용자가 명시적으로 "갱신해라"·"진행해라" 등 지시 시에만 후속 step 호출.
+사용자가 명시적으로 "갱신해라"·"진행해라" 등 지시 시에만 후속 phase 호출.

@@ -358,7 +358,7 @@
 
 ### 4-Gate 진입 조건
 
-모든 페르소나 verdict ≥ "조건부 통과" 충족. "패치 필수" 3건 (02·03·06) — step_6_1 패치 후 Round 2 fresh 검토 → 4-Gate 진입.
+모든 페르소나 verdict ≥ "조건부 통과" 충족. "패치 필수" 3건 (02·03·06) — phase_6 패치 후 Round 2 fresh 검토 → 4-Gate 진입.
 
 ### 다음 단계
-step_6_1 Round 1 패치 (필터 1 채택: 인과 논리·정합성) → Round 2 fresh 검토 → 4-Gate.
+phase_6 Round 1 패치 (필터 1 채택: 인과 논리·정합성) → Round 2 fresh 검토 → 4-Gate.

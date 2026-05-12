@@ -20,16 +20,16 @@ scenario-automation/
 │   ├── personas/                검토 페르소나 7인
 │   └── reference_scripts/       참고 스크립트·청사진·피칭덱
 ├── prompts/                     단계별 prompt (워크플로우 순)
-│   ├── step_1_1_rough_blueprint.md
-│   ├── step_2_1_pitch_deck.md
-│   ├── step_3_1_full_blueprint.md
-│   ├── step_4_1_episode_writing.md
-│   ├── step_5_1_persona_review.md
-│   ├── step_6_1_revision.md
-│   ├── step_7_1_final_gate.md
-│   ├── step_a_1_adaptation_blueprint.md   (부가 트랙 A — 각색)
-│   ├── step_a_2_adaptation_script.md
-│   └── step_b_1_external_script_intake.md (부가 트랙 B — 외부 대본)
+│   ├── phase_1_rough_blueprint.md
+│   ├── phase_2_pitch_deck.md
+│   ├── phase_3_full_blueprint.md
+│   ├── phase_4_episode_writing.md
+│   ├── phase_5_persona_review.md
+│   ├── phase_6_revision.md
+│   ├── phase_7_final_gate.md
+│   ├── phase_a_1_adaptation_blueprint.md   (부가 트랙 A — 각색)
+│   ├── phase_a_2_adaptation_script.md
+│   └── phase_b_external_script_intake.md (부가 트랙 B — 외부 대본)
 └── projects/                    각 작품 폴더
     ├── 01_titan_born/
     │   ├── 01_titan_born_00_meta.md           작품 진행 메타
@@ -66,23 +66,23 @@ scenario-automation/
 ### 메인 트랙 — 신규 작품 (아이디어 → 최종고)
 
 ```
-step_1_1 (러프 청사진)
-  → step_2_1 (피칭덱)
+phase_1 (러프 청사진)
+  → phase_2 (피칭덱)
     → 03_pitch_outcome.md (사용자 작성)
-      → step_3_1 (완성 청사진)
-        → step_4_1 (에피소드 집필)
-          → step_5_1 (페르소나 검토)
-            ↔ step_6_1 (패치)  [라운드 5회 한계]
-              → step_7_1 (최종고 게이트 4-Gate)
+      → phase_3 (완성 청사진)
+        → phase_4 (에피소드 집필)
+          → phase_5 (페르소나 검토)
+            ↔ phase_6 (패치)  [라운드 5회 한계]
+              → phase_7 (최종고 게이트 4-Gate)
                 → 07_final/ep[N].md ✅
 ```
 
 ### 부가 트랙 A — 원작 각색
 
 ```
-step_a_1 (각색 방향 청사진)
-  → step_a_2 (각색 스크립트 집필)
-    → step_5_1 / step_6_1 / step_7_1 (메인 트랙 검토·패치·게이트 루프 진입)
+phase_a_1 (각색 방향 청사진)
+  → phase_a_2 (각색 스크립트 집필)
+    → phase_5 / phase_6 / phase_7 (메인 트랙 검토·패치·게이트 루프 진입)
 ```
 
 각색 강도: **충실 / 현대화 / 재해석** (Soft Lock — 작품 자율).
@@ -90,14 +90,14 @@ step_a_1 (각색 방향 청사진)
 ### 부가 트랙 B — 외부 AIGC 대본 검토→수정 반복
 
 ```
-step_b_1 (외부 대본 등재 + 1차 게이트 평가)
+phase_b (외부 대본 등재 + 1차 게이트 평가)
   → 결론 분기:
-    A. 패치 가능 → step_5_1 → step_6_1 → step_7_1
-    B. 구조 재설계 필요 → step_3_1 (청사진 작업으로 전환)
+    A. 패치 가능 → phase_5 → phase_6 → phase_7
+    B. 구조 재설계 필요 → phase_3 (청사진 작업으로 전환)
     C. 폐기 권장 → 작업 중단
 ```
 
-청사진 부재 시 step_5_1·step_7_1은 **대본 내적 정합성**으로 판정 (Hard Lock 영역만).
+청사진 부재 시 phase_5·phase_7은 **대본 내적 정합성**으로 판정 (Hard Lock 영역만).
 
 ---
 
@@ -105,19 +105,19 @@ step_b_1 (외부 대본 등재 + 1차 게이트 평가)
 
 ### 신규 작품 시작
 1. `projects/[다음 번호]_[작품 슬러그]/` 폴더 생성 (예: `04_new_work`)
-2. `step_1_1` prompt 호출 → 러프 청사진 작성 + `00_meta.md` 자동 생성
+2. `phase_1` prompt 호출 → 러프 청사진 작성 + `00_meta.md` 자동 생성
 3. 이후 워크플로우 순서대로 진행
 
 ### 원작 각색 시작
 1. `projects/[다음 번호]_[작품 슬러그]/` 폴더 생성
 2. 원작 자료 준비 (전문 또는 핵심 챕터)
-3. `step_a_1` prompt 호출 → 각색 청사진 + `00_meta.md`
-4. 이후 `step_a_2` → 메인 트랙 검토 루프
+3. `phase_a_1` prompt 호출 → 각색 청사진 + `00_meta.md`
+4. 이후 `phase_a_2` → 메인 트랙 검토 루프
 
 ### 외부 대본 검토 시작
 1. `projects/[다음 번호]_[작품 슬러그]/` 폴더 생성
 2. 외부 대본 텍스트 준비
-3. `step_b_1` prompt 호출 → 대본 등재 + 1차 게이트 + `00_meta.md`
+3. `phase_b` prompt 호출 → 대본 등재 + 1차 게이트 + `00_meta.md`
 4. 결론 (A/B/C)에 따라 분기
 
 ---

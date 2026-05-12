@@ -307,4 +307,4 @@
 모든 페르소나 verdict ≥ "조건부 통과" + 모든 페르소나 LOCK 판정. 4-Gate 진입 가능.
 
 ### 다음 단계
-step_7_1 4-Gate 평가 (Structure / Narrative / Script / Production).
+phase_7 4-Gate 평가 (Structure / Narrative / Script / Production).

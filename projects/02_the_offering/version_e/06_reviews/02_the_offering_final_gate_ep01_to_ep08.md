@@ -1,6 +1,6 @@
 # Version E — 4-Gate Final Evaluation (EP01-EP08, Free Block)
 
-> step_7_1 application. After Round 2 LOCK 8/8.
+> phase_7 application. After Round 2 LOCK 8/8.
 
 ## Auto-detection (consolidated counts)
 

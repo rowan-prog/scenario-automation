@@ -52,7 +52,7 @@
 
 해당 없음 (모든 의견 수용 — 작품 본질 약화 X).
 
-## 5. 청사진 디벨롭 영역 (step_3_1)
+## 5. 청사진 디벨롭 영역 (phase_3)
 
 1. **포맷:** AIGC Live-action / **세로형 9:16**
 2. **EP1 첫 컷 강화:**
@@ -78,4 +78,4 @@
 
 ## 7. 다음 단계
 
-→ **step_3_1 (완성 청사진)**: `01_titan_born_04_blueprint_full.md`
+→ **phase_3 (완성 청사진)**: `01_titan_born_04_blueprint_full.md`

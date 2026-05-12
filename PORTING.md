@@ -57,16 +57,16 @@ scenario-automation/
 │   │   └── persona_07_genre_pleasure_realization_auditor.md
 │   └── reference_scripts/       참고 스크립트·청사진·피칭덱 예시
 ├── prompts/                     ★ 단계별 프롬프트 10개 — 워크플로우 본체
-│   ├── step_1_1_rough_blueprint.md
-│   ├── step_2_1_pitch_deck.md
-│   ├── step_3_1_full_blueprint.md
-│   ├── step_4_1_episode_writing.md
-│   ├── step_5_1_persona_review.md
-│   ├── step_6_1_revision.md
-│   ├── step_7_1_final_gate.md
-│   ├── step_a_1_adaptation_blueprint.md     (부가 트랙 A — 각색)
-│   ├── step_a_2_adaptation_script.md
-│   └── step_b_1_external_script_intake.md   (부가 트랙 B — 외부 대본)
+│   ├── phase_1_rough_blueprint.md
+│   ├── phase_2_pitch_deck.md
+│   ├── phase_3_full_blueprint.md
+│   ├── phase_4_episode_writing.md
+│   ├── phase_5_persona_review.md
+│   ├── phase_6_revision.md
+│   ├── phase_7_final_gate.md
+│   ├── phase_a_1_adaptation_blueprint.md     (부가 트랙 A — 각색)
+│   ├── phase_a_2_adaptation_script.md
+│   └── phase_b_external_script_intake.md   (부가 트랙 B — 외부 대본)
 └── projects/                    작품 산출물 (작품마다 폴더)
     └── [NN]_[slug]/
         ├── [NN]_[slug]_00_meta.md           작품 진행 메타
@@ -87,30 +87,30 @@ scenario-automation/
 
 ### 메인 트랙 — 신규 작품 (아이디어 → 최종고)
 ```
-step_1_1 (러프 청사진)
-  → step_2_1 (피칭덱)
+phase_1 (러프 청사진)
+  → phase_2 (피칭덱)
     → 03_pitch_outcome.md (사용자 작성)
-      → step_3_1 (완성 청사진)
-        → step_4_1 (에피소드 집필)
-          → step_5_1 ↔ step_6_1 (페르소나 검토 ↔ 패치, 5라운드 한계)
-            → step_7_1 (최종고 4-Gate)
+      → phase_3 (완성 청사진)
+        → phase_4 (에피소드 집필)
+          → phase_5 ↔ phase_6 (페르소나 검토 ↔ 패치, 5라운드 한계)
+            → phase_7 (최종고 4-Gate)
               → 07_final/ ✅
 ```
 
 ### 부가 트랙 A — 원작 각색
 ```
-step_a_1 → step_a_2 → 메인 트랙 검토 루프 (step_5_1 ~ 7_1)
+phase_a_1 → phase_a_2 → 메인 트랙 검토 루프 (phase_5 ~ 7_1)
 ```
 각색 강도(충실 / 현대화 / 재해석)는 Soft Lock — 작품 자율.
 
 ### 부가 트랙 B — 외부 AIGC 대본 검토
 ```
-step_b_1 (등재 + 1차 게이트) → 결론 분기
-  A. 패치 가능 → step_5_1 ~ 7_1
-  B. 구조 재설계 필요 → step_3_1 (청사진 작업으로 전환)
+phase_b (등재 + 1차 게이트) → 결론 분기
+  A. 패치 가능 → phase_5 ~ 7_1
+  B. 구조 재설계 필요 → phase_3 (청사진 작업으로 전환)
   C. 폐기 권장 → 작업 중단
 ```
-청사진 부재 시 step_5_1·7_1은 **대본 내적 정합성**으로 판정 (Hard Lock 영역만).
+청사진 부재 시 phase_5·7_1은 **대본 내적 정합성**으로 판정 (Hard Lock 영역만).
 
 ---
 
@@ -145,7 +145,7 @@ step_b_1 (등재 + 1차 게이트) → 결론 분기
 
 ### 5-3. 프롬프트 호출 방식
 
-`prompts/step_*_*.md` 파일들은 자연어 프롬프트다. 사용자가 "step_1_1 호출"이라고 말하면 해당 파일을 읽고 거기 적힌 지시(실행 전 읽어야 할 파일·필수 입력값·작성 형식·저장 위치·실행 순서)를 그대로 따른다.
+`prompts/step_*_*.md` 파일들은 자연어 프롬프트다. 사용자가 "phase_1 호출"이라고 말하면 해당 파일을 읽고 거기 적힌 지시(실행 전 읽어야 할 파일·필수 입력값·작성 형식·저장 위치·실행 순서)를 그대로 따른다.
 
 당신의 도구가 슬래시 커맨드·커스텀 프롬프트를 지원한다면 등록해도 좋다 — 안 해도 동작에 무방.
 
@@ -180,13 +180,13 @@ step_b_1 (등재 + 1차 게이트) → 결론 분기
 - **Section 9-1 남주 선언형 대사 5조건** — 시점·구간으로 일률 잠금 X. 5조건(누가/언제/장르/톤/다음 행동) 중 3개 이상 통과면 OK.
 
 ### D. 라운드 한계 + 라운드 = 전수검사
-- step_5_1 ↔ step_6_1 검토·패치 루프 **최대 5라운드**. 5라운드 후에도 4-Gate 미통과 시 사용자 판단 요청.
+- phase_5 ↔ phase_6 검토·패치 루프 **최대 5라운드**. 5라운드 후에도 4-Gate 미통과 시 사용자 판단 요청.
 - **각 라운드 검토는 작품 전 화수 일괄 수행** (전수검사). 직전 라운드 패치된 화만 선별 검토 X — 시퀀스 작품에서 일부 화 패치는 다른 화에 ripple 영향(정보 설계·시각 표지·캐릭터 캐논·관계 변화·광고 응축) 가능.
 - 자연 종료: 전수검사 결과 모든 화 무결(🔴·🟡 0건) + 4-Gate 모든 화 통과 → 최종고 확정.
 
 ### D-bis. 청사진 이후 자동 전 화수 진행 (필수 규칙)
-- step_3_1 완성 후 step_4_1·step_5_1·step_6_1·step_7_1 사이클은 **작품 전 화수(예: 50화) 자동 순차 진행**이 기본. 사용자가 명시적으로 "EP1-6만" 같은 한정을 주지 않는 한 무료 구간 한정·일부 화 한정으로 임의 좁히지 말 것.
-- 따라서 step_3_1 청사진은 **전 화수의 화별 락**을 반드시 포함 (이 화의 주 기능 / 열리고 닫히는 정보 / 절단 방식 / 다음 화 훅).
+- phase_3 완성 후 phase_4·phase_5·phase_6·phase_7 사이클은 **작품 전 화수(예: 50화) 자동 순차 진행**이 기본. 사용자가 명시적으로 "EP1-6만" 같은 한정을 주지 않는 한 무료 구간 한정·일부 화 한정으로 임의 좁히지 말 것.
+- 따라서 phase_3 청사진은 **전 화수의 화별 락**을 반드시 포함 (이 화의 주 기능 / 열리고 닫히는 정보 / 절단 방식 / 다음 화 훅).
 - 출력 분량이 한 세션에 안 들어가도 다수 세션에 걸쳐 진행. 그 자체를 "범위 축소" 사유로 쓰지 말 것.
 
 ### G. 페르소나 9개 — 활성화·역할 분기 (필수)
@@ -203,8 +203,8 @@ step_b_1 (등재 + 1차 게이트) → 결론 분기
 
 ### I. 시청자 페르소나 이탈 원인 Taxonomy (시청자 ↔ 패치 인터페이스)
 - 시청자 페르소나(08·09)는 처방 권한 없음. 단, 🔴/🟡 판정 시 **이탈 원인 코드**(M-A ~ M-J / F-A ~ F-L) 표기 필수.
-- 패치 페르소나(step_6_1)는 코드를 보고 1차 처방 영역 식별 후 처방 결정. 코드별 처방 영역 매핑은 step_6_1 prompt 참조.
-- 시청자 코드 vs 제작 페르소나 결함 인정 시 처리 규칙은 step_6_1 "처방 결정 규칙" 참조.
+- 패치 페르소나(phase_6)는 코드를 보고 1차 처방 영역 식별 후 처방 결정. 코드별 처방 영역 매핑은 phase_6 prompt 참조.
+- 시청자 코드 vs 제작 페르소나 결함 인정 시 처리 규칙은 phase_6 "처방 결정 규칙" 참조.
 
 ### J. 상태 점검 + 정합성 검사 도구 (status.md + audit.md)
 **진행 점검과 정합성 검사는 분리된 두 도구.** 둘 다 읽기 전용.
@@ -227,7 +227,7 @@ step_b_1 (등재 + 1차 게이트) → 결론 분기
 - 추가된 캐릭터 장신구도 청사진 룩 변형 락에 등재 — 회차 일관성 유지.
 
 ### M. Reference 자동 등재 (사용자가 추가, AI가 INDEX 갱신)
-- `config/reference_scripts/INDEX.md` = 모든 reference의 통합 인덱스. step 진입 시 INDEX를 통해 작품 메타와 매칭되는 reference 자동 선택.
+- `config/reference_scripts/INDEX.md` = 모든 reference의 통합 인덱스. phase 진입 시 INDEX를 통해 작품 메타와 매칭되는 reference 자동 선택.
 - 사용자가 새 reference 파일을 폴더에 추가 (또는 외부에서 내용 제공) → **AI가 자동으로 정독 + 카테고리 판정 + INDEX 한 줄 등재 + 한 줄 보고**.
 - 사용자는 INDEX 직접 편집 X. AI가 maintain.
 - 등재되지 않은 파일은 step 프롬프트가 모름 → 자동 발견 X. 따라서 새 파일이 들어오면 즉시 등재.
@@ -266,7 +266,7 @@ step_b_1 (등재 + 1차 게이트) → 결론 분기
 - **통합 후 검증 필수:** (1) 모든 화 헤더 순서 (2) 4-블록 양식 일치 (3) 누락·중복 없음 (4) separator 일관 (5) 헤더·푸터 정상. 이상 발견 시 즉시 재생성.
 
 ### U. 검토 채택 필터 (필수)
-- 검토 권장 패치는 step_6_1에서 두 단계 필터로 채택 판정. 무차별 적용 X.
+- 검토 권장 패치는 phase_6에서 두 단계 필터로 채택 판정. 무차별 적용 X.
 - **필터 1 (채택 필수):** 공간/시간/소품 위치/인과/정합성 오류 + 언어 일원화 위반 — 무조건 수정.
 - **필터 2 (채택 거부):** 프로덕션 가이드 위반·핵심 쾌감 약화·캐릭터 매력 약화·안전 밋밋 처방 — 거부 + 사유 명시.
 - 필터 1 매칭 → 즉시 채택 (필터 2 검사 X). 필터 1 미매칭 → 필터 2 검사.
@@ -291,7 +291,7 @@ step_b_1 (등재 + 1차 게이트) → 결론 분기
 - **4-Gate 진입 조건:** 모든 페르소나 verdict ≥ "조건부 통과". "패치 필수" 잔존 시 4-Gate 불가.
 - **말맛 보존:** 오류는 사이즈 무관 수정. 캐릭터 voice·cadence 최대 보존. 안전·밋밋 수정 누적 금지.
 - **"전체 순차" 검토 시 필수 페르소나:** 01-07 + 작품 타깃 정렬 시청자 1개 (남성향 = 08 / 여성향 = 09).
-- 등재 위치: step_5_1 / step_6_1 / step_7_1 prompts + CLAUDE.md + 메모리 `feedback_strict_review.md`.
+- 등재 위치: phase_5 / phase_6 / phase_7 prompts + CLAUDE.md + 메모리 `feedback_strict_review.md`.
 
 ### E. 한국어 응답
 - 사용자와 모든 대화·문서 작성은 한국어. 단, 시나리오 본문·영어 대사 검토는 영어.
@@ -309,16 +309,16 @@ step_b_1 (등재 + 1차 게이트) → 결론 분기
 2. `config/production_guide.md` Section 0~5 (30분) — 락/열어둠, 핵심 제작 원칙, 포맷, ROI 게이트
 3. `config/production_guide.md` Section 11, 23, 24 (15분) — 피칭 1차 기준, 4-Gate, 최종 핵심 규칙
 4. `config/personas/persona_01~07` (각 5분, 총 35분) — 검토 측면별 페르소나
-5. `prompts/step_1_1_rough_blueprint.md` (5분) — 첫 단계 진입 방법
+5. `prompts/phase_1_rough_blueprint.md` (5분) — 첫 단계 진입 방법
 
-이후 step_1_1로 첫 작품 시작 가능.
+이후 phase_1로 첫 작품 시작 가능.
 
 ---
 
 ## 8. 알려진 함정·교훈
 
 ### 8-1. 04 사고 (2026-05-07)
-이전 세션이 step_b_1(외부 대본 등재) 실행 중 cwd 추정 오류로 상대경로 `projects/04_buried_heir/`를 적용 → 실제 위치는 `projects/03_black_core/projects/04_buried_heir/`로 잘못 중첩됨. 빈 폴더 골격만 남고 본문 작성 전 중단 → 사용자가 한참 후 발견.
+이전 세션이 phase_b(외부 대본 등재) 실행 중 cwd 추정 오류로 상대경로 `projects/04_buried_heir/`를 적용 → 실제 위치는 `projects/03_black_core/projects/04_buried_heir/`로 잘못 중첩됨. 빈 폴더 골격만 남고 본문 작성 전 중단 → 사용자가 한참 후 발견.
 - **교훈:** § 6-B 경로 규율 — 항상 프로젝트 루트 기준 절대경로 + 생성 직후 위치 검증.
 
 ### 8-2. 컨텍스트 윈도우 부담

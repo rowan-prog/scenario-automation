@@ -33,28 +33,27 @@ scenario-automation/
 │   │   └── female_target_research.md    북미 여성향 — 할리퀸·버클리·발렌타인 + Tier 1-3 트로프
 │   └── reference_scripts/       참고 자료 (LOCKED OUT 등)
 ├── prompts/                     단계별 prompt (워크플로우 순)
-│   ├── step_0_1_idea_submission.md          아이디어 제출 (청사진 초안 input)
-│   ├── step_1_1_rough_blueprint.md          러프 청사진
-│   ├── step_2_1_pitch_deck.md               피칭덱
-│   ├── step_3_1_full_blueprint.md           완성 청사진
-│   ├── step_4_1_episode_writing.md          에피소드 집필
-│   ├── step_5_1_persona_review.md           페르소나 검토
-│   ├── step_6_1_revision.md                 패치
-│   ├── step_7_1_final_gate.md               최종고 게이트 (4-Gate)
-│   ├── step_8_1_synopsis_summary.md         한국어 줄거리 요약 (1,500자)
-│   ├── step_a_1_adaptation_blueprint.md     [부가 A] 각색 청사진
-│   ├── step_a_2_adaptation_script.md        [부가 A] 각색 스크립트
-│   ├── step_b_1_external_script_intake.md   [부가 B] 외부 대본 등재
+│   ├── phase_0_idea_submission.md          아이디어 제출 (청사진 초안 input)
+│   ├── phase_1_rough_blueprint.md          러프 청사진
+│   ├── phase_2_pitch_deck.md               피칭덱
+│   ├── phase_3_full_blueprint.md           완성 청사진
+│   ├── phase_4_episode_writing.md          에피소드 집필
+│   ├── phase_5_persona_review.md           페르소나 검토
+│   ├── phase_6_revision.md                 패치
+│   ├── phase_7_final_gate.md               최종고 게이트 (4-Gate)
+│   ├── phase_8_synopsis_summary.md         한국어 줄거리 요약 (1,500자)
+│   ├── phase_a_1_adaptation_blueprint.md     [부가 A] 각색 청사진
+│   ├── phase_a_2_adaptation_script.md        [부가 A] 각색 스크립트
+│   ├── phase_b_external_script_intake.md   [부가 B] 외부 대본 등재
 │   ├── status.md                            [도구] 진행 단계 자동 점검
 │   └── audit.md                             [도구] 시스템 정합성 검사 (룩 변형·환류·씬 수·소품·메모리)
 └── projects/                    각 작품 폴더 (넘버_타이틀 형식)
-    ├── 01_titan_born/
-    ├── 02_the_offering/
-    ├── 03_black_core/
-    ├── 04_heiress_clause/
-    ├── 05_last_key/
-    ├── 06_she_stole_my_face/
-    └── 07_every_monday_manhattan_dies/
+    ├── 01_titan_born/                          (완결 ✅)
+    ├── 02_the_offering/                        (premium_pilot 진행 중)
+    ├── 03_most_wanted_ship/                    (phase_2 완료)
+    ├── _X_04_heiress_clause/                   (폐기)
+    ├── 06_she_stole_my_face/                   (phase_3 완료)
+    └── 08_reborn_at_ten/                       (부가 A 각색, phase_2 완료)
 ```
 
 ---
@@ -64,35 +63,44 @@ scenario-automation/
 ### 메인 트랙 (신규 작품 — 아이디어 → 최종고)
 
 ```
-step_0_1 (아이디어 제출 · 4-8개 생성 · 사용자/AI 선택)
-  → step_1_1 (러프 청사진)
-    → step_2_1 (피칭덱)
+phase_0 (아이디어 제출 · 4-8개 생성 · 사용자/AI 선택)
+  → phase_1 (러프 청사진)
+    → phase_2 (피칭덱)
       → 03_pitch_outcome.md (사용자 작성 — 피칭 결과)
-        → step_3_1 (완성 청사진 + 04_visual_lock.md 동시 생성)
-          → step_4_1 (무료 EP1-8 집필) → step_5_1 ↔ step_6_1 → step_7_1 무료 4-Gate → FINAL_FREE.md
-            → step_4_1 (유료 EP9-N 집필) → step_5_1 ↔ step_6_1 → step_7_1 유료 4-Gate → FINAL_PAID.md
-              → 통합 최종고 (FINAL.md)
-                → step_8_1 (한국어 줄거리 요약 1,500자 — FINAL_synopsis_kr.md) ✅
+        → phase_3 (완성 청사진 + 04_visual_lock.md 동시 생성)
+          → 🚨 [무료 EP1-8] protocol_premium_pilot ← 필수 (phase_4·5·6·7 통째로 대체)
+              ├─ 19 sub-step (Reference Floor → N=4 Seed Pool → Multi-Axis Matrix
+              │   → Quoted Treasure → Voice Anchor → Merge Brief → Cut List
+              │   → Single-Author Rewrite → Scoped Passes → Blind Duel → Hybrid
+              │   → 9 페르소나 + Adversarial → Gap Regen → Final Pilot Gate
+              │   → Pilot Bible → Cold Read 검증)
+              └─ 산출물: FINAL_FREE.md + Pilot Bible
+          → [유료 EP9-N] phase_4 → phase_5 ↔ phase_6 → phase_7 → FINAL_PAID.md
+              (protocol Step 20-22가 band N · Polish · Coherence Gate 가이드 제공)
+            → 통합 최종고 (FINAL.md)
+              → phase_8 (한국어 줄거리 요약 1,500자 — FINAL_synopsis_kr.md) ✅
 ```
 
-**타깃 맞춤 (필수, 2026-05-11):** step_0_1부터 step_4_1까지 모든 단계가 동일 타깃에 정렬. 5차원 — 구조 설계·소재·미감·비주얼·결제 동기. 타깃별 방대 자료는 `config/target_research/` 참조 (북미 남성: `male_target_research.md` / 북미 여성: `female_target_research.md`).
+**무료회차 protocol 라우팅 (필수, 2026-05-13):** 무료회차 EP1-8 작업은 **`prompts/protocol_premium_pilot.md`로 자동 분기**. phase_4·5·6·7 단독 호출 금지. 각 phase prompt 상단에 라우팅 룰 등재됨. 유료회차 EP9+는 phase_4~7 그대로 사용 (protocol Step 20-22 가이드 적용).
 
-**필수 규칙 — 청사진 이후 자동 전 화수 진행:** step_3_1이 완성된 시점부터 step_4_1·step_5_1·step_6_1·step_7_1 사이클은 **작품 전 화수(예: 50화)에 대해 자동 순차 진행**이 기본. 사용자가 명시적으로 한정하지 않는 한 무료 구간만·일부 화만으로 임의 좁히지 말 것. 따라서 step_3_1 청사진은 전 화수의 화별 락(이 화의 주 기능 / 열리고 닫히는 정보 / 절단 방식 / 다음 화 훅)을 모두 포함해야 한다.
+**타깃 맞춤 (필수, 2026-05-11):** phase_0부터 phase_4까지 모든 단계가 동일 타깃에 정렬. 5차원 — 구조 설계·소재·미감·비주얼·결제 동기. 타깃별 방대 자료는 `config/target_research/` 참조 (북미 남성: `male_target_research.md` / 북미 여성: `female_target_research.md`).
+
+**필수 규칙 — 청사진 이후 자동 전 화수 진행:** phase_3이 완성된 시점부터 무료·유료 사이클은 **작품 전 화수(예: 50화)에 대해 자동 순차 진행**이 기본. 사용자가 명시적으로 한정하지 않는 한 무료 구간만·일부 화만으로 임의 좁히지 말 것. 따라서 phase_3 청사진은 전 화수의 화별 락(이 화의 주 기능 / 열리고 닫히는 정보 / 절단 방식 / 다음 화 훅)을 모두 포함해야 한다.
 
 ### 부가 트랙 A — 원작 각색
 ```
-step_a_1 (각색 청사진)
-  → step_2_1 (피칭덱 — 메인 트랙 prompt 그대로)
+phase_a_1 (각색 청사진)
+  → phase_2 (피칭덱 — 메인 트랙 prompt 그대로)
     → 03_pitch_outcome.md (사용자 작성 — 피칭 결과)
-      → step_a_1 재진입 (피칭 반영 수정 — 수정 사항 없으면 그대로 진행)
-        → step_a_2 (각색 스크립트 집필)
-          → 메인 트랙 검토 루프 (step_5_1 → step_6_1 → step_7_1)
+      → phase_a_1 재진입 (피칭 반영 수정 — 수정 사항 없으면 그대로 진행)
+        → phase_a_2 (각색 스크립트 집필)
+          → 메인 트랙 검토 루프 (phase_5 → phase_6 → phase_7)
 ```
 각색 청사진은 메인 트랙의 러프 청사진 역할을 겸한다 — 인물·트리트먼트·페이월·로그라인을 포함해 피칭덱 직접 입력값이 됨.
 
 ### 부가 트랙 B — 외부 AIGC 대본 검토
 ```
-step_b_1 (외부 대본 등재 + 1차 게이트) → 분기 (A/B/C) → 메인 트랙 검토 루프
+phase_b (외부 대본 등재 + 1차 게이트) → 분기 (A/B/C) → 메인 트랙 검토 루프
 ```
 
 ---
@@ -137,14 +145,14 @@ step_b_1 (외부 대본 등재 + 1차 게이트) → 분기 (A/B/C) → 메인 �
 **Sub-persona 분리 (필수, 2026-05-10):** 08·09는 각각 제너럴(A) + 니치(B) sub-persona로 분리. 작품 장르·소재 비중에 따라 두 sub-persona 모두 진단 참여 + 가중치 적용. 한쪽 시점 독점 X. 작품 카테고리별 비중 룰: `feedback_viewer_persona_general_niche.md` 참조.
 
 **시청자 페르소나 사용 단계 (필수, 2026-05-10):** 두 단계에서 사용.
-- **step_2_1 피칭덱 작성/검토:** 로그라인·인물 소개·줄거리·트리트먼트만 보고 5항목 진단.
-- **step_5_1 스크립트 검토:** 회차 EP 본문 6+항목 진단.
+- **phase_2 피칭덱 작성/검토:** 로그라인·인물 소개·줄거리·트리트먼트만 보고 5항목 진단.
+- **phase_5 스크립트 검토:** 회차 EP 본문 6+항목 진단.
 
 ### 타깃 자료 자동 참조 (필수, 2026-05-12)
 
-**저장만 X / 자동 정독 + 자동 참조 + 자동 활용.** 모든 step (0_1~5_1) 진입 시 작품 메타 → 타깃 확인 → 해당 성향 자료(`config/target_research/[성별]_target_research.md` + `platform_recent/`) 정독 → 작품 설계·피칭 근거·검수에 직접 반영.
+**저장만 X / 자동 정독 + 자동 참조 + 자동 활용.** 모든 phase (0~5) 진입 시 작품 메타 → 타깃 확인 → 해당 성향 자료(`config/target_research/[성별]_target_research.md` + `platform_recent/`) 정독 → 작품 설계·피칭 근거·검수에 직접 반영.
 
-상세 절차·단계별 체크리스트·필요 Section 매핑: 메모리 `feedback_target_data_dual_use.md` + 각 step prompt의 "실행 전 읽어야 할 파일".
+상세 절차·단계별 체크리스트·필요 Section 매핑: 메모리 `feedback_target_data_dual_use.md` + 각 phase prompt의 "실행 전 읽어야 할 파일".
 
 ### 작업 진행 자율성 (필수)
 
@@ -259,7 +267,7 @@ EP 파일과 통합 최종고는 **영어로만 기록.** 한국어 메타·foot
 - 새 작품 인물 이름 작성 시 **기존 진행 중인 모든 작품 이름·성씨와 충돌 검사**
 - 충돌 발견 시 신규 작품 측에서 양보
 - 비슷한 음운(LIVIA·LYRA·LENA)도 가급적 회피
-- step_1_1·step_3_1 진입 시 자동 점검
+- phase_1·phase_3 진입 시 자동 점검
 
 ### 피칭덱 작성 원칙 마스터 (필수, 2026-05-09 사용자 직접 작성)
 
@@ -320,26 +328,26 @@ EP 파일과 통합 최종고는 **영어로만 기록.** 한국어 메타·foot
 
 - 남성 시청자(08): **M-A ~ M-J** (압도 부재 / 남주 약화 / 여성 매력 부재 / 페이월 약함 등).
 - 여성 시청자(09): **F-A ~ F-L** (공개 지위 보상 부재 / 여주 수동 / 남주 변질 / 거리 표지 부재 등).
-- 코드별 1차 처방 영역 매핑은 step_6_1 prompt 참조.
+- 코드별 1차 처방 영역 매핑은 phase_6 prompt 참조.
 
 ### 검토 채택 필터 (필수)
 
-검토(step_5_1) 결과의 권장 패치는 step_6_1에서 **두 단계 필터**로 채택 판정.
+검토(phase_5) 결과의 권장 패치는 phase_6에서 **두 단계 필터**로 채택 판정.
 - **필터 1 (채택 필수):** 공간 논리 / 시간 논리 / 소품 위치 / 인과 논리 / 정합성 오류 / 언어 일원화 위반 — 무조건 수정.
 - **필터 2 (채택 거부):** 프로덕션 가이드 위반·작품 핵심 쾌감 약화·캐릭터 매력 약화·안전 밋밋 누적 처방 — 거부, 보류 항목에 사유 명시.
 - **판정 흐름:** 필터 1 매칭 → 즉시 채택 (필터 2 검사 X). 필터 1 미매칭 → 필터 2 검사. 의심 시 부분 채택 가능 ([Camera]만 분리, [Visual] 유지 등).
 
 ### 검토 공격성 프로토콜 (필수)
 
-페르소나 구성은 충분 — **검토 모드의 공격성·증거 요구·통과 기준이 약하면 통과가 쉬워진다.** 모든 step_5_1·step_7_1 검토에 다음 강제.
+페르소나 구성은 충분 — **검토 모드의 공격성·증거 요구·통과 기준이 약하면 통과가 쉬워진다.** 모든 phase_5·phase_7 검토에 다음 강제.
 
 1. **의심 지점 사전 스캔 5+건:** 검토 시작 시 의심 지점 5건 이상 먼저 스캔 후 검증.
 2. **모든 판정에 원문 FIND 인용 강제:** 등급(🔴/🟡/🟢) 또는 통과 판정 모두 EP/S#/블록/원문 인용 동반. 추상 평가(`"좋다"`, `"작동한다"`) 금지.
 3. **"검토했으나 유지" 1-3건 필수:** 의심해서 스캔했으나 검증 후 문제 아닌 것으로 판정한 지점을 별도 섹션에 기록 — "그냥 통과" 차단.
 4. **취향과 결함 분리:** 취향 개선은 🟢 또는 "검토했으나 유지", 실제 결함은 🔴/🟡. 둘을 섞지 말 것.
 5. **시청자 페르소나(08/09) "작동" 판정은 단독 통과 사유가 아님:** 05·07·04 중 최소 2명이 원문 근거로 재판정 후 통과.
-6. **최종 verdict 3-tier (step_7_1):** LOCK / PATCH THEN LOCK / HOLD. HOLD 잔존 시 4-Gate 진입 불가.
-7. **전체 재작성 제안 금지:** 최소 수정 단위만 제안. 재설계는 step_3_1 청사진 단계.
+6. **최종 verdict 3-tier (phase_7):** LOCK / PATCH THEN LOCK / HOLD. HOLD 잔존 시 4-Gate 진입 불가.
+7. **전체 재작성 제안 금지:** 최소 수정 단위만 제안. 재설계는 phase_3 청사진 단계.
 
 ### 검토 강도 시스템 — Verdict 4단계 + 자동 Trigger (필수)
 
@@ -370,7 +378,7 @@ EP 파일과 통합 최종고는 **영어로만 기록.** 한국어 메타·foot
 
 ### Reference 자동 등재
 
-`config/reference_scripts/INDEX.md`가 reference 파일들의 통합 인덱스. **사용자가 새 reference 파일을 폴더에 추가하면 AI가 자동으로 카테고리·메타 추출 후 INDEX에 한 줄 등재 + 보고.** 사용자는 INDEX 직접 편집 X. step_3_1·step_4_1 등 진입 시 INDEX를 통해 작품 메타와 매칭되는 reference 자동 선택.
+`config/reference_scripts/INDEX.md`가 reference 파일들의 통합 인덱스. **사용자가 새 reference 파일을 폴더에 추가하면 AI가 자동으로 카테고리·메타 추출 후 INDEX에 한 줄 등재 + 보고.** 사용자는 INDEX 직접 편집 X. phase_3·phase_4 등 진입 시 INDEX를 통해 작품 메타와 매칭되는 reference 자동 선택.
 
 ### 청사진 ↔ 스크립트 환류 원칙 (필수, 시스템 전반)
 
@@ -393,31 +401,35 @@ EP 파일과 통합 최종고는 **영어로만 기록.** 한국어 메타·foot
 
 ---
 
-## 현재 프로젝트 (2026년 5월 기준)
+## 현재 프로젝트 (2026-05-13 실측 갱신)
 
 | 폴더 | 작품 | 트랙 | 포맷 / 타깃 / 성향 | 진행 단계 |
 |---|---|---|---|---|
-| `01_titan_born` | TITAN BORN: The Bastard Demigod Who Brought Olympus to Its Knees | 메인 | AIGC 실사 가로형 / 북미 / 남성향 | step_2_1 완료 (피칭 결과 대기) |
-| `02_the_offering` | THE OFFERING: The Dragon Lord's Crowned Bride | 메인 | AIGC 실사 세로형 / 북미 / 여성향 | step_2_1 완료 (피칭 결과 대기) |
-| `03_black_core` | I AM THE EMPIRE: They Erased Me. Their Fleet Obeys Me. | 메인 | AIGC 애니 3D 가로형 / 북미 / 남성향 | step_2_1 완료 (피칭 결과 대기) |
-| `04_heiress_clause` | I AM THE HEIR: My Cheating Husband's Fortune Is Mine Now | 메인 | AIGC 실사 세로형 / 북미 / 여성향 | step_2_1 완료 (피칭 결과 대기) |
-| `05_last_key` | THE LAST KEY: They Sealed Me. So I Sealed Them. | 메인 | AIGC 애니 3D 가로형 / 북미 / 여성향 | step_2_1 완료 (피칭 결과 대기) |
-| `06_she_stole_my_face` | SHE STOLE MY FACE | 메인 | AIGC 실사 세로형 / 북미 / 여성향 | step_2_1 완료 (피칭 결과 대기) |
-| `07_every_monday_manhattan_dies` | EVERY MONDAY, MANHATTAN DIES | 메인 | AIGC 실사 세로형 / 북미 / 남성향 | step_2_1 완료 (피칭 결과 대기) |
-| `08_reborn_at_ten` | THE GENIUS BABY: Mom, I'm Home — And I Know the Future. | 부가 A (각색) | AIGC 애니 2.5D 세로형 / 북미 / 남성향 (모자 정서 동반) | step_2_1 완료 (피칭 결과 대기) |
+| `01_titan_born` | TITAN BORN: They Made Me a Beast. I'll Make Them Bow. | 메인 | AIGC 실사 가로형 / 북미 / 남성향 | **완결 ✅** (50화 4-Gate 통과 / 2026-05-08) |
+| `02_the_offering` | THE OFFERING: The Dragon Lord's Crowned Bride | 메인 | AIGC 실사 세로형 (9:16) / 북미 / 여성향 / 초고수위 | phase_3 완료 + 무료 5 버전 EP1-8 (version_a~e) / **Premium Pilot Protocol v5.1 진행 중** (2026-05-13~) |
+| `03_most_wanted_ship` | I BOUGHT THE GALAXY'S MOST WANTED SHIP | 메인 | AIGC / 북미 / 남성향 (스페이스 오페라·소프트 하렘) | phase_2 완료 (피칭 결과 대기) — *03 슬롯은 옛 03_black_core 컨셉 폐기 후 재사용* |
+| `_X_04_heiress_clause` | I AM THE HEIR (폐기) | — | — | **폐기** (2026-05-12 / 자동 차단 대상, `feedback_deprecated_projects.md` 참조) |
+| `06_she_stole_my_face` | SHE STOLE MY FACE | 메인 (Zero to One) | AIGC 실사 세로형 (9:16) / 북미 / 여성향 | phase_3 완료 (피칭 결과 + phase_4 대기) |
+| `08_reborn_at_ten` | REBORN AT TEN: My Stepfather Buried My Mother. I'll Bury His Empire. | 부가 A (각색) | AIGC 애니 2.5D 세로형 / 북미 / 남성향 25-45 | phase_2 완료 (피칭 결과 대기) — 원작: `config/reference_scripts/script_genius_baby_original.md` |
 
-각 작품 진행 상황은 해당 폴더의 `[작품명]_00_meta.md` 에 갱신됨.
+**예약·미생성 슬롯 (CLAUDE.md 옛 계획):**
+- `05_last_key` (THE LAST KEY) — **폴더 미생성**. 옛 계획 잔존.
+- `07_every_monday_manhattan_dies` (EVERY MONDAY, MANHATTAN DIES) — **폴더 미생성**. 옛 계획 잔존.
+
+→ 새 작품 시작 시 다음 가용 번호: **09** (04 영구 비움 / 05·07은 미생성 슬롯 — 재사용 가능하나 옛 계획 컨셉 회피 권장).
+
+각 작품 상세 진행 상황은 해당 폴더의 `[작품명]_00_meta.md` 에 갱신됨.
 
 ---
 
 ## 작업 시작 시 (Claude Code 첫 진입)
 
 1. **사용자에게 어떤 작업을 원하는지 확인:**
-   - 신규 작품 시작 → `prompts/step_0_1_idea_submission.md` (아이디어 풀 4-8개 → 선택 → step_1_1로 연결)
-   - 청사진 초안 직행 (아이디어 확정된 경우) → `prompts/step_1_1_rough_blueprint.md`
-   - 원작 각색 → `prompts/step_a_1_adaptation_blueprint.md`
-   - 외부 대본 검토 → `prompts/step_b_1_external_script_intake.md`
-   - 기존 작품 후속 작업 → 해당 작품 `[작품명]_00_meta.md` 확인 후 다음 단계 prompt 호출
+   - 신규 작품 시작 → `prompts/phase_0_idea_submission.md` (아이디어 풀 4-8개 → 선택 → phase_1로 연결)
+   - 청사진 초안 직행 (아이디어 확정된 경우) → `prompts/phase_1_rough_blueprint.md`
+   - 원작 각색 → `prompts/phase_a_1_adaptation_blueprint.md`
+   - 외부 대본 검토 → `prompts/phase_b_external_script_intake.md`
+   - 기존 작품 후속 작업 → 해당 작품 `[작품명]_00_meta.md` 확인 후 다음 phase prompt 호출
 
 2. **각 prompt는 "실행 전 읽어야 할 파일"을 명시함** — 모두 읽고 진입.
 
@@ -428,23 +440,23 @@ EP 파일과 통합 최종고는 **영어로만 기록.** 한국어 메타·foot
 ## 자주 쓰는 작업 패턴
 
 ### 새 작품 시작
-1. `step_0_1_idea_submission.md` 호출 → 사용자에게 타깃·플랫폼·포맷 입력값 요청 → 아이디어 4-8개 생성·제출 → 사용자 또는 AI 선택
+1. `phase_0_idea_submission.md` 호출 → 사용자에게 타깃·플랫폼·포맷 입력값 요청 → 아이디어 4-8개 생성·제출 → 사용자 또는 AI 선택
 2. 선택된 아이디어 기준 → `projects/[다음 번호]_[작품 슬러그]/` 폴더 생성 (예: `09_new_work`)
 3. `[작품명]_00_idea_pool.md` + `[작품명]_00_meta.md` 저장
-4. `step_1_1_rough_blueprint.md` 호출 → 러프 청사진 작성
+4. `phase_1_rough_blueprint.md` 호출 → 러프 청사진 작성
 
 ### 작품 진행 상황 확인
 - `projects/[작품명]/[작품명]_00_meta.md` 읽기
 
 ### 페르소나 검토
-- `prompts/step_5_1_persona_review.md` 호출 + 페르소나 번호 (01~07) 또는 "전체 순차" 지정
+- `prompts/phase_5_persona_review.md` 호출 + 페르소나 번호 (01~07) 또는 "전체 순차" 지정
 
 ### 패치 (수정)
-- `prompts/step_6_1_revision.md` 호출 + 라운드 번호 + 검토 보고서 위치 지정
+- `prompts/phase_6_revision.md` 호출 + 라운드 번호 + 검토 보고서 위치 지정
 - 라운드 5회 한계 (Section 22)
 
 ### 최종고 확정
-- `prompts/step_7_1_final_gate.md` 호출 → 4-Gate 평가 → 통과 시 `07_final/[작품명]_ep[N].md`로 복사
+- `prompts/phase_7_final_gate.md` 호출 → 4-Gate 평가 → 통과 시 `07_final/[작품명]_ep[N].md`로 복사
 
 ---
 

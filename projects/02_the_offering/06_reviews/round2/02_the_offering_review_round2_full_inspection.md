@@ -333,4 +333,4 @@ EP1 signet 비트 추가 (Round 1 패치) → 다른 EP 영향:
 - ripple 부정 영향 0건.
 
 ## 다음 단계
-**step_7_1 (4-Gate)** → 4-Gate 통과 시 `07_final/02_the_offering_FINAL_FREE.md` 단일 통합 MD 생성.
+**phase_7 (4-Gate)** → 4-Gate 통과 시 `07_final/02_the_offering_FINAL_FREE.md` 단일 통합 MD 생성.

@@ -1,6 +1,6 @@
 # THE OFFERING — Version D / 4-Gate 평가 (EP01-08 무료 구간)
 
-> step_7_1 / Structure / Narrative / Script / Production
+> phase_7 / Structure / Narrative / Script / Production
 > Round 1·2 페르소나 전수검사 완료 → 4-Gate 평가
 
 ## 자동 검출

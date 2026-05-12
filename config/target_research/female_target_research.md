@@ -1,6 +1,6 @@
 # 북미 여성 시청자 — paid vertical drama + 출판 카테고리 로맨스 자료
 
-> **사용 단계:** step_0_1 (아이디어) · step_1_1 (러프 청사진) · step_2_1 (피칭덱) · step_3_1 (완성 청사진) · step_4_1 (스크립트 집필) · step_5_1 (검토)
+> **사용 단계:** phase_0 (아이디어) · phase_1 (러프 청사진) · phase_2 (피칭덱) · phase_3 (완성 청사진) · phase_4 (스크립트 집필) · phase_5 (검토)
 > **참조 메모리:** `feedback_female_target_research_data.md` (트리거·자가 검증)
 > **참조 페르소나:** `config/personas/persona_09_female_viewer_diagnostic.md`
 

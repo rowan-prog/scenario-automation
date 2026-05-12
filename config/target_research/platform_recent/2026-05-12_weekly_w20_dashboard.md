@@ -159,7 +159,7 @@
 
 1. **직접 적용 X.** 8 컨셉 아이디어는 시스템 진행 중 7개 작품에 매핑·복사·차용 금지.
 2. **기존 작품 검토 시 참고.** 02 OFFERING (Werewolf/Luna 정합) · 04 HEIR (Accidental Secret Delivery 변형) · 03 BLACK CORE (Sports Comeback / Empire-building 변형) 검토 시 본 자료 트로프 매핑 참조.
-3. **신규 작품 step_0_1 진입 시.** All-Too-Late Regret · Post-apocalyptic System Empire-building · Sports Comeback God-tier 등 본 주간 신호를 후보 풀에 포함 검토.
+3. **신규 작품 phase_0 진입 시.** All-Too-Late Regret · Post-apocalyptic System Empire-building · Sports Comeback God-tier 등 본 주간 신호를 후보 풀에 포함 검토.
 4. **수치 출처.** 21 타이틀 view·like·rating 수치는 피칭덱 시장성 근거로 사용 가능 ([[feedback_pitch_master]] 의 "근거 후 결론" 룰).
 5. **인사이트 메모리 갱신.** 기존 [[feedback_paid_vertical_platform_signals]] 와 [[feedback_dark_romantasy_engine]] 의 핵심 공식과 정합 — 별도 신규 메모리 생성 X. 본 파일 자체가 보조 레퍼런스.
 
