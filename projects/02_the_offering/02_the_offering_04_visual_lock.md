@@ -76,6 +76,21 @@
 - **모든 변형의 여주 의상에 흰·진주·실버 디테일 유지** (창녀 톤 X / 신부·공주 톤 O)
 - 레퍼런스: ACOTAR (Feyre)·Fourth Wing (Violet)·Crimson Peak (Edith)·Demon Lord's Marked Bride
 
+#### Sensual / 변태 비트 표지 (EP1-8, v5 신규)
+
+> 본질 = 캐릭터 어셋 일관 유지 + sensual 표지는 EP별 누적 reveal로만 표시. 어셋 자체 변경 X. AIGC 표현 룰 (`feedback_aigc_explicit_action_over_subtle.md`) 강제.
+
+| 표지 | 시작 EP | 누적 | 어셋 영향 |
+|---|---|---|---|
+| 손목 안쪽 비늘 빛 자국 | EP1 첫 깜빡임 | EP6+ 영구 / EP10 강화 / EP50 황금 문양 | 손목 어셋 일관 / 자국은 누적 reveal |
+| 목 옆 잇자국 (베일이 남김) | EP3 첫 (한 줄) | EP5 둘째 / EP6+ 노출 / EP8 사절단 앞 공개 | 목 옆 어셋 일관 / 잇자국은 EP별 reveal |
+| 드레스 어깨 끈 풀림 / 흘러내림 | EP3 단일 reveal | 한 회차만 | EP3 직접 묘사 / 이후 회차 복구 |
+| 머리채 흐트러짐 / 베일 손에 잡힘 | EP2 첫 접촉 / EP6 첫 공개 | EP7 무릎 위 / EP8 사절단 앞 | 헤어 어셋 일관 / 흐트러짐은 sensual 씬 reveal |
+| 입술 부어오름 / 입술 끝 자국 | EP3 첫 | EP5·EP6·EP7 누적 | 입술 어셋 일관 / 자국은 누적 |
+| 쇄골·맥박 위 비늘 손 자국 | EP3 / EP5 | 누적 | 피부 어셋 일관 / 자국 reveal |
+
+**핵심 룰:** 잇자국·머리채·자국·끈 풀림은 **구체 행동·상황·접촉의 결과**로 화면에 보이게. 미묘함·은밀한 분위기·시선만으로의 표현 X. 북미 paid vertical 기준 (`feedback_north_american_explicit_standard.md`).
+
 #### 금지 사항
 - 매달림·울음·자기 연민 시각 X
 - 헤어·눈 색 변경 절대 X (윤기 진갈색·회녹색 = Hard Lock)
@@ -102,6 +117,21 @@
 - **EP49-50 즉위 의식 시 의식 의상** — 단일 reveal 씬 한정
 
 → Dragon Lord 정체성 유지 (King 격상 X·작품 정체성 = Dragon Lord). 의식 씬에서만 의식 의상 변형.
+
+#### Sensual / 변태 행동 모션 (EP1-8, v5 신규)
+
+| 행동 | EP | AIGC 모션 키 |
+|---|---|---|
+| 비늘 손이 이솔데 손목 안쪽 들어올림 / 맥박 위 손가락 | EP1 | 손등 비늘 + 손 모션 |
+| 비늘 손가락이 의자 팔걸이 두 드림 / 이솔데 허리·머리채에 손 | EP2 | 비늘 손 / 머리채 접촉 |
+| 머리채 잡아 끌어당김 / 벽으로 밀어붙임 / 목 옆·턱 / 드레스 어깨 끈 내림 / 쇄골·맥박 / 손목 빛 위 입맞춤 / 잇자국 남김 | EP3 | 강한 행동·입술 모션 |
+| 화염 손이 손목 자국 위 화염 따라 그림 | EP4 | 화염 손바닥 |
+| 손목 낚아채 가슴 쪽 / 턱 들어올림 / 입술 대신 귓불·목·맥박에 입 / 잇자국 둘째 | EP5 | 키스 모션 (입술 X) |
+| 손등 입맞춤 / 손목 빛 자국 입술로 따라감 / 머리채 끝에 손가락 | EP6 | 공개 마킹 모션 |
+| 무릎 위로 끌어당김 / 허리·머리채 손 / 목 옆 잇자국 자리 닿음 | EP7 | 자세 강제 모션 |
+| 사절단 앞 허리 끌어올림 / 머리채 잡아 기울임 / 목 옆 마킹 자리 손 / 입술이 닿을 거리 | EP8 | 공개 마킹 / 신부 선언 미완성 |
+
+**원칙:** 표현은 구체 행동·접촉·물건·자세. 미묘함·시선·은밀한 분위기 X (`feedback_aigc_explicit_action_over_subtle.md`).
 
 #### 금지 사항
 - 갑자기 달콤한 말·자기 변명·약함 발화 시각 X
@@ -164,3 +194,10 @@
   - 변형 3·4: 흰·진주 디테일 유지 (순수 표지 일관)
   - 의상 톤 가이드 표 강화 (시각 대비 + 정서 대비)
   - 검증 사례: ACOTAR (Feyre)·Fourth Wing (Violet)·Crimson Peak (Edith)·Demon Lord's·Twilight·Beauty and the Beast
+- **2026-05-12 v5 (초고수위·sensual 비트 표지 등재):**
+  - 사용자 명시: "OFFERING은 초고수위·매우 변태적·북미 paid vertical 기준. AIGC 통제 = 미묘함·눈빛 X / 구체 행동·상황 O. 한국어 = 협업 언어, 작품 판단 X."
+  - **이솔데 sub-section "Sensual / 변태 비트 표지"** 추가 (잇자국·머리채·드레스 끈·손목 빛·입술·쇄골 자국)
+  - **베일 sub-section "Sensual / 변태 행동 모션"** 추가 (EP1-8 구체 행동 모션 키)
+  - 본질: 캐릭터 어셋 일관 유지 + sensual 표지는 EP별 누적 reveal로만 표시
+  - 변형 1·2의 이솔데 순수 톤 (흰·진주·실버 디테일) = 그대로 유지 + sensual 표지는 어셋과 독립
+  - 적용 메모리: `feedback_aigc_explicit_action_over_subtle.md`·`feedback_north_american_explicit_standard.md`·`feedback_north_american_judgment_baseline.md`·`project_offering_high_explicit_direction.md`

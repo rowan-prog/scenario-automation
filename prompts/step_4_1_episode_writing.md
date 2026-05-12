@@ -305,6 +305,104 @@ EP 본문만이 영어 일원화 대상.
 
 (KAEL 신분·각성 reveal = 중요 변화 = 통합 묘사 + 비주얼 락 등재)
 
+## 첫 등장 외형 묘사 룰 (필수, 2026-05-12 보완)
+
+> **대본에 첫 등장하는 모든 인물·괴물·동물은 [Visual] 지문에 외형 묘사 필수.**
+> **단, 주연급·메인 빌런급이 아니면 디테일 X — 매우 짧고 명료하게 간단히만.**
+
+### 대상
+- **인물:** 단역 NPC·정보원·시녀·경비·하인·군중 속 개인·시댁 사람 등
+- **괴물:** 일회성 적·소환 짐승·이름 없는 크리처
+- **동물:** 말·늑대·새 등 화면에 등장하는 모든 생명체
+
+### 적용 강도
+
+| 카테고리 | 첫 등장 [Visual] 묘사 | 비주얼 락 등재 |
+|---|---|---|
+| **주연급·메인 빌런급** | 디테일 통합 묘사 (위 reveal 씬 룰 적용) | O |
+| **조연급 (락 등재)** | 중간 — 인상·체형·핵심 의상 1-2 요소 | O (러프) |
+| **비락 보조·엑스트라** | **짧고 명료 — 1줄·5-10 단어** | X |
+| **일회성 괴물·동물** | **짧고 명료 — 종·크기·색·핵심 특징 1-2개** | X |
+
+### 짧고 명료한 묘사 예시
+
+**인물 (비락):**
+- `A gaunt courier in muddy boots, hood pulled low.`
+- `A bald guard in palace livery.`
+- `A thin maid with a chipped tray.`
+- `Two horsemen in black leather, faces wrapped.`
+
+**괴물·동물:**
+- `A black-furred wolf, one ear notched.`
+- `A grey warhorse with iron-shod hooves.`
+- `A pale lizard the size of a man, scales wet.`
+- `Three crows circling overhead.`
+
+### 금지
+
+- **디테일 욕심 X** — 비락 캐릭터에 색·실루엣·재질·자수·표정·과거 등 길게 풀어쓰지 말 것
+- **묘사 누락 X** — 화면에 보이는데 [Visual]에 없으면 AIGC 생성 시 임의 처리 → 톤·정합성 깨짐
+- **회차 간 락 부담 X** — 한 번 등장하고 사라질 인물에 락 X / 다시 등장할 인물이면 비주얼 락에 러프 등재 환류
+
+### 검토 trigger
+
+step_5_1 검토 시 02·06 페르소나가 첫 등장 묘사 누락 발견 시 자동 🟡 등재.
+
+## 첫 등장 이후 — 반복 묘사 금지 / 사건 기능 있는 변화만 (필수, 2026-05-12 보완)
+
+> **첫 등장 후 동일 인물·괴물·동물의 외형 반복 묘사 금지.**
+> **[Visual] 지문에는 사건 기능이 있는 변화만 기재한다.**
+
+### 반복 묘사 금지 (기본)
+
+- 같은 의상·같은 헤어·같은 신체 = 다시 적지 말 것
+- "여전히 [...] 차림" / "Still in [...]" 류 반복 확인 X
+- 외형은 비주얼 락 어셋 + 첫 등장 묘사로 고정됨
+
+### 예외 — 사건 기능 있는 변화만 [Visual]에 기재
+
+**사건 기능 = 외형 변화가 이 씬의 사건·정보·관계·주도권·감정·상황 갱신과 연결될 때.**
+
+| 사건 기능 변화 | 기재 사유 |
+|---|---|
+| 권능·각성 표지 (눈 색·문양 발광·갑주 발현) | 각성 사건 = 정보 갱신 |
+| 상해·전투 흔적 (찢긴 옷·이마 피·손목 자국) | 갈등 결과 = 상태 갱신 |
+| 신분·정체 변경 룩 (왕좌 등극·갑주 첫 착용·가면 벗음) | 정체 reveal = 정보 갱신 |
+| 공개 마킹·소유 표지 (목·손목 자국·반지·문장) | 관계 갱신 |
+| 타락·변질·죽음 표지 (창백함·핏기·검은 정맥) | 상태 갱신 |
+| 의상 단계 진화 (얌전 → 과감 → 권력자) | 캐릭터 톤 변화 = 사건 |
+| 무기·소품 획득·상실 | 사건·주도권 갱신 |
+
+→ [Visual]에 묘사 + 비주얼 락 환류 등재 (다음 회차 일관성용).
+
+### 금지 (사건 기능 없음 = 묘사 X)
+
+- 일상 옷 갈아입기 (날짜·상황 변경) — 묘사 X
+- 사소한 액세서리 추가·제거 (정체성 X) — 묘사 X
+- 부분 변화 (먼지·일상 피로) — 사건 결과 아니면 묘사 X
+
+### 예시
+
+**EP1 첫 등장 (묘사 O):**
+> [Visual] LIVIA stands at the temple gate in a **white silk robe, a silver pendant at her throat, her dark hair loose past her shoulders.**
+
+**EP3 일상 씬 (묘사 X — 반복 금지):**
+> [Visual] LIVIA enters the dining hall. She sets the letter on the table. ADRIAN watches.
+
+**EP7 사건 기능 변화 (묘사 O):**
+> [Visual] LIVIA steps into the throne room. **The silver pendant is gone. A black iron collar marks her throat — the dragon's seal.** Her hands are bound at the wrist.
+
+(목걸이 사라짐·검은 철 칼라 = 공개 마킹·소유 표지 = 사건 기능 → 묘사 + 비주얼 락 환류)
+
+### 자가 검증
+
+동일 인물 재등장 시 외형 변화 있으면 자문:
+- 이 변화가 이 씬의 사건·정보·관계·주도권·감정·상황 갱신과 직접 연결되는가? → Yes면 [Visual]에 기재 + 비주얼 락 환류 / No면 묘사 X
+
+### 검토 trigger
+
+step_5_1 검토 시 02·06 페르소나가 반복 외형 묘사 발견 시 자동 🟡 (정리 권고).
+
 ## 저장 위치
 projects/[작품명]/05_episodes/[작품명]_ep[번호].md
 예: projects/01_titan_born/05_episodes/01_titan_born_ep03.md
