@@ -40,7 +40,8 @@ scenario-automation/
 │   ├── step_4_1_episode_writing.md          에피소드 집필
 │   ├── step_5_1_persona_review.md           페르소나 검토
 │   ├── step_6_1_revision.md                 패치
-│   ├── step_7_1_final_gate.md               최종고 게이트
+│   ├── step_7_1_final_gate.md               최종고 게이트 (4-Gate)
+│   ├── step_8_1_synopsis_summary.md         한국어 줄거리 요약 (1,500자)
 │   ├── step_a_1_adaptation_blueprint.md     [부가 A] 각색 청사진
 │   ├── step_a_2_adaptation_script.md        [부가 A] 각색 스크립트
 │   ├── step_b_1_external_script_intake.md   [부가 B] 외부 대본 등재
@@ -67,11 +68,11 @@ step_0_1 (아이디어 제출 · 4-8개 생성 · 사용자/AI 선택)
   → step_1_1 (러프 청사진)
     → step_2_1 (피칭덱)
       → 03_pitch_outcome.md (사용자 작성 — 피칭 결과)
-        → step_3_1 (완성 청사진 · 전 화수 화별 락 필수)
-          → step_4_1 (에피소드 집필 · 기본 단위 = 전 화수 자동)
-            → step_5_1 (페르소나 검토) ↔ step_6_1 (패치)  [라운드 5회 한계]
-              → step_7_1 (최종고 게이트 4-Gate)
-                → 07_final/ ✅
+        → step_3_1 (완성 청사진 + 04_visual_lock.md 동시 생성)
+          → step_4_1 (무료 EP1-8 집필) → step_5_1 ↔ step_6_1 → step_7_1 무료 4-Gate → FINAL_FREE.md
+            → step_4_1 (유료 EP9-N 집필) → step_5_1 ↔ step_6_1 → step_7_1 유료 4-Gate → FINAL_PAID.md
+              → 통합 최종고 (FINAL.md)
+                → step_8_1 (한국어 줄거리 요약 1,500자 — FINAL_synopsis_kr.md) ✅
 ```
 
 **타깃 맞춤 (필수, 2026-05-11):** step_0_1부터 step_4_1까지 모든 단계가 동일 타깃에 정렬. 5차원 — 구조 설계·소재·미감·비주얼·결제 동기. 타깃별 방대 자료는 `config/target_research/` 참조 (북미 남성: `male_target_research.md` / 북미 여성: `female_target_research.md`).

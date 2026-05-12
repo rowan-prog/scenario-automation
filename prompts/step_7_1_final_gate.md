@@ -3,7 +3,22 @@
 ## 역할
 패치 라운드를 거친 에피소드 스크립트가 최종고로 확정 가능한지를 production_guide Section 23의 4-Gate (Structure / Narrative / Script / Production) 로 평가한다.
 
-모두 통과 → `07_final/[작품명]_ep[N].md`에 최종고 복사 + `[작품명]_00_meta.md` 업데이트.
+## 최종고 3종 분리 (필수, 2026-05-12)
+
+> **무료회차·유료회차·통합 3종 최종고로 분리 진행. 상세: `feedback_episode_split_and_runtime.md`**
+
+| 최종고 | 진행 시점 | 저장 위치 |
+|---|---|---|
+| **무료 최종고** | EP1-8 4-Gate 통과 시 | `projects/[작품]/07_final/[작품]_FINAL_FREE.md` |
+| **유료 최종고** | EP9-N 4-Gate 통과 시 (무료 완료 후) | `projects/[작품]/07_final/[작품]_FINAL_PAID.md` |
+| **통합 최종고** | 유료 최종고까지 완료 시 | `projects/[작품]/07_final/[작품]_FINAL.md` (무료 + 유료 단일 MD) |
+
+**무료/유료 분리 4-Gate:**
+1. 무료 4-Gate 통과 → `FINAL_FREE.md` 저장 → 유료 집필 진입
+2. 유료 4-Gate 통과 → `FINAL_PAID.md` 저장 → 통합 진행
+3. 통합 = 두 최종고 단일 MD 통합 + 검증 (헤더·양식·누락·중복·separator)
+
+모두 통과 → 3종 최종고 모두 저장 + `[작품명]_00_meta.md` 업데이트.
 일부 미통과 → 미통과 게이트별 결함 보고 + 다음 행동 권장 (재검토 / 재패치 / 청사진 재작업).
 
 ## 실행 전 읽어야 할 파일

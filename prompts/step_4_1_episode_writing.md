@@ -53,14 +53,26 @@
 
 **※ 위 입력값은 step_3_1 완성 청사진의 "전체 스토리 아크 — 화별 락"에서 직접 도출된다.** 사용자가 별도 지시하지 않으면 청사진의 화별 락을 그대로 사용한다.
 
-## 기본 작업 단위 — 전 화수 자동 진행
+## 기본 작업 단위 — 무료/유료 분리 진행 (2026-05-12 정정)
 
-step_3_1 청사진이 완성된 시점부터 step_4_1 집필은 **작품 전 화수(예: 50화)에 대해 EP1부터 자동 순차 진행**이 기본 규칙이다.
+step_3_1 청사진이 완성된 시점부터 step_4_1 집필은 **무료회차·유료회차 분리 자동 순차 진행**:
 
-- 사용자가 명시적으로 "EP1-6만" 또는 "EP10까지만" 등 한정한 경우에만 그 범위로 작업.
-- 그 외에는 무료 구간 한정·일부 화 한정으로 임의 좁히지 말 것.
-- 출력 분량이 한 세션에 안 들어가는 경우 다수 세션에 걸쳐 진행. 그 자체를 "범위 축소" 사유로 쓰지 말 것.
-- step_5_1·step_6_1·step_7_1 사이클도 동일 — 작품당 전 화수가 기본 단위.
+### 진행 순서
+1. **무료회차 (EP1-8)** 자동 집필 → step_5_1·step_6_1 사이클 → step_7_1 무료 4-Gate → **무료 최종고**
+2. **유료회차 (EP9-N)** 자동 집필 → step_5_1·step_6_1 사이클 → step_7_1 유료 4-Gate → **유료 최종고**
+3. **통합 최종고** = 무료 + 유료 단일 MD 통합
+
+### 룰
+- 사용자가 명시적으로 한정한 경우에만 그 범위로 작업
+- 그 외에는 일부 화 한정으로 임의 좁히지 말 것
+- 출력 분량이 한 세션에 안 들어가는 경우 다수 세션에 걸쳐 진행
+- step_5_1·step_6_1·step_7_1 사이클도 동일 — **무료/유료 분리 단위**가 기본
+- 상세: 메모리 `feedback_episode_split_and_runtime.md`
+
+### 분량 기준
+- **총 러닝타임 70-120분 / 권장 90분 부근**
+- 작품 스케일·로그라인·타깃·캐릭터 수·갈등·장르에 따라 가변
+- 레퍼런스: Demon Lord's Marked Bride 75분·50화 (EP당 약 1.5분) / LOCKED OUT 115분·58화 (EP당 약 2분)
 
 ## 스크립트 포맷 (LOCKED OUT 표준 — 필수 4 블록)
 
@@ -252,28 +264,46 @@ EP 본문만이 영어 일원화 대상.
 - 직전 씬과 시간·위치 연속 시 적극 사용.
 - `S#2 — WEST LINE / ROADBLOCK / CONTINUOUS` 식.
 
-## AIGC 의상·헤어 변경 — 첫 등장 묘사 (필수)
+## [Visual] 지문 의상·룩 명시 룰 (필수, 2026-05-12 정정)
 
-캐릭터의 의상·헤어가 이전 화 대비 변경된 채 등장하면 (주인공의 단계 진화·여성 캐릭터의 새 룩·특수 상황의 강제 변경 포함), **그 회차 첫 등장 시점에 Visual 지문에 직접 묘사**한다.
+> **비주얼 락의 진짜 목적 = 캐릭터 어셋 생성 고정 (AIGC용).**
+> **[Visual] 지문에 의상·룩 디테일 직접 명시는 대부분 X.** 제작자·연출가가 비주얼 락 어셋 + 대본 보고 상황에 맞게 알아서 AIGC 생성.
 
-**묘사 대상 (필수 포함):**
-- 색 (대표 색 + 보조 색).
-- 소재 (천 / 갑주 / 비단 / 가죽 등).
-- 실루엣 / 라인 / 길이 / 밀착도.
-- 핵심 디테일 (어깨 사슬 자국·헤어 컷·장신구·문양 등).
+### 대부분의 씬 — 의상·룩 디테일 [Visual]에 X
+- 일상 의상 변경 (실사 드라마 현대물 자주 발생) = 묘사 X
+- 부분 변화 (옷 찢어짐·머리 흐트러짐·먼지 묻음) = 묘사 X
+- 사소한 액세서리·소품 변경 = 묘사 X
+- [Visual]은 **사건·동작·시각 정보·인물·동선·소품·표정·시간·장소**에 집중
 
-**묘사 일치 의무:**
-새 룩의 묘사는 청사진 12-7의 **룩 변형 락**의 텍스트와 일치해야 한다. 청사진에 미등재된 룩으로 변경하면 정합성 위반 — step_3_1로 돌아가 룩 변형 락을 갱신한 뒤 집필.
+### 예외 — [Visual] 지문에 의상 변화 통합 묘사 + 비주얼 락 등재
 
-**예시 (TITAN BORN EP15 KAEL의 청동 흉갑 첫 등장):**
-> [Visual] KAEL stands at the edge of the Hera shrine. He is no longer in pit rags. **Bronze chestplate, polished — half-circular shoulder guards, a black wool cloak draped from one shoulder, the chain marks on his shoulders still visible above the bronze rim.** The Hera diadem, taken from LYRA, is bound to his bronze sword's hilt with a strip of blue silk.
+**의상 변화가 스토리상 매우 중요한 씬만:**
+- 무도회·reveal scene (신분·정체 공개)
+- 얌전한 옷 → 과감한 옷 (캐릭터 톤 변화)
+- 자신의 신분·지위 증명 (왕좌 등극·갑주 첫 등장 등)
+- 권능·각성 표지 변화 (황금 갑주·드래곤 갑주 등)
 
-(이 묘사는 청사진 12-7의 KAEL 룩 변형 락 EP15 항목과 정확히 일치해야 함.)
+→ 이런 예외 씬: [Visual] 지문에 통합 묘사 + 색·소재·실루엣·핵심 디테일 명시.
 
-**AIGC 정합성 의의:**
-이 묘사가 없으면 다음 화 AIGC 생성 시 캐릭터 일관성이 깨진다 (모델이 어떤 룩을 그릴지 알 수 없음). AIGC 실사 드라마는 의상·헤어 변경 빈도가 높아 특히 중요. AIGC 애니메이션은 단일 룩 운용이 일반적이지만 단계 진화·회차 점프 시 동일 적용.
+### 비주얼 락 환류
 
-**변경되지 않은 회차에서는 묘사 반복 안 함** — 이전 화 룩 그대로 유지 시 비주얼 지문에서 의상·헤어 재묘사 생략 (간결성).
+위 예외 씬에서 비주얼 락에 미등재된 변화 발견 시 → 비주얼 락에 EP·캐릭터·의상 변화 명시 (새 단계 등재).
+
+### 레퍼런스 — Demon Lord's Marked Bride 참조
+
+의상 묘사 절제·중요 변화만 [Visual]에 통합. 참조: `config/reference_scripts/script_Demon_Lord's_Marked_Bride.md` (첫 1-2 씬만).
+
+### 예시 (올바른 적용)
+
+**일상 씬 (의상 묘사 X):**
+> [Visual] LIVIA stands at the dining table. Her hand rests on the inheritance papers. The room is silent. ADRIAN watches from the doorway.
+
+(레나 의상 묘사 X — 비주얼 락이 캐릭터 어셋 고정·제작자가 상황에 맞게 처리)
+
+**중요 reveal 씬 (의상 통합 묘사):**
+> [Visual] KAEL steps onto the temple floor in **bronze chestplate, polished — half-circular shoulder guards, a black wool cloak draped from one shoulder, the chain marks on his shoulders still visible above the bronze rim.** The Hera diadem hangs from his sword hilt.
+
+(KAEL 신분·각성 reveal = 중요 변화 = 통합 묘사 + 비주얼 락 등재)
 
 ## 저장 위치
 projects/[작품명]/05_episodes/[작품명]_ep[번호].md
