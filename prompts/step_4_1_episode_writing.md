@@ -12,11 +12,13 @@
   - Section 9-1 (남성향 작품일 때 선언형 대사 5조건)
   - Section 13 (회차 설계 원칙)
   - Section 14 (시나리오 작성 원칙 — 14-1, 14-2, 14-3)
-  - Section 17 (Layer/수위 관리 원칙)
+  - Section 17 (Layer/수위 관리 원칙 — 17-2 섹슈얼 씬 샷·라인 레벨 디테일 필수)
   - Section 18 (AIGC Production Direction 원칙)
 - projects/[작품명]/[작품명]_04_blueprint_full.md (필수)
 - **projects/[작품명]/[작품명]_04_visual_lock.md (필수 — 모든 [Visual] 지문에 직접 반영)**
 - 메모리: **`feedback_visual_lock_system.md`** (비주얼 락 반영 + 환류 룰)
+- 메모리: **`feedback_sexual_scene_shot_level_detail.md`** (섹슈얼 씬 샷·라인 디테일 — 키스 혀 얽힘·베드 클로즈업)
+- 메모리: `feedback_aigc_explicit_action_over_subtle.md` / `feedback_north_american_explicit_standard.md` (수위·표현 강도)
 - **config/reference_scripts/INDEX.md** — 등재된 reference 목록. 작품 메타(타깃·포맷·장르·언어)와 일치하는 script_format 카테고리 reference 자동 선택.
 
 **Reference 정독 룰 (필수, 2026-05-12 — 토큰 절감):**
@@ -347,6 +349,72 @@ EP 본문만이 영어 일원화 대상.
 ### 검토 trigger
 
 step_5_1 검토 시 02·06 페르소나가 첫 등장 묘사 누락 발견 시 자동 🟡 등재.
+
+## 섹슈얼 씬 — 샷·라인 레벨 디테일 (필수)
+
+> **"키스한다" "안는다" "베드 씬" 같은 한 줄 처리 절대 금지.**
+> **샷·라인 레벨까지 디테일하게 적시.**
+> production_guide Section 17-2 직접 적용.
+
+### 키스 씬 — 수위 높을수록 디테일 필수
+
+[Visual] / [Dialogue 사이 액션]에 라인 레벨로 적시:
+
+- 누가 먼저 다가오는가 (턱 잡고 / 까치발 / 부딪치듯)
+- 입술이 어떻게 닿는가 (스치듯 / 깨물듯 / 짓누르듯)
+- **혀가 어떻게 얽히는가** — 누가 먼저 혀를 넣고, 상대는 받아들이는지·저항하는지·결국 따라오는지
+- 상대 반응 — 숨막힘·신음·손이 어디로 (셔츠·머리채·옷자락)
+- 깊이 변화 — 가볍게 → 깊게 / 처음부터 강제로
+- 끝나는 방식 — 떨어졌다 다시 / 한쪽이 거세게 끝냄 / 부어오른 입술
+
+**금지:**
+- ❌ "He kisses her."
+- ❌ "They kiss deeply."
+- ❌ "A deep kiss follows."
+
+**권장:**
+- ✅ `He grips her jaw, tilts her face up, presses his mouth against hers. Her lips part — his tongue pushes in, and she gasps into his mouth before her hands fist in his collar.`
+
+### 베드 씬 — [Camera] 블록에 클로즈업 명시 필수
+
+매 컷 무엇이 잡히는지 적시:
+
+- `CLOSE: HER FINGERS — knuckles white, gripping the silk sheet`
+- `CLOSE: HIS BACK — red welts where her nails dragged`
+- `CLOSE: HER PROFILE — mouth open, hair stuck to sweat on her temple`
+- `MACRO: bite mark blooming on her neck`
+- `LOW ANGLE: her toes curling against the sheet`
+- 침대 가장자리에 떨어지는 드레스·헤드보드 그림자·흔들리는 캐노피
+
+[FX]에 사운드 디테일: 숨소리·헤드보드 소리·시트 마찰음·신음.
+
+**금지:**
+- ❌ "They make love."
+- ❌ "A bed scene follows."
+- ❌ 카메라 컷 명시 없이 [Visual] 한 단락으로 처리.
+
+### 다른 sensual 씬
+
+- 옷 벗기는 장면 — 어느 손가락이 어떤 끈을 푸는지·끈이 떨어지는 컷·드러나는 어깨 클로즈업
+- 목 깨물기 — 입술이 목에 닿는 클로즈업·이가 박히는 순간·잇자국 풀샷
+- 강제 자세 — 누가 누구를 어디에 어떻게 밀어붙이는지·손 위치·발끝·허벅지
+
+### 자가 검수 — 매 sensual 씬 통과 필수
+
+1. 한 줄 요약(키스/안음/사랑)으로 처리한 부분이 있는가? → 즉시 디테일 추가
+2. 누가 먼저·어떻게·상대 반응이 적혀있는가?
+3. [Camera] 블록에 무엇이 잡히는지 명시되어 있는가?
+4. 시청자가 한 컷씩 머릿속에 그릴 수 있는가?
+5. AIGC 생성 시 평범한 입맞춤·평범한 베드 씬으로 빠질 여지가 있는가?
+
+### 적용 범위
+
+- 모든 여성향 sensual 작품. 특히 북미 paid vertical·다크 로맨타지·초고수위 작품(OFFERING 등)에서 강제.
+- 남성향에서도 sensual 씬 등장 시 동일 — "안는다" 한 줄 처리 X.
+
+### 검토 trigger
+
+step_5_1 검토 시 페르소나 01 (Intimacy)·02 (Production Director)가 한 줄 처리·클로즈업 누락 발견 시 자동 🟡.
 
 ## 첫 등장 이후 — 반복 묘사 금지 / 사건 기능 있는 변화만 (필수, 2026-05-12 보완)
 

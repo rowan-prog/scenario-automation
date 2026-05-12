@@ -45,6 +45,15 @@
 - 핵심: 베일이 지시한 새 의상·다크 베이스이나 **흰·진주·실버 디테일이 여주의 순수·무구 톤 유지** / 변형 1 (흰 베이스)에서 변형 2 (검은 베이스)로의 의상 색 대비
 - 변경 트리거: **EP1 후반 베일이 도착 의상 거부 → 하녀에게 새 의상 지시 → 이솔데 갈아입은 후 등장 (reveal scene)**
 - 이전 변형과 차이: 흰·실버 → 검은 베이스 + 흰·진주 디테일 / 우아·순수 일관 유지 (창녀 톤 X)
+- **어머니 signet pendant 위치 (EP2+):** 도착 의상 (변형 1) 망토 안쪽에서 새 의상 (변형 2)으로 옮길 때 **bodice 안쪽 라이닝**에 이동. 외부 노출 X. EP35 Hidden Identity Reveal까지 안쪽 lining 위치 유지.
+
+**변형 2-Public Mate Display (EP8 sub-variant) — 페이월 reveal scene**
+- 색: 변형 2 base + **silver-and-pearl trim down the shoulder seams 추가 / collarbone 위 wider band of pearl and silver (silver chain 대체) / hair half-pinned with pearl at the crown**
+- 소재: 변형 2 base + pearl·silver band·hair pearl pin
+- 실루엣: 변형 2 우아·신부급 유지 / **chain band cut low** (두 stacked crescent bites 사절단·모두에게 노출 강조)
+- 핵심: EP8 페이월 = 사절단 앞 공개 Mate Display. 두 잇자국 의도적 노출. 신부급 변형 2의 ceremonial sub-variant.
+- 변경 트리거: EP7 → EP8 사이 야간 — keep 측에서 sub-variant 준비 (변형 2 base 어셋에 변형 디테일 추가)
+- 이전 변형과 차이: chain → wider pearl-silver band / 어깨 seam에 trim / 머리에 pearl pin / 천사적 ceremony 디테일 강화
 
 **변형 3 — Crowned Bride (EP13 ~ EP25)**
 - 색: 검은 비단 + 은빛 자수 + 드래곤 비늘 모티프·은 사슬 디테일
@@ -201,3 +210,8 @@
   - 본질: 캐릭터 어셋 일관 유지 + sensual 표지는 EP별 누적 reveal로만 표시
   - 변형 1·2의 이솔데 순수 톤 (흰·진주·실버 디테일) = 그대로 유지 + sensual 표지는 어셋과 독립
   - 적용 메모리: `feedback_aigc_explicit_action_over_subtle.md`·`feedback_north_american_explicit_standard.md`·`feedback_north_american_judgment_baseline.md`·`project_offering_high_explicit_direction.md`
+- **2026-05-12 v6 (Version D Round 1 환류):**
+  - 02·06 페르소나 검토 발견 — EP8 페이월 reveal 씬 sub-variant 비주얼 락 미등재 (02·06 공유 🟡) + EP1 어머니 인장 EP2+ 위치 추적 누락 (03 🟡)
+  - 변형 2 (Vael's Choice)에 **어머니 signet pendant 위치 트래커** 추가 — 도착 의상 망토 → 변형 2 bodice 안쪽 라이닝 (EP35 Hidden Identity Reveal까지 유지)
+  - 변형 2 아래에 **변형 2-Public Mate Display (EP8 sub-variant)** 신규 등재 — EP8 페이월 ceremonial sub-variant (silver-and-pearl trim·wider band·hair pearl pin·chain band cut low)
+  - Round 1 패치 대상: EP1·EP2 (메인 트랙 검토 X / Version D 한정 환류). EP8 본문 [Visual] 묘사 변경 X — 비주얼 락 등재만 추가.

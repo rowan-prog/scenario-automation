@@ -100,6 +100,32 @@
   - 씬 분포: EP1=5 / EP2=5 / EP3=4 / EP4=4 / EP5=4 / EP6=4 / EP7=4 / EP8=5 = 35 씬
 - [ ] step_4_1 — Version B 유료 EP9-50 집필 (다음 단계 대기)
 
+### 서브 트랙 — Version D (대안 집필 / 2026-05-12 사용자 지시)
+
+> 청사진 v3 동일 기준 + 무료 구간을 **메인 트랙·Version B·Version C 본문 모두 참고하지 않고** 처음부터 다른 cinematography·dialogue·진입 각도로 재집필. 별도 경로 `version_d/`.
+
+차별화 방향 (Version A/B/C와도 다른 제4의 접근):
+- **ISOLDE POV 우선 + 능동 시작 (첫 컷부터)** — 호위병 손 즉시 떨치고 자신의 발로 걸어 들어옴. ISOLDE의 결정·움직임을 카메라가 따라감. 베일은 그녀의 시야 안에 등장.
+- **TIGHT framing / ECU / MACRO / INSERT 의존 (9:16 세로 극한)** — 매 씬 1개 이상 신체 ECU (손·목·손목·입술·잇자국·드레스 끈·머리채). 정적 와이드 의존 ↓.
+- **VAEL = compact declarative possessive** (imperative ↓ / "Mine." / "You belong here." / "Stay." / "Mine to keep." 톤).
+- **EP1부터 매 EP 마지막 컷 = 강한 sensual reveal** + ISOLDE 능동 표지 누적 곡선.
+- **잇자국 stacked cuff 변주** (EP5 둘째 잇자국이 첫 자국 바로 아래·같은 쪽 — 같은 자리 누적 마킹).
+- **EP8 페이월 변주** — ISOLDE가 베일의 비늘 손등을 **자기 입술에** 올림 (역방향 자발 마킹·"Yours." 한 단어 응답). 사절단 12명 + KIRAN까지 무릎.
+
+진행 상황:
+- [x] **step_4_1 — Version D EP1-8 집필 완료 (2026-05-12, r0 + R1 패치 → r1)** — `version_d/05_episodes/02_the_offering_ep01.md` ~ `_ep08.md`
+  - 씬 분포: EP1=5 / EP2=4 / EP3=4 / EP4=4 / EP5=4 / EP6=4 / EP7=4 / EP8=5 = 34씬
+  - 4 블록 (Visual/Camera/DIALOGUE/FX) 전 씬 적용 / 각 EP 마지막 씬 Hard Cut
+  - 한국어 0건 (북미 영어 일원화)
+  - 메인 트랙·Version B·Version C 본문 참조 0건 (청사진·비주얼 락만 참조)
+- [x] **step_5_1 — Round 1 페르소나 검토 (01-07 + 09)** — 통합 보고서 `version_d/06_reviews/round1/02_the_offering_review_round1_full_inspection.md`. 🔴 0 / 🟡 2 unique (02·06 공유 EP8 sub-variant 비주얼 락 미등재 / 03 EP1 어머니 인장 EP2+ 트래킹 누락) / 🟢 다수. 09 시청자 ✅ 종합 가중 작동 (09A 30% / 09B 70%).
+- [x] **step_6_1 — Round 1 패치 적용** — 필터 1 채택 2건. EP2 S#1 pendant basalt shelf 비트 + S#3 Vael's Choice reveal 안쪽 라이닝 명시 / 비주얼 락 v6 환류 (변형 2 pendant 트래커 + EP8 Public Mate Display sub-variant 신규 등재). 패치 로그 `version_d/06_reviews/round1/02_the_offering_patch_log_round1.md`.
+- [x] **Round 2 ripple 검증** — `version_d/06_reviews/round2/02_the_offering_review_round2_full_inspection.md`. 🔴 0 / 🟡 0 / 🟢 14 / 모든 페르소나 LOCK 8/8. Round 1 패치 ripple 영향 부정 0건.
+- [x] **step_7_1 — 4-Gate 평가 통과** — `version_d/06_reviews/02_the_offering_final_gate_ep01_to_ep08.md`. Structure ✅ / Narrative ✅ / Script ✅ / Production ✅ (한국어 0건·V=C=D=F=34·Hard Cut 8)
+- [x] **무료 최종고 통합 + 검증** — `version_d/07_final/02_the_offering_FINAL_FREE.md`
+  - 검증: EP_headers=9 (1 작품 헤더 + 8 EP) / V=C=D=F=34 (4-블록 일치) / Hard Cut=8 / S#=34 / Separator=9 / Korean=0 / TotalLines=912
+- [ ] step_4_1 — Version D 유료 EP9-50 집필 (다음 단계 대기)
+
 ### 서브 트랙 — Version C (대안 집필 / 2026-05-12 사용자 지시)
 
 > 청사진 v3 동일 기준 + 무료 구간을 **메인 트랙·Version B 본문 모두 참고하지 않고** 처음부터 다른 cinematography·dialogue·진입 각도로 재집필. 별도 경로 `version_c/`.
@@ -125,6 +151,32 @@
 - [x] **무료 최종고 통합 + 검증** — `version_c/07_final/02_the_offering_FINAL_FREE.md`
   - 검증: EP_headers=8 / V=C=D=F=34 (4-블록 일치) / Hard Cut=8 / Korean=0 / TotalLines=699
 - [ ] step_4_1 — Version C 유료 EP9-50 집필 (다음 단계 대기)
+
+### 서브 트랙 — Version E (대안 집필 / 2026-05-12 사용자 지시)
+
+> 청사진 v3 동일 기준 + 무료 구간을 **메인 트랙·Version B·Version C·Version D 본문 모두 참고하지 않고** 처음부터 다른 cinematography·dialogue·진입 각도로 재집필. 별도 경로 `version_e/`.
+
+차별화 방향 (Version A/B/C/D와도 다른 제5의 접근):
+- **Reflection cinematography 전체** — 모든 씬에 polished basalt floor · obsidian wall-mirror · polished basalt rail · reflecting pool · polished war-table slab. 인물·마크·banner가 거울에 doubled / inverted 되어 fated-pair 시각 모티프 형성.
+- **Vael verbal = ceremonial-vow slow long** (imperative compact X / compact possessive X). 회당 2-3 라인. 14-25 단어 격식 문장 — vow-king·king-priest 톤 (ACOTAR Rhysand-formal 레지스터에 가까움).
+- **Mark path 변주 — 잇자국 자리 변경** — 첫 잇자국 = **inner wrist pulse-point** (EP3, 손목 비늘 빛 위에 정확히 겹침) / 둘째 잇자국 = **collarbone** (EP5, 목 옆 X). **목은 paid로 유예** (EP8 페이월에 ISOLDE 본인 손으로 베일의 비늘 손을 자기 bare neck에 올림 — 다음 잇자국 자리 자발 제공).
+- **EP8 페이월 변주** — ISOLDE가 **사절단 앞에서 자기 손으로 silver-and-pearl 목 band를 풀어내림**. 두 잇자국 (wrist + collarbone) 전부 노출 → 12 retainer + KIRAN + MAREN + HALDREN의 writ 떨어짐 → 두 wing-roar overhead → VAEL "She is —" 둘째 roar에 끊김 → ISOLDE가 VAEL의 비늘 손을 자기 bare neck에 올리고 자기 손을 그 위에 덮음 (자발 마킹 자리 제공·neck-for-tomorrow).
+- **Dual-anchored POV per EP** — 매 EP 안에 ISOLDE-frame 씬과 VAEL-frame 씬 교차 (EP1 S#1 ISOLDE 마차 / EP1 S#2 VAEL inner arch / EP4 S#3 VAEL kneel + flame-trace / 등).
+- **각 EP 사운드 모티프** — EP1 wind / EP2 boots+silk / EP3 blade-snap·breath / EP4 banner-fire / EP5 still water·single drop / EP6 paper-fold·writ falling / EP7 wing-rush low rumble / EP8 wing-roar + clasp-unlock.
+
+진행 상황:
+- [x] **step_4_1 — Version E EP1-8 집필 완료 (2026-05-12, r0 + R1 패치 → r1)** — `version_e/05_episodes/02_the_offering_ep01.md` ~ `_ep08.md`
+  - 씬 분포: EP1=5 / EP2=4 / EP3=4 / EP4=4 / EP5=4 / EP6=4 / EP7=4 / EP8=5 = 34 씬
+  - 4 블록 (Visual/Camera/DIALOGUE/FX) 전 씬 적용 / 각 EP 마지막 씬 Hard Cut
+  - 한국어 0건 (북미 영어 일원화)
+  - 메인 트랙·Version B·Version C·Version D 본문 참조 0건 (청사진·비주얼 락만 참조)
+- [x] **step_5_1 — Round 1 페르소나 검토 (01-07 + 09)** — `version_e/06_reviews/round1/02_the_offering_review_round1_full_inspection.md`. 🔴 0 / 🟡 1 unique (03·06 공유 — EP4+ pendant 위치 트래킹 누락) / 🟢 다수 / 검토했으나 유지 5
+- [x] **step_6_1 — Round 1 패치 적용** — 필터 1 채택 1건. EP4 S#1 Visual + Camera 블록에 pendant 위치 anchor 추가 (Royal Arrival cloak collar → Vael's Choice bodice inner lining / chain 길이 조정 / 가슴 안쪽 silk 아래 / audience-only MACRO INSERT). 패치 로그 `version_e/06_reviews/round1/02_the_offering_patch_log_round1.md`
+- [x] **Round 2 ripple 검증** — `version_e/06_reviews/round2/02_the_offering_review_round2_full_inspection.md`. 🔴 0 / 🟡 0 / 🟢 다수 / 모든 페르소나 LOCK 8/8. r1 patch ripple 영향 부정 0건
+- [x] **step_7_1 — 4-Gate 평가 통과** — `version_e/06_reviews/02_the_offering_final_gate_ep01_to_ep08.md`. Structure ✅ / Narrative ✅ / Script ✅ / Production ✅ (한국어 0 · V=C=D=F=34 · Hard Cut 8 · S=34). 페르소나 검증 호출 0건 (4-Gate 미통과 항목 0건)
+- [x] **무료 최종고 통합 + 검증** — `version_e/07_final/02_the_offering_FINAL_FREE.md`
+  - 검증: EP_headers=9 (1 작품 헤더 + 8 EP) / V=C=D=F=34 (4-블록 일치) / Hard Cut=8 / S=34 / Separator(---)=9 / Korean=0 / Lines=791
+- [ ] step_4_1 — Version E 유료 EP9-50 집필 (다음 단계 대기)
 
 ### 정정 기록 (2026-05-12)
 

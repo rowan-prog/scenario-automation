@@ -5,13 +5,14 @@ S#1 — KEEP / GUEST CHAMBER / NIGHT
 [Visual]
 A wide guest chamber in basalt, low warm lamps. A tall mirror in iron frame.
 ISOLDE stands at the foot of the mirror in the Royal Arrival ivory gown. The white fur cloak is over her shoulder.
+At the mirror's foot, **the silver chain with her mother's signet pendant lies coiled on a small basalt shelf — she has just unpinned it from the Royal Arrival cloak**.
 A row of three pale maids enter with folded silks across their arms — **the human-kingdom mourning silks her father's escort delivered**: drab grey, stiff, with the human crown's mourning sigil pinned at the collar. The maids spread the silks on the bed.
 ISOLDE looks at the mourning silks. She does not move.
 The door behind her opens once. **VAEL — first full reveal: tall, black-leather riding coat, long black cloak over one shoulder, dark hair tied back at the nape, hard angular jaw, grey eyes, the black-scaled hand at his side** — steps in two paces and stops. He looks at the silks on the bed. Then at her.
 He turns his face to the youngest maid.
 
 [Camera]
-WIDE LOW ANGLE: ISOLDE small at the foot of the iron mirror → MEDIUM: three maids entering with the grey mourning silks → ECU on the human-crown mourning sigil pinned at the collar → REVERSE TWO-SHOT: door swinging, VAEL stepping in → CLOSE on VAEL's grey eyes finding the silks, then ISOLDE → CLOSE: VAEL turning his face to the maid
+WIDE LOW ANGLE: ISOLDE small at the foot of the iron mirror → MACRO INSERT on the silver chain and signet pendant coiled on the basalt shelf → MEDIUM: three maids entering with the grey mourning silks → ECU on the human-crown mourning sigil pinned at the collar → REVERSE TWO-SHOT: door swinging, VAEL stepping in → CLOSE on VAEL's grey eyes finding the silks, then ISOLDE → CLOSE: VAEL turning his face to the maid
 
 [DIALOGUE]
 MAID: My lord. The silks the human escort sent.
@@ -52,7 +53,7 @@ S#3 — KEEP / GREAT HALL / CONTINUOUS
 
 [Visual]
 The far doors open.
-ISOLDE steps in alone. **Vael's Choice look — first reveal: black silk gown, ivory and pearl trim down the bodice, a fine silver chain across the collarbones, a thin silver cuff at one wrist, dark-brown hair half-pinned with pearl, the rest loose down her back.** The white fur cloak is gone. Her **inner wrist glow** is faintly visible above the silver cuff in the lamp-light.
+ISOLDE steps in alone. **Vael's Choice look — first reveal: black silk gown, ivory and pearl trim down the bodice, a fine silver chain across the collarbones, a thin silver cuff at one wrist, dark-brown hair half-pinned with pearl, the rest loose down her back.** The white fur cloak is gone. Her mother's signet pendant has been moved to the **inner lining of the new gown's bodice** — invisible to the hall, but its outline catches the lamp-light against the silk for one breath as she crosses the floor. Her **inner wrist glow** is faintly visible above the silver cuff in the lamp-light.
 The hall stops moving.
 ELARA's gold cuff lowers half an inch. KIRAN's mouth opens, then closes.
 ISOLDE walks the length of the basalt floor on her own. She stops at the foot of the throne dais.
