@@ -29,6 +29,53 @@
 모두 통과 → 3종 최종고 모두 저장 + `[작품명]_00_meta.md` 업데이트.
 일부 미통과 → 미통과 게이트별 결함 보고 + 다음 행동 권장 (재검토 / 재패치 / 청사진 재작업).
 
+## 3종 최종고 자동 통합·검증 (필수, 모든 프로젝트)
+
+**상세 룰:** 메모리 `feedback_final_consolidation_three_files.md`
+
+### 처리 절차 (PowerShell .NET I/O 사용 — UTF-8 no BOM 강제)
+
+```powershell
+$utf8NoBom = New-Object System.Text.UTF8Encoding($false)
+function Get-ScriptBody($path) {
+    $content = [System.IO.File]::ReadAllText($path)
+    # Post-script 섹션 (Heavy Gate·Bible Amendment 등) 제외
+    $rx = [regex]"(?ms)\r?\n---\s*\r?\n\r?\n#{1,3}\s*EP\d+"
+    $m = $rx.Match($content)
+    if ($m.Success) { return $content.Substring(0, $m.Index).TrimEnd() }
+    return $content.TrimEnd()
+}
+
+$sep = "`r`n`r`n---`r`n`r`n"
+# 무료 + 유료 EP body 추출 후 separator로 join
+# 3종 헤더 (작품·범위·포맷·타깃·생성일) 추가 후 통합
+[System.IO.File]::WriteAllText("[07_final]/FINAL_FREE.md", $free_header + ($free_content -join $sep), $utf8NoBom)
+[System.IO.File]::WriteAllText("[07_final]/FINAL_PAID.md", $paid_header + ($paid_content -join $sep), $utf8NoBom)
+[System.IO.File]::WriteAllText("[07_final]/FINAL.md", $full_header + (($free_content + $paid_content) -join $sep), $utf8NoBom)
+```
+
+### 검증 필수 (통합 직후 자동 실행)
+
+| 항목 | 기준 | 실패 시 처리 |
+|---|---|---|
+| Korean character count (EP body) | 0건 (`\p{IsHangulSyllables}`) | 🔴 즉시 — 원본 EP 수정 후 재생성 |
+| Work header count | EP 수 + 1 (master + 각 EP) | 🔴 누락·중복 확인 |
+| S# scene count | 청사진 명시 씬 수와 일치 | 🟡 차이 보고 |
+| Hard Cut count (`^Hard Cut\s*$`) | **EP 수 - 1** (마지막 EP는 자연 엔딩 — Hard Cut 금지) | 🔴 mid-EP Hard Cut 제거 / 누락 보강 / 마지막 EP에 Hard Cut 발견 시 자연 엔딩 재작성 (`feedback_final_episode_natural_ending.md`) |
+| 4 블록 일관성 | Visual = scene count / Camera·DIALOGUE·FX = scene count + end image 수 | 🟡 블록 누락 확인 |
+| Separator (`---`) | EP 간 일관 | 🟡 보강 |
+| File size | 합리적 범위 (FREE ~50KB·PAID ~300-400KB·FULL ~400-500KB) | 🟡 너무 작거나 큼 확인 |
+
+### 실패 처리 흐름
+
+1. 🔴 발견 → 원인 EP 파일 식별 (EP-by-EP 진단 query) → 원본 수정 → 3종 재생성 → 재검증
+2. 🟡 발견 → 보고 + 사용자 결정 (수정 / 보류)
+3. 모두 통과 → 작품 메타 `[작품]_00_meta.md` 갱신 ("완결 ✅" + 최종고 위치 + 검증 결과)
+
+### 어떤 프로젝트도 예외 X
+
+본 룰은 모든 작품(메인/부가A/부가B/premium_pilot)에 동일 적용. 사용자 별도 호출 불필요. phase_7 통합 단계 진입 시 자동 실행.
+
 ## 실행 전 읽어야 할 파일
 - config/production_guide.md
   - Section 0-3 (락/열어둠 — Soft Lock 영역은 미통과 사유로 쓰지 않음)

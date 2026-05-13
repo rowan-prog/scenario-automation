@@ -114,6 +114,12 @@ CHARACTER: line
 
 **End Image** — 회차의 마지막 씬에만. 다른 씬은 표기 없이 다음 S#로 직진. `[End of S#X]` 같은 마커 사용 금지.
 
+**Hard Cut 룰 — 마지막 회차 예외 (필수):**
+- 중간 EP (시리즈 종결 EP 아닌 모든 EP): EP 마지막 `Hard Cut` 마커 강제.
+- **시리즈 종결 EP (작품 마지막 회차, 예: EP50): `Hard Cut` 금지.** 자연스러운 여운으로 마무리 — Pull back / Tilt up / Held final image + Fade Out / End. 또는 마커 없음.
+- 회수 완결성·캐릭터 아크 완결·수미상관 (EP1 모티프 재현/변주) 충족 필수.
+- 상세 룰: 메모리 `feedback_final_episode_natural_ending.md`.
+
 ## EP 파일 영어 일원화 (필수)
 
 EP 파일은 **첫 헤더 + S#1 ~ Hard Cut 본문만** 작성한다. **한국어 메타·footer·로그 절대 금지.**

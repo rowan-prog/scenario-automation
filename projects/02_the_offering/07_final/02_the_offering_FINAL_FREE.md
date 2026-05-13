@@ -1,637 +1,994 @@
-﻿# THE OFFERING — FREE CUT (EP1-8)
+# THE OFFERING: The Dragon Lord's Crowned Bride — FINAL_FREE (EP1-8)
 
-> Free segment integrated cut. EP1-8.
-
----
-
-# THE OFFERING — EP01: SACRIFICIAL BRIDE
-
-S#1
-
-[Visual] The iron-bound transport carriage halts in front of the BLACK CASTLE. The last grey light of the northern wasteland is dying. ISOLDE (mid-20s, lustrous dark-brown hair flowing past her shoulders, grey-green eyes, porcelain pale skin, slender wrists, straight posture) steps down. She wears a long royal gown of ivory silk with silver embroidery, a white fur mantle, pearl details at the throat. Against the grey wasteland and the black gates, she is a single point of brightness.
-
-[Camera] Wide shot of the carriage and the gates. Slow push-in on Isolde as her boots touch the frozen ground. Cut to tight close-up of her wrists — slender, bare, untouched. Cut to a wider three-quarter — her ivory against the black walls.
-
-[DIALOGUE]
-HEAD ENVOY (cold, gloved): The kingdom no longer calls you by name.
-
-[FX] Wind howling across the wasteland. Carriage wheels groaning. No music.
+Format: AIGC Live-action / 9:16 vertical
+Target: North American female 25-45 / dark romantasy / high-explicit
+Generated: 2026-05-13 via premium_pilot v5.2
 
 ---
 
-S#2
+# THE OFFERING — EP01: Walk Alone
 
-[Visual] The HEAD ENVOY pulls off Isolde's royal signet ring with a gloved hand. He drops a handkerchief — wiped from his own mouth — onto the back of her bare hand. The envoys turn and climb back into the carriage. HALDREN (grey hair, diplomat's grey mantle) does not move with them. He stays standing five paces behind Isolde, hands folded.
+S#1 — VAEL'S KEEP / BLACK GATE / DAWN
 
-[Camera] Close-up: gloved hand pulling the ring. Slow descent — the handkerchief falls onto her hand. Wide shot: carriage pulling away. Hold on Isolde's back — alone.
+[Visual]
+A treaty wagon pulls up. Two human escorts grip ISOLDE's elbows. Her wrists are bound in pale rope. A black gate looms ahead — onyx slab, no insignia. Above the gate, an old rune set into the stone catches the dawn light. Inside the wagon, ISOLDE's hand — the bound wrists let her palm rest against her cloak. Audience-only: a small signet pendant lies hidden in the cloak lining. The rune above the gate and the pendant pulse with the same faint glow, one beat each. Neither escort sees it.
+
+ISOLDE shrugs out of the escort's grip. She steps down on her own. She walks toward the gate.
+
+[Camera]
+WIDE: wagon at gate → CLOSE: bound wrists → MACRO INSERT: pendant in lining, sigil glow → MACRO INSERT: rune over gate, matching glow → TRACKING: ISOLDE walking forward, escorts falling behind → LOW ANGLE: gate opening, her silhouette against black
 
 [DIALOGUE]
-HALDREN (flat): I remain as the kingdom's liaison. The offering must be witnessed to the end.
+ESCORT 1: Hold her steady.
+ISOLDE: I'll walk.
+ESCORT 2: She's offering. She doesn't —
+ISOLDE: I'll walk.
 
-[FX] Carriage receding into the dusk. The last grey light fades.
+[FX]
+wagon wheels, rope creak, low wind, soft sigil hum (audience-only), gate hinge groan
 
 ---
 
-S#3
+S#2 — VAEL'S KEEP / OUTER COURT / CONTINUOUS
 
-[Visual] Isolde stands alone before the great black gates. The first torch on the castle wall ignites above her head. As the firelight touches her face — a single ancient RUNE carved above the gate flickers, just where she is standing. Once. Twice. The envoys' backs are turned; they do not see it. Haldren, behind her, does not see it.
+[Visual]
+The court is a black stone yard. KIRAN waits at the inner steps — lean, dark coat, scar across one cheek. The escorts stop at the threshold and do not enter. ISOLDE crosses alone. KIRAN's eyes flick to her wrist — bound, but unmarked. He tilts his head. The faint glow under the rune pulses once more.
 
-At her next breath, inside her white fur mantle — beneath the silver embroidery, sewn close to her ribs — an old SIGNET on a thin chain slips loose. A dark-metal pendant the size of a coin, etched with a SIGIL that is the SAME SHAPE as the rune above the gate. It catches the firelight against her sternum. The two marks — rune above her head, signet over her heart — flicker in the same rhythm. Once. Twice. Only the audience sees it. Isolde feels its weight against her skin; her free hand presses it back under the mantle before anyone behind her can see.
+KIRAN: Inside.
+ISOLDE: The kingdom no longer knows my name.
+KIRAN: Then it does not need to call you at all.
 
-The black gates open from the inside. A massive WING-SHADOW sweeps across the torchlight and descends over her.
+He moves aside. She walks past him toward the inner gate. KIRAN looks back at the escorts — still frozen at the threshold.
 
-[Camera] Macro close-up of the rune flickering — audience-only beat. Tilt down to the signet slipping free beneath her mantle — macro on the etched sigil, frame-matched to the rune. Cut to Isolde's hand pressing it back under the silver embroidery. Wide shot: gates parting. Tilt up as the wing-shadow falls. Hold on Isolde looking up — the shadow consumes her face in darkness.
+KIRAN: Ask the wrist.
+
+The escorts do not move. The gate begins to close behind ISOLDE.
+
+[Camera]
+WIDE: outer court → MEDIUM: KIRAN at steps → ECU: KIRAN's eyes on her wrist → CLOSE: ISOLDE's bound wrists, no mark yet → OVER-SHOULDER: KIRAN watching her pass → WIDE: gate closing, escorts frozen outside
 
 [DIALOGUE]
-(silence)
+KIRAN: Inside.
+ISOLDE: The kingdom no longer knows my name.
+KIRAN: Then it does not need to call you at all.
+KIRAN: Ask the wrist.
 
-[FX] Rune chime — soft, ancient, audience-only. The signet chiming once, in the same key as the rune. Heavy castle gate groan. A single wing-beat — deep, low.
+[FX]
+boots on stone, gate closing, distant wing-rush (low, audience-only), silk hem brushing stone
 
 ---
 
-S#4
+S#3 — VAEL'S KEEP / INNER COURTYARD / CONTINUOUS
 
-[Visual] From inside the shadow, a black-scaled HAND descends slowly. The scales catch the torchlight — obsidian and dark blood-red. The hand stops in the empty space beside Isolde's shoulder. She does not move.
+[Visual]
+Black stone walls rise on three sides. The fourth side opens to a wide stair leading up to a high arched doorway. ISOLDE stops at the foot of the stair. The doorway above is dim — only the silhouette of a figure standing back, in shadow. A scaled hand rests on the doorframe, only the fingers visible. The scales catch the light — dark, deep red beneath. The figure does not move.
 
-Then — the scaled hand turns. The fingers reach down and close around the inside of her wrist. Lift. Slowly, the hand raises her wrist into the firelight, turning it palm-up, exposing the soft inner skin.
+The bound rope on ISOLDE's wrists slips loose — falls to the stone. She did not pull. The rope simply parts.
 
-A fingertip — black-scaled, warm — presses against the pulse point of her wrist. The pressure holds for a beat.
+VAEL (offscreen, low): Open the gates when she stands alone.
 
-A faint pulse of LIGHT — pale gold, like buried embers — flickers beneath the skin of her inner wrist. Once. The mark is so subtle that only she sees it. The scaled fingertip stays on her pulse a beat longer.
+The figure does not step forward. ISOLDE looks up at the scaled hand. Audience-only: under her wrist skin, a faint gold flicker.
 
-[Camera] Tight close-up: scaled fingers closing on her wrist. Macro on the inner wrist — pulse point, skin, the first golden flicker beneath. Hold. Isolde's eyes widen by a fraction.
+[Camera]
+WIDE: inner courtyard → LOW ANGLE: stair up to arched doorway → ECU: scaled hand on doorframe, gold thread in dark scales → MACRO INSERT: rope falling, parting on its own → CLOSE: ISOLDE's face, looking up → MACRO INSERT: gold flicker under wrist skin (audience-only)
 
 [DIALOGUE]
-(silence)
+VAEL (O.S.): Open the gates when she stands alone.
 
-[FX] Castle bells distant. The wing-beat sound replaced by a low thrum — almost a heartbeat — beneath the score.
+[FX]
+rope hitting stone, low resonant hum (Vael presence), single ember-pop, ISOLDE's breath shortening
+
+---
+
+S#4 — VAEL'S KEEP / TOP OF STAIR / CONTINUOUS
+
+[Visual]
+ISOLDE has climbed the stair. She stands one pace from the doorway. The arched doorway is wide enough she can see deep into the hall behind it — long, lit by braziers. VAEL is still in the doorframe — taller, dark hair to the shoulder, scaled hand at his side. The other hand is human, gauntleted in black leather. His eyes are not human. The pupils too vertical.
+
+He raises the scaled hand. ISOLDE does not step back. The scaled fingers cross the air toward her jaw — but stop. A half-inch from her skin. He holds.
+
+VAEL: I haven't decided yet what you are to me.
+ISOLDE: Then it does not need to call me anything.
+
+His hand hovers. The half-inch does not close.
+
+[Camera]
+WIDE: top of stair → MEDIUM TWO-SHOT: VAEL in doorframe, ISOLDE one pace out → ECU: VAEL's eyes (non-human pupils) → MACRO INSERT: scaled fingers crossing air toward jaw → ECU: half-inch gap, scaled fingertip and jawline → CLOSE: ISOLDE's eyes, holding
+
+[DIALOGUE]
+VAEL: I haven't decided yet what you are to me.
+ISOLDE: Then it does not need to call me anything.
+
+[FX]
+low resonant hum (Vael presence), ISOLDE's breath, distant brazier crackle, single wing-shadow rush far above
+
+---
+
+S#5 — VAEL'S KEEP / TOP OF STAIR / CONTINUOUS
+
+[Visual]
+The half-inch holds. VAEL withdraws his hand. He turns and walks deeper into the hall. Without looking back:
+
+VAEL: Inside.
+
+ISOLDE follows. She crosses the threshold. Audience-only: as she steps over the threshold, the gold flicker under her wrist pulses once — bright — then settles into a low steady gleam. A faint crescent shape forms just under the skin of her inner wrist. The kingdom rope is still on the stone below.
+
+The arched doorway closes behind her.
 
 Hard Cut.
 
----
-
-# THE OFFERING — EP02: HER NEW DRESS
-
-S#1
-
-[Visual] Inside the black castle. Stone corridor lit by floor-level torches. ISOLDE walks with two hand-MAIDS at her flanks. She still wears the ivory royal gown — torn at the hem from the journey, the white fur mantle dragged from the carriage. The maids carry her travel chest.
-
-A black-scaled HAND emerges from a side archway and stops the lead maid. The figure stays in the shadow of the archway — only the hand and the low voice.
-
-[Camera] Tight on the scaled hand catching the maid's wrist. Pan to Isolde — she freezes. Cut to her ivory gown — silver embroidery, white fur. Cut back to the archway — only Vael's silhouette and the scaled hand.
+[Camera]
+MEDIUM: VAEL turning, walking deeper → WIDE: ISOLDE crossing threshold → MACRO INSERT: inner wrist, gold crescent forming, audience-only → WIDE: arched doorway closing → BLACK
 
 [DIALOGUE]
-VAEL (off-screen, low): Burn this gown.
-HEAD MAID (head bowed): My Lord. The princess arrived in this gown. The kingdom dressed her.
-VAEL: The kingdom dressed a corpse. She is not one. (a folded BLACK SILK BUNDLE — obsidian silk, pale silver embroidery, pearl thread — is placed in the maid's arms by the scaled hand.) Put her in this. By the time she enters the hall.
+VAEL: Inside.
 
-[FX] Silk rustle. Torch flicker. Vael's footsteps fading down the corridor — heavy, slow.
+[FX]
+boots on stone, deep doorway closing, sustained low hum, crescent shape forming sound (soft chime — audience-only)
+
+Hard Cut
 
 ---
 
-S#2
+# THE OFFERING — EP02: Right-Hand Seat
 
-[Visual] Isolde's chambers. Mirrored full-length glass. The maids unlace her ivory gown. The white fur mantle drops to the stone floor. The bodice loosens and slides off her shoulders. The maids lift the new black silk gown over her head — deep obsidian silk, neckline cut sharp across her collarbones, pale silver thread tracing her ribs, tiny pearls scattered along the bodice, a silver chain belt cinched at her waist. The skirt falls to her ankles in a quiet wash.
+S#1 — VAEL'S KEEP / ONYX HALL / MORNING
 
-She turns to the mirror. Her face — porcelain pale, dark-brown hair loose down her back, grey-green eyes — sits above the new gown like a single point of light. The contrast is sharper than the ivory ever was.
+[Visual]
+The hall is long, black stone polished to a low gleam. Two rows of sentries stand along the walls — dark leather, helms cradling no insignia. A dais runs the length of the back wall. On the dais: a single high seat carved from a darker stone. To its right: an iron bench, narrow, plain. ISOLDE enters at the far end, alone. KIRAN walks two paces behind her — not escort. Witness. Her wrist is unbound but still raw at the edges. The crescent under the skin is faint but present.
 
-The HEAD MAID lifts a length of dark-brown hair from Isolde's shoulder and lets it fall down her back.
+The sentries do not turn their heads.
 
-[Camera] Slow tracking shot across the dressing. Cut to: ivory gown crumpled on the floor. Cut to: black silk closing over her chest. Hold on Isolde turning in the mirror — full body. Push-in on her face.
+KIRAN: He sits when you sit.
+
+[Camera]
+WIDE: full hall length, ISOLDE at far end → TRACKING: ISOLDE walking the hall → CLOSE: sentries' helms, no movement → MACRO INSERT: ISOLDE's wrist, crescent low gleam → MEDIUM: dais coming into focus, iron bench beside high seat
 
 [DIALOGUE]
-HEAD MAID (quiet): The lord chose this himself.
-ISOLDE (without looking at the maid): Then he wants me looked at.
+KIRAN: He sits when you sit.
 
-[FX] Silk falling. Pearl ticks. Chamber breath. The low thrum from EP01 returns under her last line.
+[FX]
+boots on polished stone, distant brazier hiss, KIRAN's coat shifting
 
 ---
 
-S#3
+S#2 — VAEL'S KEEP / ONYX HALL / DAIS / CONTINUOUS
 
-[Visual] The BLACK GREAT HALL. A hundred torches floating beneath the vaulted ceiling. NOBLES and BRIDE CANDIDATES line the two raised daises. ELARA — blonde, ivory-and-gold gown, cold curve at her mouth — stands at the head of the candidates. The HEAD ENVOY's handkerchief is still on the back of Isolde's hand as she walks the long black marble aisle in the new black silk gown.
+[Visual]
+ISOLDE reaches the foot of the dais. The iron bench is at the same level as the high seat — not below. She does not climb. VAEL enters from a side door, slow, deliberate. Scaled hand at his side. He crosses to ISOLDE. He does not speak. He simply lifts her — one hand at her waist, the other under her elbow — and sets her on the iron bench.
 
-ELARA (one pace forward, gracious smile): An offering does not require a seat, my Lord. We have not prepared one for her.
+A strand of her dark hair passes through his scaled fingers as he releases her. He does not pull. The strand slips on its own.
 
-A noble coughs in agreement. Whispers ripple along the dais.
+He sits in the high seat beside her. The hall is silent.
 
-On the BLACK THRONE — VAEL DRAKONIS, fully revealed now: jet-black hair past his shoulders, jaw cut sharp, broad shoulders under black leather and a dark cloak, BLACK SCALES on the back of his hands catching the torchlight. Grey eyes fixed forward.
-
-He stands. Slowly. His black-scaled fingers reach to the empty chair beside his own — RAISED, one step higher than the candidates. The scaled fingertips tap the armrest. Once. Twice.
-
-[Camera] Wide on the hall — torches, daises, the long aisle. Cut to Elara's smile. Cut to Vael standing — first full reveal of his face. Tight close-up on his scaled fingers tapping the chair. Cut to Elara — her smile beginning to set.
+[Camera]
+LOW ANGLE: dais, ISOLDE arriving → MEDIUM: VAEL entering side door → TRACKING: VAEL approaching → ECU: scaled hand at waist, gauntleted hand under elbow → MACRO INSERT: hair strand sliding through scaled fingers → TWO-SHOT: ISOLDE on iron bench, VAEL in high seat, level
 
 [DIALOGUE]
-VAEL (still not looking at Isolde, voice carrying): She sits here.
+(silence — VAEL does not speak)
 
-[FX] Tap. Tap. The hall going silent. The under-score thrum returning, louder.
+[FX]
+silk skirt brushing iron bench, scaled hand on fabric (soft scrape), single hair-slip sound, hall silence
 
 ---
 
-S#4
+S#3 — VAEL'S KEEP / ONYX HALL / DAIS / CONTINUOUS
 
-[Visual] Isolde feels every eye in the hall on her. She slowly lifts her hand — the back where the envoy's handkerchief still sits. She lets it fall. The cloth drops in slow descent toward the black marble.
+[Visual]
+The court enters in two columns — minor nobles, lieutenants, one wing-clad attendant whose shape is half human, half scaled. None of them speak. They take positions. They watch the iron bench. They watch the right hand of Vael resting on the arm of the high seat — scaled fingers slow against dark stone.
 
-Before the cloth touches the floor — she walks. One step. Another. She climbs the dais. The candidates' line breaks for her.
+Audience-only: under ISOLDE's wrist, the crescent pulses once. Under VAEL's scaled knuckles, a matching gold thread surfaces, then settles. Neither looks down.
 
-She reaches the chair beside Vael's throne. As she begins to lower herself — VAEL'S black-scaled HAND closes around her waist. Firm. Through the black silk. He sets her into the chair himself. His palm stays on her waist a beat longer than it needs to. As his hand lifts, his fingers gather a single strand of her dark-brown hair — pull it slowly across her shoulder and let it fall down her back. Where everyone can see.
+ISOLDE's eyes track the wing-clad attendant — she has seen what he is. She does not flinch.
 
-Then his scaled hand returns to the armrest of HER chair. Settled there. Possession written into the wood.
-
-ELARA freezes — smile finally gone. HALDREN, at the back of the hall, holds his diplomat's posture but his jaw shifts.
-
-[Camera] Slow descent on the handkerchief. Whip pan: Isolde walking. Tight on her foot stepping onto the dais. Close on Vael's hand at her waist — through the silk. Close on his fingers in her hair — the strand falling. Pull wide — Vael's scaled hand on the armrest of HER chair, his own throne beside it. Cut: Elara's frozen face. Cut: Haldren's tight jaw.
+[Camera]
+WIDE: court entering, two columns → MEDIUM: half-scaled attendant entering → CLOSE: ISOLDE's eyes tracking him → MACRO INSERT: ISOLDE's wrist crescent pulse → MACRO INSERT: VAEL's scaled knuckles, gold thread surface → CLOSE: ISOLDE not flinching
 
 [DIALOGUE]
-VAEL (low, only to Isolde, face still forward): Don't thank me for it.
-ISOLDE (level, also forward): I won't.
+(silence — court enters without speaking)
 
-[FX] Silk against wood. A single scale-on-stone tap from his fingers on the armrest. The under-score thrum locking into rhythm with her pulse.
+[FX]
+court footfalls, scaled attendant's quieter step, single pulse hum (audience-only paired tone), brazier flicker
+
+---
+
+S#4 — VAEL'S KEEP / ONYX HALL / DAIS / CONTINUOUS
+
+[Visual]
+A senior lieutenant — older, scar at the temple — steps forward. He does not approach the dais directly. He stops at the foot. He bows shallow — to VAEL only. He does not look at ISOLDE.
+
+LIEUTENANT: My lord. The treaty wagon has gone.
+
+VAEL says nothing for a long moment. The lieutenant waits. ISOLDE waits. Then VAEL speaks. He does not look at the lieutenant. He does not look at ISOLDE. He looks at the iron bench.
+
+VAEL: Mine to give.
+
+The lieutenant's jaw tightens. He bows again — shallower. He withdraws. The court does not move.
+
+ISOLDE turns her head to VAEL. He has not looked at her once during this. She looks at the high seat, then at her own bench. She speaks low — not for the court. Only for him.
+
+ISOLDE: Don't thank me for it.
+VAEL: I won't.
+
+The court remains silent.
+
+[Camera]
+WIDE: lieutenant approaching → MEDIUM: shallow bow → ECU: VAEL looking at iron bench (not at lieutenant, not at ISOLDE) → CLOSE: ISOLDE turning her head → TWO-SHOT: profile, ISOLDE looking at VAEL, VAEL still not looking at her → ECU: ISOLDE's mouth, low speech
+
+[DIALOGUE]
+LIEUTENANT: My lord. The treaty wagon has gone.
+VAEL: Mine to give.
+ISOLDE: Don't thank me for it.
+VAEL: I won't.
+
+[FX]
+lieutenant's boots, fabric of bow, sustained brazier flicker, silence between lines
 
 Hard Cut.
 
----
-
-# THE OFFERING — EP03: HER LORD AT THE WALL
-
-S#1
-
-[Visual] Deep night. Isolde's chamber inside the black castle. A single torch burns low. The white fur mantle from EP01 is folded over a chair. The black silk gown from EP02 catches what little light there is. Isolde walks toward the canopied bed — slowly, fingers loosening the silver chain belt at her waist.
-
-Above her — in the shadow of the ceiling beams — a single black shape shifts.
-
-[Camera] Push-in on Isolde from the doorway. Cut to her fingers at the chain belt. Tilt up — slowly — to the shadow at the beam. A black-gloved hand emerges from the dark. A thin curved blade.
+[Camera]
+ECU: VAEL's scaled fingers on stone arm of high seat, gold thread surfacing once more → MACRO INSERT: ISOLDE's wrist crescent, matching pulse → BLACK
 
 [DIALOGUE]
-(silence)
+(silence — end image, no dialogue)
 
-[FX] Torch crackle. A single tile shift overhead — soft, the audience hears it before she does.
+[FX]
+single sustained low hum (audience-only paired tone), brazier flare and dim
+
+Hard Cut
 
 ---
 
-S#2
+# THE OFFERING — EP03: First Bite
 
-[Visual] The ASSASSIN drops. Black robes, black mask, the curved blade aimed for Isolde's throat. Isolde turns — too slow — the blade is two inches from her neck —
+S#1 — VAEL'S KEEP / EAST CORRIDOR / DUSK
 
-A BLACK-SCALED HAND catches the blade in mid-air. Fingers close around the metal. The edge cuts into the scaled skin and stops dead. VAEL is in the room — between her and the assassin — his shoulder against hers.
+[Visual]
+A narrow corridor between the hall and ISOLDE's chamber. Brazier light low. ISOLDE walks alone — KIRAN trails ten paces behind, deliberate distance. A figure detaches from a shadow alcove ahead — dark hood, blade out. He moves fast. ISOLDE turns to face him.
 
-He twists. The blade snaps in his palm. He throws the broken edge aside. His free arm sweeps Isolde behind him — palm flat against her sternum, holding her at his back. The assassin tries to recover. Vael moves once. The assassin hits the black marble. Out.
+Before KIRAN can close, a scaled hand catches the assassin's wrist mid-strike. The sword arcs sideways, hits the stone wall, then snaps in half. VAEL stands between ISOLDE and the assassin, scaled hand still around the wrist. He twists once. The assassin drops to his knees.
 
-A small piece of fabric flutters from the assassin's robes onto the stone — a thin CHAIN-LINK INSIGNIA. The crest of the HUMAN KINGDOM. Isolde sees it. Her breathing stops.
+The assassin's hood falls back. Audience-only: a small kingdom signet at his collar — the same crest as ISOLDE's mother's pendant. VAEL sees it. ISOLDE does not.
 
-[Camera] Whip pan: blade descending. Hard cut to the scaled hand catching it. Macro on the edge cutting scale — and stopping. Wide: Vael placing Isolde behind him. Cut: assassin hitting the floor. Push-in: the chain-link insignia on the marble. Cut: Isolde's face — recognition.
+VAEL releases the wrist. The assassin slumps. KIRAN drags him out.
+
+VAEL: They sent him after you.
+VAEL: After they sent you here.
+
+[Camera]
+WIDE: narrow corridor, ISOLDE walking → MEDIUM: figure detaching from shadow → CRASH ZOOM: sword arc → ECU: scaled hand catching wrist → MACRO INSERT: sword snapping against stone → LOW ANGLE: assassin dropping to knees → MACRO INSERT: kingdom signet at collar (audience-only — ISOLDE looking away) → CLOSE: VAEL seeing it
 
 [DIALOGUE]
-ISOLDE (almost not aloud): My kingdom's mark.
-VAEL (low, still looking at the assassin): They sent him after you. After they sent you here.
+VAEL: They sent him after you.
+VAEL: After they sent you here.
 
-[FX] Steel snapping. Body falling. The under-score thrum returning — heavier than EP02.
+[FX]
+quiet corridor, sudden blade unsheathe, sword shatter, body drop, ISOLDE's breath catching, kingdom signet glint (audience-only paired hum)
 
 ---
 
-S#3
+S#2 — VAEL'S KEEP / EAST CORRIDOR / CONTINUOUS
 
-[Visual] Vael turns from the body. He walks toward Isolde. She is still pressed against the bedpost — chain belt half-loose at her waist, the black silk neckline pulled crooked from his arm sweeping her back. He does not stop walking.
+[Visual]
+KIRAN is gone with the assassin. The corridor is empty except for them. ISOLDE has not moved. Her right hand is half-raised — she did not need to defend herself. VAEL takes her wrist. He turns it. The crescent under the skin is fully formed now — clear gold, dark-edged.
 
-He puts one hand at the side of her throat. Slides her against the chamber wall. His palm flattens beside her head on the stone. His other hand finds the edge of the black silk at her shoulder — and pulls it down. The thin silver embroidery slips off her collarbone. The neckline drops an inch. Two.
+ISOLDE looks down. She sees it. Her breath catches.
 
-His scaled fingertips graze her collarbone, slide to the pulse at the side of her throat. He bends. His mouth — open — closes on hers.
+She looks up at him. He has not let go.
 
-The kiss is heavy. Deep. His grey eyes are open. Hers fall shut. His scaled hand at her throat tightens, just enough. The other hand — black-scaled — finds her hair, gathers it at the nape of her neck, pulls. Her head tips back. He breaks the kiss at her mouth, drags his mouth down — slow — across the line of her jaw, the soft skin under her ear, the side of her throat.
+ISOLDE: When.
+VAEL: When you walked over the threshold.
+ISOLDE: What is it.
+VAEL: Not yet a name.
 
-His teeth set against the side of her neck. Pressure. A bite — held — released. A clear mark blooms in the skin where his mouth was.
+He releases her wrist. The crescent stays gleaming.
 
-[Camera] Wide: Vael walking toward her. Tight: his hand on her throat. Push-in: silk neckline pulled down across her collarbone. Macro: scaled fingertips on her pulse. Hold on the kiss — long beat — open-mouth. Tilt: his mouth at her jaw. Macro: his teeth on her throat. Hold on the bite-mark blooming.
+[Camera]
+TWO-SHOT: VAEL holding her wrist → ECU: crescent in skin, fully formed → CLOSE: ISOLDE's face, seeing it → ECU: her breath shortening → TWO-SHOT: looking up at VAEL → ECU: VAEL's eyes, not human
 
 [DIALOGUE]
-(no dialogue. only her breath catching once. his breath against her throat.)
+ISOLDE: When.
+VAEL: When you walked over the threshold.
+ISOLDE: What is it.
+VAEL: Not yet a name.
 
-[FX] Stone scrape — his other hand flat against the wall. A single pearl breaking off the bodice and hitting the floor — a tiny ping in the silence. The thrum aligning with her pulse.
+[FX]
+corridor silence, single pulse hum (paired with VAEL's wrist gold surfacing again — audience-only), ISOLDE's controlled breath
 
 ---
 
-S#4
+S#3 — VAEL'S KEEP / ISOLDE'S CHAMBER / NIGHT
 
-[Visual] Vael's mouth lifts from her throat. He drags his face down — slow — to her exposed inner wrist. He turns her hand palm-up. The faint mark from EP01 — pale gold beneath her skin — is brighter now. Two flickers, longer. He presses his open mouth to it. The mark glows visibly under his lips.
+[Visual]
+A small chamber. One brazier. A bed. A window with iron grill. ISOLDE stands at the window. VAEL is at the door. He shuts it behind him. He crosses to her. She does not turn. He stops behind her — close enough she feels his weight at her back, not touching.
 
-Then he stops. Stillness. His eyes open. He pulls back — one step. Two. His scaled hand releases her wrist. The silk strap at her shoulder is still down. The bite-mark on her throat is darkening.
+His scaled hand rises and gathers a length of her dark hair at the nape. He does not pull. He simply closes his fist around it. The other hand — the gauntleted one — pulls the strap of her gown down off her left shoulder. Slowly. The fabric falls to her collarbone.
 
-He turns. Walks to the doorway. Stops with his back to her.
+ISOLDE: They sent me here to die.
+VAEL: I know.
 
-[Camera] Macro: his mouth at her inner wrist. Push-in: the gold mark pulsing brighter beneath his lips. Pull back — Vael stepping away. Wide: Isolde against the wall — black silk crooked, hair loose, bite at the throat, lips parted. Cut to Vael's back at the door — not turning.
+He turns her by the hair-fist. Not rough — controlled. She faces him. He bends. His mouth presses against hers — hard, not asking. Her lips part. His tongue pushes in. She gasps into his mouth. Her hands rise — fist in his collar, hold.
+
+He breaks. Half-inch. He looks at her mouth, not her eyes.
+
+VAEL: Because if I don't stop, I won't.
+
+He bends again. He bites — once — just below the curve of her jaw, at the soft skin where neck meets shoulder. Hard. Mark blooming dark beneath the skin.
+
+She does not pull away.
+
+[Camera]
+WIDE: chamber → MEDIUM: ISOLDE at window → MEDIUM: VAEL closing door, crossing → CLOSE: VAEL behind her, not touching → ECU: scaled fist closing on hair at nape → MACRO INSERT: gauntleted hand pulling strap off shoulder → CLOSE: fabric falling to collarbone → TWO-SHOT: VAEL turning her by the hair-fist → ECU: mouth on mouth, lips parting → ECU: tongue pushing in → CLOSE: ISOLDE's hands fisting in his collar → ECU: half-inch break → ECU: VAEL's mouth at her jaw → MACRO INSERT: bite blooming dark on her skin
 
 [DIALOGUE]
-ISOLDE (her voice not steady, but cold): Why did you stop?
-VAEL (without turning): Because if I don't stop, I won't.
+ISOLDE: They sent me here to die.
+VAEL: I know.
+VAEL: Because if I don't stop, I won't.
 
-[FX] His footsteps leaving. Door closing. Single torch hissing as it dips. The thrum cutting out — sudden silence.
+[FX]
+door closing, fabric sliding off shoulder, breath sharpening, kiss sound (mouths breaking and meeting), ISOLDE's gasp into his mouth, bite sound (sharp inhale)
+
+---
+
+S#4 — VAEL'S KEEP / ISOLDE'S CHAMBER / NIGHT
+
+[Visual]
+VAEL has not moved away. His scaled hand is still in her hair. His mouth is at the bite mark. The bite is small but precise — at the soft junction below her jaw. He does not lick. He simply rests his lips against it.
+
+ISOLDE breathes. The mark is hot.
+
+He pulls back. He looks down at the mark. Then at the crescent on her wrist. The crescent has brightened — gold cleaner, dark-edged sharper. Audience-only: the gold of the crescent and the gold under VAEL's scaled knuckles pulse once together — the same beat.
+
+He releases her hair. Steps back. One step. Two.
+
+VAEL: Mine to keep.
+
+He turns and walks out. The door shuts. ISOLDE stands at the window, strap still pooled at her collarbone, mark hot under her jaw, crescent burning on her wrist.
 
 Hard Cut.
 
----
-
-# THE OFFERING — EP04: THE FLAG IN HIS HAND
-
-S#1
-
-[Visual] War room. Black marble table at the center. Laid on it side by side: the HUMAN KINGDOM FLAG (folded, edges burned at the corners from the carriage journey) and the THIN CHAIN INSIGNIA pulled from the assassin's robes in EP03. The DRAGON NOBLES stand around the table — Vael's officers, hands behind their backs. HALDREN stands at the entrance, grey diplomat's mantle, hands folded.
-
-Isolde enters from a side corridor. She stops in the colonnade shadow. She wears the black silk gown — the silver chain belt back at her waist, the neckline straightened by her own hand. The bite-mark from EP03 is partly hidden by her hair, but a piece of it shows above her collar. Her dark-brown hair falls down her back.
-
-VAEL sits at the head of the table. His scaled hands are flat on the marble, on either side of the flag.
-
-[Camera] Wide on the war room. Close on the flag. Close on the chain insignia. Push-in on Vael — hands on marble. Cut to Isolde in the colonnade shadow — partial bite-mark above her collar.
+[Camera]
+ECU: VAEL's lips at bite mark → CLOSE: ISOLDE breathing → ECU: VAEL pulling back, looking at mark → ECU: VAEL looking at her wrist crescent → MACRO INSERT: paired pulse — wrist crescent + VAEL's scaled knuckles (audience-only) → MEDIUM: VAEL stepping back → CLOSE: ISOLDE standing as he leaves → MACRO INSERT: bite mark blooming dark, mark under jaw → MACRO INSERT: crescent on wrist, fully burning → BLACK
 
 [DIALOGUE]
-HALDREN (formal): The kingdom's right to dispose of the offering remains the kingdom's.
+VAEL: Mine to keep.
 
-[FX] Marble underfoot. No music yet.
+[FX]
+his lips at bite mark (soft), paired pulse hum (audience-only), door shutting, sustained low resonance, ISOLDE's controlled breath
+
+Hard Cut
 
 ---
 
-S#2
+# THE OFFERING — EP04: Banner Burn
 
-[Visual] Vael does not cut Haldren off. He lets him finish. The dragon nobles watch.
+S#1 — VAEL'S KEEP / OUTER GATE / MIDDAY
 
-HALDREN (continued): The kingdom assumes no responsibility for the safety of the offering. (His eyes drop briefly to the chain insignia. He continues anyway.) She is to be processed as the offering.
+[Visual]
+A second envoy column arrives. Twenty riders. A new standard at the front — kingdom crest stitched in pale gold thread on dark cloth, mounted on a tall iron pole. The lead rider is older, scarred — HALDREN. He dismounts at the gate. The keep gate does not open. KIRAN waits on the inner side, scaled attendant beside him. The standard pole bites into the courtyard stone — a deliberate plant.
 
-A pause. Vael's grey eyes stay on the flag. His scaled fingers do not move.
+HALDREN: We have come for the offering.
+KIRAN: She arrived two days ago.
+HALDREN: We did not send her to live.
 
-The dragon nobles look at each other — they are waiting for Vael to speak. He does not. After a long beat, the senior dragon noble bows once and exits. The others follow. Haldren waits, then turns and exits last. He passes the colonnade. He does not see Isolde in the shadow.
-
-The war room empties. Only Vael remains at the table. Isolde, in the colonnade, stays where she is.
-
-[Camera] Long pan along Haldren's words. Tight on Vael — no movement. Cut to dragon nobles exiting. Hold on Vael alone at the table. Cut to Isolde in colonnade — she has not moved.
+[Camera]
+WIDE: envoy column on the road → MEDIUM: HALDREN dismounting → MACRO INSERT: standard pole driven into stone → MEDIUM: KIRAN and scaled attendant at gate → OVER-SHOULDER: HALDREN facing KIRAN → CLOSE: HALDREN's jaw tightening
 
 [DIALOGUE]
-HALDREN (parting, near the doorway): A formal kingdom statement will arrive by the second envoy.
+HALDREN: We have come for the offering.
+KIRAN: She arrived two days ago.
+HALDREN: We did not send her to live.
 
-[FX] Footsteps leaving. Heavy doors closing. Silence in the war room.
+[FX]
+twenty horses settling, standard pole hitting stone, distant gate hum, wind through pale gold thread
 
 ---
 
-S#3
+S#2 — VAEL'S KEEP / ONYX HALL / DAIS / SHORT TIME LATER
 
-[Visual] Vael lifts the human kingdom flag from the marble. Slowly. He unfolds it once across his open palm — the gold thread of the kingdom crest catching the torchlight. He turns his hand. His grey eyes blacken for a single beat — then ignite. DARK BLOOD-RED FLAME — like coals beneath skin — blooms across the back of his hand, threading along the lines of the BLACK SCALES.
+[Visual]
+ISOLDE on the iron bench again, hair down, the strap of yesterday's gown replaced with a higher collar — but the bite mark still visible above it, dark. The crescent on her wrist still burning. VAEL on the high seat. HALDREN is permitted in. He stops at the foot of the dais. He sees the bite mark. He sees the crescent.
 
-The flag begins to burn from the center outward. The kingdom crest curls and blackens. Ash falls onto the black marble in slow lines.
+HALDREN: She bears your hand.
+VAEL: She bears more than that.
+HALDREN: My king commands her return.
+VAEL: Then the kingdom should not have sent her at all.
 
-He has not turned toward the colonnade. He knows she is there.
+HALDREN does not look at ISOLDE — he speaks past her, at VAEL. ISOLDE looks at HALDREN. She does not speak.
 
-[Camera] Close on the flag unfolding in his palm. Macro on the scales — flame igniting. Slow push-in on the kingdom crest burning. Cut wide — Vael standing at the table with the burning flag in front of him. Cut to Isolde in the colonnade — watching.
+[Camera]
+WIDE: dais → MEDIUM: HALDREN entering → ECU: HALDREN's eyes on the bite mark, then the crescent → CLOSE: VAEL on high seat → TWO-SHOT: ISOLDE and bench → ECU: HALDREN speaking past ISOLDE → CLOSE: ISOLDE watching him not look at her
 
 [DIALOGUE]
-(silence)
+HALDREN: She bears your hand.
+VAEL: She bears more than that.
+HALDREN: My king commands her return.
+VAEL: Then the kingdom should not have sent her at all.
 
-[FX] Soft fire. Cloth tearing in the flame. The under-score thrum returning — slow, deep, building.
+[FX]
+boots on dais stone, brazier flicker, silence between lines, distant pole creaking outside
 
 ---
 
-S#4
+S#3 — VAEL'S KEEP / OUTER COURTYARD / CONTINUOUS
 
-[Visual] Vael waits until the flag is ash on the marble. Only then does his FLAMING HAND lift. He turns — half — toward the colonnade. He does not look at her face. His scaled-and-flaming hand crosses the distance through the colonnade shadow and finds her wrist.
+[Visual]
+The keep gate opens. VAEL walks out. ISOLDE follows two paces behind — she was not commanded, she chose. KIRAN walks at her shoulder. HALDREN backs out before them. The standard pole stands in the middle of the courtyard, the kingdom crest stitched in pale gold catching the sun.
 
-He turns her wrist palm-up — the pale gold MARK from EP01 / EP03 is brighter still. His DARK BLOOD-RED FLAME meets the gold of her mark on her inner wrist. The flame does not burn her. The gold mark pulls toward the flame — like iron toward a magnet — and the line of fire follows the shape of the mark. He traces it slowly with one scaled fingertip — the flame drawing along her skin where the mark already lives.
+VAEL stops before the standard. He raises his scaled hand. The palm turns up. A dark red flame ignites in the cupped palm — not torch, not lantern. Live fire from his own flesh. He sets his palm against the cloth of the standard. The pale gold thread chars instantly. The fire spreads up the cloth in a black curl. The standard burns.
 
-The mark deepens under his fire. A new line — finer, sharper — etches into the gold. He keeps tracing it. His fingertip is patient. Possessive.
+HALDREN steps back. The envoy riders shift on their horses. The scaled attendant does not move.
 
-[Camera] Pull wide: Vael turning halfway toward the colonnade. Tight: his flaming scaled hand reaching across to her wrist. Macro: flame meeting the gold mark — gold pulling toward fire. Tighter macro: his fingertip tracing the line of the mark. Push-in on Isolde's face — controlled, but her lips part.
+ISOLDE watches the fire. The crescent on her wrist pulses once — bright. Audience-only: a thin dark line traces along her inner wrist beside the crescent, the same dark red as VAEL's flame. The line settles into the skin and stays.
+
+[Camera]
+WIDE: keep gate opening → TRACKING: VAEL walking out, ISOLDE following → MEDIUM: HALDREN backing out → LOW ANGLE: standard pole in courtyard → CLOSE: VAEL raising scaled palm → ECU: dark red flame in palm → MACRO INSERT: palm against cloth → ECU: pale gold thread charring → WIDE: standard burning, black curl → MEDIUM: envoy riders shifting → CLOSE: ISOLDE watching → MACRO INSERT: dark line tracing on her inner wrist (audience-only)
 
 [DIALOGUE]
-VAEL (his eyes on her wrist — not her face): They will not call you that again.
+(silence — the burning is the line)
 
-[FX] The flame in his hand snuffing out as his fingertip leaves her wrist. The mark on her wrist still glowing faintly after the fire is gone. A single low DRAGON NOTE from far above — distant, audience-only — under the score.
+[FX]
+gate opening, palm fire igniting (deep crack), cloth charring (sharp sizzle), standard collapsing, envoy horses unsettled, ISOLDE's controlled breath
+
+---
+
+S#4 — VAEL'S KEEP / OUTER COURTYARD / CONTINUOUS
+
+[Visual]
+The standard has burned to the iron pole. Black ash on stone. VAEL turns to HALDREN.
+
+VAEL: Tell your king.
+HALDREN: Tell him what.
+VAEL: That this is what walked in.
+
+HALDREN looks at ISOLDE — finally directly. He sees, plainly, the bite mark above her collar and the crescent on her wrist. He sees also, faintly through her sleeve, the new dark flame line. He bows — half-shallow, only to VAEL.
+
+HALDREN: My lord.
+
+He withdraws. The envoy column mounts and rides. The keep gate closes. ISOLDE is left standing beside VAEL in the empty courtyard. The standard pole stands bare, iron only, scorched.
+
+She looks at her own inner wrist. She sees the dark line beside the crescent. Her breath does not change.
 
 Hard Cut.
 
----
-
-# THE OFFERING — EP05: NOT ON YOUR MOUTH
-
-S#1
-
-[Visual] Northern terrace of the black castle. First stars rising over the snow-line of the ridge. The wind is cold. ISOLDE stands at the railing in the black silk gown — the white fur mantle from EP01 now thrown back across her shoulders to hold the cold. The bite-mark from EP03 sits openly above her collar. The fingertip-traced mark from EP04 is on her inner wrist; she keeps that wrist turned in toward her body.
-
-Footsteps behind her. VAEL crosses the terrace — heavy, deliberate. He stops at her right shoulder. He does not speak.
-
-[Camera] Slow push-in from behind Isolde — her back, the loose dark-brown hair, the bite-mark visible above the silk. Cut to Vael's boots crossing the terrace. Cut to the two of them at the railing — wide shot — the dark ridge below them.
+[Camera]
+WIDE: courtyard, standard burned to pole → TWO-SHOT: VAEL and HALDREN → CLOSE: HALDREN looking at ISOLDE directly → ECU: bite mark above collar, crescent on wrist, dark flame line through sleeve → MEDIUM: HALDREN half-bowing to VAEL → WIDE: envoy mounting and riding → MEDIUM: keep gate closing → CLOSE: ISOLDE looking at her own wrist → MACRO INSERT: crescent + dark flame line, both burning steady → BLACK
 
 [DIALOGUE]
-(silence)
+VAEL: Tell your king.
+HALDREN: Tell him what.
+VAEL: That this is what walked in.
+HALDREN: My lord.
 
-[FX] Wind. A single distant dragon note from the ridge — under-score, low.
+[FX]
+ash on stone, iron pole creaking, envoy mounting, gate closing, sustained low hum (paired audience-only, VAEL and ISOLDE's marks pulsing together)
+
+Hard Cut
 
 ---
 
-S#2
+# THE OFFERING — EP05: Stacked
 
-[Visual] Isolde turns her face — only her face — toward him. She does not turn her wrist.
+S#1 — VAEL'S KEEP / WEST GARDEN / AFTERNOON
 
-ISOLDE (level): Why don't you treat me the way they sent me to be treated?
+[Visual]
+A walled garden of black stone, low pale flowers. ISOLDE walks the path alone. Another woman is already there — ELARA, dark hair pinned with a silver clasp, a similar gown but unmarked at neck and wrist. She has been waiting. She turns when she hears ISOLDE.
 
-Vael's grey eyes do not move from the ridge. He does not answer. The wind picks up a strand of her hair, lifts it across her cheek. He watches it. Still says nothing.
+ELARA: They sent me a week before you.
+ISOLDE: They sent you to live.
+ELARA: They sent me to be chosen.
+ISOLDE: He hasn't.
 
-Her free hand — her right hand — rises. Open palm. Toward the side of his face.
+ELARA's eyes go to the bite mark above ISOLDE's collar. ELARA's hand goes to her own throat — unmarked, smooth.
 
-[Camera] Tight on Isolde's face — controlled. Cut to Vael's profile — silent. Macro: the wind lifting her hair. Cut: her hand rising.
+A wing-shadow passes overhead. Both women look up. The shadow does not return.
+
+[Camera]
+WIDE: walled garden → MEDIUM: ELARA waiting on path → MEDIUM: ISOLDE arriving → ECU: ELARA's eyes on the bite mark → ECU: ELARA's hand at her own throat (unmarked) → LOW ANGLE: wing-shadow passing overhead → CLOSE: both women looking up
 
 [DIALOGUE]
-ISOLDE (continued, quieter): Answer me.
+ELARA: They sent me a week before you.
+ISOLDE: They sent you to live.
+ELARA: They sent me to be chosen.
+ISOLDE: He hasn't.
 
-[FX] Wind louder. The under-score thrum reentering.
+[FX]
+gravel underfoot, wing-shadow rush (loud, then silence), wind through pale flowers, ELARA's silk
 
 ---
 
-S#3
+S#2 — VAEL'S KEEP / WEST GARDEN / CONTINUOUS
 
-[Visual] Vael catches her wrist in mid-air. The black-scaled fingers close around it in a single motion — not the marked wrist, the other one. He pulls her toward his chest. Her body comes against his. The white fur mantle slides off one shoulder.
+[Visual]
+VAEL enters at the far end of the garden. He does not look at ELARA. He walks to ISOLDE. He stops two paces from her. Close enough that ELARA can see. He raises the scaled hand. He lays it — open palm — on the bite mark at ISOLDE's throat. Cover. Not press.
 
-His other scaled hand finds the underside of her chin — fingertips along her jaw, thumb at the corner of her mouth. He lifts her face into the firelight from the terrace torch.
+ELARA goes still.
 
-His mouth comes down toward hers. Slow. He stops half an inch from her lips. His breath is on her mouth. Hers is on his. Her eyes hold his — open. His grey eyes are open too.
+VAEL (to ELARA): Leave us.
 
-[Camera] Whip pan: hand-catching-wrist. Push-in: Isolde pulled into his chest. Tight: fur mantle slipping off her shoulder. Macro: his thumb at the corner of her mouth. Hold the half-inch gap — long beat.
+ELARA bows shallow. She walks out. The scaled palm stays at ISOLDE's throat.
+
+ISOLDE (quiet, after ELARA is gone): Then stop pretending I'm not.
+
+VAEL closes the half-inch. The palm presses lightly. His fingers slide up to her jaw. His scaled thumb at her chin, lifting her face.
+
+VAEL: Pretending what.
+ISOLDE: Of the wall I keep meeting.
+
+[Camera]
+WIDE: garden → MEDIUM: VAEL entering at far end → TRACKING: VAEL crossing → ECU: scaled palm settling open on bite mark at throat (cover, not press) → CLOSE: ELARA going still → MEDIUM: ELARA bowing, walking out → ECU: scaled palm pressing lightly → ECU: fingers sliding up to jaw → ECU: scaled thumb lifting her chin → TWO-SHOT: faces close
 
 [DIALOGUE]
-VAEL (low, breath on her lips): Insolent princess.
-ISOLDE (steady, breath on his): Then stop pretending I'm not.
+VAEL: Leave us.
+ISOLDE: Then stop pretending I'm not.
+VAEL: Pretending what.
+ISOLDE: Of the wall I keep meeting.
 
-[FX] The wind dropping. The thrum aligning with both their pulses — same rhythm, same depth.
+[FX]
+distant wing-rush gone, ELARA's gown receding, scaled palm settling (soft scrape), ISOLDE's quiet line, garden silence
 
 ---
 
-S#4
+S#3 — VAEL'S KEEP / ISOLDE'S CHAMBER / EARLY EVENING
 
-[Visual] Vael does not close the half-inch to her mouth. Instead — slow — his lips go past her mouth. He brushes the line of her jaw with his open mouth, drags down to the soft skin behind her ear. His mouth closes on the side of her throat — on the side opposite the bite-mark from EP03. A new bite. Held. Released. A SECOND clear mark blooms in her skin. Then his mouth drags further down — to the pulse at the base of her throat. He kisses it open-mouthed. The mark on her inner wrist — caught in his other hand — pulses gold against his fingers.
+[Visual]
+The chamber. VAEL backs ISOLDE against the bedpost. His scaled hand is at the nape, fisted in her hair again. His gauntleted hand finds the lower clasp of her gown — at the sternum, between her breasts. He undoes it. The fabric parts to her waist. He does not look down. He keeps his eyes on her face.
 
-Then he stops. He lifts his head. His thumb leaves the corner of her mouth. His scaled fingers release her wrist. He steps back.
+His mouth goes to her earlobe — bites, soft. Pulls. His scaled hand drags her head sideways so her throat opens. He kisses the pulse-point at her throat, open-mouthed. Her breath shortens. His tongue traces the bite mark from EP3. The mark heats again.
 
-He turns and walks into the dark of the terrace. He does not look back. The torch behind him sputters.
+His gauntleted hand opens fully against the bare skin of her sternum, spreads — palm flat against her ribs. He does not move further down.
 
-ISOLDE stays at the railing. Two bite-marks — one each side of her throat — visible now against the porcelain of her skin. Her hand-print on her wrist where he held her. The mark on her inner wrist still glowing faint gold.
+ISOLDE: Tell me to stop.
+VAEL: I won't.
 
-[Camera] Tilt: his mouth bypassing her lips. Tight: open-mouth at her jaw. Macro: second bite blooming. Push-in: open-mouth kiss at the base of her throat. Hold on the gold mark pulsing against his fingers. Pull back: Vael walking away into the dark. Hold on Isolde alone — both throat marks, the wrist mark.
+He bites again. This time at her wrist — inner wrist, just below the crescent. A second mark blooms — same shape as the first, smaller. Stacked. The two marks burning side by side, identical curve.
+
+She gasps. Her free hand fists in his shirt.
+
+[Camera]
+WIDE: chamber → MEDIUM: VAEL backing ISOLDE against bedpost → ECU: scaled fist at nape → MACRO INSERT: gauntleted hand at lower clasp → ECU: clasp undoing → CLOSE: fabric parting to waist → ECU: VAEL's eyes still on her face → ECU: mouth at her earlobe (bite, pull) → ECU: scaled hand dragging head sideways → ECU: open-mouth kiss at throat pulse-point → MACRO INSERT: tongue tracing EP3 bite mark, mark heating → ECU: gauntleted palm flat on sternum → CLOSE: ISOLDE's quiet line → ECU: VAEL's mouth at inner wrist → MACRO INSERT: second bite blooming, stacked with first → CLOSE: ISOLDE's gasp, fist in his shirt
 
 [DIALOGUE]
-(no dialogue. her breath returning. his footsteps receding.)
+ISOLDE: Tell me to stop.
+VAEL: I won't.
 
-[FX] His footsteps fading. The torch dying down. The thrum cutting off — silence, then wind.
+[FX]
+clasp undoing (soft snap), fabric parting, earlobe bite, throat kiss (open-mouth), tongue trace on old bite (mark heating hum), gauntleted palm against bare sternum (soft slide), wrist bite (sharp), paired hum (audience-only, marks pulsing identical)
+
+---
+
+S#4 — VAEL'S KEEP / ISOLDE'S CHAMBER / CONTINUOUS
+
+[Visual]
+VAEL releases her wrist. His mouth is half-an-inch from hers. Both marks on her wrist burn. The scaled palm is still at her sternum. His gauntleted hand pulls hers off his shirt — not rough, deliberate. He sets her hand back at her side.
+
+VAEL: Not yet your mouth.
+
+He pulls back. He closes the lower clasp of her gown — slow, deliberate. The fabric draws together. The earlobe is bright. The throat is bright. The two wrist marks burn. The sternum skin pinks where the scaled palm pressed.
+
+He turns and walks to the door. At the door:
+
+VAEL: Mate.
+
+He says the word like a question that is not asking. He leaves. The door shuts.
+
+ISOLDE looks at her wrist — two crescents now, stacked, both burning. Her sternum still flushed. Her mouth is unkissed. The earlobe and throat are kissed.
+
+Audience-only: under VAEL's scaled knuckles in the corridor outside, a second gold thread surfaces beside the first. Stacked. Paired. The two surfaces under his skin matching the two marks under hers.
 
 Hard Cut.
 
----
-
-# THE OFFERING — EP06: SHE WALKS HERSELF
-
-S#1
-
-[Visual] The BLACK GREAT HALL. Morning torches. The black marble table at the center. Laid in the middle of it — the thin CHAIN-LINK INSIGNIA from EP03, the assassin's mark of the human kingdom. VAEL stands at the head of the table. He slides the insignia, with two scaled fingers, into the exact center of the long table.
-
-HALDREN and three KINGDOM LIAISONS stand at the foot of the table. The nobles and bride candidates line the daises. ELARA stands at the head of the candidates — ivory-and-gold gown, ringed hands folded. The HEAD MAID and household staff line the back wall.
-
-[Camera] Wide on the great hall. Macro: the chain insignia sliding across black marble — Vael's scaled fingers pushing it. Cut to Haldren's face — for the first time, eye-contact with the insignia.
+[Camera]
+ECU: half-inch from mouth → ECU: VAEL pulling her hand off his shirt, setting it at her side → CLOSE: VAEL's line → MEDIUM: VAEL closing clasp, slow → ECU: earlobe, throat, two wrist marks, sternum pink → MEDIUM: VAEL at door → ECU: VAEL's "Mate" → MEDIUM: door shutting → CLOSE: ISOLDE looking at wrist → MACRO INSERT: two stacked crescents → MACRO INSERT (corridor): VAEL's scaled knuckles, second gold thread surfacing beside first → BLACK
 
 [DIALOGUE]
-(silence from Haldren. His mouth opens once and closes.)
+VAEL: Not yet your mouth.
+VAEL: Mate.
 
-[FX] The marble whisper of the insignia. The thrum under-score — even, slow.
+[FX]
+clasp closing (slow snap), VAEL's last line low, door shutting, sustained paired hum (audience-only, both marks burning), ISOLDE's controlled breath
+
+Hard Cut
 
 ---
 
-S#2
+# THE OFFERING — EP06: The Mark Holds
 
-[Visual] Isolde appears at the far end of the long aisle. She wears the black silk gown — bodice intact, silver chain belt at her waist. Both throat marks are visible above her collar — the EP03 bite on one side, the EP05 bite on the other. The wrist mark from EP04 is fresh-traced gold on her inner wrist.
+S#1 — VAEL'S KEEP / ONYX HALL / DAIS / MORNING
 
-No one has called her. She walks the aisle herself. Her steps are even. The candidates' line breaks for her. She climbs the dais. She reaches the raised chair — the one Vael set her into in EP02 — and lowers herself into it. Of her own will.
+[Visual]
+The hall is full. A new herald — younger than HALDREN, sharper — stands at the foot of the dais. HALDREN beside him, half a step back. The kingdom standard is gone; the herald carries instead a sealed writ. ISOLDE on the iron bench, hair down, neck high enough to show the bite mark above the collar deliberately. Both wrist marks visible on the bench arm where her hand rests. VAEL on the high seat, scaled hand resting on the stone arm — gold thread surfacing under the scales, paired and stacked.
 
-ELARA — for the first time — adjusts her skirt and steps one foot to the side. A surrender of position. The smile she had in EP02 is fully gone.
+The herald breaks the seal. He reads.
 
-[Camera] Wide pull from behind Isolde walking the aisle. Cut to the candidates breaking for her. Tight on her foot stepping onto the dais. Macro: her hand resting on the chair armrest — where Vael's hand lived in EP02. Cut to Elara stepping aside.
+HERALD: The King of Velden disowns the offering. She is no daughter of his house. She is no subject of his crown. She is —
+VAEL: Read the second writ, envoy.
+
+The herald freezes. HALDREN's jaw tightens. The first writ falls from the herald's hand to the dais stone.
+
+[Camera]
+WIDE: full hall → MEDIUM: herald at foot of dais → CLOSE: HALDREN half a step back → ECU: ISOLDE on iron bench, both wrist marks visible → ECU: VAEL on high seat, scaled hand on arm, paired gold under scales → MEDIUM: herald breaking seal → ECU: herald's mouth reading → CLOSE: VAEL cutting in → CLOSE: herald freezing → MACRO INSERT: first writ falling
 
 [DIALOGUE]
-HALDREN (almost not aloud): Princess —
-(he stops himself. He has used a kingdom title. The kingdom liaisons behind him stiffen.)
+HERALD: The King of Velden disowns the offering. She is no daughter of his house. She is no subject of his crown. She is —
+VAEL: Read the second writ, envoy.
 
-[FX] Silk rustle. The thrum deepening.
+[FX]
+seal cracking, herald's voice formal, sudden silence, writ hitting dais stone
 
 ---
 
-S#3
+S#2 — VAEL'S KEEP / ONYX HALL / DAIS / CONTINUOUS
 
-[Visual] Vael moves from the head of the table to the dais. He stops at Isolde's chair. The kingdom liaisons watch.
+[Visual]
+The herald reaches inside his coat. He brings out a second writ — sealed differently, the seal blacker, smaller. Audience-only: same crest as the kingdom signet on the assassin's collar from EP3. HALDREN's eyes go to it. He did not know of this writ.
 
-He picks up Isolde's hand — the one on the armrest. The marked wrist. He lifts it to his mouth — open-mouthed kiss across her knuckles. His scaled fingertips turn the hand. He drags his lips slowly across the inside of her wrist — along the line of the gold mark — exactly where his fingertip drew the flame in EP04. Where his mouth was in EP03.
+ISOLDE rises from the iron bench. She does not climb the dais higher. She speaks from where she stands, beside VAEL.
 
-He does not close his mouth. He kisses each section of the mark — slowly — making sure the kingdom liaisons see it.
+ISOLDE: I will hear it from the seat I am in.
 
-His other scaled hand rises behind her — gathers her long dark-brown hair at the nape, where the EP02 strand was pulled. He combs his fingers through her hair — slow, possessive — and lets the length fall down her back, openly, across the chair, where the entire hall sees.
+She sits again. The herald looks at HALDREN. HALDREN gives no signal. The herald breaks the second seal.
 
-The kingdom liaisons behind Haldren begin, one by one, to drop their eyes. Two of them turn toward the door without being dismissed. They begin packing — quietly — at the back wall.
+HERALD: The King of Velden offers a treaty for the return of the offering. The kingdom will yield —
 
-[Camera] Slow ascent on Vael walking to the dais. Tight: his hand picking up hers. Macro: open-mouth kiss across her knuckles. Push-in: his lips tracing the gold line of the inner wrist mark — frame-for-frame the same path as the EP04 flame. Wide: Vael combing his fingers through her hair, length falling across the chair. Cut: kingdom liaisons dropping their eyes. Cut: liaisons stepping back, starting to gather kingdom seals into bags.
+VAEL raises his scaled hand. The herald stops.
+
+VAEL: The mark holds.
+
+He turns. He takes ISOLDE's wrist — left hand, where the two stacked crescents burn. He lifts her wrist. He brings her wrist to his mouth. He kisses the place between the two crescents. Open-mouthed. The court sees. ELARA — at the back of the hall, brought in to watch — sees.
+
+ISOLDE's other hand stays on the bench arm. She does not move it. She does not look at the herald.
+
+[Camera]
+WIDE: herald reaching inside coat → MACRO INSERT: second writ, blacker seal → ECU: HALDREN's eyes on the second seal (did not know) → MEDIUM: ISOLDE rising → CLOSE: ISOLDE's line → MEDIUM: ISOLDE sitting again → ECU: herald looking at HALDREN, no signal → MACRO INSERT: second seal cracking → ECU: herald reading → CLOSE: VAEL's scaled hand raising → CLOSE: VAEL's line → ECU: VAEL taking her wrist → CLOSE: lifting her wrist → ECU: VAEL's mouth on the place between the crescents, open-mouthed → WIDE: court seeing → CLOSE: ELARA at back, watching → ECU: ISOLDE's other hand still on bench arm, unmoved
 
 [DIALOGUE]
-(no dialogue from Vael. He does not speak. The hall reads the action.)
+HERALD: The King of Velden offers a treaty for the return of the offering. The kingdom will yield —
+ISOLDE: I will hear it from the seat I am in.
+VAEL: The mark holds.
 
-[FX] The wrist mark pulsing gold against his lips — visible to all. The thrum aligning with the pulses she shares with him.
+[FX]
+second seal cracking (sharper), VAEL's line low and final, open-mouth wrist kiss (audible), court intake of breath, ELARA's silk shifting (back of hall)
 
 ---
 
-S#4
+S#3 — VAEL'S KEEP / ONYX HALL / DAIS / CONTINUOUS
 
-[Visual] Vael straightens. He keeps her hand — does not return it to the armrest. He sets her marked wrist down on top of his own scaled hand on the dais railing. Hers above his. The kingdom liaisons behind Haldren are openly packing now — folding kingdom seals into transport cases, moving toward the doorway.
+[Visual]
+VAEL lowers her wrist back to the bench arm. The kiss leaves the place between the crescents wet, gleaming. He looks at HALDREN.
 
-HALDREN walks down the long aisle alone. He stops one pace from the foot of the dais. Below Isolde. He looks at her.
+VAEL: Your king has two writs and one daughter he disowns. Which is the offer.
 
-Then — slowly — he tilts his head down. A short bow. Not the bow he gave Vael at the table. A different one. He holds it.
+HALDREN does not answer. The herald does not answer. The court is silent.
 
-The wrist mark on Isolde's hand pulses once — gold — visible. She does not cover it.
+HALDREN steps forward. Past the herald. He stops at the foot of the dais. He lowers his head — not a shallow bow this time, not even a half. His forehead touches the stone. The hall stills. The kingdom envoys watch. The kingdom envoys do not move.
 
-ELARA, on the candidate dais, FREEZES. Her ringed hand goes white on her own skirt.
+HALDREN (forehead to stone): My lord.
 
-[Camera] Tight: Vael placing her hand on top of his — hers on top, not under. Pull wide: liaisons exiting at the back. Slow walk-in: Haldren coming up the aisle alone. Tight on his face — formal, contained. Hold on the bow — long beat. Cut to Elara — frozen.
+ISOLDE looks at HALDREN's bowed back. She has known him since childhood. She does not speak. She does not move from the bench.
+
+[Camera]
+ECU: VAEL lowering her wrist, wet gleam → CLOSE: VAEL looking at HALDREN → CLOSE: VAEL's line → MEDIUM: HALDREN not answering → MEDIUM: HALDREN stepping forward, past herald → MEDIUM: HALDREN at foot of dais → CLOSE: HALDREN lowering his head → ECU: forehead touching stone → WIDE: hall stilling → MEDIUM: envoys watching, frozen → CLOSE: ISOLDE looking at HALDREN's bowed back → ECU: ISOLDE's face, unmoving
 
 [DIALOGUE]
-HALDREN (low, formal, the bow held): My lady.
-(He uses no kingdom title. He uses a different one.)
+VAEL: Your king has two writs and one daughter he disowns. Which is the offer.
+HALDREN: My lord.
 
-[FX] The thrum locking. A long, low note from beyond the castle wall — far on the ridge — audience-only. The first single DRAGON CALL.
+[FX]
+distant wind, court silence, HALDREN's forehead on stone (soft contact), brazier flicker, ISOLDE's controlled breath
+
+---
+
+S#4 — VAEL'S KEEP / RAMPART / DUSK
+
+[Visual]
+ISOLDE stands at the rampart wall. The keep below her, the road to Velden in the distance. VAEL is beside her — close, not touching. Both their hands rest on the dark stone of the rampart. Her two wrist marks burn. The gold thread under his scaled knuckles surfaces, paired and stacked.
+
+Across the valley, on the far ridge — two shadows. Wing-shapes against the dusk sky. They do not move. They do not draw closer. They simply hold position.
+
+ISOLDE: How many.
+VAEL: Two there. More coming.
+ISOLDE: Yours.
+VAEL: Mine.
+
+She looks at the shadows. The dusk turns deeper. The shadows do not move. Down in the valley, an hourglass is set on a stone — KIRAN places it. Sand begins to fall.
 
 Hard Cut.
 
----
-
-# THE OFFERING — EP07: TWELVE BLADES AT THE GATE
-
-S#1
-
-[Visual] Outside the BLACK CASTLE gates. A SECOND HUMAN KINGDOM ENVOY. This one is different from the first. Twelve ARMORED GUARDS in kingdom mail, hands resting on the hilts of drawn-position swords, fan into a half-circle facing the castle. At the center — a SECOND ENVOY LEAD, older, harder face than the first head envoy in EP01. No gloves. Hands flat at his sides.
-
-ISOLDE stands in the colonnade above the gate, looking down. Both throat marks are openly visible above the silk collar. The wrist-mark glows pale gold. Her dark-brown hair is loose down her back.
-
-[Camera] Wide on the half-circle of guards — twelve blades, gleaming in cold light. Tight on the second envoy lead's face — not afraid. Cut to Isolde at the colonnade — watching down.
+[Camera]
+WIDE: rampart at dusk → MEDIUM: ISOLDE and VAEL side by side, not touching → ECU: both their hands on dark stone → MACRO INSERT: her two crescents burning, his paired gold under scales surfacing → LOW ANGLE: far ridge, two wing-shadows holding → CLOSE: ISOLDE looking → CLOSE: VAEL's line → MEDIUM: KIRAN below, placing hourglass → ECU: sand beginning to fall → WIDE: dusk deepening, shadows holding → BLACK
 
 [DIALOGUE]
-SECOND ENVOY LEAD (carrying): The offering returns with us. By the kingdom's hand.
-(His voice does not waver.)
+ISOLDE: How many.
+VAEL: Two there. More coming.
+ISOLDE: Yours.
+VAEL: Mine.
 
-[FX] Twelve sword-hilts gripped — leather creaking in unison. The under-score thrum starting low.
+[FX]
+dusk wind, distant wing-shadow rustle (low), hourglass set on stone, sand falling (steady), sustained paired hum
+
+Hard Cut
 
 ---
 
-S#2
+# THE OFFERING — EP07: On My Knee
 
-[Visual] WAR ROOM. Vael alone at the black marble table. His scaled hands flat. His grey eyes fixed on the table. The black scales on the backs of his hands have grown DARKER — almost wholly black, the dark-blood-red threading deeper. A muscle in his jaw moves.
+S#1 — VAEL'S KEEP / WAR ROOM / MORNING
 
-[Camera] Slow push-in on Vael — hands, jaw, scales. Macro on the scales darkening — the audience sees it shift in real time. Cut to a wide of the empty war room — only him at the table.
+[Visual]
+A round chamber with a long stone table. Maps spread — Velden, the valley, the keep, the river. KIRAN at the table. HALDREN brought in as witness — he stayed. A new envoy column has arrived overnight; their lead — younger, harder than HALDREN, marked with a captain's pin — stands at the foot of the table. He does not bow.
+
+CAPTAIN: My king's terms.
+VAEL: Your king has terms now.
+CAPTAIN: The offering walks out. The treaty stands. The valley is yours.
+KIRAN: You offered the valley three weeks ago.
+CAPTAIN: With her in it.
+
+VAEL says nothing. He looks at HALDREN. HALDREN does not lift his head.
+
+The hourglass from last night's rampart is on the table. The sand is half-gone.
+
+[Camera]
+WIDE: round war room → MEDIUM: maps on stone table → CLOSE: KIRAN at table → MEDIUM: HALDREN as witness, head low → MEDIUM: captain at foot of table → ECU: captain's pin → CLOSE: VAEL → CLOSE: KIRAN's line → ECU: VAEL looking at HALDREN → MACRO INSERT: hourglass on table, sand half-gone
 
 [DIALOGUE]
-VAEL (low, to himself): If I draw, the twelve fall. If I don't draw — they take her past the gate. (a beat) I will not let them past the gate.
+CAPTAIN: My king's terms.
+VAEL: Your king has terms now.
+CAPTAIN: The offering walks out. The treaty stands. The valley is yours.
+KIRAN: You offered the valley three weeks ago.
+CAPTAIN: With her in it.
 
-[FX] Marble breath. The thrum deepening — pressure building.
+[FX]
+maps shifting on stone, hourglass sand falling steady, captain's boots, HALDREN's silence
 
 ---
 
-S#3
+S#2 — VAEL'S KEEP / WAR ROOM / CONTINUOUS
 
-[Visual] Vael does not call her by name. He raises one scaled hand — palm up — toward the colonnade where Isolde stands. The gesture is unmistakable. Come.
+[Visual]
+ISOLDE enters. She is dressed as before but with a longer drape — the bite mark above her collar deliberately uncovered, the two stacked wrist marks deliberately bare on her left arm. She does not stop at the door. She crosses to the high seat at the head of the table — VAEL's seat. She does not sit in it.
 
-Isolde walks into the war room. She stops three paces from the table. He does not stand. He does not speak. He gestures again — palm down this time. Across his own thigh.
+VAEL is already there. He is standing beside it. He takes her by the waist with the gauntleted hand and seats her — on his knee. Not the high seat. His left knee. Across his lap. Her gown drapes over his thigh. His scaled hand closes in her hair at the nape — visible to the captain, visible to HALDREN, visible to KIRAN.
 
-She walks the three paces to him. He catches her behind the knees with one scaled hand, the other hand at her waist — and PULLS her down across his lap. He arranges her so she sits sideways on his thigh, her hip against his stomach, her legs across his. His scaled arm settles around her waist — possessive, locked. His other scaled hand goes into the dark-brown hair at the nape of her neck. Closes. Holds.
+The captain does not move. The captain's jaw locks.
 
-Then his second hand slides down — fingers tracing the side of her throat. He finds the EP05 bite-mark — the second one, the side opposite the EP03 mark — and his scaled fingertip presses gently into it. A reminder. Held. Her wrist-mark pulses — gold — against his other hand at her waist.
+VAEL (to captain, looking past him at HALDREN): She is on my knee.
+VAEL: She is on my knee in front of you.
+VAEL: Tell your king that.
 
-The senior dragon noble and Kiran enter through the side door and stop dead at the threshold. Vael does not look at them. They wait. Frozen.
+VAEL's scaled thumb crosses to her wrist. He passes the thumb over the stacked crescents — slow, possessive. The marks pulse together.
 
-[Camera] Slow ascent: scaled hand-palm-up calling her. Cut: Isolde crossing to him. Tight: his hand catching her behind the knees. Whip pan: her pulled into his lap. Hold on the arrangement — her seated across his thigh, his arm at her waist, his hand in her hair. Macro: his fingertip pressing the EP05 bite-mark. Push-in: the wrist-mark pulsing gold beneath his other hand. Cut to the senior noble and Kiran — frozen at the door.
+The captain says nothing. HALDREN does not lift his head.
+
+[Camera]
+WIDE: war room → MEDIUM: ISOLDE entering → TRACKING: ISOLDE crossing → ECU: bite mark above collar (deliberate) → ECU: two stacked wrist marks (deliberate) → MEDIUM: VAEL standing beside high seat → ECU: gauntleted hand at her waist → ECU: ISOLDE seated across his lap, on left knee → MACRO INSERT: gown draping over his thigh → ECU: scaled hand closing in her hair at nape → CLOSE: captain's jaw locking → CLOSE: HALDREN's lowered head → MEDIUM: VAEL's lines, eyes past captain to HALDREN → ECU: VAEL's scaled thumb crossing her wrist → MACRO INSERT: thumb passing over stacked crescents → ECU: paired pulse
 
 [DIALOGUE]
-VAEL (low, to Isolde, not to the nobles): Stay where you are. Whatever happens at the gate.
-ISOLDE (level, into his throat): I will.
+VAEL: She is on my knee.
+VAEL: She is on my knee in front of you.
+VAEL: Tell your king that.
 
-[FX] The thrum locking with both pulses — hers and his — at exact rhythm. A long low DRAGON CALL — far on the ridge — louder than the EP06 single note.
+[FX]
+ISOLDE's footfalls deliberate, ISOLDE seating on his lap (silk on leather), scaled hand in hair (soft scrape), VAEL's lines low and even, paired hum (loud now), captain's silence
 
 ---
 
-S#4
+S#3 — VAEL'S KEEP / WAR ROOM / CONTINUOUS
 
-[Visual] Vael's scaled hand opens at her waist. The flame from EP04 ignites again — softer this time, contained. He brushes the flame against her wrist-mark — the mark pulses bright gold and HOLDS. Then he passes the flame, hand-to-hand, across her body — from her wrist to his own black-scaled hand. The DARK BLOOD-RED FLAME flares to full size in his palm.
+[Visual]
+The hourglass on the table tips — the last sand begins to fall. KIRAN watches it. Outside the war room window, far across the valley, the dusk has begun. On the far ridge, the two wing-shadows from yesterday are no longer alone.
 
-Beyond the castle wall — on the ridge — the FIRST GREAT SHADOW lifts. Then another. Then another. A dozen dark shapes rising from the cliffs in formation. The DRAGON PACK. The first time the audience sees the silhouette of a wing in full — high, far, unmistakable.
+KIRAN goes to the window. He counts.
 
-Inside the throne room corner, the GREAT HOURGLASS — a stone-and-brass structure, taller than a man — is tipped over by Kiran. The hourglass inverts. The first grain of black sand falls.
+KIRAN: Twelve.
 
-Vael stands — Isolde rising with him, his arm still at her waist, his hand still in her hair. The flame in his other palm flares brighter.
+The captain turns to look. HALDREN turns to look. Through the window, the silhouettes — twelve wing-shapes on the ridge, holding position. The drake-pack. Visible to the kingdom's eyes for the first time.
 
-[Camera] Slow ignition: flame between his hand and her wrist. Cut wide: ridge — wings lifting from the cliffs. Wide: first full WING-SILHOUETTE crossing the grey sky. Cut to the hourglass tipping — first grain of sand. Pull wide: Vael standing with Isolde under his arm, flame in his free hand.
+The captain's hand goes to his sword hilt — instinct, not threat.
+
+VAEL: They have come for you. They will not have you.
+
+He does not move from the seat. ISOLDE has not moved from his lap. The scaled hand stays in her hair.
+
+[Camera]
+MACRO INSERT: hourglass tipping, last sand falling → CLOSE: KIRAN at window → WIDE through window: far ridge, twelve wing-shadows holding → CLOSE: captain turning → CLOSE: HALDREN turning → MEDIUM: silhouettes counted, twelve → ECU: captain's hand to sword hilt → CLOSE: VAEL's line → TWO-SHOT: VAEL with ISOLDE on his lap, unmoved
 
 [DIALOGUE]
-VAEL (low, walking with her toward the great hall): They have come for you. They will not have you.
+KIRAN: Twelve.
+VAEL: They have come for you. They will not have you.
 
-[FX] The first grain of sand hitting the bottom of the hourglass — single clear tone. The dragon call repeating — closer now. The thrum at full volume.
+[FX]
+last sand falling, KIRAN's quiet count, captain's hand on hilt (sharp leather), distant low rumble (wing-shadows), VAEL's line over the rumble
+
+---
+
+S#4 — VAEL'S KEEP / WAR ROOM / CONTINUOUS
+
+[Visual]
+The captain backs out — slow, hand on hilt. HALDREN follows him. The envoy column will mount. The hourglass empties. KIRAN turns from the window.
+
+VAEL releases ISOLDE's hair. He lifts her chin — scaled hand, thumb under jaw. He turns her face up.
+
+VAEL: Look at me.
+ISOLDE: I am.
+
+He bends. His mouth goes to her left wrist — at the place between the two stacked crescents. He bites once more — but lighter, a kiss almost. The scaled palm flat against her sternum again. Audience-only: at the kiss, dark red flame ignites in the scaled palm — but tiny, contained — pressed flat to her skin. The skin does not burn. But a third mark begins to form on her inner wrist — not crescent, not the same. A flame-curve. Tracing alongside the two crescents.
+
+ISOLDE: What is that one.
+VAEL: Not yet a name.
 
 Hard Cut.
 
----
-
-# THE OFFERING — EP08: SHE IS —
-
-S#1
-
-[Visual] The BLACK GREAT HALL. The twelve ARMORED KINGDOM GUARDS have been admitted through the gates. They reform their half-circle inside the hall — twelve blades, drawn now, points at the floor but ready. At the center — the SECOND ENVOY LEAD. The dragon nobles stand along the walls. Kiran at one column. The household behind. ELARA at the head of the candidate dais — ringed hands clenched.
-
-VAEL enters from the side corridor. ISOLDE is at his side — his scaled arm at the small of her back. Both throat marks. The wrist-mark openly gold. Her hair loose down her back. The black silk gown intact.
-
-[Camera] Wide on the assembled hall. Tight on the second envoy lead. Cut to Vael and Isolde entering — full body together. Push-in on the second envoy lead's eyes finding the wrist-mark.
+[Camera]
+WIDE: war room → MEDIUM: captain backing out → MEDIUM: HALDREN following → ECU: VAEL lifting her chin → CLOSE: VAEL's line → CLOSE: ISOLDE's line → ECU: VAEL's mouth on her wrist between crescents → ECU: scaled palm flat on sternum → MACRO INSERT: dark red flame igniting in palm, contained → MACRO INSERT: third mark forming, flame-curve beside crescents → ECU: ISOLDE's eyes on her own wrist → CLOSE: VAEL's line → BLACK
 
 [DIALOGUE]
-SECOND ENVOY LEAD (formal, carrying): The transfer of the offering — 
-VAEL (cutting him off): No.
+VAEL: Look at me.
+ISOLDE: I am.
+ISOLDE: What is that one.
+VAEL: Not yet a name.
 
-[FX] Twelve sword-tips re-set. The thrum at full volume.
+[FX]
+captain's boots receding, gauntleted door closing, scaled palm on sternum (slide), wrist bite (soft), flame ignition (deep contained crack), flame-curve forming hum (audience-only, third pulse joining)
+
+Hard Cut
 
 ---
 
-S#2
+# THE OFFERING — EP08: She Is —
 
-[Visual] Vael stops in front of his throne. He does not sit. He turns toward Isolde. He sets his scaled palm flat against the small of her back — and LIFTS her, by the waist, in one motion, onto the raised step beside his throne. The raised step where the chair from EP02 / EP06 stands. He sets her down on it — not in the chair this time, but standing on it, one step above the hall floor, one step above the candidate dais, level with him.
+S#1 — VAEL'S KEEP / OUTER GATE / DAWN
 
-Every eye in the hall is on her. The second envoy lead's face stiffens. Elara — on the candidate dais below now — goes white.
+[Visual]
+The kingdom's final envoy column has arrived in the night. They are camped on the road. At dawn, HALDREN walks to the keep gate alone — no banner, no writ. The captain from EP7 watches him from the column. The captain has not bowed yet. HALDREN's forehead has touched stone twice.
 
-Vael's scaled hand stays at her waist after he has set her down. Open palm against the silk. The pressure is visible to the entire hall.
+The gate opens. KIRAN waits inside. HALDREN crosses. He stops two paces in. He does not look at the keep — he looks at the courtyard stone where the kingdom standard burned in EP4. The scorched iron pole still stands there.
 
-[Camera] Wide pull as Vael lifts her — single fluid motion, slow enough to be read. Tight on his scaled hand at the small of her back. Cut: Elara now physically below Isolde. Cut: the second envoy lead's jaw setting. Push-in: Vael's hand staying on her waist.
+HALDREN: He sends one more word.
+KIRAN: We will hear it.
+HALDREN: I remember which gate she walked in.
+
+He looks at KIRAN. The line is to KIRAN, not VAEL. It is a different kind of statement than the kingdom is asking him to deliver.
+
+KIRAN: She remembers, too.
+
+[Camera]
+WIDE: road at dawn, envoy column camped → MEDIUM: HALDREN walking to gate alone → LOW ANGLE: gate opening → MEDIUM: KIRAN waiting → CLOSE: HALDREN crossing, two paces → ECU: HALDREN's eyes on scorched iron pole → CLOSE: HALDREN's line → ECU: HALDREN's line to KIRAN, not for delivery → CLOSE: KIRAN's response
 
 [DIALOGUE]
-(no dialogue from Vael yet. The hall reads the elevation. The hierarchy has changed.)
+HALDREN: He sends one more word.
+KIRAN: We will hear it.
+HALDREN: I remember which gate she walked in.
+KIRAN: She remembers, too.
 
-[FX] Silk against the raised step. The thrum loud — pulse-locked. Twelve sets of armored breathing in unison below.
+[FX]
+dawn wind, gate opening, distant column waking, HALDREN's careful footfalls, scorched pole creak
 
 ---
 
-S#3
+S#2 — VAEL'S KEEP / ONYX HALL / DAIS / SHORT TIME LATER
 
-[Visual] Vael, still standing beside Isolde at the raised step, raises his free scaled hand toward the second envoy lead. He gestures once — palm up.
+[Visual]
+The hall is fuller than EP6 — the entire envoy column is permitted in. Twelve armed escorts at the captain's back. The captain has come with the column. Two writs in his hand: one is the disownment, one is a new one — third writ — sealed with the same blacker seal as in EP6, but doubled in size. HALDREN stands behind the captain, near the back wall, separate.
 
-The second envoy lead, after a beat, gestures back at his color-bearer. The KINGDOM FLAG carried by the second envoy is brought forward. It is set down on the black marble at the foot of the dais.
+VAEL on the high seat. ISOLDE on the iron bench. Both wrist marks burning. Bite mark above collar. The third mark — the flame-curve from EP7 — visible on her inner wrist beside the stacked crescents.
 
-Vael lifts the flag from the marble — same motion as EP04. He turns it once across his open scaled hand. His grey eyes blacken. DARK BLOOD-RED FLAME blooms across his scaled hand — bigger than EP04, fuller, the flame visibly large enough that the front rank of armored guards step back a half-pace.
+VAEL (without rising): Bring them in armed.
 
-The kingdom crest burns from the center outward. Ash falls onto the black marble in slow lines — in front of the second envoy lead's boots. The second envoy lead does not move. But his eyes drop — just once — to the ash. He does not raise them again to Isolde.
+The captain blinks — the order is for KIRAN, not the captain. KIRAN inclines his head. The twelve armed escorts enter further. They line the hall.
 
-[Camera] Slow pull: flag carried forward. Tight on Vael's hand opening — flame igniting bigger than in EP04. Macro: kingdom crest burning. Cut to second envoy lead — eyes dropping to the ash. Cut to the twelve guards — sword-tips lowering by an inch, in unison, without command.
+CAPTAIN: My king's final word.
+VAEL: Read it.
+CAPTAIN: The kingdom denies the bond. The kingdom will burn the keep before the bond is sealed.
+
+VAEL raises his scaled hand. Open palm. He turns the palm up. Dark red flame ignites in the cupped palm — larger than EP4 and EP7. A live fire. He does not press it to anything. He lets it burn.
+
+VAEL: The mark holds.
+
+[Camera]
+WIDE: fuller hall → MEDIUM: twelve armed escorts at captain's back → ECU: captain holding two writs (disownment + bigger black seal) → MEDIUM: HALDREN at back wall, separate → CLOSE: VAEL on high seat → CLOSE: ISOLDE on iron bench → ECU: two wrist marks + bite mark + flame-curve → CLOSE: VAEL's line (Bring them in armed) → CLOSE: captain blinking → CLOSE: KIRAN inclining head → WIDE: escorts entering, lining hall → MEDIUM: captain → CLOSE: captain reading → ECU: VAEL raising scaled palm → CLOSE: flame igniting in palm → ECU: flame burning open → CLOSE: VAEL's line
 
 [DIALOGUE]
-(no dialogue. The burning is the dialogue.)
+VAEL: Bring them in armed.
+CAPTAIN: My king's final word.
+VAEL: Read it.
+CAPTAIN: The kingdom denies the bond. The kingdom will burn the keep before the bond is sealed.
+VAEL: The mark holds.
 
-[FX] Bigger fire than EP04 — audible crack. Ash hitting marble. The thrum HOLDING.
+[FX]
+escorts entering (twelve sets of boots), captain's voice formal, flame igniting (deep crack, sustained), brazier flicker, sustained low resonance under floor
 
 ---
 
-S#4
+S#3 — VAEL'S KEEP / ONYX HALL / DAIS / CONTINUOUS
 
-[Visual] Vael lets the last of the flag burn to ash on the marble. His flame-hand returns to his side. He turns now — fully — toward Isolde, who is still standing one step above him on the raised platform.
+[Visual]
+VAEL closes his palm — extinguishes the flame. The scaled hand goes to ISOLDE's wrist. He stands. He lifts her — both hands at her waist, the gauntleted and the scaled — and sets her on the high seat. The high seat. His seat. He does not sit. He stands behind it.
 
-He places his unburnt scaled hand at the small of her back again — and SLIDES it up. Along her spine. Through the loose dark-brown hair at the nape of her neck. He gathers her hair in his fist. Slowly. Tilts her head — toward him, downward, since she is on the raised step.
+His scaled hand closes on her hair at the crown — not the nape this time. From above. He turns her head slightly toward the captain. His other hand — the gauntleted one — finds the high collar of her gown and unhooks it. The collar falls open to reveal the bite mark from EP3. Then he lifts the long sleeve of her left arm to the elbow. The two stacked wrist crescents and the flame-curve all blazing.
 
-His other scaled hand — still warm from the flame — rises and finds the side of her throat. He places his fingertips precisely on the EP03 bite-mark — the FIRST one. Where his teeth went the night of the assassin. Held. Then his fingertips slide across her throat to the OTHER side — the EP05 mark from the terrace. Held. He is showing the hall — naming his marks on her skin, in front of every kingdom guard, every kingdom envoy, every bride candidate, every dragon noble.
+The court sees. The twelve armed escorts see. HALDREN sees. ELARA — brought in to witness — sees.
 
-Then his mouth comes up — closer to hers — slow — half an inch from her lips. He does not close the gap. His grey eyes hold hers. He turns — face still half an inch from hers — and addresses the second envoy lead.
+VAEL (to captain, voice level): On my mouth. Not yours.
 
-[Camera] Slow ascent: his hand sliding up her spine. Macro: his fingers gathering her hair. Tight: tilting her head toward him. Macro: fingertips on the EP03 bite-mark — frame-for-frame the same skin as EP03. Macro: fingertips on the EP05 bite-mark — same skin as EP05. Push-in: his face half an inch from her mouth. Pull back into a wide shot — Vael half-turned toward the second envoy lead, Isolde still under his hand, the hall watching.
+The line is to the captain. The line is a refusal of the kingdom's claim. The line is also for the bite mark visible at her throat.
+
+The captain's hand goes to his sword. He does not draw. ISOLDE does not pull her hair from VAEL's hand. She does not lower her sleeve.
+
+[Camera]
+ECU: VAEL closing palm, flame extinguished → CLOSE: scaled hand at her wrist → MEDIUM: VAEL standing, lifting her → ECU: setting her on high seat → MEDIUM: VAEL standing behind her → ECU: scaled hand closing on hair at crown (from above) → MACRO INSERT: head turning slightly toward captain → ECU: gauntleted hand unhooking high collar → MACRO INSERT: collar falling open, bite mark visible → ECU: gauntleted hand lifting left sleeve to elbow → MACRO INSERT: two stacked wrist crescents + flame-curve blazing → WIDE: court seeing → CLOSE: twelve armed escorts seeing → CLOSE: HALDREN seeing → CLOSE: ELARA seeing → ECU: VAEL's line, level → CLOSE: captain's hand to sword → CLOSE: ISOLDE not pulling away, not lowering sleeve
 
 [DIALOGUE]
-VAEL (carrying, eyes on Isolde, voice for the hall): She is —
+VAEL: On my mouth. Not yours.
 
-[FX] The entire hall in held breath. The thrum cutting out — silence — the moment before the word.
+[FX]
+flame extinguishing (sharp), ISOLDE seating on high seat (deliberate weight on stone), collar unhooking (soft snap), sleeve lifting (silk slide), VAEL's line low and final, captain's hand on hilt (sharp leather), sustained low resonance
 
 ---
 
-S#5
+S#4 — VAEL'S KEEP / ONYX HALL / DAIS / CONTINUOUS
 
-[Visual] The word does not come.
+[Visual]
+From the back of the hall, a small bell-pull is set into the wall. KIRAN reaches and pulls it once. From somewhere above the keep, a deep wing-rush. Then twelve.
 
-Beyond the castle walls — on the ridge — the DRAGON PACK ROARS. The first full roar of the series. Twelve dragon-throats together. The vaulted ceiling of the great hall TREMBLES. Dust falls from the rafters. A flagon on the table tips and shatters.
+The drake-pack lands on the keep's outer ramparts. The walls of the hall do not contain the sound. The hall shakes. Brazier flames flicker low.
 
-Below Vael and Isolde — on the marble floor of the great hall — the TWELVE ARMORED KINGDOM GUARDS drop. Knee by knee. All twelve. Their swords clatter onto the burning ash of their own flag. Then — the SECOND ENVOY LEAD himself — his knees give. He kneels on the ash of his kingdom's crest. His eyes are on the floor.
+Inside the hall: the twelve armed kingdom escorts go to their knees. Each one. Their weapons remain in their belts. The captain does not — the captain stands. HALDREN takes one step forward, past the captain. HALDREN goes to one knee. Not the full forehead-to-stone. Just one knee.
 
-ELARA, on the candidate dais below Isolde, sinks back two full steps. The ringed hand at her skirt goes loose. Her face is white.
+The captain looks at the kneeling escorts. He looks at HALDREN. He looks at VAEL — who has not moved from behind the high seat — and at ISOLDE — who has not moved from the high seat.
 
-Vael's hand is still in Isolde's hair. His half-said word is still in the air, unfinished. He does not finish it. He keeps his face half an inch from hers. He looks at her — only at her — for the first time openly, in front of the entire hall. Waiting.
+The captain's hand falls off the sword. He does not kneel. But he does not stand fully either.
 
-ISOLDE — slowly — raises her own hand. Her fingers find the back of his scaled hand on her waist. She closes her fingers around his scales. She presses her palm down — covering his scaled hand with hers. Marking him back.
+Outside, the wing-rush sustains. Twelve throats. A long low rumble that is not language and is.
 
-The second envoy lead — head still down — lifts his eyes once. Not to Vael. To Isolde. His face is afraid.
+Audience-only: while the kingdom watches the drake-pack, ISOLDE's gauntleted-side hand — her right hand — rises slowly to her own collar. She unhooks the second clasp. She loosens the high collar further on the other side. The collar falls open more — revealing a second bite mark. New. On the soft skin above her right collarbone. This bite mark was not present in EP7. It is from the kiss at her wrist between EP7 and EP8 — VAEL bit there again, off-screen. She presents it now. To the kingdom.
 
-[Camera] Wide on the trembling ceiling — dust falling. Wide on the twelve guards dropping to their knees in slow rhythm. Cut to the second envoy lead's knees giving. Macro on his hands on the ash. Cut to Elara stepping back — white. Push-in slow on Isolde's hand finding Vael's scaled hand at her waist. Macro: her palm pressing down over his scales. Hold. Cut to the second envoy lead's eyes lifting to Isolde — afraid.
+The kingdom sees both bite marks. The court sees both bite marks.
+
+[Camera]
+WIDE: hall → MEDIUM: KIRAN at back wall → ECU: bell-pull, KIRAN's hand → MACRO INSERT: bell pulling → WIDE through ceiling: deep wing-rush above keep → WIDE outer ramparts: twelve drakes landing → WIDE inside hall: walls shaking, braziers flickering → MEDIUM: twelve armed escorts to their knees → ECU: each weapon staying in belt → CLOSE: captain standing → MEDIUM: HALDREN stepping forward, one knee → CLOSE: HALDREN's knee on stone → WIDE: captain looking → CLOSE: captain's hand falling off sword → ECU: captain not quite standing, not quite kneeling → MACRO INSERT (audience-only): ISOLDE's right hand rising slowly to her own collar → ECU: unhooking second clasp → MACRO INSERT: collar falling open more → ECU: second bite mark above right collarbone, new → WIDE: kingdom seeing both bite marks → CLOSE: court seeing
 
 [DIALOGUE]
-(Vael's word does not come. The silence is the cliffhanger.)
+(silence — the wing-roar is the line)
 
-[FX] The roar fading slowly. Dust still falling. The thrum returning at a new, deeper register. A single long held note as the picture freezes on Isolde's hand over Vael's scaled hand.
+[FX]
+bell-pull (single chime), wing-rush above (deep, sustained), twelve drakes landing (heavy impact), walls shaking, braziers flickering, twelve escorts to knees (synchronized leather), HALDREN's knee on stone (soft), captain's silence, sustained wing-roar from twelve throats (long low rumble), ISOLDE's second clasp unhooking (audience-only, soft)
+
+---
+
+S#5 — VAEL'S KEEP / ONYX HALL / DAIS / CONTINUOUS
+
+[Visual]
+VAEL takes ISOLDE's chin — scaled hand. He turns her face up to him. The court sees this too. He bends. He brings his mouth a half-inch from hers. He does not close it. He keeps the half-inch.
+
+VAEL (to her, but audible to the hall): She is —
+
+The wing-roar comes again — overhead, twelve throats, louder. The roar swallows the rest of the line. VAEL does not finish.
+
+In the silence after the roar — before he can begin again — ISOLDE moves. She lifts the scaled hand from her chin. She turns it palm-up in front of her. She brings the scaled palm to her own neck — to the new bite mark on her right collarbone. She presses his palm there. She holds.
+
+Then she covers his scaled hand with her own hand.
+
+ISOLDE: Yours.
+
+The court sees. The kingdom sees. The captain sees. HALDREN — still on one knee — closes his eyes.
+
+Audience-only: under the scaled palm now pressed to her collarbone, dark red flame begins to ignite again — contained, small, just enough to warm the bite mark. The bite mark heats. A flame-curve begins to trace alongside it, beside the new bite. A fourth mark forming.
+
+The wing-roar comes a third time. The hall does not contain it. The brazier flames go out.
+
+Black.
 
 Hard Cut.
 
----
+[Camera]
+ECU: VAEL taking her chin → CLOSE: turning her face up → WIDE: court seeing → ECU: VAEL bending → ECU: half-inch from her mouth, held → ECU: VAEL's line, "She is —" → WIDE through ceiling: wing-roar overhead, twelve throats → ECU: line swallowed → ECU: ISOLDE lifting scaled hand from chin → ECU: turning palm up → ECU: bringing scaled palm to her right collarbone bite mark → ECU: pressing palm there, holding → ECU: her own hand covering his scaled hand → CLOSE: ISOLDE's single word → WIDE: court seeing → CLOSE: captain seeing → CLOSE: HALDREN closing his eyes → MACRO INSERT (audience-only): dark red flame igniting under scaled palm at collarbone → MACRO INSERT: flame-curve beginning to trace beside the new bite → ECU: bite mark heating → WIDE through ceiling: third wing-roar, twelve throats → CLOSE: brazier flames going out → BLACK
 
+[DIALOGUE]
+VAEL: She is —
+ISOLDE: Yours.
+
+[FX]
+VAEL's line beginning, wing-roar overhead (longer, louder, swallowing), silence after roar, ISOLDE lifting scaled hand (soft slide), pressing to collarbone (controlled), her own hand covering his (soft contact), ISOLDE's one word (clear, low), wing-roar third time (sustained), brazier flames extinguishing (sharp inhale), sustained dark hum (paired, three marks burning together)
+
+Hard Cut

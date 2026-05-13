@@ -181,11 +181,45 @@ EP 파일과 통합 최종고는 **영어로만 기록.** 한국어 메타·foot
 
 각 라운드는 이전 라운드와 **완전히 독립** Fresh 검토. Round N은 Round N-1의 발견·판정 참조 금지. "이 작품을 처음 보는 마음"으로 평가. 이전 패치 부분도 특별 취급 X — 동일하게 fresh 검토.
 
-### 최종고 = 단일 통합 MD 파일 + 검증 (필수)
+### 최종고 = 3종 통합 MD + 자동 검증 (필수, 모든 프로젝트 예외 X)
 
-최종고는 화별 분리 X. **모든 화 순서대로 통합한 단일 MD 1개** — `projects/[작품명]/07_final/[작품명]_FINAL.md`. 사용자가 50개 파일을 통합하는 부담 회피.
+작품 모든 회차 완성 시 **반드시** `07_final/`에 3종 통합 자동 생성:
 
-**통합 후 검증 필수:** 모든 화 헤더 순서 + 양식 일치 + 누락·중복 없음 + separator 일관 + 헤더·푸터 정상. 이상 발견 시 즉시 재생성.
+| 파일 | 범위 |
+|---|---|
+| `[작품명]_FINAL_FREE.md` | 무료 EP1-N (보통 EP1-8) |
+| `[작품명]_FINAL_PAID.md` | 유료 EP N+1-끝 (보통 EP9-50) |
+| `[작품명]_FINAL.md` | 전체 회차 통합 |
+| `[작품명]_FINAL_synopsis_kr.md` | 한국어 1,500자 요약 (phase_8) |
+
+**트리거:** phase_7 4-Gate 통과 직후 자동 / protocol_premium_pilot Step 17 직후 자동. 사용자 별도 호출 불필요.
+
+**처리 룰:** EP 파일에서 첫 작품 헤더 ~ 마지막 `Hard Cut` 마커까지 추출. 검토·패치·Heavy Gate·Bible Amendment 등 **post-script 섹션 제외** (정규식 `(?ms)\r?\n---\s*\r?\n\r?\n#{1,3}\s*EP\d+` 매칭 이전까지). UTF-8 no BOM. EP 간 separator `\r\n\r\n---\r\n\r\n`.
+
+**통합 후 검증 필수 (자동):**
+
+| 항목 | 기준 | 실패 시 |
+|---|---|---|
+| Korean character (EP body) | 0건 (`\p{IsHangulSyllables}`) | 🔴 원본 EP 수정 후 재생성 |
+| Work header count | EP 수 + 1 | 🔴 누락·중복 확인 |
+| S# scene count | 청사진 명시 씬 수와 일치 | 🟡 차이 보고 |
+| Hard Cut count (`^Hard Cut\s*$`) | **EP 수 - 1** (마지막 EP는 자연 엔딩) | 🔴 mid-EP Hard Cut 제거 / 누락 보강 / 마지막 EP Hard Cut 발견 시 자연 엔딩 재작성 |
+| 4 블록 일관성 | Visual = scene count / Camera·DIALOGUE·FX = scene count + end image 수 | 🟡 블록 누락 확인 |
+| Separator | EP 간 일관 | 🟡 보강 |
+
+상세 룰·검증 절차: 메모리 `feedback_final_consolidation_three_files.md`.
+
+**예외 (희귀):** 무료-only 작품 = FINAL_PAID 생략 / 시즌 분할 작품 = 시즌별 FINAL 추가.
+
+### 마지막 회차 자연 엔딩 (필수, 모든 프로젝트)
+
+작품의 **마지막 회차(시리즈 종결 EP)**는 `Hard Cut` 마커 사용 **금지**. 자연스러운 여운으로 마무리:
+- Pull back to wide / Tilt up to sky / Slow zoom out
+- Held final image (long hold + slow fade)
+- Sound motif 회수 (수미상관 — EP1의 모티프 재현·변주)
+- 마커: `Fade Out.` / `End.` / 또는 마커 없음
+
+회수 완결성·캐릭터 아크 완결·여운 시각 충족 필수. 상세 룰: 메모리 `feedback_final_episode_natural_ending.md`.
 
 ### 작품 폴더 경로 규율 (필수)
 

@@ -447,6 +447,17 @@ Brief 업데이트 (삭제 결정 반영).
 
 **출력:** `17_final_gate.md`
 
+### Step 17 통과 직후 자동 — FINAL_FREE.md 통합 (필수)
+
+Final Pilot Gate 통과 시 즉시 `projects/[작품]/07_final/[작품]_FINAL_FREE.md` 자동 생성:
+
+- 입력: `14_hybrid_finalization/ep01.md ~ ep08.md`
+- 처리: `Get-ScriptBody` (post-script 제외) + EP 간 separator `---` + UTF-8 no BOM
+- 검증: Korean=0 / Hard Cut=8 / 헤더 9 / 씬 = 청사진 명시 수 / 4 블록 일관성 (`feedback_final_consolidation_three_files.md`)
+- 실패 시: 🔴 즉시 원본 수정 후 재생성
+
+본 통합은 유료회차 진입 전 필수 단계. 무료 작품 완결 표지.
+
 ## Step 18. Pilot Bible 생성
 
 **입력:** Step 14 최종본 + Step 6 / 7 + Step 17
@@ -613,6 +624,31 @@ paid EP 완성
 ```
 
 **출력:** `22_coherence_gate/[ep].md` (3-layer 결과 분리 기록)
+
+## Step 23. 작품 완결 — FINAL_PAID + FINAL 통합 (자동, 필수)
+
+모든 유료 EP (EP9-50) 완성 + Step 22 Coherence Gate 통과 시 즉시 자동 실행:
+
+**처리:**
+- `[작품]_FINAL_PAID.md` 생성 (EP9-50 통합) — `paid/ep09.md ~ ep50.md`에서 추출
+- `[작품]_FINAL.md` 생성 (전체 EP1-50 통합) — `10_rewrite/ep01.md ~ ep08.md` + `paid/ep09.md ~ ep50.md`
+- 모두 `projects/[작품]/07_final/` 디렉토리에 저장
+- UTF-8 no BOM / EP 간 separator `\r\n\r\n---\r\n\r\n` / post-script 섹션 제외
+
+**검증 필수 (자동):**
+- Korean character count = 0 (EP body)
+- Hard Cut count = **EP 수 - 1** (마지막 EP 자연 엔딩 — FREE 8 / PAID 41 / FULL 49). 상세: `feedback_final_episode_natural_ending.md`
+- Work header count = EP 수 + 1
+- 4 블록 일관성 (Visual = scene count / Camera·DIALOGUE·FX = scene + end image)
+- Separator 일관
+
+**실패 시 (🔴):** 원본 EP 수정 후 재생성. 검증 통과까지 작품 미완결 처리.
+
+**메타 갱신:** `[작품]_00_meta.md`에 "완결 ✅" + 최종고 위치 + 검증 결과 기록.
+
+**상세 룰:** 메모리 `feedback_final_consolidation_three_files.md`.
+
+→ 본 단계 통과 = 작품 모든 회차 최종고 완성. 이후 phase_8 (한국어 줄거리 요약 1,500자) 진입.
 
 ---
 
