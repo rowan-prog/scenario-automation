@@ -1,6 +1,23 @@
 # THE OFFERING — 진행 메타
 
-**상태 (2026-05-16 갱신):** **무료 EP1-8 = Lite Protocol v1으로 완전 fresh 재작성 완료 ✅** (`premium_pilot_lite/` + `07_final/02_the_offering_FINAL_FREE_v2.md` 1,062줄 / Korean 0 / Hard Cut 8 / 양식 v2 / 33 씬 / 분량 약 17.9분). 다크 로맨타지 6 사이클 + mutual claim 곡선 + 수위 결제 엔진 + EP8 페이월 응축.
+**상태 (2026-05-16 갱신):** **무료 EP1-8 = Lite Protocol v1으로 fresh 재작성 완료 → G v2 디벨롭 완료 (FINAL_FREE_v2_dev.md) → 청사진 v2 환류 완료 (`02_the_offering_04_blueprint_full.md` Soft Lock 영역 갱신·Hard Lock 유지)** | 옛 G FINAL_FREE_v2.md = 이전 버전·참고 자료.
+
+**2026-05-16 비주얼 락 v3 — voice 한 줄 등재 (Vael·Isolde·Haldren·Kiran·Elara·Grey Envoy·Aldric).**
+
+**2026-05-16 환류 적용 (Soft Lock):** 캐릭터 캐논 (Isolde counter 정체성·pendant·Vael 신체 baseline·voice·EP3 명대사·Haldren 충성 전환 가속·신규 인물 GREY ENVOY·Kiran·Elara 보강) / 결제 엔진 매핑 (5.5·5.2·3.6 메인 + 5.4·5.10 보조) / 6 conversion 패턴 매핑 / 시청자 심리 baseline / Ladder 7 단계 명시 / EP1-8 화별 락 + sensual 락 정밀화 / Aldric 음모 5번 분산 / pendant·twin crescents·wide pearl band·ridge breathing·black-wax sigil 등 비주얼 어셋 11개 추가 / 손목 long trace 절삭 / 의상 1차 변경 (검은 모피+핏빛 → 흰 모피+아이보리) / 색 팔레트 보강 / 환류 로그 v2 등재. **Hard Lock 유지 — 정체성·페이월 구조·메인 결제 트리거 변경 X.**
+
+**백업:** `02_the_offering_04_blueprint_full_pre_v2_dev_backup.md` (v2 환류 전 v3 청사진 상태 보존).
+
+### 적용 baseline (모든 청사진·집필 단계 — 2026-05-16 강제)
+- `feedback_paid_vertical_viewer_psychology.md` (시청자 심리·욕망+해소 부끄러움)
+- `feedback_paid_vertical_6_conversion_patterns.md` (메인 1-2 + 보조 1-2 매핑)
+- `feedback_female_buy_engine_relational.md` (**OFFERING = A 엔진 — 다크 로맨타지+alpha**)
+- `feedback_50_episode_serial_engines.md` (7 룰)
+- `feedback_character_situation_appeal.md` (3축)
+- `feedback_paid_vertical_intuitive_money_triggers.md` (G 7 버전 분석)
+- `feedback_female_lead_agency_balance.md` (강한 여주 회피 X / 판결형만 회피)
+
+### 옛 상태 (보존 — 비교 자료): (`premium_pilot_lite/` + `07_final/02_the_offering_FINAL_FREE_v2.md` 1,062줄 / Korean 0 / Hard Cut 8 / 양식 v2 / 33 씬 / 분량 약 17.9분). 다크 로맨타지 6 사이클 + mutual claim 곡선 + 수위 결제 엔진 + EP8 페이월 응축.
 
 옛 산출물 (`premium_pilot/`·`premium_pilot_v2/`·`version_b/c/d/e/`) = 보존 (비교 자료). 유료 EP9-50 = 옛 산출물 `premium_pilot/paid/` 유지 (Lite Protocol 재진행 대상 아님 — 사용자 결정 시 진행).
 

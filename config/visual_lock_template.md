@@ -44,6 +44,17 @@
 
 ---
 
+## 3-1. Voice / 음색 (필수 — 2026-05-16)
+
+> **주역 (주인공·여주·특히 남주) 한 줄 voice 설계.** 복잡 X. 타깃·캐릭터·장르 적합.
+> 상세: 메모리 `feedback_character_voice_one_line.md`.
+
+* Voice / 음색 (한 줄):
+  * 예: `Low, gravelly baritone — words clipped to three or four, breath felt before sound.`
+  * 예: `Warm and measured, but cracks at the edges when the count slips.`
+
+---
+
 ## 4. 헤어
 
 * 헤어 길이 / 컷:

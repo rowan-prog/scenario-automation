@@ -18,7 +18,18 @@
 **유료회차 한정.** 무료회차는 protocol_premium_pilot.md.
 
 ## 실행 전 읽어야 할 파일
-- config/production_guide.md
+
+### 🔥🔥 매출 baseline 메모리 (2026-05-15·16 — 필수 정독)
+- `feedback_paid_vertical_viewer_psychology.md` (시청자 심리·부끄러운 욕망+해소)
+- `feedback_paid_vertical_6_conversion_patterns.md` (6 conversion 패턴)
+- `feedback_female_buy_engine_relational.md` (A/B 엔진·구매 5요소) — 여성향
+- `feedback_male_target_alpha_taboo_patterns.md` (알파 환상·회피 4) — 남성향
+- `feedback_50_episode_serial_engines.md` (50화 7 룰)
+- `feedback_character_situation_appeal.md` (3축 매력)
+- `feedback_female_lead_agency_balance.md` (여주 주도성 균형) — 여성향
+- `feedback_reference_market_verification.md` (reference 검증·Demon Lord 폐기)
+
+### config/production_guide.md
   - Section 0-3 (락/열어둠 — 창작 결정 시 절대 락과 자율 영역 구분)
   - Section 3 (핵심 제작 원칙)
   - Section 6 또는 7 (작품 타입에 따라 택1: AIGC 애니메이션 또는 실사형)

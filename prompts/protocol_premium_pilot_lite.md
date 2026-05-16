@@ -84,6 +84,18 @@ projects/[작품]/premium_pilot_lite/
 
 **가장 중요한 단계 — 실제 집필.** N=1 직접 집필 (4 draft 시드 X).
 
+### 🔥🔥 필수 정독 매출 baseline (2026-05-15·16)
+
+집필 진입 전 정독:
+- `feedback_paid_vertical_viewer_psychology.md` (사적 즐김·부끄러운 욕망+해소)
+- `feedback_paid_vertical_6_conversion_patterns.md` (메인 1-2 + 보조 1-2 매핑 강제)
+- `feedback_female_buy_engine_relational.md` (A/B 엔진) — 여성향
+- `feedback_male_target_alpha_taboo_patterns.md` (알파 환상·회피 4) — 남성향
+- `feedback_50_episode_serial_engines.md` (7 룰)
+- `feedback_character_situation_appeal.md` (3축)
+- `feedback_female_lead_agency_balance.md` — 여성향
+- `feedback_reference_market_verification.md`
+
 ### 양식 v2 강제
 
 ```

@@ -141,17 +141,34 @@ phase_b (외부 대본 등재 + 1차 게이트) → 분기 (A/B/C) → 메인 �
 보조 자료: `config/production_guide.md` v2 (v3와 충돌 시 v3 우선).
 의문이 생기면: 마스터 가이드 v3 PART 12 (최종 통합 원칙) 또는 본 파일.
 
-### 2026-05-15 핵심 갱신 (사용자 명시)
+### 2026-05-15·16 핵심 매출 baseline (사용자 명시 — 모든 작품 적용)
 
-1. **EP 양식 v2** — [VISUAL/ACTION] / [KEY CAMERA] / [DIALOGUE] / [GRAPHIC/UI] / [END HOOK]. FX/AUDIO 블록 폐기. (메모리 `feedback_episode_format_v2.md`)
-2. **9:16 세로형 default** — 장르 무관 (애니메이션 포함). 16:9는 명시적 사유. (마스터 가이드 v3 0.1.1)
-3. **피칭덱 평가 2단계** — 1차 "잘팔릴 것 같은가" + 2차 위원 4표+ 가상투표 + 레퍼런스작 필수. (메모리 `feedback_pitch_2_stage_evaluation.md`)
-4. **비주얼 락 = 어셋 생성 고정용** — 첫 의상·변경·재착용 시 [VISUAL/ACTION] 묘사 필수. 직전과 동일 = X. (메모리 `feedback_visual_lock_system.md`)
-5. **애니메이션 stylized 대사** — 캐릭터·세계관·타깃 3축 fit 시 stylized OK. 모던 여성향 = Native 강제. (메모리 `feedback_animation_stylized_dialogue.md`)
-6. **위원 B = vertical 작가 출신 마케팅 리더** — 글·페이월·캐릭터 욕망 이해 깊음. (config/evaluators.md 3-0)
-7. **phase_8 폐기** — 한국어 줄거리 요약 archive. 토큰 낭비.
-8. **외부 피드백 처리 트랙** — `phase_c_external_feedback_intake.md` 신규.
-9. **히트작 라이브러리 + 피칭덱 문체 레퍼런스** — `config/hit_library/` + `config/pitch_style_reference.txt`.
+**🔥🔥🔥 시장 본질 baseline (모든 phase 진입 시 정독 권장):**
+- **`feedback_paid_vertical_viewer_psychology.md`** — 시청자 = 욕망 + 해소 둘 다 부끄러움. 사적 즐김 톤·"이렇게까지 해도 되나?" 극한 해소. 우아·예술·논설·도덕 우위 톤 = 매출 약화. paid vertical "정의" = 사회·법 X / 참교육·내 가치 인정.
+- **`feedback_paid_vertical_6_conversion_patterns.md`** — 시장 99.6% 작품이 6 패턴. phase_3 메인 1-2 + 보조 1-2 매핑 의무.
+- **`feedback_female_buy_engine_relational.md`** — A 엔진 (다크 로맨타지·alpha) vs B 엔진 (복수·가족 회수·굴욕→통쾌) 분리. 강한 여주 ≠ 매출. 5 구매 엔진.
+- **`feedback_male_target_alpha_taboo_patterns.md`** — 알파 환상 (소유·지배·통제 + 매력 여성). 북미 남주 성적 매력 필수. 회피 = 능동 배신·집착 복수·루저 톤.
+- **`feedback_50_episode_serial_engines.md`** — 50화 = 작은 보상 + 큰 욕망 확장. 매화 7 쾌감. 트로프 자체 X / 운영이 매출.
+- **`feedback_character_situation_appeal.md`** — paid vertical 매출 = 캐릭터 성격 × 상황 × 관계 (3축). 관계만 분석 X.
+- **`feedback_female_lead_agency_balance.md`** — 카테고리·엔진별 분기. 강한 여주 회피 X / 판결형·욕망 없음만 회피.
+- **`feedback_reference_market_verification.md`** — Reference 매출 검증 룰. Demon Lord 폐기.
+
+**기존 핵심 (2026-05-15):**
+1. **EP 양식 v2** — [VISUAL/ACTION] / [KEY CAMERA] / [DIALOGUE] / [GRAPHIC/UI] / [END HOOK]. FX/AUDIO 폐기. (`feedback_episode_format_v2.md`)
+2. **9:16 세로형 default** (`feedback_aspect_ratio_9_16_default.md`)
+3. **피칭덱 평가 2단계** + 레퍼런스 필수 (`feedback_pitch_2_stage_evaluation.md`)
+4. **비주얼 락 = 어셋 생성 고정** (`feedback_visual_lock_system.md`)
+5. **애니메이션 stylized 대사** (`feedback_animation_stylized_dialogue.md`)
+6. **위원 B = vertical 작가 출신 마케팅 리더**
+7. **phase_8 폐기**
+8. **외부 피드백 처리 트랙** `phase_c_external_feedback_intake.md`
+9. **히트작 라이브러리** `config/hit_library/`
+
+**적용 룰 (필수):**
+- **모든 phase 진입 시:** 위 8 매출 baseline + 기존 9 룰 자동 정독 권장
+- **신규 작품 phase_0~3:** baseline 자가 검수 강제
+- **기존 작품 청사진·집필 (피칭 통과 후):** baseline 자가 검수 + 청사진 환류 권장 (Hard Lock 외 부분)
+- **검토 phase_5·protocol Step 5:** 페르소나 자동 trigger 본 baseline 기반
 
 특히 자주 참조되는 핵심 섹션:
 

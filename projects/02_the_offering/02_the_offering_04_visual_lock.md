@@ -1,8 +1,26 @@
-# THE OFFERING — 비주얼 락 (v2 / 2026-05-12 정정)
+# THE OFFERING — 비주얼 락 (v3 / 2026-05-16 voice 보강)
 
 > 양식: `config/visual_lock_template.md` / 주연 디테일·조연 고정·1번 변경
 > 적용: AIGC Live-action / 세로형 9:16
 > **본질 = 캐릭터 어셋 생성 고정 (AIGC용).** [Visual] 지문 의상 묘사는 중요 reveal 씬만.
+> v3 (2026-05-16): 캐릭터 voice·음색 한 줄 등재 (메모리 `feedback_character_voice_one_line.md`).
+
+---
+
+## Voice / 음색 (필수 — 2026-05-16)
+
+> 타깃·캐릭터·장르 적합. 다크 로맨타지·여성향·high-heat / 북미 영어권.
+
+### 주역
+- **Vael Drakonis (남주):** Low, gravelly baritone — words clipped to 3-7, breath felt before sound. Possessive cadence; quiet when angry. (alpha possessive stylized — Castlevania·ACOTAR 톤)
+- **Isolde (여주):** Warm but restrained alto — 4-9 단어 question form 우세, sentence sometimes cracks at the edge of a count. (강한 여주이되 결핍·욕망 표면화 / 판결형 X)
+
+### 조연 (주요)
+- **Haldren:** Formal short — clipped military baritone, 2-5 단어, neutral until kingdom withdraws claim (EP6) — then softens half-tone.
+- **Kiran:** Dry deadpan tenor — reports in 5-8 단어, faintly amused even when stating threats.
+- **Elara:** Sharp, brittle soprano — courtly inflection, syllables over-precise when nervous.
+- **Grey Envoy (Aldric's thumb):** Low and reedy — slow consonants, the kind that means harm without showing it.
+- **King Aldric (off-stage 주):** Dry and patient — pauses longer than expected, every sentence a measured threat.
 
 ---
 
