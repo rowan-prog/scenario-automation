@@ -222,7 +222,7 @@ projects/[작품]/premium_pilot/
 ### Raw Treasure
 모든 draft의 강한 기능 보유 line·비트:
 - 강한 대사 (기능 우수)
-- 강한 [Visual] · [Camera]
+- 강한 [VISUAL / ACTION] · [KEY CAMERA] (양식 v2)
 - EP-end hook line
 - intimacy / desire beat
 - 캐릭터 시그니처 반응
@@ -453,7 +453,7 @@ Final Pilot Gate 통과 시 즉시 `projects/[작품]/07_final/[작품]_FINAL_FR
 
 - 입력: `14_hybrid_finalization/ep01.md ~ ep08.md`
 - 처리: `Get-ScriptBody` (post-script 제외) + EP 간 separator `---` + UTF-8 no BOM
-- 검증: Korean=0 / Hard Cut=8 / 헤더 9 / 씬 = 청사진 명시 수 / 4 블록 일관성 (`feedback_final_consolidation_three_files.md`)
+- 검증: Korean=0 / Hard Cut=7 (EP1-7 hard cut + EP8 페이월 hook) / 헤더 9 / 씬 = 청사진 명시 수 / **양식 v2** 블록 일관성 (`feedback_episode_format_v2.md` + `feedback_final_consolidation_three_files.md`)
 - 실패 시: 🔴 즉시 원본 수정 후 재생성
 
 본 통합은 유료회차 진입 전 필수 단계. 무료 작품 완결 표지.
@@ -639,7 +639,7 @@ paid EP 완성
 - Korean character count = 0 (EP body)
 - Hard Cut count = **EP 수 - 1** (마지막 EP 자연 엔딩 — FREE 8 / PAID 41 / FULL 49). 상세: `feedback_final_episode_natural_ending.md`
 - Work header count = EP 수 + 1
-- 4 블록 일관성 (Visual = scene count / Camera·DIALOGUE·FX = scene + end image)
+- **양식 v2 일관성** ([VISUAL / ACTION] = scene count / [DIALOGUE] = 대사 씬 / [KEY CAMERA]·[GRAPHIC / UI]·[END HOOK] = 선택 사용 시만)
 - Separator 일관
 
 **실패 시 (🔴):** 원본 EP 수정 후 재생성. 검증 통과까지 작품 미완결 처리.

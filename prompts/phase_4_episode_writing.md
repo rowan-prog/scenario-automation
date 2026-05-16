@@ -85,34 +85,84 @@ phase_3 청사진이 완성된 시점부터 phase_4 집필은 **무료회차·�
 - 상세: 메모리 `feedback_episode_split_and_runtime.md`
 
 ### 분량 기준
-- **총 러닝타임 70-120분 / 권장 90분 부근**
-- 작품 스케일·로그라인·타깃·캐릭터 수·갈등·장르에 따라 가변
-- 레퍼런스: Demon Lord's Marked Bride 75분·50화 (EP당 약 1.5분) / LOCKED OUT 115분·58화 (EP당 약 2분)
+- **총 화수 50화 고정 / 무료 1-8화 고정** (2026-05-15)
+- **🔥 무료회차 (EP1-8): 편당 2분 초과 가능. 압도적 중요. 권장 2-3분 (장르 가변).** vertical 매출 핵심.
+- **유료회차 (EP9-50): 편당 ≤2분 (권장 1.3-1.5분).**
+- 총 러닝타임 ≤90분 (목표) / 권장 75분 내외 (장르·소재·타깃 가변)
+- 레퍼런스: Demon Lord's Marked Bride 75분·50화 — 새 룰 바람직 모델
 
-## 스크립트 포맷 (LOCKED OUT 표준 — 필수 4 블록)
+## 스크립트 포맷 (필수 — 2026-05-15 표준)
 
 ```
 EP[N] — [TITLE]
 
 S#[번호] — [LOCATION / SUB-LOCATION / TIME or CONTINUOUS]
 
-[Visual]
-(1 단락 또는 7줄 이하 파편화. 단일 비트.)
+[VISUAL / ACTION]
+(상황·동작·블로킹·시각 정보 통합 단락. 스토리상 중요한 소리도 여기. 미세 디테일 X — 핵심만.)
 
-[Camera]
-(4-7 shots, → 화살표 연결. SHOT TYPE 명시: WIDE / CLOSE / ECU / EXTREME WIDE / TRACKING / PUSH IN / TILT UP/DOWN / PAN / FLASH CUT / INSERT / MACRO FOCUS / LOW ANGLE / HIGH ANGLE / WHIP PAN / CRASH ZOOM 등)
+[KEY CAMERA]
+(스토리·상업 엔진상 중요한 컷만 — 보통 2-5 cuts. 모든 컷 명시 금지. 연출/제작팀 영역.)
+SHOT TYPE: 무엇이 잡히는가 한 줄.
 
 [DIALOGUE]
 CHARACTER: line (3-10 단어 이하)
 CHARACTER: line
 
-[FX]
-(3-5 sound notes)
+[GRAPHIC / UI]    ← 필요한 씬만. 화면 그래픽·UI·텍스트 노출 시.
+[END HOOK]        ← 회차 마지막 씬만. 다음 회차로 끄는 한 줄.
 ```
 
-**4 블록은 모두 필수.** Visual·Camera·Dialogue·FX 중 하나라도 누락 시 비표준.
+### 블록별 룰
 
-**End Image** — 회차의 마지막 씬에만. 다른 씬은 표기 없이 다음 S#로 직진. `[End of S#X]` 같은 마커 사용 금지.
+- **[VISUAL / ACTION]** = 필수. 모든 씬. 상황·동작·블로킹·시각 정보·스토리상 중요한 사운드 비트 통합. 미세 디테일·연출 세부는 제작팀이 알아서. 핵심만 명료하게.
+- **[KEY CAMERA]** = 선택. **스토리상 또는 상업 엔진상 (섹슈얼 인서트·감정 클로즈업·페이월 컷 등) 중요한 컷만.** 모든 씬에 강제 X. 미명시 = 연출가 재량. 명시할 때만 그 컷의 의도가 전달되어야.
+- **[DIALOGUE]** = 거의 필수 (대사 씬). 캐릭터별 말투·맛 살리기. 살아있는 대사. 라인 3-10 단어 이하 우선.
+- **[GRAPHIC / UI]** = 선택. UI 알림·문서·뉴스 헤드라인·warrant·증서 등 화면 그래픽 노출 시.
+- **[END HOOK]** = 회차 마지막 씬 한 줄. 다음 회차로 시청자 끄는 한 줄. 마지막 회차는 자연 엔딩 (아래 룰).
+
+### 제거된 블록
+
+- **[FX] / [AUDIO] 블록 X** — 사운드·음악은 연출/제작팀 영역. 집필 영역 아님. 스토리상 중요한 소리(문 닫히는 소리·발자국·전화 벨 등 사건 비트가 되는 소리)는 [VISUAL / ACTION] 안에 통합.
+- **모든 카메라 컷 나열 X** — 키 컷만.
+
+### 양식 예시 (사용자 표준)
+
+```
+S#4 — PUBLIC RELAY / NO FORGIVENESS
+
+[VISUAL / ACTION]
+The dock hears the recording. Low-rank workers stare at Drake. Sienna lowers her blade as the old order plays. Jax drops old porter tags at Drake's feet.
+
+Public relay fragments stutter across the board: a sealed door closing, porter tags left behind, Drake's badge before the crack. The images are short and physical, more accusation than memory.
+
+Drake denies the record. Jax refuses the denial. Victor reframes the problem: not whether the proof is real, but whether Jax is allowed to keep producing proof.
+
+[KEY CAMERA]
+CLOSE: Drake's face draining as the recording plays.
+PUBLIC RELAY CUTS: Sealed door, abandoned tags, uncracked Drake badge.
+INSERT: Porter tags hitting the floor.
+CLOSE: Victor cutting the relay.
+
+[DIALOGUE]
+DRAKE: That's edited.
+JAX: They don't get edited back to life.
+VICTOR: Then we remove the source.
+
+[GRAPHIC / UI]
+Kross Warrant: JAX MERCER.
+
+[END HOOK]
+The black warrant activates with Jax's name on it.
+```
+
+### 핵심 원칙
+
+- **대사 맛깔나게 + 씬 구성·상황 구성이 핵심.** 카메라·FX 디테일에 매달리지 말 것 — 그건 연출/제작팀 일.
+- **씬 자체의 비트, 인물 관계·주도권의 갱신, 사건의 흐름**이 명확하면 [VISUAL / ACTION] + [DIALOGUE] 둘만으로도 회차가 작동한다.
+- [KEY CAMERA]·[GRAPHIC / UI]·[END HOOK]은 그 씬에 필요할 때만.
+
+**End Image** — 회차의 마지막 씬에만 [END HOOK]. 다른 씬은 표기 없이 다음 S#로 직진. `[End of S#X]` 같은 마커 사용 금지.
 
 **Hard Cut 룰 — 마지막 회차 예외 (필수):**
 - 중간 EP (시리즈 종결 EP 아닌 모든 EP): EP 마지막 `Hard Cut` 마커 강제.
@@ -166,37 +216,64 @@ EP 본문만이 영어 일원화 대상.
 - **비영어권 사고로 짜낸 forced 영어** — 한국어·일본어 사고를 영어로 직역.
 - 영어 원어민이 들었을 때 "이거 번역인 것 같은데?"라고 의식하게 만드는 어색함.
 
-#### 예외 — 남성향 seinen 카테고리
+#### 예외 — Stylized Genre English (캐릭터·세계관·타깃 fit 시 부분 허용, 2026-05-15 확장)
 
-> **Exception for 남성향 (male-oriented) seinen anime: Japanese seinen anime English dub style is acceptable as a genre convention, since the target audience expects and accepts this tone.**
+> **애니메이션은 캐릭터·세계관·타깃에 따라 부분적으로 stylized genre English 허용.**
+> 동양풍 시노비·사무라이 / 신화 판타지 신·신탁자 / 다크 로맨타지 흡혈귀·드래곤 로드 / 사이버펑크 거리 깡패 등 — 그 세계관·캐릭터의 톤이 stylized English를 자연스럽게 흡수하는 경우.
 
-남성향 seinen 카테고리(Solo Leveling / Demon Slayer / Overlord 류)는 **타깃 시청자가 이미 일본 anime 영어 더빙 톤에 익숙**하다. 이 카테고리에 한해 dub style은 **장르 문법 자체**로 정착되어 있어 자연스럽게 수용된다.
+**기존 (남성향 seinen 한정)에서 확장:** Solo Leveling·Demon Slayer·Overlord 같은 일본 seinen anime 영어 더빙 톤만 허용했으나, **사용자 명시 (2026-05-15)**: 캐릭터·세계관·타깃이 fit하면 다른 stylized 톤도 허용.
 
-이 카테고리에서 허용:
+#### 허용 stylized 톤 예시
+
+| 톤 | 캐릭터·세계관 | 레퍼런스 |
+|---|---|---|
+| **일본 seinen 더빙** | 남성향 액션·먼치킨·각성·결투 | Solo Leveling / Demon Slayer / Overlord |
+| **동양풍 시노비·사무라이** | 시노비·사무라이·동양 무협·검술가 | Blue Eye Samurai / Afro Samurai / Samurai Champloo |
+| **신화·고전 판타지** | 신·신탁자·고대 왕족·기사·드래곤 로드 | Castlevania (Dracula·Hector) / The Witcher / God of War |
+| **다크 로맨타지 alpha** | 흡혈귀 군주·웨어울프 알파·다크 페어리·드래곤 로드 | ACOTAR 류 |
+| **사이버펑크·디스토피아** | 거리 슬랭·해커·갱·기업 임원 | Cyberpunk: Edgerunners |
+| **양식화된 코믹** | 풍자·코미디·자아 인지 캐릭터| Invincible / Harley Quinn (animated) |
+
+#### 허용 표현 (stylized fit 시)
 - 양식화된 선언형 / 과장된 power lines / 변신·각성 외침
 - 적을 향한 도발 / 결투 선언 / 이름 외침
-- "Solo Leveling" / "Demon Slayer" / "Overlord" 영어 더빙 톤의 cadence
+- 고전·신화풍 cadence ("By the gods..." / "I claim this..." 류 — fit 시)
+- 양식화된 honorific 또는 호칭 ("my lord", "elder", "master" — 세계관 fit 시)
+- 시노비·사무라이 톤의 절제된 short lines + 양식 cadence
 
-다만 이 카테고리에서도 여전히 **NG**:
-- 어색한 honorific 잔존 ("-san", "-sama" 등을 영어 대사 안에 그대로)
-- 직역식 자기 소개 (`"My name is X. I am Y."` 같은 일본 패턴)
-- 일본어 문장 구조를 그대로 영어로 옮긴 듯한 어색한 syntax
+#### 매체 무관 절대 금지 (stylized fit 작품에서도 동일)
+- **어색한 번역투** — 의도가 아니라 실수로 들리는 번역 느낌.
+- **비영어권 사고로 짜낸 forced 영어** — 한국어·일본어 문장 구조 직역.
+- **직역식 자기 소개** (`"My name is X. I am Y."` 같은 일본 패턴 — 시노비 캐릭터라도 NG)
+- **honorific 잔존** ("-san", "-sama"를 영어 대사 안에 그대로 — 영어로 변환 또는 생략)
+- **일본어 문장 구조 그대로 영어로** — syntax 영어식으로 재구성 필요.
+
+#### 톤 결정 결정 트리
+
+진입 시 자문:
+1. 작품 타깃이 stylized 톤에 익숙한가? (남성향 seinen·다크 로맨타지·시노비물 = Yes)
+2. 세계관이 stylized cadence를 자연스럽게 흡수하는가? (신화·판타지·고전 = Yes / 현대 도시 멜로 = No)
+3. 캐릭터의 정체성이 stylized 톤을 요구하는가? (드래곤 로드·신·시노비·alpha = Yes / 일반 회사원 = No)
+
+3개 모두 Yes → stylized 허용 / 1-2개만 Yes → 부분 허용 (해당 캐릭터·해당 씬만) / 모두 No → Native English 강제.
 
 #### 톤 레퍼런스 (장르·타깃별)
 
 | 장르·타깃 | 참고 |
 |---|---|
-| **남성향 seinen 액션·다크 판타지·먼치킨** | **Castlevania / Blue Eye Samurai / Arcane (Western native)** + **Solo Leveling / Demon Slayer / Overlord (일본 seinen 영어 더빙)** — 둘 다 허용 |
-| 여성향 로맨스·판타지 | She-Ra / The Owl House / Steven Universe (Native English only) |
-| 코미디·일상 | The Owl House / Gravity Falls / Adventure Time (Native English only) |
-| 시네마틱 진중 드라마·액션 | Arcane / Love, Death + Robots / Blue Eye Samurai |
-| 가족·전연령 모험 | Avatar: The Last Airbender / The Legend of Korra |
-
-> ⚠️ **일본 seinen 더빙 스타일 허용은 남성향 seinen 카테고리 한정**. 여성향·코미디·가족·드라마 등 다른 카테고리는 Native English 유지.
+| **남성향 seinen 액션·다크 판타지·먼치킨** | Solo Leveling / Demon Slayer / Overlord / Castlevania / Blue Eye Samurai |
+| **동양풍 시노비·사무라이** | Blue Eye Samurai / Afro Samurai / Samurai Champloo |
+| **신화·고전 판타지·다크 로맨타지** | Castlevania / The Witcher / ACOTAR adaptations |
+| **사이버펑크·디스토피아** | Cyberpunk: Edgerunners / Arcane |
+| **여성향 모던 로맨스·코미디·일상** | She-Ra / The Owl House / Steven Universe (Native English only) |
+| **시네마틱 진중 드라마** | Arcane / Love, Death + Robots |
+| **가족·전연령 모험** | Avatar: The Last Airbender / The Legend of Korra |
 
 **핵심 원칙:**
-- 애니라서 과장이 허용되는 것이지, 비영어권의 어거지 영어 스타일이 무조건 허용되는 것이 아니다.
-- 단, 남성향 seinen은 그 더빙 스타일이 장르 문법으로 정착되어 있어 예외 적용.
+- Stylized 허용은 **캐릭터·세계관·타깃 3축 fit 시.** 매체가 애니메이션이라는 이유만으로 강제 허용 X.
+- 현대 모던 여성향 로맨스·코미디·일상 = Native English 강제.
+- 동양풍·신화·다크 판타지·시노비·사무라이 = stylized OK.
+- 의도된 stylized 톤 vs 실수 번역체 구분 명확히. 의도되지 않은 어색함 = 즉시 NG.
 
 ### 공통
 
@@ -285,46 +362,88 @@ EP 본문만이 영어 일원화 대상.
 - 직전 씬과 시간·위치 연속 시 적극 사용.
 - `S#2 — WEST LINE / ROADBLOCK / CONTINUOUS` 식.
 
-## [Visual] 지문 의상·룩 명시 룰 (필수, 2026-05-12 정정)
+## [VISUAL / ACTION] 의상·룩 어셋 식별 룰 (필수, 2026-05-15 정정)
 
-> **비주얼 락의 진짜 목적 = 캐릭터 어셋 생성 고정 (AIGC용).**
-> **[Visual] 지문에 의상·룩 디테일 직접 명시는 대부분 X.** 제작자·연출가가 비주얼 락 어셋 + 대본 보고 상황에 맞게 알아서 AIGC 생성.
+> **비주얼 락 = AIGC 어셋 생성 고정용 DB.**
+> **대본 [VISUAL / ACTION]은 어떤 어셋(=의상)을 호출하는지 식별 가능해야 한다.**
 
-### 대부분의 씬 — 의상·룩 디테일 [Visual]에 X
-- 일상 의상 변경 (실사 드라마 현대물 자주 발생) = 묘사 X
-- 부분 변화 (옷 찢어짐·머리 흐트러짐·먼지 묻음) = 묘사 X
-- 사소한 액세서리·소품 변경 = 묘사 X
-- [Visual]은 **사건·동작·시각 정보·인물·동선·소품·표정·시간·장소**에 집중
+이전 룰("[Visual]에 룩 디테일 X (대부분)" — 2026-05-12)은 **폐기.** 어셋 식별이 안 되면 AIGC가 임의로 의상을 생성해 정합성이 깨진다. 사람이 일일이 정돈해야 하는 부담도 커진다.
 
-### 예외 — [Visual] 지문에 의상 변화 통합 묘사 + 비주얼 락 등재
+### 의상 묘사 룰
 
-**의상 변화가 스토리상 매우 중요한 씬만:**
-- 무도회·reveal scene (신분·정체 공개)
-- 얌전한 옷 → 과감한 옷 (캐릭터 톤 변화)
-- 자신의 신분·지위 증명 (왕좌 등극·갑주 첫 등장 등)
-- 권능·각성 표지 변화 (황금 갑주·드래곤 갑주 등)
+| 상황 | [VISUAL / ACTION] 묘사 | 비주얼 락 |
+|---|---|---|
+| **첫 등장 (첫 의상)** | **필수** — 색·소재·실루엣·핵심 디테일 (어셋 정의용) | O |
+| **바뀐 의상 첫 등장** | **필수** — 새 어셋 정의 | O (변형 락 등재) |
+| **직전 씬과 동일 의상 (연속 회차·동일 시간)** | **X** — 같은 어셋 호출 (반복 묘사 금지) | — |
+| **이전에 묘사된 의상 재착용** | **필수 — 짧은 식별자만** (예: "back in the white silk robe") | — (이미 등재) |
+| **사건 기능 있는 변화** (각성·전투 흔적·신분 변경) | **필수** — 변화 디테일 | O (변형 락 추가) |
+| **사건 기능 없는 부분 변화** (먼지·일상 피로) | **X** | — |
 
-→ 이런 예외 씬: [Visual] 지문에 통합 묘사 + 색·소재·실루엣·핵심 디테일 명시.
+### 첫 등장 — 어셋 정의 묘사 (예시)
+
+```
+[VISUAL / ACTION]
+LIVIA enters the temple gate in a white silk robe, a silver pendant at her throat,
+her dark hair loose past her shoulders. She kneels before the dragon's altar.
+```
+
+### 변경 — 새 어셋 정의 + 사건 기능 (예시)
+
+```
+[VISUAL / ACTION]
+LIVIA steps into the throne room. The silver pendant is gone — a black iron collar
+marks her throat, the dragon's seal. Her hands are bound at the wrist.
+```
+
+### 재착용 — 짧은 식별자만 (예시)
+
+```
+[VISUAL / ACTION]
+LIVIA back in the white silk robe. She places the letter on the altar.
+```
+
+**나쁜 재착용 (풀 묘사 반복 X):**
+```
+[VISUAL / ACTION]
+LIVIA in a white silk robe, silver pendant at her throat, dark hair loose past her
+shoulders. She places the letter on the altar.
+```
+→ EP1에서 이미 정의된 어셋. 다시 풀 묘사하면 정합성 부담·잡음.
+
+### 직전과 동일 — 묘사 X (예시)
+
+```
+[VISUAL / ACTION]
+LIVIA enters the dining hall. She sets the letter on the table. ADRIAN watches.
+```
+→ 직전 씬과 동일 의상. 의상 묘사 0. 사건·동작·시각 정보·인물·동선만.
+
+### 핵심 원칙
+
+- **첫 등장·변경·재착용 = 어셋 식별 가능하게 명시.**
+- **직전과 동일 = 묘사 X.**
+- **[VISUAL / ACTION]은 사건·동작·시각 정보 + 어셋 식별자.**
+- 미세 디테일(끈·자수·소매·자락)은 비주얼 락에 락 됨. 본문에 다시 풀 묘사 X.
+- 어셋 신규 정의는 디테일 (어셋 생성용) / 어셋 호출은 식별자 (짧은 명시).
 
 ### 비주얼 락 환류
 
-위 예외 씬에서 비주얼 락에 미등재된 변화 발견 시 → 비주얼 락에 EP·캐릭터·의상 변화 명시 (새 단계 등재).
+새 어셋 발견 시 → 비주얼 락 변형 락에 즉시 등재. 미등재 시 다음 회차 AIGC 생성에서 일관성 깨짐.
 
-### 레퍼런스 — Demon Lord's Marked Bride 참조
+### 사건 기능 변화 매트릭스
 
-의상 묘사 절제·중요 변화만 [Visual]에 통합. 참조: `config/reference_scripts/script_Demon_Lord's_Marked_Bride.md` (첫 1-2 씬만).
+| 변화 | 기재 사유 |
+|---|---|
+| 권능·각성 표지 (눈 색·문양 발광·갑주 발현) | 각성 사건 = 정보 갱신 |
+| 상해·전투 흔적 (찢긴 옷·이마 피·손목 자국) | 갈등 결과 = 상태 갱신 |
+| 신분·정체 변경 룩 (왕좌 등극·갑주 첫 착용·가면 벗음) | 정체 reveal = 정보 갱신 |
+| 공개 마킹·소유 표지 (목·손목 자국·반지·문장) | 관계 갱신 |
+| 타락·변질·죽음 표지 (창백함·핏기·검은 정맥) | 상태 갱신 |
+| 의상 단계 진화 (얌전 → 과감 → 권력자) | 캐릭터 톤 변화 = 사건 |
+| 무기·소품 획득·상실 | 사건·주도권 갱신 |
 
-### 예시 (올바른 적용)
-
-**일상 씬 (의상 묘사 X):**
-> [Visual] LIVIA stands at the dining table. Her hand rests on the inheritance papers. The room is silent. ADRIAN watches from the doorway.
-
-(레나 의상 묘사 X — 비주얼 락이 캐릭터 어셋 고정·제작자가 상황에 맞게 처리)
-
-**중요 reveal 씬 (의상 통합 묘사):**
-> [Visual] KAEL steps onto the temple floor in **bronze chestplate, polished — half-circular shoulder guards, a black wool cloak draped from one shoulder, the chain marks on his shoulders still visible above the bronze rim.** The Hera diadem hangs from his sword hilt.
-
-(KAEL 신분·각성 reveal = 중요 변화 = 통합 묘사 + 비주얼 락 등재)
+→ 위 변화는 [VISUAL / ACTION]에 묘사 + 비주얼 락 환류.
 
 ## 첫 등장 외형 묘사 룰 (필수, 2026-05-12 보완)
 

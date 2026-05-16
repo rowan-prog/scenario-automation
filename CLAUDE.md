@@ -14,10 +14,14 @@ scenario-automation/
 ├── README.md                    프로젝트 전반 안내
 ├── CLAUDE.md                    이 파일 (Claude Code 자동 로드)
 ├── config/                      공통 기준·자료 (모든 작품 공유)
-│   ├── production_guide.md      마스터 가이드 v2 (최상위 권한, 모든 원칙·기준)
-│   ├── evaluators.md            피칭 평가위원 7인 분석
+│   ├── master_guide_v3.md       🏆 최상위 마스터 가이드 v3 (2026-05-15) — 모든 원칙·기준의 최종 권한
+│   ├── production_guide.md      v2 마스터 가이드 (v3 보조 — 충돌 시 v3 우선)
+│   ├── pitch_style_reference.txt  피칭덱 문체·트리트먼트 레퍼런스 (작성·검토 시 참조)
+│   ├── hit_library/             ✨ 히트작 라이브러리 (288작 + 76 후보 + 43 AIGC tracker + 81 tropes)
+│   │   └── vertical_hit_library_2026-05-15.xlsx  플랫폼·장르·트로프·정량 신호 통합
+│   ├── evaluators.md            피칭 평가위원 7인 분석 (위원 B = vertical 작가 출신 마케팅 리더)
 │   ├── meta_template.md         작품 진행 메타 템플릿
-│   ├── visual_lock_template.md  캐릭터 비주얼 락 템플릿
+│   ├── visual_lock_template.md  캐릭터 비주얼 락 템플릿 (어셋 생성 고정)
 │   ├── personas/                검토 페르소나 9개 (제작 7 + 시청자 2)
 │   │   ├── persona_01_intimacy_auditor.md
 │   │   ├── persona_02_aigc_production_director.md
@@ -28,33 +32,43 @@ scenario-automation/
 │   │   ├── persona_07_genre_pleasure_realization_auditor.md
 │   │   ├── persona_08_male_viewer_diagnostic.md       [시청자 — 남성향 작품 한정]
 │   │   └── persona_09_female_viewer_diagnostic.md     [시청자 — 여성향 작품 한정]
-│   ├── target_research/         타깃 자료 (방대 자료 — 메모리는 트리거만, 본문은 여기)
+│   ├── target_research/         타깃 자료
 │   │   ├── male_target_research.md      북미 남성향 — 16 카테고리·5대 엔진·5 최적 조합
 │   │   └── female_target_research.md    북미 여성향 — 할리퀸·버클리·발렌타인 + Tier 1-3 트로프
-│   └── reference_scripts/       참고 자료 (LOCKED OUT 등)
+│   └── reference_scripts/       참고 대본 (LOCKED OUT 등)
+├── inbox/                       ⚠️ 사용자 임시 자료함 (자동 로드 X, 명시 지시 시만 정독)
 ├── prompts/                     단계별 prompt (워크플로우 순)
-│   ├── phase_0_idea_submission.md          아이디어 제출 (청사진 초안 input)
+│   ├── phase_0_idea_submission.md          아이디어 제출
 │   ├── phase_1_rough_blueprint.md          러프 청사진
-│   ├── phase_2_pitch_deck.md               피칭덱
+│   ├── phase_2_pitch_deck.md               피칭덱 (2단계 평가)
 │   ├── phase_3_full_blueprint.md           완성 청사진
-│   ├── phase_4_episode_writing.md          에피소드 집필
+│   ├── phase_4_episode_writing.md          에피소드 집필 (유료회차)
 │   ├── phase_5_persona_review.md           페르소나 검토
 │   ├── phase_6_revision.md                 패치
 │   ├── phase_7_final_gate.md               최종고 게이트 (4-Gate)
-│   ├── phase_8_synopsis_summary.md         한국어 줄거리 요약 (1,500자)
 │   ├── phase_a_1_adaptation_blueprint.md     [부가 A] 각색 청사진
 │   ├── phase_a_2_adaptation_script.md        [부가 A] 각색 스크립트
 │   ├── phase_b_external_script_intake.md   [부가 B] 외부 대본 등재
+│   ├── phase_c_external_feedback_intake.md ✨ [부가 C] 외부 피드백·시장 리포트·인사이트 처리
+│   ├── protocol_premium_pilot_lite.md       🔥 무료회차 EP1-8 Lite Protocol v1 (2026-05-16 — 7 step, 옛 19-step 대체)
+│   ├── _archived_protocol_premium_pilot_19step.md   [폐기 2026-05-16 — 시간 5-10배 소모, 결과 미미]
 │   ├── status.md                            [도구] 진행 단계 자동 점검
-│   └── audit.md                             [도구] 시스템 정합성 검사 (룩 변형·환류·씬 수·소품·메모리)
+│   └── audit.md                             [도구] 시스템 정합성 검사
 └── projects/                    각 작품 폴더 (넘버_타이틀 형식)
-    ├── 01_titan_born/                          (완결 ✅)
-    ├── 02_the_offering/                        (premium_pilot 진행 중)
+    ├── 01_titan_born/                          (phase_2 피칭덱 통과까지만 유효 — 무료회차 폐기 2026-05-15)
+    ├── 02_the_offering/                        (premium_pilot 무료·유료 완료 ✅ / 초고수위 / 무료회차 fresh 재작성 중 — premium_pilot_v2)
     ├── 03_most_wanted_ship/                    (phase_2 완료)
     ├── _X_04_heiress_clause/                   (폐기)
-    ├── 06_she_stole_my_face/                   (phase_3 완료)
-    └── 08_reborn_at_ten/                       (부가 A 각색, phase_2 완료)
+    ├── 06_she_stole_my_face/                   (phase_3 + 비주얼 락 완료 — 무료회차 집필 중단 2026-05-15)
+    └── _X_08_reborn_at_ten/                    (폐기 2026-05-15)
 ```
+
+**자료 우선순위 (충돌 시):**
+1. `config/master_guide_v3.md` (최상위)
+2. CLAUDE.md (본 파일)
+3. `config/production_guide.md` (v2 보조)
+4. 메모리 (`MEMORY.md` 인덱스 통해)
+5. 각 phase prompt
 
 ---
 
@@ -77,11 +91,12 @@ phase_0 (아이디어 제출 · 4-8개 생성 · 사용자/AI 선택)
               └─ 산출물: FINAL_FREE.md + Pilot Bible
           → [유료 EP9-N] phase_4 → phase_5 ↔ phase_6 → phase_7 → FINAL_PAID.md
               (protocol Step 20-22가 band N · Polish · Coherence Gate 가이드 제공)
-            → 통합 최종고 (FINAL.md)
-              → phase_8 (한국어 줄거리 요약 1,500자 — FINAL_synopsis_kr.md) ✅
+            → 통합 최종고 (FINAL.md) ✅
 ```
 
-**무료회차 protocol 라우팅 (필수, 2026-05-13):** 무료회차 EP1-8 작업은 **`prompts/protocol_premium_pilot.md`로 자동 분기**. phase_4·5·6·7 단독 호출 금지. 각 phase prompt 상단에 라우팅 룰 등재됨. 유료회차 EP9+는 phase_4~7 그대로 사용 (protocol Step 20-22 가이드 적용).
+**phase_8 폐기 (2026-05-15):** 한국어 줄거리 요약은 토큰 낭비, 매출 영향 0. archive 처리. 외부 홍보 필요 시 on-demand로만 호출.
+
+**무료회차 protocol 라우팅 (2026-05-16 갱신):** 무료회차 EP1-8 작업은 **`prompts/protocol_premium_pilot_lite.md` (Lite v1 — 7 step)로 자동 분기**. 옛 19-step protocol은 archive (시간 5-10배 소모·결과 미미). 유료회차 EP9-50은 phase_4~7 그대로 사용.
 
 **타깃 맞춤 (필수, 2026-05-11):** phase_0부터 phase_4까지 모든 단계가 동일 타깃에 정렬. 5차원 — 구조 설계·소재·미감·비주얼·결제 동기. 타깃별 방대 자료는 `config/target_research/` 참조 (북미 남성: `male_target_research.md` / 북미 여성: `female_target_research.md`).
 
@@ -121,8 +136,22 @@ phase_b (외부 대본 등재 + 1차 게이트) → 분기 (A/B/C) → 메인 �
 
 ## 핵심 원칙 (반드시 인지)
 
-모든 작업의 출발점: **`config/production_guide.md` Section 3 (핵심 제작 원칙)**.
-의문이 생기면: **Section 24 (최종 핵심 규칙)**.
+**🏆 최상위 권한 자료 (2026-05-15):** `config/master_guide_v3.md` (AIGC Paid Vertical 통합 마스터 가이드 v3).
+모든 작업의 출발점: **마스터 가이드 v3** + 본 CLAUDE.md.
+보조 자료: `config/production_guide.md` v2 (v3와 충돌 시 v3 우선).
+의문이 생기면: 마스터 가이드 v3 PART 12 (최종 통합 원칙) 또는 본 파일.
+
+### 2026-05-15 핵심 갱신 (사용자 명시)
+
+1. **EP 양식 v2** — [VISUAL/ACTION] / [KEY CAMERA] / [DIALOGUE] / [GRAPHIC/UI] / [END HOOK]. FX/AUDIO 블록 폐기. (메모리 `feedback_episode_format_v2.md`)
+2. **9:16 세로형 default** — 장르 무관 (애니메이션 포함). 16:9는 명시적 사유. (마스터 가이드 v3 0.1.1)
+3. **피칭덱 평가 2단계** — 1차 "잘팔릴 것 같은가" + 2차 위원 4표+ 가상투표 + 레퍼런스작 필수. (메모리 `feedback_pitch_2_stage_evaluation.md`)
+4. **비주얼 락 = 어셋 생성 고정용** — 첫 의상·변경·재착용 시 [VISUAL/ACTION] 묘사 필수. 직전과 동일 = X. (메모리 `feedback_visual_lock_system.md`)
+5. **애니메이션 stylized 대사** — 캐릭터·세계관·타깃 3축 fit 시 stylized OK. 모던 여성향 = Native 강제. (메모리 `feedback_animation_stylized_dialogue.md`)
+6. **위원 B = vertical 작가 출신 마케팅 리더** — 글·페이월·캐릭터 욕망 이해 깊음. (config/evaluators.md 3-0)
+7. **phase_8 폐기** — 한국어 줄거리 요약 archive. 토큰 낭비.
+8. **외부 피드백 처리 트랙** — `phase_c_external_feedback_intake.md` 신규.
+9. **히트작 라이브러리 + 피칭덱 문체 레퍼런스** — `config/hit_library/` + `config/pitch_style_reference.txt`.
 
 특히 자주 참조되는 핵심 섹션:
 
@@ -130,7 +159,7 @@ phase_b (외부 대본 등재 + 1차 게이트) → 분기 (A/B/C) → 메인 �
 |---|---|---|
 | **0-3** | Hard Lock vs Soft Lock | 작품 자율 영역 강제 표준화 회피 |
 | **5-3** | 포맷 분류 | AIGC 실사형 vs 애니메이션 — 섞을 수 없음 |
-| **5-5** | 회차 설계 ROI 게이트 | 편당 90초~3분 / 총 70~120분 / 50화+ |
+| **5-5** | 회차 설계 ROI 게이트 (2026-05-15 갱신 + 무료회차 예외) | **50화 고정 / 무료 1-8화 고정 / 🔥 무료회차 편당 2분 초과 OK (압도적 중요) / 유료회차 편당 ≤2분 / 총 ≤90분 / 권장 75분 내외 (장르·소재·타깃 가변)** |
 | **8-1** | 북미 타깃 (영어 대사 예시) | 작동/죽은 대사 영어 예시 |
 | **9-1** | 남주 선언형 대사 5조건 | 시점·구간 잠금 X, 5조건으로 판정 |
 | **11** | 피칭덱 1차 기준 | "재밌겠다 식별 1차" |
@@ -190,7 +219,6 @@ EP 파일과 통합 최종고는 **영어로만 기록.** 한국어 메타·foot
 | `[작품명]_FINAL_FREE.md` | 무료 EP1-N (보통 EP1-8) |
 | `[작품명]_FINAL_PAID.md` | 유료 EP N+1-끝 (보통 EP9-50) |
 | `[작품명]_FINAL.md` | 전체 회차 통합 |
-| `[작품명]_FINAL_synopsis_kr.md` | 한국어 1,500자 요약 (phase_8) |
 
 **트리거:** phase_7 4-Gate 통과 직후 자동 / protocol_premium_pilot Step 17 직후 자동. 사용자 별도 호출 불필요.
 
@@ -242,7 +270,7 @@ EP 파일과 통합 최종고는 **영어로만 기록.** 한국어 메타·foot
 
 상세 룰: 메모리 `feedback_pitch_master.md` (통합) + `feedback_banned_expressions.md`.
 
-**필수 누락 0건 항목:** 타이틀(영어+한국어) / 담당 CM / 장르(한국어) / 키워드(한국어) / 로그라인(한국어 2-3문장) / 회차(50/무료 1-8) / 타깃층 / **포맷(AIGC Live-action·Animation 3D/2.5D/2D + 9:16/16:9 — 누락 시 자동 fail)**.
+**필수 누락 0건 항목:** 타이틀(영어+한국어) / 담당 CM / 장르(한국어) / 키워드(한국어) / 로그라인(한국어 2-3문장) / 회차(50/무료 1-8) / 타깃층 / **포맷(AIGC Live-action·Animation 3D/2.5D/2D + 화면비 — 9:16 default / 16:9는 명시적 사유 필요)** / **레퍼런스작 (히트작 라이브러리에서 2-4편 + 매핑 키워드)**.
 
 **본문 양식:** 피칭사유(줄글, 표 X) / 인물(캐릭터별 한 단락) / 줄거리(한 페이지) / 트리트먼트(EP1-8, 회차별 클리프행어).
 
@@ -444,7 +472,7 @@ EP 파일과 통합 최종고는 **영어로만 기록.** 한국어 메타·foot
 | `03_most_wanted_ship` | I BOUGHT THE GALAXY'S MOST WANTED SHIP | 메인 | AIGC / 북미 / 남성향 (스페이스 오페라·소프트 하렘) | phase_2 완료 (피칭 결과 대기) — *03 슬롯은 옛 03_black_core 컨셉 폐기 후 재사용* |
 | `_X_04_heiress_clause` | I AM THE HEIR (폐기) | — | — | **폐기** (2026-05-12 / 자동 차단 대상, `feedback_deprecated_projects.md` 참조) |
 | `06_she_stole_my_face` | SHE STOLE MY FACE | 메인 (Zero to One) | AIGC 실사 세로형 (9:16) / 북미 / 여성향 | phase_3 완료 (피칭 결과 + phase_4 대기) |
-| `08_reborn_at_ten` | REBORN AT TEN: My Stepfather Buried My Mother. I'll Bury His Empire. | 부가 A (각색) | AIGC 애니 2.5D 세로형 / 북미 / 남성향 25-45 | phase_2 완료 (피칭 결과 대기) — 원작: `config/reference_scripts/script_genius_baby_original.md` |
+| `_X_08_reborn_at_ten` | REBORN AT TEN (폐기) | — | — | **폐기 2026-05-15** (사용자 명시 / 자동 차단 대상, `feedback_deprecated_projects.md` 참조) |
 
 **예약·미생성 슬롯 (CLAUDE.md 옛 계획):**
 - `05_last_key` (THE LAST KEY) — **폴더 미생성**. 옛 계획 잔존.

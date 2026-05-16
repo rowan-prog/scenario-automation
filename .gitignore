@@ -35,3 +35,8 @@ node_modules/
 
 # Claude Code 사용자 정보 (메모리는 별도 위치라 자동 제외)
 .claude/
+
+# inbox/ — 사용자 임시 자료 저장소 (시스템과 분리, 버전 관리 X)
+inbox/*
+!inbox/README.md
+!inbox/.gitkeep

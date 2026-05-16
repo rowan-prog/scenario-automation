@@ -62,7 +62,7 @@ $sep = "`r`n`r`n---`r`n`r`n"
 | Work header count | EP 수 + 1 (master + 각 EP) | 🔴 누락·중복 확인 |
 | S# scene count | 청사진 명시 씬 수와 일치 | 🟡 차이 보고 |
 | Hard Cut count (`^Hard Cut\s*$`) | **EP 수 - 1** (마지막 EP는 자연 엔딩 — Hard Cut 금지) | 🔴 mid-EP Hard Cut 제거 / 누락 보강 / 마지막 EP에 Hard Cut 발견 시 자연 엔딩 재작성 (`feedback_final_episode_natural_ending.md`) |
-| 4 블록 일관성 | Visual = scene count / Camera·DIALOGUE·FX = scene count + end image 수 | 🟡 블록 누락 확인 |
+| 양식 v2 일관성 | [VISUAL / ACTION] = scene count / [DIALOGUE] = 대사 씬 / [KEY CAMERA]·[GRAPHIC / UI]·[END HOOK] = 선택 사용 시만 카운트 | 🟡 블록 누락 확인 |
 | Separator (`---`) | EP 간 일관 | 🟡 보강 |
 | File size | 합리적 범위 (FREE ~50KB·PAID ~300-400KB·FULL ~400-500KB) | 🟡 너무 작거나 큼 확인 |
 
@@ -337,7 +337,7 @@ Set-Content -Path $outPath -Value $sb.ToString() -Encoding UTF8 -NoNewline
 |---|---|
 | EP 헤더 개수 | 50 (`^# .* — EP\d+:`) |
 | EP 헤더 순서 | EP1 → EP50 |
-| `[Visual]`·`[Camera]`·`[DIALOGUE]`·`[FX]` 블록 | 각 카운트 일치 (50 × 4씬 + 페이월 보정) |
+| `[VISUAL / ACTION]`·`[DIALOGUE]`·`[KEY CAMERA]`·`[GRAPHIC / UI]`·`[END HOOK]` 블록 (양식 v2) | [VISUAL / ACTION] = scene count / [DIALOGUE] = 대사 씬 / 나머지 = 사용 시만 |
 | `[End Image]` | 50 |
 | `Hard Cut` | 50 |
 | **한국어 검출** | **0** (`\p{IsHangulSyllables}` 또는 `[ㄱ-ㆎ]`) |

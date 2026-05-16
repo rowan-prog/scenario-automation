@@ -121,7 +121,7 @@
 ### 흔한 거부 사례
 - "캐릭터의 face break 묘사가 multi-emotion → single dominant로 명료화" — 핵심 쾌감(시각 보상의 두께) 약화 가능. 거부.
 - "권력 line을 modern English에서 archaic으로" — 캐릭터 voice 자율성 약화. 거부 가능.
-- "페이월 spectacle wide shot을 컷 분리" — [Camera] 컷 분리만 채택, [Visual] 묘사 유지 (spectacle 보존).
+- "페이월 spectacle wide shot을 컷 분리" — [KEY CAMERA] 컷 분리만 채택, [VISUAL / ACTION] 묘사 유지 (spectacle 보존). (양식 v2)
 
 ### 흔한 채택 사례
 - "EP6 epaulet S#5에서 deck plate에 떨어졌는데 [End Image]에서 RAVEN-9 손에 있음" — 소품 위치 논리. **채택 필수.**
