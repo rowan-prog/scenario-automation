@@ -1,6 +1,18 @@
 # THE OFFERING — 진행 메타
 
-**상태 (2026-05-16 갱신):** **무료 EP1-8 = Lite Protocol v1으로 fresh 재작성 완료 → G v2 디벨롭 완료 (FINAL_FREE_v2_dev.md) → 청사진 v2 환류 완료 (`02_the_offering_04_blueprint_full.md` Soft Lock 영역 갱신·Hard Lock 유지)** | 옛 G FINAL_FREE_v2.md = 이전 버전·참고 자료.
+**상태 (2026-05-17 갱신):** **무료 EP1-8 v4 patch 완료 (`FINAL_FREE_v4.md` 1,276줄·다크 로맨타지 intimacy 유예 + Vael 보호 동기 거부·거래/이용 정당화 + Isolde 생존·귀환 거부 / EP8 페이월 사이다 80%+충격 텐션 20% 재설계).** 
+
+**v4 핵심 정정:**
+- 다크 로맨타지 intimacy 유예 룰 적용 (몸 가까움 유지 / 감정 합의 0건 / "I want you" "I love" "fate" "destiny" 0건)
+- Vael "보호자" 동기 명시 거부 → 거래·이용·소유 정당화
+- Isolde "If I go back without your mouth on me, they marry me off to the next altar by sundown" 류 생존·귀환 거부
+- EP8 페이월: "Yours" 직후 키스 역방향 (감정 합의 거부 시그널) + "The show is finished. Clear the hall" + "Up the stair. My chamber. Not yours" + Stair throat measure + "I am not gentle on a stair you walked up of your own feet" + Hard Cut (암전 X)
+- 좋은 긴 대사 3 패턴 활용 (사실 나열·조건부 허락·최후통첩)
+- 9화 결제 동기 = "옷 한 겹 안에서 무엇을 하는가"
+
+**버전 흐름:** v2_dev → v3 (대사 정정) → **v4 (다크 로맨타지 intimacy 유예·EP8 페이월 재설계 최신)**.
+
+**이전 (2026-05-16):** Lite Protocol v1 fresh 재작성 → G v2 디벨롭 (FINAL_FREE_v2_dev.md) → 청사진 v2 환류 (Soft Lock 갱신·Hard Lock 유지) | 옛 G FINAL_FREE_v2.md = 이전 버전·참고 자료.
 
 **2026-05-16 비주얼 락 v3 — voice 한 줄 등재 (Vael·Isolde·Haldren·Kiran·Elara·Grey Envoy·Aldric).**
 
