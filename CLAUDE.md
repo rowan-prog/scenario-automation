@@ -46,18 +46,22 @@ phase_0 (아이디어) → phase_1 (러프 청사진) → phase_2 (피칭) → �
 
 ---
 
-## 현재 작품 (2026-05-19)
+## 현재 작품 (2026-05-21)
 
-| 폴더 | 작품 | 단계 |
-|---|---|---|
-| `01_titan_born` | TITAN BORN | 완결 ✅ |
-| `02_the_offering` | THE OFFERING | v14 production-ready·v15 진입 대기 |
-| `03_most_wanted_ship` | I BOUGHT THE GALAXY'S MOST WANTED SHIP | phase_2 완료 |
-| `_X_04_heiress_clause` | I AM THE HEIR | 폐기 |
-| `06_she_stole_my_face` | SHE STOLE MY FACE | phase_3 완료 |
-| `_X_08_reborn_at_ten` | REBORN AT TEN | 폐기 |
+| 폴더 | 작품 | 현재본 (정본) | 단계 |
+|---|---|---|---|
+| `01_titan_born` | TITAN BORN | (07_final 확인 필요) | 완결 ✅ |
+| `02_the_offering` | THE OFFERING | **🔒 `07_final/02_the_offering_FINAL_v33_5_clean.md`** | **Production LOCK** (2026-05-21·v33.5·다크 로맨스 슈퍼퀸 label reversal·출산 EP48-49·후일담 EP50만·Sera 영원 라이벌·행정/정치 어휘 0건) |
+| `03_most_wanted_ship` | I BOUGHT THE GALAXY'S MOST WANTED SHIP | (07_final 확인 필요) | phase_2 완료 |
+| `_X_04_heiress_clause` | I AM THE HEIR | — | 폐기 |
+| `06_she_stole_my_face` | SHE STOLE MY FACE | (07_final 확인 필요) | phase_3 완료 |
+| `_X_08_reborn_at_ten` | REBORN AT TEN | — | 폐기 |
 
 새 작품 번호 = **09**.
+
+> **현재본 단일 진실:** 각 작품의 `07_final/[작품]_FINAL_v{최신N}.md`. 메타 파일·CLAUDE.md 모순 시 → *파일 시스템 우선*. 메타 즉시 갱신.
+
+> **메모리 위치 주의:** workspace 안에 `memory/` 폴더 *없음*. 실제 위치 = `C:/Users/Rowan/.claude/projects/C--Users-Rowan-scenario-automation/memory/`. `memory/feedback_*.md` 참조 = 그 위치를 의미.
 
 ---
 

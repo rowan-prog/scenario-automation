@@ -66,6 +66,7 @@
 - 영상 리듬 블록 0개 EP → 작업 중단·MONTAGE/VO/FLASHBACK/INSERT 1개+ 추가
 - 부위 순회 tracking (thigh → ribs → throat 순서 묘사) → 시선 우선화 정정
 - 검증 보고서·테이블·자가 검수 풀이 = 작성 거부
+- **🚨 Vertical 자체 룰 — 행정/법/정치/외교 절대 금지** (성별·신분·장르 무관). charter·treasury·hearing·decree·외교 협상·exile (formal)·policy·writes letter·brand mark·council vote·sentence 등. 어떤 캐릭터도 (왕·여왕·주인공·악역) 행정 행위 X. Vertical ≠ HBO 변호사 드라마. 사용자 명시 지시 없으면 *즉시 personal violence + visceral claim 비트로 reframe*. 상세: `memory/feedback_vertical_no_admin_power.md`.
 
 ---
 

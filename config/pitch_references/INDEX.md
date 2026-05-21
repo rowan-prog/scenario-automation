@@ -1,14 +1,45 @@
 # 피칭덱 레퍼런스 INDEX
 
-> **사용자 직접 제공 (2026-05-19) — 11개 피칭덱 중 10개 통과, 1개 비통과.**
+> **🎯 단일 진실 (Single Source of Truth):** [`MASTER_DATASET.md`](MASTER_DATASET.md) — 14 작품 × 7 위원 통합 매트릭스 + verbatim + 가상투표 v2 모델 + 예측 실패 진단.
+>
+> **2026-05-19 1차 (사용자 제공·11개·10 PASS·1 FAIL) + 2026-05-21 2차 (Rowan 담당 3 + 다른 CM 3 = 6개·3 PASS·3 FAIL) + 2026-05-12 0차 (8개).**
 >
 > phase_2 피칭덱 작성 / 피칭 후 디벨롭 / 외부 IP 각색 진입 시 자동 참조 baseline.
 >
-> **비교 학습 대상:** 같은 CM(Han Choi)의 *Beast Lord's Rejected Bride* (통과) vs *Sealed Bride: First Seal* (실패) — `feedback_pitch_pass_fail_inference.md` 인사이트 참조.
+> **비교 학습 대상:**
+> - 같은 CM(Han Choi)의 *Beast Lord's Rejected Bride* (통과) vs *Sealed Bride: First Seal* (실패) — `feedback_pitch_pass_fail_inference.md` 인사이트 참조.
+> - **2026-05-21 — Rowan 담당 3 vs 다른 CM Lily 담당 Ashborn 만장일치 통과** — 트리트먼트 디테일·메인 爽点·각색 리스크 회피 차이. `2026_05_21/RESULTS.md` 참조.
 
 ---
 
-## 트랙별 정리
+## 2026-05-21 피칭 (6작품 — 별도 폴더)
+
+`2026_05_21/` 하위:
+
+| # | 작품 | 장르 | 타깃 | CM | 결과 |
+|---|---|---|---|---|---|
+| 01 | [Back to You: Titanic](2026_05_21/01_back_to_you_titanic_US_PASS.md) | Disaster Romance / Time Travel | 북미 여성 20-40 | Bonnie Song | ✅ 6/6 (E 누락) |
+| 02 | [Elf King's Rusty Ring](2026_05_21/02_elf_king_rusty_ring_JP_FAIL.md) | Fantasy Romance / 회귀 | 북미 여성 20-30 | **Rowan** | ❌ 1/7 |
+| 03 | [Dangerous Knight](2026_05_21/03_dangerous_knight_JP_FAIL.md) | Medieval Romance | 북미 여성 20-40 | Emika | ❌ 1/7 |
+| 04 | [I Stole the Demon Lord's Army](2026_05_21/04_demon_lord_army_JP_FAIL.md) | Male Dark Fantasy | 북미 남성 16-40 | **Rowan** | ❌ 2/7 |
+| 05 | [Olympus King's Ex-Wife (Zeus's Daughter)](2026_05_21/05_olympus_zeus_daughter_JP_PASS.md) | Greek Myth Romance | 북미 여성 20-40 | **Rowan** | ⚠️ 4/7 (A·B·D 거부) |
+| 06 | [Ashborn: Academy of the Veil](2026_05_21/06_ashborn_academy_veil_JP_PASS.md) | Fantasy Action / Underdog | 북미 남성 20-40 | Lily | ✅ **7/7 만장일치** |
+
+**핵심 패턴 (전체 분석:** `2026_05_21/RESULTS.md` **참조):**
+
+- 위원 B (Chinese·보수) Yes 2건 = Titanic·Ashborn → megalithic IP 또는 head category + 각색 리스크 0
+- 위원 A·D 거부 패턴 = 트리트먼트 디테일 부족 ("내용 파악 어려움")
+- 사용자 (Rowan) 3건 모두 위원 B Drop → 보강 필수
+- 트리트먼트 EP당 단어 수: 통과 70-120 / 비통과 30-60
+- 메인 爽点 EP1-3 안에 시각화된 작품만 위원 B·F 통과
+
+**파생 메모리 (2026-05-21 신규):**
+- `memory/feedback_committee_b_persuasion.md`
+- `memory/feedback_pitch_treatment_density.md`
+
+---
+
+## 2026-05-19 피칭 (11작품 — 트랙별)
 
 ### KR/AI (2종)
 | # | 작품 | 장르 | 타깃 | 상태 | CM |

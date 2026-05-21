@@ -1,6 +1,19 @@
-# 피칭 평가위원 7인 — 작품 통과 판정 기준
+# 피칭 평가위원 7인 — 작품 통과 판정 기준 (SPECULATIVE VIRTUAL VOTE MODEL)
 
-> 본 문서는 시나리오 피칭에서 작품 제작 여부를 결정하는 **평가위원 7인의 사고 모델·판단 기준·설득 포인트**를 정리한 기준 문서다. 피칭덱 작성·피칭덱 검토·청사진 초안의 피칭 가능성 점검에서 우선 참조한다. 외부 전달도 가능한 형태.
+> 🚨 **본 문서는 가상 투표 모델 (SPECULATIVE). 실제 위원 verdict 아님.**
+>
+> 실제 피칭 결과·verbatim: `config/pitch_references/committee_actual_vote_ledger.md` (REAL ONLY)
+>
+> 본 문서의 모든 위원 성향 설명·예측·신호 모델은 *14 작품 sample 기반의 가상 모델*. 신뢰구간 ±20%. CM/Presentation 효과 예측 불가.
+>
+> **사용 룰:**
+> 1. 피칭덱 작성 시 *위험 식별* 도구로만 사용 ("어느 위원에 약할 수 있는가").
+> 2. *통과 여부 예측*은 사용자 판단에 맡김.
+> 3. 작품 outcome 인용 시 *반드시* `[SPECULATIVE]` 라벨 명시.
+> 4. 피칭덱 본문에 위원 라벨·내부 평가표·수정 이력 *절대 금지*.
+> 5. 다른 작품의 위원 코멘트를 *새 작품* *룰*처럼 일반화 금지 — committee_actual_vote_ledger.md의 *작품별 verbatim*만 *해당 작품에* 적용.
+
+본 문서는 시나리오 피칭에서 작품 제작 여부를 결정하는 **평가위원 7인의 사고 모델·판단 기준·설득 포인트** 가상 모델이다. 피칭덱 작성·피칭덱 검토·청사진 초안의 피칭 가능성 점검에서 *위험 식별* 도구로 참조.
 
 ---
 
@@ -661,3 +674,302 @@ G는 왜 지금 해야 하는지, 그리고 자산이 되는지를 전략 언어
 - **HEIR — 위원 D:** "메인스트림(ReelShort)과 경쟁 어려움. AIGC 엣지는?"
 - **공통 (HEIR):** 남주 로맨스 라인 약함 / 여성향 같지 않음
 - **공통 (TITAN·OFFERING):** 굳이 가로형? → **사용자 명시: 세로형 변경**
+
+---
+
+## 16. 2026-05-21 실측 피칭 데이터 (6 작품 × 7 위원) — Deep 분석
+
+> **데이터 출처:** 사용자 직접 제공 (2026-05-21). 원본 피칭덱·위원 코멘트 raw 백업: `config/pitch_references/2026_05_21/`.
+> **사용자 (Rowan) 담당 3건:** Olympus·Elf King·Demon Lord. 다른 CM 3건: Back to You (Bonnie)·Knight (Emika)·Ashborn (Lily).
+> **파생 메모리:** `memory/feedback_committee_b_persuasion.md` · `memory/feedback_pitch_treatment_density.md`
+
+### 16-1. 결과표
+
+| 작품 | A | B | C | D | E | F | G | Yes | CM | 비고 |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Back to You: Titanic | Y | Y | Y | Y | – | Y | Y | **6/6** | Bonnie | E 누락 |
+| Ashborn: Academy of Veil | Y | Y | Y | Y | Y | Y | Y | **7/7 ★** | Lily | **만장일치** |
+| Olympus King's Ex-Wife | N | N | Y | N | Y | Y | Y | **4/7** | **Rowan** | 통과 (A·B·D 거부) |
+| I Stole Demon Lord's Army | N | N | Y | N | N | Y | N | 2/7 | **Rowan** | FAIL |
+| Dangerous Knight | Y | N | N | N | N | N | N | 1/7 | Emika | FAIL |
+| Elf King's Rusty Ring | N | N | N | Y | N | N | N | 1/7 | **Rowan** | FAIL |
+
+### 16-2. 위원별 deep 패턴 (2026-05-21 검증·기존 프로필 보강)
+
+#### 위원 A — 트리트먼트 디테일 + 차별점 강화
+- **2026-05-21 Yes 트리거:** "타이타닉 소재·POV 형식·비주얼 새로움" (Back to You) / "중세 + 섹시 변별점" (Knight) / "성공 IP + 해리포터 변주" (Ashborn)
+- **2026-05-21 No 트리거 (정확 워딩):**
+  - Elf King: "트리트먼트만으로 내용 파악 어려움·디테일 필요"
+  - Demon Lord: "내용 생략·디테일 파악 어려움"
+  - Olympus (Rowan): "북미 여성 신화 다소 복잡·감옥 등 요소 제거·이해 쉽게"
+- **함의:** A는 **트리트먼트 본문 디테일 + 차별점 명확 + 새 어휘 동시 도입 3개 이하**가 합격선. EP당 70-120 단어 + 핵심 사건이 본문에 박혀 있어야 통과.
+- **Rowan 작품 액션:** Olympus·Demon Lord 트리트먼트 EP1-3 60-100 단어로 확장 + 새 mythology 어휘 3개로 한정.
+
+#### 위원 B — Chinese·매우 보수·megalithic IP/head category만
+- **2026-05-21 Yes 트리거 (단 2건):**
+  - Back to You: "泰坦尼克是西方公开大ip，我觉得可以尝试" (서양 공인 大IP)
+  - Ashborn: "男频防头部短剧作品，可以尝试" (남성향 head 숏드라마)
+- **2026-05-21 No 트리거 (정확 워딩 — 4개 키워드):**
+  | 키워드 | 의미 | 대상 |
+  |---|---|---|
+  | 吸引力不够 | 흡인력 부족 | Elf King / Knight |
+  | 期待感不够 | 기대감 부족 | Demon Lord |
+  | 主线爽点不够 | 메인 爽点 부족 | Demon Lord |
+  | 改编的有点风险 | 각색 리스크 | Olympus (Rowan) |
+- **함의:** B 통과 = **시장에서 검증된 mega IP / head 카테고리 + 메인 爽点 1줄 + 각색 리스크 0**. 새 시도·복잡 plot·오리지널 어휘 모두 거부.
+- **Rowan 작품 액션:** Olympus는 "Netshort *Watch Out! Daughter of Zeus* 동일 각색 패턴 검증" 한 줄 추가 / Elf King은 엘프 setting 폐기 또는 head 카테고리 변환 / Demon Lord는 메인 爽点 EP1-3에 시각화.
+- **상세 메모리:** `memory/feedback_committee_b_persuasion.md`
+
+#### 위원 C — Chinese·爽点 + 짧은 평가
+- **2026-05-21 Yes 트리거:** "原著参考的中国作品可以借鉴爽点" (Olympus) / "针对男性的作品题材 OK" (Demon Lord) / "原作 관객 끌어들임·기대" (Back to You) / "최근 좋은 작품 다수·참고 가치" (Ashborn)
+- **2026-05-21 No 트리거:** "각 화 hook 부족·흡인력 X" (Elf King) / "소재 OK·스토리 다듬어야" (Knight)
+- **함의:** C는 가장 너그러운 위원 (7/8 통과율 유지). 중국 vertical drama 시장 익숙·爽点 (sweet/satisfying spot·결제 도파민) 명시·짧은 평가가 특징.
+
+#### 위원 D — 트리트먼트 자체에서 컨셉 인지 + 자극 묘사
+- **2026-05-21 Yes 트리거:** "타이타닉 세계관 + 새 시도" (Back to You) / "반지의 제왕 연상" (Elf King — 유일 Y) / "Netshort 원작 재밌게 봤음·레퍼런스로 진행" (Ashborn)
+- **2026-05-21 No 트리거 (정확 워딩):**
+  - Knight: "트리트먼트만 읽었을 때 숏폼 빠른 전개·자극적 묘사 add-on 필요"
+  - Demon Lord: "숏드라마 + 대중적 남성향 X"
+  - **Olympus (Rowan): "원작에 그리스 신화 입힌 것을 피칭덱에 썼지만 트리트먼트 내용에서 인지 X"**
+- **함의:** D는 **트리트먼트 자체에서 컨셉이 직설로 보여야** 통과. 피칭덱 상단 logline/설명에만 의존 X. 자극 묘사·빠른 전개가 EP1-3 트리트먼트에 박혀 있어야.
+- **Rowan 작품 액션:** Olympus 트리트먼트 EP1 첫 줄에 "Olympus·제우스·번개권능" 직설 명시.
+- **상세 메모리:** `memory/feedback_pitch_treatment_density.md`
+
+#### 위원 E — 미국 마이크로 드라마 working + 직관성 + AI 시각화
+- **2026-05-21 Yes 트리거:** "strong 벤치마킹 + 미국 그리스/로마 신화 확장 방향" (Olympus·Rowan) / "AI 표현 좋음·Netshort 성공작 가깝게 벤치마킹·시즌제 확장 가능" (Ashborn)
+- **2026-05-21 No 트리거:**
+  - Elf King: "스토리 hook strong X·반지 매개체 어려움·엘프 = 비주얼 hook 또는 미국 마이크로 드라마 working 요소 X"
+  - Knight: "원작 자체가 카우보이 미국 소구 플롯·중세는 약함·다른 원작 권유"
+  - Demon Lord: "피칭 간결·직관적 X·재피칭 권유"
+- **함의:** E는 **미국 마이크로 드라마 시장에서 working 한 요소** (카우보이·로마/그리스 신화·마법 학원) 명확해야. 엘프·중세 = working X.
+- **Rowan 작품 액션:** Elf King setting 폐기 또는 마이크로 드라마 working 카테고리 변환 / Demon Lord 피칭 직관성 강화·재피칭.
+
+#### 위원 F — Netshort 현재 고성과 서사 + 매 EP cliffhanger + 빠른 호흡
+- **2026-05-21 Yes 트리거:** "각 화 클리프행어 잘 됨" (Back to You) / "타겟 이해도·선호 소재" (Demon Lord) / "신화 + 숏폼 서사 조합 시도 가치" (Olympus) / "현재 넷숏 가장 성과 좋은 서사·소재" (Ashborn)
+- **2026-05-21 No 트리거:**
+  - Elf King: "에피소드 cliffhanger 약함·고성과 AIGC 서사에서 살짝 벗어남"
+  - Knight: "도피→보호→동거→신뢰→사랑 = 넷숏 잘되는 서사인데 호흡 다소 느림·1-3화 강한 스킨십 없음·압축 필요"
+- **함의:** F는 **Netshort 현재 고성과 서사와 align + 매 EP cliffhanger 강도 + 빠른 호흡 + 초반 강한 스킨십**. 호흡 느림·1-3화 스킨십 부재 즉시 Drop.
+
+#### 위원 G — 플랫폼 데이터 + 차별화 + 정량
+- **2026-05-21 Yes 트리거:** "차별화된 비주얼 로케이션과 스토리" (Back to You) / "배신·복수·신화 = 북미 여성향 검증·원작 보유 = 각색 속도" (Olympus) / "성과 IP 기반·대중적 성과 가능" (Ashborn)
+- **2026-05-21 No 트리거:**
+  - Elf King: "회귀·선택 반전 = 차별화 포인트 X"
+  - Knight: "보호자형 남주 구조 비글루 통과작 다수·성과 확인+디벨롭 후 재논의"
+  - Demon Lord: "유사 장르 플랫폼 성과 데이터 없음·리스크"
+- **함의:** G는 **플랫폼 내 유사 통과작 비교 + 차별화 + 정량 데이터** 동시 요구. 정량 데이터 없으면 거의 자동 Drop.
+
+### 16-3. 결정적 패턴 — 통과 3종 공통 (Back to You·Ashborn·Olympus)
+
+| 항목 | Back to You | Ashborn | Olympus |
+|---|---|---|---|
+| 대형 IP/카테고리 정합 | Titanic ($2.2B) | Netshort head 남성향 마법 | 그리스 신화 |
+| 강한 벤치마킹 | TikTok POV / Chloe vs History | OMG Butcher Son (1.2M) / one move god mode (2.1M) / Discarded Ace (1.7M) | Netshort Watch Out! She's Daughter of Zeus |
+| 트리트먼트 디테일 | EP1-8 명확 | EP1-7 명확·EP당 70-110 단어 | EP1-10 명확·EP당 40-70 단어 (가장 약함) |
+| 시장 검증 데이터 | $2.2B 박스오피스 | 3개 정량 명시 | 원작 IP + 검증 작품 |
+| AI 시각화 강점 | POV 역사 시각화 | 마법 VFX + 무협 액션 | 신화 VFX·번개 권능 |
+
+### 16-4. 결정적 패턴 — 비통과 3종 공통 함정 (Elf King·Knight·Demon Lord)
+
+| 함정 | Elf King | Knight | Demon Lord |
+|---|---|---|---|
+| 첫 cliffhanger 약함 | "Kneel to your..." 미완 | "차가운 손이 뺨에 닿는다" | 너무 설명적·EP4까지 늦음 |
+| 미국 시장 working X | 엘프 = 마이크로 드라마 X | 중세 = 카우보이만큼 X | 게이머 취향 치우침 |
+| 디테일 부족 | 트리트먼트 30-50 단어 | 1-3화 스킨십 부족·호흡 느림 | 피칭 간결·직관 X·EP당 40-60 단어 |
+| 위원 B 거부 키워드 | "스토리 흡인력 부족" | "대본 흡인력 부족" | "메인 爽点 부족" |
+
+### 16-5. Section 12 보정 원칙 추가 (12-6 신규)
+
+#### 12-6. 위원 B 단일 키 (Chinese·매우 보수 위원 설득)
+
+위원 B는 다른 위원과 본질적으로 다른 결정 함수를 쓴다. 다음 3 조건을 모두 충족하지 못하면 자동 No.
+
+1. **megalithic IP 또는 plataforma head 카테고리** — 시장 검증 *대형* reference (Titanic·Netshort head 남성향 등)
+2. **각색 리스크 0** — 검증된 reference에서 *얕은 변주*만
+3. **메인 爽点 1-2 줄로 직설** — 결제 트리거 시각 컷
+
+위원 B Drop 키워드 (정확 중국어): 吸引力不够·期待感不够·主线爽点不够·改编的有点风险
+
+→ **피칭덱 첫 줄에 검증 카테고리 정합 명시** + **메인 爽点 (paid payoff) 섹션 추가** + **각색 리스크 회피 한 줄**.
+
+#### 12-7. 트리트먼트 디테일 정량 기준 (2026-05-21 통과작·비통과작 비교 검증)
+
+| 작품 유형 | EP당 단어 (영문) | EP당 글자 (한글) | EP 수 | Cliffhanger |
+|---|---|---|---|---|
+| **통과 권장** | **70-120** | **100-180** | 50 (8 무료) | 매 EP 1개 명확 |
+| 통과 최소 | 50-80 | 80-130 | 50 (8 무료) | 매 EP 1개 |
+| **Drop 위험** | **< 50** | **< 80** | – | 약함·예고만 |
+
+- 무료 회차 (EP1-7 또는 8): EP당 80-120 단어 (디테일 최대)
+- Paywall 회차 (EP8 또는 9): 메인 爽点 한 줄로 폭발
+- 유료 회차 (EP9+): EP당 50-90 단어 (요약 가능)
+
+→ 트리트먼트 자체에서 **컨셉 직설 + 사건 단위 풀어쓰기 + 자극 묘사 EP1-3 박기**. 짧으면 위원 A·D 즉시 Drop.
+
+### 16-6. 사용자 (Rowan) 작품 3건 deep 진단 + 액션 아이템
+
+#### Olympus King's Ex-Wife (4/7 통과·A·B·D 거부)
+- **위원 D 거부:** "트리트먼트에서 그리스 신화 인지 X." → 피칭덱 상단에만 의존, 본문에서 신화 요소 안 보임.
+- **위원 B 거부:** "각색 리스크." → 한국 원작 + 그리스 신화 = 이중 각색 위험.
+- **위원 A 거부:** "신화 복잡·감옥 등 요소 제거." → Tartarus·Oracle·Nyx·Warden·번개·운명 제단 = 너무 많은 새 어휘 동시 도입.
+- **액션:**
+  1. 트리트먼트 EP1 첫 줄에 "Olympus·제우스의 딸·번개 권능" 직설 박을 것.
+  2. 신화 어휘 3개로 축소 (예: 제우스·왕관·증거) + 나머지는 본문 풀어쓰기.
+  3. "Netshort *Watch Out! Daughter of Zeus* 동일 각색 패턴 검증" 한 줄 추가 → 위원 B 안심.
+  4. EP1-5 트리트먼트 60-100 단어로 보강.
+
+#### Elf King's Rusty Ring (1/7)
+- 가장 약한 작품. 거의 모든 위원이 거부.
+- **핵심 사유:** 엘프 = 미국 head 카테고리 X (위원 E·G) / 회귀 = 흔한 트로프·차별화 X (위원 G) / cliffhanger 약함 (위원 F·C·B) / 디테일 부족 (위원 A) / 위원 B "흡인력 부족"
+- **액션:**
+  1. 엘프 setting 폐기 또는 인간/마법 사회로 변환 (가장 강한 권고).
+  2. 또는 head 카테고리 변환 (mafia·CEO·Alpha·왕녀)
+  3. 회귀 setup 유지하되 첫 생 죽음 디테일 명시 (Vivian 어떻게 배신·언제 어디서).
+  4. EP당 30-50 단어 → 70-100 단어로 두 배 확장.
+  5. EP1 cliffhanger 강화 — 반지 손가락 감기는 시각 + Arden 즉시 등장.
+
+#### I Stole the Demon Lord's Army (2/7)
+- 위원 C·F만 Yes.
+- **핵심 사유:** 남성향 + 비대중적 (위원 D·G) / 피칭 너무 간결·직관 X (위원 E) / 트리트먼트 디테일 부족 (위원 A) / 남채 기대감·메인 爽点 부족 (위원 B) / 유사 장르 플랫폼 성과 데이터 없음 (위원 G)
+- **액션:**
+  1. 트리트먼트 EP당 40-60 단어 → 80-120 단어로 확장.
+  2. 메인 爽点 (Rafe가 단 한 마디로 군단 정지) **EP1 안에 시각화** (현재 EP4-8까지 늦음).
+  3. "흔해 빠진 직업으로 세계최강 + 나 혼자만 레벨업 결합·검증 카테고리" 한 줄 명시.
+  4. Ashborn처럼 "남성향 head 카테고리" 정합 명시.
+  5. 정량 데이터 3개 추가 (1.2M·2.1M·1.7M 같은 검증 작품 view 수).
+
+### 16-7. 핵심 거절 트리거 우선순위 (2026-05-21 검증·기존 갱신)
+
+1. **트리트먼트 디테일 부족 (EP당 50 단어 미만)** — A·D 즉시 Drop
+2. **메인 爽点 EP4 이후로 늦음** — B "메인 爽点 부족" / F "호흡 느림"
+3. **각색 리스크 (검증 안 된 새 시도)** — B "改编风险"
+4. **미국 마이크로 드라마 working X (엘프·중세 등)** — E·F "working 요소 X"
+5. **플랫폼 유사 통과작 데이터 없음** — G "성과 데이터 없음·리스크"
+6. **EP cliffhanger 약함 (예고형·미완형)** — F "cliffhanger 약함" / A "체감 약함"
+7. **컨셉이 트리트먼트 본문에 직설 X (logline 의존)** — D "트리트먼트에서 인지 X"
+8. **신화·새 어휘 동시 4개 이상 도입** — A "복잡·이해 어려움"
+
+### 16-8. 핵심 통과 트리거 (2026-05-21 검증)
+
+1. **megalithic IP 또는 head 카테고리 정합 (위원 B 안심)**
+2. **트리트먼트 EP당 70-120 단어 + 매 EP cliffhanger**
+3. **메인 爽点 EP1-3 시각화 (위원 B·F 동시 흡수)**
+4. **벤치마킹 정량 데이터 3개 (위원 E·G 동시 흡수)**
+5. **AI 시각화 강점 명시 (실사로 못하는 장면 — 위원 C·E)**
+6. **장르 핵심 어휘 직설 (트리트먼트 본문 — 위원 D)**
+7. **각색 리스크 회피 ("이미 검증된 X의 변주" — 위원 B)**
+
+### 16-9. raw 자료 위치
+
+```
+config/pitch_references/2026_05_21/
+├── RESULTS.md (6작품 결과 + 위원 패턴 분석 + Rowan 진단)
+├── 01_back_to_you_titanic_US_PASS.md
+├── 02_elf_king_rusty_ring_JP_FAIL.md
+├── 03_dangerous_knight_JP_FAIL.md
+├── 04_demon_lord_army_JP_FAIL.md
+├── 05_olympus_zeus_daughter_JP_PASS.md
+└── 06_ashborn_academy_veil_JP_PASS.md
+```
+
+파생 메모리:
+- `memory/feedback_committee_b_persuasion.md`
+- `memory/feedback_pitch_treatment_density.md`
+
+---
+
+## 17. 가상투표 모델 v2 (2026-05-21 재구축) — 단일 진실 참조
+
+> **사용자 비판 (2026-05-21):** "가상 투표결과는 하나도 맞질 않는다. 예측 모델의 문제인가?"
+>
+> **진단:** 데이터 파편화 + binary Y/N 출력 + 베이스라인 무시 + sample size 무시 + CM/Presentation 변수 누락. v1 모델 폐기 + v2 재설계.
+>
+> **단일 진실 (Single Source of Truth):** [`config/pitch_references/MASTER_DATASET.md`](pitch_references/MASTER_DATASET.md)
+>
+> Section 1-16의 위원 프로필·거절 트리거·결정 함수 설명은 *질적 패턴* 으로 유지. 단 **가상투표 예측 출력은 MASTER_DATASET Section D 모델만 사용**.
+
+### 17-1. v2 모델 핵심 변경점
+
+| 항목 | v1 (폐기) | v2 (2026-05-21) |
+|---|---|---|
+| 출력 형식 | Binary Y/N | **확률 (Y%/N%/Abstain%) + ±20% 신뢰구간** |
+| 베이스라인 처리 | 무시 | **위원별 베이스라인 우선 적용** (C 79% Y / G 64% Y / B 45% Y + 27% abstain 등) |
+| Sample size 인식 | 무시 | **위원당 ~10-14 데이터 = 패턴 불안정** 명시 |
+| CM/Presentation 변수 | 무시 | **"예측 불가 영역" 명시** |
+| Abstain 처리 | N으로 카운트 | **별도 카테고리** (B는 27% abstain) |
+| 데이터 출처 | 메모리·evaluators.md 산재 | **MASTER_DATASET.md 단일** |
+
+### 17-2. 위원별 베이스라인 (MASTER_DATASET Section D-1)
+
+| 위원 | 기본 P(Y) | P(Abstain) | 특성 |
+|---|---|---|---|
+| **A** | 50% | 0% | 중립·트리트먼트 디테일 결정적 |
+| **B** | 45% | **27%** | 약간 No + 빈번 abstain·Chinese 보수 |
+| **C** | **79%** | 0% | 가장 너그러움·중국 시장 검증 트로프 |
+| **D** | 50% | 0% | 중립·트리트먼트 컨셉 인지 + 타깃 직관성 |
+| **E** | 58% | 14% | 약간 Y·미국 마이크로 드라마 working |
+| **F** | 57% | 0% | 약간 Y·Netshort 트렌드 + cliffhanger |
+| **G** | 64% | 0% | 중간-Y·플랫폼 데이터 + 차별화 + 정량 |
+
+→ 베이스라인 Yes 합산 **≈ 3.5-4표** (4표 통과선 *간신히*). 신호 +0.5 이상 필요.
+
+### 17-3. 신호별 조정 (MASTER_DATASET Section D-2)
+
+**+1.0 강력 Y 신호:**
+- 검증 megalithic IP (Titanic·해리포터·GoT·Twilight 등) → B·D·G·F
+- Netshort head category 정합 + 정량 3개 → B·E·G·F
+- 다크 로맨스 × 고수위 × 드래곤/werewolf × AI 시각화 → 만장일치 가능 (OFFERING 패턴)
+
+**+0.5 보통 Y:** 중국 검증 트로프 → C / 미국 마이크로 드라마 working → E / 매 EP cliffhanger → F
+
+**-1.0 강력 N:**
+- 트리트먼트 EP당 50 단어 미만 → A·D
+- 각색 리스크 (한국 원작 + 새 mythology 이중) → B
+- 모던 현실 코드 × 여성향 → D·E·G
+- 미국 마이크로 드라마 working X (엘프·중세·게이머) → E
+
+**-0.5 보통 N:** 종교 톤 직접 차용 → B / 새 mythology 어휘 4개+ → A·B / 시적·연극톤 → D·B
+
+### 17-4. 가상투표 출력 권장 형식
+
+❌ **v1 (폐기):**
+> "A: Y, B: N, C: Y, D: N, E: Y, F: Y, G: Y → 5/7 PASS"
+
+✅ **v2 (요구):**
+> "**예측 결과 (±20% 신뢰구간):**
+> | 위원 | P(Y) | P(N) | P(Abstain) | 신호 근거 |
+> |---|---|---|---|---|
+> | A | 65% | 35% | 0% | 트리트먼트 디테일 강함·차별점 명확 |
+> | B | 30% | 50% | 20% | 검증 카테고리 있으나 각색 리스크 우려 |
+> | C | 85% | 15% | 0% | 베이스라인 + 중국 시장 검증 트로프 |
+> | D | 55% | 45% | 0% | 컨셉 직설 명시 + 타깃 직관 OK |
+> | E | 70% | 20% | 10% | 미국 working 카테고리 + AI 시각화 강점 |
+> | F | 50% | 50% | 0% | Netshort 트렌드 align 약함 |
+> | G | 75% | 25% | 0% | 정량 데이터 명시 + 차별화 OK |
+> **기대 Y 합산: ~4.3표. 4표 통과선 약간 상회 (불확실).** ⚠️ CM/Presentation 변수 예측 불가."
+
+### 17-5. 자주 틀리는 가정 회피 (MASTER_DATASET Section C 검증)
+
+| 가정 | 실측 |
+|---|---|
+| ❌ "위원 B는 검증 megalithic IP만 Y" | OFFERING (오리지널)·SHE STOLE (창의) Y. 실은 *상업적 입증 경로 + 각색 리스크 0* |
+| ❌ "위원 B는 가장 엄격" | 사실 *가장 빈번하게 abstain* (27%). N 자체보다 무응답이 흔함 |
+| ❌ "위원 C는 모든 작품에 Y" | MY MAP·Knight·Elf King N. 해외 수용 불확실·hook 부족이면 거부 |
+| ❌ "위원 F는 BM·결제만 본다" | 사실 *Netshort 트렌드 align*이 더 결정적 |
+| ❌ "위원 G는 가장 엄격" | 64% Y로 두 번째 너그러움. *정량 데이터 명시*면 거의 Y |
+| ❌ "장르 차별성만 강하면 D Y" | Elf King은 차별성 있어도 N. *익숙한 reference 연상*이 더 결정적 |
+| ❌ "판타지면 E Y" | Elf King·중세 (Knight) 둘 다 N. *어떤 판타지*냐가 중요 |
+
+### 17-6. 데이터 부재 영역 (예측 불가 명시)
+
+- **2026-05-19 11 작품**: PASS/FAIL label만, per-위원 데이터 없음 → 전체 데이터의 44% blind spot
+- **CM/Presentation 변수**: 동일 컨셉도 Rowan vs Lily 결과 큰 차이 (Olympus 4/7 vs Ashborn 7/7)
+- **회차별 mood drift**: 위원도 사람·시장 분위기 영향
+
+→ **가상투표는 의사결정 보조 도구**. 단독 판단 X. 통과 여부보다 *어느 위원 약할지·왜 약할지* 식별이 본 목적.
+
+### 17-7. 향후 데이터 보강 시 즉시 갱신
+
+1. 새 회차 결과 → MASTER_DATASET Section A·B 즉시 갱신 + Section D 베이스라인 재계산
+2. 2026-05-19 11 작품 per-위원 데이터 입수 시 (사용자 요청 가능) → Section A 47% → 100%
+3. 위원별 발언 빈도·CM별 통과율 추세 추적 시작

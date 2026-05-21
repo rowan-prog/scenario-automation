@@ -1,10 +1,133 @@
 # THE OFFERING — 진행 메타
 
-## 🎯 정본 v20 — Production LOCK (2026-05-19 후반)
+## 🔒 정본 v33.5.5 — 2026-05-21 FINAL LOCKED (전수 종합 검토 patches + 비주얼락 OEXZ 양식 전면 재작성)
 
-**정본:** `07_final/02_the_offering_FINAL_v20.md` (단일·LOCK·V19 위 두 피드백 P0 6건 패치 + P1 선택 통합)
+**v33.5.5 patches (10):**
+- EP01 line 116-124 CUTAWAY 재구성: 부위 순회 (collarbone → throat → shoulder → ribs → hip) 제거 → Vael 통제 상실 + Isolde agency 우선
+- EP01 line 151-158 CUTAWAY 재구성: throat/collarbone 중복 제거 + 자연 흐름
+- EP09 line 1098 hand-brush 모순: "back of his hand brushes the back of hers" → "his sleeve brushes the back of her hand" (line 1129 "He does not offer his hand" 정합)
+- EP19 line 2450: "for sixteen years" → "for years" (Isolde 8세 + 현재 23세 = 15년 차이 산수 모순 회피)
+- EP20 line 2523: "for sixteen years" → "for years" (동일)
+- EP20 line 2520 first reign: "first reign" → "first act as queen to be" (영어 자연)
+- EP29 line 3013-3024 CUTAWAY 재구성: hip 반복 (2회→0회) 제거 + Vael forearm weight + Isolde 머리채 끌어당김
+- EP29 line 3037 mouth-tracking: "His mouth slides from her throat down to where his palm is" → "His palm cradles her waist where she put it. He kisses where his palm is." (mouth-tracking 부위 순회 제거)
+- EP33 line 3394 grammar: "His face, almost cries. Does not." → "His face almost cries. Does not." (불필요 comma 제거)
+- EP50 line 4607 admin vocab: "Sera's Hearing." → "Sera's Reckoning." (vertical-no-admin-power 룰 "hearing" = 금지 어휘 직접 위반)
 
-**상태:** 🔒 **LOCKED** (내용·구조·회차·수위·대사·제작본).
+**v33.5.5 종합 검토 결과 (전수 4,818 lines · agent xhigh effort 분석):**
+- 영어 자연성 = 대체로 자연 · 미세 polish 항목 patched
+- 정합성 = 0 모순 · 시간/캐릭터/소품/배경 정합
+- 북미 여성 paid vertical 적합성 = 강함 (label reversal · paywall · Sera 영원 라이벌)
+- 여성향 핵심 만족 요소 = 강함 (alpha possessive · queen fantasy · 출산 보상 · family lock · "I love you" 3 instances · 둘째 hint)
+- 남성향 섹슈얼 잔향 = EP01 + EP29 CUTAWAY patches 후 0 잔향 · EP47-49 labor = Female gaze masterclass
+- 행정/법/정치 어휘 = "Sera's Hearing" 1건 patch 후 0건
+
+**비주얼락 v5 (OEXZ 양식 영어 전면 재작성):**
+- 0. Purpose / 1. Common Design Lock (1.1-1.6) / 2. Characters (Isolde·Vael·Sera·Kiran·Mireille·Halren·Adeline·Aldric·Stepmother·Corvin·Volzaar Cousins·Western Lord+Veyra·Keep Lords·Ridge Dragons) / 3. Props (19) / 4. Backgrounds (27) / 5. Must Generate First / 6. Final Read Test
+- Look 형식 = "Isolde Look 1-10" 영어 명사 위주 · 의상 = 헤어+의상+신발+악세사리 한 셋트 · 사소한 변형은 새 look 안 만듬 · 헤어는 스토리 필요 시만 변경
+- 옛 한국어 v4 = `_archive_versions/02_the_offering_04_visual_lock_v3.md` (이전 archive 잔존) + `_archive_versions/02_the_offering_04_visual_lock_v4_korean.md`로 추후 archive 권장
+
+**v33.5.4 patches (5):**
+- EP13 line 1651: `She also knows the bird. The same bird is carved into the small wooden one his mother made.` → `The carved bird matches the broken stone bird above the lower-city well.` (EP46 wooden bird 사전 노출 모순 제거)
+- EP13 S#2 대화 순서 재배열: `Your mother.` 발화 = Vael의 `My mother left that pin there once. I still go back.` 다음으로 이동 (Isolde 정보 추론 모순 해소)
+- EP19 line 2450: `watched her killed on the street with my eight-year-old eyes watching` → `watched men beat her to death in the street while I stood there at eight years old` (영어 watch/watching 중복 제거 + 분노 직접 표현)
+- EP20 line 2523: 동일 패턴 patch
+- EP49: `He followed her rag.` → `He followed the route she hid for him. Kiran found the rag under the stair after the ridge took him.` (rag 명사화 해소 + route/rag 분리 명확)
+
+**근본 인사이트 (2026-05-21 후반·외부 검토 P0 2 + P1 1):**
+> 본문에 정확한 cycle 숫자를 박을 때마다 산수 모순이 반복 발생. 근본 = **발화·서술의 산수 위험 숫자 = 자연 표현으로 통째 전환.** baseline 정보 (Halren·Adeline 등 fantasy device 설명) + letter 본문 + 시적 강조 발화만 숫자 유지. 모든 상대 시점 표현 ("X cycles left·X cycles ago·X cycles wearing 등") = 자연 표현 (rest of this carry·long enough·warning 등)으로 전환.
+
+**v33.5.3 근본 patches (6):**
+- EP14 ISOLDE-VAEL 대화: "nineteen cycles left" 등 숫자 → "this is not almost over / Council. Being hunted. Carrying her."
+- EP41 Sera mark 강제 cycles: "nine cycles now" → "long enough now"
+- EP50 Sera hearing throat: "thirteen cycles wearing past her shame" → "the mark she has worn past her shame"
+- EP50 Sera stump 묘사: "wrist burned cycle nineteen, hand taken cycle twenty-one" → "wrist burned at the warning, hand taken after she ignored it"
+- EP43 Sera bandage: "cycle nineteen bandage" → "bandage from the warning"
+- EP16 운영 잔향 polish: "I ran the part that needed a woman's voice. The rest is yours. I need to learn the rest." → "I ran what was mine. The rest is yours. Teach me."
+
+**유지된 cycle 숫자 (산수 안전):**
+- Halren / Adeline baseline 정보 (Twenty cycles · ten or eleven body show)
+- Sera letter 본문 (cycle ten · before the eleventh cycle is out · before cycle fifteen)
+- 시적 강조 발화 (After twenty cycles · Eight cycles of holding back)
+- 헤더 cycle 명시 (제작 참고용)
+
+**외부 검토 patches 추가 (2026-05-21 후반):**
+- EP01 S#1 동기 보강: FLASH CUT (Corvin memory "She'll learn quiet") + Isolde VO "In a month they sell me. Tonight is mine." + Vael VO "My mother left it here. I come every year." + silver pin / broken stone bird 시각
+- EP13 hairpin reveal Vael 동기 직설 (어머니·매년·"You were why I stayed")
+- EP18 Aldric 증언 추가 (Adeline 직접 증인) + EP19 "Adeline heard him" / five witnesses 삭제
+- EP19 유언 "first lawful wife" 삭제 → "blood and name" 인정
+- EP20 crown timing 통일 ("Not from Veine. From you. When the keep asks") + EP50 "again today" + "saw her crowned at cycle eighteen"
+- EP49 "He followed her rag" (기존 "carried" → "followed" 정합)
+- EP32 cycle 산수 제거 ("rest of this carry")
+- EP48 cousin 보안 (bait path: "leaves his marked path... following the route Sera hid")
+- EP29 Female gaze (Isolde 끌어당김·Vael 따라감)
+- EP50 S#3 헤더 = "Two and a Half Years Later. Spring Morning." (Mireille age 정합)
+- EP10 spoken polish ("ended up in that bed")
+- EP34 spoken polish ("I do not need that speech anymore")
+
+**제작용 정본 (clean):** `07_final/02_the_offering_FINAL_v33_5_clean.md` (50 EP / 49 Hard Cut / Fade Out 1 / End 1 / Korean 0 / 메타 헤더 제거)
+
+**Pre-patch 본 (보존):** git HEAD (commit 31be65c) — 필요 시 `git show HEAD:projects/02_the_offering/07_final/02_the_offering_FINAL_v33_5_clean.md`로 복원
+
+**v33.5 → v33.5.1 정합 patch (2026-05-21·사용자 피드백 P0 7 + P1 4):**
+- EP10 spoken English (`if I had not` → `if I didn't`)
+- EP14 fantasy cycles (`twenty months` → `Dragon cycles. Halren will count them.`)
+- EP20 Adeline circlet (`regent` → `queen's`) + Stepmother 처형 시점 통일 (tower tonight → Drakonis 즉시 이송)
+- EP32 cousin 보안 명시 (lower yard 인질 · inner stair X · Kiran 문 표시)
+- EP34 Adeline mother 발화 정정 (감정 정리형)
+- EP41 Sera 처벌 단계화 (Cycle 19 = wrist burn ring · warning) ↔ EP43 (Cycle 21 = hand 절단 재범 처치)
+- EP42 Veine 편지 인장 (Adeline queen seal X → 옛 high court + inner cathedral) + 4 declaration priest 칭하기 + `advised/dissolve` → `commanded/sever`
+- EP48 cousin 침입 위치 (corridor → first inner stair · ridge 즉시 제압)
+- EP49 / EP50 증거물 통일 (yard-rag = labor week 이전 stair rail 아래 숨김 / "Second push. Inner stair." 통일)
+- 추가 정합 정정: EP35/EP39/EP42 ridge dragons 숫자 직접 표기 → `surviving ridge dragons` · EP43 "nine cycles" → "two cycles ago" · EP50 Sera 왼팔 stump 명시 (wrist 19 burn + hand 20 taken) · EP50 Volzaar mark 강제 cycles 13 (cycle 11 → cycle 24) 정합 · EP48 body location "outer wall" 정합
+
+**작업본 (메타 포함·archive):** `_archive_versions/02_the_offering_FINAL_v33_5_working_with_meta.md`
+
+**상태:** 🔒 **Production LOCK 완료.** 본문 변경 금지. 추후 제작팀 요청 시만 재진입.
+
+---
+
+## v33.5 LOCK 핵심 구조
+
+**Engine:** 다크 로맨스 슈퍼퀸 label reversal·"뇌 끄고 보는" 도파민 비트.
+
+- 출산 EP48-49 (Cycle 24 첫째 carry)·Fantasy device 20-cycle 드래곤 임신
+- EP01-08 free arc → EP09 "She is my bride" first paid payoff
+- EP14-47 임신 엔진 + label reversal (impure→bride·concubine→wife·human womb→mother of heir·not queen→queen)
+- Sera = 영원 라이벌 (회개 X·EP50 nameless servant 영원 굴복)
+- 빌런 회개 폐기 (Stepmother EP21 처형·Corvin EP19 reference·Sera mark 강제 유지)
+- 행정·법·정치·외교 어휘 본문 0건 (`memory/feedback_vertical_no_admin_power.md` 룰)
+- "I love you" 3 instances (EP16 first morning·EP46 labor eve·EP50 garden 2년 후 final)
+- 둘째 hint = EP50 한 줄만 (Mireille "For the baby" + Isolde 손 belly)
+
+**핵심 보상 비트:** EP01 거울·EP09 bride·EP13 hairpin reveal·EP24 wrist crush·EP30 사막 사냥·EP32 letter 음독·EP37 손가락 4개·EP39 crown·EP41 손 절단·EP42 letter burn + 4 declarations·EP43 강제 echo·EP48 birth·EP50 Sera 영원 servant.
+
+---
+
+## LOCK 후 다음 단계
+
+| # | 작업 | 상태 |
+|---|---|---|
+| 1 | 본문 only clean export | ✅ 완료 (`v33_5_clean.md`) |
+| 2 | 메타 갱신 | ✅ 본 파일 |
+| 3 | 00_START_HERE 갱신 | ✅ 완료 |
+| 4 | **비주얼 락 v4 (AIGC 인물/소품/배경 어셋·EP 매핑)** | ✅ **완료 (`02_the_offering_04_visual_lock.md` · 2026-05-21)** · 옛 v3 = `_archive_versions/02_the_offering_04_visual_lock_v3.md` |
+| 5 | **원어민 polish (내가 진행 · 4,771 lines · 50 EP)** | 🔄 **다음 단계 — 사용자 명시 "원어민 polish는 니가 해야지"** |
+| 6 | EP별 90초 vertical 분할표 | ❌ 사용자 X (불필요) |
+| 7 | AIGC asset prompt engineering | ❌ 사용자 X (= 비주얼 락 v4로 대체) |
+| 8 | 시즌 트레일러 cut list | ❌ 사용자 X (불필요) |
+| 9 | 다국어 자막 번역 | ❌ 사용자 X (불필요) |
+
+**옛 정본 archive:** `07_final/_archive_versions/` (v33.4·v33.3·v33.2·v32.2·v31.4·v31.3·v31.2·v31.1·v31 series·v30 series·v20 외 11개 옛 정본 + `v33_5_working_with_meta.md` 작업본).
+
+---
+
+## 🗄️ 옛 정본 history (참고용)
+
+### v20 — Production LOCK (2026-05-19 후반·v31 시리즈 진입 전)
+
+**정본:** `07_final/02_the_offering_FINAL_v20.md` (archive)
+**상태:** 🔒 LOCKED 였으나 사용자가 v30 시리즈에서 *마스크 setup·festival 톤·임신 위치* 전면 재기획 결정.
 
 ### V20 정정 6 P0 + 2 P1 (두 피드백 동의)
 
