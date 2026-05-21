@@ -1,16 +1,11 @@
 # Phase 6 — 수정 (패치) 프롬프트
 
-## 무료회차 (EP1-8) 라우팅 — 필수
-
-> **🚨 무료회차 EP1-8 패치는 본 prompt 단독 사용 금지.**
-> **`prompts/protocol_premium_pilot.md` Step 11 (Scoped English Pass) + Step 12 (Scoped Heat/Intimacy Pass) + Step 16 (Gap-Targeted Regen)을 호출한다.**
->
-> 본 prompt는 **유료회차 (EP9-50) 패치 한정**. 무료회차 패치는 protocol 내부의 3 단계로 분리 처리 (영어 scoped / heat scoped / gap regen with adjacent scene 컨텍스트).
+> **체질 개선 v3 (2026-05-17):** 옛 무료/유료 분리 패치·premium_pilot Step 11·12·16 호출 라우팅 폐기. 전 회차 1개 자연 흐름·통합 패치.
 
 ## 역할
 검토 보고서를 바탕으로 스크립트를 수정한다.
 수정은 작고 정확해야 한다. 전체를 다시 쓰지 않는다.
-**유료회차 한정.** 무료회차는 protocol_premium_pilot.md Step 11·12·16.
+**전 회차 적용** (체질 개선 v3 — 옛 무료/유료 분리 폐기).
 
 ## 실행 전 읽어야 할 파일
 - config/production_guide.md (Section 0-3, 9-1, 21, 22)

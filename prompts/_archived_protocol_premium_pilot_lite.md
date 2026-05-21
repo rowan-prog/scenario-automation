@@ -1,6 +1,20 @@
+# ⛔ 폐기 — Premium Pilot Protocol Lite v1 (2026-05-17 체질 개선 v3 폐기)
+
+> **🚨 본 protocol = 2026-05-17 체질 개선 v3로 폐기.**
+> 사용자 명시: "무료회차를 파일/단계/게이트상 하나의 완성 블록으로 다루면 EP1-8 안에서 기승전결 닫힘. EP8 = 끊는 지점·완결 X. EP9 장면 목표."
+>
+> **새 시스템:** `feedback_conversion_runway_writing.md` (체질 개선 v3) — Conversion Runway 집필·EP1-10 한 호흡·EP8 paywall cut·새 7 단계.
+>
+> **본 protocol 호출 시:** 즉시 새 시스템 (Conversion Runway 집필·새 7 단계)으로 전환.
+> 본 파일 = 역사 기록·삭제 X / 단 호출 X.
+
+---
+
+## (옛 내용 — 참고용·실행 X)
+
 # Premium Pilot Protocol Lite v1 (2026-05-16)
 
-**상태:** Production. 옛 `protocol_premium_pilot.md` (19 step) 대체. 무료회차 EP1-8 작업 시 본 prompt 사용.
+**상태:** ⛔ 폐기 (2026-05-17). 옛 `protocol_premium_pilot.md` (19 step) 대체. 무료회차 EP1-8 작업 시 본 prompt 사용.
 
 **근거:** 옛 19-step protocol은 시간·토큰 5-10배 소모하나 결과는 protocol 없던 시절과 유의미한 차이 없음. 매출 영향 거의 0인 7 step (2·3·4·5·6·13·14·19) 폐기. 19 → 7 step (63% 단축).
 
@@ -53,6 +67,8 @@ projects/[작품]/premium_pilot_lite/
 3. 페이월 직전 미완성 (회수 차단 방식)
 4. 감정 압박 강도 (캐릭터 처지 변화 패턴)
 5. Intimacy heat 단계·강도 (다크 로맨타지·high-heat 작품에서)
+
+**판타지 장르 추가 확인:** 작품이 판타지·로맨타지·다크 판타지·신화·수인·드래곤·마법·던전·왕실이면, EP1-3 안에서 현대물과 다른 대형 시각 보상(성채·드래곤·괴물·마법·군대·거대한 문·왕좌·하늘·불/얼음·의식·세계 위계)이 어떻게 보이는지 별도 체크한다. 작은 소품·seal·문장 반응만으로는 장르 약속 충족으로 보지 않는다.
 
 **금지:** 시드 풀 X. 4 draft 비교 X. 매트릭스 X. floor는 기능 명시만.
 
@@ -122,6 +138,7 @@ CHARACTER: line (3-10 단어 이하)
 - 9:16 세로형 적합
 - 매 EP 1+ 결제 엔진 작동
 - 무료회차 압도적 중요 — 분량 압축 X / 깊은 비트·페이월 압력 누적
+- 판타지 장르일 경우 EP1-3 안에 대형 VFX / 괴물 / 마법 / 건축 스케일 / 세계 위계가 화면 보상으로 보여야 함
 - EP8 페이월 = 붕괴 직전
 - 수위 = 결제 엔진 (sensual 장면 8 질문 통과)
 - mid-EP `Hard Cut` 마커 / 마지막 EP는 자연 엔딩 X (무료회차 마지막 EP8은 Hard Cut)
@@ -158,7 +175,7 @@ CHARACTER: line (3-10 단어 이하)
 | **01 Intimacy** | sensual 8 질문·heat 단계·mutual claim |
 | **02 AIGC Production** | 양식 v2·비주얼 락 어셋·EP 본문 영어 일원화 |
 | **05 Commerciality** | 페이월·결제 엔진·광고 컷·고통-보상 장부 |
-| **07 Genre Pleasure** | 장르 약속·캐릭터 매력·안전 밋밋 회피 |
+| **07 Genre Pleasure** | 장르 약속·캐릭터 매력·안전 밋밋 회피·판타지 대형 시각 보상 |
 | **09 Female Viewer** (or 08 Male) | 시청자 이탈 코드·작품 타깃 정렬 |
 
 각 페르소나 verdict 4단계 + 등급 + 원문 FIND 인용 + 14 failure codes 자동 스캔.
@@ -186,6 +203,7 @@ CHARACTER: line (3-10 단어 이하)
 | 양식 v2 일관성 | [VISUAL/ACTION] = scene count / 무료 EP8 = Hard Cut |
 | 청사진 정합 | 인물·관계·페이월·화별 락 일관 |
 | 비주얼 락 정합 | 어셋 식별 (첫·변경·재착용) 명시 |
+| 판타지 장르 약속 | 판타지·로맨타지·드래곤·신화 장르라면 EP1-3 또는 무료 초반에 대형 VFX·괴물·마법·건축 스케일·세계 위계가 실제 화면 보상으로 존재 |
 | Korean 0건 | EP 본문 한국어 0건 |
 | 분량 | EP1-8 합 16-24분 (무료회차 압도적) |
 

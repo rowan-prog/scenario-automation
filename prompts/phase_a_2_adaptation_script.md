@@ -19,7 +19,7 @@
 - projects/[작품명]/[작품명]_01_adaptation_blueprint.md (필수)
 - 원작 해당 부분 (사용자 제공: 이번 회차에 들어갈 원작 챕터·장면 텍스트)
 - config/reference_scripts/script_locked_out.md **(영어 포맷 참고 — 부분 정독: 첫 1-2 씬 + 페이월 화만. 전체 200KB 정독 금지)**
-- config/reference_scripts/script_Demon_Lord's_Marked_Bride.md **(한국어 포맷 참고 — 부분 정독: 첫 1-2 씬만. 전체 정독 금지)**
+- config/reference_scripts/script_Demon_Lord's_Marked_Bride.md **(실패 postmortem 참고 전용 — 바람직 모델로 사용 금지. 필요한 경우 실패 기능 확인용으로만 부분 조회)**
 
 **Reference 정독 룰 (필수, 2026-05-12):**
 - 포맷 참고용 = 첫 1-2 씬만 (씬 헤더·Visual·Camera·Dialogue·FX·End Image 구조 확인)

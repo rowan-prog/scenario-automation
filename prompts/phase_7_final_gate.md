@@ -1,37 +1,33 @@
 # Phase 7 — 최종고 게이트 평가 프롬프트
 
-## 무료회차 (EP1-8) 라우팅 — 필수
-
-> **🚨 무료회차 EP1-8 4-Gate는 본 prompt 단독 사용 금지.**
-> **`prompts/protocol_premium_pilot.md` Step 17 (Final Pilot Gate) + Step 18 (Pilot Bible 생성) + Step 19 (Bible Cold Read 검증)을 호출한다.**
+> **🚨 시스템 v2 (2026-05-19) — 5-Gate 절대 적용:**
+> 메모리 `feedback_persona_system_v2_2026_05_19.md` 정독 강제. 옛 4-Gate (Structure / Narrative / Script / Production) → **5-Gate (+ Genre Identity Gate)**.
 >
-> 본 prompt는 **유료회차 (EP9-50) 4-Gate + 통합 FINAL.md 한정**. 무료회차 게이트는 protocol Step 17의 강화된 기준 (Native English red gate / Continuity red gate / 상업성 5축 ≥4 / Documented Yellow 허용 / EP8→EP9 결제 동력) + Pilot Bible 추출 + Cold Read 검증.
+> **5번째 Gate (Genre Identity Gate) = 페르소나 00 책임:**
+> - 작품 장르 정체성 변질 검토 (다크 로맨타지 paid vertical → 정치 판타지·여성 독립 권력 획득물 변질 여부)
+> - 후반 paid 동력 정합 검토 (정치·증거 X / mate·heir 확정 O)
+> - Demon Lord 9 실패 함정 회피 검토
+> - 검증 작품 (히트 라이브러리·대본 폴더·피칭덱) 패턴 직접 비교
+>
+> **5-Gate 미통과 시 LOCK 불가.** 페르소나 00 verdict이 BLUEPRINT RETURN 또는 FULL REWRITE면 본문 패치로 통과 불가 → 청사진 재설계 또는 본문 전면 재작성.
+
+> **체질 개선 v3 (2026-05-17):** 옛 무료/유료 분리 4-Gate + 3종 통합 룰 폐기. **Conversion Runway 통합 1종 FINAL.md + 4-Gate.** 옛 premium_pilot Step 17·18·19 호출 라우팅 폐기.
 
 ## 역할
-패치 라운드를 거친 에피소드 스크립트가 최종고로 확정 가능한지를 production_guide Section 23의 4-Gate (Structure / Narrative / Script / Production) 로 평가한다.
-**유료회차 한정.** 무료회차는 protocol_premium_pilot.md Step 17·18·19.
+패치 라운드를 거친 에피소드 스크립트가 최종고로 확정 가능한지를 production_guide Section 23의 4-Gate (Structure / Narrative / Script / Production) 로 평가한다. **전 회차 1개 자연 흐름·1종 FINAL.md 적용** (체질 개선 v3).
 
-## 최종고 3종 분리 (필수, 2026-05-12)
+## 최종고 1종 FINAL.md (필수, 체질 개선 v3 2026-05-17)
 
-> **무료회차·유료회차·통합 3종 최종고로 분리 진행. 상세: `feedback_episode_split_and_runtime.md`**
+> **옛 3종 분리 폐기.** 전 회차 1개 자연 흐름·`feedback_unified_writing_flow.md` + `feedback_conversion_runway_writing.md`.
 
 | 최종고 | 진행 시점 | 저장 위치 |
 |---|---|---|
-| **무료 최종고** | EP1-8 4-Gate 통과 시 | `projects/[작품]/07_final/[작품]_FINAL_FREE.md` |
-| **유료 최종고** | EP9-N 4-Gate 통과 시 (무료 완료 후) | `projects/[작품]/07_final/[작품]_FINAL_PAID.md` |
-| **통합 최종고** | 유료 최종고까지 완료 시 | `projects/[작품]/07_final/[작품]_FINAL.md` (무료 + 유료 단일 MD) |
+| **통합 최종고** | 전 회차 4-Gate 통과 시 | `projects/[작품]/07_final/[작품]_FINAL.md` |
 
-**무료/유료 분리 4-Gate:**
-1. 무료 4-Gate 통과 → `FINAL_FREE.md` 저장 → 유료 집필 진입
-2. 유료 4-Gate 통과 → `FINAL_PAID.md` 저장 → 통합 진행
-3. 통합 = 두 최종고 단일 MD 통합 + 검증 (헤더·양식·누락·중복·separator)
-
-모두 통과 → 3종 최종고 모두 저장 + `[작품명]_00_meta.md` 업데이트.
+4-Gate 통과 → `FINAL.md` 1종 저장 + `[작품명]_00_meta.md` 업데이트.
 일부 미통과 → 미통과 게이트별 결함 보고 + 다음 행동 권장 (재검토 / 재패치 / 청사진 재작업).
 
-## 3종 최종고 자동 통합·검증 (필수, 모든 프로젝트)
-
-**상세 룰:** 메모리 `feedback_final_consolidation_three_files.md`
+## 1종 FINAL.md 자동 통합·검증 (필수, 모든 프로젝트)
 
 ### 처리 절차 (PowerShell .NET I/O 사용 — UTF-8 no BOM 강제)
 
@@ -47,11 +43,9 @@ function Get-ScriptBody($path) {
 }
 
 $sep = "`r`n`r`n---`r`n`r`n"
-# 무료 + 유료 EP body 추출 후 separator로 join
-# 3종 헤더 (작품·범위·포맷·타깃·생성일) 추가 후 통합
-[System.IO.File]::WriteAllText("[07_final]/FINAL_FREE.md", $free_header + ($free_content -join $sep), $utf8NoBom)
-[System.IO.File]::WriteAllText("[07_final]/FINAL_PAID.md", $paid_header + ($paid_content -join $sep), $utf8NoBom)
-[System.IO.File]::WriteAllText("[07_final]/FINAL.md", $full_header + (($free_content + $paid_content) -join $sep), $utf8NoBom)
+# 전 회차 EP body 추출 후 separator로 join
+# 단일 헤더 (작품·포맷·타깃·생성일) 추가 후 통합
+[System.IO.File]::WriteAllText("[07_final]/FINAL.md", $full_header + ($all_content -join $sep), $utf8NoBom)
 ```
 
 ### 검증 필수 (통합 직후 자동 실행)
@@ -59,22 +53,22 @@ $sep = "`r`n`r`n---`r`n`r`n"
 | 항목 | 기준 | 실패 시 처리 |
 |---|---|---|
 | Korean character count (EP body) | 0건 (`\p{IsHangulSyllables}`) | 🔴 즉시 — 원본 EP 수정 후 재생성 |
-| Work header count | EP 수 + 1 (master + 각 EP) | 🔴 누락·중복 확인 |
+| Work header count | EP 수 (EP별 작품 헤더 1개) | 🔴 누락·중복 확인 |
 | S# scene count | 청사진 명시 씬 수와 일치 | 🟡 차이 보고 |
-| Hard Cut count (`^Hard Cut\s*$`) | **EP 수 - 1** (마지막 EP는 자연 엔딩 — Hard Cut 금지) | 🔴 mid-EP Hard Cut 제거 / 누락 보강 / 마지막 EP에 Hard Cut 발견 시 자연 엔딩 재작성 (`feedback_final_episode_natural_ending.md`) |
-| 양식 v2 일관성 | [VISUAL / ACTION] = scene count / [DIALOGUE] = 대사 씬 / [KEY CAMERA]·[GRAPHIC / UI]·[END HOOK] = 선택 사용 시만 카운트 | 🟡 블록 누락 확인 |
+| Hard Cut count | **EP 수 - 1** (마지막 EP = 자연 엔딩·Fade Out·`feedback_final_episode_natural_ending.md`) | 🔴 mid-EP Hard Cut 제거 / 누락 보강 / 마지막 EP Hard Cut 발견 시 자연 엔딩 재작성 |
+| 양식 v2 일관성 | [VISUAL/ACTION] [KEY CAMERA] [DIALOGUE] [GRAPHIC/UI] [END HOOK] | 🟡 블록 누락 확인 |
 | Separator (`---`) | EP 간 일관 | 🟡 보강 |
-| File size | 합리적 범위 (FREE ~50KB·PAID ~300-400KB·FULL ~400-500KB) | 🟡 너무 작거나 큼 확인 |
+| File size | 합리적 범위 (50화 기준 ~400-500KB) | 🟡 너무 작거나 큼 확인 |
 
 ### 실패 처리 흐름
 
-1. 🔴 발견 → 원인 EP 파일 식별 (EP-by-EP 진단 query) → 원본 수정 → 3종 재생성 → 재검증
+1. 🔴 발견 → 원인 EP 파일 식별 → 원본 수정 → FINAL.md 재생성 → 재검증
 2. 🟡 발견 → 보고 + 사용자 결정 (수정 / 보류)
 3. 모두 통과 → 작품 메타 `[작품]_00_meta.md` 갱신 ("완결 ✅" + 최종고 위치 + 검증 결과)
 
 ### 어떤 프로젝트도 예외 X
 
-본 룰은 모든 작품(메인/부가A/부가B/premium_pilot)에 동일 적용. 사용자 별도 호출 불필요. phase_7 통합 단계 진입 시 자동 실행.
+본 룰은 모든 작품 (메인 / 부가A / 부가B) 동일 적용. 사용자 별도 호출 불필요. 4-Gate 통과 시 자동 실행.
 
 ## 실행 전 읽어야 할 파일
 - config/production_guide.md
@@ -192,7 +186,7 @@ $sep = "`r`n`r`n---`r`n`r`n"
 
 ## 종합 판정
 
-- [ ] **모두 통과** → 단일 통합 MD 생성 + 검증 (FINAL_FREE / FINAL_PAID / FINAL 중 해당)
+- [ ] **모두 통과** → 단일 통합 MD 생성 + 검증 (FINAL.md 1종)
 - [ ] **일부 미통과** → **4-Gate 자체 수정 금지.** 아래 페르소나 검증 흐름 강제 (2026-05-12 룰).
 
 ## 4-Gate 미통과 발견 시 흐름 (필수, 2026-05-12 갱신)

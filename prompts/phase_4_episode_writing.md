@@ -1,21 +1,55 @@
-# Phase 4 — 에피소드 집필 프롬프트
+# Phase 4 — Conversion Runway 집필 프롬프트 (2026-05-17 체질 개선 v3)
 
-## 무료회차 (EP1-8) 라우팅 — 필수
+## 🚨 핵심 룰 (절대)
 
-> **🚨 무료회차 EP1-8 작업은 본 prompt 사용 금지.**
-> **`prompts/protocol_premium_pilot.md` (Premium Pilot Protocol v5.1)을 반드시 호출한다.**
+> **무료/유료 분리 폐기. 무료회차 protocol·19 Step·4 Seed Draft·9 페르소나 매번·final_free 명칭 모두 폐기.**
 >
-> 본 prompt는 **유료회차 (EP9-50) 한정**. 무료회차는 protocol이 phase_4·5·6·7 네 단계를 통째로 대체 (N=4 seed pool → matrix → merge → rewrite → blind duel → 9 페르소나 + adversarial → Final Pilot Gate → Pilot Bible).
->
-> 호출 키워드 매칭 시 즉시 protocol로 분기:
-> - "EP1 집필" / "EP2 집필" / ... / "EP8 집필"
-> - "무료 집필" / "무료회차 작업" / "EP1-8 작업"
-> - 작품 메타의 무료 구간 범위 안 EP 번호
+> **새 시스템:** EP01-EP10 (또는 EP12) **한 호흡 Conversion Runway 집필.** EP08 = **paywall cut** (완결 X / 끊는 지점). **EP09 장면이 집필 목표** (EP1-7은 EP9 행동 압박 설계).
+
+## 새 7 단계 (옛 19 Step 폐기)
+
+1. **Hit Function Intake** — 히트작 기능 추출 (표면 복사 X)
+2. **Reward Loop / Antagonist / Proof Ledger** — 청사진 중심 작성
+3. **EP01-EP10 Conversion Runway 설계** — EP1-7 압박·EP8 paywall cut·EP9 즉시 보상·EP10 더 큰 부채
+4. **Visual Lock** — AIGC 어셋·보상 루프 화면 설계서
+5. **Single-Voice Script Draft** — 한 호흡 (4 seed 조립 X)
+6. **Three-Gate Review** — Commercial·Native Spoken English·AIGC Visual
+7. **Rewrite**
+
+## 핵심 baseline 메모리 (필수 정독)
+
+### 절대 baseline (9개)
+- `feedback_conversion_runway_writing.md` (v3 핵심·새 7 단계)
+- `feedback_unified_writing_flow.md` (v2 무료/유료 분리 폐기)
+- `feedback_payment_loop_unit_writing.md` (결제 루프 단위)
+- `feedback_episode_count_flexibility.md` (회차 수·페이월 위치 가변)
+- `feedback_vertical_drama_7_rules.md` (7 핵심 룰)
+- `feedback_demon_lord_failure_postmortem.md` (실패 9 함정·회피 baseline)
+- `feedback_locked_out_success_insights.md` (성공 패턴 baseline)
+- `feedback_paid_vertical_ai_cinematic_trap.md` (시네마틱 함정 6)
+- `feedback_no_theater_tone.md` (시적 절대 금지)
+
+### 검증 작품 baseline (직접 모방 가능)
+- `config/vertical_drama_hit_scripts/_analysis/` (23 작품 분석 — 같은 카테고리 정독)
+- `config/vertical_drama_hit_scripts/` 영어 원작 (Alta·HowToBreak·MarriedDon) — **북미 spoken English 대사 스타일 직접 참고**
+
+### 입력 자료
+- `projects/[작품명]/02_blueprint_full.md` (청사진 핵심 영역만)
+- `projects/[작품명]/04_visual_lock.md` (AIGC 어셋)
+- 옛 EP 작품 본문 (있을 시·연속성용)
 
 ## 역할
-완성 청사진을 바탕으로 개별 에피소드 시나리오를 집필한다.
-스크립트는 청사진에 명시된 타깃 언어로 작성한다.
-**유료회차 한정.** 무료회차는 protocol_premium_pilot.md.
+청사진을 바탕으로 EP01부터 EP10 (또는 EP12)까지 **한 호흡** 집필.
+EP08은 paywall cut으로·EP09를 목표로 EP1-7 압박 설계.
+스크립트는 청사진에 명시된 타깃 언어로 작성.
+
+## 폐기 (호출 금지)
+
+- ⛔ 옛 `protocol_premium_pilot.md` / `protocol_premium_pilot_lite.md` (체질 개선 v3에서 폐기·archive — Conversion Runway 7 단계로 대체)
+- ⛔ 19 Step Premium Pilot
+- ⛔ 4 Seed Draft (a_visual·b_voice·c_paywall·d_heat)
+- ⛔ 9 페르소나 매번 (Three-Gate Review로 대체)
+- ⛔ "무료회차 EP1-8 별도 protocol" 라우팅
 
 ## 실행 전 읽어야 할 파일
 
@@ -45,12 +79,12 @@
 - 메모리: `feedback_aigc_explicit_action_over_subtle.md` / `feedback_north_american_explicit_standard.md` (수위·표현 강도)
 - **config/reference_scripts/INDEX.md** — 등재된 reference 목록. 작품 메타(타깃·포맷·장르·언어)와 일치하는 script_format 카테고리 reference 자동 선택.
 
-**Reference 정독 룰 (필수, 2026-05-12 — 토큰 절감):**
-- script_*.md 파일은 150-220KB 거대 파일 → **매번 전체 정독 금지**
-- 포맷 참고용 = **첫 1-2 씬 (3-5KB)만 Read** (씬 헤더·Visual·Camera·Dialogue·FX·End Image 구조)
-- 페이월 비트 참고 = 해당 무료 마지막 화만 Read
-- 특정 비트 reference = Read offset/limit로 부분 정독
-- INDEX의 카테고리 매칭 = 어느 파일 어느 부분이 적합한지 결정용
+**Reference 정독 룰 (필수, 2026-05-19 — 토큰 회계 개편):**
+- **매 phase_4 진입 시 매칭 히트작 raw 대본 3-5 EP 강제 정독** (`config/vertical_drama_hit_scripts/` 안 작품 타깃·장르 매칭 — 영어 여성향 reference 부재 시 한국어/일본어 번역본으로라도)
+- **이전 EP 3개 raw 정독** (직전 EP 본문 그대로·요약 X·voice·cadence·디테일 drift 차단의 유일한 방법)
+- **옛 "첫 1-2 씬만 Read" 룰 = 폐기** (토큰 절약 명목·실제로는 톤 학습 차단 = 본문 시적 톤 침투 근본 원인. 사용자 진단 2026-05-19 후반)
+- 본문 작성 컨텍스트 = raw drama prose ≥ 메타 분량 (90:5:5 비율 → 20:30:50 반전)
+- 검증 보고서·테이블·자가 검수 풀이 = 본문 외 작성 금지 (메타 산문 함정 재현)
 
 ### 타깃 자료 (집필 시 매 회차 적용 — 단계 한정 Section만)
 
@@ -69,6 +103,7 @@
 **공통 룰:**
 - `feedback_target_alignment_all_steps.md` (5차원 정렬 매 회차)
 - `feedback_aigc_format_selection.md` (포맷별 표현 한계·강점)
+- **판타지 장르 대형 시각 보상 룰:** 판타지·로맨타지·다크 판타지·신화·수인·드래곤·마법·던전·왕실 장르는 현대물과 다른 화면 보상(성채·거대한 문·왕좌·드래곤·괴물·마법·군대·하늘·불/얼음·의식·세계 위계)을 초반부터 보여준다. 작은 소품·seal·문장 반응만으로 장르 약속을 충족했다고 보지 않는다.
 
 ## 필수 입력값
 - 에피소드 번호 (예: EP3)
@@ -79,28 +114,30 @@
 
 **※ 위 입력값은 phase_3 완성 청사진의 "전체 스토리 아크 — 화별 락"에서 직접 도출된다.** 사용자가 별도 지시하지 않으면 청사진의 화별 락을 그대로 사용한다.
 
-## 기본 작업 단위 — 무료/유료 분리 진행 (2026-05-12 정정)
+## 기본 작업 단위 — 전 회차 1개 자연 흐름 (체질 개선 v3·2026-05-17)
 
-phase_3 청사진이 완성된 시점부터 phase_4 집필은 **무료회차·유료회차 분리 자동 순차 진행**:
+> **옛 무료/유료 분리 진행 폐기.** 전 회차 1개 자연 흐름·Conversion Runway 7 단계 (`feedback_conversion_runway_writing.md` + `feedback_unified_writing_flow.md`).
+
+phase_3 청사진이 완성된 시점부터 phase_4 집필은 **전 회차 자동 순차 진행** (회차 수 가변):
 
 ### 진행 순서
-1. **무료회차 (EP1-8)** 자동 집필 → phase_5·phase_6 사이클 → phase_7 무료 4-Gate → **무료 최종고**
-2. **유료회차 (EP9-N)** 자동 집필 → phase_5·phase_6 사이클 → phase_7 유료 4-Gate → **유료 최종고**
-3. **통합 최종고** = 무료 + 유료 단일 MD 통합
+1. **EP1~EPN** 한 호흡 집필 — Conversion Runway 7 단계 (Hit Function Intake → Reward Loop·Antagonist·Proof Ledger → EP1-10 Conversion Runway 설계 → Visual Lock → Single-Voice Script Draft → Three-Gate Review → Rewrite)
+2. **페르소나 검토** (Three-Gate Review·또는 풀 페르소나 phase_5·phase_6 사이클 옵션)
+3. **phase_7 4-Gate** 평가 → **1종 FINAL.md** 통합
 
 ### 룰
 - 사용자가 명시적으로 한정한 경우에만 그 범위로 작업
 - 그 외에는 일부 화 한정으로 임의 좁히지 말 것
 - 출력 분량이 한 세션에 안 들어가는 경우 다수 세션에 걸쳐 진행
-- phase_5·phase_6·phase_7 사이클도 동일 — **무료/유료 분리 단위**가 기본
-- 상세: 메모리 `feedback_episode_split_and_runtime.md`
+- phase_5·phase_6·phase_7 사이클은 전 회차 단위 (옛 무료/유료 분리 폐기)
+- 상세: 메모리 `feedback_unified_writing_flow.md` + `feedback_conversion_runway_writing.md`
 
-### 분량 기준
-- **총 화수 50화 고정 / 무료 1-8화 고정** (2026-05-15)
-- **🔥 무료회차 (EP1-8): 편당 2분 초과 가능. 압도적 중요. 권장 2-3분 (장르 가변).** vertical 매출 핵심.
-- **유료회차 (EP9-50): 편당 ≤2분 (권장 1.3-1.5분).**
-- 총 러닝타임 ≤90분 (목표) / 권장 75분 내외 (장르·소재·타깃 가변)
-- 레퍼런스: Demon Lord's Marked Bride 75분·50화 — 새 룰 바람직 모델
+### 분량 기준 (체질 개선 v1·v3 — 회차 수·페이월 위치 가변)
+- **회차 수 가변** (권장 50-60화 / 결제 루프 자연 흐름)
+- **편당 길이 90초-3분** (장르·소재·타깃 가변)
+- **무료/페이월 위치 자연 흐름** (EP5-15 분포 — 23 히트작 baseline)
+- 옛 50화 고정·1-8 무료 고정 = 폐기 (`feedback_episode_count_flexibility.md`)
+- 실패 레퍼런스: Demon Lord's Marked Bride — 분위기·상징·절제·누적 의존을 paid vertical 성공으로 오인하지 말 것 (`feedback_demon_lord_failure_postmortem.md`)
 
 ## 스크립트 포맷 (필수 — 2026-05-15 표준)
 
@@ -172,6 +209,17 @@ The black warrant activates with Jax's name on it.
 - **대사 맛깔나게 + 씬 구성·상황 구성이 핵심.** 카메라·FX 디테일에 매달리지 말 것 — 그건 연출/제작팀 일.
 - **씬 자체의 비트, 인물 관계·주도권의 갱신, 사건의 흐름**이 명확하면 [VISUAL / ACTION] + [DIALOGUE] 둘만으로도 회차가 작동한다.
 - [KEY CAMERA]·[GRAPHIC / UI]·[END HOOK]은 그 씬에 필요할 때만.
+
+### 판타지 장르 시각 보상 하드 체크
+
+작품 장르가 판타지·로맨타지·다크 판타지·신화·수인·드래곤·마법·던전·왕실이면, 집필 전 해당 EP 또는 무료 초반 구간에 다음 중 무엇이 실제 화면에 보이는지 확인한다.
+
+- 성채 / 신전 / 거대한 문 / 왕좌 / 계단 / 하늘 / 지하 의식장 같은 큰 공간
+- 드래곤 / 괴물 / 변신체 / 군대 / 신화적 존재
+- 불 / 얼음 / 저주 / 마법진 / 의식 / 세계 위계가 보이는 VFX
+- 인간 세계보다 높은 권력의 스케일이 인물 관계와 직접 충돌하는 장면
+
+이 요소가 없으면 "판타지 설정"은 있어도 "판타지 장르 보상"은 부족한 것으로 본다. 단, 큰 화면은 욕망 구조와 연결한다. 스케일은 누가 선택되고, 누가 끌려가고, 누가 두려워하며, 다음 유료 보상이 얼마나 커질지를 즉시 이해시키는 방향으로 쓴다.
 
 **End Image** — 회차의 마지막 씬에만 [END HOOK]. 다른 씬은 표기 없이 다음 S#로 직진. `[End of S#X]` 같은 마커 사용 금지.
 
@@ -294,11 +342,30 @@ EP 본문만이 영어 일원화 대상.
 - 살아있는 대화 vs NPC 대사 구분 (Section 14-2).
 
 ## 집필 원칙
+
+### 단일 사건축 / 압력 중첩
+
+- 집필 전 현재 회차의 핵심 압력축을 한 줄로 확정한다.
+- 장면은 새 사건을 추가하기보다 같은 질문을 더 견딜 수 없게 만들어야 한다.
+- 좋은 장면 변화: 더 공개적인 자리, 더 많은 증인, 더 가까운 신체 거리, 더 강한 권한 이동, 더 되돌릴 수 없는 선택, 더 큰 시각 보상.
+- 나쁜 장면 변화: 새 비밀, 새 조직, 새 적, 새 삼각관계, 새 세계관 규칙이 핵심 질문을 흐리는 것.
+- 반복 클립 보상은 원초 보상축이 고정될 때만 허용한다. 또 한 번의 모욕/증명/공개 역전을 쓸 경우 무대, 증인, 증거물, 지위, 금액, 관계 판정, 물리 결과 중 하나 이상이 새로워야 한다. 같은 욕과 같은 참교육을 배경만 바꿔 복사하지 않는다.
+- paywall은 정보가 아니라 행동 앞에 둔다. 명령, 선택, 폭로, 키스/마킹, 문 폐쇄, 무기 전환, 처벌 시작 같은 다음 행동의 결과가 보여야 한다.
+- 남성향은 매회 “무엇이 주인공의 명령·소유·통제 아래로 넘어왔는가”를 확인한다.
 - 완성 청사진의 캐릭터 캐논, 세계 규칙, 정보 설계를 집필 중 반드시 확인한다.
 - 대사는 기능만 수행하는 도구식 대화 금지. 캐릭터 성격대로 반응해야 한다.
 - Visual 지문은 추상적 감정 표현 금지. 물리적·시각적 정보만.
 - 각 씬 끝에 관계/정보/주도권/감정/상황 중 하나가 갱신되어야 한다.
 - 무료 마지막화 클리프행어 강도는 최대로 설계한다.
+
+### 분위기보다 감정 거래 먼저
+
+- 주요 장면은 mood, 상징, 예쁜 blocking에서 시작하지 않는다. 먼저 `누가 누구를 어떻게 모욕/오판/위협/거래/claim하는가`를 정한다.
+- 여주/주인공의 고통과 모욕을 설정으로 요약하지 않는다. 현재 장면 또는 짧은 플래시백/몽타주로 구체적인 인간이 구체적인 말/행동을 하게 해서 시청자가 미워할 얼굴을 만든다.
+- 문서, seal, 법, 왕국, 가문, 시스템은 보조 증거다. 감정 채무는 얼굴과 목소리를 가진 가해자가 만든다.
+- 접촉은 반드시 거래를 바꾼다. 목 잡기, 손목 kiss, bite, mark, 머리카락, 무릎 위 seating, near-kiss, bedroom blocking은 consent/refusal, leverage, public status, protection, threat, claim, next action 중 하나를 바꾸지 않으면 삭제하거나 재설계한다.
+- 여성향 다크 로맨스/로맨타지 여주는 남성향식으로 군림하지 않아도 된다. 몸은 떨려도 선택하고, 거래하고, 거절하고, 괴물의 소유욕을 위험한 방패로 쓰는 쪽이 장르에 맞다.
+- `Yours`, `Mine`, `Wife`, `Mate`, `Chosen`, `Body`, `Kneel` 같은 선언형 단어는 앞 회차에서 모욕/조건/거절/거래/위협으로 적립한 뒤 payoff에서 뒤집어 쓴다.
 
 ### 대박작 구조 룰 (필수, `feedback_blockbuster_structural_insights.md`)
 - **EP1 비트 밀도** — 다층 비트 적재 (일반 5-7비트 / 대박작 15-20비트). EP1은 단일 사건 X / 다층 사건 압축. "왜 돌아와야 하는가 / 왜 이 인물에게 붙어야 하는가"가 EP1 안에 모두 납득되어야.

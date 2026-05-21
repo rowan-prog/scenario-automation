@@ -19,13 +19,14 @@ phase_3·phase_4·phase_a_1·phase_a_2·phase_b 진입 시:
 - **evaluation_case_study** — 기존 작품을 시스템 룰(3층 보상·Mode A/B/C·욕망 강화 방식 등)에 매핑한 case study. phase_3 청사진 작성 시 자기 작품과 비교 참조
 - **title_patterns** — vertical drama 타이틀 패턴 (phase_1·phase_2 시 정독)
 - **adaptation_source** — 부가 트랙 A 각색 원작 (phase_a_1·phase_a_2 진입 시 정독)
+- **failure_postmortem** — 실패작 원인 분석용. 포맷이나 운영 방식을 바람직 모델로 자동 차용하지 않음.
 
 ## 등재된 Reference
 
 | 파일 | 카테고리 | 타깃 | 포맷 | 장르 | 언어 | 비고 |
 |---|---|---|---|---|---|---|
 | `script_locked_out.md` | script_format | 북미 남성향 23-44 | AIGC 3D 애니 (semi-realistic) | SF 포스트아포칼립스 / Power fantasy / 하렘 | 영어 | LOCKED OUT 58화 풀 스크립트. 4씬/회차 표준, 4 블록(Visual·Camera·Dialogue·FX) 강제, 짧은 단언형 대사. **남성향 기본 포맷 표준.** |
-| `script_Demon_Lord's_Marked_Bride.md` | script_format | (작품별 메타 확인) | AIGC 실사 | 다크 로맨타지 | 한국어 | 한국어 포맷 참조용. 한국어 작업 시. 파일명에 curly apostrophe (`'`) 사용 — 정확 매칭 필요. |
+| `script_Demon_Lord's_Marked_Bride.md` | failure_postmortem | 여성향 다크 로맨타지 실패 분석 | AIGC 실사 | 다크 로맨타지 | 한국어 | **실패 대본. 바람직 모델 아님.** 부서진 후의 미학, 환경 위협, 절제 에로스, 상징 누적, 짧은 대사 교환, 완성형 여주가 paid vertical 결제 루프를 약화한 사례로만 참조. |
 | `script_genius_baby_original.md` | adaptation_source, script_format | 한국 일반 시청자 (각색 원작) | 한국어 실사 일반 대본 | 회귀 / 천재아동 복수극 / 가족 복수 / 모던 | 한국어 | 70화 한국어 원작 시나리오. 08_reborn_at_ten 각색 base. phase_a_1·phase_a_2 진입 시 정독. **이 원작 = 한국 시청자 톤** — 북미 각색 시 사건 뼈대만 차용, 톤·대사 처음부터 영어 재구성 (`feedback_north_american_judgment_baseline.md`). |
 | `blueprint_locked_out.md` | blueprint_density | 북미 남성향 | AIGC 3D 애니 | SF Power fantasy | 영어 | 청사진의 시스템 락(Entry Code Chip / Commander Authority / Core Unlock Sequence 등) 밀도 참조. 시스템 메커니즘이 풍부한 작품의 청사진 밀도 기준. |
 | `locked_out_evaluation.md` | evaluation_case_study | 북미 남성향 | AIGC 3D 애니 | SF Power fantasy / 하렘 | 한국어 | LOCKED OUT을 시스템 룰(3층 보상·Mode A/B/C·욕망 강화 방식·결제 트리거)에 매핑한 case study. phase_3 청사진 작성 시 자기 작품의 보상·모드 매핑을 검증할 때 비교 참조. 남성향 무쌍·즉시 충족·승리 확장 정답 패턴 사례. |
@@ -43,7 +44,7 @@ step 진입 시 작품 메타와 위 표를 매칭:
 ### phase_4 (에피소드 집필) — script_format 카테고리
 - **남성향 + 영어**: `script_locked_out.md` 우선 정독.
 - **여성향 + 영어**: 현재 등재된 영어 여성향 reference 없음. 사용자 추가 권장. 임시로 `script_locked_out.md` 4 블록 포맷만 차용 (대사 cadence·씬 비트 패턴은 여성향에 맞춰 자체 재해석).
-- **한국어 작업**: `script_Demon_Lord's_Marked_Bride.md` 정독.
+- **한국어 작업**: 검증된 히트작이 있으면 `vertical_drama_hit_scripts_inbox/` 또는 `config/vertical_drama_hit_scripts/`의 사용자 검증 대본을 우선 참조. `script_Demon_Lord's_Marked_Bride.md`는 실패 분석이 필요할 때만 부분 조회한다.
 - **AIGC 애니 vs 실사**: 둘 다 동일한 4 블록 포맷 적용 — reference 부족 시 LOCKED OUT 차용.
 
 ### phase_a_1 / phase_a_2 (각색) — adaptation_source 카테고리

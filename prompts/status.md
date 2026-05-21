@@ -58,17 +58,16 @@ ls projects/
 | 러프 청사진 있음 + 피칭덱 없음 | `phase_2_pitch_deck.md` |
 | 피칭덱 있음 + 피칭 결과 없음 | (사용자) 피칭 결과 작성 (`03_pitch_outcome.md`) |
 | 피칭 결과 있음 + 완성 청사진 없음 | `phase_3_full_blueprint.md` |
-| **완성 청사진 있음 + 무료 EP1-8 미완성** | **`protocol_premium_pilot.md` (필수)** — phase_4~7 단독 호출 금지 |
-| 무료 EP1-8 완료 (FINAL_FREE + Pilot Bible) + EP9+ 미작성 | `phase_4_episode_writing.md` (EP9부터, 유료) |
-| 유료 EP N개 (N < 총화수-8) | `phase_4_episode_writing.md` (EP{N+9}부터) |
-| 유료 에피소드 전 화수 완료 + 페르소나 검토 0건 | `phase_5_persona_review.md` (EP9부터, 페르소나 01부터) |
-| 유료 검토 라운드 N + 패치 없음 | `phase_6_revision.md` (유료) |
-| 유료 패치 라운드 N + 4-Gate 평가 없음 | `phase_7_final_gate.md` (유료 4-Gate + FINAL_PAID + 통합 FINAL) |
+| **완성 청사진 있음 + 집필 미완성** | **Conversion Runway 7 단계 (체질 개선 v3)** — `feedback_conversion_runway_writing.md` baseline + phase_4 활용 (전 회차 1개 자연 흐름) |
+| 집필 N화 완료 + 페르소나 검토 0건 | `phase_5_persona_review.md` (페르소나 01부터·또는 Three-Gate Review) |
+| 검토 라운드 N + 패치 없음 | `phase_6_revision.md` |
+| 패치 라운드 N + 4-Gate 평가 없음 | `phase_7_final_gate.md` (4-Gate + 1종 FINAL.md 통합) |
 | 4-Gate 통과 + 07_final/ 비어 있음 | (자동 복사 누락 — 점검) |
-| 통합 FINAL.md 완료 + 줄거리 요약 없음 | `phase_8_synopsis_summary.md` |
-| 모든 산출물 완료 | 작품 완료 ✅ |
+| 통합 FINAL.md 완료 | 작품 완료 ✅ |
 
-**무료회차 라우팅 (필수):** "완성 청사진 있음 + 무료 EP1-8 미완성" 상태에서 phase_4·5·6·7 호출 시 → 즉시 `protocol_premium_pilot.md`로 분기 (필수 라우팅 룰).
+> **phase_8 폐기 (2026-05-15·체질 개선 v3):** 한국어 줄거리 요약 = 토큰 낭비·매출 영향 0. archive 처리.
+>
+> **옛 protocol_premium_pilot / Lite 폐기 (체질 개선 v3·2026-05-17):** 옛 무료회차 EP1-8 분리 시스템 = 폐기. Conversion Runway 7 단계가 phase_4~7 통합 대체. `feedback_unified_writing_flow.md` + `feedback_conversion_runway_writing.md` baseline.
 
 ### 4. 다음 작품 번호 산출
 `projects/` 내 폴더명에서 두 자리 숫자 prefix 최댓값 확인 → +1.

@@ -17,7 +17,7 @@
 - **총 화수:** 50화 / **무료:** EP1-8 / **유료 시작:** EP9
 - **편당 길이:** 90초-3분
 - **총 러닝타임:** 약 90-150분
-- **수위 (2026-05-12 v3 재확정):** **초고수위 / 매우 변태적 — 북미 paid vertical 다크 로맨타지 기준.** ReelShort·NetShort werewolf·dragon mate 검증작 + ACOTAR·Fourth Wing·Demon Lord's Marked Bride·할리퀸 Presents·Berkley 다크·Ballantine Outlander 톤. 침실 긴장·금지된 끌림·공개 소유 선언·키스·신체 접촉·머리채·옷 안·잇자국·자국·자세 강제·물건 사용·반복·소유 표지·금기 위반 모두 허용. **표현 룰: 구체 행동·상황·접촉 (미묘함·눈빛·은밀한 분위기 X — AIGC 통제 한계).** 메모리 `feedback_aigc_explicit_action_over_subtle.md`·`feedback_north_american_explicit_standard.md`·`feedback_north_american_judgment_baseline.md`·`project_offering_high_explicit_direction.md` 적용.
+- **수위 (2026-05-12 v3 재확정):** **초고수위 / 매우 변태적 — 북미 paid vertical 다크 로맨타지 기준.** ReelShort·NetShort werewolf·dragon mate 검증작 + ACOTAR·Fourth Wing·할리퀸 Presents·Berkley 다크·Ballantine Outlander 톤. 침실 긴장·금지된 끌림·공개 소유 선언·키스·신체 접촉·머리채·옷 안·잇자국·자국·자세 강제·물건 사용·반복·소유 표지·금기 위반 모두 허용. **표현 룰: 구체 행동·상황·접촉 (미묘함·눈빛·은밀한 분위기 X — AIGC 통제 한계).** 메모리 `feedback_aigc_explicit_action_over_subtle.md`·`feedback_north_american_explicit_standard.md`·`feedback_north_american_judgment_baseline.md`·`project_offering_high_explicit_direction.md` 적용.
 - **톤:** 다크·고딕·신화·romantasy. 위협적 알파 + 능동적 여주 + 공개 지위 회복
 
 ### 숏폼 레퍼런스 (위원 D 권장 — 1+ 명시)
@@ -149,34 +149,73 @@
 - 회녹색 눈
 - 도자기 같은 흰 피부 (porcelain pale)
 - 도드라진 눈매·가는 손목·곧게 선 자세
-- **의상 1차 (EP1 도착 시 단독):** **흰 모피 망토 + 아이보리 비단 드레스** (회색 황무지 한가운데 흰 점 / silver thread 마지막 회색 빛 잡아냄) — 인간 왕국이 입혀 보낸 제물 상태. 망토 안쪽 비단에 silver pendant (tree-and-flame sigil) 차고 있음.
-- **의상 1B차 (EP2 부터 — EP1 첫 밤 변경 후 EP15까지):** **검은 비단 + 좁은 silver chain 보디스 아래로 / 흰 lace 높은 collar / pearls 어깨 솔기에 / 흰 cuff 가장자리.** "Pale skin. White at the throat. Silver and pearl threading the black, like winter through ash." 베일이 도착 의상 거부 → 새 의상 지시 → maid 가 pendant 를 새 보디스 안쪽 솔기로 옮김. **EP8 sub-variant:** lace collar 대신 wide silver-and-pearl band across collarbone (양쪽 crescents 가 band 위쪽으로 노출).
-- **의상 3차 (EP15+):** 어둠 속 은빛 자수·드래곤 비늘 모티프 (드래곤 측 정식 신부)
-- **의상 4차 (EP26-50):** Dragon Queen 정장·황금 디아뎀·검붉은 화염 자수
+#### 🔥 의상 변형 50화 매트릭스 (10개 — 2026-05-17 환류 / 4 아크 정합 + 사적·intimacy 보강)
+
+> **사용자 명시 (2026-05-17):**
+> ① "isolde는 의상 2개정도는 더 추가해라. **50화분량인데?**"
+> ② "isolde 의상은 총 6~8개면 된다. 적정수 고려해라 니가 설계한 아크 고려해서."
+> ③ "좀 적어보인다. 10개로 하자. intmacy나 sexual, 사적의상이 좀 적어보여. 근데 씬이 그다지 다른 날짜로 해서 많지 않다면 괜찮음."
+>
+> 옛 4단계 → 50화 매트릭스 10변형 (4 아크 정합 + 사적·intimacy 영역 3개로 확장).
+
+| # | 변형명 | 아크 / EP 범위 | 핵심 시각 | 변경 트리거 |
+|---|---|---|---|---|
+| **1** | **Royal Arrival** (제물 상태) | 기 (EP1 첫 도착만) | 흰 모피 망토 + 아이보리 비단 드레스 + silver thread + 인간 왕국 인장 (1회 한정) | 도착 |
+| **2** | **Daily Black Silk** (Vael's Choice + EP8 페이월 sub) | 기 (EP2-EP14) | 검은 비단 + 좁은 silver chain 보디스 + 흰 lace 높은 collar + pearls 어깨 솔기 + 흰 cuff / **EP8 sub**: wide silver-and-pearl band (crescents 노출) + hair half-pinned pearl | EP1 후반 Vael 명령 |
+| **3** | **Maiden Nightwear** (사적 일상·순수 톤) | 50화 전체 (사적 야간·취약 비트) | 흰 silk nightgown + 진주 trim + ivory lace robe + sheer 어깨·쇄골 + 무릎 위 길이 + 어머니 pendant 가슴 위 표면 + 발목 맨발 | 야간·사적 (자객 직전·키스 직전 정지 등 취약 reveal) |
+| **4** | **Bath / Vael's Bedroom Sensual** (intimacy 직전·정점·욕실·침실) | 50화 전체 (intimacy 비트) | 검은 silk slip gown + 한쪽 어깨 strap 흘러내림 + 짧은 silk robe + 다리 라인 reveal + 머리 풀고 젖은 끝 + Vael의 비늘 손이 풀거나 jerk 도구 | Vael 침실·욕실 후·짧은 robe 한정 (사적·intimacy 직전·정점) |
+| **5** | **Mate Bond Erotic Night** (intimacy 정점·brand reveal·Mate Bond 의식 사적 라인) | 승·전·결 (intimacy 정점 비트) | 등 raw open silk slip + 등 가운데 Vael 가문 brand 비주얼 + 손목 다중 chain + 머리 완전 풀음 + 진주·검붉은 lining + Vael 비늘 손이 등 brand 위 | EP18 첫 진짜 깊은 intimacy / EP25 의식 직전 / EP43 Mate Bond 정점 |
+| **6** | **Vael's Public Demand / Ceremonial** (공개·강제 호출) | 기·승·전 (공개 hall·강제 ceremonial) | 검은 비단 + 한쪽 어깨 strap만 + V-back + multi silver chain cross + split skirt + twin crescents·brand 직접 노출 | Vael 직접 명령 ("Bring her in this. The hall is to see her marks.") |
+| **7** | **Crowned Bride** (승 일상 + EP25 정식 신부 의식 sub) | 승 (EP15-EP25) | 검은 비단 + 은빛 자수 + 드래곤 비늘 모티프 + silver chain 라인 + 진주 디아뎀 (소형) + 손목 영구 비늘 빛 / **EP25 의식 sub**: 풀 silver 자수 + ankle-length veil + 디아뎀 풀 + 손목 비늘 빛 풀 발광 | EP15 정식 신부 후보 / EP25 의식 |
+| **8** | **Lady of Drakonis** (전 일상 + Hidden Bloodline sub) | 전 (EP26-EP44) | 검은 비단 + 황금 thread + 검붉은 lining + 손목 비늘 빛 점진 황금화 + 어깨 chain + 머리 풀어 / **Hidden Bloodline sub (EP35·39·40)**: pendant 외부 reveal + tree-and-flame sigil 황금 자수 보디스 + 진청·황금 가미 | EP26 Dragon Lord 부인 정식 / EP35 핏줄 폭로 |
+| **9** | **War Queen Armor** (결 전쟁) | 결 (EP41-EP48) | 검은 가죽 armor + 검붉은 chain mail + 짧은 split skirt + 어깨 metal pauldron (드래곤 뼈 모티프) + 손목 비늘 빛 + 머리 묶어 단단히 + 발목 가죽 부츠 | EP41 전쟁 본격 / 자객 대응 / 왕국 진입 |
+| **10** | **Dragon Queen Coronation** (결 EP49-50 즉위 의식) | 결 (EP49-EP50) | 검은 비단 풀 가운 + 황금 풀 자수 + 검붉은 화염 자수 라인 + 황금 디아뎀 (드래곤 뿔 모티프) + ankle-length 황금 망토 + 손목 비늘 빛 황금 문양 + Dragon Queen brand 가슴 위 시각 | EP49-50 Dragon Queen 정식 즉위 |
+
+#### 사적·intimacy·sexual 의상 3 단계 (변형 3·4·5)
+
+> **변경 트리거 = 욕망 단계** — 같은 날짜라도 사적 비트 단계에 따라 다른 의상 호출. 사용자 명시 "씬이 다른 날짜로 해서 많지 않다면 괜찮음" → 의상은 **사적 단계·intimacy 정도**에 정합 / 날짜 인플레이션 강요 X.
+
+- **변형 3 (Maiden Nightwear):** 사적 일상·취약·키스 직전 정지·자객 직전 — **순수·취약·maiden 톤**
+- **변형 4 (Bath / Bedroom Sensual):** intimacy 직전·정점·욕실 후·짧은 robe — **sensual·맞춰진·Vael 침실 한정**
+- **변형 5 (Mate Bond Erotic Night):** intimacy 정점·brand reveal·Mate Bond 의식 — **정식 brand·Erotic Permission·등 raw open**
+
+→ 사적 한 회차 안에 3·4·5 단계적 호출 가능 (예: EP43 — 침실 입장 변형 4 → Mate Bond 의식 변형 5 → 후 변형 3 일상). 50화 전체 자연 흐름.
+
+#### 변형 호출 룰 (50화 자연 흐름)
+
+- **사적·intimacy 씬:** 변형 3 (취약) / 4 (sensual) / 5 (정점·brand)
+- **공개 hall·강제 ceremonial (50화 전체):** 변형 6 (Vael's Public Demand)
+- **아크별 일상 진화:** 1 (EP1) → 2 (기 EP2-14) → 7 (승 EP15-25) → 8 (전 EP26-44) → 9·10 (결 EP41-50)
+- **특수 페이월·의식:** 2-Sub (EP8) / 7-Sub (EP25) / 10 (EP49-50)
+- **여성향 정합:** 3·4·5·6·8 Hidden·10 모두 핵심 여성향 보상 시각
+- **각 변형 = 캐릭터 어셋 일관 + 의상 별도 어셋.**
 
 > **EP1 의상 변경 (Soft Lock 환류):** 청사진 v1 "검은 모피 + 핏빛 드레스" → v2 "흰 모피 + 아이보리 드레스 → 검은 비단 (베일 명령)". 변경 사유: (1) 흰색 → 검은색 변화가 EP2 "name being chosen" reveal 의 시각 카타르시스 (한 의상 단계 안에서 변화 / 그 변화의 첫 화면) / (2) 인간 왕국 = 제물·순백·구속 / 검은 성채 = 그녀를 선택한 자리·검·은·진주 = 정체성 변화 / (3) 흰색 위의 silver pendant 가 자연스럽게 검은 비단 안쪽으로 옮겨감 (어머니 유품의 보존 + 비밀화). 핏빛 드레스 (잿빛 한가운데 한 점의 색) 의 시각 카타르시스 효과는 검은 비단 + 흰 throat + 진주·은 의 contrast 로 대체 (winter through ash).
 
-**캐논:**
-- 인간 왕국의 패전 공주. 왕국이 정치적 부담을 넘기기 위해 그녀를 제물로 보냈다
-- 성문 앞에서도 애원하지 않음. 베일에게도 굽히지 않음
-- 손목 안쪽에 베일의 비늘 빛이 남는 자국 (점진 진화)
-- 후반부 핏줄 = 알드릭 왕이 숨긴 진짜 후계자
+**캐논 (2026-05-17 정정 — 1화 처절함·반항 + 무시 패턴):**
+- 인간 왕국의 패전 공주이자 **알드릭 왕이 숨긴 진짜 후계자.** 이복오빠(HARRIN)와 계모가 그녀를 제물로 던져 자기 왕위 안전화.
+- **1화 = 반항·저항 시도 + 무시·모욕·폭력 받음** — 사슬 끌려가면서도 입으로 반항·자존 시도 / 빌런들에게 하찮은 것·우스운 것으로 처리됨. 무력 매달림 X / 완성형 X.
+- **2화부터 = 셈하는 여자 호 시작** — 떨면서도 한 발 뗌·셈·정보 누적·거래 시도.
+- **8화 = 떨리는 손으로 거래 발화** ("Yours." = 사랑 X / 생존·거래·복수·굴욕·욕망의 버튼).
 - **숨겨진 어셋 — pendant (silver, tree-and-flame sigil, 동전 크기):** 어머니 유품. 망토 안쪽 비단에 늘 차고 있음. 시질 = 검은 성문 위 룬과 같은 모양 (작게). EP1 도착 시 잠시 풀려 빠져나옴 — Isolde가 즉시 안쪽으로 다시 넣음. EP2 의상 갈아입을 때 maid가 새 검은 비단 보디스 안쪽 솔기로 옮겨 꿰맴 (maid가 시질 인식 — audience-only). 진짜 핏줄 단서·EP35 폭로 트리거.
-- **정체성 = 셈을 끝낸 여자 (counter):** 매달리지 않고 운다는 사실로 자기를 정의하지 않음. 빼앗긴 것을 **센다.** 길에서 사슬·망토·드레스·이름이 빼앗기는 동안 세고 있었음. 검은 성채 안에서도 매일 밤 대연회장 창문을 센다 (테라스에서 본 창의 개수 = 알드릭 왕의 사람들이 성채에 들어온 횟수). 수동·관조형 X / 능동 셈 — 결단·복수의 도구가 될 정보를 차곡차곡 누적.
-- **욕망 직접 표면화 (절제된 수위):** EP3-7 베일의 접촉에 도망 X·소리 죽임·손이 베일의 가슴 위로 (드는 위치 = 균형·자기 거치). 베일의 심장 박동을 셀 정도로 침착. EP5 "왜 멈춰." (직접 질문) / EP8 "Yours." (자발 첫 발화 — 베일이 신부 선언 못 닫는 그 순간 그녀가 닫는다).
+- **정체성 = 셈하는 여자 (counter) — 2화부터:** 빼앗긴 것을 **센다.** 길에서 사슬·망토·드레스·이름이 빼앗기는 동안 세고 있었음. 검은 성채 안에서도 매일 밤 대연회장 창문을 센다 (테라스에서 본 창의 개수 = 메인 빌런 라인의 사람들이 성채에 들어온 횟수). 능동 셈 — 결단·복수의 도구가 될 정보 누적.
+- **욕망 직접 표면화 (정정 — 절제 X):** EP3-7 베일의 짐승 직진 접촉에 도망 X·반응 직접·손이 베일의 가슴·목·옷자락 잡음 (떨면서도 잡음). EP5 "Why won't you stop." (직진 질문) / EP8 "Yours." (떨리는 손·반항 시도하다 박살난 후의 결정).
+- **이입 가능한 처지 (절대):** 1화 = 처절·반항·시도·무시 받음. 시청자가 "저 새끼들 죽어야 한다" + "이 여자 어떻게 살아남나" 동시 충족.
 
-**voice·습관 (Soft Lock 보강):**
-- 단답형. 짧은 평어 ("I was told to walk." / "They did." / "I do not kneel for them.")
-- 자기 연민·약함 발화 X — 대신 사실 진술 ("They sent me here to die." → "셈한다"의 표현)
-- 한 줄에 그림 한 컷 (말하지 말고 보여주기) — "I had it for him." (자객 칼 든 자기 손에 letter knife)
-- 베일에게 답할 때 정면 X — 벽을 향해 답하거나 자기 손을 본다 (대등하나 굴복 X 시각화)
+**voice·습관 (정정 2026-05-17):**
+- 1화 = **반항 voice** ("내 손목 풀어." / "차라리 잡아먹히겠어." / "닥쳐, 한린.") — 빌런들에게 무시당하며 사용
+- 2화부터 = 단답형 + 셈 표현 ("네가 셋째." / "넌 다섯 번째." / "I count.")
+- 자기 연민·"나는 강해" 자기 선언 X — **반항 시도 + 무시 받음의 실제 상태**가 표지
+- 한 줄에 그림 한 컷 (말하지 말고 보여주기)
+- 베일에게 답할 때 정면 X — 벽을 향해 답하거나 자기 손을 본다 (떨면서도 굴복 X)
 
 **절대 하면 안 되는 행동:**
-- 매달림·울음·자기 연민
-- "나는 강해" / "나는 제물 아냐" 자기 선언 (남주가 발화해야 작동)
+- ❌ "이러지 마세요" 류 **무력 매달림** (이건 처절함 X)
+- ❌ 1화부터 완성형 얼음공주 (이입 차단)
+- "나는 강해" / "나는 제물 아냐" 자기 선언 (반항·시도로 보여줌)
 - 베일에게 의존만 하는 수동 위치
 - 가족·왕국으로 돌아가고 싶어함
-- 판결형·도덕적 평가어 ("그건 옳지 않다·당신은 잘못이다") — 욕망·결핍 시각화 우선
+- 판결형·도덕적 평가어 ("그건 옳지 않다") — 욕망·결핍·반항 직접 시각화 우선
 
 ### VAEL DRAKONIS / 베일 드라코니스 — 남주, Dragon Lord
 
@@ -337,6 +376,114 @@
 - 이솔데의 어머니 (사망) = 진짜 핏줄의 비밀 보유
 - EP35-50 전쟁 라인
 
+### 🔥 판타지 세계 위계 (Hard Lock — 2026-05-17 신규)
+
+> **사용자 명시 (2026-05-17):** "판타지 장르는 초반부터 스케일을 보여줘야 한다. 성, 왕좌, 신전, 용, 괴물, 마법, 군대, 거대한 문, 하늘, 불, 얼음, 저주, 의식, 세계의 위계가 화면에 보여야 한다. 여성향이어도 로맨스만 있으면 안 된다. 알파메일/운명/소유/선택이 압도적 판타지 세계 안에서 작동해야 한다. AIGC 판타지는 특히 이걸 피하면 손해다."
+
+#### 작품 세계 위계 시각 (Hard Lock — 작품 정체성)
+
+**위계 1 — 인간 왕국 (취약·정치적·열등):**
+- 잿빛 황무지·평원·열린 도로
+- 인간 왕성·인간 궁정·돌·청동 문
+- 인간 군대·갑옷·창·검 (작은 스케일)
+- 인간 깃발·왕국 인장 (작은·자주 태워짐)
+
+**위계 2 — 검은 성채·Drakonis Keep (압도·전제·우월):**
+- 검은 화산석·basalt 절벽·산맥 한 마디 위에 위치
+- Black Gates (마법으로 자체 열림·거대)
+- Dragon Court 대연회장 (천장 = 거대 갈비뼈·돌기둥 / 인간 궁정 X)
+- 횃불 = 평소 일반 / 분노 시 일제 검은 불·푸른 불 점화
+- Vael 왕좌 = 검은 옵시디언·드래곤 뼈·뿔 모티프 / 한 단 위 두 자리 (Vael + Isolde 자리)
+- 의식 신전·제단 (Offering ritual 무대) — basalt + rune 새김
+- Council 회의실 (드래곤 lord 회의 / 천장 흔들림·테이블 진동)
+- 침실·테라스 (사적 비주얼 — 그 안에 sub-form intimacy)
+- 회랑·복도·뒤뜰·계단 (페이월 마지막 비주얼 — 어둠 속 위층)
+
+**위계 3 — 드래곤 영토·하늘 (압도적·신화):**
+- 산맥 = 드래곤 군단 (산이 wings·등·뿔) — 멀리·암시 → 본격 reveal
+- 하늘 = Vael 비행 자유 영역·먹구름 등 자연이 호응
+- ridge 너머 = 다른 드래곤 가문 영토
+- Dragon Pack 무리 = 12+ silhouettes
+
+**위계 4 — 신화·세계관 더 큰 차원 (저주·운명·신화):**
+- 드래곤 조약 (100년 전 신화 약속)
+- 운명 짝 신호 (비늘 빛·gate rune·pendant sigil 정합)
+- Hidden Bloodline (이솔데 = 왕국 후계 + 드래곤 후예 이중 — Stage 6 변신 가능)
+- Mate Bond Sync (둘 다 변신 = 신화 차원 정합)
+- 검은 화염 (베일의 분노 = 자연 vs 마법 = 황무지 갈라짐)
+
+#### 각 아크 별 세계 위계 활용 (집필 자연 흐름 — EP별 매핑 X)
+
+- **기 (Arc 1):** 위계 1 vs 2 강한 대비 (인간 왕국 제물 → Drakonis Keep 압도) / 위계 3 암시 (산맥 = 접힌 wings·하늘 멀리 드래곤 silhouette) / 위계 4 첫 신호 (비늘 빛·pendant sigil)
+- **승 (Arc 2):** 위계 2 정식 통치 시작 (Crowned Bride 자리) / 위계 3 본격 등장 (Dragon Pack 첫 reveal·첫 Full Form) / 다른 드래곤 가문 (세라) 위계 진입
+- **전 (Arc 3):** 위계 1 분열 (인간 왕국 내전·시댁 굴욕·알드릭 굴욕) / 위계 2-3 본격 (Full Form 자유 교대) / 위계 4 reveal (Hidden Bloodline)
+- **결 (Arc 4):** 모든 위계 통합 (위계 2-3-4 정점 / 위계 1 흡수) / Dragon Queen 즉위 = 신화 위계 정점
+
+#### 회피 패턴 (메모리 `feedback_fantasy_magic_visual_proof.md`)
+
+❌ "중세풍 옷 입은 사람들이 연애/복수만 하는 것" 톤
+❌ 위계 1 (인간 왕국 정치)만 보여주고 위계 3-4 (드래곤·신화) 안 보여주기
+❌ 로맨스만 있고 판타지 압도적 세계 위계 없음
+❌ 잔마법 (sigil 깜빡·pendant 작은 반응)만 / 거대 스케일 (드래곤·산맥·검은 화염) 없음
+❌ 인간 왕국과 드래곤 영토 시각 차이 없음 (대비 부재)
+
+#### 채택 패턴
+
+✅ 위계 2-3 (검은 성채·하늘·드래곤) 첫눈에 보임 = 시청자 판타지 약속 충족
+✅ 알파메일 베일이 압도적 판타지 세계 (위계 2-3-4)의 군주로 작동 = 여성향 정합 (소유 + 운명 + 선택 모두 압도적 세계 안)
+✅ 마법·VFX = 작품 정체성·결제 동력 (잔마법은 보조)
+✅ AIGC 강점 (비현실 스케일·VFX·괴물·드래곤·마법·거대 공간) 최대 활용
+
+### 🔥🔥 Vael 변신·궁극 드래곤 형태 (Hard Lock — 작품 정체성·페이월 보상)
+
+> **2026-05-17 환류 — 사용자 명시:** "vael이 거대한 용으로 변신하는 장면도 있어야한다. 당연히. 청사진부터가 개허접해서 이딴 일이 일어난다고 본다."
+> 메모리: `feedback_fantasy_magic_visual_proof.md` (판타지 = 거대 VFX·스케일 절대 룰).
+
+#### 궁극 형태 비주얼 (락)
+
+**거대 흑룡 (Black Dragon Form):**
+- 크기: 산맥 한 마디급·날개 풀 spread = 성 한 면 가림·꼬리 = 탑 한 채 높이
+- 비늘: 검은·옵시디언 빛·일부 검붉은 lining (분노·intimacy 시 발광)
+- 뿔: 4개 (양쪽 머리 옆 + 양쪽 턱 옆) / 옵시디언 + 검붉은 끝
+- 눈: 한 쌍 거대 회색 슬릿 + 분노 시 검붉은 화염 / Isolde 인식 시 인간 눈빛 유지
+- breath: 검은 화염 (Wall of Black Fire) + 푸른 김 / 포효 = sonic boom 화면 휩쓸음
+- 날개: 거대 박쥐형 + 비늘 디테일·끝 갈고리 / 펼쳤을 때 그림자 = 성 한 면 + 평원
+- 손등 검은 비늘 (인간 형태) = 같은 비늘 패턴 확장 = 거대 용 비늘 (시각 정합)
+
+**Partial Transform 단계:**
+- **Stage 1 (인간 형태):** 손등 비늘만 (EP1-EP12)
+- **Stage 2 (sub-form 발현):** 비늘 손목·팔뚝까지 + 뿔 일부 (관자놀이) + 눈 슬릿 + 등 뒤 거대 드래곤 환영 (EP13-EP20)
+- **Stage 3 (Partial Transform):** 비늘 등·가슴·다리까지 + 날개 일부 펼침 + 인간 형태 깨짐 비주얼 (EP21-EP25)
+- **Stage 4 (Full Dragon Form 첫 reveal):** 완전 거대 흑룡 변신 (EP25 — 정식 신부 의식·전투)
+- **Stage 5 (Full Form 활용):** 인간 ↔ 용 자유 교대 / 신혼 ritual·전쟁·왕국 정복 (EP26-EP44)
+- **Stage 6 (Mate Bond Sync — 둘 다 변신):** Isolde 부분 변신·드래곤 본 발현 (Hidden Bloodline = 드래곤 후예 폭로) (EP35-EP50)
+
+#### 변신 단계 아크 매핑 (4 페이즈)
+
+| 페이즈 (아크) | 변신 단계 |
+|---|---|
+| **기 (Arc 1)** | Stage 1 (손등 비늘만) + 거대 wing-shadow·sub-form 암시·등 뒤 거대 환영 |
+| **승 (Arc 2)** | Stage 2-3 (sub-form 발현·partial transform) — 분노·intimacy·전투마다 reveal / 첫 Full Dragon Form reveal |
+| **전 (Arc 3)** | Stage 4-5 (Full Form 자유 교대·전투·정복·핏줄 폭로) |
+| **결 (Arc 4)** | Stage 6 (Mate Bond Sync·둘 다 변신·Dragon Queen 즉위 — 시즌 보스) |
+
+#### 변신 트리거 (원칙)
+
+- **분노/소유:** Isolde 위협 받음 (자객·사절단·다른 가문)
+- **intimacy 정점:** 정식 신부 의식 / Mate Bond 완성
+- **전투:** 왕국 군대·다른 드래곤 가문
+- **공개 선언:** 신부·왕비 즉위
+- **Isolde 변신 트리거 (결):** Hidden Bloodline 각성·드래곤 후예 발현
+
+#### 거대 VFX 원칙 (집필 자연 흐름)
+
+> **EP별 매핑 X.** 청사진은 원칙만. 집필 시 자연 흐름으로 반영. 메모리 `feedback_fantasy_magic_visual_proof.md` 강제.
+
+- 회차당 거대 VFX 비트 1-2건 (회차 핵심 비트에 맞게 자연 배치)
+- 잔마법 (sigil 깜빡·pendant 반응) = 보조 X / 메인 = 거대 드래곤 그림자·검은 화염 벽·산맥 군단·충격파·등 뒤 환영
+- 아크별 스케일 상승 (기→승→전→결 = 점진적·압도적)
+- AIGC 강점 활용 (비현실 스케일·VFX·괴물·드래곤·마법·거대 공간)
+
 ---
 
 ## 12-6. 정보 설계 — 무료/유료 절단
@@ -411,9 +558,13 @@
 
 ---
 
-## 50화 화별 락
+## 50화 4 아크 페이즈 (기·승·전·결 — 2026-05-17 재구조화)
 
-### Arc 1: Fated Encounter + First Possessive Claim (EP1-8, 무료 구간) — v2 환류 후
+> **사용자 명시 (2026-05-17):** "청사진에 50화를 한 화 한 화 아크를 두라는 게 아니라, 페이즈, 기승전결 개념으로 4개의 아크로 나눠라." / "거대 vfx 매핑 이걸 청사진에서 왜 매핑해. 원칙으로만 두고, 집필에서 자연스러운 흐름으로."
+>
+> 옛 6 아크 (EP별 1줄 표) → 4 아크 (페이즈·핵심 비트·페이월 라인). EP별 매핑 폐기. 단 **무료 EP1-8 화별 락 (집필 가이드)** 만 유지 — 무료 페이월 정밀 설계가 결제 동력의 핵심이기 때문.
+
+### 기 (Arc 1) — EP1-8 무료 구간: Fated Encounter + First Possessive Claim
 
 다크 로맨타지 공식 1차 사이클: **Fated Encounter → Forbidden Bond Sensed → Possessive Claim → Bond Deepens → Public Recognition of Bond 시작**
 
@@ -468,82 +619,97 @@
 
 **메타 안전 (wish-fulfillment 방향 보존):** 변태적 강도 = 베일이 이솔데를 압도적으로 매혹·집착·소유하는 방향. 굴욕·수치로 끝나는 방향 X (`project_offering_high_explicit_direction.md`).
 
-### Arc 2: Public Selection (EP9-16, 유료)
+### 승 (Arc 2) — EP9-25 유료: Public Selection → Crowned Bride
 
-베일의 신부 선언 완성 + 정식 신부 등극.
+> **페이즈 핵심:** 베일의 신부 선언 완성 → 다른 드래곤 가문 견제 → 정식 신부 등극. **변신 단계:** Stage 2-3 (sub-form 발현·partial transform / 첫 Full Dragon Form reveal).
 
-| EP | 핵심 비트 |
-|---|---|
-| EP9 | 베일이 사절단 앞에서 신부 선언 완성 ("She is mine. She is my Crowned Bride") |
-| EP10 | 드래곤 무리 본격 등장 / 이솔데 손목 비늘 빛 영구화 |
-| EP11 | 인간 왕국 사절단 추방 / 할드렌 충성 전환 |
-| EP12 | 엘라라 + 다른 신부 후보 굴욕 (공개 자리에서 밀려남) |
-| EP13 | 정식 신부 의상 (검은 비단 + 은빛 자수) 첫 등장 |
-| EP14 | 키란 정보 제공 (인간 왕국 새 음모 단서) |
-| EP15 | 다른 드래곤 가문 (세라) 첫 등장 / 가문 동맹 제안 |
-| EP16 | 세라가 이솔데 견제 / 페이월 (베일의 선택) |
+#### 페이즈 함수
+- **시작 보상 (EP9-12):** 베일 신부 선언 완성·드래곤 무리 본격 등장·이솔데 손목 비늘 빛 영구화·인간 왕국 사절단 추방·할드렌 충성 전환·다른 신부 후보 굴욕
+- **중간 텐션 (EP13-22):** 다른 드래곤 가문 (세라) 등장·가문 동맹 도전·이솔데·베일 깊은 친밀 (Erotic Permission 시작)·인간 왕국 자객 2차·세라의 공개 모욕·베일이 세라 공개 거절
+- **승 클라이맥스 (EP23-25):** 이솔데가 드래곤 무리 일부 인정 받음·정식 신부 의식 준비·**EP25 정식 신부 등극 의식 + 첫 Full Dragon Form reveal + 시댁 가문 굴욕**
 
-### Arc 3: Dragon Bride (EP17-25)
+#### 페이월 라인 (각 결제 결정 지점)
+- EP12-13 한도: 베일 신부 선언 + 사절단 추방 + 세라 등장 = 다음 화 가문 동맹 음모 (결제)
+- EP18-19 한도: 첫 깊은 intimacy + 자객 정보 = 다음 화 음모 폭로 (결제)
+- EP22-23 한도: 세라의 모욕 → 베일의 공개 거절 + 이솔데 자기 자리 굳힘 = 다음 화 정식 신부 의식 (결제)
+- EP24-25 한도: 정식 신부 의식 클라이맥스·Full Dragon Form 첫 reveal = 다음 페이즈 (전 시작)
 
-다른 드래곤 가문 견제 + 이솔데 정식 신부 등극.
+#### 의상 진화
+- 1B (Daily) → N1 (Nightwear 사적) → N2 (Vael Public Demand) → 2 (Crowned Bride) → 2-Erotic (intimacy) → 3 (EP25 의식)
 
-| EP | 핵심 비트 |
-|---|---|
-| EP17 | 세라의 가문 동맹 음모 본격 |
-| EP18 | 이솔데와 베일 첫 진짜 깊은 친밀 (절제된 수위) |
-| EP19 | 키란이 알드릭 왕의 음모 단서 전달 |
-| EP20 | 인간 왕국 자객 2차 (베일이 부재 / 이솔데가 직접 대응) |
-| EP21 | 이솔데가 드래곤 무리 일부 인정 받음 (Crowned 신호) |
-| EP22 | 세라의 본격 도전 (베일 앞에서 이솔데 모욕) |
-| EP23 | 베일이 세라를 공개 거절 |
-| EP24 | 이솔데 정식 신부 의식 준비 |
-| EP25 | 이솔데 정식 신부 등극 (검은 성채 대연회장 의식) + 시댁 가문 굴욕 |
+#### 핵심 결제 엔진 비트
+- 5.5 Possessive Alpha Marking (베일 공개 마킹 강화)
+- 5.2 Fated Mate Bond (손목 비늘 빛 영구화·EP25 황금화 시작)
+- 3.6 Public Status Claim (이솔데 정식 신부 등극)
+- 부수: 5.4 Sacrificial Reversal·다른 신부 후보 굴욕
 
-### Arc 4: Cosmic Revenge (EP26-34)
+---
 
-인간 왕국 내전 + 시댁 가문 굴욕 + 알드릭 왕 음모 본격.
+### 전 (Arc 3) — EP26-40 유료: Cosmic Revenge → Hidden Bloodline
 
-| EP | 핵심 비트 |
-|---|---|
-| EP26 | 황금 디아뎀 + 화염 자수 (Dragon Queen 의상 1단계) |
-| EP27 | 인간 왕국 내전 발발 / 알드릭 왕의 적이 베일에게 동맹 제안 |
-| EP28 | 이솔데가 알드릭의 적과 대화 (자기 핏줄 단서 첫 발견) |
-| EP29 | 시댁 가문 (계모·동생) 베일 앞에 무릎 |
-| EP30 | Public Vindication 본격 — 인간 왕국 귀족들이 이솔데 앞에서 굴복 |
-| EP31 | 세라의 가문 동맹 패배 |
-| EP32 | 다른 드래곤 가문 일부가 이솔데 인정 |
-| EP33 | 키란의 충성 의식 / 할드렌 정식 사과 |
-| EP34 | 알드릭 왕의 음모 1차 폭로 (이솔데 핏줄 단서) |
+> **페이즈 핵심:** 인간 왕국 내전 → 시댁 가문 굴욕 → 알드릭 왕 음모 본격 폭로 → 이솔데 진짜 핏줄 reveal. **변신 단계:** Stage 4-5 (Full Form 자유 교대·전투·정복).
 
-### Arc 5: Hidden Bloodline (EP35-44)
+#### 페이즈 함수
+- **시작 보상 (EP26-30):** Dragon Queen 의상 1단계 (황금 디아뎀)·인간 왕국 내전 발발·알드릭 왕의 적이 베일에게 동맹 제안·시댁 가문 (계모·동생) 베일 앞 무릎·Public Vindication 본격
+- **중간 텐션 (EP31-35):** 세라의 가문 동맹 패배·다른 드래곤 가문 일부가 이솔데 인정·키란 충성 의식·할드렌 정식 사과·알드릭 음모 1차 폭로 (이솔데 핏줄 단서) → **EP35 이솔데 = 알드릭 왕이 숨긴 진짜 후계자 폭로**
+- **전 클라이맥스 (EP36-40):** 이솔데 어머니 진실·인간 왕국 내전 격화·베일 드래곤 군대 본격 개입·알드릭 자객 3차·이솔데가 알드릭 왕 앞에서 진실 폭로·**EP40 알드릭 왕 굴욕·Betrayal Reversal 본격**
 
-이솔데 진짜 핏줄 폭로 + 알드릭 왕 굴욕.
+#### 페이월 라인 (각 결제 결정 지점)
+- EP29-30 한도: 시댁 무릎 + Public Vindication 본격 = 다음 화 알드릭 음모 단서 (결제)
+- EP34-35 한도: 알드릭 음모 1차 폭로 + Hidden Bloodline reveal = 다음 화 어머니 진실 (결제)
+- EP39-40 한도: 이솔데가 직접 진실 폭로 → 알드릭 굴욕 = 다음 페이즈 (결 = 전쟁) (결제)
 
-| EP | 핵심 비트 |
-|---|---|
-| EP35 | 이솔데 = 알드릭 왕이 숨긴 진짜 후계자 폭로 |
-| EP36 | 이솔데 어머니 (사망) 진실 / 왕국의 진짜 핏줄 |
-| EP37 | 인간 왕국 내전 격화 / 베일의 드래곤 군대 본격 개입 |
-| EP38 | 알드릭 왕의 자객 3차 (베일과 이솔데 함께 대응) |
-| EP39 | 이솔데가 알드릭 왕 앞에서 진실 폭로 |
-| EP40 | 알드릭 왕 굴욕 / Betrayal Reversal 본격 |
-| EP41 | 인간 왕국 귀족들 분열 |
-| EP42 | 이솔데 = 진짜 왕국 후계자 + Dragon Crowned Bride 이중 정체 |
-| EP43 | 베일과 이솔데 깊은 친밀 (Erotic Permission 본격) |
-| EP44 | 알드릭 왕 + 시댁 가문 + 세라 마지막 음모 |
+#### 의상 진화
+- 3 (Crowned Bride) → 3-Daily (Lady of Drakonis) → 4 (War Queen Armor — Arc 3 후반 진입) → 5 (Hidden Bloodline Reveal — EP35·39·40)
 
-### Arc 6: Crowned Queen (EP45-50, 시즌 보스)
+#### 핵심 결제 엔진 비트
+- 5.4 Sacrificial Reversal (제물 → 진짜 후계자 폭로 정점)
+- 5.10 Hidden Identity Reveal (EP35 정점)
+- 3.6 Public Status Claim (Public Vindication 본격)
+- 부수: Betrayal Reversal (알드릭 굴욕)
 
-인간 왕국 vs 드래곤 가문 전쟁 + 이솔데 Dragon Queen 즉위.
+---
 
-| EP | 핵심 비트 |
-|---|---|
-| EP45 | 인간 왕국 vs 드래곤 가문 전쟁 본격 |
-| EP46 | 베일과 이솔데 마지막 음모 분쇄 / 알드릭 왕 패배 |
-| EP47 | 이솔데가 알드릭 왕에게 마지막 선택 강요 (자기 신하가 되거나 추방) |
-| EP48 | Public Vindication 최종 — 인간 왕국 전체가 이솔데 앞에 무릎 |
-| EP49 | Dragon Queen 즉위 의식 (Dragon Lord + Dragon Queen) |
-| EP50 | 이솔데 Dragon Queen 정식 즉위 / Drakonis 가문과 인간 왕국 통합 / HEA (Happy Ever After) |
+### 결 (Arc 4) — EP41-50 유료: War → Crowned Queen (시즌 보스)
+
+> **페이즈 핵심:** 인간 왕국 vs 드래곤 가문 전쟁 → Dragon Queen 즉위 → HEA. **변신 단계:** Stage 6 (Mate Bond Sync·Vael + Isolde 둘 다 변신·Dragon Pack 전체 포효).
+
+#### 페이즈 함수
+- **시작 보상 (EP41-44):** 인간 왕국 귀족 분열·이솔데 = 진짜 왕국 후계자 + Crowned Bride 이중 정체·베일·이솔데 깊은 친밀 (Erotic Permission 정점)·알드릭·시댁·세라 마지막 음모
+- **중간 텐션 (EP45-48):** 인간 왕국 vs 드래곤 가문 전쟁 본격·베일·이솔데 마지막 음모 분쇄·알드릭 왕 패배·이솔데가 알드릭에게 마지막 선택 강요 (자기 신하·추방)·Public Vindication 최종 (인간 왕국 전체 이솔데 앞 무릎)
+- **결 클라이맥스 (EP49-50):** Dragon Queen 즉위 의식·**Vael + Isolde 둘 다 풀 변신 + Dragon Pack 전체 포효** / Drakonis 가문 + 인간 왕국 통합 / HEA
+
+#### 페이월 라인 (각 결제 결정 지점)
+- EP43-44 한도: Erotic Permission 정점 + 마지막 음모 = 다음 화 전쟁 (결제)
+- EP47-48 한도: 알드릭 굴복 + Public Vindication 최종 = 다음 화 즉위 (결제)
+- EP49 한도: Dragon Queen 즉위 의식 + Vael·Isolde 둘 다 변신 = EP50 HEA (시즌 보스 결제)
+
+#### 의상 진화
+- 4 (War Queen Armor) → 5 (Hidden Bloodline 폭로 의식) → 6 (Dragon Queen Coronation EP49-50)
+
+#### 핵심 결제 엔진 비트
+- 3.6 Public Status Claim 정점 (Dragon Queen 즉위)
+- 5.2 Fated Mate Bond 정점 (Mate Bond Sync·둘 다 변신)
+- 5.10 Hidden Identity Reveal 정점 (왕국 후계 + Crowned Bride 이중)
+- HEA — Happy Ever After
+
+---
+
+### 4 아크 페이즈 요약 표
+
+| 페이즈 | EP 범위 | 핵심 함수 | 변신 단계 | 핵심 결제 엔진 | 페이월 클라이맥스 |
+|---|---|---|---|---|---|
+| **기 (Arc 1)** | EP1-8 무료 | Fated Encounter + Public Recognition 시작 | Stage 1 + wing-shadow·sub-form 암시·등 뒤 환영 | 5.5·5.2·3.6 | EP8 — "Yours" + 신부 선언 끊김 + 산맥 드래곤 군단 reveal |
+| **승 (Arc 2)** | EP9-25 | Public Selection → Crowned Bride | Stage 2-3 (sub-form·partial / EP25 첫 Full Form) | 5.5·5.2·3.6 + 다른 신부 후보·세라 굴욕 | EP25 — Crowned Bride 의식 + 첫 Full Form |
+| **전 (Arc 3)** | EP26-40 | Cosmic Revenge → Hidden Bloodline | Stage 4-5 (Full Form 자유 교대·전투·정복) | 5.4·5.10·3.6 + Betrayal Reversal | EP40 — 알드릭 왕 굴욕·Betrayal Reversal 본격 |
+| **결 (Arc 4)** | EP41-50 | War → Crowned Queen + HEA | Stage 6 (Mate Bond Sync·둘 다 변신) | 5.2·3.6·5.10 정점 + HEA | EP49-50 — Dragon Queen 즉위·둘 다 변신·Dragon Pack 포효 |
+
+#### 4 아크 페이즈 진행 룰
+
+- EP 단위로 핵심 비트 강제 X / **아크 페이즈 안에서 자연 흐름**으로 진행
+- 거대 VFX = EP별 매핑 X / **아크별 스케일 상승 + 집필 자연 흐름** (메모리 `feedback_fantasy_magic_visual_proof.md`)
+- 의상 변형 = 50화 매트릭스 12개 / 아크 진행에 따라 자연 호출 (12-3 Isolde 캐논 의상 매트릭스 참조)
+- 페이월 = 아크별 클라이맥스 비트 + 페이즈 안 각 결제 결정 지점
 
 ---
 
@@ -602,4 +768,21 @@
     - **EP1-8 화별 락 + sensual 락 표 두 곳 모두 갱신** (정보 흐름·신체 자국·공개 vs 비공개 + ladder 컬럼).
     - **EP8 페이월 유료 전환 약속 정밀화:** 12 mounted·12 standards·grey envoy 신원·Haldren 손·last quarter inch·Isolde "Yours."·5 미완성 동시 응축 (신부 선언·공개 키스·드래곤 무리·알드릭 음모·pendant).
   - **환류 사유:** G v2 디벨롭이 (1) viewer psychology baseline 적용으로 호혜·자기 인정 비트 강화 (2) 6 conversion 패턴 6번째 (발화 끊김) 적용으로 "Yours." 자발 발화 도입 (3) 50-EP serial 엔진 적용으로 Aldric 음모 분산 (4) character × situation × relationship 적용으로 신규 인물 (grey envoy) + 캐릭터 voice 보강 (5) v3 12 HARD RULE 적용으로 손목 trace 절삭. 모든 변경 = 청사진보다 G v2 가 더 강한 요소를 발견한 영역.
-  - **다음 단계:** 유료 EP9-50 진행 가능 (청사진 v2 기준).
+- **2026-05-17 v3 (판타지 거대 VFX + Isolde 의상 50화 매트릭스 + Vael 변신 락 + 4 아크 페이즈 재구조화 + 판타지 세계 위계 — 사용자 명시 환류 중 정정 진행):**
+  - 사용자 명시 ① (변신): "vael이 거대한 용으로 변신하는 장면도 있어야한다."
+  - 사용자 명시 ② (의상): "isolde는 의상 2개정도는 더 추가해라. **50화분량인데?**"
+  - 사용자 명시 ③ (VFX): "판타지 장르 = 압도적 스케일적 시각적 보상."
+  - 사용자 명시 ④ (4 아크): "청사진에 50화를 한 화 한 화 아크를 두라는 게 아니라, 페이즈, 기승전결 개념으로 4개의 아크로 나눠라."
+  - 사용자 명시 ⑤ (VFX 매핑): "거대 vfx 매핑 이걸 청사진에서 왜 매핑해. 원칙으로만 두고, 집필에서 자연스러운 흐름으로."
+  - 사용자 명시 ⑥ (세계 위계): "성·왕좌·신전·용·괴물·마법·군대·거대한 문·하늘·불·얼음·저주·의식·세계의 위계가 화면에 보여야 한다."
+  - 신규 메모리: `feedback_fantasy_magic_visual_proof.md` (판타지 = 거대 VFX·스케일 절대 룰 + 4 아크 페이즈 정합)
+  - **재구조화 결과:**
+    - **50화 화별 락 → 4 아크 페이즈 (기·승·전·결)** — 옛 Arc 1-6 (EP별 1줄 표) 폐기 / 기 (EP1-8 무료·집필 가이드 유지) / 승 (EP9-25) / 전 (EP26-40) / 결 (EP41-50)
+    - **거대 VFX EP 매핑 폐기** — 청사진은 원칙·Stage 단계만 / 집필 자연 흐름으로
+    - **Isolde 의상 50화 매트릭스 7변형** — 옛 4단계 폐기. 사용자 명시 ("총 6-8개 적정") 정합. 변형 1 (Royal Arrival 기 EP1) / 2 (Daily Black Silk + EP8 sub 기 EP2-14) / 3 (Nightwear 50화 사적) / 4 (Vael's Public Demand 50화 공개·강제) / 5 (Crowned Bride + EP25 의식 sub 승 EP15-25) / 6 (Lady of Drakonis + Erotic·Hidden sub 전 EP26-44) / 7 (War / Dragon Queen Coronation 결 EP41-50). 4 아크 정합·sub-variant 카운트 X.
+    - **12-5 신규 섹션 — Vael 변신·궁극 드래곤 형태 (Hard Lock)** + 4 아크 단계 매핑 + 변신 트리거 + 거대 VFX 원칙 (EP 매핑 X)
+    - **12-5 신규 섹션 — 판타지 세계 위계 (Hard Lock)** + 위계 1-4 (인간 왕국·검은 성채·드래곤 영토·신화) + 아크별 활용 + 회피/채택 패턴
+  - **Hard Lock 유지:** 정체성 (다크 로맨타지·여성향·초고수위) / 페이월 구조 / 메인 결제 트리거 / 트랙 (AIGC 실사 9:16) / 50화 락 / Vael 변신·궁극 형태 / 세계 위계
+  - **Soft Lock 환류:** 4 아크 페이즈 / Isolde 의상 매트릭스 / 거대 VFX 원칙
+  - 적용 메모리: `feedback_fantasy_magic_visual_proof.md`·`feedback_visual_lock_system.md`·`feedback_aigc_explicit_action_over_subtle.md`
+  - **다음 단계:** v8 patch에 본 환류 반영 (8 EP 본문 거대 VFX 자연 흐름 + 의상 변형 비트 + 세계 위계 직접 묘사). 유료 EP9-50 = 사용자 명시 시까지 대기.
