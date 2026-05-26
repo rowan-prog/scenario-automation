@@ -51,7 +51,7 @@ phase_0 (아이디어) → phase_1 (러프 청사진) → phase_2 (피칭) → �
 | 폴더 | 작품 | 현재본 (정본) | 단계 |
 |---|---|---|---|
 | `01_titan_born` | TITAN BORN | (07_final 확인 필요) | 완결 ✅ |
-| `02_the_offering` | THE OFFERING | **🔒 `07_final/02_the_offering_FINAL_v33_5_clean.md`** | **Production LOCK** (2026-05-21·v33.5·다크 로맨스 슈퍼퀸 label reversal·출산 EP48-49·후일담 EP50만·Sera 영원 라이벌·행정/정치 어휘 0건) |
+| `02_the_offering` | THE OFFERING: Crowned by the Dragon Lord | **🔒 `07_final/02_the_offering_FINAL_v45_clean.md`** | **LOCK 후보 FINAL** (2026-05-22·v45·EP01 voice memory 엔진·EP46 voice 회수·[END HOOK] 안 대사 0·T4 7비트·EP↔END HOOK 50↔50·"I love you" 6 lines·정답 4 지연 EP46 폭발) |
 | `03_most_wanted_ship` | I BOUGHT THE GALAXY'S MOST WANTED SHIP | (07_final 확인 필요) | phase_2 완료 |
 | `_X_04_heiress_clause` | I AM THE HEIR | — | 폐기 |
 | `06_she_stole_my_face` | SHE STOLE MY FACE | (07_final 확인 필요) | phase_3 완료 |

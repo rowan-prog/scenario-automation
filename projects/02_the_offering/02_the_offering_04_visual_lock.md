@@ -1,4 +1,4 @@
-BEWARE! THE OFFERING — VISUAL LOCK
+BEWARE! THE OFFERING: Crowned by the Dragon Lord — VISUAL LOCK
 
 0. Purpose
 9:16 vertical live-action AIGC character / prop / background asset lock.
@@ -707,101 +707,38 @@ Furry tone.
 
 3. Props
 
-3.1 Silver Bird Hairpin
-Owner path: Vael's mother → Vael → Isolde at EP01 → bedside table at EP01 dawn → Vael recovers → EP13 reveal → Isolde's hair at EP29.
+This is a dark romantasy + dragon romance + revenge-claim genre. Props are not load-bearing; high-heat, possession, punishment, and label reversal carry the show. Only the five core props below need dedicated asset development. Scene-specific objects (torn letters, iron execution plate, council heads, curved knives, garden pebbles, etc.) are minor production set-dressing and do not require their own asset locks.
+
+3.1 Silver Bird Hairpin (CORE)
+Owner path: Vael's mother → Vael → Isolde at EP01 → bedside table at EP01 dawn → Vael recovers → returned to Isolde at EP46 reveal.
 Design: small hammered silver pin, single carved bird at the head (lyre-like crest), one tiny chestnut stone.
-Function: identity-bond motif across the show.
+Function: identity-bond motif across the show — the single object that links the festival night to Vael across the full delay.
 Forbidden: tiara, forehead ornament, modern hair clip.
 
-3.2 Wooden Bird Carving
+3.2 Wooden Bird Carving (CORE)
 Owner: Vael (his mother carved it).
 Design: small wooden bird carving, same silhouette as the silver hairpin, dark walnut grain.
-Function: appears on the chest of drawers in Vael's chamber the night of Mireille's birth (EP49); paired motif with the silver hairpin. First on-screen appearance EP46.
+Function: appears in Vael's chamber late (EP38-46 window) as the second half of the silver-bird motif. EP46 reveal — Isolde sees both pieces together and the identity question closes.
 
-3.3 Black Bridal Mirror
-Owner: Veine bridal hall.
-Design: floor-mounted obsidian disk, palm-print pressure-active. Goes pure black under impure or non-virgin palms.
-Function: EP01 S#5 reveals Isolde "impure" and triggers the show's central label.
+3.3 Silver Crown of Drakonis Queen (CORE)
+Owner: Drakonis keep treasury → Isolde at EP49 reckoning.
+Design: small silver crown with subtle dragon-scale relief, no jewels.
+Placement: low at the back of Isolde's head, half-hidden in hair (same position as the silver bird hairpin — visual rhyme).
+States: handed to Isolde at EP49 / placed by Isolde herself the same day (queen by her own hand, not by Vael's giving).
 
-3.4 Veine Wedding Contract (torn halves)
-Owner: Veine court → torn on Drakonis Great Hall stone by Vael.
-Design: cream parchment, deep red wax seal of Veine, gold-trim border.
-Function: EP08-09 paywall — Vael tears it, declares Isolde his bride.
+3.4 Volzaar Throat Mark — Sera (CORE)
+Owner: Sera's throat (Volzaar house mark, forced display).
+Design: small red coiled flame brand, palm-of-a-hand wide.
+Function: Sera's visible house-failure marker through the full show; burned off by Vael at EP49 reckoning (the visual end of her house).
 
-3.5 Veine Six-Seal Letter (cathedral high court)
+3.5 Veine Six-Seal Letter — cathedral high court (CORE)
 Owner: Veine inner cathedral + old high court (no Adeline seal).
 Design: heavy parchment, six deep red wax seals (cathedral cross + four bishop seals + one high-court seal), no queen's mark.
-Function: EP42 — Vael burns it to ash with his fingertip on the hall floor.
+Function: EP41 — Vael burns it to ash with his fingertip on the hall floor, triggers the public 4 declarations (label reversal).
 
-3.6 Sera's Yard-Rag Note
-Owner: Sera → hidden under the lower stair rail before labor week → Kiran finds it after the EP48 cousin kill.
-Design: torn strip of Drakonis lower-yard stable cloth, brown-grey, three lines in Sera's hand: "Second push. Inner stair. House will not forget. — S."
-Function: EP49-EP50 evidence of Sera's assassination order.
-
-3.7 Volzaar Curved Knife
-Owner: younger Volzaar cousin (EP48 corpse) → Vael's hand on stage at EP50.
-Design: short curved Volzaar dagger, dark blade with dried blood, plain bone handle.
-Function: EP48 attempted assassination; EP50 evidence on the basalt at Sera's knees.
-
-3.8 Silver Crown of Drakonis Queen
-Owner: Drakonis keep treasury → Isolde from EP39.
-Design: small silver crown with subtle dragon-scale relief, no jewels.
-Placement: low at the back of Isolde's head, half-hidden in hair (same position as the silver bird hairpin).
-States: placed by Vael (EP39), removed by Vael (EP40 chamber), placed by Isolde herself (EP50 reckoning).
-
-3.9 Black Wood Lord's Chair (dais)
-Owner: Vael.
-Design: single carved black-wood chair on a low dais, no embellishment, no throne grandeur.
-
-3.10 Black Wood Queen's Chair (dais, silver inlay)
-Owner: Isolde (added at EP39 crown ceremony).
-Design: matching black-wood chair with subtle silver scale inlay on the back panel, set beside Vael's chair on the dais.
-
-3.11 Iron Plate (execution)
-Owner: Drakonis outer yard.
-Design: heavy black iron plate set into basalt, runic burn-marks at the edges.
-Function: EP21 Stepmother execution. Vael's palm reddens the plate; he steps back; she is forced onto the red plate.
-
-3.12 Council Envoy Sealed Letter
-Owner: dragon council → Drakonis envoy delivery.
-Design: heavy grey wax with no house mark, only council rank seal.
-Function: EP27 council formal demand. Returned with Vael's refusal.
-
-3.13 Volzaar Letter (Sera's outgoing letter)
-Owner: Sera (intercepted by Kiran at EP30).
-Design: cream parchment, red Volzaar wax flame seal, Sera's hand.
-Function: EP30 evidence; sent back to Sera on Vael's order and read aloud at EP32.
-
-3.14 Council Envoy Heads (three)
-Owner: ridge dragons → laid at Drakonis outer-yard steps.
-Design: three severed dragon-council elder heads, set in a row on the basalt steps.
-Function: EP30 S#2 visual statement of pack loyalty to Isolde.
-
-3.15 Heavy Black Robe (post-birth)
-Owner: Isolde EP50.
-Design: ankle-length black robe with controlled neckline, single Drakonis silver clasp at the shoulder.
-Function: EP50 S#1-S#2 reckoning hall wear.
-
-3.16 Mate-Bond Orange Shimmer
-Owner: Isolde + Vael (mate bond).
-Design: soft orange glow under Vael's palm on Isolde's belly, faint, not flame.
-Function: pregnancy confirmation moments (EP13, EP33, EP50 S#3).
-Forbidden: turning it into a fire VFX or a fertility symbol with overt iconography.
-
-3.17 Volzaar Throat Mark (Sera)
-Owner: Sera throat (Volzaar house mark, forced display from EP07).
-Design: small red coiled flame brand, palm-of-a-hand wide.
-Function: Sera's visible house failure marker; burned off by Vael at EP50 reckoning.
-
-3.18 Small Garden Pool with Pebbles
-Owner: Drakonis inner garden (Vael built it when Isolde was at cycle 8).
-Design: small round black basalt pool, gravel banks, scattered river pebbles.
-Function: EP33 first child-move beat; EP50 S#3 Mireille counting pebbles.
-
-3.19 Broken Stone Bird (lower-city well)
-Owner: lower-city Veine well stone.
-Design: weathered stone bird sculpture, one wing broken off, set above an old public well.
-Function: EP01 S#1 Vael's mother memory site; called back at EP13 hairpin reveal.
+Minor / Scene Production (no dedicated asset lock needed)
+Black bridal mirror (EP01 S#5 single use), Veine wedding contract halves (EP08-09), iron execution plate (EP21 single use), council envoy heads and sealed letters (EP27-EP30), Sera's yard-rag note (EP47-49 small evidence prop), Volzaar curved knife (EP47-EP49), black wood lord's chair and queen's chair (set dressing on the dais), heavy black post-birth robe (EP49), mate-bond orange shimmer (VFX overlay, not a prop), small garden pool with pebbles (EP33+ set dressing), broken stone bird at lower-city well (EP01 set dressing).
+Production may treat all of the above as scene-specific dressing; no continuity asset library is required for them.
 
 4. Backgrounds
 

@@ -1,4 +1,4 @@
-# THE OFFERING
+# THE OFFERING: Crowned by the Dragon Lord
 
 # THE OFFERING — EP01
 
@@ -257,7 +257,7 @@ Behind her, the court blurs into movement and whispers — out of focus, but lou
 
 She does not look down.
 
-She does not cry.
+Her eyes shine. She does not let the tear fall.
 
 She does not look confused.
 
@@ -714,7 +714,7 @@ She does not move.
 
 She has just seen what she came here to meet.
 
-She is not afraid.
+Fear crosses her face. Then something harder covers it.
 
 She is curious.
 
@@ -787,7 +787,7 @@ She is on Drakonis ground now. Alone.
 [END HOOK]
 The Drakonis gate closes behind her. Iron on stone.
 
-She does not flinch.
+She flinches once at the sound. Hates that her shoulders moved. Makes them still.
 
 ## S#2 — Drakonis Outer Yard. Continuous. Dusk.
 
@@ -1242,6 +1242,12 @@ He has not slept.
 
 Isolde wakes. Sees him. Does not sit up. Watches him.
 
+[VO — ISOLDE]
+He sat there all night. That man could not have. That man kicked the door shut behind us. That man did not let me leave the bed.
+
+[VISUAL/ACTION]
+She blinks the thought away.
+
 [DIALOGUE]
 ISOLDE: You did not sleep.
 VAEL: I did not.
@@ -1249,6 +1255,9 @@ ISOLDE: You sat in that chair all night.
 VAEL: I did.
 ISOLDE: Why.
 VAEL: Because if I didn't, I would have ended up in that bed.
+
+[VO — ISOLDE]
+That man would have ended up in the bed. This man sat in a chair. They are not the same man. They cannot be.
 
 [VISUAL/ACTION]
 She sits up. Slow. Pulls the cover up to her shoulders.
@@ -1282,6 +1291,9 @@ VAEL: Ask me again in a week.
 ISOLDE: That is not an answer.
 VAEL: It is the only one I will give you today.
 
+[VO — ISOLDE]
+A week. A week to lie to myself that this voice does not belong to him. A week to stop noticing how his hand opens the way a hand I already know opens.
+
 ---
 
 ## S#2 — Same Chamber. Continuous.
@@ -1289,7 +1301,14 @@ VAEL: It is the only one I will give you today.
 [VISUAL/ACTION]
 She gets out of the bed. Walks to him at the window. Stops one pace away.
 
-She lifts her hand. Touches his cheek. He does not flinch.
+She lifts her hand. Touches his cheek.
+
+He does not flinch.
+
+His hand catches her wrist before it falls. Does not let go.
+
+[VO — ISOLDE]
+He is colder than the man I remember. That is what I will keep telling myself.
 
 [DIALOGUE]
 ISOLDE: His face was different.
@@ -1317,9 +1336,12 @@ VAEL: Because if I tell you and someone hears it before this keep is ready, you 
 [VISUAL/ACTION]
 She drops her hand.
 
-She does not say anything.
+He lets her wrist fall.
 
 She walks back to the bed. Sits on the edge.
+
+[VO — ISOLDE]
+He held my wrist. The way that man held my wrist against the wall. No. Stop.
 
 [DIALOGUE]
 ISOLDE: A week.
@@ -1332,6 +1354,14 @@ VAEL: A week.
 [VISUAL/ACTION]
 Kiran enters. Brings a tray. Sets it on the chamber table.
 
+The tray — fresh white bread still warm at the crust, river fruit Isolde has not seen since Veine, warm honey in a small clay pot, two cheeses, water in a silver cup.
+
+It is better than her father's table on a festival day.
+
+Isolde notices.
+
+She does not say.
+
 [DIALOGUE]
 KIRAN: My lord. Sera has gone east.
 VAEL: How early.
@@ -1341,10 +1371,17 @@ KIRAN: To the council.
 VAEL: How long.
 KIRAN: Four days. Maybe three if they fly through the night.
 VAEL: Then four days.
+KIRAN: And the lower-yard matter, my lord.
+VAEL: Settled.
+KIRAN: Yes, my lord.
 
 [VISUAL/ACTION]
 Kiran goes.
 
+[VO — ISOLDE]
+He had Kiran bring fresh bread before I woke. He sat in a chair all night and arranged a tray. I will not thank him. He does not deserve thanks. He bought me.
+
+[VISUAL/ACTION]
 Vael turns to Isolde.
 
 [DIALOGUE]
@@ -1357,7 +1394,10 @@ VAEL: Four days.
 [VISUAL/ACTION]
 She nods. Stands. Walks to the chamber table. Looks at the food.
 
-She does not eat.
+She eats one piece of bread. Slow.
+
+[VO — ISOLDE]
+The bread is the best thing I have put in my mouth in two years. I will hate him for that too.
 
 [DIALOGUE]
 ISOLDE: One week is what you asked me for.
@@ -1366,12 +1406,37 @@ ISOLDE: I will give you four days. After that, you tell me.
 VAEL: ...
 ISOLDE: Four days, Vael. Or I do not stand beside you when the council comes.
 
-[END HOOK]
+[VISUAL/ACTION]
 He does not answer.
 
-She sits at the table and starts to eat.
+She finishes the bread.
 
 He watches her eat.
+
+[INTERCUT — Lower Yard. Pre-Dawn. Audience-Only.]
+
+A lower-yard guard who whispered "shorter than the rumor, and used" the night before. Slumped against the basalt wall. Throat opened clean. No blood on the stones around him — already washed.
+
+One ridge dragon in human form walks past without looking.
+
+[CUT BACK — Chamber.]
+
+Vael's right hand at his side. The knuckles split. A thin line of new dried blood at one finger. He keeps the hand turned away from her so she does not see.
+
+She sees.
+
+She says nothing.
+
+[VO — ISOLDE]
+He is not a man who comes home with new blood on his hand for no reason. He is not telling me what the lower-yard matter was. He is not going to tell me.
+
+[VO — ISOLDE]
+Then why does the bread taste like he wanted me to have it.
+
+[END HOOK]
+She drinks the water. Slow.
+
+He watches her drink it.
 
 Hard Cut.
 
@@ -1564,54 +1629,80 @@ Vael steps off the dais. Walks ten paces. Stops with his back to Isolde. Closes 
 
 For a long beat: nothing.
 
-Then his scales rise. Wrists. Forearms. Shoulders. His pupils slit when he opens his eyes. His right palm at his side glows faintly orange.
+Then the dragon shadow rises behind him on the wall — wide, slow, scaled, taller than the hall. It does not move when he moves. It watches the elders.
 
-The five elders see it. Confirm it among themselves with a glance.
+Hall ripple. Two of the house heads in the back step back without meaning to. One of the elders' hands closes on the staff he carries.
 
 [DIALOGUE]
-ELDER: ... That is not a bride. That is a mate.
+ELDER: Put it down.
+VAEL: Look at her first.
 
 [VISUAL/ACTION]
-Hall ripple — sharper this time.
+The dragon shadow on the wall turns its head. Toward Isolde.
 
-Vael does not deny it.
+The elders look.
 
-He walks back to the dais. Sits.
+They do not say what they see. They look at each other instead.
+
+The shadow stays one beat longer. Then folds back into the wall.
+
+Vael opens his eyes.
 
 [DIALOGUE]
-VAEL: Mate, then. The keep recognizes.
-ELDER: The keep is yours to recognize. The matter is between your blood and ours.
-VAEL: Then be quick.
+ELDER: ... We have not given a name to what you just showed us.
+VAEL: I did not ask you to.
+ELDER: The bride question stands.
+VAEL: The bride question is mine. Stand and answer the part that is yours.
 ELDER: She is human.
 VAEL: I had noticed.
 ELDER: There is no precedent for this.
 VAEL: There is one now.
+
+[VISUAL/ACTION]
+He walks back to the dais. Sits.
+
+[VO — ISOLDE]
+He did not let them name it. He showed them his shadow and let them keep the word inside their teeth. He is hiding it from them. He is hiding it from me. He is hiding it from the keep. He is hiding it from himself.
 
 ---
 
 ## S#3 — Continuous.
 
 [VISUAL/ACTION]
-Isolde steps forward beside Vael. The elders turn.
+Isolde steps forward beside Vael. Half a step. No more. She does not lift her chin.
+
+[VO — ISOLDE]
+He told me to stand. He did not tell me to claim anything. I will not. I cannot. I do not even know what he is yet.
 
 [DIALOGUE]
 ISOLDE: My lords.
 ELDER: My lady.
-ISOLDE: I will answer the part of this that concerns me, because the rest is yours.
-ELDER: Speak.
-ISOLDE: I am the bastard daughter of King Aldric of Veine, born of a serving woman the king favored briefly. I have no court rank in my own kingdom. I was sent here as tribute after my own wedding mirror turned black before the court of Veine one month ago. I am damaged goods by every measure your council values.
-ELDER: ...
-ISOLDE: But I am here. And I am his. And he is mine. Decide what you will. But do not ask me to undo what you cannot undo.
+ISOLDE: You did not come here to hear me speak.
+ELDER: We did not.
+ISOLDE: Then I will say one thing only.
 
 [VISUAL/ACTION]
-The elders look at each other.
+She does not look at Vael. Eyes on the elder at the center.
+
+[DIALOGUE]
+ISOLDE: I am the bastard daughter of King Aldric of Veine, born of a serving woman the king favored briefly. I have no court rank in my own kingdom. I was sent here as tribute. My wedding mirror in Veine turned black before the court one month ago. I am damaged goods by every measure your council values.
+ELDER: ...
+ISOLDE: Decide what you decide. I have nothing to add to it.
+
+[VISUAL/ACTION]
+She steps back. Half a step.
+
+The elders look at each other. Two of them almost smile — they expected a claim and did not get one.
 
 [DIALOGUE]
 ELDER: We will withdraw to deliberate.
-ISOLDE: Take your time. But understand. Whatever you decide, I am not leaving this keep.
+VAEL: Withdraw.
 
 [VISUAL/ACTION]
 The five elders walk out.
+
+[VO — ISOLDE]
+I did not give them the word they wanted. I did not give him the word he wanted either. I gave none of them anything. That is the only thing in this hall that is still mine.
 
 [KEY CAMERA]
 Vael's hand finds Isolde's at her side. Once. Holds. Audience-only.
@@ -1628,7 +1719,7 @@ Hard Cut.
 [VISUAL/ACTION]
 The council has not returned. Three hours past sundown.
 
-Vael at the desk. Isolde at the slit window.
+Chamber. One candle. Vael at the desk. Isolde at the slit window.
 
 [DIALOGUE]
 ISOLDE: They will say no.
@@ -1648,145 +1739,90 @@ ISOLDE: Already on the way.
 VAEL: Already on the way.
 
 [VISUAL/ACTION]
-She walks to him. Stops beside the desk.
+She walks to the desk. Stops behind him.
+
+He has been holding something under the desktop. He closes his fist around it before she comes far enough to see.
+
+[VO — ISOLDE]
+He hid it. Again. Every time I get close enough to look, he hides something.
 
 [DIALOGUE]
-ISOLDE: It is the fourth day, Vael. Tell me.
-VAEL: ...
-ISOLDE: Tell me.
+ISOLDE: What is in your hand.
+VAEL: Tomorrow.
+ISOLDE: Every question is tomorrow.
+VAEL: Every question that gets you killed if I answer it tonight.
 
 [VISUAL/ACTION]
-He stands. Walks to the chamber chest at the foot of the bed. Opens it. Takes out a small object wrapped in dark silk.
+She does not press it. Tonight.
 
-He brings it to her. Sets it on the desk in front of her.
+[VO — ISOLDE]
+A man who will not name a thing in his hand is a man who knows the name will burn his hall down. He hides it well. He is still afraid.
 
-She unwraps it.
+[DIALOGUE]
+ISOLDE: It is the fourth day.
+VAEL: It is.
+ISOLDE: After tonight, I do not stand beside you in that hall again until you answer one of them.
+VAEL: I know.
 
-A silver hair pin. Bent. The head — a small carved bird.
+[VISUAL/ACTION]
+She walks to the bed. Sits on the edge.
 
-She knows the pin. She wore it that night.
-
-The carved bird matches the broken stone bird above the lower-city well.
-
-[KEY CAMERA]
-The pin in her hand. Slow push.
+He stays at the desk. His fist stays closed.
 
 ---
 
-## S#2 — Same. Continuous.
+## S#2 — Drakonis Keep. Outer Corridor. Same Night. Audience-Only.
 
 [VISUAL/ACTION]
-She does not look up from the pin.
+Lower corridor outside the chamber wing. Two figures in dark cloth — Sera's house mark torn off the shoulder — moving along the wall.
 
-[DIALOGUE]
-ISOLDE: You.
-VAEL: Me.
-ISOLDE: At the festival.
-VAEL: At the festival.
-ISOLDE: One month ago.
-VAEL: One month ago.
-ISOLDE: With a different face.
-VAEL: With a different face. Same hands. Same voice. Same heart.
+Not assassins. Message carriers. One folded paper between them.
 
-[VISUAL/ACTION]
-She closes her hand around the pin.
+They reach a stair rail. Tuck the paper under the stone.
 
-[DIALOGUE]
-ISOLDE: You let me leave that morning.
-VAEL: You left before I woke.
-ISOLDE: You did not look for me.
-VAEL: I have been looking for you for a month.
-ISOLDE: Quietly.
-VAEL: Loudly means dead.
+They do not finish walking out.
 
-[VISUAL/ACTION]
-She does not cry. Looks at the pin. Then at him.
+Two ridge dragons in human form drop from the corridor lintel above. Take the two without sound.
 
-[DIALOGUE]
-ISOLDE: Why were you there.
-VAEL: I go to the lower city every year on that night.
-ISOLDE: Why.
-VAEL: My mother left that pin there once. I still go back.
-ISOLDE: Your mother.
-VAEL: My mother was named mate by the old lord in front of his court. Enemies killed her three nights later in a public hall. I was six. I saw it.
-ISOLDE: So you will not name me.
-VAEL: I named you today. The elders called it before I had to.
-ISOLDE: And now they will come for me.
-VAEL: Yes.
+A ridge dragon pulls the folded paper from under the rail. Reads. Tucks it into his belt. Does not bring it to the chamber.
 
-[VISUAL/ACTION]
-She opens her hand. Looks at the pin again.
-
-[DIALOGUE]
-ISOLDE: And me?
-VAEL: You were not why I went.
-VAEL: You were why I stayed.
-ISOLDE: When did you know.
-VAEL: The moment I saw you across the square.
-ISOLDE: Before the glamour came off.
-VAEL: Before anything came off.
+The bodies are gone before dawn. No blood remains on the stones.
 
 ---
 
-## S#3 — Same. Continuous.
+## S#3 — Vael's Chamber. Pre-Dawn.
 
 [VISUAL/ACTION]
-She stands. Walks to the bed. Sits on the edge.
+Isolde wakes. The bed beside her empty. Vael at the desk again.
 
-He stays at the desk.
+A new line of dried blood at the back of his right hand. Over the scale.
 
-[DIALOGUE]
-ISOLDE: One question.
-VAEL: Ask.
-ISOLDE: The child. If there is one. Was it before you knew, or after.
-VAEL: ...
-ISOLDE: Vael.
-VAEL: Is there one.
+[VO — ISOLDE]
+He went out and came back. He always goes out and comes back with a new line on his hand. He thinks I do not see.
 
 [VISUAL/ACTION]
-She does not answer immediately.
+She closes her eyes. Pretends to sleep.
 
-Then.
+He looks over his shoulder at her. He knows she is not asleep.
 
-[DIALOGUE]
-ISOLDE: I have not bled since the festival.
+He turns the bloodied hand away from the candle.
 
-[VISUAL/ACTION]
-Vael does not move for a long beat. His hand on the desk closes once. Opens.
+He does not come to the bed.
 
-Then he crosses the room. Slow. Three paces. Stops in front of her.
+[VO — ISOLDE]
+He will not come to the bed. He will not name what he hides. He will not answer about the festival. He breaks wrists when other men look at me. He has Kiran bring fresh bread before I wake. He sat in a chair so he would not put a hand on me.
 
-He goes down on one knee — not formal, not careful. Heavy. His coat falls open at the chest.
-
-He lifts his hand toward her gown. Stops. Looks at her face. Waits.
-
-She nods once. Smallest movement.
-
-He puts his palm — flat, fingers spread — low on her belly through the gown. His scaled fingertips just visible at the edge of his sleeve.
-
-His palm glows faintly orange. Audience-only. The orange under his hand spreads in a slow ring, half the size of his palm, then settles.
-
-He does not breathe.
-
-[KEY CAMERA]
-Tight on his hand on her belly. The orange glow steady. Her hand on the bed at her side, not on his.
-
-[DIALOGUE]
-VAEL (low, almost to himself): There is one.
-ISOLDE: You can tell.
-VAEL: I can tell.
-
-[VISUAL/ACTION]
-She moves her hand from the bed. Slow. Puts it over his.
-
-[DIALOGUE]
-ISOLDE: Then the council problem is twice as big as you said.
-VAEL: Twice as big.
+[VO — ISOLDE]
+I should hate him for any one of those. I cannot decide which one. So I hate all of them at once. So I hate that I cannot stop watching him from the bed.
 
 [END HOOK]
-He does not move his palm.
+Outside the chamber — a sound at the balcony. Small. Wrong.
 
-She does not move her hand.
+Vael's eyes go to the balcony door before her ear catches the sound.
+
+His hand goes to the knife on the desk.
+
+He does not wake her.
 
 Hard Cut.
 
@@ -1794,10 +1830,78 @@ Hard Cut.
 
 # THE OFFERING — EP14
 
-## S#1 — Great Hall. Morning.
+## S#1 — Vael's Chamber. Continuous from EP13.
 
 [VISUAL/ACTION]
-The five elders return. Hall full. House heads. Sera at the back — she has returned overnight. She does not look at Isolde.
+The balcony door opens slow.
+
+A figure slips in. Black cloth head to wrist. Curved knife.
+
+Isolde in the bed. Eyes closed. She has not heard.
+
+The figure moves for the bed.
+
+At three paces — Vael does not lift a hand. He does not stand from the desk.
+
+He says one word.
+
+[DIALOGUE]
+VAEL: Down.
+
+[VISUAL/ACTION]
+The figure's knees give before his brain registers the order. He hits the chamber floor hard. The curved knife slides from his hand across the stone.
+
+Isolde's eyes open at the sound.
+
+She does not sit up.
+
+[VO — ISOLDE]
+He brought a man to his knees with one word and did not even leave his chair.
+
+[VISUAL/ACTION]
+Vael stands now. Walks to the figure. Lifts him by the throat off the floor. The figure cannot lift his arms.
+
+[DIALOGUE]
+VAEL (low): Who paid.
+ASSASSIN (choking): The east elders. They voted before they came back.
+VAEL: Names.
+ASSASSIN: I — I don't —
+VAEL: One name.
+ASSASSIN: Volmir.
+VAEL: That will do.
+
+[VISUAL/ACTION]
+Vael's hand at the throat closes. One short crack.
+
+He drops the body.
+
+Kiran is already at the chamber door. Did not need to be called.
+
+[DIALOGUE]
+VAEL: Take it. The lower yard. Out before sunrise.
+KIRAN: Yes, my lord.
+
+[VISUAL/ACTION]
+The body goes. The knife stays on the floor.
+
+Vael turns to Isolde. She is sitting up now. Cover at her shoulders. Hair down.
+
+[DIALOGUE]
+VAEL: Did the door wake you.
+ISOLDE: His knees did.
+VAEL: ...
+ISOLDE: You did not raise your voice.
+VAEL: He did not deserve volume.
+
+[VO — ISOLDE]
+He killed a man in my chamber and did not change the angle of his shoulders. He used the same voice he uses to ask whether I will eat. He is not afraid of any of it. The only thing he hides from me is what is in his fist.
+
+---
+
+## S#2 — Great Hall. Morning.
+
+[VISUAL/ACTION]
+The five elders return. Hall full. House heads. Sera at the back — returned overnight. She does not look at Isolde.
 
 The dais.
 
@@ -1812,113 +1916,98 @@ VAEL: Then I am in defiance.
 [VISUAL/ACTION]
 Hall ripple.
 
-Isolde steps forward beside Vael.
+Vael does not raise his voice. He lifts his right hand. Opens it. Empty.
 
 [DIALOGUE]
-ISOLDE: My lords. One more piece of information before you withdraw a second time.
-ELDER: My lady.
-ISOLDE: I am carrying the heir of Drakonis Keep.
+VAEL: There was a knife in my chamber three hours ago. My lady was in the bed. The hand on the knife gave me one name before I closed his throat.
 
 [VISUAL/ACTION]
-The hall goes still.
+He looks at the elder at the right end of the row.
 
 [DIALOGUE]
-ELDER: That is not possible. You arrived one week ago.
-ISOLDE: It is possible. The festival was one month ago. You can examine that if you like, but you will not be escorting the carrier of his heir anywhere east of this wall.
+VAEL: Volmir.
 
 [VISUAL/ACTION]
-The five elders look at each other.
+The named elder — Volmir — does not look up.
 
-Sera at the back of the hall — her hand has gone to her own throat where her house mark sits.
+The four other elders do not look at him.
 
 [DIALOGUE]
+VAEL: Withdraw further. Take Volmir's seat with you. Leave him.
 ELDER (after a long beat): ... We will withdraw further.
-ISOLDE: Take your time. I am tired. And carrying.
+
+[VISUAL/ACTION]
+Isolde steps forward beside Vael. Half a step. No more.
+
+[VO — ISOLDE]
+He just used the only card I had left. He used it for me. I came in here ready to stand and name myself his — out loud, in front of the keep, without his consent. That would have ended the council debate. He spent his card so I would not have to spend mine.
+
+[DIALOGUE]
+ISOLDE: My lords. You heard the lord. Withdraw. Volmir stays.
+VOLMIR: My lady, I —
+ISOLDE: You stay until my lord decides what your hand is worth.
+
+[VISUAL/ACTION]
+Volmir's house mates do not look at him. The four other elders walk out without him.
+
+Sera at the back of the hall — her hand goes to her own throat where her house mark sits. She closes the hand around the mark.
+
+[KEY CAMERA]
+Wide. Volmir alone in the center of the hall. Vael and Isolde on the dais. Sera at the back with a hand at her throat.
 
 ---
 
-## S#2 — Vael's Chamber. Same Day. Afternoon.
+## S#3 — Vael's Chamber. Same Day. Afternoon.
 
 [VISUAL/ACTION]
 Isolde on the bed. Vael at the slit window. Both quiet.
 
 [DIALOGUE]
-VAEL: You told the hall.
-ISOLDE: I did.
-VAEL: That was the second card.
-ISOLDE: That was the last card.
+VAEL: You did not play your card.
+ISOLDE: You played mine for me.
 VAEL: ...
-ISOLDE: Was I wrong.
-VAEL: No.
-ISOLDE: Then stop looking out the window like you are calculating which of the elders to kill first.
-VAEL: I am calculating which of the elders to kill first.
-ISOLDE: Vael.
-VAEL: I am also calculating which window the next assassin will come through.
+ISOLDE: Why.
+VAEL: Once you say it out loud, every house south of here has a reason to come through that balcony. The assassin gave me a reason I could use first.
+ISOLDE: You wanted me to keep the secret longer.
+VAEL: I wanted the keep to keep you alive longer.
 
 [VISUAL/ACTION]
-She gets up. Walks to him at the window. Puts her hand on his back.
+She gets up. Walks to him at the window. Puts her hand flat between his shoulder blades.
+
+He does not turn.
 
 [DIALOGUE]
 ISOLDE: You sat in that chair our first night because you were afraid you would not be able to stop yourself.
 VAEL: Yes.
 ISOLDE: Sit on the bed tonight.
 VAEL: ...
-ISOLDE: I have already been with you. I am already carrying. There is nothing left for you to ruin by being in the bed.
-VAEL: ...
-ISOLDE: Sit on the bed.
-
----
-
-## S#3 — Same. Night.
+ISOLDE: I am already in your chamber. I am already in your hall. There is nothing left for you to ruin by being in the bed.
+VAEL: There is one thing.
+ISOLDE: What.
+VAEL: What I have not told you.
 
 [VISUAL/ACTION]
-He sits on the edge of the bed. She sits beside him. Long quiet.
+She does not answer.
 
-She finally asks the question that has been waiting since EP13.
+She lifts his right hand. Turns it palm up. Looks at the new split knuckles over the scale.
 
-[DIALOGUE]
-ISOLDE: How long.
-VAEL: How long until what.
-ISOLDE: Until she is born. Halren has not spoken to me yet. You have not told me.
-VAEL: ...
-ISOLDE: Vael.
-VAEL: Twenty cycles.
-ISOLDE: That is not human.
-VAEL: No. Dragon cycles. Halren will count them.
-ISOLDE: How long has Halren known.
-VAEL: Since I told her the day you arrived in this keep.
-ISOLDE: The day I arrived I was not — I had not even bled yet — I did not know —
-VAEL: I knew.
-ISOLDE: From the first night.
-VAEL: From the first night. The bond shows. The body shows after the tenth cycle.
+She does not kiss it.
 
-[VISUAL/ACTION]
-She breathes once. Out. Slow.
+She lifts it to her cheek instead. Presses it there for one beat. Lets it fall.
 
-[DIALOGUE]
-ISOLDE: So this is not almost over.
-VAEL: Not even close.
-ISOLDE: Council. Being hunted. Carrying her.
-VAEL: Yes.
-ISOLDE: With a flat stomach for most of it.
-VAEL: For more than most. You show late.
-ISOLDE: ...
-VAEL: That is the dragon part of being a dragon's mate. It lasts longer. You show later. We guard harder.
-ISOLDE: Then we have a long fight.
-VAEL: We do.
+She walks back to the bed.
 
-[VISUAL/ACTION]
-She does not lie down. He does not either. They stay sitting on the edge of the bed. The chamber dark around them.
-
-They sit awake in the dark.
-
-[VISUAL/ACTION]
-Hours later. She has fallen asleep against his shoulder. He has not.
+[VO — ISOLDE]
+I put his bloodied hand on my cheek. I did not mean to. I will think about why later. I will not think about it tonight.
 
 [END HOOK]
-Outside the chamber — a sound at the balcony. Small. Wrong.
+He stays at the window.
 
-Vael's eyes open. His hand on her stomach stays gentle. His other hand goes to the knife on the bedside.
+She lies down on top of the cover. Does not pull the blanket.
+
+She does not sleep.
+
+He does not sleep.
 
 Hard Cut.
 
@@ -1926,99 +2015,182 @@ Hard Cut.
 
 # THE OFFERING — EP15
 
-## S#1 — Vael's Chamber. Continuous from EP14.
+## S#1 — Drakonis Keep. Outer Yard. Dawn.
 
 [VISUAL/ACTION]
-The balcony door opens slow.
+Volmir on his knees in the basalt yard. Stripped of his elder coat. Two ridge dragons holding his wrists out flat against the iron plate set into the stone.
 
-A figure slips in. Black cloth from head to wrist. Curved knife.
+Vael walks across the yard alone. The other four elders departed in the night — fast — without their fifth.
 
-The figure moves for the bed.
+The yard is full. House heads at the upper walls. Sera at the side terrace, hand at her throat where the Volzaar mark sits.
 
-Vael is up before the figure has crossed three paces. Knife in his hand. He catches the figure's wrist mid-thrust. Twists. Bone snaps. Knife drops.
-
-He grabs the figure by the throat. Lifts him off the floor.
+Kiran at the lower step. Isolde not in the yard. Not invited.
 
 [DIALOGUE]
-VAEL (low): Who paid.
-ASSASSIN (choking): The east elders. They paid. They voted before they came back.
-VAEL: Names.
-ASSASSIN: I — I don't —
+VAEL (to Volmir): You paid a hand to come through my balcony.
+VOLMIR: My lord, the council voted —
+VAEL: The council did not vote. You wrote a name on a bag of coin and sent it through my wall before the council sat.
+VOLMIR: ...
+VAEL: One hand or both.
 
 [VISUAL/ACTION]
-Vael's hand closes. Snap. He drops the body.
+Volmir does not answer.
 
-Isolde sitting up in the bed. Hand on her belly. Did not scream.
+Vael's right palm goes red — not flame, just heat coming off the scale. He lowers his palm onto the iron plate by Volmir's right wrist. The plate goes red under his palm.
 
 [DIALOGUE]
-VAEL (without turning): All right?
-ISOLDE: All right.
+VAEL: Choose, old man. Or I will.
+
+[VISUAL/ACTION]
+Long beat.
+
+[DIALOGUE]
+VOLMIR (low): One.
+
+[VISUAL/ACTION]
+Vael lifts his palm. Steps back.
+
+The ridge dragon at Volmir's right pushes Volmir's right wrist down onto the heated plate. The smell goes through the yard before the sound does.
+
+[KEY CAMERA]
+Sera's hand closes on her own mark at her throat.
+
+Vael does not watch. He is already walking back toward the keep.
+
+[DIALOGUE]
+VAEL (to Kiran, without turning): Send him east on a wagon. Alive. Empty sleeve forward. The other four will see what cost the bag of coin.
 
 ---
 
-## S#2 — Same. Pre-Dawn.
+## S#2 — Vael's Chamber. Late Morning.
 
 [VISUAL/ACTION]
-Kiran has come in. The body has been removed. The balcony has been re-locked. Four men outside the chamber door now, instead of two.
+Isolde at the slit window when Vael comes in. She did not go to the yard. She does not ask what happened.
 
-Vael sits on the bed beside Isolde. Hand on her belly.
+Vael at the basin. Washes his right hand. The water in the basin turns pink.
+
+[VO — ISOLDE]
+He came in with someone else's burn on his palm. He will not say whose. He never says whose. He never has to.
+
+[VISUAL/ACTION]
+She walks to him at the basin. Stops one pace away. Watches him wash.
 
 [DIALOGUE]
-VAEL: Tomorrow I name you mate publicly. In front of the elders. Before they can vote again.
-ISOLDE: That will trigger them.
-VAEL: They are already triggered. The assassin came before the second vote even sat. They are not going to vote. They are going to send the next assassin.
-ISOLDE: Then trigger them in front of the keep so the keep chooses.
-VAEL: That is what I am doing.
+ISOLDE: Volmir.
+VAEL: Yes.
+ISOLDE: One hand.
+VAEL: He chose one.
+ISOLDE: Why not both.
+VAEL: Because I want the other four elders to look at a one-handed man and ask whether the next bag of coin is worth two.
 
 [VISUAL/ACTION]
-She nods.
+Her hand grips the basin edge. White at the knuckle. She does not let go.
+
+[VO — ISOLDE]
+He hides nothing from himself. Only from me. Only from the council. Only from this keep. He knows exactly what he is doing.
+
+[DIALOGUE]
+ISOLDE: That man at the festival.
+VAEL: I cannot —
+ISOLDE: I am not asking. I am telling you what I am doing today. I am going to sit in your chamber and write down every reason that voice was not yours. By tonight I will have a list. I will read the list to you. You will not have to answer.
+VAEL: ... Why.
+ISOLDE: Because I cannot stop thinking it is you. And I need to give myself a reason it is not.
+
+[VISUAL/ACTION]
+He looks at her. Long.
+
+He does not deny it.
+
+He does not confirm it.
+
+He lifts his clean left hand. Sets two fingers against the inside of her wrist. Holds.
+
+[KEY CAMERA]
+His fingers on her pulse. Her pulse goes up under his touch.
+
+She sees it on his face — that he felt it.
+
+She pulls her wrist back.
+
+[VO — ISOLDE]
+He felt my pulse jump. He knows. He will not say. I will not say either.
 
 ---
 
-## S#3 — Great Hall. Morning.
+## S#3 — Drakonis Keep. Corridor Outside the Chamber. Sundown. Audience-Only.
 
 [VISUAL/ACTION]
-Full court. The five elders. Sera at the back — she has not slept.
+Sera walking the upper corridor toward the chamber wing. Two of her remaining house mates with her.
 
-Vael on the dais. Isolde at his right.
+Vael steps out of a side doorway in front of her. Alone. Did not come from the chamber. Has been waiting.
 
-He does not wait for the elders to speak.
+The two house mates stop. Sera does not.
 
 [DIALOGUE]
-VAEL: I name her my mate. The keep recognizes her child as my heir. The council's escort offer is refused. The next assassin sent to this keep — by your council, by your houses, or by any party operating under your colors — will be answered with my fire on your roof.
+SERA: My lord.
+VAEL: Where.
+SERA: My lord?
+VAEL: Where are you going at this hour, in this corridor, with two of your house at your shoulder.
+SERA: ... I came to ask after the lady.
+VAEL: You did not.
+SERA: My lord —
+VAEL: You came to find out which door her chamber sits behind. You will not find out tonight. You will not find out next week. You will not find out before she tells you herself.
 
 [VISUAL/ACTION]
-Half the dragons in the hall go to one knee.
+He steps close. Slower than her breath.
 
-The elders walk out — fast. Three of them. Two stay one beat longer. Look at Isolde. One of those two bows. The other does not.
+Dragon shadow on the corridor wall behind him — small, but visible — flickers once.
+
+Sera's two house mates step back a full pace without meaning to.
 
 [DIALOGUE]
-SERA (from the back, loud): My lord.
-VAEL (without turning to her): You stay or you go.
-SERA (after a long beat): I stay.
-VAEL: Then you swear to her. Now.
+VAEL (very low, only for Sera): You looked at her in the yard at dawn as if you were measuring what you might still inherit. Sera. Listen. The day you raise a finger against her, your house mark on your throat goes black under my palm. The day you raise a word against her in this keep, your tongue stops working for a week. Test either and you will not need a third test.
 
 [VISUAL/ACTION]
-Sera walks the length of the hall. Stops at the foot of the dais. Slow. Kneels.
+Sera's hand goes to her own throat. The Volzaar mark. He saw the gesture.
+
+He lifts his right hand toward it. Does not touch it. Holds his open palm one finger's width from her throat.
 
 [DIALOGUE]
-SERA: My queen.
-ISOLDE: Not queen yet. Mate is enough today.
+VAEL: I could redden this. Right now. In this corridor. In front of your house.
 
 [VISUAL/ACTION]
-Sera stays kneeling.
+Sera does not breathe.
+
+He lets the hand fall.
 
 [DIALOGUE]
-ISOLDE: Stand up. I do not trust you. But I will let you stay.
+VAEL: Go back to your wing. Take the long corridor. Not this one.
+
+[VISUAL/ACTION]
+Sera goes. Fast. The two house mates after her. Neither looks back.
+
+Vael waits in the corridor until they are gone. Adjusts his cuff. Walks back into the chamber.
+
+[KEY CAMERA]
+Inside the chamber — Isolde at the desk. A short list in her hand. She did not hear any of it.
+
+She does not look up when he comes in.
 
 [END HOOK]
-The hall goes quiet.
+She reads from the list.
 
-Sera stands.
+[DIALOGUE]
+ISOLDE: One. That man's hands were warmer. Two. That man's voice was lower at the end of a word. Three. That man did not let go of me when I asked. You let go of my wrist this morning. Four —
 
-The keep is split. Half kneeling. Half standing. Half watching to see which way the wind blows.
+[VISUAL/ACTION]
+Vael walks to the desk. Sets his left hand over hers — over the list.
 
-Vael's hand finds Isolde's at her side.
+[DIALOGUE]
+VAEL: Do not finish the list tonight.
+ISOLDE: Why.
+VAEL: Because tomorrow you will see something that makes you tear it up.
+
+[VISUAL/ACTION]
+She lets him keep his hand on hers.
+
+[VO — ISOLDE]
+He did not deny one of them. He did not confirm one of them. He told me to stop counting. I want to stop counting. I will not stop counting.
 
 Hard Cut.
 
@@ -2026,52 +2198,61 @@ Hard Cut.
 
 # THE OFFERING — EP16
 
-## S#1 — Vael's Chamber. Morning After.
+## S#1 — Drakonis Keep. Vael's Desk. Morning.
 
 [VISUAL/ACTION]
-The next morning. The council is gone. Sera is in the keep but quiet.
+A sealed parchment on the desk. Council mark — five elder seals. One seal of the five is broken — Volmir's. The remaining four pressed cleanly into the wax.
 
-Isolde on the bed. Vael beside her. Hand on her belly.
+Vael at the desk. Isolde at his shoulder.
+
+He breaks the four seals with the back of his thumbnail.
 
 [DIALOGUE]
-ISOLDE: We have a season.
-VAEL: We have a season.
-ISOLDE: Before they come back.
-VAEL: With more.
-ISOLDE: Then we use the season.
-VAEL: For what.
-ISOLDE: To decide who gets near this room. And who gets near her.
+VAEL (reading): The council formally refuses to recognize the human as mate. The council formally requires the human to be presented for examination at the eastern temple before the next moon. The council formally warns the keep that further defiance will be answered by withdrawal of common air rights over the eastern range.
 
 [VISUAL/ACTION]
-He looks at her.
+He sets the letter down.
 
 [DIALOGUE]
-VAEL: You ran half the hall yesterday by yourself.
-ISOLDE: I ran what was mine. The rest is yours. Teach me.
-VAEL: Why.
-ISOLDE: Because if you are killed before the child is grown, the keep will not survive a stranger in your chair.
+ISOLDE: Air rights.
+VAEL: We fly over the eastern range to hunt. They are saying we cannot, now.
+ISOLDE: How much of your keep eats from the eastern range.
+VAEL: Half.
 
 [VISUAL/ACTION]
-He does not argue.
+She looks at the four seals.
+
+[VO — ISOLDE]
+They are starving him. Because of me. Because he will not give me to them. He is going to lose half of what feeds this keep so I can stay in this chamber. I should leave. I should walk out the gate tonight and ride east before he loses any more.
+
+[VISUAL/ACTION]
+She does not say it.
 
 [DIALOGUE]
-ISOLDE: I need to know every door to this room.
-VAEL: You will.
-ISOLDE: Every man who brings food.
-VAEL: Kiran will list them.
-ISOLDE: Every hand allowed near me. Every hand allowed near the child.
-VAEL: You decide the list. No name goes on without your word.
-ISOLDE: Start today.
-VAEL: Today.
+VAEL: Do not.
+ISOLDE: I did not say anything.
+VAEL: You were going to. Do not.
+ISOLDE: How do you know what I was going to say.
+VAEL: Because I would have said it in your chair.
+
+[VISUAL/ACTION]
+He takes the letter. Crosses to the hearth. Drops the parchment into the low fire.
+
+The four wax seals melt into one dark pool on the stone.
+
+[DIALOGUE]
+VAEL: The council will eat what we hunt. From now on.
+ISOLDE: That is not refusing the air rights. That is starting a war.
+VAEL: They started it. I am finishing the sentence.
 
 ---
 
 ## S#2 — Great Hall. Afternoon.
 
 [VISUAL/ACTION]
-Vael at the dais. Isolde at his right — small but unmistakable beside the black throne.
+Vael at the dais. Isolde at his right — small but unmistakable beside the black chair.
 
-A foreign dragon visitor at the foot of the dais. Tall. House mark she does not recognize. Just arrived from the south. He has not bowed.
+A foreign dragon visitor at the foot of the dais. Tall. South-coast house mark — she does not recognize it. He has not bowed.
 
 He looks past Isolde at Vael.
 
@@ -2092,66 +2273,101 @@ VISITOR: My lord, the human girl —
 [VISUAL/ACTION]
 Vael stands.
 
-The visitor does not realize what he has done until Vael is already crossing the hall toward him.
+The dragon shadow on the back wall of the hall behind him rises slow. Wider than the hall. The visitor sees it on the wall before he sees Vael coming for him.
 
-Vael does not raise his voice.
+The visitor goes white.
+
+Vael does not raise his voice. He says one word.
 
 [DIALOGUE]
-VAEL: She is the lady of this keep. The mother of my heir. You will kneel and ask her forgiveness or you will not leave this hall standing.
+VAEL: Down.
 
 [VISUAL/ACTION]
-The visitor looks at Isolde. The small one. Her hand is on the carved arm of her chair. Her face has not changed.
+The visitor's knees give before his brain registers the order. He is on his knees on the basalt floor of the hall.
 
-He drops to one knee. Fast.
+Vael walks the length of the dais. Stops two paces in front of him.
 
 [DIALOGUE]
-VISITOR: My lady. Forgive me. I had not been told.
-ISOLDE: Now you have been told. Stand. The wine will be brought to you by whoever I send. You will drink it and you will be quick about your business and you will leave my hall before sundown.
+VAEL: She is the lady of this keep. You will not call her the small one. You will not look past her. You will not breathe in her hall before you have learned her name and used it.
+
+[VISUAL/ACTION]
+The visitor cannot lift his head.
+
+[DIALOGUE]
+VAEL: Her name.
+VISITOR: ... My lady. Lady Isolde of Drakonis. Forgive me. I had not been told.
+ISOLDE: Now you have been told. Stand. The wine will be brought by whoever I send. You will drink it. You will be quick about your business. You will leave my hall before sundown. And the next house from the south coast that sends a man to my dais will send one who already knows my name before he crosses the gate.
 VISITOR: Yes, my lady.
 
 [VISUAL/ACTION]
-Vael returns to the dais. Stands beside her chair. Does not sit down again. His hand rests on the back of her chair — near her hair.
+Vael returns to the dais. Stands behind her chair. Does not sit. His hand rests on the carved back of her chair — near her hair. He does not touch her hair.
+
+The visitor stays kneeling until Isolde nods. Then stands. Walks fast.
 
 [KEY CAMERA]
-Vael's hand at the back of her chair. The kneeling visitor's bowed head. Isolde looking past him at the door.
+Vael's hand on the chair back. Isolde looking straight ahead. Sera at the side terrace — watching them both with no expression.
+
+[VO — ISOLDE]
+He brought a grown dragon man to his knees with one word for using the wrong name. For me. I am supposed to find this terrifying. I am supposed to be afraid of a man who can do that with his voice. I am supposed to want to leave. I am not leaving.
 
 ---
 
 ## S#3 — Vael's Chamber. Night.
 
 [VISUAL/ACTION]
-Bed. Hand on her belly. Both quiet.
+Hearth low. Isolde at the basin washing her face. Vael at the chair by the desk — not the chair he sat in the first night. He has been moving the chair closer to the bed every night, one finger at a time. Tonight it is three paces from the bed.
+
+She finishes washing. Walks past the chair to the bed. Stops by him.
 
 [DIALOGUE]
-ISOLDE: I want her name.
-VAEL: Whose.
-ISOLDE: Our daughter. I want her name.
-VAEL: How do you know it is a girl.
-ISOLDE: I know.
-VAEL: All right.
-ISOLDE: Mireille.
-VAEL: Your mother.
-ISOLDE: My mother.
-VAEL: ... Mireille.
+ISOLDE: You have moved the chair.
+VAEL: I have.
+ISOLDE: Every night.
+VAEL: Every night.
+ISOLDE: Why.
+VAEL: Because every night I tell myself I will not move it. Every morning it is closer to the bed.
 
 [VISUAL/ACTION]
-She closes her eyes.
+She looks at him.
 
-[DIALOGUE]
-ISOLDE: I love you.
+She lifts her hand. Sets two fingers against his jaw. Above the scale at his throat. Below the corner of his mouth.
+
+He does not move.
+
+[VO — ISOLDE]
+That man at the festival. His jaw was warmer. His jaw did not have scale below it. His jaw was — was — I cannot remember if his jaw was warmer. I have been telling myself it was warmer for a month. I am not sure anymore.
 
 [VISUAL/ACTION]
-Beat.
+She drops the hand.
+
+She climbs into the bed.
+
+He stays in the chair.
+
+Long beat.
 
 [DIALOGUE]
-VAEL: I love you.
-ISOLDE: First time.
-VAEL: First time.
+ISOLDE: Move the chair tomorrow.
+VAEL: I will.
+ISOLDE: Closer.
+VAEL: ...
+ISOLDE: I did not say into the bed. I said closer.
+VAEL: Closer.
+
+[VISUAL/ACTION]
+She rolls over. Faces the wall.
+
+[VO — ISOLDE]
+I just invited him closer. I just invited a man I am not sure is the man I want him to be closer to the bed. I am going to regret this in the morning. I am going to want it more in the morning. Both of those are going to be true.
 
 [END HOOK]
-He kisses her hair. She sleeps.
+He does not sleep.
 
-He does not.
+She does not sleep either.
+
+Neither moves.
+
+The chair stays where it is.
 
 Hard Cut.
 
@@ -2159,10 +2375,10 @@ Hard Cut.
 
 # THE OFFERING — EP17
 
-## S#1 — Vael's Chamber. Cycle One. Morning.
+## S#1 — Vael's Chamber. Three Weeks In. Morning.
 
 [VISUAL/ACTION]
-Isolde standing at the slit window. Body still flat — the bond glow under his palm steady, but no body change yet. Hand low on her own stomach anyway.
+Isolde at the slit window. She has not slept properly in three days. The chair beside the bed is closer now. He has not crossed into the bed. She has not invited him into it.
 
 Vael at the desk reading a letter.
 
@@ -2430,7 +2646,7 @@ ISOLDE: I refuse.
 Court ripple.
 
 [DIALOGUE]
-ISOLDE: I am the mate of the Lord of Drakonis. I carry the keep's heir. I will not divide my life between two crowns. The throne passes to my sister Adeline.
+ISOLDE: I am the bride of Lord Drakonis. I have made my home in his keep. I will not divide my life between two crowns. The throne of Veine passes to my sister Adeline.
 
 ---
 
@@ -2476,7 +2692,7 @@ Two guards take her by the arms.
 
 [DIALOGUE]
 ISOLDE: And Corvin.
-ADELINE: Gone. He left the city the night of the mirror. His own province. Quiet. He will stay quiet — or his next bride contract comes back to me with my mate's seal on it.
+ADELINE: Gone. He left the city the night of the mirror. His own province. Quiet. He will stay quiet — or his next bride contract comes back to me with the Lord of Drakonis's seal on it.
 ISOLDE: ...
 ADELINE: I learned from yesterday too, sister.
 
@@ -2648,33 +2864,51 @@ Hard Cut.
 
 # THE OFFERING — EP22
 
-## S#1 — Drakonis Keep. Vael's Chamber. Cycle Two. Late Night.
+## S#1 — Drakonis Keep. Cycle Two. Mid-Day.
+
+[MONTAGE — Five Weeks Compressed]
+- The iron plate from EP21 lifted from the basalt by two ridge dragons. Carted out beyond the wall.
+- A new black chair set on the dais beside Vael's — silver scale inlay along the back panel. Empty for three days. Then Isolde sits in it.
+- Sera at the lower bench every noon. Watching the new chair. Not approaching.
+- Kiran in the corridor each dawn with a fresh list of names — guests Isolde must not see, doors Isolde must not pass.
+- The eastern ridge silhouettes at dusk. Counting. Two. Three. Five. Back to two.
+
+[CUT TO PRESENT]
+
+## S#2 — Great Hall. Same Day. Continuous.
 
 [VISUAL/ACTION]
-Two cycles since the festival. The keep has buried the iron plate beyond the wall. The court has not spoken Stepmother's name.
+The new dais chairs. Vael in the black wood. Isolde in the silver-inlay. Court at the lower benches.
 
-Isolde at the slit window. Plain dark gown. Still flat. No belly visible.
+Sera walks the hall toward the dais. Volzaar mark bright at her throat. She has not been called.
 
-Vael behind her at the desk. Cleaning the small carved bird hairpin from the festival night. He keeps it now.
+She stops at the foot of the dais. Does not kneel.
 
 [DIALOGUE]
-ISOLDE: Two cycles in.
-VAEL: Two cycles in.
-ISOLDE: Eighteen left.
-VAEL: Eighteen left.
-ISOLDE: Halren has not come to the chamber since the carriage from Veine.
-VAEL: She comes when I send for her. I have kept her quiet until you asked.
-ISOLDE: I am asking.
+SERA: My lord. I have not had the chance to swear directly to the lady since her return.
+VAEL: You have not been asked.
+SERA: I am asking.
+VAEL: The lady does not need your throat in this hall.
 
 [VISUAL/ACTION]
-He sets the pin down. Walks to the window. Puts his palm flat at the small of her back.
+Sera turns to Isolde.
 
 [DIALOGUE]
-VAEL: Tonight?
-ISOLDE: Tomorrow morning. I want to ask her in light. Not in shadow.
+SERA: My lady. Will you give me the chance.
+ISOLDE: Not today, Sera. You may swear in this hall the day I no longer remember the way you smiled in the lower yard when I arrived. That day has not come.
+
+[VISUAL/ACTION]
+Sera does not move for a long beat.
+
+[KEY CAMERA]
+Sera's hand at her own throat — over the Volzaar mark. Across the hall on the side wall — the dragon shadow on the stone behind Vael's chair flickers once. Sera sees it. Drops her hand.
+
+She walks back to the lower bench.
 
 [END HOOK]
-They watch the eastern ridge together. The ridge is quiet for two cycles.
+Vael does not look at her.
+
+The hall returns to its noon plates.
 
 Hard Cut.
 
@@ -2682,44 +2916,52 @@ Hard Cut.
 
 # THE OFFERING — EP23
 
-## S#1 — Lesser Hall. Cycle Two. Morning.
+## S#1 — Drakonis Keep. Lower Corridor. Late Night. Audience-Only.
 
 [VISUAL/ACTION]
-Sun through the slit windows. HALREN — plain dark dress, hair tied back, hands clean — two paces from Isolde.
+Sera in the lower corridor. Two of her house at her shoulder. She is not walking toward the chamber wing this time. She is walking away from it.
 
-Vael at the wall, arms crossed.
+In her hand — a folded paper. Volzaar wax seal. New.
 
-[DIALOGUE]
-ISOLDE: Halren.
-HALREN: My lady.
-ISOLDE: Twenty cycles.
-HALREN: Twenty cycles, my lady. The dragon bond is heavy. The body shows after the tenth cycle. Sometimes the eleventh.
-ISOLDE: When does pain begin.
-HALREN: Light cramping at cycle six. Stronger at twelve. Real labor between twenty and twenty-four. Firstborns often wait.
-ISOLDE: When am I in danger of losing her.
-HALREN: Cycle five. Cycle fourteen. Birth itself. Those are the crossings.
-ISOLDE: After fourteen?
-HALREN: Mostly safe.
-ISOLDE: Mostly.
-HALREN: Birth is its own danger. There is no mostly safe for that.
-ISOLDE: ...
-HALREN: You have a lord who will not let you die. That counts for more than my opinion of mostly.
+She passes it to a courier in the lower stair. The courier slips it into a saddlebag and is gone before she turns the corner.
+
+[INTERCUT — Vael's Chamber. Same Night.]
+
+Isolde asleep in the bed. Vael at the desk reading by candle. Pulls a different folded paper from the drawer — same Volzaar wax, opened earlier today.
+
+He reads. Sets it back. His knuckles tighten once on the desk edge.
+
+[INTERCUT — Sera's Wing. Same Night.]
+
+Sera in her own chamber. Pours wine. Sets the cup down without drinking. Sits at her own window.
+
+[VO — SERA, only this once]
+SERA: Twelve years. I waited twelve years. He gave me a hand on my wrist that bruises like a brand. He gave her a chair with my name's metal in the back of it. He will not look at me anymore in this keep. He will look at me when his keep has been emptied from under him. Then he will look.
+
+[CUT BACK — Vael's Chamber.]
+
+Vael's hand still on the desk.
+
+He turns the candle out.
+
+Goes to the chair beside the bed. Sits.
+
+[VO — VAEL, only this once]
+VAEL: She is writing to the eastern houses. Three letters last week. She will write five next week. I will let her write twenty. The day I burn her stack in front of her is the day she stops thinking she can stand in my hall.
 
 [VISUAL/ACTION]
-Vael unfolds his arms. Comes to stand beside Isolde.
+He watches Isolde sleep.
 
-[DIALOGUE]
-ISOLDE: One more, Halren. If I die in the birth. The child lives.
-HALREN: ... If I can. Yes.
-ISOLDE: Good. That is what I needed to hear.
+He does not touch her.
 
 [END HOOK]
-Halren bows. Walks out.
+A new line on the back of his right hand has appeared from somewhere today.
 
-VAEL: You will not die.
-ISOLDE: I know.
-VAEL: I would burn the keep.
-ISOLDE: I know.
+Isolde, asleep, turns over once. Her hand finds his on the chair arm. Closes around two of his fingers.
+
+She does not wake.
+
+His hand does not move from hers all night.
 
 Hard Cut.
 
@@ -2730,9 +2972,9 @@ Hard Cut.
 ## S#1 — Great Hall. Cycle Three. Mid-Day.
 
 [VISUAL/ACTION]
-Full keep. Sera at the back, near the lower benches — not at the dais yet. Volzaar house mark bright at her throat. She has decided to be seen today.
+Full keep. Sera at the back, near the lower benches. Volzaar house mark bright at her throat. She has decided to be seen today.
 
-Isolde walks the hall length. Black gown. Hand light at her own stomach — too early to show, but the gesture is there.
+Isolde walks the hall length. Black gown.
 
 Sera waits until Isolde is two paces from her.
 
@@ -2799,49 +3041,58 @@ Chamber. Two candles. Isolde at the basin washing the day off her face. Vael at 
 
 She watches him in the mirror.
 
+[FLASHBACK — Festival Night. Small Room Above the Square.]
+
+The glamoured man's hand at her waist in the dark. His jaw against her throat. His mouth.
+
+[BACK — Basin. Present.]
+
+Vael behind her at the basin. His mouth where the glamoured man's was. The angle is the same. The pressure is not.
+
+[VO — ISOLDE]
+The angle is the same. That is all I am letting myself notice tonight.
+
 [DIALOGUE]
 ISOLDE: You did not need to take her wrist.
 VAEL: I did.
 ISOLDE: I could have handled her.
-VAEL: You did handle her. I just made sure she remembers it.
+VAEL: You did handle her. I made sure she remembers.
 
 [VISUAL/ACTION]
-He turns from the window. Crosses to her. Stops behind her at the basin.
-
 His hand finds her hair. Lifts it off her neck.
 
 He kisses her neck where the hair was.
 
-[DIALOGUE]
-VAEL: She said "borrowed."
-ISOLDE: She did.
-VAEL: I have not borrowed anything in my life.
-ISOLDE: I know.
+She closes her eyes.
 
-[VISUAL/ACTION]
-His mouth at her throat now. Her hand still in the basin water.
+[FLASHBACK — Festival Night.]
 
-She lifts her wet hand. Puts it against his jaw. Cold water against his face.
+The same kiss. The same neck. A different mouth.
+
+[BACK — Basin.]
+
+Her eyes open. Wet hand from the basin. She puts it against his jaw. Cold water against his face.
 
 He closes his eyes.
 
 [DIALOGUE]
-ISOLDE: You are angrier than I have seen you in two cycles.
-VAEL: I will be angrier than that before this is over.
-ISOLDE: ...
-VAEL: She will say worse next time.
+ISOLDE: She said "borrowed."
+VAEL: I have not borrowed anything in my life.
 ISOLDE: I know.
-VAEL: I want you to let me deal with her my way.
-ISOLDE: No. She speaks. I answer. You stand at my back. That is the order.
-
-[VISUAL/ACTION]
-He breathes out against her throat.
-
-[END HOOK]
-[DIALOGUE]
+VAEL: She will say worse next time.
+ISOLDE: She speaks. I answer. You stand at my back. That is the order.
 VAEL: That is the order.
 
-He does not move from behind her until the candle is low.
+[END HOOK]
+His mouth at her throat. Her wet hand against his jaw.
+
+Two seconds the festival man's hand could have lived in that exact place.
+
+She does not turn around.
+
+He does not move.
+
+The candle goes low.
 
 Hard Cut.
 
@@ -2849,40 +3100,69 @@ Hard Cut.
 
 # THE OFFERING — EP26
 
-## S#1 — Vael's Chamber. Cycle Four. Night.
+## S#1 — Drakonis Keep. Outer Wall. Pre-Dawn. Audience-Only.
+
+[INTERCUT — Outer Wall + Vael's Chamber + Sera's Wing]
+
+OUTER WALL: Two men in black cloth scaling the basalt from the eastern side. Volzaar house mark — not Sera's, a southern cousin's. They reach the upper terrace.
+
+CHAMBER: Isolde asleep. Vael at the desk, fully dressed. He has been waiting. He turns his head toward the balcony before the latch moves.
+
+OUTER WALL: The first man at the terrace finds three ridge dragons in human form waiting for him on the stone. They do not speak. They take him without sound.
+
+CHAMBER: Isolde does not wake.
+
+SERA'S WING: Sera in her own chamber. Wakes at a noise she cannot place. Sits up. Listens. Does not look out the window.
+
+OUTER WALL: The second man dropped before he reached the terrace. Bodies removed before the sky goes grey.
+
+CHAMBER: A ridge dragon at the chamber door. Whispers two lines to Vael through the wood. Vael nods. The ridge dragon leaves.
+
+Vael walks to the bed. Sits on the edge. Watches Isolde sleep. Does not touch her.
+
+[END S#1]
+
+---
+
+## S#2 — Great Hall. Mid-Day.
 
 [VISUAL/ACTION]
-Two candles. The pin on the desk.
+Vael on the dais. Isolde at his right in the silver-inlay chair.
 
-Isolde on the bed. Sitting up. Hand on her stomach — flat. She presses once.
+Sera at the lower bench. Pale. She has been told nothing. She suspects.
 
-Nothing.
-
-Vael at the doorway. Watching.
+A new envoy at the foot of the dais. Council grey. No house mark.
 
 [DIALOGUE]
-ISOLDE: I do not feel her.
-VAEL: You will not. Not yet.
-ISOLDE: How will I know she is still there.
-VAEL: Give me your hand.
+ENVOY: Lord Drakonis. The council requires —
+VAEL: Two of your house climbed my outer wall before dawn.
+ENVOY: My lord, that was not the council.
+VAEL: That was Volzaar's southern cousins. Acting in your name. With your tariffs paid. You did not stop them. You sent me a letter to keep my eyes east while their hands went over the wall.
 
 [VISUAL/ACTION]
-He crosses. Sits beside her. Takes her hand. Puts it over his hand. Puts his hand over her stomach.
+He stands.
 
-His palm under her hand glows faintly orange. Audience-only.
-
-She feels nothing. He feels everything.
+The dragon shadow on the back wall rises wide. The envoy steps back without meaning to.
 
 [DIALOGUE]
-VAEL: There is one. Still.
-ISOLDE: How will I know when you are not in the room.
-VAEL: I will leave my hand on you long enough every morning that you will not have to ask.
+VAEL: I am going to keep one of the two alive for two more nights. He will say more before the council hears from me again. You will explain that to your elders.
+ENVOY: My lord —
+VAEL: Out.
 
 [VISUAL/ACTION]
-She closes her hand around his.
+The envoy goes. Fast.
+
+Sera at the lower bench — her hand has gone to her own throat over the Volzaar mark. Vael notices. Does not look at her. Does not need to.
+
+[KEY CAMERA]
+Vael's hand on the back of Isolde's chair. Sera's hand at her own throat. The dragon shadow on the wall folding back into the stone.
 
 [END HOOK]
-The orange glow steady under their hands.
+Isolde, in the silver-inlay chair, has not moved through any of it.
+
+She looks at Sera. Long.
+
+Sera looks down first.
 
 Hard Cut.
 
@@ -2933,34 +3213,101 @@ Hard Cut.
 ## S#1 — Vael's Chamber. Cycle Six. Pre-Dawn.
 
 [VISUAL/ACTION]
-Kiran at the door.
+The chamber dark. Isolde wakes hard. Sits up. Hand to her own throat. Then her own mouth. The basin is two paces away. She does not make it.
+
+She is on her knees by the bed when the wave passes.
+
+Vael in the chair beside the bed. Already awake. He does not move to her.
+
+She wipes her mouth with the back of her hand. Looks at him.
 
 [DIALOGUE]
-KIRAN (off): My lord. The eastern ridge. Five at the boundary. Watching. They have not crossed.
-VAEL: They are deciding.
+ISOLDE: How long.
+VAEL: ...
+ISOLDE: How long have you known.
+VAEL: A month.
+ISOLDE: A month.
 
 [VISUAL/ACTION]
-Vael at the slit window. Isolde behind him. Sleep robe.
+She does not stand up.
 
-In the pre-dawn — five dragon silhouettes along the ridge. Still. Heads turned toward the keep.
+[CUTAWAY — Three Days Ago. Lesser Hall. Audience-Only.]
+
+HALREN — plain dark dress, hair tied back. Stands two paces from Vael. Isolde is not in the room.
 
 [DIALOGUE]
-ISOLDE: They are waiting for something.
-VAEL: They are waiting for me to fail.
-ISOLDE: To fail what.
-VAEL: To fail to keep you and the heir alive from the council.
-ISOLDE: And if you fail.
-VAEL: They take the keep. Install a new lord. Eat you.
+VAEL: She does not know yet.
+HALREN: She will know inside the moon, my lord. The body always tells the woman before the bond tells anyone else.
+VAEL: Quiet. Until she asks me.
+HALREN: Yes, my lord.
+
+[CUT BACK — Chamber.]
+
+Isolde still on her knees.
+
+[DIALOGUE]
+ISOLDE: You did not tell me.
+VAEL: I was not going to take that from you. The body is yours. The first telling is yours.
+ISOLDE: ...
 
 [VISUAL/ACTION]
-She does not flinch.
+She lifts her hand from her knee. Sets it flat low on her own stomach. Below the navel. Holds it there a long beat.
+
+She does not look at her own hand. She looks at him.
+
+[VO — ISOLDE]
+He has known for a month. He sat in that chair every night for a month with the answer in his teeth and did not give it to me. He is a man who burns hands off and will not give me the one thing in my own body before my body gives it to me.
+
+[VISUAL/ACTION]
+Vael leaves the chair. Kneels in front of her on the chamber floor.
+
+He does not touch her hand. He sets his own palm flat on the chamber stone between them.
 
 [DIALOGUE]
-ISOLDE: Then do not fail.
-VAEL: I will not.
+VAEL: Yours.
+ISOLDE: ...
+VAEL: First word is yours. Name is yours. Who hears it is yours. When the keep hears it is yours. I have already moved every guard who would have noticed without your say-so. No name leaves this room until you decide.
+
+[VISUAL/ACTION]
+She looks at his palm on the stone.
+
+She lifts her own hand from her stomach. Sets it flat over his on the stone. Closes her fingers around the back of his hand.
+
+[DIALOGUE]
+ISOLDE: No one. Not Halren in front of the keep. Not Kiran in the corridor. Not Sera. Not the council. Not Adeline. Not anyone.
+VAEL: No one.
+ISOLDE: For how long.
+VAEL: Your choice.
+ISOLDE: A long time.
+VAEL: A long time.
+
+[KEY CAMERA]
+Their two hands stacked flat on the chamber stone. Pre-dawn light through the slit. No glow. No magic. Just two hands.
 
 [END HOOK]
-The five silhouettes stay where they are. The sun rises behind them.
+She gets up off the floor.
+
+Sits on the bed.
+
+He stays kneeling on the stone.
+
+[DIALOGUE]
+ISOLDE: Get in the bed.
+
+[VISUAL/ACTION]
+He looks up at her.
+
+[DIALOGUE]
+ISOLDE: Not for that. Just get in.
+
+[VISUAL/ACTION]
+He gets in the bed.
+
+He does not touch her.
+
+She does not touch him.
+
+They sleep three feet apart on the same cover for the first time.
 
 Hard Cut.
 
@@ -3167,9 +3514,9 @@ She walks east. Slow. The eastern ridge has been watching the entire time. Two r
 [VISUAL/ACTION]
 Vael at the desk. The Volzaar letter open between them. Isolde reads it once. Slowly.
 
-She does not cry. Does not raise her voice.
+Her hand shakes once when she refolds the letter. Her voice still lands.
 
-She refolds the letter. Sets it down.
+She sets the letter down.
 
 [DIALOGUE]
 ISOLDE: When does she arrive.
@@ -3667,9 +4014,9 @@ The Western Lord stumbles toward the door. Cradling the broken hand. His niece V
 She passes Isolde's dais. Stops. Bows.
 
 [DIALOGUE]
-VEYRA: My queen.
+VEYRA: My lady.
 ISOLDE: You did not ask to be here. Go home. Marry whoever you choose. If any dragon house ever offers you to my husband again, I will hear about it before they finish the sentence — and the keep will answer.
-VEYRA: ... Yes, my queen.
+VEYRA: ... Yes, my lady.
 
 [VISUAL/ACTION]
 Veyra walks out.
@@ -4003,7 +4350,7 @@ Isolde reads it. Slow.
 [VISUAL/ACTION]
 She finishes reading. Sets the parchment on the desk. Hand still on her belly.
 
-She does not cry. Does not yell. Just looks at him.
+Her eyes shine once. She does not let the tear fall. Just looks at him.
 
 [DIALOGUE]
 ISOLDE: They are still calling me that.
@@ -4230,12 +4577,8 @@ Even the two youngest dragons — sixteen years old, barely past first transform
 
 She does not acknowledge them. She walks. The belly is heavy.
 
-[VO]
-ISOLDE: Veine called me impure. He called me bride. Veine called me concubine. He called me wife. Veine called me human womb. He called me the mother of his heir. They wrote one parchment. He wrote me into the mouth of every dragon in this keep three times.
-
-ISOLDE: I have been called every name in two kingdoms. He has given me every counter.
-
-ISOLDE: There is no name left for them to take.
+[VO — ISOLDE]
+Veine wrote one parchment. He wrote me into the mouth of every dragon in this keep three times. There is no name left for them to take.
 
 ---
 
@@ -4323,39 +4666,190 @@ Hard Cut.
 [VISUAL/ACTION]
 The chamber. One lamp. Bed turned down.
 
-Isolde in a loose linen shift. Hair tied back. Belly enormous. Walking the chamber slow.
+Isolde in a loose linen shift. Hair tied back. Belly enormous. Walking the chamber slow because the body will not let her go faster.
 
-Vael at the desk. Cleaning a small wooden bird, the one his mother carved. Setting it on the chest by the bed where the child will sleep.
+Vael at the desk. He has been waiting all evening for this. A small dark cloth bundle in front of him. He has not opened it yet.
 
 [DIALOGUE]
-ISOLDE: Why that one tonight?
-VAEL: She will need something of my mother in the chamber when she comes.
-ISOLDE: She has me.
-VAEL: She has you. She has the bird too.
-ISOLDE: ...
-VAEL: My mother would have liked you.
-ISOLDE: You said she was killed.
-VAEL: She was. She would still have liked you.
-ISOLDE: How do you know.
-VAEL: She picked her mate publicly. Knowing it would kill her. You would have done the same.
+VAEL: Come here.
+ISOLDE: ... You have been at that desk three hours.
+VAEL: I have.
+ISOLDE: Whatever is in your hand.
+VAEL: Yes.
 
 [VISUAL/ACTION]
-Isolde stops walking. Hand on the curve of her belly.
+She crosses to the desk. Stops at his shoulder.
+
+He unfolds the cloth slow.
+
+Two small carved birds inside.
+
+The silver bird hairpin she pulled from her hair the festival night.
+
+Beside it — a small wooden bird, dark walnut grain. The silhouette is the same. The lyre-crest at the head matches the silver pin exactly.
+
+She does not pick them up.
+
+She looks at the wooden one. Then at the silver one. Then at him.
+
+[VO — ISOLDE, only this once]
+The same bird. Twice. One I left on the table the morning after. One his mother carved.
+
+[VISUAL/ACTION]
+Her hand goes to the chair back beside her. Holds it. Hard.
+
+Her eyes shine. She does not let the tear fall.
+
+[FLASHBACK — Festival Night.]
+
+A glamoured man's hand near hers in the firelit crowd. His voice — *No name? No name. One night? One.* The kiss against the wall. The pin in her hair. His mouth at her throat. The angle of his jaw.
+
+[BACK — Chamber.]
+
+She lifts her hand from the chair back. Slow. Sets two fingers against Vael's jaw. The exact spot the glamoured man's jaw had been the night above the festival square.
+
+The angle is the same.
+
+Her two fingers shake against his face.
+
+She drops her hand.
 
 [DIALOGUE]
-ISOLDE: I love you.
+ISOLDE: ... It was you.
+VAEL: It was me.
+ISOLDE: A whole year.
+VAEL: Yes.
+ISOLDE: You watched me want you.
+VAEL: Yes.
+ISOLDE: And hate myself for it.
+VAEL: Yes.
+ISOLDE: You watched me miss a man I thought I'd buried.
+VAEL: Yes.
+ISOLDE: And said nothing.
+VAEL: I kept you alive.
+ISOLDE: You kept me starving.
+
+[VISUAL/ACTION]
+She steps back from the desk. One full pace.
+
+Her hand has gone to her own throat. Then dropped. Then back to her own throat. She cannot keep it still.
+
+[DIALOGUE]
+ISOLDE: Every time I touched you, my body knew. Every time you held my wrist. Every time you breathed against my neck. My body knew the man and my mouth was calling him a stranger. You watched me lie to my own body for a year.
+
+[VISUAL/ACTION]
+Vael does not stand up. He stays at the desk.
+
+[DIALOGUE]
+VAEL: I watched.
+ISOLDE: Why.
+VAEL: Because the moment you said it out loud, every house south of here had a reason to come through that wall. I needed the keep ready. I needed the ridge mine. I needed every name on the Veine parchment burned out of the air before I put the answer in your hand.
+ISOLDE: That is the council answer.
+VAEL: It is the only answer I have.
+ISOLDE: There is another one.
 VAEL: ...
-ISOLDE: I have not said it since cycle one.
-VAEL: I know.
-ISOLDE: I am saying it now because tomorrow or the day after I will be screaming things at you and I want the last clear thing I said to be that.
+ISOLDE: You were afraid.
+VAEL: ... I was afraid.
+ISOLDE: Of what.
+VAEL: Of you knowing I had let you walk through the gate of this keep without telling you who I was. Of you looking at me the way you are looking at me now.
+
+[VISUAL/ACTION]
+She makes a sound — half breath, half something else. Bites it down.
+
+[DIALOGUE]
+ISOLDE: Do not touch me.
+VAEL: I will not.
+
+[VISUAL/ACTION]
+He does not move from the chair.
+
+He sets his palms flat on the desk. Open. Visible. Where she can see he is not coming for her.
+
+That makes her angrier.
+
+Her shoulders go down once. Hard. Like the anger has weight.
+
+She turns away from him. Walks to the chamber wall. Sets her forehead against the cold stone. Breathes.
+
+The belly makes the breath hard.
+
+[VO — ISOLDE]
+He has burned hands off for me. He has burned letters for me. He has put his shadow on every wall of this keep for me. And he watched me lose my mind over a man I was trying not to want, knowing the man was him. I cannot decide if that is the cruelest thing he has done to me or the only thing that kept me alive.
+
+[VISUAL/ACTION]
+She stays at the wall a long beat.
+
+[KEY CAMERA]
+Her forehead on the stone. His hands open on the desk. The two birds on the cloth between them.
+
+She turns from the wall.
+
+She crosses back to him. Slow. She is shaking and not hiding it.
+
+Stops at his chair. Looks down at him.
+
+[DIALOGUE]
+ISOLDE: Stand up.
+
+[VISUAL/ACTION]
+He stands.
+
+She does not let him move closer. She closes the distance herself.
+
+Her hands on the front of his shirt. Pulls him down to her mouth. Hard.
+
+She kisses him. Open. The pin in her hair catches the candle. His scaled palm comes up — slow, asking — stops at her shoulder.
+
+She bites his lower lip once. Not gentle.
+
+[DIALOGUE]
+ISOLDE (against his mouth): You let me starve.
+VAEL: I let you starve.
+ISOLDE: Make it up.
+
+[VISUAL/ACTION]
+His hand at her shoulder slides slow into her hair. Finds the silver pin. He does not take it out.
+
+He lifts her — careful of the belly — and walks her to the bed. Sets her down on her side. Lies down behind her. Belly cradled.
+
+He unlaces the back of her shift slow. Kisses her shoulder where each lace comes loose. She lets him. Her hand reaches back and pulls his shirt up off his shoulders herself.
+
+[CUTAWAY]
+The silver pin in her hair, untouched.
+The wooden bird on the desk, candle light on its back.
+Her shift open down her spine.
+His bare chest against her bare shoulder blades.
+His scaled palm cradling the heavy curve in front.
+Her hand reaching back, pulling his head down to her ear.
+Her mouth open against the pillow.
+His broken breath at the back of her neck.
+Her tear finally falling — onto his hand on her belly.
+He feels it. Does not say anything. Closes his hand over hers.
+Both burning. Both careful. Both starving.
+
+[VISUAL/ACTION]
+After. Both bare under the blanket. Her on her side. He behind her. His scaled palm low on the curve of her belly. Her hand over his.
+
+The child quiet between them. Feeling them both.
+
+She has not let go of his hand.
+
+[DIALOGUE]
+ISOLDE (very quiet): I love you.
 VAEL: ...
-ISOLDE: Say it back.
+ISOLDE: First time I have said it. First time you have heard it.
 VAEL: I love you.
+ISOLDE: I should make you say it a thousand more times for the year you stole.
+VAEL: I will. Starting now.
 
 [END HOOK]
-He stays at the desk. She stays at the chamber wall. Neither moves.
+He kisses the back of her neck.
 
-The small wooden bird on the chest by the bed.
+The silver pin still in her hair. The wooden bird still on the desk.
+
+She does not sleep yet. He does not either.
+
+The lamp burns low.
 
 Hard Cut.
 
@@ -4418,6 +4912,10 @@ ISOLDE: Vael.
 VAEL: Here.
 ISOLDE: Promise.
 VAEL: Promised.
+ISOLDE: One more thing.
+VAEL: Anything.
+ISOLDE: I love you.
+VAEL: I love you.
 
 Hard Cut.
 
@@ -4608,7 +5106,7 @@ The crown is on Isolde's head again today. No ceremony. No announcement.
 
 The hall saw her crowned at cycle eighteen. Today they see what that crown means.
 
-Kiran walks Sera in. Two ridge dragons walk beside her. Her left arm ends in a bandaged stump where the hand once was — wrist burned at the warning, hand taken after she ignored it. She has not been allowed to wash since yesterday evening — she smells of her own fear.
+Kiran walks Sera in. Two ridge dragons walk beside her. Her left arm ends in a bandaged stump where the hand once was — wrist burned at the warning, hand taken after she ignored it.
 
 She is brought to the foot of the dais. Forced to her knees.
 
@@ -4697,29 +5195,30 @@ The hall does not breathe.
 
 [DIALOGUE]
 ISOLDE: You live.
-ISOLDE: You serve in this hall.
-ISOLDE: You stand behind the chair you wanted.
-ISOLDE: You watch my daughter grow up under the roof you tried to empty.
-ISOLDE: You watch every dragon in this keep bow to the child you wanted dead.
-ISOLDE: You watch me sit beside him while you grow old and he does not.
-ISOLDE: You die when I am done with you. Not before.
+ISOLDE: Without a name. Without a house. Without a mark.
+ISOLDE: You will not speak in this hall again.
+ISOLDE: You will not stand at any door I use.
+ISOLDE: You will not be called Sera by anyone in this keep from this day.
+ISOLDE: You are no one.
 
 [VISUAL/ACTION]
 Sera's knees almost give. She holds.
 
+Isolde turns away from her. She does not look at her again.
+
 [DIALOGUE]
-ISOLDE: Say it.
-SERA (broken): I live as the queen wills.
-ISOLDE: Louder.
-SERA (loud): I live as the queen wills.
+ISOLDE (to Kiran, not to Sera): Take her to the lower yard. Find work for her hands. I do not need to see her face. The keep does not need to learn her face. She does not exist in this hall.
+KIRAN: Yes, my queen.
 
 [VISUAL/ACTION]
-She bows. Forehead to the basalt floor. The keep watches her stay there.
+Sera does not bow. She is not given permission to. Kiran takes her by the back of the collar and walks her out of the hall — through the lower door, not the main door. The hall watches her go without watching her face.
 
 [END HOOK]
 Isolde returns to the dais. Sits.
 
-The child wakes briefly. Looks at Sera bowed at the foot of the steps. Looks at Isolde. Closes her eyes again.
+She does not look at the door Sera left through. Does not mention her again.
+
+The child wakes briefly. Reaches for her mother's hand. Closes her eyes again.
 
 ---
 
@@ -4728,7 +5227,7 @@ The child wakes briefly. Looks at Sera bowed at the foot of the steps. Looks at 
 [VISUAL/ACTION]
 The garden. Spring. New leaves on the small trees Vael planted last summer.
 
-In the back of the garden — barely visible, raking the gravel path — a thin grey-haired figure in plain servant clothing. Her throat is bare. She does not look up at the bench.
+In the back of the garden — barely visible, raking the gravel path — a thin red-haired figure in plain servant clothing. Her throat is bare. She does not look up.
 
 MIREILLE, almost two and a half, at the small pool. Dropping pebbles. Counting.
 
@@ -4801,7 +5300,7 @@ In the morning light, far above, three dragon silhouettes drift across the sky. 
 The shot holds. The garden below stays small. The keep stays small. The world stays small around them.
 
 [GRAPHIC/UI]
-SUPER, very small, at the corner: **THE OFFERING — END**
+SUPER, very small, at the corner: **THE OFFERING: Crowned by the Dragon Lord — END**
 
 [END HOOK]
 Slow fade. Held a beat longer than expected.

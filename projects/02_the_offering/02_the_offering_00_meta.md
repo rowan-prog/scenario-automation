@@ -1,6 +1,585 @@
 # THE OFFERING — 진행 메타
 
-## 🔒 정본 v33.5.5 — 2026-05-21 FINAL LOCKED (전수 종합 검토 patches + 비주얼락 OEXZ 양식 전면 재작성)
+## 🔒 v45 LOCK 직전 — 2026-05-22 후반 (EP01 dialogue 신화·voice memory 엔진 + EP46 회상 정합)
+
+**제목:** `THE OFFERING: Crowned by the Dragon Lord` (v34부터 유지)
+
+**정본 (LOCK 후보 FINAL):** `07_final/02_the_offering_FINAL_v45_clean.md` (v44 base + EP01/EP46 voice memory 정합 4건)
+
+**v45 = v44 + 사용자 P0 4건 (2026-05-22 후반):**
+
+**EP01 PRIEST VO fix (line 238):**
+- `PRIEST (VO):  — IMPURE.` (깨진 줄) → `PRIEST (VO): IMPURE!` (광고 컷 적합·한 단어 강타)
+
+**EP01 첫 만남 dialogue 교체 (line 55-58) — voice memory 엔진 신설:**
+- 옛: `HIM: No name? / ISOLDE: No name. / HIM: One night? / ISOLDE: One.` (현대 원나잇 느낌)
+- 신: `HIM: This is not my face. / ISOLDE: Nor mine. / HIM: Then remember my voice. / ISOLDE: Make me.`
+- 이유: glamour 설정 활용·voice memory 엔진 박기·"Make me" = Isolde 선택/도발/성적 긴장 동시·EP46 voice reveal 회수 연결
+
+**EP01 후반 voice 발화 교체 (line 131):**
+- 옛: `HIM: Still one night? / ISOLDE (breath broken): Still one.`
+- 신: `HIM: Will you remember? / ISOLDE (breath broken): Your voice.`
+- 이유: 앞 4행 교체로 "one night" 반복 부적합·voice memory 엔진 재강조
+
+**EP46 voice flashback 회수 (line 4873):**
+- 옛: `His voice — *No name? No name. One night? One.*`
+- 신: `His voice — *This is not my face. Nor mine. Then remember my voice. Make me.*`
+- 이유: EP01 변경 → EP46 회상 정합 필수·voice 회수 + Isolde 몸이 먼저 알아봄 보상 강화
+
+**v45 자가 검증:**
+- Korean = 0건 ✅
+- Hard Cut = 49 + Fade Out 1 ✅
+- "I love you" = 6 lines (3 페어) ✅
+- 허용 5종만 (블록 분포 v44 동일) ✅
+- EP↔END HOOK = 50↔50 ✅
+- EP01 voice memory 엔진 = 박힘 ✅
+- EP46 voice flashback 정합 = 회수 ✅
+- 본편 구조·T4/T5 분포·핵심 대사 = v44 그대로 유지
+
+**상태: 🔒 LOCK 후보 FINAL.** 사용자 최종 확인 후 commit anchor + LOCK 선언.
+
+---
+
+## 🔒 v44 — 2026-05-22 후반 ([END HOOK] 정리 + first time 정합)
+
+**Archive:** `07_final/02_the_offering_FINAL_v44_clean.md` (v45 base · END HOOK 9건 + first time 3건)
+
+**v44 = v43 + 사용자 양식 룰 (2026-05-22 후반):**
+
+**[END HOOK] 원칙 적용 (사용자 명시):**
+> `[END HOOK]` 안에는 마지막 화면/행동만 둔다. 대사는 직전 `[DIALOGUE]` 블록에 두고, 대사 자체가 마지막 훅이면 [END HOOK]은 대사 직후의 최종 표정/정적/컷으로 처리.
+
+**[END HOOK] 9건 정리 (대사 → [DIALOGUE] + 마지막 화면/행동 → [END HOOK]):**
+- EP03 `STEPMOTHER: The dragon takes damaged things.` → 대사 [DIALOGUE]·END HOOK: `Isolde hears it through the door.`
+- EP19 `ADELINE/ISOLDE first decision` → 대사 [DIALOGUE]·END HOOK: `The throne room stays silent around the new queen.`
+- EP27 `ISOLDE/VAEL "That was clear"` → 대사 [DIALOGUE]·END HOOK: `The body stays on the road.`
+- EP31 `VAEL/ISOLDE "three new house members / heads of state"` → 대사 [DIALOGUE]·END HOOK: `The three ridge dragons bow to Isolde.`
+- EP33 `ISOLDE/VAEL "Who holds her first / No one"` → 대사 [DIALOGUE]·END HOOK: `His hand stays on her belly.`
+- EP38 `VAEL/ISOLDE "At cycle eighteen"` → 대사 [DIALOGUE]·END HOOK: `The hall holds on the decision.`
+- EP41 `VAEL/ISOLDE "You did not flinch / nineteen cycles"` → 대사 [DIALOGUE]·END HOOK: `Her hand stays steady on the child.`
+- EP47 `ISOLDE/VAEL "I love you" labor eve` → 대사 [DIALOGUE]·END HOOK: `He stays at her side as the next contraction comes.`
+- EP48 `HALREN: A girl, my lady.` → 대사 [DIALOGUE]·END HOOK: `Vael looks at Isolde before he looks at the child.`
+
+**EP15·EP39·EP50 그대로 유지** (사용자 명시 — VO/마지막 화면/그래픽 성격 섞임·맛 유지)
+
+**"first time" 표현 3건 정합 정정 (EP16/EP23 T4 추가 후):**
+- EP17: `The chair beside the bed is closer now. He has not crossed into the bed. She has not invited him into it.` → `The chair is beside the bed again. He has not crossed into it since that night. She has not invited him again.` (EP16 T4 후 = "처음 안 들어옴" X)
+- EP23: `The chair beside the bed empty for the first time.` → `The chair beside the bed sits empty.` (EP16 T4 직후라 first time 잘못)
+- EP28: `They sleep three feet apart on the same cover for the first time.` → `They sleep three feet apart on the same cover.` (EP16/EP23 결합 후 first time 잘못)
+
+**v44 자가 검증:**
+- Korean = 0건 ✅
+- Hard Cut = 49 + Fade Out 1 ✅
+- "I love you" = 6 lines (3 페어) ✅
+- 행정 어휘 = 0건 ✅
+- 허용 5종만 (VISUAL/ACTION 445 · DIALOGUE 373 · END HOOK 50 · KEY CAMERA 28 · UI/GRAPHIC 20) ✅
+- EP↔END HOOK = 50↔50 1:1 ✅
+- [END HOOK] 안 대사 = 0 (EP15·39·50 제외 — 사용자 허용) ✅
+- "first time" 의미 정합 = OK ✅
+- 본편 구조·핵심 대사·T4/T5 분포 = v43 그대로 유지
+
+**상태: 🔒 LOCK 후보 FINAL.** 사용자 최종 확인 후 commit anchor + LOCK 선언.
+
+---
+
+## 🔒 v43 — 2026-05-22 후반 (LOCK 직전 정정 — P0 논리 오류 2 + P1 반복/spoken 2)
+
+**Archive:** `07_final/02_the_offering_FINAL_v43_clean.md` (v44 base · P0/P1 4건 정정)
+
+**v43 = v42 + 사용자 P0/P1 4건 (2026-05-22 후반):**
+
+**P0 논리 오류 2건:**
+1. **EP23 line 3102** `another woman's house mark still on his throat` → `Sera's house mark still in my head` (Vael 목에 다른 여자 mark 있는 듯 읽히는 논리 오류. 사용자 추천대로 Isolde 머릿속 hatred로 변경)
+2. **EP31 line 3700** Isolde "My window. My bed. My child. **You** gave them all three." → **She** gave them all three. (Vael에게 "네가 넘겼다" 잘못 읽힘 → Sera에 대한 분노 발화. Vael 응답도 "She answers for all three"로 정합)
+
+**P1 반복/spoken 2건:**
+3. **EP09** `The bed is mine. The door is mine. Tonight, both stay closed to everyone but you.` → `No one crosses that door tonight unless she asks.` (직후 "The bed is mine but I will not be in it tonight" 반복감 제거)
+4. **EP12** `I am damaged goods by every measure your council values.` → `By your rules, I am damaged goods.` (긴 발화 spoken 압축)
+
+**LOCK 차단 X 미세 사항 (점검 통과):**
+- EP26 OUTER WALL: / CHAMBER: / SERA'S WING: 미니 라벨 = [VISUAL/ACTION] 안 plain text 허용 OK
+- EP15 END HOOK 안 VO = 최종 컷 기능 OK
+
+**v43 자가 검증:**
+- Korean = 0건 ✅
+- Hard Cut = 49 + Fade Out 1 ✅
+- "I love you" = 6 lines (3 페어) ✅
+- 행정 어휘 = 0건 ✅
+- 허용 5종만 (블록 분포 v42 동일) ✅
+- 본편 구조·핵심 대사·T4/T5 분포 = v42 그대로 유지
+- 논리 오류 = 0 ✅
+
+**상태: 🔒 LOCK 후보 (FINAL 가능권)** — 사용자 최종 확인 후 commit anchor + LOCK 선언.
+
+---
+
+## 🔒 v42 — 2026-05-22 후반 (S+ 디테일업 — P0/P2/P3 + EP16/EP23 T4 + micro 12)
+
+**Archive:** `07_final/02_the_offering_FINAL_v42_clean.md` (v43 base · S+ 디테일 적용)
+
+**v42 = v41 + 사용자 S+ 디테일업 (2026-05-22 후반):**
+
+**P0 기계/정합성 7건:**
+1. EP05 `box my father had built before he was born` → `long before I was born` (시간 정합)
+2. EP19 `Hold her there until the next moon. Then we will decide.` → `Hold her there tonight. No one touches her until I decide.` (EP20 Drakonis 호송 시점 정합)
+3. EP49 `S#1B` → `S#2` (S 순번 정리 + 기존 S#2 → S#3)
+4. EP41 `No drugs for the pain.` → `Bandage it. Let her remember why.` (Isolde 가학 톤 완화)
+5. [END HOOK] 뒤 새 블록 누수 정리 13건 (Python script): EP12·EP15·EP19·EP28·EP33·EP34·EP37·EP38·EP39·EP41·EP42·EP47·EP48·EP49 [END HOOK] 위치 이동 (각 EP 마지막 컷에만)
+6. [DIALOGUE] 밖 발화 4건 → [DIALOGUE] 안으로: LORD CORVIN (memory)·ADELINE (Whore's daughter)·LORD CORVIN (She'll learn quiet)·MAID (Smile)·MIREILLE (off, soft)
+7. [UI/GRAPHIC] 뒤 액션 누수 4건 → [VISUAL/ACTION] 헤더 추가: KING ALDRIC·SERA·VAEL·EP49 빈 [VISUAL/ACTION] 제거
+
+**P2 EP16 S#3 T4 확장 (first paid full T4 — 정답 미공개 유지):**
+- 사용자 명시 대사 + 구체적 행동: `You still won't answer. / Ask me anything but the festival. / Then don't talk. / I'll stop if you ask. / I didn't ask.`
+- Isolde 먼저 선택 (의자에서 chair → bed로 끌어당김)·Vael 멈추고 물음·Isolde 거절 + 끌어당김
+- 구체적 묘사: 양손 shirt grip·bed로 walking·lip bite·hand at back of head·scaled palm at ribs through shift·jaw·tongue·CUTAWAY 양식·결합 후 spoon position
+- festival/pregnancy/mate/heir reveal 0
+- 다음날 정답 미공개 유지
+
+**P2 EP23 T4 추가 (EP16-EP29 13화 공백 해소 — 내 판단 적용):**
+- INTERCUT 끝 + Isolde 자다 깸 + Vael bloodied hand 본 후 침대로 끌어당김
+- 사용자 룰 = "부부싸움(분노/응징 폭발) 직후의 강렬한 결합" 정합 (Sera 편지 발각 + Vael L1 응징 후)
+- 구체적 묘사: bloodied knuckles at her throat·hand at his shoulders·legs open around hips·forearm braced·headboard grip wood creaks·open mouth on jaw·bite at throat under scale·tongue·hair pulling·thigh hooking·bedsheet fisted·broken breath
+- 정체 미공개 유지
+
+**P3 micro 12개 추가 (1줄씩, 기존 장면 안에서):**
+- EP09 VAEL: `The bed is mine. The door is mine. Tonight, both stay closed to everyone but you.`
+- EP10 `His fingers close around her wrist. Not hard. Enough that she remembers the wall.`
+- EP13 `The distance between the chair and the bed is no longer distance enough.`
+- EP17 `The scale under her palm is warm in a place her body remembers before her head does.`
+- EP20 `His arms hold her like a wall. Her body goes quiet before her grief does.`
+- EP23 `His scale lifts once, then settles.` (자는 hand finds 비트 직후)
+- EP28 `His hand stays on the stone because touching her stomach now would tell her everything.`
+- EP31 ISOLDE: `My window. My bed. My child. You gave them all three.` + VAEL: `They were yours before I gave them.`
+- EP33 `He waits for the child to move. She watches his mouth instead.`
+- EP36 `Her hands on his scaled neck do what no command in the hall can do.`
+- EP39 `His palm on her belly under the crown makes the hall disappear for one breath.`
+- EP44 `Vael lies down behind Isolde. One hand on the child. His breath held at her neck.`
+
+**T4/T5 최종 분포 (7개):**
+| EP | T-Level | 기능 |
+|---|---|---|
+| EP01 | T4 | Festival night — first night·정체불명 |
+| EP16 S#3 | T4 | First paid full — chair → bed·정답 미공개 |
+| EP23 (NEW) | T4 | INTERCUT 후 첫 화해 결합·bloodied hand 안 묻고 끌어당김·정체 미공개 |
+| EP29 | T4 | Cycle eight — eight cycles of holding back |
+| EP40 | T4 | Crown 후 침실 — `The crown is the keep's. Tonight you are mine.` |
+| EP43 | T4 | Sera 손 절단 직후 분노 → chamber strong-claim |
+| EP46 | T5 | 정체 reveal + 첫 양방향 "I love you" + 결합 정점 |
+
+**EP16-EP29 공백 해소:** 13화 → EP23 T4 추가로 7+6 분할.
+
+**키스/베드씬 구체성 룰 적용 (사용자 명시):**
+- 키스 = 입만 시늉 X. 혀 사용·부분 (jaw·throat·earlobe)·머리카락/뺨 거칠게 잡기·lip bite·open mouth
+- 베드씬 = 침대 sheet 꽉 잡는 손·헤드보드 grip·양팔로 상체 끌어안기·다리로 hooking·머리카락/뺨 거칠게 잡기·broken breath·구체적 위치 묘사
+- CUTAWAY 양식 = 노골적 신체 관음 X·Vael 반응 + Isolde 선택 + 구체적 행동 중심
+
+**v42 자가 검증:**
+- Korean = 0건 ✅
+- Hard Cut = 49 + Fade Out 1 ✅
+- "I love you" = 6 lines (3 페어) ✅
+- 행정 어휘 = 0건 ✅
+- 허용 5종만: VISUAL/ACTION (443) · DIALOGUE (367) · END HOOK (50) · KEY CAMERA (28) · UI/GRAPHIC (20) ✅
+- 비표준 블록 = 0 ✅
+- EP↔END HOOK = 50↔50 1:1 ✅
+- VO 깨진 패턴 = 0 ✅
+- 장면 헤더 빨림 = 0 ✅
+- 본편 구조·핵심 대사 = v41 그대로 유지
+
+**상태: 🔒 LOCK 가능권** (P0 기계 정합 + S+ 디테일업 완료)
+
+---
+
+## 🔒 v41 — 2026-05-22 후반 (FORMAT REPAIR)
+
+**Archive:** `07_final/02_the_offering_FINAL_v41_clean.md` (v42 base · v40 변환 오염 정정)
+
+**v41 = v40 + 사용자 P0 format repair (2026-05-22 후반):**
+
+**P0 변환 오염 정정 (Python repair script — story·dialogue·scene order untouched):**
+
+1. **`VO (VO): CHARACTER:` 중복 패턴 fix** (10건):
+   - `VO (VO): ISOLDE: ...` → `ISOLDE (VO): ...` (line 637/682/707/710/946/1010/1198)
+   - `ISOLDE (VO): ISOLDE: ...` → `ISOLDE (VO): ...` (line 2499)
+   - `SERA (VO): SERA: ...` → `SERA (VO): ...` (line 2965)
+   - `VAEL (VO): VAEL: ...` → `VAEL (VO): ...` (line 2976)
+
+2. **장면 헤더가 VO 안으로 빨림 fix** (3건 — 치명적 오류):
+   - `PRIEST (VO): ## S#5 — Veine Palace. Bridal Mirror Hall. Continuous.` (line 238) → 분리: `PRIEST (VO): THE BRIDE — IMPURE.` 직후 standalone `## S#5 — ...` 복구. **EP01 S#5 복구.**
+   - `VO (VO): ## S#2 — Veine Palace. Outer Courtyard. Pre-Dawn.` (line 638) → 분리: standalone `## S#2 — ...` 복구
+   - `VO (VO): ## S#2 — Wasteland. The Road. Late Afternoon.` (line 711) → 분리
+
+3. **컷 지시 → VO 흡수 오류 fix** (1건):
+   - `ISOLDE (VO): Hard Cut.` (line 2222) → plain text `Hard Cut.` (지문 복구)
+
+4. **중간 [END HOOK] 제거** (3건 — 각 EP 마지막 컷에만 허용):
+   - EP06 line 812 mid-EP [END HOOK] 제거 (S#1 끝 → 단순 Hard Cut.)
+   - EP30 line 3535 mid-EP [END HOOK] 제거 (S#2 끝 → 단순 Hard Cut.)
+   - EP50 line 5249 mid-EP [END HOOK] 제거 (S#1 끝 → 단순 Hard Cut.)
+   - 결과: **EP 50개 ↔ [END HOOK] 50개 1:1 정합 ✅**
+
+5. **블록 양식 통일** [GRAPHIC/UI] → [UI/GRAPHIC] (20개):
+   - 사용자 명시 고정 양식 = `[UI/GRAPHIC]` (NOT `[GRAPHIC/UI]`)
+
+**v41 자가 검증:**
+- Korean = 0건 ✅
+- Hard Cut = 49 + Fade Out 1 ✅
+- "I love you" = 6 lines ✅
+- 행정 어휘 = 0건 ✅
+- 허용 5종만: VISUAL/ACTION (422) · DIALOGUE (364) · END HOOK (50) · KEY CAMERA (27) · UI/GRAPHIC (20) ✅
+- 비표준 블록 = 0 ✅
+- VO 깨진 패턴 = 0 ✅
+- 장면 헤더 빨림 = 0 ✅
+- Hard Cut in VO = 0 ✅
+- EP 개수 ↔ [END HOOK] = 50 ↔ 50 1:1 ✅
+- [GRAPHIC/UI] 잔재 = 0 ✅
+- 본편 구조·대사·scene order = v40 그대로 유지
+
+**상태: 🔒 LOCK 가능.** Creative LOCK + Format LOCK 양쪽 통과. 사용자 최종 확인 후 commit anchor.
+
+**Lessons learned (메모리 등재 예정):**
+- 일괄 변환 script = 정규식 매칭 정확성 사전 dry-run 강제
+- VO 변환 시 `[VO]` 단독 + 다음 라인 `CHAR: ...` 패턴 = 정확히 `CHAR (VO): ...`로 통합 (script 1회차 = `VO`를 char로 잘못 매칭)
+- 일괄 변환 후 = 깨진 패턴 grep 검증 강제 (`VO (VO):`, `(VO): ## S#`, `(VO): Hard Cut`, 인물명 중복)
+- [END HOOK] 카운트 ↔ EP 카운트 1:1 검증 강제
+
+---
+
+## v40 — 2026-05-22 후반 (블록 양식 P0 1차 시도 — 변환 오염 발생)
+
+**Archive:** `07_final/02_the_offering_FINAL_v40_clean.md` (v41 base · 변환 오염 5건 포함 — v41에서 정정)
+
+**v40 = v39 + 사용자 양식 P0 (2026-05-22 후반):**
+
+**블록 양식 strict 5종만 허용 (Python script 일괄 변환):**
+- `[VISUAL/ACTION]` (422)
+- `[DIALOGUE]` (364)
+- `[END HOOK]` (53)
+- `[KEY CAMERA]` (27)
+- `[GRAPHIC/UI]` (20)
+- **비표준 블록 = 0** ✅
+
+**변환 규칙 (Python script 적용):**
+- `[VO — ISOLDE]` / `[VO — VAEL]` / `[VO — SERA]` 등 = `[DIALOGUE]` 안에 `ISOLDE (VO): ...` / `VAEL (VO): ...` / `SERA (VO): ...`
+- `[FLASHBACK — Festival Night]` 등 = `[VISUAL/ACTION]` 안에 `Flashback — Festival Night.` plain prose
+- `[FLASH CUT]` = `[VISUAL/ACTION]` 안에 `Flash cut.` plain
+- `[BACK — Chamber]` / `[BACK TO FESTIVAL]` 등 = `[VISUAL/ACTION]` 안에 `Back in chamber.` / `Back to festival.`
+- `[CUTAWAY]` / `[CUTAWAY — Three Days Ago]` = `[VISUAL/ACTION]` 안에 `Cutaway — three days ago.`
+- `[INTERCUT — Outer Wall + Vael's Chamber + Sera's Wing]` 등 = `[VISUAL/ACTION]` 안에 `Intercut — outer wall + chamber + sera's wing.`
+- `[CUT BACK — Chamber]` = `[VISUAL/ACTION]` 안에 `Back to chamber.`
+- `[INSERT — page audience-visible]` = `[VISUAL/ACTION]` 안에 `Insert — page audience-visible:`
+- `[MONTAGE — Five Weeks Compressed]` = `[VISUAL/ACTION]` 안에 `Montage — five weeks compressed:`
+- `[CUT TO TITLE CARD]` = `[GRAPHIC/UI]`로 변환
+- `[DIALOGUE — through the door]` 등 변종 = `[DIALOGUE]`로 통합
+- `[END S#1]` 같은 의미 없는 헤더 = 삭제
+
+**GRAPHIC/UI 인물·장소·시간점프 카드 추가 (13개 신규):**
+- 인물 첫 등장 (이름 / 단순 호칭):
+  - `ISOLDE / princess of veine` (EP01)
+  - `KING ALDRIC / her father` (EP02)
+  - `LORD CORVIN / her betrothed` (EP02)
+  - `ADELINE / her half-sister` (EP02)
+  - `STEPMOTHER / dowager queen` (EP02)
+  - `KIRAN / dragon lord's captain` (EP06)
+  - `SERA / volzaar daughter` (EP06)
+  - `VAEL / dragon lord of drakonis` (EP08 — Vael 공식 첫 등장. festival night man = 정체 미공개 유지)
+  - `HALREN / dragon healer` (EP28 cutaway)
+  - `VEYRA / western lord's niece` (EP37)
+  - `MIREILLE / their daughter` (EP49)
+- 핵심 장소:
+  - `VEINE / FIRE FESTIVAL NIGHT` (EP01)
+  - `VEINE PALACE / BRIDAL MIRROR HALL` (EP02)
+  - `DRAKONIS KEEP / outer gate` (EP06)
+  - `DRAKONIS KEEP / inner garden` (EP50)
+- 시간 점프:
+  - `ONE MONTH LATER` (EP01 S#4 — 기존 유지)
+  - `TWO AND A HALF YEARS LATER` (EP50 S#3)
+- 타이틀 카드:
+  - `THE OFFERING` (EP01)
+  - `THE OFFERING: Crowned by the Dragon Lord — END` (EP50 끝)
+
+**불필요 GRAPHIC/UI 제거:**
+- 빈 GRAPHIC/UI 블록 (EP01) 제거
+- `PAYWALL — EP09 →` (EP08 끝, 마케팅 카피·작가 메모) 제거
+
+**v40 자가 검증:**
+- Korean = 0건 ✅
+- Hard Cut = 49 + Fade Out 1 ✅
+- "I love you" = 6 lines ✅
+- 행정 어휘 = 0건 ✅
+- 허용 외 블록 = 0건 ✅
+- GRAPHIC/UI = 핵심 인물·장소·시간점프·타이틀 카드만 (마케팅 카피/작가 메모 0)
+- 본편 구조·대사 intent·scene order = v39 그대로 유지
+
+**남은 polish 영역 (별도 turn 가능):**
+- KEY CAMERA 양식 사용자 표준 (EXTREME HIGH ANGLE / INSERT on / CLOSE on / 1-5 샷 정렬) 점검·정리
+- 추가 인물 카드 (VOLMIR / WESTERN LORD / RIDGE DRAGON 등) — 사용자 명시 시
+- 추가 장소 카드 (EASTERN RIDGE / GREAT HALL / VAEL'S CHAMBER 등) — 사용자 명시 시
+
+---
+
+## 🔒 v39 — 2026-05-22 후반 (외부 AI 영어 polish — 작가식 제도 영어 4표현 자연화)
+
+**Archive:** `07_final/02_the_offering_FINAL_v39_clean.md` (v40 base · v38 + 영어 4표현 polish)
+
+**v39 = v38 + 외부 AI 영어 polish (2026-05-22 후반):**
+
+**작가식 제도 영어 4표현 자연화:**
+- EP08 line 996: `She is not bridal grade, my lord.` → `She is not fit to be your bride, my lord.` (Sera 모욕어 자연화)
+- EP09 line 1085: `she is not bridal grade.` → `she is not fit for this.` (Sera hedging 발화·line 1089 `She is not a bride` 직설로 자연 흐름)
+- EP12 line 1654-1655: `The bride question stands. / The bride question is mine. Stand and answer the part that is yours.` → `Then we still have one question. What is she to this keep? / That is my decision. Answer the rest.` (작가 만든 의회 용어 → 직관)
+- EP16 line 2211-2245: `withdrawal of common air rights` + `that is not refusing the air rights` 등 → `The council closes the eastern sky to Drakonis if you refuse.` + `Closes the sky?` + `That's not refusing. That's starting a war.` (행정/항공 용어 → 직관적 시각)
+
+**EP16 council letter 비트 spoken English 수축형도 함께 적용** (해당 사적 위협 비트):
+- `I will not give me to them. He is going to lose half` → `He won't give me to them. He'll lose half`
+- `She does not say it. / Do not. / I did not say anything.` → `She doesn't say it. / Don't. / I didn't say anything.`
+- `I would have said it in your chair.` → `I'd have said it in your chair.`
+- `That is not refusing the air rights. That is starting a war.` → `That's not refusing. That's starting a war.`
+- `They started it. I am finishing the sentence.` → `They started it. I'm finishing the sentence.`
+
+**v39 자가 검증:**
+- Korean = 0건 ✅
+- Hard Cut = 49 + Fade Out 1 ✅
+- "I love you" = 6 lines (3 페어) ✅
+- 행정/제도 영어 = 0건 ✅ (bridal grade·bride question·air rights 모두 정리)
+- 작가식 영어 잔재 = 0건 ✅
+- 본편 구조 = v38 그대로 유지
+
+---
+
+## 🔒 v38 — 2026-05-22 후반 (사용자 final P1 — EP32 학대 1문장 삭제)
+
+**Archive:** `07_final/02_the_offering_FINAL_v38_clean.md` (v39 base · v37 + EP32 patch)
+
+**v38 = v37 + 사용자 final P1 (2026-05-22 후반):**
+
+**P1 EP32 학대 톤 1문장 삭제:**
+- `She has not eaten. She has not bathed. She has not been allowed to change clothes.` → 삭제
+- Why: 70 miles 걷기 + lip split + dust + wrist black + 공개 편지 낭독 + kneeling만으로 굴욕 충분. `not bathed / not allowed to change clothes` = 학대 쪽으로 읽힘 + 추가 도파민 X = 하이리스크 로우리턴.
+
+**평가자 최종 판정 (사용자 인용):**
+- 구조 = **LOCK 가능**
+- 핵심 쾌감 = **충분히 강함**
+- 리스크 관리 = **대체로 적정**
+- 한 줄: "EP32 한 문장 삭제만 권장. 더 이상 구조 건드리지 마라."
+
+**v38 자가 검증:**
+- Korean = 0건 ✅
+- Hard Cut = 49 + Fade Out 1 ✅
+- "I love you" = 6 lines (3 페어 = EP46+EP47+EP50) ✅
+- 행정 어휘 = 0건 ✅
+- 정답 4 미공개 EP10-EP45 ✅
+- 정체 reveal = EP46 (silver+wooden bird + 분노+T5 폭발) ✅
+- 임신 인지 = EP28 (둘만) ✅
+- Sera 가학 톤 = 완전 안전권 ✅
+- Isolde 취약+자존심 = 균형 ✅
+- spoken English 수축형 사적 장면 = 적용 ✅
+- 학대 톤 잔재 = 0건 ✅
+
+**🔒 LOCK 상태:** 사용자 명시 "거의 FINAL LOCK 가능권" → 사용자 최종 확인 후 LOCK 선언 + commit anchor.
+
+---
+
+## 🔄 v37 — 2026-05-22 후반 (사용자 종합 톤 패스 — agency·완성형 톤 다운·spoken English 수축형)
+
+**Archive:** `07_final/02_the_offering_FINAL_v37_clean.md` (v38 base · v36 + 톤 패스)
+
+**v37 = v36 + 사용자 종합 피드백 (2026-05-22 후반·LOCK 가능권):**
+
+**P0 (필수):**
+- **EP10 agency 오해 fix:** `That man did not let me leave the bed.` → `That man made me forget there was a door.` (강제/비동의 뉘앙스 제거·EP01 선택 정합 유지)
+- **EP50 Sera plural hands fix:** `Find work for her hands.` → `Find her work down there.` (Sera 한 손 잃음 → plural hands = 조롱 느낌 제거)
+
+**P1:**
+- **EP02 No fear 잔재 fix:** `No fear. No apology.` → `Fear flashes once. She hates it. No apology.` (취약+자존심 동시 진동)
+
+**Isolde 공적 톤 다운 (3건 — 너무 완성형 여왕/페미니즘 히어로 톤):**
+- EP25 `That is the order.` → `That's how we do it.`
+- EP37 `You did not ask to be here. Go home. Marry whoever you choose. If any dragon house ever offers you to my husband again, I will hear about it before they finish the sentence — and the keep will answer.` → `You didn't ask to be here. Go home. If any dragon house offers you to my husband again — I'll hear about it before they finish the sentence.`
+- EP41 `I am at cycle nineteen. I am done flinching.` → `I've been flinching for nineteen cycles. I'm tired of it.` (취약+자존심 톤)
+
+**Spoken English 수축형 사적 장면 polish:**
+- EP10 첫 침실 (`I am → I'm`·`That is → That's`·`I will → I'll`·`does not → doesn't`·`cannot → can't` 등)
+- EP16 침실 chair closer 비트 + Visitor 후 VO
+- EP28 임신 인지 사적 비트 (Vael "Yours" 선언 폴리시)
+- EP29 침실 basin 비트
+- EP46 reveal 사적 비트 (`Do not touch me.` → `Don't touch me.` / `I will not.` → `I won't.` / `I cannot decide` → `I can't decide` / `First time I have said it` → `First time I've said it` 등)
+- EP47 labor eve 사적
+- EP48 labor 침실
+- EP49 birth aftermath 사적
+- 의식/판결/왕권 (council·hall·throne·declaration·iron plate·crown ceremony) = 격식 유지
+
+**v37 자가 검증:**
+- Korean = 0건 ✅
+- Hard Cut = 49 + Fade Out 1 ✅
+- "I love you" = 6 lines (3 페어) ✅
+- 행정 어휘 = 0건 ✅
+- 정답 4 미공개 EP10-EP45 ✅
+- 본편 구조 = v36 그대로 유지 (사용자 명시 "구조는 더 건드리지 마라")
+- Isolde 톤 = 취약+자존심·결정은 빠른 (사용자 균형 명시)
+
+**LOCK 가능권 도달.** 사용자 검토 후 최종 LOCK 또는 추가 turn.
+
+---
+
+## 🔄 v36 — 2026-05-22 후반 (사용자 P0/P1 patch — bird VO 정합 + Sera 에필로그 톤 다운)
+
+**Archive:** `07_final/02_the_offering_FINAL_v36_clean.md` (v37 base · v35 + P0/P1 patch)
+
+**v36 = v35 + 사용자 P0/P1 patches (2026-05-22 후반):**
+- **P0-1 EP46 bird VO 정합 오류 fix:** `The same bird. Twice. One my mother died for. One his mother carved.` → `The same bird. Twice. One I left on the table the morning after. One his mother carved.` (Isolde 어머니 ≠ silver pin 설정. EP01 회수 감정 정확.)
+- **P0-2 EP50 grey-haired Sera fix:** `a thin grey-haired figure in plain servant clothing. Her throat is bare. She does not look up at the bench.` → `a thin red-haired figure in plain servant clothing. Her throat is bare. She does not look up.` (2.5년 만에 회색머리 = 마법적 노화/학대 느낌. red-haired = Sera 알아보이되 망가뜨린 느낌 줄임.)
+- **P1 EP50 smell of fear 삭제:** `She has not been allowed to wash since yesterday evening — she smells of her own fear.` 문장 삭제 (저급한 가학으로 읽힘)
+
+**v36 자가 검증 추가:**
+- bird VO 정합 = OK ✅
+- Sera 에필로그 잔상 = 톤 다운 ✅
+- "Smell of fear" 가학 라인 = 제거 ✅
+- 본편 구조 = v35 그대로 유지 (사용자 명시 "그 외 구조는 더 건드리지 않는 게 맞다")
+
+**별도 turn으로 보류 (사용자 결정 필요):**
+- Spoken English 수축형 polish (사용자 인용한 두 번째 검토자 평가): 침실/상처/reveal/임신/출산 대사 한정으로 `I am not / I cannot / I have / First time I have` → `I'm not / I can't / I've / First time I've` 변환. 의식/처벌/왕권 선언은 격식 유지. 별도 명시 요청 시 진행.
+- Corvin 회수 보강 (두 번째 검토자 지적): EP01 강한 setup 대비 후반 너무 조용히 사라짐. 단 사용자 본인 "그 외 구조 더 건드리지 마라" 명시 → 별도 turn.
+
+---
+
+## 🔄 v35 — 2026-05-22 후반 (사용자 종합 피드백 — EP46 reveal 강화 + Isolde 취약 톤 + Sera 가학 톤 다운)
+
+**Archive:** `07_final/02_the_offering_FINAL_v35_clean.md` (v36 base · 5,310 lines · 사용자 P0/P1 patch 적용 전)
+
+**Archive (옛 v33.5.7):** `07_final/02_the_offering_FINAL_v33_5_clean.md` (4,811 lines · 정합 완성 · 보상 너무 빠른 모델 · 참고용)
+
+**⚠️ v34 base 단독 보존 X:** v34 (Turn 1-5 자율 작업 결과) → 사용자 종합 피드백 직접 덮어쓰면서 git commit 안 한 상태에서 분기 시점 놓침. v34 단독 file 보존 못 함. 다음부터 매 turn commit으로 anchor 잡기.
+
+**v35 = v34 base + 사용자 종합 피드백 (2026-05-22 후반):**
+- **EP46 reveal 대폭 강화** (얌전한 확인 대화 → 분노+배신감+몸의 기억+Vael 기다림+Isolde 다시 다가감+T5+I love you 한 장면 폭발)
+  - 두 새 reveal + Isolde 충격
+  - FLASHBACK festival night + Isolde 두 손가락 Vael 턱에 (몸의 기억)
+  - 분노 dialogue (`A whole year. / You watched me want you. / You kept me starving.`)
+  - Vael 자기 두려움 인정 (`I was afraid of you looking at me the way you are looking at me now.`)
+  - `Do not touch me.` / `I will not.` / Vael 손 desk에 펴고 기다림
+  - Isolde 분노한 채로 다시 다가감 → 첫 키스 + lip bite + `Make it up.`
+  - T5 결합 (CUTAWAY: 신체+pin+wooden bird+tear가 Vael 손에 떨어짐)
+  - 결합 후 양방향 `I love you`
+- **EP49 Sera 가학 톤 다운:** "You watch my daughter / You die when I am done" 라인 제거 → "Without a name. Without a house. You are no one. She does not exist in this hall." + Isolde 더 이상 의식하지 않음
+- **Isolde 취약 톤 보강 (6건):**
+  - EP02 `She does not cry.` → `Her eyes shine. She does not let the tear fall.`
+  - EP05 `She is not afraid. She is curious.` → `Fear crosses her face. Then something harder covers it. She is curious.`
+  - EP06 `She does not flinch.` → `She flinches once at the sound. Hates that her shoulders moved.`
+  - EP15 `She does not flinch.` → `Her hand grips the basin edge. White at the knuckle.`
+  - EP35 `She does not cry. Does not raise her voice.` → `Her hand shakes once when she refolds the letter. Her voice still lands.`
+  - EP42 `She does not cry. Does not yell.` → `Her eyes shine once. She does not let the tear fall.`
+
+**v35 자가 검증:**
+- Korean = 0건 ✅
+- Hard Cut = 49 + Fade Out 1 ✅
+- "I love you" = 6 lines (3 페어 = EP46+EP47+EP50) ✅
+- 행정/법/정치 어휘 = 0건 ✅
+- 정답 4 미공개 EP10-EP45 ✅
+- 정체 reveal = EP46 (silver+wooden bird + 분노+T5 폭발) ✅
+- 임신 인지 = EP28 (둘만) ✅
+- Sera 가학 톤 = 다운 완료 ✅
+- Isolde 취약+자존심 톤 = 보강 완료 ✅
+
+---
+
+## 🔄 v34 (Turn 1-5 자율 작업 단계 — v35 base) — 2026-05-22
+
+**v34 재기획 핵심 원칙 (사용자 + 외부 피드백 통합):**
+
+1. **EP01-EP03 = 최대한 유지** (정합 보강만 · 사건 추가 X · 재구성 X)
+2. **EP10-EP45 = 정답 0** (정체 / 임신 / mate / heir / queen / family 모두 미룸)
+3. **EP46-EP49 = 보상 4 단계 폭발** (정체 → 사회 인정 → 출산 → queen + Sera 영원)
+4. **EP50 = 짧은 family lock + 둘째 hint + Fade Out**
+5. **중간 자극 = high-heat + 양방향 응징 (대놓고 + 남모르게) + Isolde 속마음 + denial + 거의-reveal**
+6. **Vael = 차갑고 거칠고 강압적 + Isolde에게만 지극 + Dragon Shadow + 언령 마법**
+7. **Isolde 속마음 = 짜증·부정·끌림·인정하기 싫은 욕망** (퉁명스러운 여성향 부정·trauma spiral X)
+8. **소품 = 5-6 핵심만** (silver bird pin · wooden bird · silver crown · Volzaar mark · Veine 6-seal letter)
+
+**보상 위치 매트릭스:**
+
+| 보상 | EP | 비율 |
+|---|---|---|
+| Bride 공개 첫 선언 | EP09 | 18% |
+| Isolde 임신 인지 (둘만) | EP28 | 56% |
+| Public bride/mate/heir 공식 (외부 letter 응답) | EP41 | 82% |
+| **정체 reveal (Isolde가 확정)** | **EP46** | **92%** |
+| **마음 합일 (`I love you` 양방향)** | **EP46-47** | **92-94%** |
+| 출산 + Mireille 명명 | EP48 | 96% |
+| Public queen + Sera 영원 굴욕 | EP49 | 98% |
+| Family lock + 둘째 hint | EP50 | 100% |
+
+**응징 레벨 분포 (EP10-EP49):**
+- L1 (남모르게·audience-only) = 50% · 매 2-3 EP마다
+- L2-L3 (대놓고 small/medium) = 30%
+- L4-L5 (대놓고 정점·hand 절단·영원 굴욕) = 20% (후반 집중)
+
+**수위 분포 (T1-T5):**
+- T4 (full 결합) = 5 비트 (EP01·EP18·EP24·EP29·EP43)
+- T5 (정점·마음 합일 직전) = 1 비트 (EP46)
+- T2-T3 (kiss·partial) = 약 12 비트 · 매 EP 마다 tension 누적
+- T1 (touch·외부) = 약 20 비트
+
+**진행 plan (5 turn 분할):**
+- Turn 1 ✅ 완료: framework + title 변경 + meta + visual_lock title
+- Turn 2 ✅ 완료 (2026-05-22): EP10 Isolde 부정 VO 추가·EP12 council mate 단정 → dragon shadow 위압 + 정답 미공개·EP14 임신 카드 → 자기 선언 카드·EP15-16 완전 재작성 (Volmir 손 burn·Sera corridor 위협·Council letter 거부·Visitor 호칭 박살·chair closer)·EP17-EP20 mate/heir 발화 제거·visual_lock props 19→5 축소
+- Turn 3 ✅ 완료 (2026-05-22): EP22 MONTAGE 5주 압축·EP23 INTERCUT 3공간 + Vael/Sera VO 1회씩 (감정 엔진)·EP25 FLASHBACK festival night (basin)·EP26 외부 wall 침입 INTERCUT·EP28 임신 인지 첫 (CUTAWAY Halren) + Vael "Yours" 선언·헤더 cycle counting 복원
+- Turn 4 ✅ 완료 (2026-05-22): EP37 Veyra "my queen" → "my lady" (외부 호칭 미공인)·EP41 Sera wrist burn·EP42 letter burn + 4 declarations·EP43 Sera 손 절단 + Vael 강제 echo·EP44 VO 3개→1개 통합
+- Turn 5 ✅ 완료 (2026-05-22): EP46 정체 reveal 추가 (silver pin + wooden bird 둘 같이 + Isolde 확정 + Vael 1년 침묵 이유 설명) + 첫 양방향 "I love you"·EP47 두번째 "I love you" 추가·EP48 출산 + INTERCUT 침입·EP49 Mireille 명명·EP50 Sera 영원 servant + 둘째 hint + Fade Out + 새 title super
+
+**자가 검증 (2026-05-22 v34 완료):**
+- Korean = 0건 ✅
+- Hard Cut = 49 + Fade Out 1 ✅
+- "I love you" = 6 lines (3 페어 = EP46+EP47+EP50) ✅ (iloveyou_budget 정합)
+- 행정/법/정치 어휘 = 0건 ✅
+- 정답 4 미공개 EP10-EP45 ✅
+- 정체 reveal = EP46 (silver+wooden bird 같이) ✅
+- 임신 인지 = EP28 (둘만) ✅
+- 첫 "I love you" 양방향 = EP46 ✅
+- 비선형 연출 추가 = MONTAGE (EP22)·INTERCUT (EP23·EP26·EP48)·FLASHBACK (EP25·EP46)·CUTAWAY (EP28) ✅
+
+**v34 캐릭터 charter 메모리:**
+- `memory/project_offering_isolde_character_charter.md` (Isolde 본질: 취약+자존심+끌림 3중·festival night man 부정 루프·PC식 독립성 금지)
+- `memory/project_offering_vael_character_charter.md` (Vael 본질: 거칠고 차가운 Dragon Lord·Isolde에게만 지극·말 1-5단어·Dragon shadow·언령)
+- `memory/project_offering_v34_writing_charter.md` (집필 charter: 4 지연 질문·sex≠관계 정답·VO 절제·비선형 연출 강제·중반 욕망 엔진)
+
+---
+
+## 🔒 옛 정본 v33.5.7 — 2026-05-22 LOCKED (v34 base · archive 참고용)
+
+**v33.5.7 patches (8 — 전수 검수 마감):**
+- EP01 line 138 emotion-as-narration ban: `That breaks him.` → `He stops trying to slow down. His jaw goes hard against her mouth.` (action sequence)
+- EP12 line 1572 article 누락 grammar: `That is not bride. That is mate.` → `That is not a bride. That is a mate.`
+- EP12 line 1587 plural stiff: `There are no precedents.` → `There is no precedent for this.`
+- EP16 line 2052 clunky construction: `the keep will not survive me being a stranger to it.` → `the keep will not survive a stranger in your chair.`
+- EP23 line 2698 birth-cycle baseline 정합 (EP48 cycle 24 birth와 정합): `Real labor at twenty.` → `Real labor between twenty and twenty-four. Firstborns often wait.`
+- EP29 line 3046 emotion-as-narration ban: `That is what breaks him.` → `He stops trying. His hand closes once at her waist. Tight.`
+- EP32 line 3329 long anaphora 분리: comma → period (vertical 호흡 정정)
+- EP50 line 4774 contraction polish: `That is all. We stop after this one.` → `That's all. We stop after this.`
+
+**전수 검수 결과 (사용자 명시 = 치명적 정합·논리공백·논리오류·spoken 어색 only · 사소·연출팀 직관 가능 부분 제외):**
+- 치명 정합 모순 = 0건 (모든 patches 후)
+- 시간/캐릭터/소품/배경 정합 = 0 모순
+- 캐릭터 voice 일관성 = 7 캐릭터 모두 일관 (Isolde·Vael·Sera·Kiran·Halren·Adeline·Aldric)
+- 행정/법/정치 어휘 = 0건
+- 단위 혼동 (cycle vs years old) = 0건
+- emotion-as-narration ban = 0건 (EP01·EP29 patches 후)
+- 부위 순회 tracking = 0건 (EP01·EP29 CUTAWAY patches 후)
+- 정보 순서 모순 = 0건 (EP13 mother/wooden bird patches 후)
+- spoken English 어색 = 0건 (모든 발견 patches 적용 후)
+
+**LOCK Spec:**
+```
+v33.5.7 = 50 EP / 49 Hard Cut + 1 Fade Out / Korean 0 / "I love you" 3 instances (EP16·EP46·EP50)
+정합 모순 0 · spoken 어색 0 · 단위 혼동 0 · 정보 순서 0 · emotion-as-narration 0 · 부위 순회 0 · 행정 어휘 0
+```
+
+**v33.5.6 patches (3) — cycle/years old 워싱 (외부 검토 P0):**
+- EP37 line 3612 Western Lord: `She is twenty-two cycles old.` → `She is twenty-two years old.`
+- EP37 line 3632 Isolde: `You brought a girl twenty-two cycles old` → `You brought a twenty-two-year-old girl`
+- EP44 line 4229: `sixteen cycles old, barely past first transformation` → `sixteen years old, barely past first transformation`
+
+**근본 인사이트:**
+> `cycle` = 임신 진행 단위 (20 cycle baseline). `cycle` ≠ 사람/드래곤 나이 단위. 동일 단어를 두 의미로 쓰면 시청자가 즉시 "20 cycle 임신 ≈ 22 cycle 성인 여성 나이?" 산수 혼동. **사람/드래곤 나이 = `years old` 강제.** EP02 Isolde 발화 `at eight years old` 와 일관.
 
 **v33.5.5 patches (10):**
 - EP01 line 116-124 CUTAWAY 재구성: 부위 순회 (collarbone → throat → shoulder → ribs → hip) 제거 → Vael 통제 상실 + Isolde agency 우선
