@@ -1,10 +1,694 @@
 # THE OFFERING — 진행 메타
 
-## 🔒 v45 LOCK 직전 — 2026-05-22 후반 (EP01 dialogue 신화·voice memory 엔진 + EP46 회상 정합)
+## 🔒 v52 LOCK 완료 — 2026-05-26 (정본 FINAL·git commit anchor)
+
+**LOCK 선언일:** 2026-05-26 (사용자: "추후 수정이 생길지도 모르겠지만. 일단 LOCK")
+**LOCK 정본:** `07_final/02_the_offering_FINAL_v52_clean.md`
+**상태:** 🔒 **LOCK 완료**·git commit anchor 완료
+
+---
+
+## 🔒 v52 LOCK 직전 마지막 정리 — 2026-05-26 (필수 4건 + 권장 3건·로맨스 보상 강화)
 
 **제목:** `THE OFFERING: Crowned by the Dragon Lord` (v34부터 유지)
 
-**정본 (LOCK 후보 FINAL):** `07_final/02_the_offering_FINAL_v45_clean.md` (v44 base + EP01/EP46 voice memory 정합 4건)
+**정본 (LOCK 후보 FINAL):** `07_final/02_the_offering_FINAL_v52_clean.md` (v51 base + 사용자 마지막 spec 7건)
+
+**v52 = v51 + 사용자 최종 정리 spec (2026-05-26 일곱 번째):**
+
+**v51 진단 (사용자 명시):**
+- 북미 여성향 high-heat dark romantasy vertical 기준 = "거의 LOCK 가능권"
+- EP01 첫컷 Flash-Forward = 성공 (첫 3초 락인 강함)
+- 핵심 상품성 = **impure 낙인 → bride/mate/mother of heir/wife 재명명 로맨스 보상** (복수극·정치극 X)
+- 대대적 개작 금지·EP01 첫컷·EP09 bride payoff·EP16/29/40/43/46 high-heat·EP46 reveal·EP49-50 결산 유지
+
+**v52 P0 필수 4건:**
+
+**1. EP26 공간 방향축 수정 (L3313):**
+- 옛: `Two men in black cloth scaling the basalt from the eastern side.`
+- 신: `Two men in black cloth scaling the basalt from the south wall.`
+- 이유: Volzaar = southern cousin 가문·침입 방향 south가 논리 정합. 후반 Vael "letter로 east에 시선 묶고 their hands went over the wall" 발화와 일치.
+
+**2. 빈 [VISUAL/ACTION] 블록 3건 제거:**
+- L4326-4327 EP38 endhook: 빈 [VISUAL/ACTION] + [END HOOK] → [END HOOK]만
+- L4389-4390 EP39 (Crown EP) endhook: 동일 정리
+- L5176-5177 EP48 labor: 동일 정리
+- 이유: production-lock 파일 포맷 정합
+
+**3. EP47/48 분만 간격 명료화 (L5143):**
+- 옛: `ISOLDE: Twelve.`
+- 신: `ISOLDE: Twelve minutes.`
+- 이유: "12분 vs 12번째 진통" 모호성 제거. 짧고 명확.
+
+**4. EP29 임신 후 재결합 안전성 명료화 (L3556):**
+- 옛: `ISOLDE: Halren said it is safe.`
+- 신: `ISOLDE: Halren said the first danger has passed.`
+- 이유: EP16/23에서 이미 sex 있었던 관계·"safe"는 시청자가 "이미 했잖아?" 혼동 위험. "first danger has passed" = 임신 초기 위험 구간 지났음 명확.
+
+**v52 P1 권장 3건 (상업적 강화):**
+
+**5. EP05 드래곤 단서 부정 VO 추가 (L708 직후):**
+- 추가: `ISOLDE (VO): The man at the festival had a heartbeat I could not explain. I told myself the rain invented it. I will not invent him here.`
+- 이유: EP01에서 Isolde가 Vael의 비늘·비정상 심장 박동 느낌. 후에 dragon 팔려갈 때 단서 부정 = "알아챔" 아닌 "**부정**" → reveal 앞당기지 않으면서 Isolde가 바보처럼 보이지 않음. EP46 reveal weight 보호.
+
+**6. EP40 high-heat 대사 1쌍 보강 (Flash-forward 직후·sex 시작 직전):**
+- 추가:
+  ```
+  [DIALOGUE]
+  VAEL: Look at me when you say yes.
+  ISOLDE: I am looking.
+  ```
+- 이유: 새 sex scene 추가 X·기존 장면의 **허락/얼굴/이름/선택/굶주림** 직접화. "You're mine" 기계 반복 X·consent + eye contact + 로맨스 직접화.
+- 위치 선택: EP29 vs EP40 → EP40 (crown 후·queen 호명·family lock 직전 ritual 보상 비트). EP46 보상 이미 강함·과다 추가 금지.
+
+**7. EP46 bird prop 한 줄 정리 (L4944 직후):**
+- 추가:
+  ```
+  [DIALOGUE]
+  VAEL: The wooden one was hers. I had the silver one made from it.
+  ```
+- 이유: EP01 "My mother left it here. I come every year." (모친 회상) → EP46 wooden bird (모친 carving) + silver bird (Vael 제작) 정합 닫힘. **새 lore 열지 않고 prop 정합성만 닫는 용도.**
+
+**기각 (사용자 명시 거부):**
+- Festival = Vael reveal을 EP25~28로 앞당기는 안 ❌ (EP46 "You kept me starving / Make it up" 보상 무너짐·몸 먼저 알고 머리 늦게 도착 구조 유지)
+- Isolde를 정치 전투/복수극 능력으로 강화 ❌ (능동성 = 몸 경계·욕망 인정·Vael 선택)
+- 비선형 insert 추가 ❌ (v51 이미 충분)
+- 영어 전면 polish ❌ (vertical fantasy tone 안에서 작동·`She is here. Rumor is not.` 같은 압축감 유지)
+
+**v52 자가 검증:**
+- Korean = 0건 ✅
+- Hard Cut = 50 (v51와 동일·EP01 내부 transition 유지) + Fade Out 1 ✅
+- "I love you" = 6 lines ✅
+- Lines = 5595 (v51 5589 + 6 신규)
+- 빈 [VISUAL/ACTION] + [END HOOK] 연속 패턴 = **0건** ✅
+- 빈 [VISUAL/ACTION] + [DIALOGUE] 연속 패턴 = **0건** ✅
+- 옛 위반 패턴 (eastern side·it is safe·`Twelve.` 단독) = 0건 ✅
+- 새 dialogue/VO 모두 적용 (south wall·first danger·Twelve minutes·heartbeat I could not explain·Look at me when you say yes·The wooden one was hers) ✅
+- EP01 Flash-Forward·EP02-50 모든 내용·voice 격하·silver pin continuity·dowager queen·Isolde UI·EP46 reveal/T5·로맨스 쾌감·high-heat 모두 유지 ✅
+
+**상태: 🔒 LOCK 가능 (v52 = LOCK 후보 FINAL·사용자 spec 정확 적용).** commit anchor 진행 여부 결정 대기.
+
+**사용자 명시 최종 금지 (v52 LOCK 후):**
+- reveal 앞당기기 / 정치·복수 강화 / Isolde PC식 전투형 / 새 lore·새 빌런·새 장면 / high-heat 약화 / EP46 보상 약화 = **모두 금지**
+
+**최종 목표 (사용자 명시):** "오류 제거"가 목적 아니다. 북미 여성 paid vertical 시청자가 "다음 화를 안 열 수 없게" 만드는 것. v52 = 로맨스 엔진·섹슈얼 텐션·impure→bride/mate/mother/wife 재명명 보상 유지한 채 작은 혼선만 정리.
+
+---
+
+## v51 — 2026-05-26 (EP01 첫 15초 재구조화·v52에서 LOCK 직전 마지막 정리)
+
+**Archive:** `07_final/02_the_offering_FINAL_v51_clean.md` (v52 base · EP26 east wall·Halren safe·Twelve·빈 블록·드래곤 단서 부정·EP40 consent·bird prop 정합 정리 전)
+
+**v51 정본 (옛):** `07_final/02_the_offering_FINAL_v51_clean.md`
+
+**제목:** `THE OFFERING: Crowned by the Dragon Lord` (v34부터 유지)
+
+**정본 (LOCK 후보 FINAL):** `07_final/02_the_offering_FINAL_v51_clean.md` (v50 base + EP01 시작부 정보 도착 순서 재배열)
+
+**v51 = v50 + 사용자 EP01 첫 15초 재구조화 spec (2026-05-26 여섯 번째):**
+
+**v50 진단 (사용자 명시):**
+- 북미 여성 타깃 기준 v50 = "프로덕션 LOCK 가능권"
+- 단 EP01 첫 15초 정보 도착 순서가 늦음
+- 현재 초반: Thunder → Fire Festival → festival spell → UI → Corvin memory → Vael pin setup 순서
+- 분위기·세계관은 잡히지만 "무슨 큰일이 났는가?" 즉시 박히지 않음
+
+**v51 목표 (사용자 명시):**
+- 첫 컷 = 축제 전경 X → **"미래의 IMPURE 판정" 플래시포워드**로 시작
+- 시청자가 먼저 보는 질문: "이 여자가 공개적으로 IMPURE 판정을 받았다. 왜?"
+- 그 질문 후 축제 하룻밤으로 돌아가야 EP01 섹슈얼 텐션이 단순 원나잇이 아닌 **운명적 추락/선택/대가**로 읽힘
+
+**v51 EP01 시작부 재구조화 (S 번호 5개 → 6개·전부 +1 시프트):**
+
+**새 S#1 — Veine Palace. Bridal Mirror Hall. Flash-Forward (신규 3-4초):**
+```
+[VISUAL/ACTION]
+ECU. Isolde's bare palm on the bridal mirror.
+Black spreads under her fingers.
+
+[DIALOGUE]
+PRIEST (VO): IMPURE!
+
+[VISUAL/ACTION]
+Court reaction flash. A cup drops. Stepmother's mouth almost smiles. Corvin steps back.
+
+Hard Cut.
+
+[UI/GRAPHIC]
+ONE MONTH EARLIER
+```
+
+**새 S#2 — Veine Fire Festival (옛 S#1 재구조화):**
+- 옛 시작 `Thunder over the rooftops. Fire lanterns in the rain...` + festival spell narration → 제거
+- 신 시작 (사용자 spec 그대로):
+  ```
+  Fire Festival. Rain. Bodies. Lanterns.
+  Isolde alone at the edge of the crowd. No escort. No crown.
+  ```
+- 이후 ISOLDE UI → Corvin memory flash cut → ISOLDE VO ("In a month they sell me. Tonight is mine.") → Across the square Vael 등장 → "Everyone else laughs and dances. He does not. She does not." → belong/Earn dialogue → "He takes her hand. She lets him."
+- **첫 15초 outside에 festival spell + glamoured face 묘사 + silver pin audience-only + VAEL VO 모친 회상** 보존 (사용자 spec "뒤로 미뤄라"):
+  ```
+  Tonight, a festival spell changes every face in the crowd. No masks. No true faces until dawn. No names. No titles.
+  Her glamoured face is older, sharper, impossible to place. His face is not his true face either.
+  His hand closes once around a small silver bird pin inside his coat. Audience-only. She does not see it yet.
+  
+  VAEL (VO): My mother left it here. I come every year.
+  ```
+- 위 보존 라인 = audience 세계관 룰 setup + EP46 wooden bird payoff emotional 복선
+
+**S 번호 시프트 (옛 → 신):**
+- 옛 S#1 (Fire Festival) → 새 S#2
+- 옛 S#2 (Small Room) → 새 S#3
+- 옛 S#3 (Before Dawn) → 새 S#4
+- 옛 S#4 (Exterior One Month Later) → 새 S#5
+- 옛 S#5 (Bridal Mirror Hall Continuous full IMPURE) → 새 S#6
+
+**핵심 효과:**
+- 새 S#1 Flash-Forward IMPURE = audience 첫 15초 hook question
+- ONE MONTH EARLIER 축제 진입 = "왜?" 답 시작
+- 새 S#6 = 풀 IMPURE 재현·새 S#1 미리보기의 완성
+- 두 번 등장하지만 1st = hook (3-4초·snippet) + 2nd = payoff (full reveal·확장)
+
+**유지 (변경 X):**
+- 옛 S#2/S#3 sex sequence (이제 새 S#3/S#4)·belong/Earn dialogue·silver pin Isolde 두고 떠남·Vael "Find her" 마지막 라인 = 그대로
+- 옛 S#5 Bridal Mirror Hall Continuous full sequence (이제 새 S#6) = 그대로
+- EP02~EP50 모든 내용 = 그대로
+
+**v51 자가 검증:**
+- Korean = 0건 ✅
+- Hard Cut = 50 (v50 49 + 1·새 S#1 내부 transition·EP ending count 여전히 49) + Fade Out 1 ✅
+- "I love you" = 6 lines ✅
+- Lines = 5589 (v50 5571 + 18 신규)
+- 새 S#1 PRIEST IMPURE Flash-Forward + ONE MONTH EARLIER UI 추가 ✅
+- 새 S#2 Fire Festival 재구조화·festival spell·VAEL VO 보존 (뒤로 미룸) ✅
+- EP01 S 번호 6개 (S#1~S#6) 모두 +1 시프트 ✅
+- EP02~EP50 변경 0건 ✅
+- 모든 위 P0/P1/P3 적용 사항 = 유지 ✅
+- voice 격하·jaw 매칭 reveal 제거·silver pin continuity·dowager queen·Isolde UI = 모두 유지 ✅
+
+**상태: 🔒 LOCK 가능 (사용자 spec 정확 적용).** commit anchor 진행 여부 결정 대기.
+
+**사용자 명시 (LOCK 후 작업 금지·v50 메시지에서 유지):**
+- 구조·로맨스 보상·high-heat·EP46 reveal·Sera 처분·Vael 폭력성·비선형 insert = 건드리지 말 것
+- 추가 창작 수정 = 금지
+
+---
+
+## v50 — 2026-05-26 (paid vertical 다크 로맨타지 최적화·v51에서 EP01 첫 15초 재구조화)
+
+**Archive:** `07_final/02_the_offering_FINAL_v50_clean.md` (v51 base · EP01 시작부 = Thunder/Fire Festival 시작 — v51에서 Bridal Mirror Hall Flash-Forward IMPURE hook으로 교체)
+
+**v50 정본 (옛):** `07_final/02_the_offering_FINAL_v50_clean.md`
+
+**제목:** `THE OFFERING: Crowned by the Dragon Lord` (v34부터 유지)
+
+**정본 (LOCK 후보 FINAL):** `07_final/02_the_offering_FINAL_v50_clean.md` (v49 base + 사용자 spec 13건 적용)
+
+**v50 = v49 + 사용자 paid vertical 다크 로맨타지 최적화 spec (2026-05-26 네 번째):**
+
+**목표 (사용자 명시):**
+- 북미 여성향 paid vertical에서 더 잘 팔리는 다크 로맨타지로 만드는 것
+- 복수극·정치극이 아님. 정치·처벌·전쟁·악녀 응징 = 로맨스 보상을 키우는 장치
+- 핵심 상품성: "모욕당한 여자가 괴물 같은 남자에게 욕망되고·보호받고·bride/mate/wife로 다시 불리며·그 남자의 침실·몸·아이·사랑을 최종 보상으로 받는 것"
+- Isolde 능동성 = 정치 연설/악당 제압 아님·Vael과의 관계에서 욕망/허락/거절/질문/접근을 직접 선택하는 데서
+
+**v50 P0 정합성 5건:**
+
+**1. Council 방향축 east 통일 (9건):**
+- 초반: council/eastern temple/eastern sky·EP10 east·council two days east
+- EP30 이후: south/southern 흔들림 발견 → east 통일 (Volzaar house는 south OK·council 관련만 east)
+- 교체:
+  - "Two Days South of the Keep" → "Two Days East of the Keep" (L3574)
+  - "He rides east. Fast." → "He rides west. Fast." (L3658, Vael이 Sera 두고 keep으로 돌아가는 방향)
+  - "two days away on foot. The council ground one day away the other direction" → "two days west on foot. The council ground one day farther east" (L3660)
+  - "She walks east. Slow." → "She walks west. Slow." (L3662·Sera가 keep 향해 도보)
+  - "Three. South. Toward the council ground." → "Three. East. Toward the council ground." (L3719·KIRAN)
+  - "southern waystation" → "eastern waystation" (L3742)
+  - "Twelve council force coming from the south at low altitude." → "Twelve council force coming from the east at low altitude." (L3987)
+  - "southern wasteland" → "eastern wasteland" (L4005)
+
+**2. EP13 "He breaks wrists" 선행 오류 수정 (L1858):**
+- 옛: `He breaks wrists when other men look at me.`
+- 신: `He kills men who think my shame belongs in their mouths.`
+- 이유: EP13 시점 wrist-breaking 이미지 충분히 쌓이기 전·실제 행동 (EP12 침입자 사살)과 일치하는 표현으로 교체
+
+**3. EP30 "One year" → "One season" (L3624):**
+- 옛: `One year of her in my keep and you write to her enemies.`
+- 신: `One season with her in my keep and you write to her enemies.`
+- 이유: EP46 "A whole year / the year you stole"가 reveal 감정 보상·EP30에서 미리 소모 방지
+
+**4. EP39 speaker label 통일 (L4274·L4276):**
+- 옛: `OLDEST LORD:` → 신: `OLDEST KEEP LORD:` (replace_all)
+- 이유: EP38·EP39 표기 흔들림 → 제작락 전 통일
+
+**5. EP49 출산 동작 문장 명료화 (L5196·L5205):**
+- 옛: `Halren wraps the child. Does not lift her.` → 신: `Halren wraps the child without raising her away from the bed.`
+- 옛: `Halren sets the wrapped child on Isolde's chest.` → 신: `Halren slides the wrapped child onto Isolde's chest.`
+- 이유: 출산 = 감정 보상 장면·동작 명료화
+
+**v50 P1 로맨스 쾌감 강화 4건:**
+
+**6. EP28 임신 은폐 장면 — Isolde 몸-통제권 dialogue 3줄 추가 (L3424 직후):**
+- 추가:
+  ```
+  ISOLDE: You own the hall. You own the walls. You do not own this body.
+  ISOLDE: Never hide me from myself again.
+  VAEL: Never.
+  ```
+- 효과: Vael의 약속 회수 ("First word is yours...") → Isolde 몸 권리 declaration → 손 포개기·"Get in the bed." 흐름. **로맨스적 주도권** (정치 X·몸 O).
+
+**7. EP09 FIRST PAID 로맨스/신체 기억 VO 추가 (L1264-1282 END HOOK 안):**
+- wash chamber 안 Isolde 시퀀스 신규:
+  - Inside the wash chamber. Isolde leaning over the basin. Breathing hard. She touches her own wrist where his sleeve brushed it in the hall.
+  - ISOLDE (VO): He brushed my hand. Just once.
+  - ISOLDE (VO): Why did my pulse jump?
+  - Flash cut — Festival night. Less than a second. The glamoured man's hand pinning her wrists to the wall. His mouth at her throat.
+  - ISOLDE (VO): The monster I was sold to... why does his silence feel like the only man I've ever wanted?
+  - She leans her forehead against the mirror. Confused. Burning.
+- 효과: paywall 통과 = 정치 정보 X·로맨스/섹슈얼 텐션 ("이 남자가 그 남자인가?" + "왜 내 몸이 먼저 반응하지?")
+- flash cut = 1초 미만 짧게·EP46 reveal 단서 퍼즐 만들지 않음
+
+**8. EP25 Vael 통제를 깨는 Isolde 능동 비트 (basin scene 큰 교체):**
+- 옛 (L3222-3231): Isolde가 단순히 받아들이는 wet hand to jaw
+- 신: Isolde가 turn around·Vael shirt 잡고 chamber door로 밀고·"Stop hiding behind my back. Stop kissing me like a man apologizing for something he will not name." declaration·"If you touch me, look at me. Prove you are not the ghost I keep trying to find in you." 도전·Vael 절제 깨지고 desperate kiss·"He kisses me like he is starving. I kiss him back like I am too." VO
+- 효과: **악당과 싸우는 능동성 아님·남주의 은폐와 절제를 몸으로 깨는 로맨스 능동성**
+
+**9. EP30-43 로맨스 중심 비선형 insert 3건:**
+- **9-1 EP30 END HOOK 안 (L3690 부근):** Festival night Insert (그녀 hand in his hair·back arching·mouth open) → Back-Chamber Vael 의자 팔걸이 잡음·touch 안 함. **Vael "touch-starved"가 정치 X·몸 갈증.**
+- **9-2 EP36 S#1 진정 시퀀스 직후 (L4091 부근):** Montage — Vael outside the bed·chair에서 empty sheet·door에서 reaching 막음. Back-Present: 그녀 손 his scale·breathing slows. **"그녀만이 그를 진정시킨다" 로맨스 쾌감.**
+- **9-3 EP40 "Tonight you are mine." 직후 (L4351 부근):** Flash-forward — Morning light·child between them·Isolde 자고·Vael 둘 다 손. Back-Chamber: crown windowsill·his mouth at her shoulder. **wife/mate/family lock 보상 시각 압축.**
+
+**유지 (사용자 명시 약화 금지):**
+- EP46 reveal/T5 구조: "Don't touch me" → 분노 → 욕망 → T5 보상 빠른 흐름 유지
+- Vael 폭력성·소유욕·잔혹성 (Isolde 앞에서만 멈추는 남자) 유지
+- Sera 악녀 엔진 (질투·망상·모욕·뒷배 행동) 유지
+- EP01/EP16/EP29/EP40/EP43/EP46 high-heat 유지
+- staccato 문체·echo·답 회피 `...` 패턴 = vertical 문법으로 유지
+
+**기각 항목 (사용자 명시 거부):**
+- EP01 cheap glowing stone 추가 ❌
+- EP26 envoy kneel 대형 정치 장면 ❌
+- EP27 corpse-message 비트 ❌
+- EP30-43 전투/정치 중심 intercut 다수 ❌ (로맨스 중심 3건만)
+- EP42 Veine letter flash cut (선택·9-3 적용으로 생략)
+
+**v50 자가 검증:**
+- Korean = 0건 ✅
+- Hard Cut = 49 + Fade Out 1 ✅
+- "I love you" = 6 lines ✅
+- Lines = 5571 (v49 5504 + 67 신규) ✅
+- 명시 위반 패턴 (south·OLDEST LORD·breaks wrists·One year·Halren) = **0건** ✅
+- 새 dialogue/insert 모두 적용 (You own the hall·brushed my hand·Stop hiding·Insert Festival·Montage·Flash-forward) ✅
+- voice 직접 약속 = 0건 (v47 격하 유지) ✅
+- silver pin 중간부 = 0건 (v49 패치 유지) ✅
+- EP46 reveal trigger·T5·high-heat = v49 그대로 ✅
+- 본편 구조·T4/T5 분포·EP01/08/09/16/29/40/43/46/49/50 핵심 비트 = 유지 ✅
+
+**v50 추가 패치 (2026-05-26 다섯 번째·LOCK 가능권 확인 후 format/영어 미세 수정 2건):**
+
+**P3 #1. EP09 END HOOK / DIALOGUE 블록 정리 + 영어 자연화 (L1264-1285):**
+- 문제: `[END HOOK]` 안에 ISOLDE (VO) 대사가 라벨 없이 들어감·포맷 원칙상 VO는 `[DIALOGUE]` 블록 안에 있어야 함
+- 영어 문제: `why does his silence feel like the only man I've ever wanted?` — `silence`가 `man`처럼 느껴진다는 구조 영어 감각 비틀림
+- 수정:
+  - `[END HOOK]` → `[VISUAL/ACTION]`으로 첫 라벨 교체 (wash chamber 진입 액션)
+  - VO 대사 2 블록을 `[DIALOGUE]` 라벨 안에 정리
+  - Flash cut Festival night = `[VISUAL/ACTION]` 라벨
+  - 마지막 VO `[DIALOGUE]` 라벨
+  - `[END HOOK]`는 "She leans her forehead against the mirror" 시작
+  - 영어 교체: `why does his silence feel like the only man I've ever wanted?` → `why does he feel like the only man I've ever wanted?`
+
+**P3 #2. EP42 빈 `[VISUAL/ACTION]` 블록 제거 (L4662):**
+- 문제: `[VISUAL/ACTION]` 라벨이 즉시 `[DIALOGUE]` 라벨 다음에 오는 빈 블록 (내용 0줄)
+- 수정: 빈 `[VISUAL/ACTION]` 라벨 삭제
+
+**v50 최종 자가 검증 (2건 패치 후):**
+- Korean = 0건 ✅
+- Hard Cut = 49 + Fade Out 1 ✅
+- "I love you" = 6 lines ✅
+- "his silence feel like" 구버전 영어 = 0건 ✅
+- 새 영어 `why does he feel like the only man` L1279 ✅
+- 빈 `[VISUAL/ACTION]` block (L4662) 제거 ✅
+- 모든 위 P0/P1 적용 사항 = 유지 ✅
+
+**🔒 상태: LOCK 가능 (사용자 명시 "프로덕션 LOCK 가능권" 2026-05-26).** commit anchor 진행 여부 사용자 결정 대기.
+
+**사용자 명시 (LOCK 후 작업 금지):**
+- 구조·로맨스 보상·high-heat·EP46 reveal·Sera 처분·Vael 폭력성·비선형 insert = **건드리지 말 것**
+- 추가 창작 수정 = **금지**
+
+---
+
+## v49 — 2026-05-26 (옛 P0 3건 + P1 specific 8건·v50에서 paid vertical 다크 로맨타지 최적화)
+
+**Archive:** `07_final/02_the_offering_FINAL_v49_clean.md` (v50 base · silver pin·dowager queen·Isolde UI 패치 + ESL polish — v50에서 council east 통일·EP13 wrist·EP30 season·EP09 wash chamber 로맨스 VO·EP25 능동 비트·EP30/36/40 비선형 insert·EP28 몸-통제권 추가)
+
+**v49 정본 (옛):** `07_final/02_the_offering_FINAL_v49_clean.md`
+
+**제목:** `THE OFFERING: Crowned by the Dragon Lord` (v34부터 유지)
+
+**정본 (LOCK 후보 FINAL):** `07_final/02_the_offering_FINAL_v49_clean.md` (v48 base + P0 3건 + P1 specific 8건 명시 spec)
+
+**v49 = v48 + 사용자 종합 수용 분류 (P0/P1/P2 우선순위·2026-05-26 세 번째):**
+
+**v48 vertical 보편 원칙 평가 사용자 분류:**
+- 원칙은 수용·대규모 처방 (600-900 lines 추가·비선형 30건 추가)은 기각
+- **정합성 오류는 고치고·vertical 쾌감 (과장/압축/반복)은 죽이지 말 것**
+- 매출 baseline + reveal 정답 4 지연 + dialogue 점유 모두 통과 (Isolde 363 + VO 45 > Vael 318)
+- staccato·echo·답 회피 `...`·EP46 빠른 화해 = vertical 문법으로 유지
+
+**v49 P0 수정 3건 (반드시):**
+
+**1. Silver bird pin continuity (prop 정합성 오류):**
+- 문제: EP01 dawn Isolde가 silver bird pin을 테이블에 두고 떠남 (L198). 그런데 EP16·EP29 등 중간부에서 silver pin이 *다시 머리에 있는 듯* 묘사. **Hard rule "setup before payoff 5 EP" 위반.**
+- 수정 원칙: **EP46 reveal 전까지 silver bird pin = Isolde 머리에 없어야 함.** 중간부 pin은 plain pin / black pin / hairpin으로 교체. EP46 reveal 직후 Isolde가 silver bird pin을 직접 꽂는 1줄 추가.
+- 교체 4건:
+  - L2438 EP16: `INSERT on the silver pin still in her hair` → `INSERT on the plain black pin still in her hair`
+  - L2463 EP16: `The pin stays in her hair.` → `The black pin stays in her hair.`
+  - L3507 EP29: `Bare except for the silver pin still in her hair` → `Bare except for a plain hairpin still in her hair`
+  - L3515 EP29: `The pin in her hair catching the candle.` → `The black pin in her hair catching the candle.`
+- 추가 1줄 (EP46 T5 시작 직전·L4979 부근):
+  ```
+  She takes the silver bird pin from the cloth and pushes it into her hair herself.
+  ```
+- EP46 이후 (L4993·L5000·L5030)의 silver pin in hair = OK (Isolde가 직접 꽂은 후)
+- 유지: L35·L108·L124·L198 (EP01 festival night)·L4287 (EP38 crown placement *과거 회상*·EP01 callback)·L4855·L4857 (EP46 책상 위·Vael 보관)
+
+**2. Dowager queen → Queen of veine (호칭 오류):**
+- 문제: Aldric 생존 중 (EP19 임종 전까지)에 Stepmother를 `dowager queen`이라 부르는 건 틀림. `dowager` = widow of king·이미 사망한 왕의 미망인 의미.
+- 수정 2건:
+  - L540 character UI: `STEPMOTHER / dowager queen` → `STEPMOTHER / queen of veine`
+  - L2620 dialogue: `STEPMOTHER: I am the dowager queen.` → `STEPMOTHER: I am the queen.`
+
+**3. Isolde status UI 정리 (princess 호칭 vs no court rank 충돌 해소):**
+- 문제: 초반 UI `ISOLDE / princess of veine`이 본인 발화 `I have no court rank in my own kingdom` (후반)과 충돌. "princess"는 너무 공식 직함처럼 읽힘.
+- 수정:
+  - L25 character UI: `ISOLDE / princess of veine` → `ISOLDE / king's unwanted daughter`
+
+**v49 P1 specific 수정 8건:**
+
+**4. EP46 wound 한 줄 보강 (Vael 정치 답과 Isolde 감정 wound misalign 완화):**
+- 위치: L4907-4908 사이 (`I kept you alive.` → `You kept me starving.` 사이)
+- 추가:
+  ```
+  ISOLDE: You protected my body. You let me hate what it wanted.
+  VAEL: I know.
+  ```
+- 효과: Vael의 정치 답("kept you alive") → Isolde 감정 답("starving") 사이 감정 다리. "내 몸이 거짓말했다" wound emotional 회수.
+
+**5. EP25 angle VO 완화 (단서 퍼즐 톤 제거):**
+- L3203: `ISOLDE (VO): The angle is the same. That is all I am letting myself notice tonight.` → `ISOLDE (VO): This is too close to that night. That is all I am letting myself notice.`
+
+**6. ESL/문어 polish 6건 (NA 자막 가독성·spoken English 정합):**
+- L848: `She is smaller than the rumor.` → `The stories made her taller.`
+- L912: `I would think hard about why before you decide my fate for me.` → `Ask yourself why before you decide my fate for me.`
+- L1514: `Because the keep is not strong enough to lose her house.` → `Because the keep is not strong enough to make an enemy of her house.`
+- L4203: `for three hundred after.` → `for three hundred after that.`
+- L4689: `wanted my chair for twelve years.` → `wanted my place for twelve years.`
+- L5331: `Volzaar restored.` → `The Volzaar name is restored today.`
+
+**7. "That is the voice" 확증톤 완화 (voice = 단서 격하 유지):**
+- L1022: `ISOLDE (VO): That voice. That is the voice.` → `ISOLDE (VO): That voice. I know that voice.`
+- 효과: 확증 단정 → 친숙 인지로 격하. voice memory 엔진 v47 격하 원칙 일관.
+
+**8. V. signature 명확화 (audience 혼동 방지):**
+- L3811: `ISOLDE: Your name on it.` → `ISOLDE: Your house mark on it.`
+- L3814: `SERA (louder, voice breaking): Mine. The signature is mine.` → `SERA (louder, voice breaking): Mine. The Volzaar mark is mine.`
+- 효과: "V" = Sera 본인 이름이 아니라 Volzaar 가문 이니셜임을 audience에 명확.
+
+**v49 자가 검증:**
+- Korean = 0건 ✅
+- Hard Cut = 49 + Fade Out 1 ✅
+- "I love you" = 6 lines ✅
+- Lines = 5504 (v48 5500 + 4 신규 라인) ✅
+- 중간부 (EP02-EP45) silver pin in hair = **0건** (EP01·EP38 callback·EP46 reveal 부근만) ✅
+- 명시 ESL/voice 라인 모두 제거 (no matches found) ✅
+- voice 직접 약속 = 0건 (v47 격하 유지) ✅
+- jaw 매칭 reveal trigger = 0건 (v48 유지) ✅
+- "I thought I buried that night. He kept it alive." Isolde VO (v48 유지) ✅
+- 본편 구조·T4/T5 분포 = v48 그대로 ✅
+
+**v49 미적용 (사용자 P1 creative·추가 결정 필요):**
+- **#9 EP09 (FIRST PAID) Isolde 회수 1-2개**: 위치·구체 dialogue 미정·사용자 판단 필요
+- **#10 EP30-43 짧은 비선형 insert 3-5건**: 위치·구체 형식 미정·사용자 판단 필요
+- **#11 EP25-27 Isolde 능동 비트 1개**: 형식 미정·사용자 판단 필요
+
+→ 위 3건 = 다음 step에서 사용자 결정 후 진행 (v50 분기 또는 v49 추가).
+
+**상태: 🔒 LOCK 후보 FINAL (creative 3건 보강 전 단계).** 사용자 최종 확인 + creative 보강 진행 여부 결정 대기.
+
+---
+
+## v48 — 2026-05-26 (옛 reveal trigger 감정화·prop continuity 오류 silver pin 잔존·v49에서 패치)
+
+**Archive:** `07_final/02_the_offering_FINAL_v48_clean.md` (v49 base · silver pin 중간부 회수 setup 부재·dowager queen 오용·princess UI 충돌 — v49에서 모두 패치)
+
+**v48 정본 (옛):** `07_final/02_the_offering_FINAL_v48_clean.md` (v47 base + reveal trigger 감정화·pin/jaw 단서 매칭 제거·Vael "Earn it" 약속 직접 회수)
+
+**제목:** `THE OFFERING: Crowned by the Dragon Lord` (v34부터 유지)
+
+**정본 (LOCK 후보 FINAL):** `07_final/02_the_offering_FINAL_v48_clean.md` (v47 base + EP46 reveal trigger 감정화 + EP01 stranger/pin 단서 약화)
+
+**v48 = v47 + 사용자 reveal 정합성 피드백 (2026-05-26 두 번째):**
+
+**v47 진단 — 사용자 지적 4가지:**
+1. EP01 line 185 `The pin. The night. The promise.` — `pin`이 너무 기능적·물건 단서
+2. EP46 reveal이 여전히 `silver pin + wooden bird + jaw angle` 조합으로 터짐 — 감정 reveal X·"단서가 맞네" 퍼즐 톤
+3. EP46 line 4883-4885 `The exact spot the glamoured man's jaw had been / The angle is the same.` — 기계적
+4. EP01 line 111 `You carry pretty things for a man with no name.` — `no name` 냄새 완전 제거 필요
+
+**핵심 원칙 (사용자 명시):**
+- pin/jaw를 reveal **트리거**에서 뺀다
+- "Earn it" 약속을 **Vael이 직접 꺼내는** 방식으로 reveal trigger 교체
+- 감정 reveal > 단서 매칭 퍼즐
+
+**v48 수정 4개 지점:**
+
+**1. EP01 line 111 — `no name` 냄새 제거:**
+- 옛: `ISOLDE: You carry pretty things for a man with no name.`
+- 신: `ISOLDE: You carry pretty things for a stranger.`
+- HIM 응답 `Not pretty. Old.` 그대로 유지
+
+**2. EP01 line 185 — pin 단서 약화:**
+- 옛 (v47): `HIM: The pin. The night. The promise.`
+- 신 (v48): `HIM: The night. The promise.`
+- pin 제거. 육체적 감각·약속만 유지.
+
+**3. EP46 flashback 축소 (line 4872-4880):**
+- 옛 (v47):
+  ```
+  A glamoured man's hand near hers in the firelit crowd.
+  *You do not belong here.*
+  *I do not belong anywhere.*
+  The kiss against the wall. The silver pin sliding into her wet hair.
+  *Then belong to me until dawn.*
+  *Earn it.*
+  His mouth at her throat. The angle of his jaw.
+  ```
+- 신 (v48):
+  ```
+  Flashback — Festival Night.
+  
+  *You do not belong here.*
+  *I do not belong anywhere.*
+  
+  The wall. The rain. His mouth at her throat.
+  
+  *Then belong to me until dawn.*
+  *Earn it.*
+  ```
+- `silver pin sliding` 회상 제거 + `angle of his jaw` 회상 제거. words + 육체 감각 (wall/rain/mouth)만.
+
+**4. EP46 reveal trigger 교체 (line 4881-4897) — jaw 매칭 sequence 삭제 + Vael "Earn it" 직접 회수:**
+- 옛 (v47):
+  ```
+  She lifts her hand from the chair back. Slow. Sets two fingers against Vael's jaw. The exact spot the glamoured man's jaw had been the night above the festival square.
+  The angle is the same.
+  Her two fingers shake against his face.
+  She drops her hand.
+  ISOLDE: ... It was you.
+  VAEL: It was me.
+  ```
+- 신 (v48):
+  ```
+  Back — Chamber.
+  Her hand still on the chair back. Holding it hard.
+  VAEL: You told me to earn it.
+  ISOLDE: ...
+  VAEL: I have been trying since dawn.
+  She stops breathing.
+  ISOLDE: ... It was you.
+  VAEL: It was me.
+  ```
+- jaw 매칭 (기계적 단서) 완전 삭제 → Vael의 EP01 "Earn it" 약속 회수가 reveal trigger.
+- "I have been trying since dawn" = Vael이 1년 내내 이름 없이 그녀를 가지려 노력했다는 emotional 회수.
+
+**유지 (변경 X):**
+- EP01 line 55-58 첫 만남 belong/Earn dialogue (v46~v48 그대로)
+- EP08~EP18 voice 의심 라인 6건 (단서 톤·확증 아님)
+- EP25 신체 플래시백 (mouth at her throat / angle is the same — EP25 chamber 컨텍스트·EP46 reveal trigger 아님)
+- EP46 책상 silver pin + wooden bird 컷 (line 4848-4869) + Isolde VO `The same bird. Twice.` — Vael 모친 carving이라는 emotional setup (EP01 line 38 `My mother left it here. I come every year.` payoff). **단서 트리거 아닌 emotional offering 위치 유지.** ⚠️ 사용자 명시 변경 안 함·필요 시 추가 약화 가능.
+
+**v48 자가 검증:**
+- Korean = 0건 ✅
+- Hard Cut = 49 + Fade Out 1 ✅
+- "I love you" = 6 lines ✅
+- voice 직접 약속 = 0건 (v47 유지) ✅
+- jaw 매칭 reveal trigger (`exact spot` / `angle is the same` EP46) = 0건 ✅
+- pin 단서 라인 (`The pin. The night. The promise.` / `silver pin sliding into her wet hair`) = 0건 ✅
+- `no name` (EP01 line 111) = 제거 ✅
+- 새 reveal trigger (`You told me to earn it.` / `I have been trying since dawn.` / `She stops breathing.`) = 적용 ✅
+- voice 의심 라인 (EP08-EP18) = 6건 유지 ✅
+- EP25 신체 플래시백 = 유지 ✅
+- 본편 구조·T4/T5 분포 = v47 그대로
+
+**5. EP46 line 4864 VO 교체 — 단서 정리 → 감정 보상 (사용자 옵션 B 추천 적용):**
+- 옛: `ISOLDE (VO): The same bird. Twice. One I left on the table the morning after. One his mother carved.` (pin/bird 단서 정리 톤)
+- 신: `ISOLDE (VO): I thought I buried that night. He kept it alive.` (감정 회수·주인공이 reveal 소유)
+- 효과: 책상 컷이 *물건 증명*이 아니라 *Isolde가 자기 안의 밤을 다시 보는 장면*. EP46 후속 라인 `You kept me starving` (line 4908)과 emotional callback (`He kept it alive` ↔ `You kept me starving`).
+
+**핵심 원칙 추가 (사용자 명시·시스템 원칙):**
+- **Vertical은 주인공이 말로 장면을 소유한다.** 주인공의 dialogue가 가장 많아야 함. VO 적절히 사용. 비선형 장면 구성 간헐적.
+- **Reveal은 물건이 설명하면 약하고 주인공이 말로 찢어야 한다.** (메모리 저장: `feedback_vertical_protagonist_voice_ownership.md`)
+
+**상태: 🔒 LOCK 후보 FINAL.** 사용자 최종 확인 후 commit anchor + LOCK 선언.
+
+---
+
+## v47 — 2026-05-26 (voice 축 격하·pin 단서 일부 잔존·v48에서 reveal trigger 감정화)
+
+**Archive:** `07_final/02_the_offering_FINAL_v47_clean.md` (v48 base · pin/jaw 단서 매칭 reveal trigger 잔존 — v48에서 Vael "Earn it" 약속 직접 회수로 교체)
+
+**v47 정본 (옛):** `07_final/02_the_offering_FINAL_v47_clean.md` (v46 base + voice 약속 7개 라인 격하 + EP01 액션 보강 + EP46 reveal 분산)
+
+**v47 = v46 + 사용자 정합성 피드백 (2026-05-26 추가):**
+
+**v46 진단 — 사용자 지적 4가지 정합성 공백:**
+1. `You do not belong here` 액션 근거 부족 (직전 컷에 Vael이 그렇게 느끼는 이유 보강 필요)
+2. `Remember my voice / I will` = voice 약속 — EP10~EP18 voice 의심 구간 논리 흔들림 ("기억하겠다고 약속했는데 왜 못 알아보나")
+3. `His voice will be / His voice is` narration = voice를 "확증"으로 격상 → 같은 논리 공백
+4. EP46 reveal flashback에서 voice 회수 = "왜 이제야?" 문제
+
+**핵심 원칙 (사용자 명시):**
+- Vael 개인이 얼굴 숨긴 게 **아니라** → 축제 마법이 모두의 얼굴 숨김 (윤리 리스크 축소)
+- Isolde는 voice를 단서로 의심할 수 있지만 → "기억하겠다"고 **약속한 적 없음**
+- **voice 역할 = "확증" → "불편한 단서"로 격하**
+- EP46 보상 = voice 단독 아니라 **pin + words + jaw + touch + promise 결합**
+
+**v47 수정 7개 라인:**
+
+**1. Line 33 — narration voice 확증 톤 제거:**
+- 옛: `His face is not his true face. His voice will be.`
+- 신: `His face is not his true face.` (`His voice will be.` 삭제)
+
+**2. Line 43 — EP01 첫 만남 직전 액션 보강 (Vael이 "you do not belong here" 느끼는 근거):**
+- 옛: `Everyone around Isolde is laughing. She is not.`
+- 신: `Around her, borrowed faces laugh and dance. Isolde stays still at the edge of the crowd.`
+- `borrowed faces` = 축제 마법 reminder + `at the edge of the crowd` = Vael이 군중 속 떠 있는 여자 알아보는 액션 근거
+
+**3. Line 131-134 — EP01 중반 voice 약속 제거 + earn 도전 callback:**
+- 옛 (v46): `HIM: Until dawn. / ISOLDE: Until dawn. / HIM: Remember my voice. / ISOLDE: I will.`
+- 신 (v47): `HIM: Until dawn. / ISOLDE: Until dawn. / HIM: Did I earn it? / ISOLDE (breath broken): Dawn has not come.`
+- voice 약속 → earn/dawn 도전으로 교체
+
+**4. Line 168 — narration voice 확증 톤 제거 (line 33과 짝):**
+- 옛: `The festival spell still holds — his face is not his real face until dawn. His voice is.`
+- 신: `The festival spell still holds — his face is not his real face until dawn.`
+
+**5. Line 182-187 — EP01 후반 voice 기억 약속 → pin/night/promise 분산:**
+- 옛: `ISOLDE: Then what do I remember? / HIM: My voice. My chest. Tonight.`
+- 신: `ISOLDE: Then what do I keep? / HIM: The pin. The night. The promise.`
+- 결정적 기억을 voice에서 → pin/night/promise 3 요소로 분산. voice는 단서로만 남김.
+
+**6. Line 4873-4879 — EP46 reveal flashback 분산 형식 + voice 회수 제거:**
+- 옛 (v46): `His words return first — *You do not belong here. Then belong to me until dawn. Earn it. Remember my voice.*` (한 줄·voice 포함)
+- 신 (v47):
+  ```
+  A glamoured man's hand near hers in the firelit crowd.
+  *You do not belong here.*
+  *I do not belong anywhere.*
+  The kiss against the wall. The silver pin sliding into her wet hair.
+  *Then belong to me until dawn.*
+  *Earn it.*
+  His mouth at her throat. The angle of his jaw.
+  ```
+- `Remember my voice` 회상 제거. words + pin + kiss + jaw 결합으로 reveal trigger.
+
+**유지 (변경 X):**
+- EP01 line 55-58 첫 만남 belong/Earn dialogue (v46 그대로)
+- EP08~EP18 voice 의심 라인 6건 (`I have heard that voice somewhere` / `That voice. That is the voice.` / `Why does your voice sound like the man I —` / `But his voice was yours.` / `voice was lower at the end of a word` 등)
+  - **voice는 "확증"이 아닌 "불편한 단서"로만 작동**
+- EP25 신체 플래시백 (mouth at her throat / angle is the same / jaw / wet hand against his jaw / festival man's hand could have lived in that exact place)
+- EP46 jaw 매칭 reveal (line 4883-4885 그대로)
+
+**v47 자가 검증:**
+- Korean = 0건 ✅
+- Hard Cut = 49 + Fade Out 1 ✅
+- "I love you" = 6 lines ✅
+- 허용 5종만 (블록 분포 v46 동일) ✅
+- EP↔END HOOK = 50↔50 ✅
+- voice 직접 약속 (Remember my voice / My voice / What do I remember / His voice will/is) = **0건** ✅
+- voice 의심 라인 (EP08-EP18) = 6건 유지 ✅
+- EP25 신체 플래시백 = 유지 ✅
+- EP46 reveal = pin + words + jaw + touch 결합 ✅
+- 본편 구조·T4/T5 분포·핵심 대사 = v46 그대로
+
+**상태: 🔒 LOCK 후보 FINAL.** 사용자 최종 확인 후 commit anchor + LOCK 선언.
+
+---
+
+## v46 — 2026-05-26 (옛 — voice 약속 직접 포함 톤·v47에서 격하)
+
+**Archive:** `07_final/02_the_offering_FINAL_v46_clean.md` (v47 base · `Remember my voice / I will` 직접 약속 포함 — v47에서 voice 축 격하)
+
+**정본 (옛):** `07_final/02_the_offering_FINAL_v46_clean.md` (v45 base + EP01 dialogue 옵션 5 + EP46 회상 정합)
+
+**v46 = v45 + EP01 옵션 5 적용 (2026-05-26):**
+
+**v45 옵션 5 채택 이유 — face/glamour 노골 설명 톤 제거:**
+- v45 dialogue `This is not my face. / Nor mine.` = 둘 다 가짜 얼굴 인지 = 설정 설명 톤·미스터리 약화
+- v46 옵션 5 = `belong to me until dawn / Earn it` = 다크 로맨타지 소유 + 도전 + Vael/Isolde charter 정합
+
+**EP01 첫 만남 dialogue 교체 (line 55-58):**
+- 옛 (v45): `HIM: This is not my face. / ISOLDE: Nor mine. / HIM: Then remember my voice. / ISOLDE: Make me.`
+- 신 (v46): `HIM: You do not belong here. / ISOLDE: I do not belong anywhere. / HIM: Then belong to me until dawn. / ISOLDE: Earn it.`
+- Vael charter (압도·소유·짧고 차갑게) + Isolde charter (취약+자존심+도발) 양쪽 100% 정합
+- 원나잇 거래감 0·소유 challenge
+
+**EP01 후반 dialogue 교체 (line 131-134) — Until dawn callback + voice memory 일부 유지:**
+- 옛 (v45): `HIM: Will you remember? / ISOLDE (breath broken): Your voice. / HIM: Look at me. / ISOLDE: I am.`
+- 신 (v46): `HIM: Until dawn. / ISOLDE (breath broken): Until dawn. / HIM: Remember my voice. / ISOLDE: I will.`
+- 첫 만남 옵션 5의 `until dawn` 두 번 callback + voice memory 한 줄 살림 (EP10-EP46 정합 유지)
+
+**EP46 voice flashback 정합 (line 4873):**
+- 옛 (v45): `His voice — *This is not my face. Nor mine. Then remember my voice. Make me.*`
+- 신 (v46): `His words return first — *You do not belong here. Then belong to me until dawn. Earn it. Remember my voice.*`
+- 사용자 명시 회상 + voice memory 한 줄 추가로 EP10-EP46 정합
+
+**voice memory 엔진 정합 점검 (전체 흐름):**
+- EP01 line 26 baseline: `His face is not his true face. His voice will be.` (voice = 진짜·audience 안내)
+- EP01 후반: `Remember my voice. / I will.` (Isolde 약속)
+- EP10: `Why does your voice sound like the man I —` (의심 시작)
+- EP15: `That man's voice was lower at the end of a word.` (분석)
+- EP46 회상: `Remember my voice` 포함 + reveal
+- = **일관 정합 유지**
+
+**v46 자가 검증:**
+- Korean = 0건 ✅
+- Hard Cut = 49 + Fade Out 1 ✅
+- "I love you" = 6 lines ✅
+- 허용 5종만 (블록 분포 v45 동일) ✅
+- EP↔END HOOK = 50↔50 ✅
+- 다크 로맨타지 톤 = 강화 ✅
+- voice memory 엔진 = 일관 정합 ✅
+- 본편 구조·T4/T5 분포·핵심 대사 = v45 그대로
+
+**상태: 🔒 LOCK 후보 FINAL.** 사용자 최종 확인 후 commit anchor + LOCK 선언.
+
+---
+
+## v45 — 2026-05-22 후반 (옛 EP01 dialogue v1 — face/glamour 노골 톤)
+
+**Archive:** `07_final/02_the_offering_FINAL_v45_clean.md` (v46 base · `This is not my face` 톤 — v46에서 옵션 5로 교체)
 
 **v45 = v44 + 사용자 P0 4건 (2026-05-22 후반):**
 

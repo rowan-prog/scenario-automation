@@ -51,7 +51,7 @@ phase_0 (아이디어) → phase_1 (러프 청사진) → phase_2 (피칭) → �
 | 폴더 | 작품 | 현재본 (정본) | 단계 |
 |---|---|---|---|
 | `01_titan_born` | TITAN BORN | (07_final 확인 필요) | 완결 ✅ |
-| `02_the_offering` | THE OFFERING: Crowned by the Dragon Lord | **🔒 `07_final/02_the_offering_FINAL_v45_clean.md`** | **LOCK 후보 FINAL** (2026-05-22·v45·EP01 voice memory 엔진·EP46 voice 회수·[END HOOK] 안 대사 0·T4 7비트·EP↔END HOOK 50↔50·"I love you" 6 lines·정답 4 지연 EP46 폭발) |
+| `02_the_offering` | THE OFFERING: Crowned by the Dragon Lord | **🔒 `07_final/02_the_offering_FINAL_v52_clean.md`** | **LOCK 완료 (정본 FINAL·2026-05-26·git anchor)** (v52·LOCK 직전 마지막 정리·필수 4건 [EP26 south wall·EP29 first danger·EP47/48 Twelve minutes·빈 블록 3건] + 권장 3건 [EP05 드래곤 단서 부정 VO·EP40 consent dialogue·EP46 bird prop 한 줄]·v51 EP01 첫 15초 Flash-Forward + S번호 6 시프트 유지·v50 paid vertical 다크 로맨타지 최적화 base 유지·v49 P0 [silver pin·dowager queen·Isolde UI] 유지·T4 7비트·"I love you" 6 lines·정답 4 지연 EP46 폭발) |
 | `03_most_wanted_ship` | I BOUGHT THE GALAXY'S MOST WANTED SHIP | (07_final 확인 필요) | phase_2 완료 |
 | `_X_04_heiress_clause` | I AM THE HEIR | — | 폐기 |
 | `06_she_stole_my_face` | SHE STOLE MY FACE | (07_final 확인 필요) | phase_3 완료 |
