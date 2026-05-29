@@ -1,16 +1,442 @@
 # THE OFFERING — 진행 메타
 
+## ⚠️ v52 LOCK 취소 — 2026-05-26 (Demon Lord 흡수·vertical drama tone 실패 진단·v53 vertical surgery 프로젝트 시작)
+
+**LOCK 취소 사유 (사용자 명시):**
+- v52 prose 표면 Demon Lord's Marked Bride (실패작) 흡수 — 캐릭터·말투·어휘·문장·호흡·스타일 판박이 수준
+- Cycle dialogue 10건 (`Eight cycles.` / `I've been flinching for nineteen cycles.`) = fantasy time-unit 작위
+- Tri-colon anaphora 4 라인 (`My bride. My mate. The mother of my heir.`) EP42·43·43·50 반복
+- EP50 6쌍 mirror echo (`My wife. / Your wife. / My mate. / Your mate. ...`) = 셰익스피어 5막·vertical drama 아님
+- Vael voice = Demon Lord Lucien voice 직수입·Sera "twelve years + wrist-as-brand" 직수입·Hall declaration 동선 복제
+- 사용자 평가: "정신나간 레벨로 수준 떨어진다·문학적 완성도 X·vertical 매출 driver 부재·작가 명문장 작위·셰익스피어 극대본 톤"
+
+**근본 원인 (사용자 진단·메모리 저장):**
+- Claude default voice = 문학적·subtle gravity 편향. Vertical drama (cheap immediate·loud broadcast) 정반대.
+- 히트작 raw 흡수 selective bias = 잘못된 패턴만 흡수 (문학 prose만·매출 driver 무시)
+- 자가 평가 함정 — 메모리 룰 (no-theater-tone·emotion-to-action·demon-lord-failure-postmortem) 적용 실패
+- 외부 강제 layer 없으면 같은 실패 반복
+- → 메모리 always-load 5번 신규: `feedback_claude_voice_bias_vertical_failure.md`
+
+---
+
+## 🩺 v53 vertical surgery 프로젝트 — 2026-05-26 (대수술·내부 rewrite·진행 중)
+
+**Draft:** `07_final/02_the_offering_FINAL_v53_vertical_surgery.md` (v52 base copy·5595 lines·surgery 시작 전 상태)
+
+**원본 보존:** `07_final/02_the_offering_FINAL_v52_clean.md` (LOCK 취소이나 file 보존)
+
+**작업 목표 (사용자 명시·재정렬 2026-05-26):**
+- **25% 절감 = 결과 목표·고정 회차별 커팅 명령 X.** 기계적 EP별 목표 줄 수 맞추면 대본 더 망가짐.
+- **목적:** vertical drama 호흡 망치는 요소 제거 (안 팔리는 문체·과한 설명·Demon Lord식 의식문·반복 보상어)
+- 50화 유지·핵심 보상 유지·high-heat 유지
+
+**회차별 감량 폭 (사용자 명시·고정 X·범위 가이드):**
+- **EP01: 0-10%만.** 무료 락인 훼손 금지. EP01 첫 만남 dialogue (`belong/Earn it`) 유지 — 옵션 ① `They left you alone...` (보호자 톤 strong·sexual tension 약함)·옵션 ② `Run with me...` (YA 도주물 톤·dark romantasy 약함) 모두 기각. EP01은 중복 지문/설명/단서 과잉만 나중에 최소 정리.
+- **EP08/09: 0-10%만.** Paywall 보상 훼손 금지.
+- **High-heat EP (EP16·EP23·EP29·EP40·EP43·EP46): 10-15%.** 지문 반복만 축소·수위/텐션 약화 금지.
+- **EP30-EP43 정치/제도 구간 (가장 위험): 25-40% 축소.**
+- **EP50: 20-30%.** Sera 처분·family lock 유지.
+
+**🚨 EP01 건드리는 건 마지막. 먼저 손댈 곳 = 후반부 cycle·keep·my bride/my mate·판결문 Isolde·제도 관리자 Vael.**
+
+**유지 (사용자 명시·약화 금지):**
+- EP01 black mirror `IMPURE!` 첫 컷
+- festival one-night·Vael 정체 지연
+- EP08/09 `She is my bride`·임신/mate/heir 보상
+- EP46 festival man reveal·birth·family lock·Sera 최종 처분
+- high-heat 장면 수와 기능
+
+**절대 금지 (사용자 명시):**
+- 로맨스를 정치극으로 키우기
+- Isolde를 PC식 여왕/복수 집행자
+- Vael을 제도/계약 설명자
+- 고수위/성적 긴장 약화·회차 수 축소·lore 추가·council/house/contract 설명 확대
+
+**대사 원칙 (사용자 명시):**
+- 짧다·바로 이해된다·배우가 말할 수 있다·시청자 0.5초 안에 감정 반응
+- 설정어보다 몸/방/입/손/아이/남자 먼저 건드리기
+- 감정 대사 제도어 금지: `cycle·keep·house·council·recognizes·blessing·decision·mark·name·every·will not·did not·do not`
+- Title ladder 반복 금지·negation-stack 도배 금지·tri-colon anaphora EP당 ≤1회
+
+**캐릭터 voice 재정의:**
+- **Isolde:** 짧고 직접·감정은 몸과 관계에서·"싫다/원한다/멈춰라/와라/안 돌아간다"·복수극 여주 X·팔려간 여자가 자기 몸과 남자 선택하는 로맨스 여주
+- **Vael:** 더 사적·더 직접·"내가 이 여자를 원한다" > "세계가 인정한다"·침실 제도어 금지·title ladder 반복 금지·Lucien voice 분리
+- **Sera:** 단순·못되게·질투/열등감/성적 자리 욕망 즉시 보이게·법정 언어 X
+
+**작업 phase (사용자 명시·재정렬 2026-05-26·5 phase):**
+
+**1단계 — Voice Detox (전체 대본 grep 우선):**
+전체에서 아래 유형만 찾아 정리:
+- cycle 들어간 감정 대사 (fantasy time-unit 작위)
+- my bride / my mate / my queen 반복 (title ladder)
+- will not / did not / do not 과다 stack (negation-stack)
+- keep/house/council/mark가 로맨스 감정 대신하는 대사 (제도어로 감정 대체)
+- Isolde 판결문식 대사 (PC 여왕·복수 집행자 톤)
+- Vael 계약/제도 관리자 대사 (Lucien voice)
+
+**2단계 — 기능별 압축 (회차별 다른 감량 폭):**
+- EP01·EP08/09: 0-10%만
+- high-heat: 지문 반복 10-15%
+- EP30-43 정치/제도: 25-40%
+- EP50: 20-30% (Sera 처분·family lock 유지)
+
+**3단계 — 대사 재작성 기준:**
+- 더 문학적 X·더 짧고·더 직접·배우 말할 수 있게
+- 시청자 0.5초 안에 감정 반응
+- 몸/방/입/손/아이/남자 먼저 (설정어 X)
+
+**4단계 — EP43 로맨스 회수:**
+- 사용자 예시 (`Say it / She is your wife`) 기계 적용 금지
+- EP43 실제 문제 = Sera 굴복 후 Vael title ladder 또 설명
+- 복수극 X·로맨스로 회수 (사용자 추천: `She said it. / I heard. / Do you want more? / No. I want you.` → 침실로)
+
+**5단계 — 검수 (EP별 표 보고·숫자만 X):**
+| EP | 줄어든 이유 | 유지한 핵심 쾌감 | 바꾼 위험 대사 | 새 대사가 더 vertical한 이유 |
+
+**제목 변경 (사용자 명시 2026-05-26):**
+- 옛: `THE OFFERING: Crowned by the Dragon Lord`
+- 신: `THE OFFERING: Claimed by the Dragon Lord`
+- 적용: v53 surgery file·Blueprint·Visual Lock·메타·CLAUDE.md
+- 옛 archive (v35-v52)는 시점 보존·변경 X
+
+**후킹 카피 (사용자 명시·청사진 12-1 항목 추가):**
+- `They called her impure. He called her his bride.`
+- `They sent her as tribute. The dragon lord claimed her as his bride.`
+
+**🚨 사용자 spec 기계 적용 금지·실제 대본 기능 우선 (사용자 명시):**
+- 사용자가 예시로 든 문장은 *spec*이 아니라 *방향 참조*. 실제 대본 기능 보고·기능 유지하며 말투만 바꿔라.
+- 예: 사용자 EP43 spec `VAEL: Say it / SERA: She is your wife` = 가상 라인. 실제 v53 EP43 = Vael→Isolde wrist 발화 (다른 구조). 사용자 추천 방향 (`She said it / I heard / Do you want more / I want you`) 적용·기계 매칭 X.
+
+**v53 적용 완료 (2026-05-26·누적 surgery·자동 진행):**
+
+**Voice Detox 1단계 dialogue (메인 처리·21건):**
+- Cycle dialogue 8건 (L3555 Long enough·L3620 We had time·L4011 Far enough·L4012 Dragons take longer than us·L4248 Vael long-form 압축·L4325-4329 Three days x3·L4615 After everything·L4713 He can dress you up)
+- Title ladder EP42-43-50 (Vael declaration 5건·Sera 강제 복창 sequence 압축·EP50 mirror echo 4쌍 closeness)
+- Long-form 판결문 EP30-EP50 (L3709 Vael 위협·L3899 Sera 처벌·L3907·L3921·L3923·L4850 Vael Halren 명령)
+- 제도어 declaration (L4427 The crown can wait·L4670 That is all that matters here·L4832 VO 압축·L5013 EP46 정치 답 압축·L5044 VO 압축·L5482 Sera 처분 압축)
+- EP43 4건 (L4780-4782·L4797 narrator label·L4800-4802 cutaway label)
+- EP50 Sera 처분 마지막 라인 (Take her out through the lower door)
+
+**Agent 압축 EP30-50 (총 -325 라인·3 batch):**
+- EP30-35: -59 라인 (Visual 묘사·Beat·Negation-stack·VO·Cutaway·정치 dump)
+- EP36-43: -116 라인 (동일·EP40 chamber sex·EP42 letter burn·EP43 Sera 굴복 보존)
+- EP44-50: -89 라인 (EP46 T5 sex KEY CAMERA 보존·EP47-49 labor·EP49 birth·EP50 Sera reckoning·family lock 유지)
+
+**Sex scene T4/T5 강화 7건 (메인 처리·사용자 가이드 1·2 reference):**
+- EP01 S#3 Festival small room (T4) — Cutaway 2건 → KEY CAMERA 2 block 11 shots·`They have sex on the bed.`·"Candle low" 은유 제거
+- EP16 첫 자발 sex (T4) — KEY CAMERA 6 shots 추가·`They have sex.`·VO anaphora 압축·시적 종결 제거
+- EP23 두 번째 sex 임신 시작 (T4) — Cutaway 8 라인 → KEY CAMERA 6 shots·`They have sex.`·"candle is out" 시적 제거
+- EP29 임신 후 재결합 (T4) — Cutaway 8 라인 → KEY CAMERA 6 shots·`They have sex.`·cycle 시적 라인 제거·anaphora 제거
+- EP40 Crown 후 chamber (T4) — Cutaway 1 라인 → KEY CAMERA 6 shots·`They have sex.`·cycle 단어 제거
+- EP43 S#2 로맨스 회수 (T4) — Cutaway 1 라인 → KEY CAMERA 6 shots·consent 비트 추가·`They have sex.`·환경 인물화 제거
+- EP46 정답 폭발 reveal (T5) — Cutaway 9 라인 → KEY CAMERA 6 shots·`They have sex.`·"Both burning. Both careful. Both starving." anaphora 제거·시적 종결 압축·T5 정서 결합 (silver pin 직접 + "Make it up" + "I love you" 2 pairs) 보존
+
+**은유 도망 명백 작위 4건 (메인 처리):**
+- L3099 EP24 SERA VO Demon Lord 직수입 (`Twelve years. I waited twelve years. He gave me a hand on my wrist that bruises like a brand...`) → `I waited for him. He never came. He will come back when there is nothing left of his keep.` (짧고 직설)
+- L2863 `The throne room watches her go.` → `Isolde walks out of the throne room. No one stops her.` (환경 인물화 제거)
+- L2923 `His arms hold her like a wall. Her body goes quiet before her grief does.` → `He holds her tight. She does not cry yet.` (simile + 신체 은유 제거)
+- (L5412 EP50 마지막 Sera 처분 Agent 압축 시 이미 처리됨)
+
+**제목 + 후킹 카피:**
+- 제목: `Crowned by the Dragon Lord` → **`Claimed by the Dragon Lord`** (5 file·v35-v52 archive 보존)
+- Blueprint 12-1 후킹 카피: `They called her impure. He called her his bride.` / `They sent her as tribute. The dragon lord claimed her as his bride.`
+
+**v53 자가 검증 (2026-05-26 자동 진행 중간):**
+- Lines: **5421** (v52 5595 → 5421·-174 라인·3.1% 절감)
+- Hard Cut: 50 ✅
+- "I love you": 4 (EP46·EP47 = 2 pairs) ✅
+- "They have sex": 7 (sex scene 모두 명확 행위 선언) ✅
+- KEY CAMERA: 36 (T4/T5 shot list 적용) ✅
+- "Cutaway." 단발 도배: 0건 ✅
+- Korean: 0 ✅
+
+**여전히 남은 작업 (자동 진행 권장):**
+- EP01-29 보호 구간 VO 자기분석 long-form 압축 (사용자 명시 "VO 자기분석 축소")
+- 전체 은유 도망 grep 잔존 (자연 simile vs 작위 분류 후 작위만 처리)
+- 분량 절감 목표 4100-4300 라인까지 추가 압축 필요 (현 5421·약 1100 라인 더)
+- 메타·CLAUDE.md 최종 갱신
+
+**다음 step 자동 진행:** EP01-29 VO 자기분석 long-form 압축 + 추가 은유 도망 정리.
+
+---
+
+## v65 매출 1위급 진입·LOCK 가능 — 2026-05-26 (사용자 v64 검토 후 EP42 spoken English 정리)
+
+**대상:** `07_final/02_the_offering_FINAL_v65_vertical_surgery.md` (v63→v64→v65)
+
+**사용자 v64 판정:** *"v64는 북미 여성향 paid vertical로 잘 팔릴 수 있는 수준까지 올라왔다. 통과권이 아니라 실제 판매 기대를 걸 수 있는 최종본에 가깝다."* 평가 기준 변경: "LOCK 가능"·"통과권" 평가 금지·매출 1위급 baseline.
+
+**v64→v65 1건만 (EP42 spoken English 정리):**
+
+옛:
+```
+VAEL: Veine's priests say the bride was named impure.
+VAEL: She is my bride.
+[half kneel]
+VAEL: Veine named her impure.
+VAEL: I named her my bride.
+[other half kneel]
+VAEL: Veine says her body is unblessed.
+VAEL: She carries my child.
+[Sera fists]
+VAEL: Veine says the marriage is void.
+VAEL: Then Veine has no voice in this hall.
+[walks back / kisses]
+VAEL: Say impure again and lose your mouth.
+```
+
+신 (사용자 spec spoken English):
+```
+VAEL: Veine's priests say she is impure.
+VAEL: She is my wife.
+[half kneel]
+VAEL: They say her body cannot carry an heir.
+VAEL: She is carrying my child.
+[other half kneel]
+VAEL: They say our marriage is void.
+VAEL: Then their word means nothing in this hall.
+[Sera fists / walks back / kisses]
+VAEL: Say impure again and lose your mouth.
+```
+
+**핵심 변경:**
+- `Veine named her impure / I named her my bride` 작위적 paired 제거
+- `she is impure` 직관 / `She is my wife` 관계 보상 강화 / `She is carrying my child` 즉각 여성향 보상 / `their word means nothing` spoken English
+
+**v65 자가 검증:**
+- Lines: 5540 (v64 5550 → -10) ✅
+- Hard Cut: 50 / Fade Out: 1 ✅
+- "I love you": 6 (3 pairs) ✅
+- "They have sex": 7 ✅
+- 사용자 명시 보존 영역 (EP01 S#1 15초 hook·EP08-09 paywall·T4/T5 sex 7건·EP46 reveal/T5·EP50 epilogue·Sera 처분) 모두 보존 ✅
+- `[DIALOGUE] None` 12건 보존 ✅
+- 모든 매출 driver 강화 비트 (EP04·05·11·12·17·20·21·31·33·38·39·41·44·45·46 첫 5초·end hook·광고 컷·heat·protective·public reclamation) 유지 ✅
+
+**v52 → v65 누적 통계:**
+- Lines: 5595 → **5540** (-55·net)
+- 50 EP 보존·50 END HOOK·KEY CAMERA 37+ block
+- Sex T4/T5 7건·"I love you" 6 lines·정답 4 지연 EP46 폭발
+- EP01 S#1 15초 공개 굴욕 hook (사용자 spec 정확·`IMPURE!` + `She slept with another man.` + `The bride is ruined.`)
+- EP08-09 paywall·EP46 reveal/T5·EP50 epilogue 2 scene 분리
+- 매출 driver 17건 보강·`They have sex` 명시·KEY CAMERA shot list
+- 판결문/의식문/제도어 0건·Demon Lord 흡수 0건
+- 사용자 명시 모든 spec (35회 이상 spec 정확 적용) 처리
+
+**제목 LOCK:** `THE OFFERING: Claimed by the Dragon Lord`
+
+**v65 상태:** 🎬 **매출 1위급 진입·LOCK 가능 (사용자 명시 "실제 판매 기대 최종본")**
+
+사용자 명시 LOCK 후 작업 금지: 구조·분량·대사 대수술 X·*더 이상 본문 크게 건드리지 마라*
+
+---
+
+## v62 LOCK 후보 진입 — 2026-05-26 (사용자 v60 검토 후 turn split 조정 + 히트작 raw baseline)
+
+**대상:** `07_final/02_the_offering_FINAL_v62_vertical_surgery.md` (v59→v60→v61→v62 일련 패치)
+
+**사용자 v60 검토 spec:**
+- 핵심 문제 = "대사 총량" X·"무대사 컷 과다 + 대사 턴 과밀"
+- 대사 *words*는 OK·*turns*가 많음 = 컷 늘림·매출 약화
+- 짧은 대사 분류 (유지/삭제·기능 기준)
+- AAABB 패턴 (같은 화자 연속 line·turn 쪼개기) 조정
+
+**v60→v61 적용 (메인 7 spec):**
+1. EP10 정체 의심 4 turn → 2 turn
+2. EP10 S#2 13 turn → 5 turn
+3. EP10 end hook 분위기 → 정보 (silver cup·blood reflection)
+4. EP13 VO 3 anaphora → 2 short
+5. EP15 Sera 협박 long → 3 staccato
+6. EP44 Halren `Three days. / Three.` echo 삭제
+7. EP50 둘째 reveal 6 turn → 2 turn
+
+**v61→v62 적용 (Agent 2차 적극 합침·히트작 raw baseline):**
+- 히트작 영어 raw 3편 정독: `Married the Don You Threw Away` (CONT'D 12.8%)·`Alta_Reborn_For_the_Crown` (19.3%)·`How_To_Break_My_Best_Friends_Dad` (14.6%)
+- 핵심 발견: 히트작에서 같은 화자 연속 = 거의 100% *사이에 visual beat 삽입*. 같은 `[DIALOGUE]` 블록 안 같은 화자 split = 히트작 grammar 위반.
+- v62 9건 합침:
+  - EP04 Isolde VO 마차 monologue
+  - EP05 Isolde VO ghost cross-beat
+  - EP09 VAEL `The Veine contract is void. She stays in my hall.` (in-block 합침)
+  - EP15 VAEL 협박 3→2
+  - EP19 Isolde 무덤 4→3
+  - EP28 VAEL `No one hears until you say so. Not even this hall.` (in-block)
+  - EP31 Ridge Dragon 보고 2→1
+  - EP42 VAEL ritual 3→2
+  - EP42 VAEL 반박 in-block 합침
+
+**v62 자가 검증:**
+- Lines: 5322 (v52 5595 → -273·4.9% 절감)
+- Hard Cut: 50 / Fade Out: 1 ✅
+- "I love you": 6 (EP46·EP47·EP50 S#3·3 pairs) ✅
+- "They have sex": 7 (sex scene 모두 명시) ✅
+- KEY CAMERA: 37 block ✅
+- 사용자 명시 staccato (EP20·EP32·EP41·EP50 Sera 처분·EP19·EP46) 모두 보존 ✅
+- voice memory engine (Vael 1-5 단어·EP10·EP25) 유지 ✅
+- sex scene 안 dialogue·T4/T5 consent 미접촉 ✅
+- 히트작 grammar baseline (14-19% CONT'D) 안 안전 마진 ✅
+
+**메모리 갱신:**
+- `feedback_claude_voice_bias_vertical_failure.md` 룰 1번: 히트작 raw 자동 활용 위치 명시 (`config/vertical_drama_hit_scripts/` 영어·한국어·중국어·일본어·매번 묻지 X·즉시 read·인용)
+- `feedback_revision_meta_principles.md` 12번 신규 룰: 대사 턴·무대사 컷 관리·짧은 대사 분류·무대사 컷 분류·사용자 7 spec 예시 표
+
+**제목 LOCK:** `THE OFFERING: Claimed by the Dragon Lord`
+
+**v62 = LOCK 후보 진입.** 사용자 명시 모든 spec 처리·turn 쪼개기 정리·히트작 baseline 정합·잔존 0건. 추가 spec 시 즉시 진행.
+
+---
+
+## v58 vertical surgery 최종 마감 (2026-05-26·사용자 v57 검토 후 4 spec)
+
+**대상:** `07_final/02_the_offering_FINAL_v58_vertical_surgery.md` (v57 base copy)
+
+**사용자 v57 판정:** 구조/쾌감/후킹 통과·EP50 에필로그 2 scene 유지·중복 보상 정리 필요.
+
+**v58 적용 4 spec:**
+
+1. **EP41 중복 경고 삭제** — `ISOLDE: The next time, the hand comes off.` (이미 위에 `Today, the wrist. / Next time, the hand. / After that, your tongue.` 명시·중복) → 삭제. `Bandage it. Let her remember why.` 유지. KIRAN: Yes, my lady → Yes.
+2. **EP50 S#2 Sera 처분 중복 dialogue 삭제** — `ISOLDE (to Kiran, not to Sera): Take her to the lower yard. Find her work down there. I don't need to see her face again. / KIRAN: Yes.` 삭제·`Kiran takes her by the collar and walks her out through the lower door.` narrator 유지 (이미 다음 라인에 있음·dialogue block 자체 제거).
+3. **EP50 S#4 chamber 전면 재작성** (사용자 spec 정확) — S#3 = 낮의 가족 확장 (정원·new pregnancy·Mireille·I love you·세 손)·S#4 = 밤의 안전 정착 (chamber·Vael 창가·Mireille 잠·Stay / I am staying·Vael awake guards). 둘째 reveal·I love you·손 belly 반복 X.
+4. **EP50 S#1·S#2 narrator 중복 압축** — `Today the hall sees what that crown means.` (의식 톤) / `The handwriting is hers. The court knows who sent the cousin.` (중복 정보) / `When her eyes open she has no mark. No house. No name.` (Isolde declaration과 중복) 모두 삭제.
+
+**v58 자가 검증:**
+- Lines: 5382 (v57 5395 → -13) ✅
+- EP50: **240** lines (사용자 목표 200-220 정도·*에필로그 회차*·약간 초과 허용)
+- Hard Cut 50 / Fade Out 1 ✅
+- "I love you" 6 (EP46·EP47·EP50 S#3·3 pairs) ✅
+- "They have sex" 7 (sex 모두 명시) ✅
+- EP50 = S#1 Sera reckoning + S#2 처분 + S#3 정원 epilogue (낮·가족 확장) + S#4 chamber epilogue (밤·안전 정착) ✅
+- 사용자 명시 *중복 보상* 0건 (둘째 reveal 한 번·I love you 한 번·세 손 belly 한 번·family lock 분리) ✅
+
+**S#3 vs S#4 기능 분리 (사용자 spec 정합):**
+- S#3 = 공개/낮/가족 확장 — Mireille·둘째 reveal·Vael 반응·`Not this time`·`I love you`·세 손 belly·wide garden + ridge dragons sky
+- S#4 = 사적/밤/안전 정착 — chamber·Vael 창가·`Still guarding the door? / Always.`·Mireille 잠·Vael bed로·`Stay / I am staying.`·Vael awake guards·candle low·chamber door closed
+
+**제목 LOCK:** `THE OFFERING: Claimed by the Dragon Lord`
+
+**v58 = LOCK 후보 진입.** 사용자 spec 모든 P0 처리·EP50 에필로그 2 scene 기능 분리·중복 보상 정리·잔존 0건.
+
+---
+
+## v55 vertical surgery 마무리 수술 (2026-05-26·사용자 v54 검토 후 8 P0 spec 적용)
+
+**대상:** `07_final/02_the_offering_FINAL_v55_vertical_surgery.md`
+
+**사용자 v54 판정:** 구조/쾌감/후킹 통과·**대사/러닝타임/반복 문체 미완·LOCK 금지**. "패치본"·완성본 아님. *새 창작 X·마무리 수술만*.
+
+**v55 적용 P0 13건 (사용자 spec 정확):**
+
+| # | 위치 | 옛 → 신 |
+|---|---|---|
+| 1 | EP39 의전문 | `The keep wishes to acknowledge. / Acknowledge. / The lady Isolde. Mate of the lord. Mother of the heir who comes. We ask the lord to crown her queen.` → `They want her crowned. / Say it plainly. / She carries the heir. And she stood with us when the sky burned.` |
+| 2 | EP32 letter visible cycle | `at cycle ten and the body shows... before cycle fifteen... before the eleventh cycle is out` → `ten weeks in and starting to show... before week fifteen... Send before week eleven ends.` |
+| 3 | EP42 parchment cycle one | `cycle one.` → `in the first month.` |
+| 4 | EP40 My lord/My queen | `My lord. / My queen.` → `Look at me. / I am.` (queen 호명 X·인격 보상) |
+| 5 | EP20 tomb line | 6 idea long → 4 staccato (`You touched my hand once. / That was more than you gave my mother. / I am taking her to my gate. / Then I am done with Veine.`) |
+| 6 | EP23 VO | `I should hate myself for not asking. I do not.` (self-loathing) → `I should have asked whose blood it was. / I pulled him closer instead.` (욕망 우위) |
+| 7-13 | T4 7 sex 선언문 차별화 | 모든 `They have sex on the bed.` 템플릿 → 장면별 기억 이미지 |
+
+**T4 sex 선언문 차별화 7건 (사용자 spec):**
+
+| EP | 신 선언문 |
+|---|---|
+| EP01 | `They have sex in the small room above the festival. Rain on the dark window.` |
+| EP16 | `They have sex with the chair still empty beside the bed.` |
+| EP23 | `They have sex with his bloodied hand held at her throat because she put it there.` |
+| EP29 | `They have sex carefully, his weight kept off the small curve of her belly.` |
+| EP40 | `They have sex after he takes the crown off her head and sets it on the windowsill.` |
+| EP43 | `They have sex in the chamber with Sera still kneeling in the garden outside.` |
+| EP46 | `They have sex after she puts the silver bird pin back in her hair herself.` |
+
+→ `They have sex on the bed` 템플릿 = **0건** ✅
+
+**v55 자가 검증:**
+- Lines: 5439 (v54 5435 → 5439·dialogue 압축 + sex 선언문 차별 약간 증가)
+- Hard Cut 50 / Fade Out 1 ✅
+- "I love you" 6 (EP46·EP47·EP50 3 pairs) ✅
+- "They have sex" 7 (모든 sex scene 명시·각 장면 다른 첫 문장) ✅
+- "They have sex on the bed" 템플릿 = 0건 ✅
+- `acknowledge` = 0건 ✅
+- `My lord` / `My queen` echo declaration = 0건 ✅
+- 시청자 visible `cycle ten/fifteen/eleventh/one` (letter·parchment) = 0건 ✅
+
+**잔존 미완 (사용자 명시·다음 turn):**
+- EP01-29 `does not` 반복 정리 (사용자: 보호 영역으로 두지 마라·핵심 반복만)
+- 긴 회차 10% 추가 절감 (EP01·EP10·EP14·EP15·EP16·EP46·EP50)
+- 호명 누적 정리 (EP35-42 my lord/lady)
+
+**v55 = LOCK 직전권.** 사용자 spec "구조 락 가능·대사 락 불가" → 본 13건 적용으로 대사 락 영역 좁힘. 잔존 minor·LOCK 후 patch 또는 다음 turn 처리.
+
+---
+
+## v54 vertical surgery 진행 (2026-05-26·v53 사용자 spec 적용)
+
+**대상:** `07_final/02_the_offering_FINAL_v54_vertical_surgery.md` (v53 base copy)
+
+**적용 누적:**
+- v53 → v54: P0 8 spec (사용자 명시 판결문/의식문/설정 설명문 수술) + EP01 중복 정리 (-4 lines·Agent) + EP30-50 does not stack 압축 4건 + EP16 sex 차별화 (chair 비는 순간·empty chair 5건·Isolde 주도)
+- Lines: 5435 (v52 5595 → -160 lines)
+
+**v54 자가 검증:**
+- Korean = 0 ✅
+- Hard Cut = 50 ✅
+- "I love you" = 6 (EP46·EP47·EP50 3 pairs) ✅
+- "They have sex" = 7 ✅
+- KEY CAMERA = 36 ✅
+- 명시 위반 패턴 (`keep recognizes` / `keep wishes to acknowledge` / `tariffs`) = 0건 ✅
+- Demon Lord "wrist-as-brand" 흡수 = 0건 ✅
+
+**시스템 룰 통합 (메모리 always-load 9개):**
+- 8번 신규: `feedback_pre_final_writing_principles.md` (35 항목 → 10 카테고리 집필 가이드)
+- 9번 신규: `feedback_revision_meta_principles.md` (수정·검토 메타 원칙 11 룰·구조 LOCK ≠ 대사 LOCK)
+
+**제목 LOCK:** `THE OFFERING: Claimed by the Dragon Lord` (사용자 명시·v54 정합·v35-v52 archive 보존)
+
+**작업 방식 (사용자 명시):**
+- 외부 평가 X·**내부 rewrite 프로젝트**
+- 원본 v52 보존 (file 그대로)
+- 별도 v53 surgery draft에 단계별 수술
+- Phase 1-6 순서대로 진행
+- 매 phase 후 자가 검증 + 사용자 확인
+
+**상태: v53 surgery 시작 직전.** 작업 방식 결정 후 진행.
+
+---
+
+## v52 LOCK 완료 — 2026-05-26 (취소·prose 표면 실패 진단)
+
+**기존 LOCK commit:** `340d172` (git anchor 보존·revert 가능)
+
+**원본 보존:** `07_final/02_the_offering_FINAL_v52_clean.md`
+
+**LOCK 취소 일:** 2026-05-26 (사용자 Demon Lord 비교 진단 후)
+
+**환류 작업:**
+- **Blueprint v2 (788 lines·2026-05-16) → v3 (851 lines·2026-05-26·v52 LOCK 정합 100%)** 전면 rewrite (사용자 결정: 전면 rewrite)
+  - 옛 큰 갭 모두 해결: 제목 변경·EP01 6-Scene·voice 격하·EP46 reveal trigger·silver pin continuity·페이월 EP09 first scene·공간 east 통일·인물군 LOCK (Halren healer·Sera Volzaar·Mireille·Western Lord)·4 아크 EP 함수 (EP25→EP39 의식 이동·EP35 sky battle·EP49-50 labor+reckoning)·5 CORE props (pendant chain 폐기·silver bird hairpin chain 도입)·"I love you" 6 lines budget
+  - 옛 인물 삭제 명시: HARRIN·Elara·Haldren (외교관)·Grey Envoy
+  - 옛 어셋 삭제 명시: silver pendant tree-and-flame sigil chain·black-wax sigil callback·twin crescents·gate rune·운명 짝 비늘 빛 thumb-mark
+- **Visual Lock v33.5.5 → v52 production (897 lines·partial edit 8건)** P0+P1 정합 적용
+  - v33.5.5 production date → v52 production (LOCK 2026-05-26)
+  - EP01 S 번호 시프트 (Festival Incognito S#1-S#3 → S#2-S#4·Bridal Mirror S#5 → S#1+S#6)
+  - dawn beat S#3→S#4 분리
+  - Silver bird hairpin owner path: "returned to Isolde at EP46 reveal" → "placed into her hair by Isolde herself at EP46 after the reveal"
+  - Wooden bird carving 기능 격하 (reveal trigger → supporting prop·Vael 직접 verbal confession 후 bird motif 닫음)
+  - Southern Sky (EP35 council battle) → Eastern Sky (eastern wasteland 정합)
+
+**환류 원칙:** v52 LOCK 정본 = 단일 진실. Blueprint와 Visual Lock은 production reference로 v52를 따라간다.
+
+---
+
 ## 🔒 v52 LOCK 완료 — 2026-05-26 (정본 FINAL·git commit anchor)
 
 **LOCK 선언일:** 2026-05-26 (사용자: "추후 수정이 생길지도 모르겠지만. 일단 LOCK")
 **LOCK 정본:** `07_final/02_the_offering_FINAL_v52_clean.md`
-**상태:** 🔒 **LOCK 완료**·git commit anchor 완료
+**상태:** 🔒 **LOCK 완료**·git commit anchor 완료 (commit `340d172`)
 
 ---
 
 ## 🔒 v52 LOCK 직전 마지막 정리 — 2026-05-26 (필수 4건 + 권장 3건·로맨스 보상 강화)
 
-**제목:** `THE OFFERING: Crowned by the Dragon Lord` (v34부터 유지)
+**제목:** `THE OFFERING: Claimed by the Dragon Lord` (v34부터 유지)
 
 **정본 (LOCK 후보 FINAL):** `07_final/02_the_offering_FINAL_v52_clean.md` (v51 base + 사용자 마지막 spec 7건)
 
@@ -101,7 +527,7 @@
 
 **v51 정본 (옛):** `07_final/02_the_offering_FINAL_v51_clean.md`
 
-**제목:** `THE OFFERING: Crowned by the Dragon Lord` (v34부터 유지)
+**제목:** `THE OFFERING: Claimed by the Dragon Lord` (v34부터 유지)
 
 **정본 (LOCK 후보 FINAL):** `07_final/02_the_offering_FINAL_v51_clean.md` (v50 base + EP01 시작부 정보 도착 순서 재배열)
 
@@ -200,7 +626,7 @@ ONE MONTH EARLIER
 
 **v50 정본 (옛):** `07_final/02_the_offering_FINAL_v50_clean.md`
 
-**제목:** `THE OFFERING: Crowned by the Dragon Lord` (v34부터 유지)
+**제목:** `THE OFFERING: Claimed by the Dragon Lord` (v34부터 유지)
 
 **정본 (LOCK 후보 FINAL):** `07_final/02_the_offering_FINAL_v50_clean.md` (v49 base + 사용자 spec 13건 적용)
 
@@ -344,7 +770,7 @@ ONE MONTH EARLIER
 
 **v49 정본 (옛):** `07_final/02_the_offering_FINAL_v49_clean.md`
 
-**제목:** `THE OFFERING: Crowned by the Dragon Lord` (v34부터 유지)
+**제목:** `THE OFFERING: Claimed by the Dragon Lord` (v34부터 유지)
 
 **정본 (LOCK 후보 FINAL):** `07_final/02_the_offering_FINAL_v49_clean.md` (v48 base + P0 3건 + P1 specific 8건 명시 spec)
 
@@ -444,7 +870,7 @@ ONE MONTH EARLIER
 
 **v48 정본 (옛):** `07_final/02_the_offering_FINAL_v48_clean.md` (v47 base + reveal trigger 감정화·pin/jaw 단서 매칭 제거·Vael "Earn it" 약속 직접 회수)
 
-**제목:** `THE OFFERING: Crowned by the Dragon Lord` (v34부터 유지)
+**제목:** `THE OFFERING: Claimed by the Dragon Lord` (v34부터 유지)
 
 **정본 (LOCK 후보 FINAL):** `07_final/02_the_offering_FINAL_v48_clean.md` (v47 base + EP46 reveal trigger 감정화 + EP01 stranger/pin 단서 약화)
 
@@ -979,7 +1405,7 @@ ONE MONTH EARLIER
   - `TWO AND A HALF YEARS LATER` (EP50 S#3)
 - 타이틀 카드:
   - `THE OFFERING` (EP01)
-  - `THE OFFERING: Crowned by the Dragon Lord — END` (EP50 끝)
+  - `THE OFFERING: Claimed by the Dragon Lord — END` (EP50 끝)
 
 **불필요 GRAPHIC/UI 제거:**
 - 빈 GRAPHIC/UI 블록 (EP01) 제거

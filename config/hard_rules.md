@@ -4,6 +4,17 @@
 
 ---
 
+## 🚨🚨🚨 최상위 룰 (2026-05-27 사용자 명시·전 작업·예외 없음)
+
+**한국어 출력 시 AI jargon·작업어·어색한 조어 절대 금지.** 대본·청사진·외부 문서·메모·로그·프롬프트·검토 보고서 모두 적용. 상세: `memory/feedback_no_ai_korean_jargon.md`.
+
+❌ `관계 후킹을 선명하게 세운다` / `먼저 잡아야 할 축` / `로맨스 밀도 상승` / `처리 방향` / `후반 동력` / `밀도·텐션·빌드업·드라이브·트리거 응축` 류
+✅ `초반부터 두 사람의 관계가 바로 이해되게 한다` / `먼저 확인할 핵심` / `관계가 더 깊어지는 구간` / `방향` / `후반 전개`
+
+자가 검사 4 질문: ①한국어 native가 실제 쓰는가 ②영어 음차/직역 합성어인가 ③deck/scrum 톤인가 ④친구 카카오톡 톤인가.
+
+---
+
 ## 본문 양식 v3 (2026-05-19 후반 — 영상 리듬 확장)
 
 1. **EP 양식 v3 블록 10개:**
@@ -36,7 +47,7 @@
 
 ## 검토 / 환류
 
-11. **검토 채택 필터 2단계:** 필터 1 (무조건 채택) = 공간/시간/소품/인과/정합성/언어 일원화 위반·**부위 순회 tracking·시선 위반·영상 리듬 블록 부재** 추가. 필터 2 (거부) = 작품 핵심 쾌감 약화·캐릭터 매력 약화·Soft Lock 강제 표준화.
+11. **검토 채택 필터 2단계:** 필터 1 (무조건 채택) = 공간/시간/소품/인과/정합성/언어 일원화 위반·**부위 순회 tracking·시선 위반·영상 리듬 블록 부재·🆕 시적/대구/운율/낭송형 cadence·🆕 1-3 단어 단독 턴 3턴 이상 연속·🆕 같은 화제 4 턴 이상 짧은 핑퐁·🆕 정전 쓰레기 형태 (`One X. One Y. My Z. Now I N. The A was not B. ...`)·🆕 동일 prop 3+ 장면 반복·🆕 prop-anchored reveal trigger** 추가. 필터 2 (거부) = 작품 핵심 쾌감 약화·캐릭터 매력 약화·Soft Lock 강제 표준화.
 12. **청사진 ↔ 본문 환류.** 본문이 더 강하면 청사진 부분 업데이트 (Hard Lock = 사용자 승인). 환류 시 청사진 말미 1줄 로그.
 
 ---
@@ -67,6 +78,19 @@
 - 부위 순회 tracking (thigh → ribs → throat 순서 묘사) → 시선 우선화 정정
 - 검증 보고서·테이블·자가 검수 풀이 = 작성 거부
 - **🚨 Vertical 자체 룰 — 행정/법/정치/외교 절대 금지** (성별·신분·장르 무관). charter·treasury·hearing·decree·외교 협상·exile (formal)·policy·writes letter·brand mark·council vote·sentence 등. 어떤 캐릭터도 (왕·여왕·주인공·악역) 행정 행위 X. Vertical ≠ HBO 변호사 드라마. 사용자 명시 지시 없으면 *즉시 personal violence + visceral claim 비트로 reframe*. 상세: `memory/feedback_vertical_no_admin_power.md`.
+- **🆕🚨 시적·대구·운율·낭송형·티키타카 stage 톤 cadence 자동 차단** (2026-05-27 사용자 명시):
+  - Tri-colon anaphora (`A. B. C.` 동일 cadence 3 fragment) EP당 2건 이상 → 즉시 정정
+  - Mirror echo (`X. / Y. / X. / Y.` 핑퐁) 2쌍 이상 → 즉시 정정
+  - Parallel structure (`The X was Y. The X will be Z.`) → 즉시 정정
+  - 정전 쓰레기 형태 (`One X. One Y. My Z. Now I N. The A was not B. The C will not be D.`) 1건 → 즉시 폐기
+  - 1-3 단어 단독 턴 3턴 이상 연속 → 묶기 (인간 호흡 한 turn)
+  - 같은 화제 4 턴 이상 짧은 핑퐁 (기능 턴 제외) → 묶기
+  - 상세: `memory/feedback_no_theater_tone.md`
+- **🆕🚨 소품 의존 plot 전개 자동 차단** (2026-05-27 사용자 명시):
+  - 동일 prop 3+ 장면 등장 = 🟡 (재설계 검토)
+  - Reveal trigger = prop matching (jaw·pin·mark·ring) = 🔴 (캐릭터 dialogue·VO로 교체)
+  - Motif·상징 욕심으로 박은 prop 반복 등장 → 즉시 삭제
+  - 상세: `memory/feedback_vertical_protagonist_voice_ownership.md` 룰 5
 
 ---
 

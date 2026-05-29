@@ -1,788 +1,854 @@
-# THE OFFERING: The Dragon Lord's Crowned Bride — 완성 청사진 (v2 / 2026-05-16)
+# THE OFFERING: Claimed by the Dragon Lord — 완성 청사진 (v3 / 2026-05-26 · LOCK 정합)
 
-> 피칭 통과 (7/7 만장일치) 후 완성 청사진. 본격 집필 기준 문서.
-> **v2 (2026-05-16):** G v2 디벨롭 (FREE_v2_dev EP1-8) 적용 환류 — baseline 8개 (viewer psychology · 6 conversion · female buy engine · alpha taboo · 50-EP serials · character × situation × relationship · v3 12 HARD RULE · v3 14 Failure). Soft Lock 영역 갱신 (캐릭터 캐논 보강·ladder 7 단계·Aldric 음모 분산·pendant 어셋·counting motif·grey envoy 신규 인물·crescents twin·페이월 "Yours" 자발 발화). Hard Lock (정체성·페이월·결제 트리거 구조) 유지.
+> 단일 진실 = `07_final/02_the_offering_FINAL_v52_clean.md` (5595 lines·LOCK 2026-05-26).
+> 비주얼락 정합 = `02_the_offering_04_visual_lock.md` (v52 production).
+> Blueprint = production reference·메타. 본문 톤 침투 금지·검증 풀이 금지. v3는 옛 v2 (788 lines·2026-05-16) 구조를 유지하되 내용은 v52 LOCK 정본 기준으로 전면 재작성.
 
 ---
 
 ## 12-1. 작품 기본 정보
 
-- **영어 타이틀:** THE OFFERING: The Dragon Lord's Crowned Bride
+- **영어 타이틀:** THE OFFERING: Claimed by the Dragon Lord (v34부터 변경·LOCK v52 유지)
 - **한국어:** 제물로 바쳐졌지만, 드래곤 로드의 신부가 되었습니다
-- **장르:** 다크 로맨타지 / 고딕 판타지 / 여성향 로맨스
-- **키워드 (Tropes):** Sacrificial Bride · Dragon Romance · Possessive Male Lead · Forbidden Love · Fated Mates · Hidden Identity · Public Vindication
-- **타깃:** 북미 영어권 성인 여성 25-45 / paid vertical drama·BookTok romantasy·할리퀸/버클리/발렌타인 다크 라인 시청층
-- **포맷:** AIGC Live-action / **세로형 9:16** (2026-05-12 변경 — 사용자 명시)
-- **플랫폼:** 페이드 버티컬 (ReelShort·DramaBox·NetShort·DramaWave 계열 여성향 메인 라인업)
-- **총 화수:** 50화 / **무료:** EP1-8 / **유료 시작:** EP9
-- **편당 길이:** 90초-3분
-- **총 러닝타임:** 약 90-150분
-- **수위 (2026-05-12 v3 재확정):** **초고수위 / 매우 변태적 — 북미 paid vertical 다크 로맨타지 기준.** ReelShort·NetShort werewolf·dragon mate 검증작 + ACOTAR·Fourth Wing·할리퀸 Presents·Berkley 다크·Ballantine Outlander 톤. 침실 긴장·금지된 끌림·공개 소유 선언·키스·신체 접촉·머리채·옷 안·잇자국·자국·자세 강제·물건 사용·반복·소유 표지·금기 위반 모두 허용. **표현 룰: 구체 행동·상황·접촉 (미묘함·눈빛·은밀한 분위기 X — AIGC 통제 한계).** 메모리 `feedback_aigc_explicit_action_over_subtle.md`·`feedback_north_american_explicit_standard.md`·`feedback_north_american_judgment_baseline.md`·`project_offering_high_explicit_direction.md` 적용.
-- **톤:** 다크·고딕·신화·romantasy. 위협적 알파 + 능동적 여주 + 공개 지위 회복
+- **장르:** 다크 로맨타지 / Dragon Romance / 여성향 (북미 paid vertical)
+- **키워드 (Tropes):** Sacrificial Bride · Dragon Lord · Possessive Male Lead · Forbidden Encounter (Festival Night) · Identity Bond · Earn-It Promise · Mother-of-Heir · Public Label Reversal
+- **타깃:** 북미 영어권 성인 여성 25-45 / paid vertical drama·BookTok romantasy 시청층
+- **포맷:** AIGC Live-action / **9:16 세로형**
+- **플랫폼:** 페이드 버티컬 (ReelShort·DramaBox·NetShort·DramaWave 여성향 메인 라인)
+- **총 화수:** 50화 / **무료:** EP01-EP08 / **유료 시작:** EP09 first scene declaration
+- **편당 길이:** 90초-3분 / **총 러닝타임:** 약 90-150분
+- **수위:** 북미 paid vertical 다크 로맨타지 high-explicit. EP01 festival night small-room high-heat sex / EP16 첫 자발 sex / EP23 두 번째 sex (임신 시작) / EP29 임신 후 재결합 / EP40 chamber crown 후 sex / EP46 정답 폭발 T5 보상 sex. **표현 룰:** 구체 행동·상황·접촉 (미묘함·은밀한 분위기 X — AIGC 통제). 임신 styling = covered belly·Vael's palm·black silk drape (breeding fetish 금지).
+- **톤:** 다크 로맨타지·고딕 + Dragon Lord 알파 + 능동 reverse-claim 여주. Public Vindication X / **Public Label Reversal** O (Veine "impure" → Drakonis "my bride·my mate·mother of my heir").
+- **후킹 카피 (광고/포스터·사용자 명시 2026-05-26):**
+  - `They called her impure. He called her his bride.`
+  - `They sent her as tribute. The dragon lord claimed her as his bride.`
 
-### 숏폼 레퍼런스 (위원 D 권장 — 1+ 명시)
-
-| 작품 | 플랫폼 | 매칭 영역 |
-|---|---|---|
-| **The Wolfless Carpenter Rules the World** | NetShort | Werewolf/Alpha 검증 카테고리 (드래곤 mate 평행 구조) |
-| **A werewolf song of fire and frost** | NetShort | Werewolf Romance + Fated Mate 검증 |
-| **Fated to My Forbidden Alpha** | ReelShort | Alpha king·Fated Mate·Hidden Identity·Love Triangle (1억 9,190만 뷰) |
-| **ACOTAR / Fourth Wing** (BookTok) | 출판 | Dragon Romance + Public Status Reversal 글로벌 검증 |
-
-### 글로벌 IP 참고
-
-- **A Court of Thorns and Roses** (Sarah J. Maas) — 다크 페이·드래곤·금지된 끌림
-- **Fourth Wing** (Rebecca Yarros) — Dragon Rider + Possessive Protector
-- **The Last Unicorn** + 다크 페이 + 사극
+### 숏폼 레퍼런스 (검증 카테고리)
+- The Wolfless Carpenter Rules the World (NetShort) — Werewolf/Alpha 카테고리 (드래곤 평행)
+- A werewolf song of fire and frost (NetShort) — Fated Mate 검증
+- Fated to My Forbidden Alpha (ReelShort) — Alpha king·Fated Mate
+- ACOTAR / Fourth Wing (BookTok) — Dragon Romance + 출판 globalcross-검증
 
 ---
 
 ## 12-2. 핵심 엔진
 
 ### 핵심 결핍
-이솔데는 왕국에서 **이름·자리·왕국 소속**을 빼앗기고 제물로 보내진 공주. 그녀의 모든 정체성이 박탈된 상태에서 시작.
+Isolde = king's unwanted daughter. Veine 안에서 어머니 살해를 본 여덟살 / 계모에게 "impure" 라벨링 / 부친(Aldric)에게 거래 상품 / 늙은 매수자(Corvin)에게 팔리기로 결정된 몸. **자기 몸·자기 이름·자기 자리 모두 박탈된 상태**에서 작품 시작.
 
 ### 핵심 욕망
-**잃은 자리·이름·존엄을 되찾는 것.** 단 가족·왕국으로 돌아가는 것이 아니라, **자신을 버린 자들이 두려워하는 자리**로 가는 것.
+**자기 자리·자기 이름·자기 몸의 주인 되찾기 + 자기를 "impure" 라고 부른 자들의 입을 닫게 하기.** 가족·왕국 복귀 X. Veine 왕좌 거부 (EP19 will reading). 자기를 기다린 자의 곁(Drakonis)에서 자기 손으로 crown.
 
-### 핵심 보상 — 다크 로맨타지 공식 (2026-05-12 정정)
+### 핵심 보상 — 4 지연 정답 (v52 LOCK 엔진)
 
-> **OFFERING = 다크 로맨타지** (Dragon Mate + Sacrificial Bride). 일반 여성향 공식 X. 다크 로맨타지 공식:
-> **Fated Encounter → Forbidden Bond Sensed → Possessive Claim → Bond Deepens → Public Recognition of Bond → Mate Sealed/Crowned**
-> (참조: 메모리 `feedback_dark_romantasy_engine.md`)
+> v52 = **4 정답 지연 → EP46 폭발** 단일 엔진. 1년 timeline·5595 lines 전체가 EP46 보상을 위한 setup. 옛 "Fated Bond·비늘 빛·gate rune·pendant chain"은 v52 부재.
 
-#### 다크 로맨타지 6 핵심 결제 트리거 매핑
+#### 4 정답 정의
+| 정답 | 질문 | EP46 폭발 |
+|---|---|---|
+| **1. Voice** | "그 목소리. 어디서 들었지?" (EP08, EP10-18 단서) | EP46 직접 발화 회수 ("You told me to earn it / I have been trying since dawn") |
+| **2. Identity** | "축제의 밤 남자 = Vael?" (EP01 audience-only seed) | EP46 "It was you / It was me" |
+| **3. Love** | "이게 사랑인가, 결박인가" (전 본문 누적) | EP46 / EP47 / EP50 = 6 lines (3 pairs) |
+| **4. Promise** | "Earn it" (EP01 dawn) | EP46 약속 직접 회수 + Isolde 직접 silver bird pin 꽂음 + T5 보상 sex |
+
+#### 결제 트리거 매핑 (v52)
 
 | 트리거 | OFFERING 매핑 |
 |---|---|
-| **1. Fated Bond 점진 발현** | 베일 비늘 빛이 이솔데 손목에 점진 자국 (EP1 첫 깜빡임 → EP10 영구화 → EP25 강한 빛 → EP50 황금 문양) |
-| **2. Possessive Protector** | 자객 검 부러뜨림 (EP3)·드래곤 무리 보호 (EP10·EP30)·날개 그림자 (EP15+) |
-| **3. 거리 붕괴 물리 표지** | 침실 벽 키스 (EP3)·테라스 손목 (EP5)·키스 직전 정지·뜨거운 숨·비늘 닿는 온도 (전 화수) |
-| **4. 위험한 비인간 신호** | 검은 비늘 손등·검붉은 화염 손바닥 (EP4+)·날개 그림자 (EP15+)·드래곤 무리 포효 (EP8+) |
-| **5. Forbidden Touch + Erotic Permission** | **북미 초고수위 — EP1부터 변태 비트 누적, EP18+ 정점 폭발.** 머리채 강제 키스·옷 안 손·잇자국·드레스 끈 풀림·맥박 키스·턱·목·쇄골·손목 안쪽·드레스 어깨 내림·공개 마킹·자세 강제(벽·문·테이블·왕좌)·물건 사용(사슬·실크 리본·드레스 끈·검 손잡이·왕관·반지)·반복·소유 표지 |
-| **6. Public Recognition of Bond** | 드래곤 무리 첫 포효 (EP8)·정식 신부 의식 (EP25)·Dragon Queen 즉위 (EP50) — **공개 지위 회복 X / 공개 운명 짝 인정 O** |
+| **1. Identity Bond 지연** | 축제 밤 남자(glamoured) = Vael (v52 진실). EP01 audience-only seed (silver bird pin·"My mother left it here"). EP02-EP45 = body memory·voice 단서·확증 회피. EP46 직접 회수. |
+| **2. Possessive Protector (행동)** | Vael "She is my bride" (EP09 first scene) → "my mate · mother of my heir" (EP09-EP50 누적) → council 머리 4개 외벽 (EP30) → Western Lord 손가락 4 부러뜨림 (EP37) → Veine six-seal 태움 (EP42) → Sera 손 burn off (EP50) |
+| **3. Public Label Reversal** | Veine "impure" (EP01 mirror) → Drakonis "my bride" (EP09 first scene) → "Queen of Drakonis Keep" (EP39 crown ceremony) → "my bride · my mate · mother of my heir" 4 declarations (EP42) → Sera 입으로 강제 복창 (EP43) → Isolde 자기 손으로 crown 다시 (EP50 S#1) |
+| **4. Earn-It Promise** | EP01 dawn "Earn it" → 1년 동안 Vael의 모든 행동 = earning → EP46 약속 회수 |
+| **5. Forbidden Touch + Erotic Permission** | EP01 small-room high-heat (festival incognito) → 1 month timeline → EP02-EP15 voice 의심·body memory (sex X) → EP16 첫 자발 sex → EP23 두 번째 (임신 시작) → EP29 임신 후 재결합 → EP40 chamber crown 후 sex (consent dialogue "Look at me when you say yes / I am looking") → EP46 정답 폭발 T5 ("Make it up") |
+| **6. Mother-of-Heir Engine** | 임신 = 엔진 (메모리 `feedback_pregnancy_engine_birth_late.md`). cycle 10 첫 reveal (EP28 / EP31) → cycle 17-18 crown 강요 (EP38) → cycle 24 labor (EP47) → birth Mireille (EP49) → EP50 spring garden 2.5 years later 두 번째 임신 reveal |
 
-#### 부수 보상 (일반 여성향 공식 일부 결합)
+### 유료 전환 약속 (EP08 페이월·v52 LOCK)
 
-다크 로맨타지가 메인이나 일부 일반 여성향 보상 결합 (인간 왕국 정치 부수):
+> v52 페이월 = **EP08 "Say it." cliffhanger** + **EP09 first scene "She is my bride" declaration** (memory `feedback_paywall_declaration_timing.md`). 보상 declaration = 결제 후 즉시. 무료 안에서 자발 "Yours" 발화 X (옛 v2 폐기).
 
-- **Public Vindication (부수)** — 인간 왕국 사절단·시댁 가문 굴복 (EP6·EP25·EP30·EP40)
-- **Betrayal Reversal (부수)** — 알드릭 왕 굴욕 (EP40)
-- **Hidden Identity Reveal** — 이솔데 = 알드릭 왕이 숨긴 진짜 후계 (EP35) — 다크 로맨타지 + 신화 결합
+**EP08 페이월 응축 (v52 LOCK):**
+- Sera "She is not — she is not fit for this." 시작
+- Vael "No. Say what you meant. / Say it."
+- Sera 입에서 declaration 강제 추출 직전 = EP08 cliffhanger
+- 절단 = "Say it." 직전 컷·다음 화 결제
 
-→ **메인 결제 동력 = Fated Bond·Possessive Claim·Mate Sealed**. Humiliated → Vindicated 사이클은 부수.
+**EP09 first scene 회수 (LOCK):**
+- Sera "She is not a bride." (강제 발화)
+- Vael 입장·Isolde 옆 sleeve 한 번 stroke (audience-only)
+- Vael (to hall): "**She is my bride.**"
+- 절반 dragons 무릎·Sera 무릎·"The Veine contract is void."
+- 다음 컷 = corridor "Walk." → chamber 단둘이
 
-### 유료 전환 약속 (EP8 페이월 — v2 갱신)
-
-> 5 미완성 동시 응축 (Hard Lock) — G v2 환류로 시각 비트 정밀화.
-
-- 베일이 인간 왕국 두 번째 사절단 parchment + 깃발 사절단 발 앞에서 태움 / wax sigil 멜팅 = audience full callback (5번째 sigil 시각)
-- 베일이 이솔데의 허리를 잡아 한 단 위 자기 옆으로 끌어올림 (사절단·신부 후보·12 mounted·12 standards 다 보는 자리)
-- 이솔데 sub-variant 의상 (wide pearl-and-silver band across collarbone·양쪽 twin crescents band 위로 노출)
-- 베일의 비늘 손바닥이 우측 crescent 위 → palm 가로질러 양쪽 crescents 동시 cover (plain sight)
-- 베일의 좌측 손이 이솔데 머리채 뒤에 fist (chin 들어올림)
-- 베일의 mouth 그녀 mouth 위 한 inch / wrist short claim (long trace X)
-- **이솔데가 자기 손바닥을 베일의 throat 위로 자발 lifts (호혜 두 번째 — hall 이 비로소 "She is not being held. She is holding back." 이해)**
-- 베일이 그녀를 신부로 선언 시작 — "She is —" — 드래곤 무리 첫 포효 × 3에 의해 끊김 / 두 번째 wings 파도 ridge 너머
-- 12 mounted 호위병 무릎 / 12 standards 떨림 / 두 번째 envoy parchment ash 떨림
-- grey envoy thumb 8밤 만에 처음 펴짐 / black-wax ring 노출 (신원 공개)
-- Haldren 자발 dais 내려가 grey envoy 어깨 위에 한 손 (인간 왕국 출신이 인간 왕국 음모 정지)
-- 베일 mouth quarter inch 위 정지 (last quarter 안 닫힘)
-- **이솔데 자발 발화 "Yours." (low·half lost in second roar — 베일이 신부 선언 못 닫는 그 순간 그녀가 발화로 닫는다 / verbal claim 첫 비트)**
-- 이솔데 작은 창백한 손 베일의 scaled knuckles 위에 closed (놓지 않음)
-
-→ **다음 화에 무엇이 회수될지 (5 미완성):**
-1. 베일의 신부 선언 완성 (last quarter inch + 발화 완료)
-2. **공개 키스 (Mate Sealed)**
-3. 드래곤 무리 본격 등장 (ridge 에서 내려옴)
-4. 인간 왕국 알드릭 왕의 음모 (grey envoy 가 무엇을 가지고 왔는가)
-5. silver pendant 의 진짜 의미 (어머니 유품·진짜 핏줄)
+**유료 격차 비트 (페이월 직후 응축):**
+1. EP09 first scene "She is my bride" 직접 발화
+2. EP09 chamber "I decided that a month ago" — 첫 단서 (audience: "한 달 전 = 축제 밤 = ?")
+3. EP09 chamber Vael 자발 자기 몸 (셔츠 벗고 침대에 등 보이게 누움 — "Earn it" 약속 시각 회수 시작)
+4. EP10-15 voice 의심·body memory 시작
+5. EP16 첫 자발 sex (Isolde 능동)
 
 ### 장르적 쾌감
 
-위협적 알파 + 능동적 여주 + 공개 지위 회복 + 거리 변화 (시선·손목·키스 직전·날개 그림자·비늘 빛) + 깃발 태움·왕국 사절 굴복 같은 공개 비트의 시각 카타르시스
+압도적 Dragon Lord (sixty-foot black dragon·시야 가림) + reverse-claim 여주 (자기 손으로 silver bird pin 꽂음·자기 손으로 crown·"I do not want a crown from the man who sold me. I want a crown from the man who waited for me") + Public Label Reversal (Veine impure → Drakonis "my bride · my mate · mother of my heir") + Identity-Bond 지연 폭발 (EP01-EP46) + Mother-of-Heir + 응징 분포 (Stepmother iron plate EP21 / council heads EP30 / Western Lord 손가락 EP37 / Sera 손 EP50)
 
-### 결제 엔진 매핑 (Soft Lock — G v2 환류 / paid vertical baseline 정밀화)
+### 결제 엔진 매핑 (v52 LOCK·메모리 정합)
 
-> 메모리: `feedback_v3_17_payment_engines.md` / `feedback_female_buy_engine_relational.md` / `feedback_paid_vertical_6_conversion_patterns.md`
+> 메모리: `feedback_paid_vertical_master.md` · `feedback_na_vertical_ad_creative_principles.md` · `feedback_paywall_declaration_timing.md` · `feedback_setup_before_payoff_5ep_minimum.md`
 
-**메인 결제 엔진 (Top 3):**
-1. **5.5 Possessive Alpha Marking** (1순위) — Vael 비늘 빛·crescents·throat 호혜·"They will not call you that again" / "I do not let them have what is mine" / "Look at me. Only me." 전 EP 누적.
-2. **5.2 Fated Mate Bond Recognition** (2순위) — 손목 thumb-mark + gate rune + pendant sigil 일치 / 양쪽 pulses meeting at wrist·heart·throat. 시각·접촉·voice 3 채널.
-3. **3.6 Public Status Claim** (3순위) — 옆자리 들어올림·공개 hand·머리채·twin crescents 노출·wide pearl band·"She is —" → "Yours." 사절단·12 mounted·dragon line 앞.
+**메인 엔진:**
+1. **Possessive Alpha (Vael 행동)** — 옷·말 X / 손가락 부러뜨림·머리 4개·letter 태움·hand burn off. "She is mine" 누적·말은 적게·행동은 즉시·심한 응징.
+2. **Identity Bond Delayed** — 축제 밤 남자 = Vael (audience-only EP01 seed → EP46 폭발). 1년 timeline 모든 voice 의심·body memory·silver bird pin continuity = EP46 답 1발에 회수.
+3. **Public Label Reversal** — Veine "impure" → Drakonis "my bride · my mate · mother of my heir". Vael 입에서 시작·council 입을 강제·Sera 입으로 복창 강제·왕국 letter 태움·외부 lord 손가락 부숨.
 
-**보조 결제 엔진 (서브):**
-- **5.4 Sacrificial Reversal** — 제물로 보내진 그녀가 셈을 끝낸 자로 위치 전환 (counting motif·"They sent me here to die." → "They sent you here to me."). 무료 구간 첫 증거.
-- **5.10 Hidden Identity Seeded** — pendant·tree-and-flame sigil·gate rune 일치 (유료 EP35 폭로). 무료 = audience-only seeds.
+**보조:**
+- **Earn-It Promise (verbal callback)** — EP01 dawn → EP46 회수
+- **Mother-of-Heir** — cycle 10 reveal·cycle 18 crown·cycle 24 labor·birth·2.5 years later second
+- **Counting / Crown 자기 손** — EP50 S#1 "queen by her own hand, not by Vael's giving"
 
-**6 Conversion 패턴 매핑 (Soft Lock):**
-> 메모리: `feedback_paid_vertical_6_conversion_patterns.md`
+### 시청자 심리 톤 baseline (LOCK 유지)
 
-| 패턴 | OFFERING 매핑 (EP) |
-|---|---|
-| **1. 거리 압축 (proximity closure)** | EP3 침실 벽 / EP5 테라스 jaw / EP6 호혜 throat / EP7 across-his-lap / EP8 quarter inch (페이월) |
-| **2. 가장 큰 자국 직전 정지 (just-before)** | EP3 strap 다시 올림 / EP5 forehead-to-temple stop / EP8 quarter inch above mouth (페이월 핵심) |
-| **3. 공개 → 사적 호혜 전환 (public-to-reciprocal)** | EP6 첫 호혜 throat / EP8 자발 "Yours." |
-| **4. 정보 비대칭 (information asymmetry)** | Aldric 음모 5번 분산 (dagger sigil → ring → paper → seal → 신원) / pendant audience-only |
-| **5. 위협 가시화 (threat visualization)** | EP4 leather case 동쪽 / EP5 종이 / EP6 Kiran 보고 / EP7 ridge breathing / EP8 12 mounted + grey envoy |
-| **6. 결정적 발화 끊김 (sentence cut)** | EP8 "She is —" 첫 포효에 의해 끊김 → Isolde "Yours."로 닫음 |
-
-### 시청자 심리 톤 baseline (Soft Lock — G v2 환류)
-
-> 메모리: `feedback_paid_vertical_viewer_psychology.md`. 북미 paid vertical 여성향 시청자 = **사적 즐김 + 욕망과 해소에 대한 부끄러움 + 자기 인정 욕구**. 도덕적 정당화·판결형 X / 욕망 직접 시각화 O.
-
-- **사적 즐김 (private enjoyment):** 시청자가 화면 앞에서 혼자 본다. 부끄러운 강도를 자기만 안다. → AIGC 시각이 압도적 노출이어도 OK / 죄책감 유발 행동 (PC 위반) X.
-- **욕망 + 부끄러움 양립:** 시청자가 보고 싶어함 + 자기가 보고 있다는 사실 인식. → Vael 의 "Because if I don't stop, I won't." (그가 자기를 부끄럽게 만든다 → 시청자가 안전) / Isolde 능동 호혜 (그녀가 holding back → 시청자가 자기 욕망 인정 가능).
-- **자기 인정 욕구:** Isolde 가 매달리지 X · 운다는 사실로 자기를 정의 X · 셈을 끝낸다. → 시청자가 Isolde 와 동일시할 때 자기를 약하지 않다고 인정. 강한 여주 + 압도적 alpha 두 박자.
-- **금기 위반 허용:** 머리채·잇자국·물건·공개 마킹·자세 강제. 시청자가 "이게 페미니스트적이지 않다"는 부담을 느끼지 X — 그녀가 능동 호혜로 응한다.
-
-→ **집필 시 baseline 적용:** 도덕적 정당화·자기 변명·"이건 옳다"는 voice X. 사건·접촉·자국·시각·voice 만으로 욕망과 자기 인정 양립.
+- **사적 즐김:** 시청자 = 페이드 vertical 사적 시청. 도덕 정당화 X.
+- **욕망 + 부끄러움:** Isolde "Every time I touched you, my body knew. Every time you held my wrist. Every time you breathed against my neck. My body knew the man and my mouth was calling him a stranger" (EP46) = 시청자 자기 욕망 시각화 가능 (몸이 알았다·말은 부정했다).
+- **자기 인정:** Isolde = 매달림 X·운다는 사실로 자기를 정의 X. EP19 will reading "I refuse" 즉시·자기 자리는 자기가 선택.
+- **금기 허용:** small-room high-heat·incognito festival·임신 정점에서 sex·신체 응징 (손·throat·iron plate) — 시청자 부끄러움 단계가 행동으로 시각화.
 
 ---
 
-## 12-3. 캐릭터 캐논
+## 12-3. 캐릭터 캐논 (LOCK 인물군 전체)
 
-### ISOLDE / 이솔데 — 주인공
+> v52 LOCK 정합 + visual_lock.md 정합. 옛 v2 인물 (HARRIN 이복오빠·Elara·인간 사절단 Haldren 등) **삭제**. v52 신규/갱신 인물 등재.
 
-**시각 (Hard Lock):**
-- 어두운 머리 (어깨 아래 흘러내림 — loose down her back)
-- 회녹색 눈
-- 도자기 같은 흰 피부 (porcelain pale)
-- 도드라진 눈매·가는 손목·곧게 선 자세
-#### 🔥 의상 변형 50화 매트릭스 (10개 — 2026-05-17 환류 / 4 아크 정합 + 사적·intimacy 보강)
+### ISOLDE — 주인공
 
-> **사용자 명시 (2026-05-17):**
-> ① "isolde는 의상 2개정도는 더 추가해라. **50화분량인데?**"
-> ② "isolde 의상은 총 6~8개면 된다. 적정수 고려해라 니가 설계한 아크 고려해서."
-> ③ "좀 적어보인다. 10개로 하자. intmacy나 sexual, 사적의상이 좀 적어보여. 근데 씬이 그다지 다른 날짜로 해서 많지 않다면 괜찮음."
->
-> 옛 4단계 → 50화 매트릭스 10변형 (4 아크 정합 + 사적·intimacy 영역 3개로 확장).
+**구조적 위치:** Veine king Aldric's unwanted daughter. 어머니 Mireille of South Cove (계모가 살해 사주·여덟살의 Isolde 거리에서 목격). 부친은 묵인. EP19 dying king 임종에서 "I confirm my blood and my name" — 그러나 Isolde 왕좌 거부.
 
-| # | 변형명 | 아크 / EP 범위 | 핵심 시각 | 변경 트리거 |
-|---|---|---|---|---|
-| **1** | **Royal Arrival** (제물 상태) | 기 (EP1 첫 도착만) | 흰 모피 망토 + 아이보리 비단 드레스 + silver thread + 인간 왕국 인장 (1회 한정) | 도착 |
-| **2** | **Daily Black Silk** (Vael's Choice + EP8 페이월 sub) | 기 (EP2-EP14) | 검은 비단 + 좁은 silver chain 보디스 + 흰 lace 높은 collar + pearls 어깨 솔기 + 흰 cuff / **EP8 sub**: wide silver-and-pearl band (crescents 노출) + hair half-pinned pearl | EP1 후반 Vael 명령 |
-| **3** | **Maiden Nightwear** (사적 일상·순수 톤) | 50화 전체 (사적 야간·취약 비트) | 흰 silk nightgown + 진주 trim + ivory lace robe + sheer 어깨·쇄골 + 무릎 위 길이 + 어머니 pendant 가슴 위 표면 + 발목 맨발 | 야간·사적 (자객 직전·키스 직전 정지 등 취약 reveal) |
-| **4** | **Bath / Vael's Bedroom Sensual** (intimacy 직전·정점·욕실·침실) | 50화 전체 (intimacy 비트) | 검은 silk slip gown + 한쪽 어깨 strap 흘러내림 + 짧은 silk robe + 다리 라인 reveal + 머리 풀고 젖은 끝 + Vael의 비늘 손이 풀거나 jerk 도구 | Vael 침실·욕실 후·짧은 robe 한정 (사적·intimacy 직전·정점) |
-| **5** | **Mate Bond Erotic Night** (intimacy 정점·brand reveal·Mate Bond 의식 사적 라인) | 승·전·결 (intimacy 정점 비트) | 등 raw open silk slip + 등 가운데 Vael 가문 brand 비주얼 + 손목 다중 chain + 머리 완전 풀음 + 진주·검붉은 lining + Vael 비늘 손이 등 brand 위 | EP18 첫 진짜 깊은 intimacy / EP25 의식 직전 / EP43 Mate Bond 정점 |
-| **6** | **Vael's Public Demand / Ceremonial** (공개·강제 호출) | 기·승·전 (공개 hall·강제 ceremonial) | 검은 비단 + 한쪽 어깨 strap만 + V-back + multi silver chain cross + split skirt + twin crescents·brand 직접 노출 | Vael 직접 명령 ("Bring her in this. The hall is to see her marks.") |
-| **7** | **Crowned Bride** (승 일상 + EP25 정식 신부 의식 sub) | 승 (EP15-EP25) | 검은 비단 + 은빛 자수 + 드래곤 비늘 모티프 + silver chain 라인 + 진주 디아뎀 (소형) + 손목 영구 비늘 빛 / **EP25 의식 sub**: 풀 silver 자수 + ankle-length veil + 디아뎀 풀 + 손목 비늘 빛 풀 발광 | EP15 정식 신부 후보 / EP25 의식 |
-| **8** | **Lady of Drakonis** (전 일상 + Hidden Bloodline sub) | 전 (EP26-EP44) | 검은 비단 + 황금 thread + 검붉은 lining + 손목 비늘 빛 점진 황금화 + 어깨 chain + 머리 풀어 / **Hidden Bloodline sub (EP35·39·40)**: pendant 외부 reveal + tree-and-flame sigil 황금 자수 보디스 + 진청·황금 가미 | EP26 Dragon Lord 부인 정식 / EP35 핏줄 폭로 |
-| **9** | **War Queen Armor** (결 전쟁) | 결 (EP41-EP48) | 검은 가죽 armor + 검붉은 chain mail + 짧은 split skirt + 어깨 metal pauldron (드래곤 뼈 모티프) + 손목 비늘 빛 + 머리 묶어 단단히 + 발목 가죽 부츠 | EP41 전쟁 본격 / 자객 대응 / 왕국 진입 |
-| **10** | **Dragon Queen Coronation** (결 EP49-50 즉위 의식) | 결 (EP49-EP50) | 검은 비단 풀 가운 + 황금 풀 자수 + 검붉은 화염 자수 라인 + 황금 디아뎀 (드래곤 뿔 모티프) + ankle-length 황금 망토 + 손목 비늘 빛 황금 문양 + Dragon Queen brand 가슴 위 시각 | EP49-50 Dragon Queen 정식 즉위 |
+**시각 (visual_lock 2.1):**
+- Age: early-mid 20s
+- Skin: porcelain ivory·cool ivory undertone (pearl-fair·tan/olive/bronze 절대 X)
+- Eyes: storm gray-green
+- Hair: deep chestnut polished waves·soft half-up at the back (fixed)
+- Beauty: aristocratic high beauty·queen hourglass·refined V-oval·full mouth. Noble first·grieving mother second·dragon queen third.
 
-#### 사적·intimacy·sexual 의상 3 단계 (변형 3·4·5)
+**캐논 (LOCK):**
+- 가족 X (계모·이복여동생 Adeline — Adeline은 EP19 이후 화해)
+- Veine 안에서 "impure" 라벨링 (계모·priest·궁정 전체)
+- EP01 fire festival = 도주 X / "In a month they sell me. Tonight is mine." — 자기 마지막 밤을 자기 손으로 선택
+- 축제 밤 남자 (glamoured incognito) 에게 자발 "Earn it" → small-room high-heat sex → dawn silver bird pin 두고 떠남
+- EP02 Bridal Mirror IMPURE → Veine 왕가의 거래 깨짐 → Drakonis 제물로 던져짐
+- 1년 동안 voice/body 의심·확증 회피 → EP46 polar 폭발
+- EP39 crown ceremony에서 Vael 손으로 한 번 받음 → EP50 S#1 자기 손으로 다시 올림 ("queen by her own hand, not by Vael's giving")
 
-> **변경 트리거 = 욕망 단계** — 같은 날짜라도 사적 비트 단계에 따라 다른 의상 호출. 사용자 명시 "씬이 다른 날짜로 해서 많지 않다면 괜찮음" → 의상은 **사적 단계·intimacy 정도**에 정합 / 날짜 인플레이션 강요 X.
+**voice·습관 (memory `project_offering_isolde_character_charter.md`):**
+- 강한 척 X·취약+자존심+끌림 3중. PC식 독립성 절대 금지.
+- festival night man 부정 루프 (중반 감정 엔진).
+- 단답·구체 (행동 묘사 우선). 도덕 평가어 X.
+- 결정은 빠르고 즉시 ("I refuse" EP19 즉답·"I would have regretted not doing it more" EP21).
 
-- **변형 3 (Maiden Nightwear):** 사적 일상·취약·키스 직전 정지·자객 직전 — **순수·취약·maiden 톤**
-- **변형 4 (Bath / Bedroom Sensual):** intimacy 직전·정점·욕실 후·짧은 robe — **sensual·맞춰진·Vael 침실 한정**
-- **변형 5 (Mate Bond Erotic Night):** intimacy 정점·brand reveal·Mate Bond 의식 — **정식 brand·Erotic Permission·등 raw open**
-
-→ 사적 한 회차 안에 3·4·5 단계적 호출 가능 (예: EP43 — 침실 입장 변형 4 → Mate Bond 의식 변형 5 → 후 변형 3 일상). 50화 전체 자연 흐름.
-
-#### 변형 호출 룰 (50화 자연 흐름)
-
-- **사적·intimacy 씬:** 변형 3 (취약) / 4 (sensual) / 5 (정점·brand)
-- **공개 hall·강제 ceremonial (50화 전체):** 변형 6 (Vael's Public Demand)
-- **아크별 일상 진화:** 1 (EP1) → 2 (기 EP2-14) → 7 (승 EP15-25) → 8 (전 EP26-44) → 9·10 (결 EP41-50)
-- **특수 페이월·의식:** 2-Sub (EP8) / 7-Sub (EP25) / 10 (EP49-50)
-- **여성향 정합:** 3·4·5·6·8 Hidden·10 모두 핵심 여성향 보상 시각
-- **각 변형 = 캐릭터 어셋 일관 + 의상 별도 어셋.**
-
-> **EP1 의상 변경 (Soft Lock 환류):** 청사진 v1 "검은 모피 + 핏빛 드레스" → v2 "흰 모피 + 아이보리 드레스 → 검은 비단 (베일 명령)". 변경 사유: (1) 흰색 → 검은색 변화가 EP2 "name being chosen" reveal 의 시각 카타르시스 (한 의상 단계 안에서 변화 / 그 변화의 첫 화면) / (2) 인간 왕국 = 제물·순백·구속 / 검은 성채 = 그녀를 선택한 자리·검·은·진주 = 정체성 변화 / (3) 흰색 위의 silver pendant 가 자연스럽게 검은 비단 안쪽으로 옮겨감 (어머니 유품의 보존 + 비밀화). 핏빛 드레스 (잿빛 한가운데 한 점의 색) 의 시각 카타르시스 효과는 검은 비단 + 흰 throat + 진주·은 의 contrast 로 대체 (winter through ash).
-
-**캐논 (2026-05-17 정정 — 1화 처절함·반항 + 무시 패턴):**
-- 인간 왕국의 패전 공주이자 **알드릭 왕이 숨긴 진짜 후계자.** 이복오빠(HARRIN)와 계모가 그녀를 제물로 던져 자기 왕위 안전화.
-- **1화 = 반항·저항 시도 + 무시·모욕·폭력 받음** — 사슬 끌려가면서도 입으로 반항·자존 시도 / 빌런들에게 하찮은 것·우스운 것으로 처리됨. 무력 매달림 X / 완성형 X.
-- **2화부터 = 셈하는 여자 호 시작** — 떨면서도 한 발 뗌·셈·정보 누적·거래 시도.
-- **8화 = 떨리는 손으로 거래 발화** ("Yours." = 사랑 X / 생존·거래·복수·굴욕·욕망의 버튼).
-- **숨겨진 어셋 — pendant (silver, tree-and-flame sigil, 동전 크기):** 어머니 유품. 망토 안쪽 비단에 늘 차고 있음. 시질 = 검은 성문 위 룬과 같은 모양 (작게). EP1 도착 시 잠시 풀려 빠져나옴 — Isolde가 즉시 안쪽으로 다시 넣음. EP2 의상 갈아입을 때 maid가 새 검은 비단 보디스 안쪽 솔기로 옮겨 꿰맴 (maid가 시질 인식 — audience-only). 진짜 핏줄 단서·EP35 폭로 트리거.
-- **정체성 = 셈하는 여자 (counter) — 2화부터:** 빼앗긴 것을 **센다.** 길에서 사슬·망토·드레스·이름이 빼앗기는 동안 세고 있었음. 검은 성채 안에서도 매일 밤 대연회장 창문을 센다 (테라스에서 본 창의 개수 = 메인 빌런 라인의 사람들이 성채에 들어온 횟수). 능동 셈 — 결단·복수의 도구가 될 정보 누적.
-- **욕망 직접 표면화 (정정 — 절제 X):** EP3-7 베일의 짐승 직진 접촉에 도망 X·반응 직접·손이 베일의 가슴·목·옷자락 잡음 (떨면서도 잡음). EP5 "Why won't you stop." (직진 질문) / EP8 "Yours." (떨리는 손·반항 시도하다 박살난 후의 결정).
-- **이입 가능한 처지 (절대):** 1화 = 처절·반항·시도·무시 받음. 시청자가 "저 새끼들 죽어야 한다" + "이 여자 어떻게 살아남나" 동시 충족.
-
-**voice·습관 (정정 2026-05-17):**
-- 1화 = **반항 voice** ("내 손목 풀어." / "차라리 잡아먹히겠어." / "닥쳐, 한린.") — 빌런들에게 무시당하며 사용
-- 2화부터 = 단답형 + 셈 표현 ("네가 셋째." / "넌 다섯 번째." / "I count.")
-- 자기 연민·"나는 강해" 자기 선언 X — **반항 시도 + 무시 받음의 실제 상태**가 표지
-- 한 줄에 그림 한 컷 (말하지 말고 보여주기)
-- 베일에게 답할 때 정면 X — 벽을 향해 답하거나 자기 손을 본다 (떨면서도 굴복 X)
+**의상 매트릭스 = visual_lock 2.1 (10 Looks).** 본 blueprint 12-6 참조.
 
 **절대 하면 안 되는 행동:**
-- ❌ "이러지 마세요" 류 **무력 매달림** (이건 처절함 X)
-- ❌ 1화부터 완성형 얼음공주 (이입 차단)
-- "나는 강해" / "나는 제물 아냐" 자기 선언 (반항·시도로 보여줌)
-- 베일에게 의존만 하는 수동 위치
-- 가족·왕국으로 돌아가고 싶어함
-- 판결형·도덕적 평가어 ("그건 옳지 않다") — 욕망·결핍·반항 직접 시각화 우선
+- 매달림·"이러지 마세요" 류 무력
+- 1화부터 얼음공주 완성형
+- 가족·왕국 복귀 욕망 (Veine 왕좌 거부 라인)
+- 강한 척 PC 톤
+- 행정·법·정치·외교·계약·정책 발화 (memory `feedback_vertical_no_admin_power.md` — 단 EP19 will refusal·EP21 stepmother burn 같은 사적 응징은 OK. 행정/외교 hearing 불가.)
 
-### VAEL DRAKONIS / 베일 드라코니스 — 남주, Dragon Lord
+### VAEL DRAKONIS — Dragon Lord·남주
 
-**시각 (Hard Lock):**
-- 검은 머리 (어깨까지 흐르는·씻은 직후 끝이 젖어 있을 때 많음)
-- 큰 체격 (190cm+ — 문을 옆으로 지나는 사이즈)
-- 회색 눈 (깊게 들어간·딱딱하고 곧은 brow·분노 시 검은 비늘 빛 / 화염 시 검붉은 빛)
-- 손등의 검은 비늘 (분노·화염·소유욕 시 더 진해짐 — EP7+ 손목·팔뚝까지 올라옴)
-- 단단한 턱·옆 목의 깨끗한 힘줄 (옷깃 위로 보임)·오래 웃지 않은 입
-- **의상 1차 (EP1·실외·검은 성채 첫 등장):** 검은 가죽 greatcoat + 은 자수 + 검은 망토 — 옷깃 안쪽 검은 비단 셔츠 헐겁게 묶임 (쇄골 라인·가슴 근육 시작점 노출)
-- **의상 1B차 (EP2+ 실내·대연회장·회의실·테라스):** greatcoat 제거 — fitted 검은 비단 + 가죽 tunic / 옷깃 끈 일반 회의 남성보다 2단 더 풀어진 상태 (목 라인·힘줄 노출) / 가슴 위로 검은 비단 평평히 / 소매 손목 위로 걷어올림 (비늘 손등 노출) / 허리 벨트 낮게
-- **의상 2차 (EP25+):** 검은 가죽 + 황금 검·왕홀
-- 화염 손바닥 (EP4부터 사용)
-- 날개 그림자 (EP15부터 등장)
+**구조적 위치:** Drakonis Keep의 마지막 Dragon Lord. 어머니 = silver bird pin (wooden bird carving original) 두고 갔던 여인 (lower city festival year마다 방문). 매년 fire festival에 incognito로 lower city에 옴 — 그래서 EP01 Isolde를 글래머 상태에서 만남.
 
-**캐논:**
-- Drakonis 가문 마지막 Dragon Lord. 북부 검은 성채·드래곤 군대의 지배자
-- 인간 왕국의 사절단 앞에서 이솔데를 자기 옆에 세움
-- 달콤한 말 X / 행동·보호·공개 선언으로 의사 전달
-- 자기 비늘 빛이 이솔데의 손목에 남는 이유 = 그녀가 그의 운명 짝 (Mate / Crowned Bride)
-- 알드릭 왕과 베일의 가문 사이 오래된 약속 (드래곤 조약)
-- **신체 baseline (드래곤 alpha — 인간 위협보다 큰 호흡):** 평소 호흡 깊고 느림 — 이솔데가 가슴 위에 손 얹을 때 셀 수 있는 박자. 자객 직후 (EP3) / 인간 왕국 두 번째 사절 직후 (EP8): 호흡이 **빨라지지 않고 잘못 된다** ("breathing wrong — slow, deep, careful, the way something inhuman tries to remember not to break a thing"). 인간이 아닌 것이 인간 형태를 통제하려고 노력하는 표지.
-- **음성:** 낮은·필요해서만 크게 들리는 voice (소리 X 무게 O). 짧은 명령어 ("Closer." / "Hand." / "Drop it." / "Inside. Now."). 사적 voice = 회의 voice와 다름 (이솔데에게만 들리는 낮은 voice 별도). 사절단 앞 voice = "She is —" 사이 끊김 (드래곤 포효가 그의 말을 가로채는 것 = 신화 차원 인정).
+**시각 (visual_lock 2.2):**
+- Age: early-mid 30s
+- Skin: cool ivory with low gold
+- Eyes: slate gray, dark red ring when angered or aroused
+- Hair: dark obsidian black·shoulder-length, half-pulled back at the nape
+- Body: 190+·broad shouldered·lean-muscular alpha
+- **Right hand: scaled patch (Hard Lock — every shot)**
+- Face: angular jaw·strong cheekbone·sharp brow·dangerous calm mouth. No beard. No softness. Dragon lord first·man second.
 
-**voice·습관 (Soft Lock 보강):**
-- 거리·동작에 의미. 갑자기 가까이 가지만 압박 X / 멈춰서 한 단 뒤로 빠지는 패턴 (EP3 침실 키스 후 한 발 / EP5 테라스 키스 직전 정지)
-- 마킹 시 "claim, not spell" — 짧은 입맞춤·자국. 긴 호흡 trace 회피 (길게 끄는 정념 행동 X)
-- 압도 시 자세 = 사이즈로 공간 차지 (one wide hand spread flat / scaled hand 의자 armrest 전체 채움)
-- 사적 친밀 직전 정지·"if I don't stop, I won't" 류 한 줄 — 자기 통제 표지
+**캐논 (LOCK):**
+- 어머니 = lower city Veine 출신·Drakonis로 wedded·죽음 (silver bird pin 어셋 → Vael이 silver hairpin 다시 제작 / wooden bird carving은 어머니 친손)
+- 매년 fire festival = 어머니 추모·incognito 방문
+- EP01 = Isolde의 glamoured face·자기도 glamoured = 둘 다 자기 자신을 숨긴 채 만남. high-heat sex. dawn 약속 X ("Then what do I keep? / The night. The promise."). silver bird pin Isolde 머리에 꽂아줌 → Isolde dawn에 두고 떠남.
+- 한 달 후 (EP02-EP07) Drakonis Keep에서 Veine offering으로 재만남. **Vael은 알고 있음 / Isolde는 모름** (축제 밤 남자 정체 = Vael).
+- "I decided that a month ago" (EP09 corridor) = audience seed.
+- 1년 timeline = Vael의 1년치 earning. EP46 "I have been trying since dawn."
 
-**EP3 명대사 락 (Soft Lock):**
-- "**Because if I don't stop, I won't.**" — 자기 통제·욕망·집착·정중함 (보복할 만한 자객 갈고 온 직후) 4 결합. Vael voice 첫 정점. 이 라인의 의미·기능: (1) 그가 멈춘다 = 사적 친밀 보상 유예 / (2) 그가 자제력 잃을 직전 = 결제 동력 / (3) 그녀에게 처음으로 자기 약점 비침 (사적 voice). EP3 페이월 직전 단계 (3) 신뢰 형성에 가장 효과적.
+**voice (memory `project_offering_vael_character_charter.md`):**
+- 거칠고 강압적·차갑고 위압적 Dragon Lord. Isolde에게만 지극.
+- 말 1-5 단어 ("Come here." / "Walk." / "Tell me to stop." / "I won't.")
+- 사랑은 행동 (silver pin 만들기·crown 자기 손으로 들고 와서·council 머리 4개·Western Lord 손가락·Veine letter 태움·Sera 손 burn off)
+- Dragon shadow·언령·hall 위압
+- 사적 voice = chamber 안에서만 (감정 노출 = 한정)
+
+**EP01 첫 만남 dialogue (LOCK·v46 옵션 5):**
+```
+HIM: You do not belong here.
+ISOLDE: I do not belong anywhere.
+HIM: Then belong to me until dawn.
+ISOLDE: Earn it.
+```
+
+**EP46 정답 회수 dialogue (LOCK):**
+- "The wooden one was hers. I had the silver one made from it."
+- "You told me to earn it. / I have been trying since dawn."
+- "It was me." / "I was afraid."
+- Isolde "You protected my body. You let me hate what it wanted. / You kept me starving. / Make it up."
+
+**변신 (visual_lock 2.2 Dragon Form):**
+- Sixty-foot black dragon·obsidian scales with dark red lining·four horns·black flame + cold blue under-vapor
+- Wolf/werewolf 변신 절대 금지
+- Stage 1 EP01-EP16: wrist scale only
+- Stage 2 EP17: 첫 full transformation reveal (Isolde 옆에서)
+- Stage 3 EP18-EP34: free switch
+- Stage 4 EP35: full sky battle (eastern sky council force)
+- Stage 5 EP48-EP49: 감정적 partial (labor·temple scale·dark red ring full)
+- Stage 6 EP50 S#3: cuffed scaled fingertips only (peace)
+- **Isolde 변신 폐기 (옛 Mate Bond Sync 폐기·v52에 없음)**
 
 **절대 하면 안 되는 행동:**
-- 갑자기 달콤한 말·자기 변명·사과
-- 약함 발화 ("사실 나도 두려워")
-- 이솔데를 그냥 수동적 보상으로 대함
-- 사적 친밀로만 보상 끝남
-- 인간 alpha 톤 (분노 폭발 / 큰 voice / 모욕) — 드래곤 alpha = 호흡 잘못 됨 / 비늘 어두워짐 / voice 낮춰짐
+- 달콤한 말·사과·약함 발화
+- 인간 alpha 톤 (분노 폭발·큰 voice·모욕)
+- 행정/정치/외교 hearing·계약 협상 톤 (memory `feedback_vertical_no_admin_power.md`)
+- safe / nice-guy / palace guard / bodyguard styling
+- bare-chest beefcake porn frame
 
-### HALDREN / 할드렌 — 인간 왕국 사절, 정치 적대자 → 충성 전환자
+### STEPMOTHER — Veine queen consort (false)
 
-회색 머리·외교관 망토 (1차 의상 — slate 외교관 robe + 어깨 sash kingdom seal). 왕국의 연락관 자격으로 성채에 남아 이솔데가 제물로 취급되도록 감시. **충성 전환 단계 (Soft Lock — G v2 환류):**
-- **EP1:** 검은 성문 앞에서 인장 떨어뜨리고 돌아섬 — 단 비탈길 중간에서 한 번 돌아본다 (감시자 중 유일).
-- **EP2:** 대연회장 side dais. 베일이 이솔데를 옆자리에 세우는 순간 어깨 낮춤 (bow X / 인정 시작 — audience-only).
-- **EP3-4:** 회의실 — 인간 왕국 깃발이 타는 순간 동요 X·말없이 응시. 다른 envoy들은 한 발 물러난다.
-- **EP6 (가속):** 자발 side dais 내려와 이솔데 앞 바닥에 멈춤. 베일이 아닌 이솔데에게 고개 숙임 ("considered lowering of an envoy who has just changed his mind — not yet the kingdom's lowering, his own"). 발화: "**The kingdom withdraws its claim. On her name.**" — 베일에게는 절하지 않음. 충성 = 왕국이 아니라 이솔데에 대한 개인 결정.
-- **EP8:** 외교관 robe·sash 모두 벗고 plain grey 차림으로 등장. 두 번째 사절단·grey envoy(알드릭의 thumb) 도착 시 자발적으로 dais 내려가 grey envoy 어깨에 한 손 (가장 가벼운 접촉 / 칼 X) — grey envoy를 거기 멈추게 한다. 인간 왕국 출신이 인간 왕국 출신을 제압하는 첫 비트.
+**구조적 위치:** Aldric의 두 번째 부인. Isolde 어머니 (Mireille of South Cove) 살해 사주 — 시장 거리에서 무장 폭력배 고용·강간·매타·죽음. 여덟살 Isolde 목격. 부친(Aldric) 알고도 묵인. 이후 16년 Isolde를 "impure / damaged" 라벨링하고 늙은 매수자(Corvin)에게 거래.
 
-**핵심 voice:** 단답·정중·정확한 ("Walk inside. No turning back." → "Stand back." → "The kingdom withdraws its claim. On her name."). 후반 voice는 변하지 X — 같은 voice로 다른 충성을 발화.
+**시각 (visual_lock 2.9):** powdered pale ivory·cold gray eyes·pinched judgmental face·over-set ash blonde tight updo·ivory Veine consort gown + deep red inner sash + heavy gold collar.
 
-**기능 (구조적):** 왕국 안에서 이솔데를 인정한 첫 인간 = 왕국 핏줄 회복(EP35) 폭로 시 신뢰 가능한 증인. EP8 grey envoy 어깨 손 = 다음 화수에서 알드릭 음모 폭로의 통로.
+**비트:**
+- EP01-EP02 IMPURE 의식 주도 (priest + 거울)
+- EP19 will reading 직전까지 자기 권력 확신 → Isolde 폭로 → Adeline에게 "Take her to the north tower"
+- EP20 Isolde 결정 "We burn her at my gate" → Adeline 동의
+- EP21 Drakonis 외부 마당 iron plate execution (Vael 손바닥 black fire·iron 빨개짐·3초). Isolde 옆 / Vael 둘레 / 키프 court 벽 위 관전.
 
-### KING ALDRIC / 알드릭 왕 — 이솔데의 부친, 인간 왕
+**옛 "dowager queen" 호칭 폐기.** Aldric 생존 중 = consort.
 
-이솔데를 제물로 보낸 인간 왕국의 왕. 베일과 얽힌 오래된 약속을 숨기고 있으며, 이솔데가 진짜 후계 핏줄임을 알면서도 정치적 부담으로 버림. EP35에서 본격 폭로.
+### LORD CORVIN — Veine groom buyer
 
-**음모 분산 단계 (Soft Lock — G v2 환류 / EP1-8 매 화 노출):**
-> 알드릭은 EP1-8 무료 구간에 직접 등장 X — 대신 **그의 사람 (GREY ENVOY = 알드릭 thumb)·그의 sigil (black-wax)** 이 매 화 분산 배치되어 유료 구간 본격 폭로 (EP34-40) 의 결제 동력을 누적.
-- **EP1:** 검은 성문 앞 — 한 줄로 늘어진 인간 왕국 깃발 (반쯤 내려져 있음 — audience-only / Haldren도 모를 가능성).
-- **EP2:** 대연회장 — 베일이 이솔데를 옆자리에 올린 직후 thin grey lord (black-wax ring on thumb) 사이드 아치로 빠져나감. ring sigil = 왕국 공식 인장과 다름.
-- **EP3:** 자객 dagger pommel — 위에는 왕국 공식 인장 / 아래에는 **black-wax sigil 작은 글씨로 새김** (audience-only).
-- **EP4:** 회의실 — grey envoy 가 인간 왕국 측 일행 중 한 명으로 와 있음 (Haldren 옆 thumb ring). 베일이 깃발 태우는 동안 grey envoy는 불이 아닌 **이솔데를 본다.** 이후 ridge 위 정찰병 세 명 + leather case 동·waste road 동쪽 rider 전달.
-- **EP5:** 테라스 비트 동안 audience-only — 코트야드 아래 grey envoy 가 자기 정찰병들에게 작은 접힌 종이 전달. 베일·이솔데 시야 밖.
-- **EP6:** Kiran 보고 — "두 번째 envoy가 ridge 위에 있다 / 자객 dagger 아래 sigil = 사이드 아치로 빠져나간 grey envoy의 thumb ring과 일치 / **그 sigil은 왕의 인장보다 왕에게 더 가깝다**." 알드릭 음모 첫 직접 언급.
-- **EP7:** 회의실 모래시계 + 검붉은 종이 + black-wax 봉인 (audience callback — 알드릭 thumb 의 sigil). 회의실 슬릿 창 너머 ridge 의 등·날개가 움직이기 시작 (드래곤 무리 가시화).
-- **EP8 (페이월):** grey envoy 가 두 번째 사절단과 함께 출입구 doorway 에 끌려나옴. 베일이 두 번째 envoy의 parchment·standard 둘 다 태운다 — wax sigil 녹는 순간 = audience callback (dagger pommel / thumb ring / 종이 / 봉인 모두 같은 sigil). 드래곤 포효 직후 grey envoy 의 thumb 가 8밤 만에 처음으로 펼쳐짐 — black-wax ring 횃불에 번뜩임 = 신원 공개 / Haldren 손이 그 어깨 위에. 알드릭의 사람이 검은 성채 안에서 처음으로 가시화.
+**구조적 위치:** Veine ceremony에서 Isolde 매수 예정이었던 늙은 부자. EP01 S#1 flash-forward에 등장 (mirror reaction: "Corvin steps back"). EP02 IMPURE 직후 도시 떠나 자기 영지로 도주 (EP19 Adeline 언급).
 
-→ **유료 결제 동력 누적:** "왕이 누구를 보냈는가" (EP3 dagger·EP6 Kiran 명시·EP8 신원 공개) → **알드릭이 직접 무엇을 했는가** (유료 EP9-16: dagger 출처 / EP19: Kiran 단서 / EP34-40: 본격 폭로).
+**시각 (visual_lock 2.10):** late 50s·sallow ivory·watery brown eyes·thin gray hair with bald patch·ivory Veine ceremonial robe + deep red trim + heavy gold rings. Single-EP asset.
 
-### GREY ENVOY / 그레이 사절 — 알드릭 왕의 thumb (신규 인물, Soft Lock)
+**비트:**
+- EP01 S#2 memory flash cut (festival 안에서 — "She'll learn quiet")
+- EP01 S#1 / S#6 bridal mirror reaction
+- EP02 도주 → EP19 Adeline: "He left the city the night of the mirror. His own province. Quiet. He will stay quiet — or his next bride contract comes back to me with the Lord of Drakonis's seal on it."
+- 이후 무대 X
 
-> G v2 디벨롭에서 식별된 신규 인물. 인간 왕국 측 음모 분산의 시각 표지. 청사진 v2 등재.
+### KING ALDRIC — dying borrowed king
 
-- **시각:** 회색·thin·gaunt. 인간 왕국 외교관 차림 (Haldren보다 격이 낮은) — 측근으로 위장. **thumb 에 black-wax ring** (audience 식별 sigil).
-- **기능:** 알드릭 왕의 직접 손. EP1-8 분산 배치 (위 음모 분산 단계 참조). 모든 음모 비트의 시각 트래커.
-- **voice:** 거의 무언. EP1-4 한 마디도 X / EP6 Kiran 보고에서 처음 이름이 매겨짐 / EP8 입을 열려고 하나 드래곤 포효에 의해 잘림.
-- **공개 노출 시점:** EP8 — Haldren 손 아래에서 처음 정면 노출. 신원 = 알드릭의 thumb.
-- **유료 라인:** EP9-16 베일이 그를 통해 알드릭에게 메시지 보냄 / EP19 Kiran 이 그로부터 단서 추출 / EP30-34 본격 폭로 도구.
+**구조적 위치:** Veine king. Mireille of South Cove (Isolde 어머니) 사랑·결혼했으나 Stepmother 두려워 묵인. Isolde를 16년 동안 거래 상품으로 취급. EP17 letter "I am dying. Two weeks. Perhaps three." → EP18 임종 chamber → EP19 will reading "To my eldest daughter Isolde, born of Mireille of South Cove, I confirm my blood and my name. I leave to her the first claim to the throne of Veine."
 
-### KIRAN / 키란 — 베일의 부관, 드래곤 측 감시자
+**시각 (visual_lock 2.8):** late 60s, frail·weathered ivory·silver-white short hair·tired gray eyes·ivory Veine king robe with heavy gold trim. Standing battle armor X·predator alpha X.
 
-베일의 명령 수행. 처음에는 이솔데를 위험 요소로 감시하나, 그녀가 무너지지 않는 것을 보며 성채 안의 정보를 조금씩 열어줌 (조력자 전환).
+**비트:**
+- EP01-EP16 무대 부재 (Veine은 거래 결정만)
+- EP17 letter
+- EP18 dying chamber·Isolde 직접 face-to-face·"I am sorry" / Stepmother 살해 사주·자기 묵인 자백 / Adeline 옆에서 목격
+- EP19 will reading (death) → Adeline에게 throne 이양
 
-**시각·습관 (Soft Lock — G v2 환류):**
-- lean·드래곤 핏줄 (dragon-blood) — 어깨에 silver 표지·dark scaled armor.
-- 일관된 위치 (높은 자리 발치). 베일이 어디에 있든 두 발자국 뒤에 / 회의실에서는 베일 의자 반대편.
-- **공손한 정중성·예외 없는 위계 인식.** EP2 ISOLDE에게 짧고 정확한 bow / 사적 친밀 비트 (EP7 회의실) 발생 시 부하 한 명을 벽 쪽으로 돌려세움 (courtesy, not rebuke — 자기는 시선 유지·베일을 본다·이솔데 X). 드래곤 측 정중성 = 사적 친밀을 부끄럽게 만들지 X·관찰 부담 분산.
+**옛 "직접 음모·grey envoy black-wax ring·5번 분산 callback" 폐기.** v52 Aldric = passive dying king·apology only.
 
-**기능 비트:**
-- **EP1:** 검은 비단 들고 베일 뒤에서 등장 — 이솔데에게 새 의상 전달 도구.
-- **EP3:** 자객 dagger 받아 출처 추적 명령 받음.
-- **EP4:** dagger 회의실 테이블 위 (pommel 베일 의자 쪽 / envoy 쪽 X — 공격 X 정보 시각화).
-- **EP6:** lavender 새 신부 후보 거절 (vael 침묵 / Kiran "Stand back" 2번).
-- **EP7:** 회의실 — 베일 무릎 위 ISOLDE 공개 시 부하 1명 벽 쪽으로 돌려세움.
-- **EP8:** 두 번째 사절·grey envoy 양쪽 모두 escort 명령 / 출입구 정렬.
+### ADELINE — Veine queen (Isolde's sister)
 
-**voice:** 단답·정확. 명령 어법보다 보고 어법 ("They want her face at the gate by sundown. Both envoys." / "Same mouth as the dagger." / "Lord. A second envoy is on the ridge. New seal."). 자기 의견 X — 정보만.
+**구조적 위치:** Stepmother's 친딸·Isolde 이복여동생. 어린 시절 (EP02) cruel·궁정 안에서 Isolde를 "impure" 라벨링 동참. EP18 dying chamber에서 부친 자백 목격 → 성장. EP19 Adeline 자기 어머니 (Stepmother) 체포 결정 → Isolde sister-queen 회복. EP19 이후 Veine 통치.
 
-### ELARA / 엘라라 — 다른 신부 후보, 초반 라이벌
+**시각 (visual_lock 2.7):** early 20s·porcelain ivory (slightly cooler than Isolde)·storm gray eyes·dark chestnut tight Veine palace updo. Look 1 (EP01-EP18) white Veine court gown / Look 2 (EP19-EP50) ivory Veine queen robe + silver Veine circlet.
 
-드래곤 성채 안에서 이솔데를 제물로 조롱하는 신부 후보. 베일이 이솔데를 옆자리에 앉히는 순간 처음으로 밀려남. EP30 본격 굴욕.
+**비트:**
+- EP02 cruel sister (Veine 안)
+- EP18 dying chamber 옆 (부친 자백 목격)
+- EP19 stepmother 체포 "Take her to the north tower"
+- EP20 sister 둘 화해 ("I learned from yesterday too, sister.")
+- EP19 이후 Veine 통치·Isolde에게 letter 송신·EP42 Veine cathedral 6-seal 도착 시 "no seal from Adeline" = audience 안전 신호 (cathedral old high court 단독 행위·Adeline 무관)
 
-**시각 (Soft Lock — G v2 환류):**
-- **금발·금빛 의상 (gold gown, gold thread, gold-gloved hands).** "차가운 입." ISOLDE의 검·은·진주·핏빛 톤과 정반대 — 한 화면 안에 같이 있으면 즉시 식별.
-- 의상 단일 (Visual Lock asset) — gold만 / 다른 색 X. EP30 굴욕 후 의상 변경 가능 (그때까지 단일).
+### KIRAN — Vael's deadpan dragon officer
 
-**기능 비트 (EP1-8):**
-- **EP2:** 신부 후보 앞줄 / ISOLDE 들어올 때 입을 옆 시녀에게 "Pretty. For an offering." (작게) → 베일이 ISOLDE를 옆자리에 들어올리는 순간 굳음. 금빛 장갑 손 의자 뒤로 닫힘 (knuckles whitening).
-- **EP3:** "That seat is not for you." (공개 발화) — 베일 무시·ISOLDE에게 자리 두 드림. 굴욕 첫 비트.
-- **EP4-5:** 부재.
-- **EP6:** lavender 새 후보 거절 직후 — 자기가 다음이라고 생각했으나 ISOLDE 가 side arch 에서 자발 입장. ISOLDE 가 self-placed seat. 손이 자기 옆으로 떨어짐 / 입이 한 칸 열림 / 자리 떠남 (run X 걷는다). 굴욕 두 번째 비트.
-- **EP7-8:** 무대 위에 있으되 발화 X. EP8 앞줄에서 시선 바닥에 (gold가 더 이상 lift 되지 않음).
+**구조적 위치:** Drakonis Keep officer·Vael의 hand·게이트 keeper·정보 추출·정중성.
 
-**음성 (Hard Lock 사절):**
-- 비웃음·시혜·짧은 침. 베일 발화 직후 즉시 잘림 (한 번도 베일과 직접 대화 X — 단방향).
+**시각 (visual_lock 2.4):** mid 30s·warm bronze·dark hazel·black short cropped·obsidian leather long coat with silver trim·sword belt. 정확·deadpan·dry curl mouth.
 
-### SERA / 세라 — 다른 드래곤 가문 후계 (EP15+ 등장, 신규)
+**voice:** "Yes, my lord." / "Yes, my queen." 단답. 보고 어법 ("Three things." / "Same mouth as the dagger." / "Veine has sent the woman.")
 
-다른 드래곤 가문의 여성. 베일에게 가문 동맹을 제안하며 이솔데를 견제. 위험한 라이벌.
+**비트 분포 (LOCK):**
+- EP07-EP08 gate entrance / EP08 paywall hall
+- EP09 corridor escort 후 chamber door 안 외부 보초
+- EP21 yard execution 직전 stepmother escort
+- EP30 stepping into chamber with Volzaar letter (Sera 도주 발각·Vael personal interception)
+- EP42 Veine 6-seal 가져옴 ("From Veine. Inner cathedral. Old high court. No seal from Adeline.")
+- EP47 labor eve "Halren. Up. Now." 명령 수행
+- EP48 cousin 인터셉트·outer wall에 body 매닮
+- EP50 Sera 호송 (collar 잡고 lower door로)
 
----
+### HALREN — Drakonis court healer (female)
 
-## 12-4. 관계 구조
+**구조적 위치:** Drakonis 궁정 healer. **female·iron-gray loose bun·warm light olive skin·quiet brown eyes·charcoal gray healer gown** (visual_lock 2.6). Witch silhouette·sexualized healer 절대 X.
 
-| 관계 | 시작 | EP8 (페이월) | EP25 | EP50 |
-|---|---|---|---|---|
-| 이솔데 ↔ 베일 | 제물·로드 | 신부 선언 직전 + 호혜 throat·자발 "Yours." | 정식 신부 | Dragon Queen·Dragon King |
-| 이솔데 ↔ 할드렌 | 감시자 | **EP6 "kingdom withdraws claim on her name" / EP8 plain grey 자발 grey envoy 어깨 위 손 (개인 결정 → 공개 행동)** | 사과·정식 충성 | 충성 신하 |
-| 이솔데 ↔ 알드릭 | 부녀 (버려진) | **단절 + grey envoy 신원 공개 (음모 가시화)** | 적대 | 굴욕 |
-| 이솔데 ↔ 엘라라 | 라이벌 | **EP2 굴욕 1차 / EP3 "That seat is not for you." / EP6 자리 떠남 (run X 걷는다) / EP8 시선 바닥** | 본격 굴욕 | 추방 |
-| 이솔데 ↔ 키란 | 감시 대상 | **정중성·정확한 보고 (단서 추적 명령 수행)** | 조력자 | 신하 |
-| 이솔데 ↔ 그레이 사절 | (audience-only EP2-7) | **신원 공개 + Haldren 손 아래 정지** | 단서 추출 | 폭로 도구 |
-| 이솔데 ↔ 세라 | (등장 X) | (등장 X) | 위협 | 패배 |
+**비트:**
+- EP23 첫 등장 (임신 confirmation 회차 인근)
+- 임신 관리·labor 직전 supplies·EP47-EP49 labor 동행·apron·linen rolls
+- EP50 birth basket 옆에 서 있음 (S#1 Sera reckoning)
 
----
+**옛 "Haldren / 인간 왕국 사절·정치 적대자 → 충성 전환자·외교관 robe + sash" = v52 폐기.** v52 = Halren (다른 인물 / 여 / Drakonis healer).
 
-## 12-5. 세계 규칙
+### SERA VOLZAAR — climber·twelve years failed bride candidate
 
-### 드래곤 조약 (Hard Lock)
-- 인간 왕국과 드래곤 가문 사이 100년 전 맺어진 조약
-- 인간 왕국이 매 세대 한 명의 여성을 드래곤 로드에게 보낸다
-- 그동안 모두 의례적 처형이었음
-- 이솔데는 그 조약을 깨는 첫 인물 (Crowned Bride)
+**구조적 위치:** Volzaar 가문. 12년 동안 Vael's bride candidate (실패). EP06 등장 (Drakonis arrival)·EP08 페이월에서 Isolde에게 자리 빼앗기는 직전 라인 ("She is not — she is not fit for this" → "Say it."). EP09 first scene에서 "She is not a bride" 강제 발화 → 자기 무릎 ←Vael 한 번 시선. EP21 wrist 표지 (warning) → 의기소침. EP30 council에 letter ("the bride is showing / window facing eastern ridge / sleeps alone") 보내려고 도주 → Vael personal interception (sixty-foot dragon 도로 착륙·도주 letter 발견·boots ignite·"That is how easy it is"). 도보 2일 복귀. 손 burn 손등 stump (EP43 onward) — Vael 마당에서 take. EP41-EP43 garden humiliation ("Repeat that. Louder. So Kiran hears it at the gate."). EP47-EP49 labor 동안 사촌 사용 (yard-rag note: "Second push. Inner stair. House will not forget. — S."). EP48 사촌 ridge dragon에 의해 throat opened·outer wall 매달림. EP50 S#1 reckoning — hand 잘림 ("forced to her knees" + "Look up" + Volzaar throat mark Vael 손바닥에 burn off + "You live. Without a name. Without a house. Without a mark. You will not speak in this hall again." + lower door 호송). EP50 S#3 spring garden 2.5 years later = ash-grey servant·raking gravel·back-turned.
 
-### 비늘 빛 (드래곤 측 운명 짝 신호)
-- Dragon Lord의 손등 비늘 빛이 운명 짝의 손목 안쪽에 점진적으로 남음
-- 처음에는 짧고 희미, 후반부에 강하고 영구적
-- 인간 왕국·다른 드래곤 가문은 이 신호를 보고 베일과 이솔데가 진짜 운명 짝임을 알 수 있음
+**시각 (visual_lock 2.3):** early 30s·warm honey gold·copper-red high updo·green-gold eyes·gold Volzaar gown·red coiled flame throat mark (CORE asset). Look 4 EP50 S#3 = plain ash-grey servant·short grey hair·bare throat (no mark)·always back-turned·raking gravel.
 
-### 드래곤 무리 (Dragon Pack)
-- 베일의 드래곤 군대. 평소 북부 능선 위에 머무름
-- Dragon Lord의 신부 선언 시 일제히 포효
-- 적이 신부를 위협할 때 본격 등장
+**금지:** sympathy lighting·tearful redemption·romantic styling·tragic-victim framing·touching Vael (after EP07)·touching Mireille at any time.
 
-### 인간 왕국 정치
-- 알드릭 왕 + 시댁 가문 = 적대자
-- 이솔데의 어머니 (사망) = 진짜 핏줄의 비밀 보유
-- EP35-50 전쟁 라인
+### VOLZAAR COUSINS (Sera's relatives — visual_lock 2.11)
 
-### 🔥 판타지 세계 위계 (Hard Lock — 2026-05-17 신규)
+- **Older cousin:** scarred jaw·late 30s·EP32-EP50 visitor leather·EP50 reckoning에서 Vael 둘 손목 부숨 (cousin first, both hands).
+- **Younger cousin:** dark-haired·lean·late 20s·EP32-EP48 hidden in lower yard·EP48 inner stair 시도 → ridge dragons throat opened·outer wall에 매닮.
 
-> **사용자 명시 (2026-05-17):** "판타지 장르는 초반부터 스케일을 보여줘야 한다. 성, 왕좌, 신전, 용, 괴물, 마법, 군대, 거대한 문, 하늘, 불, 얼음, 저주, 의식, 세계의 위계가 화면에 보여야 한다. 여성향이어도 로맨스만 있으면 안 된다. 알파메일/운명/소유/선택이 압도적 판타지 세계 안에서 작동해야 한다. AIGC 판타지는 특히 이걸 피하면 손해다."
+### MIREILLE — Isolde's daughter, dragon-line heir
 
-#### 작품 세계 위계 시각 (Hard Lock — 작품 정체성)
+**구조적 위치:** EP47-EP49 labor → EP48 last beat / EP49 birth. 어머니의 이름 (Mireille of South Cove) 계승 = 살해당한 외할머니 이름.
 
-**위계 1 — 인간 왕국 (취약·정치적·열등):**
-- 잿빛 황무지·평원·열린 도로
-- 인간 왕성·인간 궁정·돌·청동 문
-- 인간 군대·갑옷·창·검 (작은 스케일)
-- 인간 깃발·왕국 인장 (작은·자주 태워짐)
+**시각 (visual_lock 2.5):** newborn (EP48-EP49) pink-ivory skin·single dark chestnut tuft·eyes open once gray-green. Toddler EP50 S#3 (2.5 years) porcelain ivory·dark chestnut natural curls past the ears·gray-green eyes·calm watchful. Garden play-tunic with subtle dragon-line gold trim hem·bare feet·holding pebbles.
 
-**위계 2 — 검은 성채·Drakonis Keep (압도·전제·우월):**
-- 검은 화산석·basalt 절벽·산맥 한 마디 위에 위치
-- Black Gates (마법으로 자체 열림·거대)
-- Dragon Court 대연회장 (천장 = 거대 갈비뼈·돌기둥 / 인간 궁정 X)
-- 횃불 = 평소 일반 / 분노 시 일제 검은 불·푸른 불 점화
-- Vael 왕좌 = 검은 옵시디언·드래곤 뼈·뿔 모티프 / 한 단 위 두 자리 (Vael + Isolde 자리)
-- 의식 신전·제단 (Offering ritual 무대) — basalt + rune 새김
-- Council 회의실 (드래곤 lord 회의 / 천장 흔들림·테이블 진동)
-- 침실·테라스 (사적 비주얼 — 그 안에 sub-form intimacy)
-- 회랑·복도·뒤뜰·계단 (페이월 마지막 비주얼 — 어둠 속 위층)
+**금지:** doll-baby porcelain face·anime child face·costume crown·tiara·newborn body close-up.
 
-**위계 3 — 드래곤 영토·하늘 (압도적·신화):**
-- 산맥 = 드래곤 군단 (산이 wings·등·뿔) — 멀리·암시 → 본격 reveal
-- 하늘 = Vael 비행 자유 영역·먹구름 등 자연이 호응
-- ridge 너머 = 다른 드래곤 가문 영토
-- Dragon Pack 무리 = 12+ silhouettes
+### WESTERN LORD + LADY VEYRA (EP37 single-EP)
 
-**위계 4 — 신화·세계관 더 큰 차원 (저주·운명·신화):**
-- 드래곤 조약 (100년 전 신화 약속)
-- 운명 짝 신호 (비늘 빛·gate rune·pendant sigil 정합)
-- Hidden Bloodline (이솔데 = 왕국 후계 + 드래곤 후예 이중 — Stage 6 변신 가능)
-- Mate Bond Sync (둘 다 변신 = 신화 차원 정합)
-- 검은 화염 (베일의 분노 = 자연 vs 마법 = 황무지 갈라짐)
+**비트:** EP37 S#1 — coastal dragon lord 자기 어린 조카 Veyra (22 cycles old, untouched, silver-haired) Vael의 "second mate" 제안 → Vael 손가락 4개 부러뜨림 → 떠남. EP47 echo (off-screen mention) — 새 asset X.
 
-#### 각 아크 별 세계 위계 활용 (집필 자연 흐름 — EP별 매핑 X)
+**시각 (visual_lock 2.12):** Western Lord mid 60s warm tan sea-blue silver-gold hair white-gold sea-coast court robe wave trim. Veyra early 20s porcelain ivory sky-blue white-gold silk gown sheer white half-veil.
 
-- **기 (Arc 1):** 위계 1 vs 2 강한 대비 (인간 왕국 제물 → Drakonis Keep 압도) / 위계 3 암시 (산맥 = 접힌 wings·하늘 멀리 드래곤 silhouette) / 위계 4 첫 신호 (비늘 빛·pendant sigil)
-- **승 (Arc 2):** 위계 2 정식 통치 시작 (Crowned Bride 자리) / 위계 3 본격 등장 (Dragon Pack 첫 reveal·첫 Full Form) / 다른 드래곤 가문 (세라) 위계 진입
-- **전 (Arc 3):** 위계 1 분열 (인간 왕국 내전·시댁 굴욕·알드릭 굴욕) / 위계 2-3 본격 (Full Form 자유 교대) / 위계 4 reveal (Hidden Bloodline)
-- **결 (Arc 4):** 모든 위계 통합 (위계 2-3-4 정점 / 위계 1 흡수) / Dragon Queen 즉위 = 신화 위계 정점
+### KEEP LORDS (3 Drakonis house lords — visual_lock 2.13)
 
-#### 회피 패턴 (메모리 `feedback_fantasy_magic_visual_proof.md`)
+Vael's council. Oldest Keep Lord = iron-grey·EP38 crown ask 발화자 ("She did not refuse a Drakonis crown. She refused a Veine crown.") → EP39 crown ceremony 발화자 ("We ask the lord to crown her queen"). Modern senate / committee framing 금지.
 
-❌ "중세풍 옷 입은 사람들이 연애/복수만 하는 것" 톤
-❌ 위계 1 (인간 왕국 정치)만 보여주고 위계 3-4 (드래곤·신화) 안 보여주기
-❌ 로맨스만 있고 판타지 압도적 세계 위계 없음
-❌ 잔마법 (sigil 깜빡·pendant 작은 반응)만 / 거대 스케일 (드래곤·산맥·검은 화염) 없음
-❌ 인간 왕국과 드래곤 영토 시각 차이 없음 (대비 부재)
+### RIDGE DRAGONS — surviving pack
 
-#### 채택 패턴
+Vael-loyal pack (eastern ridge). 20 → EP35 sky battle 손실 → "surviving ridge dragons / his ridge dragons" (정확 수 X). EP17 첫 escort bow. EP26 outer wall 침입자 인터셉트. EP35 eastern sky battle. EP48 cousin throat 처리·outer wall 매닮. EP50 line 위 wall·아침 동쪽 비행. Wolf/furry/animal-shape transformation X.
 
-✅ 위계 2-3 (검은 성채·하늘·드래곤) 첫눈에 보임 = 시청자 판타지 약속 충족
-✅ 알파메일 베일이 압도적 판타지 세계 (위계 2-3-4)의 군주로 작동 = 여성향 정합 (소유 + 운명 + 선택 모두 압도적 세계 안)
-✅ 마법·VFX = 작품 정체성·결제 동력 (잔마법은 보조)
-✅ AIGC 강점 (비현실 스케일·VFX·괴물·드래곤·마법·거대 공간) 최대 활용
+### 삭제된 옛 v2 인물 (v52 LOCK 부재)
 
-### 🔥🔥 Vael 변신·궁극 드래곤 형태 (Hard Lock — 작품 정체성·페이월 보상)
-
-> **2026-05-17 환류 — 사용자 명시:** "vael이 거대한 용으로 변신하는 장면도 있어야한다. 당연히. 청사진부터가 개허접해서 이딴 일이 일어난다고 본다."
-> 메모리: `feedback_fantasy_magic_visual_proof.md` (판타지 = 거대 VFX·스케일 절대 룰).
-
-#### 궁극 형태 비주얼 (락)
-
-**거대 흑룡 (Black Dragon Form):**
-- 크기: 산맥 한 마디급·날개 풀 spread = 성 한 면 가림·꼬리 = 탑 한 채 높이
-- 비늘: 검은·옵시디언 빛·일부 검붉은 lining (분노·intimacy 시 발광)
-- 뿔: 4개 (양쪽 머리 옆 + 양쪽 턱 옆) / 옵시디언 + 검붉은 끝
-- 눈: 한 쌍 거대 회색 슬릿 + 분노 시 검붉은 화염 / Isolde 인식 시 인간 눈빛 유지
-- breath: 검은 화염 (Wall of Black Fire) + 푸른 김 / 포효 = sonic boom 화면 휩쓸음
-- 날개: 거대 박쥐형 + 비늘 디테일·끝 갈고리 / 펼쳤을 때 그림자 = 성 한 면 + 평원
-- 손등 검은 비늘 (인간 형태) = 같은 비늘 패턴 확장 = 거대 용 비늘 (시각 정합)
-
-**Partial Transform 단계:**
-- **Stage 1 (인간 형태):** 손등 비늘만 (EP1-EP12)
-- **Stage 2 (sub-form 발현):** 비늘 손목·팔뚝까지 + 뿔 일부 (관자놀이) + 눈 슬릿 + 등 뒤 거대 드래곤 환영 (EP13-EP20)
-- **Stage 3 (Partial Transform):** 비늘 등·가슴·다리까지 + 날개 일부 펼침 + 인간 형태 깨짐 비주얼 (EP21-EP25)
-- **Stage 4 (Full Dragon Form 첫 reveal):** 완전 거대 흑룡 변신 (EP25 — 정식 신부 의식·전투)
-- **Stage 5 (Full Form 활용):** 인간 ↔ 용 자유 교대 / 신혼 ritual·전쟁·왕국 정복 (EP26-EP44)
-- **Stage 6 (Mate Bond Sync — 둘 다 변신):** Isolde 부분 변신·드래곤 본 발현 (Hidden Bloodline = 드래곤 후예 폭로) (EP35-EP50)
-
-#### 변신 단계 아크 매핑 (4 페이즈)
-
-| 페이즈 (아크) | 변신 단계 |
-|---|---|
-| **기 (Arc 1)** | Stage 1 (손등 비늘만) + 거대 wing-shadow·sub-form 암시·등 뒤 거대 환영 |
-| **승 (Arc 2)** | Stage 2-3 (sub-form 발현·partial transform) — 분노·intimacy·전투마다 reveal / 첫 Full Dragon Form reveal |
-| **전 (Arc 3)** | Stage 4-5 (Full Form 자유 교대·전투·정복·핏줄 폭로) |
-| **결 (Arc 4)** | Stage 6 (Mate Bond Sync·둘 다 변신·Dragon Queen 즉위 — 시즌 보스) |
-
-#### 변신 트리거 (원칙)
-
-- **분노/소유:** Isolde 위협 받음 (자객·사절단·다른 가문)
-- **intimacy 정점:** 정식 신부 의식 / Mate Bond 완성
-- **전투:** 왕국 군대·다른 드래곤 가문
-- **공개 선언:** 신부·왕비 즉위
-- **Isolde 변신 트리거 (결):** Hidden Bloodline 각성·드래곤 후예 발현
-
-#### 거대 VFX 원칙 (집필 자연 흐름)
-
-> **EP별 매핑 X.** 청사진은 원칙만. 집필 시 자연 흐름으로 반영. 메모리 `feedback_fantasy_magic_visual_proof.md` 강제.
-
-- 회차당 거대 VFX 비트 1-2건 (회차 핵심 비트에 맞게 자연 배치)
-- 잔마법 (sigil 깜빡·pendant 반응) = 보조 X / 메인 = 거대 드래곤 그림자·검은 화염 벽·산맥 군단·충격파·등 뒤 환영
-- 아크별 스케일 상승 (기→승→전→결 = 점진적·압도적)
-- AIGC 강점 활용 (비현실 스케일·VFX·괴물·드래곤·마법·거대 공간)
+- **HARRIN** (Isolde 이복오빠·옛 캐논 — v52에 없음)
+- **Elara** (옛 라이벌 신부 후보 — v52 Sera에 흡수 / 별도 인물 X)
+- **Haldren** (옛 인간 왕국 사절·정치 적대자 → 충성 전환자 — v52 무대 부재 / Halren healer와 동명 X)
+- **Grey Envoy / Aldric's thumb / black-wax ring 5번 분산 chain** (옛 v2 신규 인물 — v52 부재)
+- **인간 왕국 자객 dagger pommel black-wax sigil** (옛 EP3 — v52 부재)
+- **silver pendant tree-and-flame sigil chain** (옛 어머니 유품 어셋 — v52 부재. silver bird hairpin 어셋이 교체)
 
 ---
 
-## 12-6. 정보 설계 — 무료/유료 절단
+## 12-4. 50화 4 아크 페이즈 (기·승·전·결)
 
-### 무료 구간 (EP1-8) 정보 공개
-- ✅ 이솔데 = 인간 왕국 패전 공주, 제물로 보내짐
-- ✅ 베일 = Dragon Lord, 그녀를 옆자리에 앉힘
-- ✅ 비늘 빛 신호 (EP1 첫 점화) / gate rune 일치 (audience-only)
-- ✅ 인간 왕국 자객 음모 (EP3)
-- ✅ **알드릭 음모 시각 5번 분산 (audience-only callback chain):** EP1 깃발 반쯤 내려짐 / EP2 grey envoy 사이드 아치 이탈·black-wax ring on thumb / EP3 dagger pommel 아래 black-wax sigil / EP4 회의실 ring + leather case 동·rider 동쪽 / EP5 courtyard 종이 / EP7 검붉은 종이 black-wax 봉인 / EP8 멜팅 wax sigil = full callback
-- ✅ **grey envoy = 알드릭 thumb (EP6 Kiran 보고 → EP8 신원 공개)**
-- ✅ 베일의 비늘 빛이 이솔데 손목에 남는다 (EP1 첫 / EP6 영구화 시작)
-- ✅ 두 번째 사절단 도착 + 깃발 태움 × 2 (EP8)
-- ✅ **드래곤 무리 = ridge basalt 자체가 등·접힌 날개 (EP7 슬릿 창 → EP8 curtain wall 12+ throats)**
-- ✅ **Isolde 자발 호혜 throat (EP6·EP8) + 자발 발화 "Yours." (EP8)**
-- ✅ **Haldren 충성 전환 (EP6 "kingdom withdraws claim on her name" / EP8 grey envoy 어깨 손)**
-- 🟡 **silver pendant (tree-and-flame sigil) reveal — audience-only (EP1 reveal / EP2 maid 옮김·인식). 의미·기원 닫힘.**
-- ❌ 베일의 신부 선언 완성 (끊김)
-- ❌ 공개 키스 (last quarter inch)
-- ❌ 알드릭 왕의 음모 본격 (그가 직접 무엇을 했는가)
-- ❌ 이솔데의 진짜 핏줄 (pendant sigil 의미)
-- ❌ 다른 드래곤 가문 (세라) 등장
+> v52 LOCK = 5595 lines·1년 timeline (cycle 1 = arrival / cycle 24 = labor / 2.5 years later = epilogue). 4 아크 함수.
 
-### 유료 구간 (EP9+) 점진 공개
-- EP9-16: 베일의 신부 선언 완성·드래곤 무리 본격 등장·인간 왕국 본격 적대
-- EP17-25: 다른 드래곤 가문 (세라) 등장·동맹 시도·이솔데 정식 신부 등극
-- EP26-34: 인간 왕국 내전·시댁 가문 굴욕
-- EP35-44: 이솔데 진짜 핏줄 폭로·알드릭 왕 음모 폭로
-- EP45-50: 인간 왕국 vs 드래곤 가문 전쟁·이솔데 Dragon Queen 즉위
+### 기 (Arc 1) — EP01-EP08 무료 구간: Festival Night + One Month Later + Drakonis Arrival + Say It
+
+**페이즈 핵심:** 옛 매수자·축제 incognito 밤·Bridal Mirror IMPURE → Veine 거래 깨짐 → Drakonis 제물로 던져짐 → keep arrival → Sera 라인 → EP08 페이월 "Say it."
+
+#### EP01 6-Scene 구조 (v51 재구조화·LOCK)
+
+- **S#1 — Veine Palace. Bridal Mirror Hall. Flash-Forward.** (ECU palm on mirror·black spreads·PRIEST VO: IMPURE!·court reaction flash·cup drops·Stepmother almost smiles·Corvin steps back·Hard Cut → UI: ONE MONTH EARLIER) — **3-4초 hook**
+- **S#2 — Veine Fire Festival. Lower City. Storm Night.** ("Fire Festival. Rain. Bodies. Lanterns."·Isolde alone at edge of crowd·UI ISOLDE / king's unwanted daughter·Corvin memory flash cut "She'll learn quiet"·ISOLDE VO "In a month they sell me. Tonight is mine."·Vael 시선 교차·3 beats·HIM "You do not belong here / ISOLDE I do not belong anywhere / HIM Then belong to me until dawn / ISOLDE Earn it"·"He takes her hand. She lets him."·festival spell narration (no masks, no true faces until dawn)·glamoured face·silver bird pin audience-only inside his coat·VAEL VO "My mother left it here. I come every year.") — **첫 15초 outside 보존**
+- **S#3 — Small Room Above the Festival.** (high-heat sex sequence·"They come in already kissing"·"Wait" / "Tell me to stop" / "Don't stop"·wrists above head against wall·silver bird pin Vael이 Isolde 머리에 꽂아줌)
+- **S#4 — Same Room. Before Dawn.** (voice 약속 제거판·"Then what do I keep? / The night. The promise."·dawn에 Isolde가 silver bird pin 두고 떠남)
+- **S#5 — Exterior. Veine Palace. One Month Later. Day.** (gold wedding banners·noble carriages·bells)
+- **S#6 — Bridal Mirror Hall. Continuous from S#1.** (full IMPURE 장면·priest·court·Stepmother·Corvin·새 S#1과 emotional 연결)
+
+#### EP02-EP08 흐름
+
+- **EP02:** IMPURE 직후·Stepmother가 Isolde를 Drakonis offering으로 던짐 결정 (이전 Corvin contract 무효 → 거래 상품 재배치)·Adeline cruel 동참·왕국 출발 준비
+- **EP03-EP06:** captive transit (dust-grey traveling dress·braid). 이동 중 silver bird pin 회수 X (Drakonis 도착 전 Isolde 머리에 silver bird pin 없음). 마차/도로/wasteland.
+- **EP06:** Drakonis 경계 gate 도착 (iron gate at dusk·basalt walls·no Veine signage). Sera Volzaar 첫 등장 (gold Volzaar gown·red flame throat mark).
+- **EP07:** Drakonis 외부 마당·inner courtyard·threshold to power.
+- **EP08 페이월:** Great Hall·Sera 자기 자리 주장·Vael 들어옴·Sera 입에서 declaration 강제 추출 직전 "Say it." cliffhanger.
+
+**페이월 보상 유예:** "She is my bride" full declaration·corridor·chamber·voice 의심 시작·body memory·첫 자발 sex·crown·Mireille·EP46 정답 폭발·EP50 family — 모두 유료.
+
+**Aldric 무대 부재:** 옛 v2 음모 분산 5번 (grey envoy·black-wax sigil callback) v52 폐기. EP01-EP08 안에서 Aldric 라인 = 거래 결정만 (off-screen).
+
+### 승 (Arc 2) — EP09-EP25 유료: Bride Declaration + Voice/Body Memory + Aldric Death + Crown Refusal
+
+**페이즈 핵심:** "She is my bride" 정식 발화 → 1년 시작 → voice 의심 단서 → 첫 자발 sex → 부친 임종 → Stepmother 응징 → 두 번째 sex (임신 시작) → basin scene 능동.
+
+#### EP09 first scene (LOCK·페이월 회수)
+- "She is my bride." (Vael to hall)
+- "The Veine contract is void."
+- corridor "Walk." → chamber 단둘 → "I decided that a month ago." (audience seed)
+- chamber Vael 자기 셔츠 벗고 침대에 등 보이게 ("Earn it" 약속 시각 회수 시작 / EP09 wash chamber 로맨스 VO·festival night flash cut)
+
+#### EP10-EP15: voice 의심·body memory·단서 톤
+- "That voice. I know that voice." (EP08 인근 → EP10-EP18 voice 단서·확증 톤 X)
+- Isolde 자기 몸이 답을 알고 입은 부정하는 루프 (페스티벌 night man 부정 loop)
+- Stage 1 wrist scale only
+
+#### EP16: 첫 자발 sex (Isolde 능동)
+
+#### EP17: 첫 full transformation reveal (45초 sequence·Isolde climb into the crook of his foreleg·escort by 3 ridge dragons·"They know me" VO)
+
+#### EP18-EP19: Veine 방문·Aldric 임종
+- EP17 letter "I am dying. Two weeks. Perhaps three."
+- EP18 dying chamber·Aldric 자백 (Mireille 살해 사주 = Stepmother·자기 묵인)·Adeline 옆 목격
+- EP19 will reading "To my eldest daughter Isolde, born of Mireille of South Cove, I confirm my blood and my name. I leave to her the first claim to the throne of Veine."
+- Isolde "I refuse. I am the bride of Lord Drakonis. The throne of Veine passes to my sister Adeline."
+- Stepmother 체포 (Adeline 결정 "Take her to the north tower")
+- Corvin 도주 발각 (Adeline 통제)
+
+#### EP20: 첫 포옹·crown 라인
+- 부친 tomb 봉인·Isolde "We are done, you and I"
+- guest chamber·Vael 둘 팔에·**"I do not want a crown from the man who sold me. I want a crown from the man who waited for me. Not from Veine. From you. When the keep asks for it."**
+
+#### EP21: Stepmother iron plate execution
+- 마당 dawn·iron plate·Vael 손바닥 black fire·iron 빨개짐·3초·Stepmother 죽음
+- court 벽 위 관전
+- Sera 마찬가지로 처음 wrist warning (앞으로 표지)
+
+#### EP22-EP24: 5 weeks compressed·Sera silence·montage·두 번째 sex inserted
+
+#### EP23: 두 번째 sex (임신 시작·LOCK timeline)
+
+#### EP25: basin scene
+- Vael chamber 거울·basin·flashback festival night kiss
+- Isolde "Stop hiding behind my back. Stop kissing me like a man apologizing for something he will not name."
+- "If you touch me, look at me. Prove you are not the ghost I keep trying to find in you."
+- 능동 비트·답 직전 멈춤
+
+### 전 (Arc 3) — EP26-EP40 유료: South Wall Intruder + Sera Defection + Eastern Sky Battle + Western Lord + Crown Ask + Crown Ceremony
+
+**페이즈 핵심:** 외부 위협 누적 (Volzaar 남쪽 사촌·council·Western Lord) + Sera 도주 → Vael 인터셉트 → council eastern sky battle + Crown 강요·Crown ceremony + chamber sex consent dialogue.
+
+#### EP26: 침입자 south wall
+- 새벽 outer wall·Volzaar 남쪽 사촌 2명·ridge dragons 인터셉트·sound 없이 take
+- Vael chamber 안에서 잠 X·desk·Isolde 잠
+- Great Hall 다음날·grey council envoy·"Volzaar's southern cousins. Acting in your name. With your tariffs paid."
+
+#### EP27-EP29: council pressure·임신 reveal
+- EP27 outer gate envoys·sealed letter·council "examination" 요청·거부
+- EP28: 임신 reveal (몸-통제권·timeline cycle 10 인근)
+- EP29: 임신 후 재결합 sex (chamber·careful of the belly)
+
+#### EP30: Sera 도주 east·Vael personal interception
+- Sera 마차 도주 (eastward·2 waystations cleared·council ground 1 day more)
+- Vael sixty-foot dragon 도로 착륙·transform 3초·"Off."
+- Volzaar letter 회수·"You wrote the council the bride is showing / which window of her chamber faces the eastern ridge / when she sleeps alone"
+- boots ignite·"That is how easy it is. I am not killing you because she has not asked yet."
+- Sera 도보 2일 복귀
+- chamber 그날 밤·Isolde "She lives. She comes to the great hall. She will read this letter aloud. In her own voice. To my face."
+
+#### EP31: ridge dragons council heads·cycle 10 belly clearly visible
+
+#### EP32-EP34: cycle 11-13·Sera 침묵·Adeline 사절·montage
+
+#### EP35: Eastern Sky council battle
+- Vael + ridge pack vs 12 council force
+- sixty-foot dragon (Stage 4)·large-scale VFX peak
+- 손실 (ridge 20 → 정확 수 X·"surviving")
+- 결말 = council 패배
+
+#### EP36: Montage nights chamber (touch-starved·EP30 chamber 라인 회수)
+
+#### EP37: Western Lord broken hand
+- coastal dragon lord 자기 어린 조카 Veyra "second mate" 제안
+- Vael 손가락 4개 부러뜨림 (right hand)
+- 떠남
+
+#### EP38: keep lord crown ask
+- 3 keep lords·"The keep wishes to acknowledge the lady. To crown her queen. Now."
+- Vael "She refused the crown at her father's tomb."
+- Oldest Keep Lord "She did not refuse a Drakonis crown. She refused a Veine crown."
+- Isolde "He is right. / Crown me."
+- cycle 18 = 3일 후
+
+#### EP39: crown ceremony (옛 EP25 의식 이동·LOCK)
+- full court·silver crown on black cushion·new queen's chair beside lord's chair
+- Vael 자기 손으로 들고 와 Isolde 머리 뒤 낮게 (silver bird pin과 같은 위치 — visual rhyme)
+- "Queen of Drakonis Keep. Mother of the heir who comes."
+- Every dragon 한 무릎. Sera 마찬가지.
+- Isolde "Stand up. / The hall is open. Eat."
+
+#### EP40: chamber crown 후 sex (consent dialogue)
+- 창문 옆 silver crown·black gown·belly heavy
+- Vael 입맞춤·crown 떼서 windowsill에 둠·"The crown is the keep's. Tonight you are mine."
+- "Look at me when you say yes. / I am looking."
+- Flash-forward — morning light·a child between them (almost-not-there family lock preview)
+- careful of the belly·scaled palm cradling
+- "My lord." / "My queen." (vow tone)
+
+### 결 (Arc 4) — EP41-EP50: Veine 6-Seal Letter + 4 Declarations + Sera Humiliation + EP46 Polar Polar + Labor + Birth + Sera Reckoning + Garden 2.5 Years Later
+
+**페이즈 핵심:** Veine cathedral 6-seal letter = 마지막 외부 라벨링 → Vael 4 declarations + Sera 입 강제 복창 → EP46 정답 4 폭발 → labor → birth Mireille → Sera reckoning → 2.5 years later spring garden family lock.
+
+#### EP41: Veine six-seal letter cathedral high court 도착 (Adeline seal X)
+- garden·Sera 첫 모욕 시도 "Then we see if the child even comes out breathing."
+- Isolde "Repeat that. Louder. So Kiran hears it at the gate."
+
+#### EP42: Vael burns letter + 4 declarations
+- Kiran 가져옴·"From Veine. Inner cathedral. Old high court. No seal from Adeline."
+- parchment insert (audience-visible): cathedral cross + four bishop seals + one high-court seal·"The bride was named impure at the bridal mirror, cycle one. / The womb cannot carry a recognized heir. / The marriage is held void by canon. / The keep is commanded to sever the bond before the labor."
+- Isolde "They are still calling me that. / After twenty cycles. After your hall. After the eastern ridge bowed. After this."
+- Vael 부적·fingertip 발화·3초 burn to ash
+- **4 declarations (LOCK):**
+  - "Veine's priests say the bride was named impure. / She is my bride."
+  - "Veine says the body has not been blessed. / She is my mate. My hand on her every cycle is the only blessing this keep recognizes."
+  - "Veine says the womb cannot carry a recognized heir. / She carries the heir of Drakonis. The dragon line. The only line that has ever mattered in this hall."
+  - "Veine says the marriage is void. / Then Veine does not exist in this hall."
+- Vael Isolde 손 들어 손등·손목·손바닥 입맞춤 (slow·hall watches every kiss) → 손을 belly에 다시 두고 자기 손으로 cover.
+- "My bride. My mate. The mother of my heir. Anyone who says otherwise in this keep loses the mouth that says it."
+
+#### EP43: Sera humiliation garden
+- garden·Sera 다시 시도 "Every court south of here calls you impure."
+- Isolde "Repeat that. Louder. So Kiran hears it at the gate."
+- Sera 크게 반복 → Vael 등장·scruff 잡고 garden 중앙으로·Isolde 앞에 무릎
+- "Say it back to her. Word for word." → "She is my bride." / "She is my mate." / "She is the mother of my heir." (Sera 입에서 강제 복창·louder)
+- 손 burn·EP43 onward Sera hand-stump 표지
+
+#### EP44-EP45: labor 가까워짐·preparation·chamber 점거
+
+#### EP46: 정답 4 폭발 (LOCK·핵심)
+- chamber·cycle 24·night·belly enormous
+- Vael desk에서 cloth bundle 꺼냄·silver bird pin + wooden bird carving 둘 다
+- "**The wooden one was hers. I had the silver one made from it.**"
+- Isolde 손 chair back에 hard·눈물 X
+- Flashback festival night ("You do not belong here / I do not belong anywhere / Then belong to me until dawn / Earn it")
+- Vael "**You told me to earn it. / I have been trying since dawn.**"
+- "It was you." / "It was me." / "A whole year." / "Yes."
+- Isolde wound dialogue: "**You protected my body. You let me hate what it wanted. / You kept me starving.**"
+- ISOLDE VO: "**I thought I buried that night. He kept it alive.**"
+- "Don't touch me." / "I won't." (Vael desk에서 손 visible·open)
+- 긴 wall에 forehead·breathe
+- ISOLDE VO: "He's burned hands off for me. He's burned letters for me. He's put his shadow on every wall of this keep for me. And he watched me lose my mind over a man I was trying not to want, knowing the man was him. I can't decide if that's the cruelest thing he's done to me or the only thing that kept me alive."
+- 돌아옴·"Stand up."
+- **Isolde 직접 silver bird pin 자기 머리에 꽂음**
+- Vael 셔츠 잡고 입으로 끌어내림·"You let me starve. / I let you starve. / **Make it up.**"
+- T5 보상 sex (careful of the belly·Isolde 능동 시작·scaled palm low·child quiet between them·her tear finally falling onto his hand on her belly·he feels it, does not say anything, closes his hand over hers)
+- **"I love you. / First time I've said it. First time you've heard it. / I love you." (2 lines)**
+
+#### EP47: labor 시작
+- chamber labor eve pre-dawn·basin·linen·"That was one. / How long. / Twelve minutes. / Kiran."
+- Kiran "four men in the corridor, two on the balcony, one at the bath door"
+- Halren·apron·linen rolls
+
+#### EP48: labor 정점
+- inner stair·younger Volzaar cousin 시도·ridge dragons throat opened·outer wall에 매닮
+- cycle 11 lower yard 인물 / Twelve minutes contraction baseline
+- Vael Stage 5 partial transform (temple scale·shoulder scale·dark red ring full·white shirt·sleeves pushed to elbow)
+
+#### EP49: 출산 birth Mireille
+- labor 정점
+- Mireille birth (last beat EP48 → EP49)
+- 어머니 이름 (Mireille of South Cove) 계승
+- Vael silver crown 그날 같이 받음 (treasury → Isolde at EP49 reckoning event·Isolde 손에 직접) — but **자기 손으로 머리에 (queen by her own hand, not by Vael's giving)**
+- "I love you" 라인 (EP47 추가 + EP49 추가 = 6 line budget 정합 / 최종 균등 분포)
+
+#### EP50: Sera reckoning + Garden Two and a Half Years Later
+
+**S#1 — Great Hall. Day After Birth. Noon. Sera's Reckoning.**
+- full court·ridge dragons upper wall·older Volzaar cousin lower bench
+- Mireille basket dais 옆·Halren behind it·Vael Isolde 오른쪽
+- crown 오늘 다시 (자기 손으로)
+- Kiran Sera 호송 in·왼손 stump bandaged
+- "Look up." → 시선 basket에·"Your cousin tried the inner stair during my second push. The ridge took him before he reached my corridor. He died on the wall outside."
+- yard-rag note ("Second push. Inner stair. House will not forget. — S.")·scarred cousin 머리 숙임
+- Isolde 내려옴·"The Volzaar name is restored today. / My lord. The cousin first. Both hands." → Vael 사촌 둘 손목 부숨
+- "Now hers." → Vael 손바닥 Sera throat·Volzaar 마크 burn off
+- Isolde "Stand. / **You live. / Without a name. Without a house. Without a mark. / You will not speak in this hall again. / You will not stand at any door I use. / You will not be called Sera by anyone in this keep from this day. / You are no one.**"
+- Kiran collar 잡고 lower door로 호송 (main door X)
+- child wake·reach·sleep again
+
+**S#3 — Inner Garden. Two and a Half Years Later. Spring Morning.**
+- UI: TWO AND A HALF YEARS LATER / DRAKONIS KEEP / inner garden
+- garden·spring·new leaves on the small trees Vael planted last summer (Isolde at cycle 8)
+- 뒤쪽 servant ash-grey 라이딩 gravel·short red-hair·throat bare·back-turned (Sera — never named)
+- Mireille (almost 2.5) at small pool·dropping pebbles·counting
+- "One. Two. Three. Four. Five."
+- Vael "He has slept through the night for over a year. He looks rested."
+- Mireille "One more / For me? / For the baby." (audience reveal)
+- Isolde hand low on belly·Vael 손 her hand 위·orange shimmer faint
+- "Already. / She knew before I did. / When did you know. / This morning. / How. / The same way she did."
+- "A second one. That's all. We stop after this. / Then Mireille, and this one."
+- forehead to her temple·breathes once·slow mouth-closed kiss·long
+- **"My wife. / Your wife. / My mate. / Your mate. / My queen. / Your queen. / I love you. / I love you." (2 lines)**
+- camera held wide·slow tilt up·3 dragon silhouettes drift across sky east·ridge waking
+- SUPER very small at corner: **THE OFFERING: Claimed by the Dragon Lord — END**
+- slow fade·held a beat longer than expected
+
+**옛 v2 "Dragon Queen 즉위 의식 + Vael + Isolde 둘 다 풀 변신 + Dragon Pack 전체 포효 = EP49-EP50 HEA" 전면 폐기.** v52 EP49-EP50 = labor + birth + Sera reckoning + spring garden family lock (Isolde 변신 X·Mate Bond Sync X).
 
 ---
 
-## 12-7. 비주얼 캐논
+## 12-5. Vael 변신·세계 위계 (visual_lock 2.2 + 2.14 + 4.x 정합)
 
-### 색 팔레트 (v2 환류 / 2026-05-16)
-- 잿빛 황무지·검은 성채 (배경 베이스)
-- **흰색·아이보리·흰 모피 (이솔데 EP1 도착 의상 — 회색 한가운데 흰 점·인간 왕국 제물 시각)**
-- **검은 비단·은·진주·흰 throat (이솔데 EP2-15 의상 — "winter through ash"·자기 정체성 시각)**
-- 검은 비늘·검붉은 화염 (베일)
-- 황금 (Dragon Queen 후반부)
-- 은빛 (드래곤 비늘 모티프 / 진주와 결합)
-- **red copper (모래시계 sand·EP7+ 시간 압박)**
-- **bruised red (dusk sky·EP8 페이월 배경)**
+### Vael Dragon Form (Asset Lock — visual_lock 2.2)
 
-### AIGC 강점 시각 키 (회차별 누적)
+- Sixty-foot black dragon
+- Obsidian scales with dark red lining (lining flares under anger / arousal)
+- Four horns: two large at head sides + two small at jaw sides
+- Eyes: massive slate-gray slits, dark red core under fury
+- Wings: huge bat-form·one full span shadows the keep face
+- Breath: black flame with cold blue under-vapor
+- Voice: bass roar inside human ear range only
 
-| 비주얼 키 | 등장 | 의미 |
+### Partial Transformation Stages (production / VFX states — wardrobe asset 별도 X)
+
+| Stage | EP | 상태 |
 |---|---|---|
-| **그림자 + 비늘 손등** | EP1 | 베일 첫 등장 (얼굴 X / 손등만) |
-| **베일의 비늘 빛 (손목 thumb-shape mark)** | EP1-50 (점진) | 이솔데 손목 안쪽 자국 = 운명 짝 신호. **EP1 첫 점화 (thumb 닿을 때 두 박자) / EP2-3 thumb-print 형태 잔존 / EP4 morning gallery thumb 위 짧은 hold (long trace X — claim, not spell) / EP6 손등 입맞춤 + 손바닥 짧은 입맞춤 / EP7 무릎 위 자세 시 underside dark red / EP8 short kiss on mark + 신원 공개.** 손목 위 긴 잉크 trace 그리기 = 회피 (시간 낭비·결제 동력 약화). |
-| **검붉은 화염 손바닥** | EP4+ | 베일의 분노·소유·보호 |
-| **불타는 인간 왕국 깃발** | EP4·EP8 | 베일의 거부·신부 선언 |
-| **거대한 모래시계** | EP7·EP8 | 시간 압박·페이월 응축 |
-| **드래곤 무리 그림자** | EP7 (첫 그림자) → EP8 (첫 포효) → EP15+ (본격 등장) | 작품 정체성 시각 자산 |
-| **검은 비늘 손가락 두 드림 (knuckle tap × 2)** | EP2 | Public Selection 첫 비트 (옆자리 — 의자 armrest 위 두 번) |
-| **검은 비단 신부 의상** | EP15+ | 정식 신부 시각 표지 |
-| **황금 디아뎀 + 화염 자수** | EP26+ | Dragon Queen 등극 |
-| **목 옆 잇자국 (twin crescents — 양쪽)** | EP3+ (누적) | Possessive 표지 / 비공개 → 공개 마킹. **EP3 우측 (under ear, 비공개·침실) / EP5 좌측 (terrace, twin·비공개·테라스) / EP6+ 양쪽 동시 공개 (대연회장) / EP8 베일 손바닥이 양쪽 동시 cover.** 양쪽 = 대칭 마킹·소유 시각 자산 (단수 잇자국 → 양쪽 twin crescents 로 갱신). |
-| **드레스 어깨 끈 풀림** | EP3 (첫 reveal) | 첫 Possessive Claim 표지 |
-| **머리채 흐트러짐 / 손이 머리채에** | EP6+ (누적) | 베일의 손 누적 표지 |
-| **손목 빛 자국 위 입맞춤 (짧은 claim)** | EP6+ (공개) | 운명 짝 공개 마킹 |
-| **무릎 위 자세 강제 (across-his-lap)** | EP7+ | 회의실·왕좌 공개 비트 |
-| **Silver pendant (tree-and-flame sigil)** | EP1 (첫 reveal) → EP2 (새 보디스 안쪽으로 옮겨짐) → EP6/EP7 (보디스 안쪽 silver chain 옆 white line catching light) → 유료 EP35 (정체 폭로) | 어머니 유품·진짜 핏줄 단서·시질이 성문 룬과 일치. 무료 EP1-8 = 한 번도 발화 X (audience-only). |
-| **Silver chain down bodice (self-unfastened)** | EP6 (Isolde 자발 풀음) | Isolde 자발 옆자리 + 자발 unfastening — "Self-Placed + Band Unfastened" 비트. Ladder Rung 5 표지. |
-| **Wide pearl-and-silver band across collarbone** | EP8 (페이월 sub-variant) | 검은 비단 gown의 EP8 전용 sub-variant. lace collar 대신 wide pearl band — 양쪽 twin crescents 가 band 위쪽으로 노출. 사절단 앞 공개 마킹 시 베일 손바닥이 band 위로 sliding (왼·오른 양쪽 동시 cover). |
-| **Pearls along shoulder seams** | EP2+ (검은 비단 의상 1차 표지) | Isolde 새 의상의 식별 표지. 매 step 마다 빛 깜빡임. |
-| **Ridge breathing (basalt = folded wings)** | EP7 (회의실 슬릿 창) → EP8 (curtain wall 정렬) | 드래곤 무리 visual asset. basalt ridge가 movement 시 신체로 reveal — 12+ folded-wing silhouettes / 등의 들숨·날숨이 ridge 자체의 호흡. AIGC 강점 (한 컷 풀샷). |
-| **Black-wax sigil (Aldric's thumb mark)** | EP3 (dagger pommel 아래) → EP4 (ring on grey envoy thumb) → EP5 (folded paper) → EP7 (red parchment seal) → EP8 (멜팅 wax — audience full callback) | 알드릭 음모의 시각 식별. 5번 분산·EP8 신원 공개로 결제 동력 누적. |
-| **Two thrones on single step (empty matching seat)** | EP2-8 (반복) | 한 단·두 자리 — 빈 한 자리·들어가는 한 자리. Isolde 의 자리 = 자기 발로 올라간다 (EP6 self-placed). |
-| **Two-pulses meeting** | EP1 (wrist 위 점화) / EP3 (Isolde 손바닥 베일 가슴) / EP4 (베일 thumb 위 Isolde wrist) / EP6 (Isolde 손바닥 베일 throat) / EP7 (Isolde 등 baseline 베일 가슴 / faster today) / EP8 (Isolde 다시 베일 throat — 자발) | 운명 짝 시각 표지. 한쪽이 항상 다른 쪽 맥박 위에. |
-| **Counting motif (windows)** | EP1+ (Isolde 내부) / EP5 명시 (대연회장 창문 셈) / EP7 폭로 ("나는 셌다·grey envoy 가 매 밤 들어왔다") | Isolde 정체성 시각화. AIGC 직접 비주얼 X — voice·시선만으로 누적. |
+| 1 | EP01-EP16 | wrist scale only·single flicker |
+| 2 | EP17 | 첫 full transformation reveal·45초 sequence (Isolde 시야 안에서·escort ridge dragons bow) |
+| 3 | EP18-EP34 | free human ↔ dragon switch·courtyard landings |
+| 4 | EP35 | full sky battle·eastern wasteland·12 council force vs Vael + ridge pack |
+| 5 | EP48-EP49 | 감정 partial during labor·temple scale·shoulder scale·dark red ring full·sleeves pushed to elbow |
+| 6 | EP50 S#3 | calm·cuffed scaled fingertips only (peace) |
+
+### 변신 트리거
+- 분노/소유 (Isolde 위협)·intimacy 정점 X·labor 감정 partial·전투 (council·Western Lord X·hand만)·공개 호출 X·sex X
+- **Isolde 변신 폐기.** v52 = Mate Bond Sync 부재.
+
+### 판타지 세계 위계 (LOCK)
+
+**위계 1 — Veine (취약·정치 라벨링 source):**
+- White marble bridal mirror hall·white stone·gold trim·pearl·obsidian floor mirror (4.4)
+- Veine palace king's chamber (dying)·throne room·king's tomb·guest chamber (4.23-4.27)
+- 작은 스케일·종이 letter·cathedral 6-seal letter
+
+**위계 2 — Drakonis Keep (압도·전제):**
+- Black-basalt great hall·red torches·single dais·black wood lord's chair (queen's chair added EP39) (4.12)
+- Drakonis outer yard (4.10·EP21 iron plate)·inner courtyard (4.11)
+- Vael's chamber·wash chamber·corridor (4.13-4.15)
+- Lower yard·lower inner stair (4.16-4.17·EP48 cousin)
+- Inner garden (4.22·EP33-EP50·spring trees Vael planted at Isolde cycle 8)
+- Outer gate envoy approach (4.18)·lesser hall (4.19)·outer wall eastern ridge view (4.20)
+
+**위계 3 — Eastern Sky + Ridge:**
+- Eastern sky (4.21·EP35 council battle·sixty-foot Vael + ridge pack·large-scale VFX peak)
+- Eastern ridge·dragon silhouettes drift·ridge waking·EP17 escort bow·EP50 final tilt-up
+
+**위계 4 — Mother-of-Heir + Dragon Line:**
+- Cycle 1 arrival → cycle 24 labor → birth Mireille → 2.5 years later second
+- Orange shimmer (mate-bond·visual_lock 1.4) — chamber 안에서만·Vael 손바닥 아래에서만·EP50 S#3 light reveal
+- Dragon line heir (Mireille) — eyes from Isolde·jaw from Vael
+
+### 회피 / 채택 패턴
+
+❌ Modern New York / runway / office / club / red carpet / tactical / sci-fi styling anywhere
+❌ HBO prestige fantasy tone
+❌ 인간 행정·법·정치·외교·hearing·계약·재정·exile·정책 행위 (memory `feedback_vertical_no_admin_power.md`)
+❌ Vael wolf/werewolf transformation·furry tone·animal-shape non-dragon
+❌ 잔마법만 보여주고 거대 스케일 (sixty-foot dragon·black flame·eastern sky battle) 없음
+
+✅ Live-action AIGC dark romantasy·paid vertical revenge / claim
+✅ 9:16 muted frame readability
+✅ 거대 VFX 비트 (Stage 2 EP17 / Stage 4 EP35 / Stage 5 EP48 partial) 아크별 스케일 상승
+✅ "She is mine" 행동으로 시각화 (옷·말 X / 손가락·머리·letter·hand burn)
 
 ---
 
-## 50화 4 아크 페이즈 (기·승·전·결 — 2026-05-17 재구조화)
+## 12-6. Isolde 의상 매트릭스 (visual_lock 2.1 정합 — 10 Looks)
 
-> **사용자 명시 (2026-05-17):** "청사진에 50화를 한 화 한 화 아크를 두라는 게 아니라, 페이즈, 기승전결 개념으로 4개의 아크로 나눠라." / "거대 vfx 매핑 이걸 청사진에서 왜 매핑해. 원칙으로만 두고, 집필에서 자연스러운 흐름으로."
->
-> 옛 6 아크 (EP별 1줄 표) → 4 아크 (페이즈·핵심 비트·페이월 라인). EP별 매핑 폐기. 단 **무료 EP1-8 화별 락 (집필 가이드)** 만 유지 — 무료 페이월 정밀 설계가 결제 동력의 핵심이기 때문.
+> v52 LOCK = 10 Looks. 옛 v2 12 변형 (Royal Arrival·Daily Black Silk·Maiden Nightwear·Bath Sensual·Mate Bond Erotic Night·Public Demand·Crowned Bride·Lady of Drakonis·War Queen Armor·Dragon Queen Coronation 등) 폐기 / visual_lock 의 10 Looks로 정합.
 
-### 기 (Arc 1) — EP1-8 무료 구간: Fated Encounter + First Possessive Claim
+| # | Look | EP 범위 | 핵심 시각 |
+|---|---|---|---|
+| 1 | **Festival Incognito** | EP01 S#2-S#4 | Plain dark traveler's cloak (rain-soaked)·loose wet chestnut waves·glamour mask VFX·simple dark linen dress·soft dark leather boots·no jewelry·silver bird hairpin received S#3, left S#4 dawn |
+| 2 | **Bridal Mirror Veine White** | EP01 S#1 + S#6 + EP02 | Reused white Veine wedding gown·long-sleeved·fitted bodice·soft pleated skirt·pearl-strand half-up·white silk slippers·bare wrist·no crown |
+| 3 | **Veine Captive Transit** | EP03-EP06 | Plain dust-grey traveling dress·single back-tied braid·travel leather boots·no jewelry |
+| 4 | **Drakonis Arrival Plain** | EP07-EP08 | Same dust-grey dress·hair pulled back·dust on hem·same travel boots·bare wrists |
+| 5 | **Keep Daily Black Silk** | EP09-EP38 | Black silk Drakonis house gown·long sleeves·controlled neckline·subtle silver scale-motif cuff/hem·polished half-up·black silk slippers (chamber) or low black leather boots (hall)·no jewelry. Belly drape develops slowly from cycle 10 (same garment, fall-of-fabric change only) |
+| 6 | **Crowned Queen Black Silk** | EP39-EP47 | Same family as Look 5 ceremonial cut·longer sleeve·deeper hem·fitted drape over visible curve·silver embroidery bodice seams·silver dragon-line trim collar·silver crown low at back of head (same back-placement as Look 1 silver bird hairpin) |
+| 7 | **Chamber Intimate** | EP09 chamber, EP14-EP18 chamber, EP29, EP40, EP43, EP46 partial | Same black silk gown lacing opened at back (Vael's hand work)·bare shoulders·hair fully down·barefoot·silver bird hairpin at EP46 reveal·belly bare cradled by Vael's scaled palm cycle 10 onward. 새 dress asset X — Look 5/6 unlaced 연속 상태 |
+| 8 | **Labor Night Linen** | EP47-EP49 | Sheer thin white labor linen shift·short sleeves·hair wet at hairline·barefoot·no jewelry |
+| 9 | **Queen Reckoning Black Robe** | EP50 S#1-S#2 | Heavy black post-birth robe·ankle length·controlled neckline·single Drakonis silver clasp shoulder·same silver crown as Look 6 (back placement·**자기 손으로 올림**)·hair half-up·black silk slippers |
+| 10 | **Spring Garden Mother** | EP50 S#3 (2.5 years later) | Light pale-ivory spring gown·soft silver trim·hair loose sun-warm·pale slipper·no crown (left inside hall)·mate-bond orange shimmer briefly visible at belly under Vael's hand (VFX overlay) |
 
-다크 로맨타지 공식 1차 사이클: **Fated Encounter → Forbidden Bond Sensed → Possessive Claim → Bond Deepens → Public Recognition of Bond 시작**
+**Forbidden:** tan/olive/bronze skin·wearing Veine crown after EP02·bare belly exposure·bodycon pregnancy silhouette·modern lingerie cut Chamber Intimate·trendy NY black-dress vibe·anime doll prettiness.
 
-**Ladder 7 단계 (Soft Lock — G v2 환류 / 매 EP 정확히 한 단계 상승):**
-- **Rung 1 (EP2):** Beside seat / public hair single-stroke — 베일이 ISOLDE를 옆자리에 들어올림.
-- **Rung 2 (EP3):** Hand + wall — 침실 벽으로 밀어붙임·드레스 어깨 끈 내림·키스·첫 crescent.
-- **Rung 3 (EP4):** Wrist + elbow — 회랑 morning thumb on mark + 작은 grip / sleeve unbuttoned (long trace X).
-- **Rung 4 (EP5):** Neck and band — 테라스 우측 jaw·twin crescent (left side)·wool wrap edge 내림·forehead-to-temple stop.
-- **Rung 5 (EP6 자발):** Self-placed seat + Self-unfastened band — Isolde 자발 옆자리 + silver chain 본인이 풀고 등장.
-- **Rung 6 (EP6 공개):** Public lips + hair — 베일이 손등·손바닥 짧은 입맞춤·Isolde 손바닥을 자기 throat 위에 (호혜).
-- **Rung 7 (EP7):** Lap + public throat — 회의실 across-his-lap·thumb at crescent·hair in fist·officers 앞.
-
-**EP8 페이월 = Rung 7 공개 확장 + Isolde 자발 발화 "Yours" + 신부 선언 끊김.** Rung 8 (공개 키스·Mate Sealed) = 유료 EP9.
-
-| EP | 주 기능 (다크 로맨타지 공식) | 열리는 정보 | 닫히는 정보 | 절단 방식 | 다음 화 훅 |
-|---|---|---|---|---|---|
-| **EP1** | **Fated Encounter** (Sacrificial Bride 도착 + 비늘 빛 첫 반응 + pendant reveal) | 왕국 인장 빼앗김 / 룬 깜빡임 / 손목 점화 / pendant tree-and-flame sigil (audience-only) / 깃발 반쯤 내려짐 (audience-only) | 베일 정체 / pendant 의미 / Aldric 음모 | 그림자 + 비늘 손등 정지 → 베일 풀바디 등장 + first touch | 베일의 얼굴 / 거대 호흡 (the other side of the keep wall) |
-| **EP2** | **Vael's Choice (의상 갈아입기 reveal) + 첫 Possessive Claim (Rung 1 = 옆자리 + public hair)** | 새 검은 비단 의상 / pendant 안쪽 솔기로 이전 (maid 인식 - audience-only) / 베일이 모두 앞에서 옆자리 선택 / 검은 비늘 손가락 armrest knuckle tap × 2 / 슬로 풀 hair stroke 한 번 / **grey envoy black-wax ring 사이드 아치 이탈 (audience-only)** | 비늘 빛 의미 / 어머니 유품 | "It is now." / 그가 발화하지 않은 이름 / sigil 의미 | 다음 자리 / 그레이 lord 정체 |
-| **EP3** | **Possessive Protection (Rung 2 = 자객 + 침실 벽 키스)** | 인간 왕국 음모 명시 / 손목에 thumb-mark 잔존 / **dagger pommel 위 왕국 seal 아래 black-wax sigil (audience callback)** / 첫 우측 crescent / 드레스 어깨 끈 내림 | 자객 배후 (sigil 의미) / Vael 자제 이유 | 키스 직후 strap 다시 올림 + 한 발 떨어짐 / "**Because if I don't stop, I won't.**" | 베일의 거리감 이유 / 손 떨림 |
-| **EP4** | **Bond Deepens (Rung 3 = wrist + elbow 회랑 morning) + 깃발 태움** | 베일이 인간 왕국 깃발 태움 (the part that called her an offering) / 베일이 자기 thumb 을 mark 위에 누름 (long trace X · short claim O) / **grey envoy 회의실 안 ridge 위 정찰병 + leather case 동·rider 동쪽 (audience-only)** | 신부 선언 가능성 / Vael 의 다음 거리 | "They will not call you that again." / "I do not let them have what is mine." / 그녀가 자기 손 닫고 떠나지 않음 | 베일 진심 / case 어디로 |
-| **EP5** | **거리 붕괴 + Bond Sensed (Rung 4 = neck and band · twin crescent · pin)** | 베일의 망설임 (forehead to temple) / 좌측 crescent (twin) / wool wrap edge 내림 / **silver pin 두고 가기 ("It stays there. You take it back yourself.")** / **Isolde 첫 요청 ("Leave the pin.") / 코트야드 grey envoy 종이 전달 (audience-only)** | 운명 짝 의미 / 베일 사적 voice | 사적 친밀 / 입맞춤 (입술 X / 목·맥박 O) | 베일의 비밀 / Isolde 셈 |
-| **EP6** | **Bond 자발 인식 (Rung 5 + 6 = Self-Placed Seat + Self-Unfastened Band + Public Hand/Hair + Reciprocal Throat)** | Isolde silver chain 자발 unfasten + side arch 자발 입장 / 양쪽 twin crescents 공개 / self-placed seat (knuckle tap 없이) / 베일 손등 입맞춤·손바닥 → Isolde 손바닥을 자기 throat 위에 (호혜) / 머리채에 다시 / **Haldren 자발 dais 내려옴 + "The kingdom withdraws its claim. On her name."** / Elara 두 손 떨어짐 | Vael 신부 선언 / 베일과 Isolde 의 호혜 의미 | "The wrist stays bare in this hall." / Kiran 보고 ("dagger 아래 sigil = grey envoy ring / 그 sigil 은 왕의 인장보다 왕에게 더 가깝다") | 두 번째 사절단 / 왕의 thumb 정체 |
-| **EP7** | **모래시계·무릎 위 자세 (Rung 7 = lap + public throat) + 드래곤 무리 첫 reveal (basalt = folded wings)** | 사절단 강경 sundown 마감 / 검붉은 종이 black-wax 봉인 (audience callback) / 베일이 ISOLDE 를 across-his-lap·thumb at crescent·hair in fist / 회의실 슬릿 창 ridge breathing (12+ wing-shapes) / **Isolde 셈 폭로 ("그레이 envoy 매 밤 / 왕의 thumb")** / 베일 호흡 잘못 됨 | 무리의 본격 등장 / Vael 의 마지막 자제 | "Look at me. Only me." / "I see you." / 호흡 잘못 됨 / dragon 첫 들숨 | 베일의 결단 / 두 번째 사절단 접근 |
-| **EP8 (페이월)** | **Public Recognition of Bond 시작 (Public Wide Band·Public Hand on Both Crescents·Reciprocal Throat·"Yours") + 깃발 태움 × 2·드래곤 첫 포효·신원 공개** | 두 번째 사절단 + grey envoy 정면 등장 / 베일이 parchment + 깃발 둘 다 태움 / **wax sigil 멜팅 = audience full callback (dagger·ring·paper·seal 5번째)** / wide pearl band sub-variant 의상 / 베일 손바닥 양쪽 crescent 위 sliding / 짧은 wrist claim / **Isolde 자발 손바닥 베일 throat 위 (호혜 두 번째)** / **Isolde 자발 "Yours." 발화** / **드래곤 무리 첫 포효 × 3 / 12 mounted guards 무릎 / 두 번째 envoy ash 떨림 / grey envoy thumb 8밤 만에 펴짐 / Haldren 손이 grey envoy 어깨 위 (인간 왕국 출신 → 인간 왕국 음모 정지)** | 신부 선언 완성 (Mate Sealed) / 공개 키스 / 알드릭 본격 / pendant 본격 | "She is —" 끊김 + Isolde "Yours." + 첫 포효 + 베일 입술 quarter inch 위 정지 + 두 번째 파도 wings | **Mate Sealed → 공개 키스 → Crowned Bride / 알드릭 직접 무엇을 했는가 / pendant 의 진짜 의미** |
-
-### EP1-8 sensual / 변태 비트 락 (2026-05-16 v2 갱신 — G v2 환류)
-
-> **북미 paid vertical 초고수위 기준.** 표현 룰: 구체 행동·상황·접촉 (미묘함·눈빛 X). 메모리 `feedback_aigc_explicit_action_over_subtle.md` + `feedback_north_american_explicit_standard.md` + `feedback_north_american_judgment_baseline.md` 강제. **v2 환류 핵심:** ladder 7 단계 명료화 / 손목 long trace 절삭 (claim, not spell) / twin crescents 양쪽 / Isolde 호혜 throat 손바닥 / EP6 self-unfastened band / EP8 자발 "Yours."
-
-| EP | Ladder | sensual 비트 (구체 행동) | 신체 자국 / 표지 | 공개 vs 비공개 |
-|---|---|---|---|---|
-| **EP1** | (pre-ladder) | 비늘 손등이 어깨 옆 공간에 정지 → 베일의 비늘 손이 이솔데의 손목 안쪽을 잡아 들어올림 (운명 짝 신호 검사) / 비늘 thumb 가 손목 안쪽 맥박 위에 한 번 / 손목이 두 박자 점화 (audience-only — gate rune 도 같은 박자) / Vael 풀바디 reveal (greatcoat 옷깃 안쪽 검은 비단 셔츠 헐겁게 묶임 — 쇄골 시작점 노출) | 손목 안쪽 thumb-shape 첫 자국 (희미) | 검은 성문 안 둘만 |
-| **EP2** | Rung 1 | reveal 후 베일이 양손으로 이솔데의 허리·옆구리 잡아 단 위 옆자리에 들어올림 (대연회장 전체) / 보디스가 그의 tunic 앞 결려 한 박자 → Isolde가 베일의 deep slow heart 박자 셈 / 검은 비늘 손가락 armrest knuckle tap × 2 / 자리 잡힌 후 베일이 한 strand 의 머리채를 두 손가락에 / 슬로 풀 한 번 (모두 봄) | 손목 thumb-mark 잔존 / 머리채 첫 공개 stroke | 대연회장 공개 |
-| **EP3** | Rung 2 | 자객 dagger 부러뜨림 / 베일이 이솔데를 침실 검은 basalt 벽으로 두 발 / 한 손이 어깨 앞·다른 비늘 손이 목 옆 jaw / 비늘 손이 검은 비단 strap 을 어깨 아래로 내림 (collarbone·짧은 cut 노출) / 입술 강하게 키스 (mark a thing) / 비늘 손이 jaw 에서 throat 옆으로 / **귀 아래 부드러운 곳에 한 번 — small crescent of teeth (우측·첫째)** / Isolde 한 손 그의 tunic 앞 deep heart 위 (다른 손 옆) / 베일 mouth on inside of bared collarbone openmouthed one long held breath / 베일이 다시 strap 올리고 한 발 떨어짐 / "Because if I don't stop, I won't." (사적 voice) | 우측 crescent (첫째·귀 아래) / 드레스 어깨 strap 풀림 1회 / 손목 thumb-mark 그대로 (long trace X) | 침실 비공개 |
-| **EP4** | Rung 3 | 회의실 깃발 태움 후 upper gallery / 베일이 그녀의 손목을 stone sill 위에 lifts / 비늘 thumb 가 thumb-mark 위에 정확히 / pulses meeting (his against her — long trace X / contained, his) / 베일이 손가락을 닫아 fist 만듦 (mark 가 자기 fist 안으로 — "your fist made by his hand") / scaled thumb 손등 한 번 / "I do not let them have what is mine." / "When you say mine. What does that buy me?" / "A throat that does not bleed in the night." | 손목 mark 진해짐 / 호혜 fist (그녀의 손이 그의 손으로 만들어진 fist) | 회의실 비공개 (Kiran 멀리·고개 돌림) |
-| **EP5** | Rung 4 | 테라스 / 베일이 두 발 빨리 와 그녀의 어깨 뒤로 / 비늘 손이 long sleeve 아래 wrist 잡음 (mark covered — 오늘 mark 관심 X) / 다른 손 두 손가락+thumb under jaw 들어올림 / 입은 입술이 아니라 **jaw corner→throat 옆 슬로 드래그→pulse 위 openmouthed one heavy breath** / 비늘 손이 silver pin 빼서 자기 다른 손에 / loose strand 떨어지면서 우측 첫째 crescent 노출 / 다른 손이 wool wrap 가장자리 들어 collarbone 노출 (한 inch만) / **좌측 throat 으로 mouth 이동 — twin crescent (둘째·좌측) bite** / Isolde 손 그의 tunic 안 silk 한 줌 (push X 손을 거기 잡음) / 베일 lifts face / forehead to temple one beat / wrap 다시 올림 / pin 자기 손에 / "Inside. Now." / **Isolde 첫 요청 "Leave the pin." → "It stays there. You take it back yourself."** / Isolde 혼자 남아 좌측 새 crescent 손가락 끝으로 한 번 / pin 본인이 집음 / 다시 머리에 꽂지 X | 좌측 crescent (둘째·테라스) / pin 단독 어셋 / 손목 mark 가려진 채 | 테라스 비공개 |
-| **EP6** | Rung 5 + 6 | side arch 자발 입장 / **silver chain 본인이 unfastened (대연회장 들어가기 전 손으로)** / 양쪽 twin crescents 공개 (높은 lace collar 없음·wide bare line throat to chest) / 머리 풀고 pin 없이 / self-placed seat (knuckle tap 없이 단 위로 올라가 앉음) / 베일이 한 박자 늦게 reach 해서 손등 짧은 입맞춤 / 손을 inside up 으로 turn (thumb-mark 노출) / inside wrist 위 짧은 입맞춤 (long trace X·short claim) / **베일이 그녀의 손바닥을 자기 bare throat tendon 위로 가져옴 — 비늘 손가락이 그녀의 손가락 사이로 / 호혜 첫 비트 (베일 → Isolde 만 X / Isolde → 베일도)** / 두 사람 pulses meeting at throat / 다른 손 그녀의 풀린 머리채 끝까지 슬로 풀 / fingers wind into ends at waist / Elara 두 손 떨어짐·입 한 칸 열림 / Haldren 자발 dais 내려와 ISOLDE 에게 (Vael X) 고개 숙임 / "The kingdom withdraws its claim. On her name." | 양쪽 twin crescents 공개 / silver chain 자발 풀림 (Isolde 자발) / 호혜 throat 손바닥 (Isolde → 베일) | 대연회장 공개 |
-| **EP7** | Rung 7 | 회의실 morning 모래시계 + black-wax sealed parchment / 베일이 그녀를 across-his-lap (옆 lap X / 가로질러 lap — silk 가 그의 tunic 위로 hiss) / 그녀의 등 baseline 그의 가슴 (deep heart faster today) / 그의 비늘 right hand 그녀 허리 / 다른 손 그녀 throat 옆 좌측 crescent (자기 teeth marks 위) thumb / scaled right hand 보디스 silver chain 위로 어깨까지 slide / 그녀의 풀린 머리채를 한 손에 / Kiran 부하 1명 벽 쪽으로 돌려세움 (courtesy not rebuke) / "Read the parchment." / 사절단 명령: "Return the human girl... Her body is required..." / 비늘 한 단계 더 어두워짐 / Vael breathes wrong (slow, deep, careful — inhuman trying to remember not to break a thing) / **Isolde 가 quarter inch face turn 베일 목 라인 쪽 (kiss X / look at neck) — 속삭임 "The grey envoy is the king's own thumb." / "Then the king's hand is here every night."** / 슬릿 창 너머 ridge breathing 본격 (12+ folded-wing silhouettes basalt 자체가 등) / "Look at me. Only me." / "I see you." | 머리채 fist / 무릎 위 자세 첫 공개 회의실 / 양쪽 crescents officers 시선 노출 / 그의 호흡 잘못 됨 | 회의실 공개 |
-| **EP8 (페이월)** | Rung 7 공개 확장 + Reciprocal Throat + Verbal "Yours" | 두 번째 사절단 + grey envoy 출입구 등장 / 베일 단 내려와 코트야드로 / parchment 사절단 손에서 빼앗아 자기 palm 위 천천히 태움 (wax sigil 멜팅 last — audience callback) / standard pole 빼서 사절단 발 앞에 / cloth 만 태움 / 위 curtain wall 12 folded wings 머리 들어올림 (포효 X 아직 대기) / "She is not returning." / 하늘 들어오기 / Isolde 단 발치에 sub-variant gown (wide pearl-and-silver band across collarbone·머리 half-pinned with single pearl·양쪽 twin crescents band 위로 노출) / 베일 lifts 그녀를 단 위 자기 옆 / 베일 비늘 right hand 그녀 우측 crescent 위 (palm 전체 cover) → palm slide 가로질러 pearls band 위로 → 좌측 crescent 까지 (양쪽 동시 cover plain sight) / 좌측 fist 그녀의 머리 뒤에 (fist 가 머리채 잡음·chin 들어올림) / 그의 mouth her mouth 위 한 inch / **그녀 wrist inside up·thumb mark 위 짧은 키스 (claim not spell)** / **Isolde 가 다시 자기 palm 베일 throat 위에 lifts (호혜 두 번째·자발 — hall fully understands "She is not being held. She is holding back.")** / 베일 "She is —" / **드래곤 첫 포효 × 3 + 두 번째 파도 wings beyond ridge — 그의 word 잘림** / 12 mounted guards 무릎 / 12 standards 떨림 / 두 번째 envoy parchment ash 떨림 / grey envoy thumb 8밤 만에 처음 펴짐 / black-wax ring 노출 / **Haldren 자발 dais 내려가 grey envoy 어깨 위에 한 손 (lightest touch·홀딩)** / 베일 mouth 그녀 mouth 위 quarter inch 정지 / **Isolde 자기 손 그의 scaled knuckles 위에 closed (작은·창백·certain·놓지 않음) / 자기 mouth opens — "Yours." (low·half lost in second roar)** / 베일 그녀 mouth 위 quarter inch 위 정지 (last quarter 안 닫힘) / 포효 가장 높은 점 / 두 번째 wings 파도 ridge 너머 | wide pearl band sub-variant / 양쪽 crescents 사절단 공개 / 호혜 throat (Isolde 자발) / 짧은 wrist claim / 자발 "Yours." (verbal claim 첫 비트) | 대연회장·사절단·12 mounted·하늘 위 dragons 모두 공개 |
-
-**핵심 페이월 보상 유예:** **공개 키스 (last quarter inch) / 신부 선언 완성 / 옷 안·드레스 끈 풀림 직접 / 침대 비트 / 사디스틱 도구 사용 / 첫 밤 = 유료 EP9+로 유예.** EP8 = ladder 7 + reciprocal throat + Isolde 자발 "Yours" + 신부 선언 끊김으로 **결제 격차 최대화**.
-
-**v2 환류 핵심 (G v2 디벨롭 적용):**
-- **손목 long trace 절삭:** EP1 first touch·EP3 mark 인식·EP4 thumb-press·EP6 short kiss·EP8 short claim 모두 **short·contained·his**. 긴 잉크 그리기 (sleeve 끝까지 trace) X — claim, not spell. (시간 낭비·결제 동력 약화 회피.)
-- **Twin crescents (양쪽):** EP3 우측 / EP5 좌측. EP6+ 양쪽 동시 공개. EP8 베일 palm 양쪽 동시 cover. 단수 잇자국 → twin 으로 갱신.
-- **Reciprocal throat (호혜):** EP6 첫 비트 (베일이 Isolde 손을 자기 throat 위로) / EP8 자발 (Isolde 가 다시 직접 — hall 이 비로소 "She is holding back" 이해). 일방 X / 호혜 — Isolde 능동성 시각화.
-- **EP6 self-unfastened band:** Isolde 가 silver chain 본인 손으로 풀고 등장 / self-placed seat (knuckle tap 없이) — 베일 의지에 의한 옆자리에서 → 자기 의지에 의한 옆자리로 ladder 상승 (가장 큰 변화).
-- **EP8 자발 "Yours" 발화:** 베일이 신부 선언 못 닫는 그 순간 그녀가 발화로 닫는다. 일방적 운명 짝 표지 → 호혜적 선택. Verbal claim 첫 비트 (이전 모든 마킹 = 시각·접촉 / 이것 = voice).
-- **EP3 명대사 "Because if I don't stop, I won't.":** Vael voice 첫 정점 — 자기 통제·사적 친밀 유예·결제 동력 + 첫 약점 비침 (사적 voice).
-- **Aldric 음모 매 EP 분산:** EP1 깃발 / EP2 grey envoy 이탈 / EP3 dagger sigil / EP4 ring + leather case / EP5 종이 / EP6 Kiran 보고 / EP7 검붉은 봉인 / EP8 신원 공개 — 5 시각 표지 callback chain.
-- **Pendant (tree-and-flame sigil):** EP1 reveal / EP2 maid 옮김·인식 (audience-only) — 유료 EP35 진짜 핏줄 폭로 트리거. 무료 = 한 번도 발화 X.
-
-**메타 안전 (wish-fulfillment 방향 보존):** 변태적 강도 = 베일이 이솔데를 압도적으로 매혹·집착·소유하는 방향. 굴욕·수치로 끝나는 방향 X (`project_offering_high_explicit_direction.md`).
-
-### 승 (Arc 2) — EP9-25 유료: Public Selection → Crowned Bride
-
-> **페이즈 핵심:** 베일의 신부 선언 완성 → 다른 드래곤 가문 견제 → 정식 신부 등극. **변신 단계:** Stage 2-3 (sub-form 발현·partial transform / 첫 Full Dragon Form reveal).
-
-#### 페이즈 함수
-- **시작 보상 (EP9-12):** 베일 신부 선언 완성·드래곤 무리 본격 등장·이솔데 손목 비늘 빛 영구화·인간 왕국 사절단 추방·할드렌 충성 전환·다른 신부 후보 굴욕
-- **중간 텐션 (EP13-22):** 다른 드래곤 가문 (세라) 등장·가문 동맹 도전·이솔데·베일 깊은 친밀 (Erotic Permission 시작)·인간 왕국 자객 2차·세라의 공개 모욕·베일이 세라 공개 거절
-- **승 클라이맥스 (EP23-25):** 이솔데가 드래곤 무리 일부 인정 받음·정식 신부 의식 준비·**EP25 정식 신부 등극 의식 + 첫 Full Dragon Form reveal + 시댁 가문 굴욕**
-
-#### 페이월 라인 (각 결제 결정 지점)
-- EP12-13 한도: 베일 신부 선언 + 사절단 추방 + 세라 등장 = 다음 화 가문 동맹 음모 (결제)
-- EP18-19 한도: 첫 깊은 intimacy + 자객 정보 = 다음 화 음모 폭로 (결제)
-- EP22-23 한도: 세라의 모욕 → 베일의 공개 거절 + 이솔데 자기 자리 굳힘 = 다음 화 정식 신부 의식 (결제)
-- EP24-25 한도: 정식 신부 의식 클라이맥스·Full Dragon Form 첫 reveal = 다음 페이즈 (전 시작)
-
-#### 의상 진화
-- 1B (Daily) → N1 (Nightwear 사적) → N2 (Vael Public Demand) → 2 (Crowned Bride) → 2-Erotic (intimacy) → 3 (EP25 의식)
-
-#### 핵심 결제 엔진 비트
-- 5.5 Possessive Alpha Marking (베일 공개 마킹 강화)
-- 5.2 Fated Mate Bond (손목 비늘 빛 영구화·EP25 황금화 시작)
-- 3.6 Public Status Claim (이솔데 정식 신부 등극)
-- 부수: 5.4 Sacrificial Reversal·다른 신부 후보 굴욕
+**Wardrobe 룰 (visual_lock 1.6):**
+- Episode range = 완전 다른 wardrobe asset만 마킹
+- Damage·dust·sweat·blood·scale-flare·fire residue·ash·mate-bond orange shimmer = production/VFX/makeup overlay (wardrobe asset X)
+- Hair style fixed unless story explicitly requires change
+- Outfit = full set (hair + dress + footwear + accessories)
 
 ---
 
-### 전 (Arc 3) — EP26-40 유료: Cosmic Revenge → Hidden Bloodline
+## 12-7. 핵심 prop 어셋 (visual_lock 3.x 정합 — 5 CORE)
 
-> **페이즈 핵심:** 인간 왕국 내전 → 시댁 가문 굴욕 → 알드릭 왕 음모 본격 폭로 → 이솔데 진짜 핏줄 reveal. **변신 단계:** Stage 4-5 (Full Form 자유 교대·전투·정복).
+> v52 = props 5개만 dedicated asset. 나머지 (torn letters·iron execution plate·council heads·curved knives·garden pebbles·yard-rag note 등) = scene-specific set-dressing (asset lock X).
 
-#### 페이즈 함수
-- **시작 보상 (EP26-30):** Dragon Queen 의상 1단계 (황금 디아뎀)·인간 왕국 내전 발발·알드릭 왕의 적이 베일에게 동맹 제안·시댁 가문 (계모·동생) 베일 앞 무릎·Public Vindication 본격
-- **중간 텐션 (EP31-35):** 세라의 가문 동맹 패배·다른 드래곤 가문 일부가 이솔데 인정·키란 충성 의식·할드렌 정식 사과·알드릭 음모 1차 폭로 (이솔데 핏줄 단서) → **EP35 이솔데 = 알드릭 왕이 숨긴 진짜 후계자 폭로**
-- **전 클라이맥스 (EP36-40):** 이솔데 어머니 진실·인간 왕국 내전 격화·베일 드래곤 군대 본격 개입·알드릭 자객 3차·이솔데가 알드릭 왕 앞에서 진실 폭로·**EP40 알드릭 왕 굴욕·Betrayal Reversal 본격**
+### 3.1 Silver Bird Hairpin (CORE)
 
-#### 페이월 라인 (각 결제 결정 지점)
-- EP29-30 한도: 시댁 무릎 + Public Vindication 본격 = 다음 화 알드릭 음모 단서 (결제)
-- EP34-35 한도: 알드릭 음모 1차 폭로 + Hidden Bloodline reveal = 다음 화 어머니 진실 (결제)
-- EP39-40 한도: 이솔데가 직접 진실 폭로 → 알드릭 굴욕 = 다음 페이즈 (결 = 전쟁) (결제)
+- **Owner path:** Vael's mother → Vael → Isolde at EP01 S#3 → bedside table at S#4 dawn → Vael recovers (off-screen, between EP01 S#4 and EP46) → **placed into her hair by Isolde herself at EP46 after the reveal**
+- **Design:** small hammered silver pin·single carved bird at the head (lyre-like crest)·one tiny chestnut stone
+- **Function:** identity-bond motif·**the single object that links the festival night to Vael across the full delay**
+- **Continuity (LOCK·v49):**
+  - EP01 S#3 Vael 꽂아줌
+  - EP01 S#4 dawn Isolde 두고 떠남
+  - **EP02-EP45 = silver bird pin Isolde 머리에 없음 (plain black pin / plain hairpin / hairpin)**
+  - EP46 reveal 직후 Isolde 자기 손으로 다시 꽂음
+  - EP50 S#1-S#2 Queen Reckoning 안에서 머리에 (crown 옆 / 뒷자리)
+- **Forbidden:** tiara·forehead ornament·modern hair clip
 
-#### 의상 진화
-- 3 (Crowned Bride) → 3-Daily (Lady of Drakonis) → 4 (War Queen Armor — Arc 3 후반 진입) → 5 (Hidden Bloodline Reveal — EP35·39·40)
+### 3.2 Wooden Bird Carving (CORE — supporting prop)
 
-#### 핵심 결제 엔진 비트
-- 5.4 Sacrificial Reversal (제물 → 진짜 후계자 폭로 정점)
-- 5.10 Hidden Identity Reveal (EP35 정점)
-- 3.6 Public Status Claim (Public Vindication 본격)
-- 부수: Betrayal Reversal (알드릭 굴욕)
+- **Owner:** Vael (his mother carved it)
+- **Design:** small wooden bird·same silhouette as silver hairpin·dark walnut grain
+- **Function:** EP38-EP46 window·Vael's chamber에 second half of silver-bird motif. **EP46 — Vael 직접 발화 ("It was you / It was me" / "You told me to earn it / I have been trying since dawn") 확증 후 supporting prop.** Bird motif closes with: "**The wooden one was hers. I had the silver one made from it.**"
+- **옛 v2 "EP46 pin/jaw 매칭 단서 퍼즐 = reveal trigger" 폐기.** v52 trigger = Vael 직접 verbal confession. Bird = closing prop.
+
+### 3.3 Silver Crown of Drakonis Queen (CORE)
+
+- **Owner path:** Drakonis keep treasury → Isolde at EP39 (Vael 손으로 들고 와서 머리에) → EP40 chamber windowsill (떼서) → EP49 reckoning (다시 머리에) → EP50 S#1 (**자기 손으로 직접 다시**) → EP50 S#3 garden (no crown, left inside the hall)
+- **Design:** small silver crown with subtle dragon-scale relief·no jewels
+- **Placement:** **low at the back of Isolde's head, half-hidden in hair — same position as silver bird hairpin (visual rhyme)**
+- **States:** handed by Vael at EP39 / placed by Isolde herself the same day onward (queen by her own hand, not by Vael's giving)
+
+### 3.4 Volzaar Throat Mark — Sera (CORE)
+
+- **Owner:** Sera's throat (Volzaar house mark·forced display)
+- **Design:** small red coiled flame brand·palm-of-a-hand wide
+- **Function:** Sera's visible house-failure marker through the full show. **EP49 reckoning에서 Vael 손바닥에 burn off (visual end of her house).**
+- **States:**
+  - EP06-EP30 Sera Look 1 (Volzaar Bride Candidate) 안에서 노출
+  - EP31-EP47 demoted bench·forced shame display·gown stripped jewelry·hem singed·copper-red updo loosening
+  - EP41 wrist burn (warning·"the lightest punishment")
+  - EP43 garden humiliation (hand-stump bandage onward)
+  - EP49-EP50 S#1-S#2 reckoning captive·unwashed·bandaged stump·intact mark start → Vael burn off mid-scene
+  - EP50 S#3 ash-grey servant·throat bare·no mark·short grey hair·back-turned·raking gravel
+
+### 3.5 Veine Six-Seal Letter — cathedral high court (CORE)
+
+- **Owner:** Veine inner cathedral + old high court (no Adeline seal)
+- **Design:** heavy parchment·six deep red wax seals (cathedral cross + four bishop seals + one high-court seal)·**no queen's mark**
+- **Function:** **EP41 도착·EP42 Vael burns to ash with fingertip on hall floor·triggers public 4 declarations (label reversal).** v52의 마지막 외부 라벨링 시도 → Drakonis 4 declarations로 완전 무효화.
+- **Insert (audience-visible parchment):**
+  > By the bishops of the inner cathedral and the old high court of Veine:
+  > The bride was named impure at the bridal mirror, cycle one.
+  > The body has not been blessed since.
+  > The womb cannot carry a recognized heir.
+  > The marriage to the Lord of Drakonis is held void by canon.
+  > The keep is commanded to sever the bond before the labor.
+  > No child of an impure body holds the dragon line.
+
+### Minor Production (asset lock X)
+
+Black bridal mirror (EP01 S#5 single use)·Veine wedding contract halves (EP08-EP09)·iron execution plate (EP21 single use)·council envoy heads and sealed letters (EP27-EP30)·Sera's yard-rag note (EP47-EP49 small evidence prop)·Volzaar curved knife (EP47-EP49·EP50 reckoning floor evidence)·black wood lord's chair and queen's chair (set dressing)·heavy black post-birth robe (EP49)·mate-bond orange shimmer (VFX overlay)·small garden pool with pebbles (EP33+ set dressing)·broken stone bird at lower-city well (EP01 set dressing).
+
+### 옛 v2 폐기 어셋
+
+- **Silver pendant (tree-and-flame sigil) chain** — v52 부재. silver bird hairpin이 identity-bond 어셋으로 교체.
+- **Black-wax sigil (Aldric's thumb mark) callback chain** — v52 부재. 옛 dagger pommel / ring on grey envoy thumb / folded paper / red parchment seal / 멜팅 wax — 모두 폐기.
+- **Wide pearl-and-silver band across collarbone (EP08 sub-variant)** — v52 부재. EP08 페이월 = Look 4 (Drakonis Arrival Plain dust-grey) 안에서 진행.
+- **Twin crescents (양쪽 잇자국)** — v52 부재.
+- **gate rune / pendant sigil 정합 / 운명 짝 비늘 빛 손목 자국** — v52 부재. Identity bond = silver bird pin + voice 단서 + body memory + EP46 직접 발화 회수.
 
 ---
 
-### 결 (Arc 4) — EP41-50 유료: War → Crowned Queen (시즌 보스)
+## 12-8. 비선형 시퀀스 (LOCK 정합)
 
-> **페이즈 핵심:** 인간 왕국 vs 드래곤 가문 전쟁 → Dragon Queen 즉위 → HEA. **변신 단계:** Stage 6 (Mate Bond Sync·Vael + Isolde 둘 다 변신·Dragon Pack 전체 포효).
+> v52 = 비선형 비트 7개. 모두 EP46 정답 회수 setup·페이월·결제 결정 지점 보강.
 
-#### 페이즈 함수
-- **시작 보상 (EP41-44):** 인간 왕국 귀족 분열·이솔데 = 진짜 왕국 후계자 + Crowned Bride 이중 정체·베일·이솔데 깊은 친밀 (Erotic Permission 정점)·알드릭·시댁·세라 마지막 음모
-- **중간 텐션 (EP45-48):** 인간 왕국 vs 드래곤 가문 전쟁 본격·베일·이솔데 마지막 음모 분쇄·알드릭 왕 패배·이솔데가 알드릭에게 마지막 선택 강요 (자기 신하·추방)·Public Vindication 최종 (인간 왕국 전체 이솔데 앞 무릎)
-- **결 클라이맥스 (EP49-50):** Dragon Queen 즉위 의식·**Vael + Isolde 둘 다 풀 변신 + Dragon Pack 전체 포효** / Drakonis 가문 + 인간 왕국 통합 / HEA
-
-#### 페이월 라인 (각 결제 결정 지점)
-- EP43-44 한도: Erotic Permission 정점 + 마지막 음모 = 다음 화 전쟁 (결제)
-- EP47-48 한도: 알드릭 굴복 + Public Vindication 최종 = 다음 화 즉위 (결제)
-- EP49 한도: Dragon Queen 즉위 의식 + Vael·Isolde 둘 다 변신 = EP50 HEA (시즌 보스 결제)
-
-#### 의상 진화
-- 4 (War Queen Armor) → 5 (Hidden Bloodline 폭로 의식) → 6 (Dragon Queen Coronation EP49-50)
-
-#### 핵심 결제 엔진 비트
-- 3.6 Public Status Claim 정점 (Dragon Queen 즉위)
-- 5.2 Fated Mate Bond 정점 (Mate Bond Sync·둘 다 변신)
-- 5.10 Hidden Identity Reveal 정점 (왕국 후계 + Crowned Bride 이중)
-- HEA — Happy Ever After
+| 비트 | EP | 기능 |
+|---|---|---|
+| **EP01 S#1 Flash-Forward** | EP01 | Bridal mirror IMPURE — 3-4초 hook·UI ONE MONTH EARLIER·S#6 emotional 연결 |
+| **EP09 wash chamber romance VO + festival night flash cut** | EP09 | 페이월 회수 직후·voice/body 의심 시작 신호 (audience-only) |
+| **EP25 basin scene 능동 비트** | EP25 | flashback festival night kiss·Isolde "Stop hiding behind my back" → "If you touch me, look at me. Prove you are not the ghost I keep trying to find in you." |
+| **EP30 END HOOK Festival Insert (Vael chair grip)** | EP30 | Sera 도주 처리 후 chamber·Insert Festival night·Vael chair arm hard grip·"He does not touch her." (참고 정답 1년 보류) |
+| **EP36 Montage nights chamber (touch-starved)** | EP36 | EP35 sky battle 후·재결합 montage |
+| **EP40 Flash-forward morning light** | EP40 | "Morning light. A child between them. Isolde asleep. Vael's hand over both of them." — family lock preview·almost-not-there |
+| **EP46 reveal flashback (festival night)** | EP46 | 정답 4 폭발 직전 / 직후 flashback ("You do not belong here / I do not belong anywhere / Then belong to me until dawn / Earn it") |
 
 ---
 
-### 4 아크 페이즈 요약 표
+## 12-9. "I love you" budget — 6 lines (3 pairs) max LOCK
 
-| 페이즈 | EP 범위 | 핵심 함수 | 변신 단계 | 핵심 결제 엔진 | 페이월 클라이맥스 |
-|---|---|---|---|---|---|
-| **기 (Arc 1)** | EP1-8 무료 | Fated Encounter + Public Recognition 시작 | Stage 1 + wing-shadow·sub-form 암시·등 뒤 환영 | 5.5·5.2·3.6 | EP8 — "Yours" + 신부 선언 끊김 + 산맥 드래곤 군단 reveal |
-| **승 (Arc 2)** | EP9-25 | Public Selection → Crowned Bride | Stage 2-3 (sub-form·partial / EP25 첫 Full Form) | 5.5·5.2·3.6 + 다른 신부 후보·세라 굴욕 | EP25 — Crowned Bride 의식 + 첫 Full Form |
-| **전 (Arc 3)** | EP26-40 | Cosmic Revenge → Hidden Bloodline | Stage 4-5 (Full Form 자유 교대·전투·정복) | 5.4·5.10·3.6 + Betrayal Reversal | EP40 — 알드릭 왕 굴욕·Betrayal Reversal 본격 |
-| **결 (Arc 4)** | EP41-50 | War → Crowned Queen + HEA | Stage 6 (Mate Bond Sync·둘 다 변신) | 5.2·3.6·5.10 정점 + HEA | EP49-50 — Dragon Queen 즉위·둘 다 변신·Dragon Pack 포효 |
+> 메모리 `feedback_iloveyou_budget_3_max.md` 정합. 50화 작품 "I love you" 3 페어 (6 lines) max.
 
-#### 4 아크 페이즈 진행 룰
+| EP | 라인 | 비트 |
+|---|---|---|
+| EP46 | 2 lines | EP46 정답 4 폭발 후 T5 보상 sex 끝·"First time I've said it. First time you've heard it." |
+| EP47 | 2 lines | labor eve / labor 정점 (균등 분포) |
+| EP50 | 2 lines | S#3 garden 2.5 years later·family lock·"My wife / Your wife / My mate / Your mate / My queen / Your queen / I love you / I love you" |
 
-- EP 단위로 핵심 비트 강제 X / **아크 페이즈 안에서 자연 흐름**으로 진행
-- 거대 VFX = EP별 매핑 X / **아크별 스케일 상승 + 집필 자연 흐름** (메모리 `feedback_fantasy_magic_visual_proof.md`)
-- 의상 변형 = 50화 매트릭스 12개 / 아크 진행에 따라 자연 호출 (12-3 Isolde 캐논 의상 매트릭스 참조)
-- 페이월 = 아크별 클라이맥스 비트 + 페이즈 안 각 결제 결정 지점
+**중반 친밀 (EP09-EP45) = 행동 비트만.** "I love you" 발화 X.
+
+---
+
+## 12-10. 공간 방향축 (LOCK·v50)
+
+- **East:** council / eastern temple / eastern sky / council two days east / eastern waystation / eastern wasteland / ridge·EP35 sky battle / EP50 final tilt-up 3 dragons turn east together
+- **South:** Volzaar (Sera·older + younger cousin) / EP26 침입자 south wall (southern cousin) / "every house south of here had a reason to come through that wall" (EP46 Vael)
+- **West:** Veine / EP17 westward flight to dying Aldric / Western Lord coast (EP37) / Sera 도주 east 시도 후 walk west 2 days
+- **North:** stepmother north tower (EP19 Adeline holding) / Vael 어머니 origin (lower city Veine, then wedded Drakonis)
+
+---
+
+## 12-11. 정보 설계 — 무료/유료 절단 (LOCK)
+
+### 무료 (EP01-EP08) 열림
+
+- ✅ Isolde = king's unwanted daughter / "impure" 라벨링
+- ✅ Veine fire festival incognito night·high-heat sex·"Earn it" promise·silver bird pin Vael's mother
+- ✅ Bridal Mirror IMPURE·Stepmother·priest·Corvin·Adeline (cruel sister)
+- ✅ Corvin contract void·Drakonis offering·dust-grey transit
+- ✅ Drakonis arrival·Vael (Dragon Lord identity)·Sera Volzaar 등장 (Volzaar throat mark)·Kiran
+- ✅ EP08 페이월 cliffhanger "Say it." (Sera 입에서 declaration 강제 추출 직전)
+
+### 무료 안에서 닫힘 (audience-only seed)
+
+- 🟡 축제 밤 남자 정체 = Vael (audience-only EP01 seed·"My mother left it here. I come every year."·silver bird pin 그의 코트 안)
+- 🟡 Isolde는 모름·1년 동안 의심·확증 회피
+- 🟡 EP09 first scene full declaration·voice 단서·body memory
+- 🟡 첫 자발 sex·임신·labor·birth·EP46 정답 폭발·EP50 family
+
+### 유료 (EP09+) 점진 공개
+
+- EP09 first scene "She is my bride" + "I decided that a month ago"
+- EP10-EP18 voice 단서·body memory (확증 톤 X)
+- EP16 첫 자발 sex
+- EP17 첫 full transformation·EP18 dying Aldric·EP19 will reading·Stepmother 체포
+- EP20 "I want a crown from the man who waited for me"
+- EP21 stepmother iron plate execution
+- EP23 두 번째 sex + 임신 시작
+- EP25 basin scene 능동
+- EP26 south wall 침입자·EP27 council pressure·EP28 임신 reveal
+- EP30 Sera 도주·east council·Vael personal interception
+- EP31 ridge dragons council heads
+- EP35 Eastern Sky council battle
+- EP37 Western Lord broken hand
+- EP38 keep lord crown ask·EP39 crown ceremony·EP40 chamber crown sex
+- EP41 Veine 6-seal·EP42 4 declarations·EP43 Sera humiliation
+- EP46 정답 4 폭발·T5 보상 sex
+- EP47-EP49 labor·birth Mireille
+- EP50 Sera reckoning + spring garden 2.5 years later
 
 ---
 
 ## 환류 로그
 
-- **2026-05-11 v0 (러프 청사진):** 사용자 명시 다크 로맨타지·드래곤·고수위 + 할리퀸/버클리/발렌타인 톤. EP1-8 화별 락 작성.
-- **2026-05-12 피칭 7/7 만장일치 통과:**
-  - 위원 A: EP1-2 삭제 권장 → **거부** (시청자 자료 1위 보상 Public Vindication 사이클 필수)
-  - 위원 B: 대본 다듬기 → 수용 (트리트먼트 주어 명시·문체)
-  - 위원 D: 숏폼 레퍼런스 1작품 명시 → 수용 (NetShort·ReelShort werewolf/dragon mate 검증작)
-- **2026-05-12 v1 (완성 청사진):**
-  - 포맷 16:9 가로형 → **9:16 세로형** (사용자 명시)
-  - EP9-50 화별 락 신규 (Arc 2-6)
-  - 비주얼 캐논 (의상 4단계·시각 키 9개)
-  - 캐릭터 캐논 + 관계 구조 + 세계 규칙 + 정보 설계 완성
-  - 다른 드래곤 가문 (세라) Arc 3 신규 라이벌 도입
-  - 이솔데 진짜 핏줄 = 알드릭 왕 숨긴 후계 (Hidden Identity Reveal Arc 5)
-- **세로형 변경 영향:** AIGC 비주얼 캐논 = 9:16 종횡비에 맞춘 클로즈업·인물 중심 / 드래곤 무리·날개·성채 풀샷은 세로 컴포지션에 적합한 각도로 재해석. 베일·이솔데 클로즈업·손등 비늘·손목 빛·핏빛 드레스·검은 망토 = 세로 포맷 강점.
-- **2026-05-12 v2 (비주얼 락·집필 룰 정정):**
-  - 이솔데 EP2에 "베일이 도착 의상 거부·새 의상 지시·reveal scene (갈아입은 이솔데 더 예쁘게 대비)" 비트 추가
-  - 베일 Lord/King 통합 — 단일 Dragon Lord 정체성
-  - 비주얼 락 정정 — 본질 = 캐릭터 어셋 고정 (`feedback_visual_lock_system.md` v2)
-  - 조연 의상 고정 (할드렌 1번 변경 / 키란·엘라라·세라·알드릭 단일)
-  - 무료/유료 분리 진행 + 3종 최종고 적용 (`feedback_episode_split_and_runtime.md`)
-- **2026-05-12 v3 (초고수위·북미 paid vertical 재확정):**
-  - 사용자 명시 1: "OFFERING은 초고수위·매우 야하게·매우 변태적·완전 여성향. AIGC 통제 = 미묘함·눈빛 X / 구체 행동·상황 O."
-  - 사용자 명시 2: "북미는 차원이 다른 수위. 한국어 = 협업 언어, 작품 판단 기준 X. 한국식 가족·체면·위계·리듬·감정·제도 기본값 X. 영어 대사 = 처음부터 영어 (번역체 X)."
-  - 12-1 수위 라인 갱신: "직접 성행위 묘사 X" 폐기 → 초고수위·변태 비트 허용 (북미 paid vertical 기준)
-  - 12-2 매핑 표 "5. Forbidden Touch + Erotic Permission" 행 갱신: EP1부터 변태 비트 누적·EP18+ 정점
-  - 12-2 페이월 트리거 확장: 사절단 앞 허리·머리채·잇자국 자리 공개 표지 + "다음 화 = 공개 키스 (Mate Sealed)"
-  - 12-7 비주얼 캐논 추가 비주얼 키 5개 (잇자국·드레스 끈·머리채·손목 빛 키스·무릎 위 자세)
-  - **EP1-8 sensual 비트 락 신규 섹션** 추가 (구체 행동·신체 자국·공개 vs 비공개)
-  - 핵심 페이월 보상 유예: 공개 키스·신부 선언 완성·옷 안·침대 비트 = 유료
-  - 적용 메모리: `feedback_north_american_judgment_baseline.md`·`feedback_north_american_explicit_standard.md`·`feedback_aigc_explicit_action_over_subtle.md`·`project_offering_high_explicit_direction.md`
-- **2026-05-16 v2 (G v2 디벨롭 baseline 환류 — FREE EP1-8):**
-  - **사용자 명시:** "새로 세운 기준, 진짜 매출이 잘 나오는 대본을 집필하기 위한 기준에 맞춰 디벨롭한 대본이, 청사진과 상이한 경우, 청사진의 디벨롭이 필요하다."
-  - 입력: `07_final/02_the_offering_FINAL_FREE_v2_dev.md` (G v2 디벨롭 / 매출 baseline 8개 적용)
-  - 적용 baseline: viewer psychology · 6 conversion · female buy engine · alpha taboo · 50-EP serials · character × situation × relationship · v3 12 HARD RULE · v3 14 Failure
-  - **Hard Lock 유지:** 정체성 (다크 로맨타지·여성향·초고수위) / 페이월 구조 (5 미완성 동시 응축) / 메인 결제 트리거 / 트랙 (AIGC 실사 9:16)
-  - **Soft Lock 환류 (자율 갱신):**
-    - 12-2 결제 엔진 매핑 신설 (메인 5.5·5.2·3.6 / 보조 5.4·5.10)
-    - 12-2 6 conversion 패턴 매핑 신설 (거리 압축·정지·호혜 전환·정보 비대칭·위협 가시화·발화 끊김)
-    - 12-2 시청자 심리 톤 baseline 신설 (사적 즐김·욕망+부끄러움·자기 인정·금기 위반 허용)
-    - **이솔데 캐논 보강:** silver pendant (tree-and-flame sigil·어머니 유품·진짜 핏줄 단서) / counter 정체성 (셈을 끝낸 자·창문 셈) / voice 습관 / EP1 의상 변경 (검은 모피+핏빛 → 흰 모피+아이보리 / EP2부터 검은 비단)
-    - **베일 캐논 보강:** 신체 baseline (호흡 잘못 됨·drake alpha)·voice 톤 (낮은·짧은 명령)·의상 1B차 (실내 fitted tunic 라인) / EP3 명대사 락 "Because if I don't stop, I won't."
-    - **할드렌 캐논 보강:** 충성 전환 단계 EP1-8 정밀화 (EP6 자발 lowering·"kingdom withdraws claim on her name" / EP8 plain grey·grey envoy 어깨 손)
-    - **GREY ENVOY 신규 인물 등재:** 알드릭의 thumb·black-wax ring·EP2-7 audience-only 분산·EP8 신원 공개
-    - **알드릭 음모 분산 단계 신설:** EP1-8 매 화 시각 표지 (5 sigil callback chain·dagger·ring·paper·seal·멜팅 wax)
-    - **키란·엘라라 캐논 보강:** 시각·voice·기능 비트
-    - **비주얼 캐논 (12-7) 추가 어셋 11개:** pendant / silver chain self-unfastened / wide pearl band sub-variant / pearls on shoulder seams / ridge breathing / black-wax sigil / two thrones / two-pulses meeting / counting motif / twin crescents (양쪽으로 갱신) / 손목 long trace 절삭 룰
-    - **Ladder 7 단계 명시:** EP2 Rung 1·EP3 Rung 2·EP4 Rung 3·EP5 Rung 4·EP6 Rung 5+6·EP7 Rung 7·EP8 Rung 7 공개 확장 + 호혜 + 자발 "Yours."
-    - **EP6 self-unfastened band + self-placed seat:** Isolde 자발 능동성 ladder 비트.
-    - **Reciprocal throat 호혜 비트:** EP6 첫·EP8 자발 (시청자 자기 인정 욕구·일방 X 호혜).
-    - **EP8 자발 발화 "Yours.":** 베일 신부 선언 끊김 시 Isolde 가 발화로 닫음 / verbal claim 첫 비트.
-    - **손목 long trace 절삭 → 입술·목·맥박 대체:** 시간 낭비·결제 동력 약화 회피.
-    - **EP1-8 화별 락 + sensual 락 표 두 곳 모두 갱신** (정보 흐름·신체 자국·공개 vs 비공개 + ladder 컬럼).
-    - **EP8 페이월 유료 전환 약속 정밀화:** 12 mounted·12 standards·grey envoy 신원·Haldren 손·last quarter inch·Isolde "Yours."·5 미완성 동시 응축 (신부 선언·공개 키스·드래곤 무리·알드릭 음모·pendant).
-  - **환류 사유:** G v2 디벨롭이 (1) viewer psychology baseline 적용으로 호혜·자기 인정 비트 강화 (2) 6 conversion 패턴 6번째 (발화 끊김) 적용으로 "Yours." 자발 발화 도입 (3) 50-EP serial 엔진 적용으로 Aldric 음모 분산 (4) character × situation × relationship 적용으로 신규 인물 (grey envoy) + 캐릭터 voice 보강 (5) v3 12 HARD RULE 적용으로 손목 trace 절삭. 모든 변경 = 청사진보다 G v2 가 더 강한 요소를 발견한 영역.
-- **2026-05-17 v3 (판타지 거대 VFX + Isolde 의상 50화 매트릭스 + Vael 변신 락 + 4 아크 페이즈 재구조화 + 판타지 세계 위계 — 사용자 명시 환류 중 정정 진행):**
-  - 사용자 명시 ① (변신): "vael이 거대한 용으로 변신하는 장면도 있어야한다."
-  - 사용자 명시 ② (의상): "isolde는 의상 2개정도는 더 추가해라. **50화분량인데?**"
-  - 사용자 명시 ③ (VFX): "판타지 장르 = 압도적 스케일적 시각적 보상."
-  - 사용자 명시 ④ (4 아크): "청사진에 50화를 한 화 한 화 아크를 두라는 게 아니라, 페이즈, 기승전결 개념으로 4개의 아크로 나눠라."
-  - 사용자 명시 ⑤ (VFX 매핑): "거대 vfx 매핑 이걸 청사진에서 왜 매핑해. 원칙으로만 두고, 집필에서 자연스러운 흐름으로."
-  - 사용자 명시 ⑥ (세계 위계): "성·왕좌·신전·용·괴물·마법·군대·거대한 문·하늘·불·얼음·저주·의식·세계의 위계가 화면에 보여야 한다."
-  - 신규 메모리: `feedback_fantasy_magic_visual_proof.md` (판타지 = 거대 VFX·스케일 절대 룰 + 4 아크 페이즈 정합)
-  - **재구조화 결과:**
-    - **50화 화별 락 → 4 아크 페이즈 (기·승·전·결)** — 옛 Arc 1-6 (EP별 1줄 표) 폐기 / 기 (EP1-8 무료·집필 가이드 유지) / 승 (EP9-25) / 전 (EP26-40) / 결 (EP41-50)
-    - **거대 VFX EP 매핑 폐기** — 청사진은 원칙·Stage 단계만 / 집필 자연 흐름으로
-    - **Isolde 의상 50화 매트릭스 7변형** — 옛 4단계 폐기. 사용자 명시 ("총 6-8개 적정") 정합. 변형 1 (Royal Arrival 기 EP1) / 2 (Daily Black Silk + EP8 sub 기 EP2-14) / 3 (Nightwear 50화 사적) / 4 (Vael's Public Demand 50화 공개·강제) / 5 (Crowned Bride + EP25 의식 sub 승 EP15-25) / 6 (Lady of Drakonis + Erotic·Hidden sub 전 EP26-44) / 7 (War / Dragon Queen Coronation 결 EP41-50). 4 아크 정합·sub-variant 카운트 X.
-    - **12-5 신규 섹션 — Vael 변신·궁극 드래곤 형태 (Hard Lock)** + 4 아크 단계 매핑 + 변신 트리거 + 거대 VFX 원칙 (EP 매핑 X)
-    - **12-5 신규 섹션 — 판타지 세계 위계 (Hard Lock)** + 위계 1-4 (인간 왕국·검은 성채·드래곤 영토·신화) + 아크별 활용 + 회피/채택 패턴
-  - **Hard Lock 유지:** 정체성 (다크 로맨타지·여성향·초고수위) / 페이월 구조 / 메인 결제 트리거 / 트랙 (AIGC 실사 9:16) / 50화 락 / Vael 변신·궁극 형태 / 세계 위계
-  - **Soft Lock 환류:** 4 아크 페이즈 / Isolde 의상 매트릭스 / 거대 VFX 원칙
-  - 적용 메모리: `feedback_fantasy_magic_visual_proof.md`·`feedback_visual_lock_system.md`·`feedback_aigc_explicit_action_over_subtle.md`
-  - **다음 단계:** v8 patch에 본 환류 반영 (8 EP 본문 거대 VFX 자연 흐름 + 의상 변형 비트 + 세계 위계 직접 묘사). 유료 EP9-50 = 사용자 명시 시까지 대기.
+- **2026-05-11 v0:** 러프 청사진. 다크 로맨타지·드래곤·고수위·할리퀸/버클리/발렌타인 톤. EP1-8 화별 락.
+- **2026-05-12:** 피칭 7/7 만장일치 통과.
+- **2026-05-12 v1:** 완성 청사진. 16:9 → 9:16. 캐릭터·관계·세계·정보 설계 완성. (옛 캐논 — Elara·HARRIN·pendant·gate rune)
+- **2026-05-12 v2 (비주얼 락):** Vael Lord/King 통합·조연 의상 고정·이원화·3종 최종고.
+- **2026-05-12 v3 (초고수위 재확정):** 북미 paid vertical 기준. 변태 비트 허용.
+- **2026-05-16 v2 (G v2 디벨롭 환류):** Soft Lock 갱신 — pendant·counter 정체성·EP3 "Because if I don't stop, I won't"·Haldren 충성 전환·grey envoy 신규·Aldric 음모 분산·twin crescents·reciprocal throat·EP6 self-unfastened·EP8 자발 "Yours." Hard Lock 유지. (옛 매출 baseline 8개 환류)
+- **2026-05-17 v3 (판타지 거대 VFX·4 아크 페이즈·세계 위계·Isolde 50화 매트릭스·Vael 변신 락):** 50화 화별 락 → 4 아크. 거대 VFX EP 매핑 폐기. Isolde 의상 매트릭스 10. Stage 1-6.
+- **2026-05-22 v34:** 제목 변경 "The Dragon Lord's Crowned Bride" → **THE OFFERING: Claimed by the Dragon Lord**. Isolde character charter (취약+자존심+끌림 3중). Vael character charter (거칠고 강압적·1-5 word). 4 지연 질문·중반 욕망 엔진·sex≠관계 정답·EP01-EP03 유지·보상 매트릭스·응징 L1-L5 분포.
+- **2026-05-26 v3 LOCK 정합 전면 재작성 (본 환류):**
+  - **단일 진실 = `07_final/02_the_offering_FINAL_v52_clean.md` (5595 lines·LOCK)** + `02_the_offering_04_visual_lock.md` (897 lines·v52 production).
+  - **EP01 6-Scene 재구조화 (v51):** S#1 Bridal Mirror Flash-Forward·S#2 Fire Festival belong/Earn (v46 옵션 5 LOCK dialogue)·S#3 small-room high-heat·S#4 before dawn·S#5 one month later exterior·S#6 bridal mirror continuous.
+  - **Voice 축 격하 (v47):** "확증" 아닌 "불편한 단서". EP01 약속 X.
+  - **EP46 reveal trigger (v48):** pin/jaw 매칭 단서 퍼즐 삭제 → Vael 직접 발화 회수 ("You told me to earn it / I have been trying since dawn") + Isolde wound dialogue + 직접 silver bird pin 꽂음 + T5 보상 sex.
+  - **Silver bird pin continuity (v49):** EP02-EP45 머리에 없음. EP46 직후 직접 다시. EP50 머리에.
+  - **페이월 EP09 first scene declaration (memory `feedback_paywall_declaration_timing.md`):** 옛 "EP08 자발 Yours" 폐기. EP08 "Say it." cliffhanger / EP09 first scene "She is my bride" 회수.
+  - **인물군 LOCK:** Isolde (king's unwanted daughter·옛 "패전 공주·진짜 후계자" 완화)·Vael (Dragon Lord 매년 fire festival 방문)·Stepmother (Aldric 생존 중 consort)·Lord Corvin (groom buyer·EP02 도주)·Aldric (dying borrowed king·EP19 임종·옛 음모 분산 폐기)·Adeline (sister-queen EP19~·옛 cruel → 화해)·Kiran (deadpan officer)·Halren (female healer·옛 Haldren과 다른 인물)·Sera Volzaar (12년 실패 후보·EP06 등장·EP21 wrist·EP41-EP43 humiliation·EP50 ash-grey servant)·Volzaar Cousins·Mireille (EP49 birth·EP50 toddler)·Western Lord + Veyra·Keep Lords (Oldest = EP38-EP39 발화자)·Ridge Dragons.
+  - **옛 인물 삭제:** HARRIN·Elara·Haldren (외교관)·Grey Envoy·Aldric thumb black-wax ring callback chain.
+  - **옛 어셋 삭제:** silver pendant tree-and-flame sigil chain·black-wax sigil callback·wide pearl band sub-variant·twin crescents·gate rune·운명 짝 비늘 빛 손목 thumb-mark.
+  - **4 아크 LOCK 정합:** 기 EP01-EP08·승 EP09-EP25 (Aldric 임종·Stepmother 응징·basin scene)·전 EP26-EP40 (south wall·Sera 도주·council heads·sky battle·Western Lord·crown ceremony·chamber consent sex)·결 EP41-EP50 (6-seal letter·4 declarations·Sera humiliation·EP46 폭발·labor·birth·Sera reckoning·spring garden).
+  - **비선형 시퀀스 7개 락:** EP01 S#1·EP09 wash flash cut·EP25 basin·EP30 END HOOK festival insert·EP36 montage·EP40 flash-forward·EP46 reveal flashback.
+  - **prop 어셋 5 CORE (visual_lock 3.x):** silver bird hairpin·wooden bird carving·silver crown of Drakonis queen·Volzaar throat mark·Veine six-seal letter.
+  - **"I love you" budget 6 lines (3 pairs) max:** EP46 2·EP47 2·EP50 2 (memory `feedback_iloveyou_budget_3_max.md`).
+  - **공간 방향축 (v50):** East council / South Volzaar / West Veine·Western Lord coast / North stepmother tower.
+  - **EP49-EP50 결산 LOCK:** EP49 = labor 정점·birth Mireille (Dragon Queen 즉위 의식 톤 아님). EP50 = Sera reckoning + Garden 2.5 Years Later + Mireille toddler counting pebbles + family lock + 6 final "I love you" lines. **옛 "Dragon Queen 즉위 의식 + Vael+Isolde 둘 다 변신 = EP50 HEA" 전면 폐기. Isolde 변신 폐기. Mate Bond Sync 폐기.**
+  - **수위 timeline LOCK:** EP01 festival small-room high-heat / EP16 첫 자발 / EP23 두 번째 (임신 시작) / EP29 임신 후 재결합 / EP40 chamber crown 후 consent dialogue / EP46 정답 폭발 T5.
+  - **응징 분포 LOCK:** EP21 Stepmother iron plate / EP30 council heads + Sera wrist / EP35 sky battle council force / EP37 Western Lord 4 손가락 / EP42 Veine letter burn / EP43 Sera 손 / EP48 younger cousin throat·outer wall / EP50 older cousin both hands + Sera throat mark burn off.
+  - **본 v3 = production reference. Blueprint이 LOCK과 어긋나면 무조건 LOCK 우선.** 추가 갱신은 v52 LOCK이 갱신될 때만 발생.

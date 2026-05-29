@@ -27,11 +27,17 @@
 - 5-8턴 모욕 누적·시청자 정보 비대칭·시그니처 호칭
 
 #### Gate 2 — Native Spoken English Gate
-**북미 배우가 말할 수 있는 대사인가:**
+**북미 배우가 말할 수 있는 대사인가 + 인간 vs 인간 자연 대화 느낌인가:**
 - 시적·연극톤·문어체 0건?
+- **🆕 대구·운율·rhyme·tri-colon anaphora·mirror echo 0건?** (`memory/feedback_no_theater_tone.md` 차원 3)
+- **🆕 1-3 단어 단독 턴 3턴 이상 연속 0건?** (티키타카 stage 콩트·차원 4)
+- **🆕 같은 화제 4 턴 이상 짧은 핑퐁 0건?** (기능 턴 제외·차원 4)
+- **🆕 정전 쓰레기 형태 (`One X. One Y. My Z. Now I N. The A was not B. ...`) 0건?**
+- **🆕 short 추구보다 인간 호흡 묶음이 우선되었나?** (차원 5)
 - 영어 히트작 (Alta·HowToBreak·MarriedDon) 대사 스타일 정합?
 - 즉시 이해되는 기능 대사?
 - 캐릭터 같은 체온으로 일관?
+- **🆕 소품에 plot 목매기 없는가?** (동일 prop 3+ 장면 / prop-anchored reveal trigger / motif 욕심 prop 반복 = `memory/feedback_vertical_protagonist_voice_ownership.md` 룰 5)
 
 #### Gate 3 — AIGC Visual/Production Gate
 **화면이 크고 선명하게 구현되는가:**

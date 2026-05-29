@@ -1,9 +1,9 @@
-BEWARE! THE OFFERING: Crowned by the Dragon Lord — VISUAL LOCK
+BEWARE! THE OFFERING: Claimed by the Dragon Lord — VISUAL LOCK
 
 0. Purpose
 9:16 vertical live-action AIGC character / prop / background asset lock.
 This is not a prompt sheet.
-This is the fixed design source for generating consistent assets for THE OFFERING v33.5.5 production.
+This is the fixed design source for generating consistent assets for THE OFFERING v52 production (LOCK 2026-05-26).
 
 1. Common Design Lock
 
@@ -124,16 +124,16 @@ Hair stays the same core style throughout.
 
 Looks
 
-Isolde Look 1 — Festival Incognito (EP01 S#1-S#3)
+Isolde Look 1 — Festival Incognito (EP01 S#2-S#4)
 Plain dark traveler's cloak (rain-soaked).
 Loose deep chestnut waves, wet at the ends; pinned briefly by Vael's silver bird hairpin mid-scene.
 Glamour mask (older, sharper face — VFX overlay, not wardrobe).
 Simple dark linen dress under the cloak, off-shoulder when revealed by Vael.
 Soft dark leather boots.
 No jewelry.
-Silver bird hairpin received from Vael mid-scene; left on the bedside table at dawn.
+Silver bird hairpin received from Vael during S#3 Small Room intimacy; left on the bedside table at S#4 Before Dawn departure.
 
-Isolde Look 2 — Bridal Mirror Veine White (EP01 S#5, EP02)
+Isolde Look 2 — Bridal Mirror Veine White (EP01 S#1 Flash-Forward + S#6 Continuous, EP02)
 Reused white Veine wedding gown.
 Long-sleeved, fitted bodice, soft pleated skirt.
 Pearl-strand half-up pinning at the back.
@@ -236,7 +236,7 @@ Hair stays fixed.
 
 Looks
 
-Vael Look 1 — Festival Incognito (EP01 S#1-S#3)
+Vael Look 1 — Festival Incognito (EP01 S#2-S#4)
 Plain dark traveler's coat, no Drakonis insignia.
 Black collarless shirt, top buttons loose.
 Plain dark trousers.
@@ -710,7 +710,7 @@ Furry tone.
 This is a dark romantasy + dragon romance + revenge-claim genre. Props are not load-bearing; high-heat, possession, punishment, and label reversal carry the show. Only the five core props below need dedicated asset development. Scene-specific objects (torn letters, iron execution plate, council heads, curved knives, garden pebbles, etc.) are minor production set-dressing and do not require their own asset locks.
 
 3.1 Silver Bird Hairpin (CORE)
-Owner path: Vael's mother → Vael → Isolde at EP01 → bedside table at EP01 dawn → Vael recovers → returned to Isolde at EP46 reveal.
+Owner path: Vael's mother → Vael → Isolde at EP01 S#3 → bedside table at S#4 dawn → Vael recovers → placed into her hair by Isolde herself at EP46 after the reveal.
 Design: small hammered silver pin, single carved bird at the head (lyre-like crest), one tiny chestnut stone.
 Function: identity-bond motif across the show — the single object that links the festival night to Vael across the full delay.
 Forbidden: tiara, forehead ornament, modern hair clip.
@@ -718,7 +718,7 @@ Forbidden: tiara, forehead ornament, modern hair clip.
 3.2 Wooden Bird Carving (CORE)
 Owner: Vael (his mother carved it).
 Design: small wooden bird carving, same silhouette as the silver hairpin, dark walnut grain.
-Function: appears in Vael's chamber late (EP38-46 window) as the second half of the silver-bird motif. EP46 reveal — Isolde sees both pieces together and the identity question closes.
+Function: appears in Vael's chamber late (EP38-46 window) as the second half of the silver-bird motif. EP46 — supporting prop after Vael's direct verbal confession ("It was you / It was me" / "You told me to earn it / I have been trying since dawn") closes the identity question. Bird motif closes with Vael's one-line confirmation: "The wooden one was hers. I had the silver one made from it."
 
 3.3 Silver Crown of Drakonis Queen (CORE)
 Owner: Drakonis keep treasury → Isolde at EP49 reckoning.
@@ -822,8 +822,8 @@ Tone: casual conference.
 Black-basalt outer wall, distant ridge in fog, dragon silhouettes drifting against the sky.
 Tone: external war reveal.
 
-4.21 Southern Sky (EP35 council battle)
-Open sky over southern wasteland, sixty-foot Vael plus his ridge pack against twelve council force in pack formation.
+4.21 Eastern Sky (EP35 council battle)
+Open sky over eastern wasteland, sixty-foot Vael plus his ridge pack against twelve council force in pack formation.
 Tone: large-scale VFX peak.
 
 4.22 Inner Garden (EP33-EP50)

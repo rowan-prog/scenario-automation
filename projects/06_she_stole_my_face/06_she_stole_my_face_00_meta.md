@@ -34,30 +34,42 @@
 
 ## 진행 상황
 
-**현재 단계 (2026-05-15 갱신):** **phase_3 완성 청사진 + 04_visual_lock 완료. 무료회차 집필 중단 (사용자 명시).**
+**현재 단계 (2026-05-27 갱신 2회차):** **🎬 FINAL v2 완성 — `07_final/06_she_stole_my_face_FINAL_v2.md`** (production-lock 가능 수준)
 
-**중단 사유 (사용자 명시 2026-05-15):**
-> "she stole은 무료회차 집필 중단하라, 비주얼락까지만 진행하라."
+이전 본:
+- FINAL v1 = phase_6 round 1 패치 후 통합 (`07_final/06_she_stole_my_face_FINAL_v1.md`)
+- FINAL v2 = v1 + 사용자 production-lock 진단 반영 (continuity sweep + EP09-15 재배치)
 
-**진행 가능 시점까지 보존:**
-- `06_she_stole_my_face_00_meta.md`
-- `06_she_stole_my_face_01_blueprint_rough.md`
-- `06_she_stole_my_face_02_pitch_deck.md`
-- `06_she_stole_my_face_03_pitch_outcome.md`
-- `06_she_stole_my_face_04_blueprint_full.md`
-- `06_she_stole_my_face_04_visual_lock.md`
+캐논 문서: `06_she_stole_my_face_05_canon_bible.md` v1 (단일 진실)
 
-**삭제된 산출물 (subagent 진행 중 중단):**
-- `premium_pilot/` 폴더 전체 (Reference Floor + Seed Pool Draft A·B 부분 생성 후 정지·삭제)
-
-### 메인 트랙 (현재 유효)
+### 메인 트랙
 - [x] phase_1 — 러프 청사진 (외부 복사, 2026-05-10)
 - [x] phase_2 — 피칭덱 (외부 복사, 2026-05-10)
-- [x] (03) 피칭 결과
-- [x] phase_3 — 완성 청사진 + 04_visual_lock (2026-05-12)
-- [ ] phase_4 / protocol_premium_pilot — **사용자 명시 중단** (재개 시 사용자 결정 필요)
-- [ ] phase_5 / phase_6 — 보류
-- [ ] phase_7 — 보류
+- [x] (03) 피칭 결과 (4/7 통과)
+- [x] phase_3 — 완성 청사진 + 04_visual_lock v3 (2026-05-12 / 양식 v2 통합 2026-05-27)
+- [x] phase_4 — 50 EP 집필 (2026-05-27 · 6 batch 병렬·EP01-50 본문 영어 100%)
+- [x] phase_5 — 검토 라운드 1 (Three-Gate PATCH THEN LOCK · 페르소나 04 HOLD · 페르소나 09 약함)
+- [x] phase_6 — 패치 라운드 1 (4 batch 병렬·총 ~106 surgical patch)
+- [x] phase_7 v1 통합 (8,349 줄 · 375 KB)
+- [x] **사용자 production-lock 진단 반영:**
+  - Canon bible 작성 (`06_05_canon_bible.md` v1)
+  - 전역 continuity sweep (30 EPs·10 카테고리 0건 검증)
+  - EP09-15 paid opening 재배치 (Mara 즉시 반격·necklace 회수 EP12·Halcyon 진입 EP14·Victoria private apology EP15)
+- [x] **phase_7 v2 통합 (8,468 줄 · 383 KB · 7 hard gate + 16 폐기 어휘 gate 모두 통과)**
+
+### FINAL v1 검수 결과 (2026-05-27)
+- 본문 한국어: 0건 ✅
+- Hard Cut 마커: EP01-49 (49건) ✅
+- Fade Out: EP50 (1건) ✅
+- 영상 리듬 블록 (MONTAGE/VO/FLASHBACK/INSERT/INTERCUT): 50/50 EP ≥1건 ✅
+- Per Visual Lock 메타 누수: 0건 ✅
+- 푸터 로그·검토 산문·function/information/cut 헤더: 0건 ✅
+
+### 남은 과제 (선택·라운드 3)
+- final-consolidator 검수에서 여전히 약함 EP: EP02 (timeline density) / EP13 (Ethan 사과 softening 위험) / EP38 (procedural mid-act lull)
+- 페르소나 09 약함 EP 중 EP18·19·20·25·26·29·33·42·44·46·48·50 일부는 round 1·v1→v2 패치로 회복·재검토 필요
+- 후반 EP40대·EP49-50 vertical 압축 (사용자 spec: 무료 850-1150·유료 900-1300·피날레 1500 안팎)
+- 라운드 3 = 약함 EP 3-5개 surgical patch 후 FINAL v3 검토
 
 ## 활성화 페르소나
 - 제작 페르소나 01-07 (전체)
