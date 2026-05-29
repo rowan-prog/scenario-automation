@@ -1,8 +1,8 @@
-# SHE STOLE MY FACE — Master Continuity Bible (캐논 고정 v1 · 2026-05-27)
+# SHE STOLE MY FACE — Master Continuity Bible (⛔ DEPRECATED · 2026-05-30)
 
-> 사용자 production-lock 진단 (2026-05-27) 후 전역 캐논 고정 문서.
-> **이 문서가 단일 진실.** 모든 EP 본문·청사진·비주얼 락은 이 캐논에 맞춰야 한다.
-> 본 문서를 먼저 확정한 뒤 EP01-50 전역 치환·재배치 패스 진행.
+> ⛔ **이 문서는 폐기됨.** v1(2026-05-27)은 구 증거-수사-이복자매 엔진 기준이라 현재 본문(v37)과 충돌한다.
+> **연속성·캐논 단일 출처 = `06_she_stole_my_face_04_blueprint_full.md` (v2) §12-8 + `07_final/06_she_stole_my_face_FINAL_v37.md`.**
+> 아래 본문은 역사 기록용. **사용 금지** — 특히 Halcyon Trust·Julian Voss·"Mara = Helena 비밀 딸/이복자매"·Milo Hayes·라이브 카메라 신호·EP35 bloodline 폭로 = 전부 폐기됨. (구 "이 문서가 단일 진실/우선" 조항 무효.)
 
 ---
 

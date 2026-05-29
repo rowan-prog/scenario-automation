@@ -34,7 +34,9 @@
 
 ## 진행 상황
 
-**현재 단계 (2026-05-27 갱신 2회차):** **🎬 FINAL v2 완성 — `07_final/06_she_stole_my_face_FINAL_v2.md`** (production-lock 가능 수준)
+**현재 단계 (2026-05-30 갱신):** **🎬🔒 FINAL v37 — `07_final/06_she_stole_my_face_FINAL_v37.md` — PRODUCTION-LOCK** (v36까지 톤·구조 정리 → v37 외부 시청자 페르소나 4인 패널이 만장일치로 짚은 #1 구조 결함(여주 46화 수동·중반 반복·페이월 하향·결말 펀치 Noah) 척추 재설계: Lena 능동화(EP06 무기→EP08 선언→EP24 보이는 승점→EP48 **Lena가 직접 결정타**→EP49 씨앗 회수). fresh-eyes 정합성 패스 HIGH 1건 수정 후 LOCK. 상세 = CLAUDE.md 작품 테이블 단일 출처.)
+
+**환류·전달 (2026-05-30):** 청사진 v2 + 비주얼락 v4 v37 동기화 완료. 캐논 팩트는 청사진 §12-8로 흡수, `05_canon_bible.md`는 ⛔폐기(연속성 단일 출처 = 청사진 §12-8 + FINAL v37). 제작 전달본 신규: **`06_she_stole_my_face_PRODUCTION_HANDOFF_v37.md`** (핵심만·주연급 인물/의상 EP표·핵심 엔진·시각 must·제작 룰[지문 자율 보정 OK·대사 변경 금지=사전요청]).
 
 이전 본:
 - FINAL v1 = phase_6 round 1 패치 후 통합 (`07_final/06_she_stole_my_face_FINAL_v1.md`)

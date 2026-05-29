@@ -7,7 +7,7 @@
 
 # SHE STOLE MY FACE — EP01
 
-## S#1. Glenmoor Cemetery · Thursday Afternoon
+## S#1. Glenmoor Cemetery · Afternoon
 
 Lena at her mother's headstone. HELENA STERLING. Pendant in palm. LUMEN MEUM engraved.
 
@@ -23,7 +23,7 @@ LENA
 (small smile)
 Coming.
 
-## S#2. Cross Manor — Ballroom · Thursday Evening
+## S#2. Cross Manor — Ballroom · Evening
 
 VICTORIA at the rail, cold. ETHAN at his cufflinks. No Mara in the room.
 
@@ -58,7 +58,7 @@ Don't keep us.
 
 She steps out.
 
-## S#3. Brandt's Clinic · Thursday Evening · Right Before the Toast
+## S#3. Brandt's Clinic · Evening · Right Before the Toast
 
 Private back room. Mirror wall. Nurse in a surgical mask, cap pulled low. An assistant in scrubs, surgical mask, hair cap — back turned, prepping a syringe at the counter.
 
@@ -104,7 +104,7 @@ She unclasps Lena's pendant. Slides it onto her own neck.
 
 Lena's eyes flutter shut.
 
-## S#4. Coastal Road · Thursday Night · Rain
+## S#4. Coastal Road · Night · Rain
 
 Lena unconscious in the passenger seat of her own car. Mara at the wheel in scrubs over a slip — *not* the gown. Lena's pendant. Lena's face.
 
@@ -152,7 +152,7 @@ Mara peels the scrubs off. Slides into the duplicate of Lena's engagement gown �
 
 Sedan pulls onto the highway. Cross Manor twelve minutes out.
 
-## S#6. Cross Manor — Ballroom · Thursday Night · Live
+## S#6. Cross Manor — Ballroom · Night · Live
 
 Mara at the podium. Lena's gown. Lena's pendant. Lena's face. ETHAN's hand on the small of her back.
 
@@ -381,7 +381,7 @@ Hard Cut.
 
 # SHE STOLE MY FACE — EP04
 
-## S#1. Noah's Penthouse · Friday Morning
+## S#1. Noah's Penthouse · Morning
 
 Floor-to-ceiling glass. Manhattan. Lena in a black cashmere robe — his. Bandage clean. Coffee.
 
@@ -443,12 +443,12 @@ KARPOV
 Cross retains us on six contracts. There are signed —
 
 NOAH
-Cross retains nothing of mine. I dropped them last night. Legal can bill me the break fees. Pack your folder, Mr. Karpov. The Cross liaison desk is closed.
+Cross retains nothing of mine. I dropped them last night. Legal can bill me the break fees. Pack your folder, the Cross liaison. The Cross liaison desk is closed.
 
-Karpov doesn't argue. Stands. Slow. Picks up his folder.
+The liaison doesn't argue. Stands. Slow. Picks up his folder.
 
 [KEY CAMERA]
-- ECU Karpov's hand on the Cross seal · slow
+- ECU The liaison's hand on the Cross seal · slow
 - ECU eleven other executives watching · learning the rules
 - ECU Lena's hand at her own throat where the pendant should be
 
@@ -456,7 +456,7 @@ NOAH
 (to the room)
 Either you take her at her word because I take her at mine. Or you walk out with him.
 
-No one moves. Karpov walks out alone. Door closes.
+No one moves. The liaison walks out alone. Door closes.
 
 NOAH
 (to Lena, quiet)
@@ -803,7 +803,7 @@ Hard Cut.
 ---
 
 # SHE STOLE MY FACE — EP07
-## S#1. Cross Manor — Service Wing · Saturday Early Evening · Public Engagement Blessing
+## S#1. Cross Manor — Service Wing · Early Evening · Public Engagement Blessing
 
 Catering staff in white. Noah's people swapped in three. Lena in a wig, catering uniform, garment bag.
 
@@ -993,59 +993,53 @@ Lena. If you can hear this. I love you. Come home.
 
 Cross logo. Sterling logo. Side by side. Below — *HEIRESS SAFE AFTER STALKER INCIDENT — CROSS FAMILY CLAIMS STALKER REMOVED FROM MANOR.*
 
-Lena lowers the phone. Doesn't cry.
+Lena lowers the phone.
+
+On the TV — Mara isn't done.
+
+MARA (ON SCREEN)
+And — Ethan and I have something else. We were going to wait. After tonight we don't want to.
+
+She lifts the pendant from her own neck. Holds it to the camera. Slow.
+
+MARA (ON SCREEN)
+(sweet)
+We're moving the wedding up. Seven days from tonight. I'll wear my mother's pendant down the aisle. She'd want me to.
+
+The lower-third locks in:
+*STERLING-CROSS WEDDING — SEVEN DAYS — FAMILY CONFIRMS.*
+
+Lena stands. Walks to the window. Hands shaking. Doesn't cry.
+
+LENA
+Seven days.
 
 NOAH
-(crouched beside her)
-She's good in front of the cameras. She practiced.
+Seven days.
 
 LENA
-For twenty years.
+She's walking down an aisle in front of the world with my mother's necklace on her neck. To marry the man who used to kiss me good morning.
 
 NOAH
-Tonight just hurts. That's all tonight is.
+She is.
 
 LENA
-She kissed my mother's pendant in front of the world. With my mouth.
+(quiet)
+Then I take it off her in front of every camera at that altar.
 
 NOAH
-I know.
+You'll have everything you need.
 
-LENA
-She'll do it again at the wedding. And the foundation gala. And in the family pew at Christmas. She'll wear me until people forget my voice.
+She presses her forehead to the cold glass.
 
-NOAH
-Not if I'm in the room.
-
-LENA
-You're in the room. Cross still owns the room.
-
-(beat)
-
-I want it back. Every chair she sat in. Every name she said. Every hand she touched.
-
-NOAH
-Then we take it back. One chair at a time.
-
-LENA
-(low)
-She kissed the pendant for the camera.
-
-[END HOOK]
-TV cuts to a CHYRON: *MARA SPEAKS — "She was my best friend. I just want her safe."*
-
-Below the lower-third — small text scroll:
-*Sterling-Cross families remain united after incident. Statement forthcoming.*
-
-Lena's hand on the floor. Slow. Closes into a fist.
-
-LENA
-(quiet, to no one)
-She kissed it.
+[KEY CAMERA]
+- ECU Lena's reflection in the window · the empty hollow at her throat
+- ECU her hand closing into a fist against the glass
+- WIDE Manhattan below
 
 [GRAPHIC]
 > EP 09 NOW.
-> HOW SHE TAKES IT BACK.
+> SEVEN DAYS UNTIL SHE WALKS DOWN MY AISLE.
 
 Hard Cut.
 
@@ -1053,7 +1047,7 @@ Hard Cut.
 
 # SHE STOLE MY FACE — EP09
 
-## S#1. Noah's Penthouse Lobby · Friday Morning
+## S#1. Noah's Penthouse Lobby · Morning
 
 A black SUV at the curb. Three Cross attorneys plus a uniformed deputy. Court paper in hand.
 
@@ -1071,7 +1065,7 @@ LEAD ATTORNEY
 Family member, sworn statement, doctor co-sign. Standard.
 
 NOAH
-The doctor co-sign is a man I employ now. Dr. Petrov accepted a position with my firm yesterday. His signatures of the past forty-eight hours are under review.
+The doctor co-sign is a man I employ now. the doctor accepted a position with my firm yesterday. His signatures of the past forty-eight hours are under review.
 
 (beat)
 
@@ -1144,7 +1138,7 @@ Hard Cut.
 
 # SHE STOLE MY FACE — EP10
 
-## S#1. Penthouse — Closet · Saturday Morning
+## S#1. Penthouse — Closet · Morning
 
 Lena's wardrobe being rebuilt. Three of Noah's staff. Soft cotton dress on her — her own size, finally.
 
@@ -1185,6 +1179,8 @@ Right.
 
 [KEY CAMERA]
 - ECU Mara's hand on the lounger · grip too tight
+- ECU Mara's other hand · clutching a folded photograph against her thigh · *Lena at ten · the one childhood photo Mara kept all twenty years*
+- INSERT Mara walks inside · pours a wine over the photo · the print blackens
 
 ## S#4. Penthouse · Continuous
 
@@ -1213,7 +1209,7 @@ Hard Cut.
 
 # SHE STOLE MY FACE — EP11
 
-## S#1. Glenmoor Cemetery · Saturday Late Morning
+## S#1. Glenmoor Cemetery · Late Morning
 
 Helena Sterling's headstone. White peonies already on the grave.
 
@@ -1261,7 +1257,7 @@ Not here. Not yet.
 
 (beat)
 
-But I'll know it every Sunday when you visit my mother to be photographed. You'll feel my knowing in the back of your neck.
+But I'll know it every week when you visit my mother to be photographed. You'll feel my knowing in the back of your neck.
 
 [KEY CAMERA]
 - ECU Mara's hand at her neck · involuntary
@@ -1293,7 +1289,7 @@ Hard Cut.
 
 # SHE STOLE MY FACE — EP12
 
-## S#1. Noah's Office · Monday Afternoon
+## S#1. Noah's Office · Afternoon
 
 Lena in jeans and a Sterling cardigan — her mother's. Working a list with Noah's lead PR.
 
@@ -1301,7 +1297,7 @@ PR LEAD
 Three Sterling foundation people willing to take a private call. They want to hear your voice before they decide.
 
 LENA
-Wednesday.
+Soon.
 
 Phone rings. TESSA.
 
@@ -1353,10 +1349,10 @@ Lena opens one. Helena's handwriting on a foundation grant letter. Her hand on t
 [END HOOK]
 NOAH
 (at the doorway)
-Three Sterling voices Wednesday. Off-record.
+Three Sterling voices this week. Off-record.
 
 LENA
-Wednesday.
+Soon.
 
 She closes the box. Holds her pendant. *LUMEN MEUM* catches the lamp.
 
@@ -1366,12 +1362,12 @@ Hard Cut.
 
 # SHE STOLE MY FACE — EP13
 
-## S#1. Penthouse · Wednesday Evening
+## S#1. Penthouse · Evening
 
 The Sterling phone call done. Three voices on speaker — careful, half-believing.
 
 STERLING FORMER VP (V.O.)
-Ms. Sterling — the woman in the engagement broadcast signed paperwork in our office Tuesday. We didn't refuse her. I'm sorry.
+Ms. Sterling — the woman in the engagement broadcast signed paperwork in our office last week. We didn't refuse her. I'm sorry.
 
 LENA
 (quiet)
@@ -1393,7 +1389,7 @@ Click. Three off. Lena leans back. Hands shaking.
 Noah sits beside her on the couch. Doesn't touch her yet.
 
 NOAH
-Three quiet allies. By Friday, six.
+Three quiet allies. By next week, six.
 
 LENA
 And by next month — what.
@@ -1446,13 +1442,24 @@ Mara going through Ethan's phone while he showers. Photo notification on her own
 - ECU Mara's fingers on Ethan's phone · white
 
 [END HOOK]
-She deletes the notification. Saves the photo to her own cloud. Sets the phone back.
-
-When Ethan comes out she smiles like nothing happened.
+She deletes the notification. Saves the photo to her own cloud. Picks up a burner from her vanity drawer.
 
 MARA
-(soft)
-Let's go to bed.
+(low, into the line)
+I want her out of his penthouse by tomorrow. I don't care what it costs. I don't care who you have to put on the doorstep at three in the morning. *Out.*
+
+She hangs up.
+
+Sets the burner back. Sets her wedding ring on top of it.
+
+When Ethan comes out of the shower she smiles like nothing happened.
+
+MARA
+(sweet)
+Let's go to bed, honey.
+
+[KEY CAMERA]
+- ECU the burner under Mara's wedding ring · still warm
 
 Hard Cut.
 
@@ -1460,7 +1467,7 @@ Hard Cut.
 
 # SHE STOLE MY FACE — EP14
 
-## S#1. Cross Manor — Dining Room · Friday Night
+## S#1. Cross Manor — Dining Room · Night
 
 Twelve at the table. Victoria at the head. Ethan beside Mara. Mara in Helena's pearl style — replica.
 
@@ -1500,6 +1507,7 @@ Mara excuses herself. Powder room. Locks the door. Presses her forehead to the m
 [KEY CAMERA]
 - ECU Mara's reflection · for one full second the mouth shape isn't Lena's
 - She corrects it
+- ECU Mara mouthing *Hel-EH-nah* at the mirror · trying it · *Hel-EH-nah* · *Hel-AY-nah* · cannot pick which is right anymore
 
 ## S#3. Outside the Powder Room · Continuous
 
@@ -1546,7 +1554,7 @@ Hard Cut.
 
 # SHE STOLE MY FACE — EP15
 
-## S#1. Penthouse — Bedroom · Saturday Night
+## S#1. Penthouse — Bedroom · Night
 
 Low light. Lena in a slip — her own. Noah at the foot of the bed. Suit jacket off. Shirt half-open.
 
@@ -1622,7 +1630,7 @@ Hard Cut.
 
 # SHE STOLE MY FACE — EP16
 
-## S#1. Cross Foundation Gala · Saturday Night
+## S#1. Cross Foundation Gala · Night
 
 Black tie. Twelve hundred guests. Mara at the podium in a gold gown. Replica pendant at her throat.
 
@@ -1661,14 +1669,16 @@ The ones who built the foundation with her.
 NOAH
 And one of them just sent me a private email.
 
-He turns his phone. *I'd like to meet the woman in the Penthouse. Tuesday. — H.M.*
+He turns his phone. *I'd like to meet the woman in the Penthouse. Soon. — H.M.*
 
 LENA
 Henry Marlow. My mother's oldest friend.
 
 ## S#3. Cross Manor — Bedroom · Late Night
 
-Mara getting out of the gown. Ethan watching her.
+Mara getting out of the gown. Yanks the dress over her head — too hard. Hears a tear. Doesn't stop. Strips fully·throws the gold gown on the floor·grinds her heel into the bodice.
+
+Ethan watching her from the doorway.
 
 ETHAN
 Tonight felt strange.
@@ -1708,7 +1718,7 @@ Hard Cut.
 
 # SHE STOLE MY FACE — EP17
 
-## S#1. Penthouse — Library · Tuesday Late Morning
+## S#1. Penthouse — Library · Late Morning
 
 Quiet. Old books. Lena in a navy sweater. HENRY MARLOW — seventies, white hair, sharp eyes — across from her.
 
@@ -1740,6 +1750,13 @@ Marlow's mouth twitches. Sets his coat down.
 
 MARLOW
 Helena's daughter.
+
+He reaches into his coat. Pulls out a small framed photograph. Helena at thirty — pregnant — sitting on the foundation lobby steps the day she signed the lease.
+
+MARLOW
+She gave me this the week you were born. I've had it on my desk for thirty years. It's yours now.
+
+He sets it on the table between them.
 
 ## S#2. Continuous
 
@@ -1815,7 +1832,7 @@ Hard Cut.
 
 # SHE STOLE MY FACE — EP18
 
-## S#1. Aunt Bea's Townhouse · Thursday Late Morning
+## S#1. Aunt Bea's Townhouse · Late Morning
 
 AUNT BEA — sixties, Helena's older sister, formidable. Hasn't seen Lena in nine months.
 
@@ -1827,7 +1844,7 @@ Sit.
 Lena sits.
 
 BEA
-The other one came here Sunday. Brought lilies. Said your mother's name twice in the wrong pronunciation.
+The other one came here this week. Brought lilies. Said your mother's name twice in the wrong pronunciation.
 
 LENA
 *Hel-EH-nah.* Not *Hel-AY-nah.*
@@ -1848,7 +1865,7 @@ I sat in this parlor when you were five and your mother told me she was leaving 
 
 (beat)
 
-The woman who came Sunday arranged the lilies and used the wrong pronunciation and left.
+The woman who came earlier this week arranged the lilies and used the wrong pronunciation and left.
 
 LENA
 Will you tell anyone.
@@ -1911,7 +1928,7 @@ Hard Cut.
 
 # SHE STOLE MY FACE — EP19
 
-## S#1. Cross Manor — Breakfast Room · Friday Morning
+## S#1. Cross Manor — Breakfast Room · Morning
 
 Mara at the table. Tablet. Tabloid scrolling.
 
@@ -1961,6 +1978,7 @@ Returns to his paper.
 [KEY CAMERA]
 - ECU Mara's hand on the tablet · knuckles white
 - ECU Ethan's eyes still on the paper · he hasn't read a line
+- INSERT Ethan's hand under the table · opening a small leather notebook · writing one word in pencil: *Halloran.* Pocketing it.
 
 ## S#3. Cross Manor — Garden · Late Morning
 
@@ -2019,7 +2037,7 @@ Hard Cut.
 
 # SHE STOLE MY FACE — EP20
 
-## S#1. Sterling Foundation HQ — Lobby · Tuesday Morning
+## S#1. Sterling Foundation HQ — Lobby · Morning
 
 Lena enters through the side door. Marlow inside.
 
@@ -2056,7 +2074,13 @@ Mara opening an envelope. Sterling Foundation seal.
 
 Three readings.
 
-Sets it down. Tries Marlow's number. Voicemail.
+She walks to the locked drawer. Pulls a manila envelope — *MARA EILEEN VOSS · birth certificate · original.* Looks at it. Looks at the Sterling Foundation letter. Looks at her own name on the certificate.
+
+She tears it in half. Tears it again. Tears it until the strips are smaller than her thumb. Sweeps them into the wastebasket.
+
+Then realizes she just destroyed the only paper that proves she was ever anyone.
+
+Sets the Sterling letter down. Tries Marlow's number. Voicemail.
 
 ## S#3. Continuous
 
@@ -2114,7 +2138,7 @@ Hard Cut.
 
 # SHE STOLE MY FACE — EP21
 
-## S#1. Sterling Cousin's Engagement Party · Saturday Night
+## S#1. Sterling Cousin's Engagement Party · Night
 
 A country estate. Two hundred guests. Lena's cousin OLIVIA circulating. Mara on Ethan's arm in the receiving line.
 
@@ -2219,7 +2243,7 @@ Hard Cut.
 
 # SHE STOLE MY FACE — EP22
 
-## S#1. Cross Manor — Ethan's Study · Sunday Morning
+## S#1. Cross Manor — Ethan's Study · Morning
 
 Ethan reading. Mara enters. Closes the door.
 
@@ -2320,7 +2344,7 @@ Hard Cut.
 
 # SHE STOLE MY FACE — EP23
 
-## S#1. Lake House · Saturday Afternoon
+## S#1. Lake House · Afternoon
 
 Noah's private property. No staff this weekend.
 
@@ -2440,7 +2464,7 @@ Hard Cut.
 
 # SHE STOLE MY FACE — EP24
 
-## S#1. Cross Manor — Mara's Dressing Room · Monday Morning
+## S#1. Cross Manor — Mara's Dressing Room · Morning
 
 Mara at the vanity. Phone. Eileen on speaker.
 
@@ -2560,7 +2584,7 @@ Hard Cut.
 
 # SHE STOLE MY FACE — EP25
 
-## S#1. Penthouse · Monday Late Morning
+## S#1. Penthouse · Late Morning
 
 Bea on speaker.
 
@@ -2646,7 +2670,7 @@ Hard Cut.
 
 # SHE STOLE MY FACE — EP26
 
-## S#1. Cross Manor — Mara's Suite · Tuesday Morning
+## S#1. Cross Manor — Mara's Suite · Morning
 
 Mara on the floor of her closet. Phone. Empty calls.
 
@@ -2706,7 +2730,7 @@ He walks out.
 He pours a brandy. Doesn't drink it. Picks up the phone.
 
 ETHAN
-Dr. Petrov, please.
+the doctor, please.
 
 A pause.
 
@@ -2720,7 +2744,7 @@ He sets the phone down.
 Noah at the kitchen counter. Tablet.
 
 NOAH
-He called Petrov's old office.
+He called the old office of Cross's doctor.
 
 LENA
 The doctor Cross used.
@@ -2747,7 +2771,7 @@ Hard Cut.
 
 # SHE STOLE MY FACE — EP27
 
-## S#1. Penthouse — Library · Wednesday Late Morning
+## S#1. Penthouse — Library · Late Morning
 
 Marlow on the couch. Bea on the chair. Cordelia Halloran by the window. Three Sterling former employees on speaker.
 
@@ -2758,7 +2782,7 @@ MARLOW
 She won't. She'll lose the seat by default.
 
 CORDELIA
-Then we vote in Beatrice Whitmore.
+Then we vote in Aunt Bea.
 
 LENA
 Auntie Bea.
@@ -2775,7 +2799,7 @@ Thank you.
 Cordelia turns from the window.
 
 CORDELIA
-A private dinner next Thursday. Cross hosts. Sterling-Cross wedding committee. Twelve people. I'll be there. Bea. Marlow.
+A private dinner next week. Cross hosts. Sterling-Cross wedding committee. Twelve people. I'll be there. Bea. Marlow.
 
 LENA
 Mara will be there.
@@ -2805,7 +2829,7 @@ She's lost weight. Cheekbones harder.
 Phone vibrates. ETHAN.
 
 ETHAN (V.O.)
-Wedding committee dinner. Thursday. Eight at the manor. Aunt Bea. Marlow. Halloran.
+Wedding committee dinner. Soon. Eight at the manor. Aunt Bea. Marlow. Halloran.
 
 MARA
 (carefully)
@@ -2815,14 +2839,14 @@ ETHAN
 They asked specifically.
 
 MARA
-Then Thursday.
+Then this week.
 
 ETHAN
 Mara.
 
 (pause)
 
-Be your best Thursday.
+Be your best this week.
 
 He hangs up.
 
@@ -2833,11 +2857,12 @@ She sets the phone down. Hand still shaking.
 [KEY CAMERA]
 - ECU Mara's face — the mask cracks visibly for the first time, in private
 - ECU her hand drops the foundation cream · it shatters on the tile
+- ECU Mara kneeling barefoot in the broken glass · palm pressing down · *blood*
 
 [END HOOK]
-She stares at the shattered jar for a long beat.
+She stares at the shattered jar. Doesn't pick it up. Doesn't move her bleeding hand off the glass.
 
-Doesn't pick it up.
+A single drop hits the tile.
 
 Hard Cut.
 
@@ -2845,7 +2870,7 @@ Hard Cut.
 
 # SHE STOLE MY FACE — EP28
 
-## S#1. Cross Manor — Drawing Room · Thursday Evening
+## S#1. Cross Manor — Drawing Room · Evening
 
 Twelve at the table. Cross china. Mara at Ethan's right. Bea opposite. Marlow beside Bea. Cordelia two seats down.
 
@@ -2943,7 +2968,7 @@ Hard Cut.
 
 # SHE STOLE MY FACE — EP29
 
-## S#1. Cross Manor — Ethan's Study · Friday Afternoon
+## S#1. Cross Manor — Ethan's Study · Afternoon
 
 Ethan alone. Engagement photo on his desk. Mara in his arms. Smiling.
 
@@ -2974,7 +2999,7 @@ LENA
 She left Mara.
 
 NOAH
-She left Mara holding the bag. Mara doesn't know yet — Eileen blocked all the channels. Sunday Mara figures it out. By next Thursday she walks into the next wedding dinner with no instructor in her ear.
+She left Mara holding the bag. Mara doesn't know yet — Eileen blocked all the channels. Soon Mara figures it out. By next week she walks into the next wedding dinner with no instructor in her ear.
 
 LENA
 And Ethan watches.
@@ -2982,7 +3007,7 @@ And Ethan watches.
 NOAH
 And Ethan watches.
 
-## S#4. Lake House · Saturday Morning
+## S#4. Lake House · Morning
 
 Lena at the dock. Pesto in the shallows. Coffee.
 
@@ -3025,7 +3050,7 @@ Hard Cut.
 
 # SHE STOLE MY FACE — EP30
 
-## S#1. Cross Manor — Breakfast Room · Sunday Morning
+## S#1. Cross Manor — Breakfast Room · Morning
 
 Ethan at the table. Coffee. Tablet.
 
@@ -3137,17 +3162,17 @@ Hard Cut.
 
 # SHE STOLE MY FACE — EP31
 
-## S#1. Sterling Foundation — Board Room · Tuesday Morning
+## S#1. Sterling Foundation — Board Room · Morning
 
 The empty seat. Marlow at the head. Bea beside it. Six other board members.
 
 MARLOW
-The vote. Candidates Mara Sterling and Beatrice Whitmore. Ms. Sterling has not submitted required birth documentation within sixty days. Per bylaws Section 4.7, her nomination is withdrawn.
+The vote. Two candidates — Mara Sterling and Helena's sister Beatrice. Ms. Sterling has not submitted the required birth documentation. Her nomination is withdrawn.
 
 A small murmur. No surprise.
 
 MARLOW
-Ms. Whitmore is sole candidate. Vote.
+Beatrice Sterling is sole candidate. Vote.
 
 Eight ayes. No nays.
 
@@ -3169,7 +3194,7 @@ Doesn't cry.
 Bea on the phone.
 
 BEA (V.O.)
-Eight to nothing. Whitmore takes the seat. I take her chair next year. The year after — yours.
+Eight to nothing. I take the seat. The chair sits with the family. The year after — yours.
 
 LENA
 Thank you, Auntie.
@@ -3193,7 +3218,7 @@ In two years it's yours.
 Mara in bed when Ethan comes in. Sits on the edge.
 
 ETHAN
-The foundation seat went to Beatrice Whitmore today.
+The foundation seat went to Aunt Bea today.
 
 MARA
 (into the pillow)
@@ -3239,7 +3264,7 @@ Hard Cut.
 
 # SHE STOLE MY FACE — EP32
 
-## S#1. Cross Manor — Mara's Suite · Wednesday Morning
+## S#1. Cross Manor — Mara's Suite · Morning
 
 Mara at the desk. New burner. Dialing from memory.
 
@@ -3251,7 +3276,11 @@ Mom. I know you're getting these.
 
 I'm not taking the fall by myself. If you don't help me through the next three weeks I'll burn the whole thing down at the wedding. I'll stand at the altar and tell the world.
 
-She lets the threat hang.
+She lets the threat hang. Then — slowly — picks up a heavy crystal paperweight off the desk and hurls it at the floor-length mirror.
+
+[KEY CAMERA]
+- WIDE the mirror shattering · Mara's reflection breaking into seven women
+- ECU Mara breathing hard · standing in the broken pieces
 
 MARA
 Twelve hours. Or I do it.
@@ -3333,7 +3362,7 @@ Hard Cut.
 
 # SHE STOLE MY FACE — EP33
 
-## S#1. Cross Manor — Mara's Suite · Thursday Morning
+## S#1. Cross Manor — Mara's Suite · Morning
 
 Mara waking. Ethan's side unused. No missed calls.
 
@@ -3447,7 +3476,7 @@ Hard Cut.
 
 # SHE STOLE MY FACE — EP34
 
-## S#1. Cross Manor — Foyer · Thursday Afternoon
+## S#1. Cross Manor — Foyer · Afternoon
 
 Mara still on the floor. The photograph between her knees.
 
@@ -3641,7 +3670,7 @@ Hard Cut.
 
 # SHE STOLE MY FACE — EP36
 
-## S#1. Cross Manor — Empty · Friday Morning
+## S#1. Cross Manor — Empty · Morning
 
 The estate. Mara's suite stripped overnight by Victoria's staff. Replica pendant gone. Wedding photos pulled off the walls.
 
@@ -3747,7 +3776,7 @@ Hard Cut.
 
 # SHE STOLE MY FACE — EP37
 
-## S#1. Lake House — Front Lawn · Saturday Morning
+## S#1. Lake House — Front Lawn · Morning
 
 White folding chairs being set up. Forty seats. Pesto running between the legs.
 
@@ -3772,7 +3801,7 @@ LENA
 Thank you, Auntie.
 
 BEA
-Cordelia comes Sunday. Marlow Monday. Forty guests total. All of them know.
+Cordelia comes early. Marlow the day after. Forty guests total. All of them know.
 
 LENA
 All forty.
@@ -3817,7 +3846,7 @@ She closes the magazine. Looks at the sea.
 
 She lifts her hand to her own throat. The hollow there. Hers.
 
-## S#4. Lake House — Evening
+## S#4. Lake House — · Evening
 
 Lena and Noah on the dock. Pesto. Sunset.
 
@@ -3843,7 +3872,7 @@ Hard Cut.
 
 # SHE STOLE MY FACE — EP38
 
-## S#1. Lake House — Dock · Sunday Morning
+## S#1. Lake House — Dock · Morning
 
 A small announcement gathering. Forty people. Cordelia. Marlow. Bea. Olivia. Sterling former employees. Noah's family. No press.
 
@@ -3865,7 +3894,7 @@ I owe most of you a longer apology than I can give in five minutes. So instead �
 
 (beat)
 
-I am Lena Sterling. I am marrying Noah Keene on Saturday. From today forward, when somebody asks who I am — you answer.
+I am Lena Sterling. I am marrying Noah Keene this week. From today forward, when somebody asks who I am — you answer.
 
 The forty raise their flutes. Some crying. Bea isn't.
 
@@ -3929,7 +3958,7 @@ Hard Cut.
 
 # SHE STOLE MY FACE — EP39
 
-## S#1. Lake House — Front Porch · Monday Morning
+## S#1. Lake House — Front Porch · Morning
 
 Pesto at the steps. Lena reading the morning paper.
 
@@ -3966,7 +3995,7 @@ Eileen glances at it. Doesn't reply.
 
 Keeps driving.
 
-## S#4. Lake House — Late Afternoon
+## S#4. Lake House — · Late Afternoon
 
 A car coming up the lane.
 
@@ -3989,9 +4018,11 @@ Hard Cut.
 
 # SHE STOLE MY FACE — EP40
 
-## S#1. Lake House — Gravel Drive · Monday Late Afternoon
+## S#1. Lake House — Gravel Drive · Late Afternoon
 
-Ethan at the edge. Lena across. Three meters between.
+Ethan at the edge. A framed photograph in his hand — Helena holding baby Lena, the one Bea kept. He sets it carefully on the gravel between them. Steps back.
+
+Lena across. Three meters between them now and the photograph.
 
 ETHAN
 I won't come closer.
@@ -4044,7 +4075,7 @@ I know.
 
 (beat)
 
-Get married Saturday. Be happy. I'll send a gift.
+Get married soon. Be happy. I'll send a gift.
 
 He turns. Walks back to his car.
 
@@ -4116,7 +4147,7 @@ Hard Cut.
 
 # SHE STOLE MY FACE — EP41
 
-## S#1. Coastal Highway · Tuesday Pre-Dawn
+## S#1. Coastal Highway · Pre-Dawn
 
 Eileen — at a small private airfield — refuses to board the Lisbon plane.
 
@@ -4131,7 +4162,7 @@ EILEEN
 The daughter.
 
 NOAH'S MAN
-Getting married Saturday. Not available either.
+Getting married this week. Not available either.
 
 A long beat.
 
@@ -4204,9 +4235,9 @@ Hard Cut.
 
 # SHE STOLE MY FACE — EP42
 
-## S#1. Lake House · Wednesday Morning
+## S#1. Lake House · Morning
 
-Three days to the wedding. Forty guests Friday. Dock decorated.
+Three days to the wedding. Forty guests soon. Dock decorated.
 
 Lena and Bea at the kitchen.
 
@@ -4315,7 +4346,7 @@ Hard Cut.
 
 # SHE STOLE MY FACE — EP43
 
-## S#1. Lake House · Thursday Morning
+## S#1. Lake House · Morning
 
 Two days. Chairs being set. The arch.
 
@@ -4408,7 +4439,7 @@ Hard Cut.
 
 # SHE STOLE MY FACE — EP44
 
-## S#1. Lake House · Friday Morning
+## S#1. Lake House · Morning
 
 Guests arriving. Olivia and her husband. Sterling cousins. Marlow. Cordelia. Sterling former employees. Noah's two brothers and his mother.
 
@@ -4497,7 +4528,7 @@ Hard Cut.
 
 # SHE STOLE MY FACE — EP45
 
-## S#1. Lake House — Bridal Suite · Saturday Morning
+## S#1. Lake House — Bridal Suite · Morning
 
 The morning of the wedding. Lena getting ready. Bea pinning the veil.
 
@@ -4684,7 +4715,7 @@ Hard Cut.
 
 # SHE STOLE MY FACE — EP47
 
-## S#1. Lake House — Reception · Saturday Evening
+## S#1. Lake House — Reception · Evening
 
 White lights between trees. Forty becoming sixty.
 
@@ -4768,7 +4799,7 @@ Hard Cut.
 
 # SHE STOLE MY FACE — EP48
 
-## S#1. Lake House — Bedroom · Wedding Night
+## S#1. Lake House — Bedroom · Wedding · Night
 
 Bedside lamp low. Lena in a slip — Helena's, from the trousseau Bea kept. Noah at the door.
 
@@ -4853,7 +4884,7 @@ Hard Cut.
 
 # SHE STOLE MY FACE — EP49
 
-## S#1. Sterling Holdings — Boardroom · Monday Morning
+## S#1. Sterling Holdings — Boardroom · Morning
 
 Two days after the wedding.
 
@@ -4979,7 +5010,7 @@ She would have. I let it stand.
 
 The board smiles.
 
-## S#2. The Penthouse · Saturday Morning
+## S#2. The Penthouse · Morning
 
 Bigger now. Two adjoining apartments combined. Pesto's bed in the hallway. A second smaller dog asleep — *Basil.*
 
@@ -5051,7 +5082,7 @@ Noah behind her. Hand at the small of her back.
 - WIDE the two at the grave · the dog · the morning light
 - ECU Lena's hand on the stone · the pendant catching the sun
 
-## S#5. Sterling Holdings — Lobby · Monday Morning
+## S#5. Sterling Holdings — Lobby · Morning
 
 Lena walking through. Two assistants in tow.
 

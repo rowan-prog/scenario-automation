@@ -1,420 +1,375 @@
-# SHE STOLE MY FACE — 비주얼 락 (v3 / 2026-05-27)
+# SHE STOLE MY FACE - VISUAL LOCK
 
-> 양식: `config/visual_lock_template.md` v2 (no-theater-tone 5 차원 통합·AIGC Asset Call Signature·Intimacy KEY CAMERA 락·Voice·Prop 금지 추가)
-> 적용: AIGC Live-action / 세로형 9:16
-> 본 작품 최대 수위: T2 (kiss·dressed). 성적 직접 묘사 없음. 키스·내밀 접촉만 허용.
+목적:
 
----
+- 9:16 vertical 실사형 어셋 생성 기준
+- 캐릭터 / 소품 / 배경의 반복 생성용 디자인 락
+- 대본 기준 고정 (`07_final/06_she_stole_my_face_FINAL_v37.md`)
+- 프롬프트 원재료로 바로 쓸 수 있게, 명사 / 형태 / 색 / 소재 / 금지사항 중심으로 정리
+- 은유적 분위기 설명보다 눈에 보이는 외형 정보 우선
 
-## 작품-레벨 시각·prop·voice 카논
-
-### 작품 Hard Lock plot props (단 2개·예외 허용)
-
-1. **MOTHER'S NECKLACE (어머니 목걸이)** — 다이아·금·안쪽 라틴 inscription `LUMEN MEUM` (레나 어머니가 직접 새긴 가족 문장). Identity 단서·EP1 사고 현장 강탈·EP6 inscription reveal·EP9 무대 회수 — Hard Lock 예외 (작품 정체성 prop). **Reveal trigger = 본인의 dialogue/VO만**·prop matching 금지.
-2. **MARA'S DIAMOND BRACELET (마라 다이아 팔찌)** — EP1 사고 현장 손목에 노출·EP4 CCTV 단서. Hard Lock 예외 (단서 prop). **Reveal trigger = 노아 또는 레나의 dialogue/VO**·prop close-up은 보조만.
-
-그 외 모든 prop (반지·서명·예약표·시계 등) = **단발 증표** (한 EP·한 장면)·반복 등장 금지.
-
-### 작품 cadence 금지 (전 캐릭터 적용·no-theater-tone 5 차원)
-
-* ❌ 시적 cadence·rhyme·작가 punchline·연극톤·낭송형
-* ❌ Tri-colon anaphora·Mirror echo·시적 parallel
-* ❌ 정전 쓰레기 형태 (`One X. One Y. My Z. ...`)
-* ❌ 1-3 단어 단독 턴 3턴 이상 핑퐁
-* ❌ 같은 화제 4 턴 이상 짧은 핑퐁 (기능 턴 외)
-* ✅ 자연 spoken English 5-15 단어 한 호흡·인간 vs 인간 대화 느낌
-
-### 작품 female gaze·인티머시 카논 (T2 한도)
-
-* 레나 ↔ 노아 = T2 키스·내밀 접촉 (옷 벗기 X·sex 묘사 X)
-* 레나 ↔ 이선 = T1 이하 (사고 전 약혼 시기 짧은 손길·이후 0)
-* 부위 순회 tracking 금지·forearm weight·breath·gaze·firelight·hand·choice 우선
+장르: 현대 재벌가 신분도용 복수극 (막장). NA 여성향 25-45. 최대 수위 T2 (kiss·dressed, sex 직접 묘사 X).
 
 ---
 
-## 주연급
+## 1. 공통락
 
-### 1. LENA STERLING / 레나 (주인공·진짜 약혼녀)
+### 문서 언어 원칙
 
-#### 1. 기본 정보
-- 캐릭터명: LENA STERLING (레나 스털링)
-- 역할: 주인공·진짜 약혼녀·빼앗긴 정체성
-- 작품 내 기능: Identity Theft 피해자 → 자기 약혼식 잠입 → Public Vindication → 노아와 결합
+- 비주얼락은 해석문이 아니라 어셋 생성 기준이다.
+- 각 항목은 얼굴, 헤어, 피부톤, 체형, 의상, 신발, 악세사리, 소품, 색, 소재를 직접 말한다.
+- `미스터리한 분위기`, `진실을 품은 눈빛`, `가면 같은 삶` 같은 추상/은유 문장 금지. (`wear like a costume`·`coat that doesn't fit`·`see the seams` 류 본문에서도 금지.)
+- 필요하면 `차가운 회녹색 눈`, `검은 롱스트레이트`, `slate-grey tailored suit`, `gold-diamond pendant`처럼 바로 보이는 말로 쓴다.
+- 의상 변화는 완전히 다른 룩일 때만 에피소드 범위를 표시한다. 같은 의상의 찢김 / 젖음 / 피 묻음은 제작 처리로 두고 락 문서에 반복 표기하지 않는다.
 
-#### 🆕 1-5. AIGC Asset Call Signature (한 줄)
-> `Late-20s woman, fine V-jaw with cool moss-green eyes and porcelain skin, ink-black soft straight hair to mid-back, slate-grey wool suit, mother's gold-diamond necklace with hidden inscription.`
+### 첫 판매 기능 자막
 
-#### 2. 인상·신체
-- 얼굴 인상: 우아·자제력·관찰력 (잔잔하지만 흔들리지 않음)
-- 나이대 인상: 20대 후반 (28-30세)
-- 체형: 가는 골격·곧게 선 자세
-- 실루엣: 가는 허리·긴 목선·곧은 어깨
-- 신체 우세 포인트: 어머니 목걸이가 닿는 쇄골 라인·곧은 자세·차분한 눈매
+- 주요 인물 첫 판매 기능 컷에서만 사용
+- 형식: `NAME / SELLING TAG` · 2-4 단어 · 흰색 또는 금색 얇은 대문자 · 화면 하단 1/3 안쪽
+- 얼굴 / 몸 실루엣 가리지 말 것 · 반복 금지 · 긴 설정 설명 금지 · 행정/제도어 금지
+- 태그: `LENA / ERASED HEIRESS`, `MARA / THE FACE THIEF`, `NOAH / THE ONLY ONE WHO KNOWS`, `ETHAN / THE WRONG CHOICE`, `VICTORIA / CROSS MATRIARCH`, `EILEEN / THE PUPPETEER`, `TESSA / THE FRIEND WHO SOLD HER`
+- EP01 첫 15초 = `LENA / ERASED HEIRESS` + 클리닉 reveal에서 `MARA / THE FACE THIEF`만 먼저. 나머지는 각자 첫 기능 컷에서 분산.
 
-#### 3. 얼굴 디테일
-- 얼굴형: 갸름한 V형
-- 눈매: 도드라진 눈매·차분한 시선
-- 눈: 회녹색 (모스 그린)
-- 입가: 단호·과한 미소 X
-- 피부 질감: 도자기 같은 흰 피부 (마라와 동일 — 시술 표적)
+### 장소 UI / GRAPHIC
 
-#### 🆕 3-1. Voice / 음색 (no-theater-tone 5 차원 자가 검사 통과)
+- 매우 중요한 장소 첫 등장 때만 사용 · 장소명 짧은 대문자 · 상단 또는 하단 1/3 안쪽
+- 인물 얼굴 / 핵심 소품 가리지 말 것 · 모든 씬 반복 금지 · 세계관 설명 subtitle 금지
+- 예시: `CROSS MANOR — BALLROOM`, `GLENMOOR CEMETERY`, `BRANDT CLINIC`, `THE GLASS CONSERVATORY`
 
-> **Quiet alto with a clean line — full sentences when she's holding herself together, half-sentences only when something physical breaks her concentration. No staccato pretending, no punchlines. She thinks before she speaks; once she speaks, she finishes the thought.**
+### 전체 디자인 톤
 
-* Voice 금지 패턴 (캐릭터별):
-  * 시적 fragment·rhyme·작가 punchline·tri-colon anaphora·정전 쓰레기 형태 0건
-  * 매달림·울음·자기 연민 대사 0건 (캐릭터 캐논 정합)
-  * "Yes / No / Why / Then" 류 단독 한 단어 응답 3턴 이상 연속 금지
+- 현대 재벌가 · 글로시 프리미엄 부의 미감 (펜트하우스 유리, 대리석, 금, 맞춤 정장, 드레스)
+- 실사형 · 최상위 캐스팅 미모
+- **막장 멜로 톤** — 고조된 감정, 천박한 빌런, 뻔뻔한 거짓말. 우아한 표면 + 추한 속내.
+- ❌ 쿨한 수사물 / 미스터리 / 스릴러 무드 (이 작품은 추리극 아님 — 시청자는 1화부터 다 안다)
+- ❌ HBO식 회색 리얼리즘 · 다큐 톤
+- ❌ 시대극 / 판타지 / 마법 · ❌ 애니메이션 / 3D 렌더 · ❌ 코스프레 · ❌ 게임 시네마틱
+- 첫 컷은 풍경이 아니라 두 개의 똑같은 얼굴 (거울 앞 Lena와 마스크 벗는 Mara)로 시작
 
-#### 4. 헤어
-- 헤어 길이: 어깨 아래·등 중간까지
-- 헤어 색: 검은 (잉크 빛)
-- 헤어 질감: 부드러운 직모·끝만 살짝 웨이브
+### 🔒 동일 얼굴 구별 락 (이 작품 최우선 — AIGC #1 제약)
 
-#### 5. 컬러·소재 캐논
-- 대표 색: 검은·진청·슬레이트 그레이 (절제된 정장)
-- 보조 색: 어머니 목걸이 (다이아·금)
-- 대표 소재: 실크·울 정장·캐시미어
-- 소재 질감: 매끄러움·정제됨
+Lena와 Mara는 **같은 얼굴**(시술로 동일)이다. 매 컷에서 둘이 한눈에 구별돼야 하며, 구별 수단은 다음 5가지뿐이다:
 
-#### 6. 의상
-- 의상 구조: 정장·셔츠 드레스·약혼식 신부 의상 (사고 전 한정)
-- 액세서리: 어머니 목걸이 (Hard Lock — 핵심 단서)
+1. **시술 흉터 (Mara 전용)** — 좌측 귀 2cm 아래 곡선 1.5cm + 우측 손목 안쪽 직선 3cm. 평상시 헤어/각도로 가려지고 **근접 증거 컷에서만 노출.** EP01-50 동일 위치 유지 (Hard Lock).
+2. **의상 팔레트** — Lena = 절제된 slate·navy·charcoal·ivory / Mara = 훔친 글로시 룩(navy·cream silk) → 후반 black(난입)·stripped(몰락).
+3. **헤어 스타일링** — Lena 낮은 정돈(다운/낮은 묶음/단정 하프업) / Mara 더 윤기·화려한 셋업.
+4. **태도·자세** — Lena 정적·자제·곧은 자세 / Mara 카메라 앞 sweet-victim 연기, 단둘이면 천박·비웃음·snarl.
+5. **맥락** — 세상이 떠받드는 쪽 = Mara (EP1-48). 목에 펜던트 있는 쪽 = Mara (EP1-49).
 
-#### 7. 장비·소품
-- 본 캐릭터 핵심 plot prop (Hard Lock 예외): 어머니 목걸이 (EP1·EP6·EP9·EP49 4회 등장·그 외 EP 모두 비묘사 또는 짧은 시각 reference)
-- Reveal trigger 형식: 본인의 dialogue/VO ("`The inscription is mine. I had it carved when she died.`")·prop close-up은 보조만
+- ❌ 두 얼굴을 **긴 정적 한 프레임**에 같이 넣어 "어느 쪽이 진짜?"를 시청자가 뜯어보게 만드는 컷 금지 (AIGC 동일인물 일관성 붕괴 위험).
+- ✅ OTS · 컷 분리 · 위치 분리 · 한 명씩 close. 같은 프레임이 필요하면 흉터/의상/태도로 즉시 구별되게.
 
-#### 🆕 7-2. Intimacy KEY CAMERA 락
-- 본 작품 최대 수위: T2 (kiss·dressed)
-- 적용 페어: 레나 ↔ 노아 (EP16 페이월 후 첫 키스·EP23·EP48·EP49 결혼식)
-- 레나 ↔ 이선 = T1 이하 (사고 전 단일 손길·이후 0)
-- Shot size:
-  * EP16 first kiss = OTS noah → lena → ECU lips meeting → CU lena's hand on his lapel → MCU two-shot
-  * EP23 = OTS lena → noah → CU breath stops → MCU pull
-  * EP48-49 결혼식 = MCU ceremony → OTS vow → ECU rings → wide
-- Female gaze: 노아의 forearm weight·noah's gaze 우선·레나의 choice (손이 먼저 닿느냐) 우선·부위 순회 X
-- No metaphor dodging: `They kiss.` / `He kisses her. Slow. Open mouth.` 직설
+### 시청자 이해도 락 (뇌-오프)
 
-#### 8-2. 룩 변형 락
+- 한 컷만 봐도 누가 안 믿기고(Lena), 누가 떠받들리고(Mara), 다음 목표가 뭔지 읽혀야 한다.
+- 정보는 말로만 처리하지 않는다: TV 자막(chyron), 폰 피드, 군중 핸드폰, 펜던트 위치, 빈 목, 흉터 반응으로 화면에서 확인.
+- 관계 보상은 표정만으로 처리하지 않는다: 손 위치, 옆자리, 공개 선택(Noah가 Lena 막아섬), 목걸이 이동으로 보이게.
+- 약한 장면 금지 신호: 예쁜데 뭐가 바뀌었는지 모름 / 대사 없이는 못 알아봄 / 두 얼굴 구별이 한눈에 안 됨.
+- 플래시백 / 폰 영상 / TV 재현 컷은 대본 SOURCE 태그 유지 (제작 참조용, 화면 자막 노출 X).
 
-**변형 1 — Public Fiancée (EP1·플래시백)**
-- 등장: EP1 어머니 묘소·약혼 발표 리허설
-- 색: 우아한 진청 정장 + 어머니 목걸이
-- 소재: 실크·울
-- 핵심 디테일: 어머니 목걸이·약혼 발표용 의상·머리 풀어내림
-- 변경 트리거: (시작 — 약혼 전)
-- 🆕 AIGC Call Signature: `Lena, ink-black hair down, navy silk-wool tailored suit, mother's gold-diamond necklace, polished oxfords. Standing at marble graveside.`
+### 얼굴 공통
 
-**변형 2 — Erased Fiancée (EP1-3 사고 후)**
-- 등장: EP1 사고 후·EP2 병원·EP3 약혼식장 끌려남
-- 색: 병원복 + 캐시미어 코트 (회색·흰)
-- 소재: 면 병원복·캐시미어 코트
-- 핵심 디테일: 우측 관자놀이 거즈·왼쪽 손목 점적선 자국·흐트러진 머리·빈 목 (목걸이 없음)
-- 변경 트리거: 사고 + 어머니 목걸이 마라에게 강탈
-- 차이: 목걸이 부재·붕대·흐트러진 머리
-- 🆕 AIGC Call Signature: `Lena, hair tangled to one side, white cotton hospital gown under oversized ivory cashmere coat, gauze taped above right temple, bare neck. No necklace.`
+- 주연 기준 최상위 미모 · 선명한 이마-눈썹뼈-콧대 · 정리된 입술선 · 프리미엄 피부
+- 사각턱 금지 · 낮은 콧대 금지 · 평균적 현실 배우 얼굴 금지
+- 나이 설정 있는 인물(Victoria·Eileen·Celia)은 개별 락 우선
 
-**변형 3 — Investigator (EP4-7)**
-- 등장: EP4 노아 협력·EP5-7 클리닉·잠입 준비
-- 색: 단정한 슬레이트·검은
-- 소재: 실용적 캐시미어·실크 셔츠
-- 핵심 디테일: 머리 낮은 묶음·화장 절제·노아 사무실 출입·여전히 목 비어 있음
-- 변경 트리거: 사칭범 취급 + 노아 협력 시작
-- 차이: 자제 회복·머리 묶음·여전히 목걸이 없음
-- 🆕 AIGC Call Signature: `Lena, low ponytail, charcoal cashmere turtleneck under slate wool coat, dark trousers, leather satchel. Bare neck. Calm expression.`
+### 체형 / 비율 공통
 
-**변형 4 — Infiltrator (EP7-8 페이월)**
-- 등장: EP7 잠입·EP8 BRIDAL ROOM
-- 색: 약혼식장 직원 유니폼 (회색·흰)
-- 소재: 직원복 면·합성 안감
-- 핵심 디테일: 머리 묶음·화장 지움·직원 출입증 (BRIDAL ROOM)·여전히 빈 목
-- 변경 트리거: 약혼식 잠입
-- 차이: 직원 유니폼·신원 위장
-- 🆕 AIGC Call Signature: `Lena, tight bun under grey staff cap, white collared shirt with grey waistcoat, BRIDAL ROOM keycard clipped at hip, no jewelry.`
+- 9:16 전신에서 키·비율 즉시 읽힘 · 긴 목 · 좋은 자세
+- Lena/Mara는 동일 체형(시술 표적) · 그 외 여성은 실루엣 서로 다르게
+- 땅딸막·짧은 다리·머리 큰 비율 금지
 
-**변형 5 — Restored Heir (EP9-25)**
-- 등장: EP9 폭로 후·EP15 빅토리아 굴복·EP25 마라 정체 폭로
-- 색: 정장 회복 (검은·진청)·어머니 목걸이 회수
-- 소재: 실크·울·다이아 회복
-- 핵심 디테일: 어머니 목걸이 다시 목에·정식 약혼녀 회복·직접적 눈맞춤 회복
-- 변경 트리거: 약혼식 폭로 → 신원 회복
-- 차이: 목걸이 복귀·자세 더 곧음
-- 🆕 AIGC Call Signature: `Lena, hair half-up with single pearl pin, midnight blue silk evening dress with structured shoulder, mother's gold-diamond necklace back at throat, direct gaze.`
+### 의상 공통
 
-**변형 6 — True Bride (EP44-50)**
-- 등장: EP44 마라 패배 후·EP49 결혼식
-- 색: 흰 (결혼식 신부)·금 (어머니 목걸이)
-- 소재: 흰 실크·다이아·금
-- 핵심 디테일: 결혼식 신부 의상·노아와 함께·어머니 목걸이 결혼식 의상에 매치
-- 변경 트리거: 노아와 결혼
-- 차이: 결혼식 화이트
-- 🆕 AIGC Call Signature: `Lena, hair half-up with fresh white peony, ivory silk gown with bare shoulders and long train, mother's gold-diamond necklace at throat, slim gold wedding band already on hand.`
+- 현대 럭셔리: 맞춤 정장, 실크 블라우스, 이브닝 드레스, 재벌가 패션, 캐시미어 코트
+- ❌ 시대극 / 판타지 / 갑주 / 스트리트웨어 / 클럽룩 / 란제리룩
 
-#### 9. 금지 사항
+### 대사 cadence 금지 (전 캐릭터 · no-theater-tone)
 
-##### 9-1. 디자인·시각 금지
-- 매달림·울음 시각 X (자제력 유지)
-- 어머니 목걸이 = Hard Lock (사라짐·잃음 비트 EP1·EP9 회수 외 시각 일관)
-- 마라와 동일 얼굴 = Hard Lock (시술 흉터로만 구별)
-- 부위 순회 tracking 금지
+- ❌ 시적 cadence·rhyme·작가 punchline·연극톤·낭송형
+- ❌ Tri-colon anaphora·mirror echo·은유·정전 쓰레기 형태(`One X. One Y. My Z.`)
+- ❌ 1-3 단어 단독 턴 3턴 이상 핑퐁 · 같은 화제 4턴 이상 짧은 핑퐁
+- ✅ 자연 spoken English 5-15 단어 한 호흡 · 막장 직설 · 빌런은 천박·뻔뻔
 
-##### 🆕 9-2. Voice·Dialogue 금지
-- 시적 cadence·rhyme·작가 punchline·연극톤·낭송형 0건
-- Tri-colon anaphora·mirror echo·정전 쓰레기 형태 0건
-- 1-3 단어 단독 턴 3턴 이상 연속 금지
-- "Yes / I am / I will / I do." 류 짧은 cool-tone 핑퐁 금지
-- 매달림 대사·자기 연민 monologue 0건
+### Female gaze / 인티머시 (T2 한도)
 
-##### 🆕 9-3. Prop 의존 금지
-- 어머니 목걸이 = Hard Lock plot prop (예외)·그 외 prop은 단발만
-- Reveal trigger = 본인의 dialogue/VO·prop matching X
+- 페어: Lena ↔ Noah (T2 키스·내밀 접촉, 옷 벗기/sex 묘사 X). T2 비트 = **EP15·23·38·45**.
+- Lena ↔ Ethan = T1 이하 (사고 전 짧은 손길·이후 0).
+- 부위 순회 tracking 금지 · Noah forearm weight·gaze 우선 · Lena의 choice(먼저 손 닿느냐) 우선.
+- 직설: `They kiss.` / `He kisses her, slow.` (은유 우회 X)
 
 ---
 
-### 2. MARA VOSS / FAKE LENA / 마라 (가짜 약혼녀)
+## 2. 인물별 락
 
-#### 1. 기본 정보
-- 캐릭터명: MARA VOSS / FAKE LENA (마라 보스·가짜 레나)
-- 역할: 가짜 약혼녀·12년 친구·이복자매 (EP35 폭로)
-- 작품 내 기능: Identity Theft 가해자·이복자매 음모
+## 2-1. LENA STERLING (주인공·진짜 약혼녀)
 
-#### 🆕 1-5. AIGC Asset Call Signature (한 줄)
-> `Late-20s woman, identical V-jaw and moss-green eyes to Lena, faint surgical scar 2cm below left ear and along right inner wrist, ink-black hair to mid-back, navy silk gown, stolen gold-diamond necklace, diamond bracelet on left wrist.`
+### 캐릭터 / 디자인 느낌
 
-#### 2. 인상·신체
-- 얼굴 인상: 레나와 똑같지만 표정 다름 (계산적·차가움)
-- 나이대 인상: 28-30 (레나와 동일)
-- 체형: 레나와 동일
-- 실루엣: 레나와 동일
-- 신체 우세 포인트: **시술 흉터 (좌측 귀 2cm 아래 곡선 1.5cm·우측 손목 안쪽 직선 3cm)** — 레나와 유일한 시각 구별
-- 시술 흉터는 EP1-50 모든 컷에서 동일 위치 유지 (Hard Lock)
+- 주인공 · 빼앗긴 진짜 상속녀
+- 우아·자제력·관찰력 · 당하되 꺾이지 않음 · 매달림/질질 짜는 피해자 금지
+- 후반부 = 수동 피해자 X → 가짜를 카메라 앞에서 깨는 능동 사냥꾼
 
-#### 3. 얼굴 디테일
-- 얼굴형: 갸름한 V형 (레나와 동일)
-- 눈매: 도드라진 눈매 (시술 후)
-- 눈: 회녹색 (모스 그린·시술로 같은 색)
-- 입가: 계산적 미소·차가움
-- 피부 질감: 도자기 (시술로 매끄러움 강화·턱 라인 약간 더 뻣뻣)
+### 디자인룩
 
-#### 🆕 3-1. Voice / 음색
-
-> **Same alto pitch as Lena (training) but a half-beat too fast — like she's running someone else's lines from memory. Charm sits on the surface; nothing under it. Falters into a sharper register when caught off-guard.**
-
-* Voice 금지 패턴 (캐릭터별):
-  * 시적·낭송 cadence 0건 (가짜 신원이 들통날 신호)
-  * 한 단어 단독 응답 핑퐁 금지
-  * 코너 몰릴 때만 짧음 허용
-
-#### 4. 헤어
-- 헤어 길이: 어깨 아래 (레나와 동일)
-- 헤어 색: 검은 (염색·레나와 동일)
-- 헤어 질감: 부드러운 직모·약간 더 윤기 (염색 후)
-
-#### 5. 컬러·소재 캐논 (레나 흉내)
-- 대표 색: 진청·회색·검은
-- 보조 색: 빼앗은 어머니 목걸이 (다이아)
-- 소재: 실크·고급 직물 (재벌가 사칭)
-
-#### 6. 의상
-- 의상 구조: 약혼녀 정장·재벌가 의상·신부 의상 (EP8 폭로 전까지)
-
-#### 7. 장비·소품
-- 본 캐릭터 핵심 plot prop (Hard Lock 예외): 다이아 팔찌 (EP1 사고 현장·EP4 CCTV·EP9 폭로 후 깨짐). Reveal trigger = 노아의 dialogue "The bracelet wasn't hers."
-- 빼앗은 어머니 목걸이 — 마라가 EP1-EP9 착용·EP9 폭로 시 무대에서 강제 회수
-
-#### 8-2. 룩 변형 락
-
-**변형 1 — Imposter Bride (EP1-8)**
-- 등장: EP1 약혼 발표·EP2-7 사칭 정착·EP8 페이월
-- 색: 약혼녀 우아한 의상 + 어머니 목걸이 (빼앗은 것)
-- 소재: 실크·고급
-- 핵심 디테일: 시술 흉터 (목·손목)·다이아 팔찌·어머니 목걸이
-- 변경 트리거: (사칭 시작)
-- 🆕 AIGC Call Signature: `Mara, hair half-up like Lena, navy silk gown with surgical scar visible 2cm under left ear, stolen gold-diamond necklace at throat, diamond bracelet on left wrist.`
-
-**변형 2 — Wedding Bride (EP8 페이월·약혼식 본식)**
-- 등장: EP8 무대
-- 색: 약혼식 신부 옅은 크림·금
-- 소재: 실크·다이아·금
-- 핵심 디테일: 약혼식 정장·어머니 목걸이·다이아 팔찌·시술 흉터 보임
-- 변경 트리거: 약혼식 본식
-- 🆕 AIGC Call Signature: `Mara, hair fully up with gold leaf comb, ivory-cream silk engagement gown, mother's gold-diamond necklace, diamond bracelet, surgical scar visible under jaw at stage lighting.`
-
-**변형 3 — Exposed Imposter (EP9-25)**
-- 등장: EP9 폭로 후
-- 색: 정장 유지·단 목걸이·팔찌 빼앗김
-- 소재: 실크·고급
-- 핵심 디테일: 어머니 목걸이 X·다이아 팔찌 깨짐·시술 흉터 보임·계산적 미소 깨짐
-- 변경 트리거: 약혼식 폭로
-- 🆕 AIGC Call Signature: `Mara, hair half-undone, navy silk now wrinkled, bare neck and wrist, surgical scars no longer hidden, expression tight.`
-
-**변형 4 — Revealed Bloodline (EP35-44)**
-- 등장: EP35 이복자매 폭로 후
-- 색: 본명 회복 (단순화·진청 또는 검은)
-- 소재: 평범한 정장
-- 핵심 디테일: 가짜 외모 X·자기 정체 인정·시술 흉터 그대로
-- 변경 트리거: 이복자매 폭로
-- 🆕 AIGC Call Signature: `Mara, hair tied back severely, plain charcoal blouse and dark trousers, no jewelry, surgical scars fully exposed, exhausted face.`
-
-#### 9. 금지 사항
-
-##### 9-1. 디자인·시각 금지
-- 시술 흉터 = Hard Lock (사라짐 X·EP1-50 일관 시각·동일 위치)
-- 다이아 팔찌 = EP1 사고 현장 단서 (Hard Lock·EP9 폭로 후 깨짐)
-- 레나와 동일 외모이나 시술 흉터로 구별
-
-##### 🆕 9-2. Voice·Dialogue 금지
-- 시적 cadence·연극톤 0건 (가짜 신원 detection 신호)
-- 한 단어 응답 핑퐁 3턴 이상 연속 금지
-- Tri-colon anaphora·mirror echo·정전 쓰레기 형태 0건
-
-##### 🆕 9-3. Prop 의존 금지
-- 다이아 팔찌·어머니 목걸이 = Hard Lock plot prop (예외)
-- Reveal trigger = 노아·레나의 dialogue/VO
-
----
-
-## 조연급 (러프·단일 의상·중요 변경만 명시)
-
-### 3. ETHAN CROSS / 이선 (후회 남주)
-
-#### 1-5. AIGC Asset Call Signature
-> `Early-30s man, square jaw with deep grey eyes and a thin scar above right brow, short ink-black hair swept back, charcoal three-piece suit, silver tie bar, slim platinum engagement band before EP9.`
-
-#### 기본
-- 역할: 재벌 후계·후회 남주 (EP1-50)
-- 인상: 검은 머리·짙은 회색 눈·30대 초반·기업가 정장
-- 체형: 큰 키 (188cm 인상)·정장 어울리는 어깨
-- 헤어: 짧은 검은·정돈
-- 색·소재: 진청·검은·실크 정장
-- 의상: 재벌 후계 정장·약혼식 신랑 정장
-- 소품: 손목시계 (Patek)·약혼반지
-
-#### Voice
-> **Grave baritone — full corporate sentences when in control, breaks into shorter clauses only after EP9 (regret arc). Never staccato. Apologizes in paragraphs, not one-word lines.**
-
-#### 금지
-- 후반 매달림 시 처량한 시각 (단 레나는 거부)
-- "I'm sorry. / I was wrong. / Forgive me." 류 한 단어 응답 핑퐁 0건
-- 정전 쓰레기 형태 0건
-
-### 4. NOAH KEENE / 노아 (새 남주)
-
-#### 1-5. AIGC Asset Call Signature
-> `Mid-30s man, granite jaw under deep grey eyes with a permanent slight squint and faint laugh line, cropped ink-black hair, midnight-blue investigator coat over dark sweater, leather camera bag, vintage silver wristwatch.`
-
-#### 기본
-- 역할: 사설 조사 전문가·새 남주 (EP1-50)
-- 인상: 검은 머리·회색 눈·30대 중반·고급 수트
-- 체형: 큰 키 (191cm 인상)·단단한 체격
-- 헤어: 짧은 검은·정돈
-- 색·소재: 검은·미드나이트 블루·고급 수트
-- 의상: 사설 조사관 코트·결혼식 신랑 (EP49 — 차콜 모닝 코트)
-- 소품: 카메라·증거 파일·시계
-
-#### Voice
-> **Warm low baritone — speaks in natural paragraphs even when delivering hard news. Never punchy, never theatrical. Names what he sees ("There's a bracelet in this frame. Not yours. Hers.") without italicized weight.**
-
-#### 금지
-- 정중·신뢰 시각 일관
-- 시적 cadence·연극톤 0건
-- "Trust me. / I will. / You are." 류 한 단어 응답 핑퐁 0건
-
-### 5. VICTORIA CROSS / 빅토리아 (빌런 → 굴복)
-
-#### 1-5. AIGC Asset Call Signature
-> `Late-50s woman, sharp jaw and pale-grey eyes with permanent down-tilt at outer corners, silver-streaked dark hair swept into French twist, charcoal Chanel-cut tweed suit, large baroque pearl earrings and choker.`
-
-#### 기본
-- 역할: 크로스 가문 어머니·빌런 (EP1-EP15 굴복)
-- 인상: 흰 머리 일부·우아하나 차가움·50대 후반
-- 체형: 우아한 자세·정장
-- 헤어: 단정한 회색·흰 머리·뒤로
-- 색·소재: 어두운 정장·진주·다이아
-- 의상: 재벌가 매트리에르크·정장
-- 소품: 가문 보석·진주 목걸이
-
-#### Voice
-> **Cold contralto, fully formed sentences with old-money diction. Never one-word retorts. When she breaks (EP15), she breaks into a longer, lower line — not a fragment.**
-
-#### 금지
-- EP15 굴복 후 권위 시각 X
-- 의식문·판결문 cadence 0건 (`The house decides. The house remembers.` 류 금지)
-- Tri-colon anaphora 0건
-
-### 6. DR. CELIA BRANDT / 셀리아 (클리닉 의사·협력자)
-
-#### 1-5. AIGC Asset Call Signature
-> `Early-40s woman, narrow oval face with hazel eyes behind thin gold-rim glasses, short caramel bob, white medical coat over slate blouse, slim silver pen always in breast pocket.`
-
-#### 기본
-- 역할: 미용 클리닉 의사·마라 협력자 (EP1·EP5·EP25-30)
-- 인상: 짧은 갈색 머리·40대·의사 가운
-- 체형: 마른 체형
-- 헤어: 짧은 단발 갈색
-- 색·소재: 흰 의사 가운·짙은 색 평상복
-- 의상: 의사 가운·EP25 굴욕 시 평상복
-- 소품: 시술 차트·삭제 예약표 (단발 prop·각 1 장면)
-
-#### Voice
-> **Clipped clinical tone with full sentences, professional even when lying. Cracks into longer half-confessions under pressure (EP25).**
-
-#### 금지
-- EP25 굴욕 후 등장 약함
-- 의학 용어 dump monologue 금지
-
-### 7. TESSA HALE / 테사 (배신자 친구)
-
-#### 1-5. AIGC Asset Call Signature
-> `Late-20s woman, oval face with warm hazel eyes and a small mole above right lip, shoulder-length auburn waves with copper highlights, cropped camel cardigan over cream silk camisole, slim gold hoop earrings.`
-
-#### 기본
-- 역할: 친구 배신자·도박 부채 (EP1·EP5·EP13 폭로·EP25 추방)
-- 인상: 적갈색 머리·20대 후반·캐주얼
-- 체형: 보통 체격
-- 헤어: 어깨 길이 적갈색·웨이브
-- 색·소재: 부드러운 색 캐주얼·평범
-- 의상: 친구 외모·EP13 폭로 시 흐트러진 모습
-- 소품: 도박 부채 영수증·서명 (단서 — 단발)
-
-#### Voice
-> **Warm-girl tone that thins to a defensive monotone when cornered. Tends toward longer rationalizing sentences ("I didn't think it would go this far, you have to understand—"). Never stylized.**
-
-#### 금지
-- EP25 추방 후 등장 X
-- "I'm sorry. / I had to. / She made me." 류 한 단어 응답 핑퐁 0건
-
----
-
-## 작품 인티머시 KEY CAMERA 카논 (작품 레벨 reference)
-
-### 레나 ↔ 노아 (T2 only)
-
-| EP | Scene | Shot list |
+| 룩 | 적용 EP | 상태 |
 |---|---|---|
-| EP16 페이월 후 | First kiss (rooftop·noah's office balcony) | OTS noah→lena CU → ECU breath stop → ECU lips meeting → CU lena's hand on his lapel → MCU pull-back two-shot → wide |
-| EP23 | Quiet kiss (lena's apartment·after Mara threat) | OTS lena→noah → ECU eyes locked → CU his hand on her jaw (not her thigh·not her ribs) → ECU kiss → MCU sit-down hold |
-| EP48 | Vow exchange (private·before ceremony) | MCU two-shot → ECU rings → CU vow whispered → MCU hold |
-| EP49 결혼식 | Ceremony kiss | wide aisle → MCU altar → ECU rings → ECU lips meet → MCU two-shot pull → wide guests |
+| 1-1 Public Fiancée | EP01 (사고 전) | navy silk-wool suit, hair down, mother's pendant at throat |
+| 1-2 Erased | EP01-03 (사고 후) | white hospital gown under ivory cashmere coat, gauze at right temple, bare neck |
+| 1-3 Infiltrator | EP04-08 | low ponytail, charcoal knit + slate coat / EP07-08 grey staff uniform + BRIDAL ROOM keycard, bare neck |
+| 1-4 Fighting (Noah's world) | EP09-45 | restored tailored slate·navy, then soft ivory once engaged (EP41), bare neck still |
+| 1-5 True Bride | EP46-50 | mother's ivory silk gown (the one Mara never found), slim gold band / EP50 pendant back at throat |
 
-### Female gaze 룰 적용
-- 모든 키스 신: 노아의 forearm weight·하악 라인·시선이 우선·레나의 부위 순회 X
-- 레나의 agency 우선 (먼저 손이 닿느냐·먼저 시선을 두느냐는 레나 쪽)
-- Firelight·창문 빛·breath·sheet (있을 시) 우선
+### 상세
+
+- 나이: **30세** (NEVER late-20s)
+- 키/비율: 가는 골격, 긴 목선, 곧은 어깨, 곧게 선 자세
+- 헤어: ink-black soft straight hair to mid-back, 정돈 (다운 / 낮은 묶음 / 단정 하프업)
+- 눈: 회녹색(moss-green), 차분한 시선
+- 얼굴: 갸름한 V형, 도자기 흰 피부 (Mara와 동일 — 시술 표적)
+- 몸: 가는 허리, 긴 다리, 절제된 자세
+- 의상: slate·navy·charcoal 맞춤 정장 / 실크 / 캐시미어 → EP46+ ivory 실크 가운
+- 신발: polished oxfords / low pumps
+- 악세사리: 어머니 목걸이 (EP01 착용 → EP01 강탈 → **EP02-49 빈 목** → EP50 회수). 어머니 진주 귀걸이(작은 것).
+- 표식: 흉터 없음 (이게 Mara와의 구별점 — Lena는 흉터가 없다)
+- 색: black·navy·slate·charcoal·ivory
+- AIGC Call (기본): `30-year-old woman, fine V-jaw, cool moss-green eyes, porcelain skin, ink-black straight hair to mid-back, slate-grey tailored suit, bare neck (no necklace). Calm contained posture.`
+- 금지: 매달림/울음 default · 가짜 외모 차이(흉터는 Lena엔 없음) · 부위 순회 tracking · 시적/은유 대사 · 자기 연민 monologue
+
+## 2-2. MARA VOSS / FAKE LENA (가짜 약혼녀·도둑)
+
+### 캐릭터 / 디자인 느낌
+
+- 신분도용 가해자 · Lena의 20년 친구 · 질투로 얼굴을 훔침 (**이복자매 아님 — 그냥 가짜·도둑**)
+- 영리한 체스 플레이어 X → **뻔뻔·천박·멍청.** 카메라 앞 sweet-victim 연기 / 단둘이면 비웃음·자랑·snarl
+- 가진 것 다 가졌는데 "내 것 같지 않다"는 공허 · 들킬까 늘 두려움
+
+### 디자인룩
+
+| 룩 | 적용 EP | 상태 |
+|---|---|---|
+| 2-1 Imposter Bride | EP01-34 | Lena의 삶을 입음: navy·cream silk, STOLEN pendant at throat, diamond bracelet on left wrist, sweet public mask |
+| 2-2 Mrs. Cross | EP35-46 | married polish, blush·cream, wedding ring + stolen pendant, growing hollow/strained under the smile |
+| 2-3 Fallen | EP47-50 | EP47 black dress + cameraman (wedding crash) → EP50 stripped (pendant peeled off), alone in a cramped gray room |
+
+### 상세
+
+- 나이: **30세** (Lena와 동일)
+- 얼굴/체형: Lena와 **완전 동일** (시술) — 표정만 다름(계산적·sweet 연기 / 천박)
+- 헤어: ink-black straight hair to mid-back (염색·약간 더 윤기), 화려한 셋업
+- 눈: 회녹색 (시술로 같은 색)
+- 신체 우세: **시술 흉터** — 좌측 귀 2cm 아래 곡선 1.5cm + 우측 손목 안쪽 직선 3cm. 평상시 가려지고 근접 증거 컷에서만 노출. EP01-50 동일 위치 (Hard Lock).
+- 의상: 훔친 navy·cream 실크·재벌가 룩 → EP35+ Mrs. Cross 광택 → EP47 black → EP50 stripped
+- 악세사리: 빼앗은 어머니 목걸이(EP01-49 착용 → EP50 무대서 강제 회수), diamond bracelet(좌측 손목)
+- 색: navy·cream·blush → black → drained gray
+- AIGC Call (기본): `30-year-old woman, identical V-jaw and moss-green eyes to Lena, faint curved scar 2cm below left ear + straight scar on right inner wrist, ink-black styled hair, navy/cream silk, stolen gold-diamond pendant at throat, diamond bracelet on left wrist. Sweet performed face in public, vulgar smirk in private.`
+- 금지: 흉터 사라짐·위치 이동 · 영리한 침착 빌런 톤 · 동정 가는 퇴장(EP50 = 아무도 없는 회색 방, 구원 X) · 시적/연극 대사
+
+## 2-3. NOAH KEENE (새 남주)
+
+### 캐릭터 / 디자인 느낌
+
+- 사설 조사 전문가 · Lena를 믿는 유일한 사람 → 후반 **판을 깔아주는 남자**(자기 결혼식을 Lena가 이기는 방으로 만듦)
+- 단순·강함·소유 · 든든한 벽 · 흔들림 없는 확신 (의심 X)
+
+### 디자인룩
+
+| 룩 | 적용 EP | 상태 |
+|---|---|---|
+| 3-1 Investigator | EP03-45 | midnight-blue coat over dark sweater/knit, dark trousers |
+| 3-2 Groom | EP46-50 | charcoal morning suit, gold band |
+
+### 상세
+
+- 나이: 30대 중반 · 키 큰 단단한 체격
+- 헤어: cropped ink-black · 눈: deep grey, slight squint, faint laugh line
+- 얼굴: granite jaw, 차분
+- 의상: midnight-blue investigator coat, dark knit, 고급 수트 → EP49 charcoal morning suit
+- 악세사리: vintage silver wristwatch, leather camera bag (직업 소품 — 증거 엔진 X)
+- 색: black·midnight-blue·charcoal
+- AIGC Call: `Mid-30s man, granite jaw, deep grey eyes with slight squint, cropped ink-black hair, midnight-blue coat over dark sweater. Calm, immovable.`
+- 금지: 시적/연극 대사 · "I know / I saw it" 반복 의존 (중후반엔 행동으로) · Lena를 의심하는 비트(엔진 위반)
+
+## 2-4. ETHAN CROSS (약혼남 → 잘못된 선택)
+
+### 캐릭터 / 디자인 느낌
+
+- 재벌 후계 · Lena의 전 약혼남 · **"편한 진실"을 택한 겁쟁이** (추리하는 남자 X, 체면 때문에 가짜 편)
+- EP49 Mara에게 등 돌림 · 사과는 짧게·드물게 (매달림 X)
+
+### 디자인룩
+
+| 룩 | 적용 EP | 상태 |
+|---|---|---|
+| 4-1 Cross Heir | EP01-50 | charcoal three-piece suit, silver tie bar / platinum band (EP01-34 결혼 후 wedding ring) |
+
+### 상세
+
+- 나이: 30대 초반 · 큰 키 · 정장 어울리는 어깨
+- 헤어: short ink-black swept back · 눈: deep grey · 우측 눈썹 위 얇은 흉터
+- 의상: charcoal/navy three-piece, 실크 타이, Patek 시계
+- 색: charcoal·navy·silver
+- AIGC Call: `Early-30s man, square jaw, deep grey eyes, thin scar above right brow, short ink-black hair swept back, charcoal three-piece suit, Patek watch.`
+- 금지: 후회로 매달리는 처량함(Lena 거부) · 한 단어 사과 핑퐁 · 영리한 추리 톤
+
+## 2-5. VICTORIA CROSS (크로스 가문 여주인)
+
+### 캐릭터 / 디자인 느낌
+
+- 크로스 가문 매트리아르크 · 빌런 · **품격 악녀 X → 상류층 권위로 막말** ("Get that thing away from my son")
+- 진실: "몰랐다" 아닌 **"의심했지만 가문 지키려 외면"**
+
+### 디자인룩
+
+| 룩 | 적용 EP | 상태 |
+|---|---|---|
+| 5-1 Matriarch | EP01-50 | charcoal Chanel-cut tweed suit, baroque pearl choker + earrings |
+
+### 상세
+
+- 나이: 50대 후반 · 우아한 자세
+- 헤어: silver-streaked dark hair, French twist · 눈: pale grey, 바깥쪽 처진
+- 의상: 어두운 트위드·실크 정장, 가문 진주·다이아
+- 색: charcoal·dove grey·pearl
+- AIGC Call: `Late-50s woman, sharp jaw, pale-grey eyes, silver-streaked dark hair in French twist, charcoal tweed suit, baroque pearl choker.`
+- 금지: 의식문/판결문 cadence · tri-colon · 따뜻한 할머니 톤
+
+## 2-6. EILEEN VOSS (Mara의 모친·배후)
+
+### 캐릭터 / 디자인 느낌
+
+- Mara의 실제 엄마 · 딸에게 가짜 삶을 계속 우겨넣는 독한 엄마 · 큰 설계자 X
+- 일이 틀어지자 딸을 손절(EP39) · 글램 없음 (떠받들리는 건 Mara뿐)
+
+### 디자인룩
+
+| 룩 | 적용 EP | 상태 |
+|---|---|---|
+| 6-1 Puppeteer | EP01·EP21·EP31·EP36·EP39 | plain dark coat, hard practical look, no luxury |
+
+### 상세
+
+- 나이: 50대 후반 · 단단·실용
+- 헤어: dull dark hair pulled back, 흰머리 약간 · 눈: hard
+- 의상: 어두운 실용 코트·평범한 정장 (재벌 글램 X — 그녀는 바깥 사람)
+- 색: dull dark·grey
+- AIGC Call: `Late-50s hard-faced woman, dark hair pulled back, plain dark coat, no jewelry. Cold practical.`
+- 금지: 우아한 상류층 룩 · 동정 가는 모성
+
+## 2-7. TESSA HALE (배신한 친구)
+
+### 캐릭터 / 디자인 느낌
+
+- Lena의 친구·조수 · 도박 부채로 Mara에 Lena 일정 넘김 · EP06 자백(Lena가 Mara의 약점=무기를 캐냄) · EP12 TV 배신
+- 복잡한 죄책감 X → 돈 받고 울며 배신
+
+### 디자인룩
+
+| 룩 | 적용 EP | 상태 |
+|---|---|---|
+| 7-1 The Friend | EP01·EP06·EP12 | camel cardigan over cream camisole, soft casual / EP06 mascara-wrecked |
+
+### 상세
+
+- 나이: 20대 후반 · 보통 체격
+- 헤어: shoulder-length auburn waves, copper highlights · 눈: warm hazel · 우측 입가 작은 점
+- 의상: 부드러운 캐주얼 · EP06 흐트러진 모습
+- 색: camel·cream·auburn
+- AIGC Call: `Late-20s woman, oval face, warm hazel eyes, mole above right lip, shoulder-length auburn waves, camel cardigan over cream camisole.`
+- 금지: EP12 이후 등장 비중 확대 · 한 단어 사과 핑퐁
+
+## 2-8. DR. CELIA BRANDT (클리닉 의사·협력자)
+
+### 캐릭터 / 디자인 느낌
+
+- 미용 클리닉 의사 · Mara 시술 집도·협력자 · EP01 swap 현장
+
+### 디자인룩
+
+| 룩 | 적용 EP | 상태 |
+|---|---|---|
+| 8-1 Clinic Doctor | EP01 (+짧은 후속) | white medical coat over slate blouse |
+
+### 상세
+
+- 나이: 40대 · 마른 체형
+- 헤어: short caramel bob · 눈: hazel behind thin gold-rim glasses
+- 의상: 흰 가운·짙은 평상복 · 가슴 포켓 silver pen
+- 색: white·slate
+- AIGC Call: `Early-40s woman, narrow oval face, hazel eyes, thin gold-rim glasses, short caramel bob, white coat over slate blouse.`
+- 금지: 의학 용어 dump · 영리한 공범 톤
+
+---
+
+## 3. 소품별 락 — 생성용 표식, 서사 엔진 아님
+
+원칙: **소품은 캐릭터 행동·관계·정체의 표식이지, 장면을 해결하거나 이야기를 끌지 않는다. 진실은 소품이 아니라 가짜의 자멸(자백)로 밝혀진다.**
+
+진행 중심: Lena의 능동 선택, Mara의 뻔뻔/멍청, 세상의 외면, Noah의 공개 선택.
+
+### 핵심 표식 소품
+
+| 소품 | 디자인 | 룰 |
+|---|---|---|
+| 어머니 목걸이 (MOTHER'S PENDANT) | gold-diamond, 안쪽 라틴 각인 `LUMEN MEUM` | **감정·정체성 표식** (Hard Lock 예외). EP01 강탈 → Mara 목 EP01-49 → EP50 무대서 강제 회수 → Lena 목. **Reveal trigger 아님.** 각인 = Lena만 아는 것 / Mara는 모름 (멍청함의 바늘), 플롯-키 X. |
+| 시술 흉터 (SURGICAL SCAR) | 좌측 귀 2cm 아래 곡선 1.5cm + 우측 손목 안쪽 직선 3cm | Mara 전용 · 두 얼굴의 유일한 시각 구별 · **근접 confirmation 컷만**, 세상을 뒤집는 trigger 아님(자백이 먼저). |
+| 어머니 진짜 웨딩드레스 | 단순 ivory silk, no train | EP04 Lena가 false panel서 꺼내 들고 나옴(Mara가 못 찾은 것) → EP46 그 드레스로 결혼. 감정 회수. |
+| 다이아 팔찌 (Mara) | diamond bracelet, 좌측 손목 | EP01 사고 현장 prop · 단발 시각 디테일 (CCTV-단서 엔진 아님). |
+
+### 폐기된 소품 (이전 설계 잔재 — 사용 금지)
+
+- ❌ CCTV 사고 영상 / 프레임 분석 · ❌ 삭제 예약표 · ❌ 테사 서명 증거 · ❌ MARA VOSS 본명 파일
+- ❌ 브라이덜룸 카메라 → 대형스크린 연결 (진실-공개 장치) — 전부 제거됨. 진실은 EP48 Mara의 자백.
+
+### 화면 증거 (소품 아닌 UI)
+
+- TV chyron(`MR. & MRS. CROSS`·`STALKER INCIDENT`), 폰 피드/댓글, 군중 핸드폰, 자막 reveal(`SHE STOLE MY FACE`·`SHE FINALLY SAID IT HERSELF`) — 9:16 모바일에서 즉시 읽히게.
+
+---
+
+## 4. 대공간별 락
+
+세부 방 이름보다 반복 출현하는 큰 공간감을 우선한다. 같은 대공간 안 세부 공간은 색·재질·구조 실루엣을 공유한다.
+
+| 대공간 | 적용 구간 | 기능 | 큰 형태 / 실루엣 | 색 / 질감 | 세부 공간 |
+|---|---|---|---|---|---|
+| Cross Manor | EP01-08·EP16·EP20·EP27·EP30·EP34 | 약혼 발표·페이월·공개 망신·결혼식 | 거대 대리석 발리룸, 무대 dais, 앞 계단, 차가운 금·유리 재벌 저택 | cold marble white, gold, deep navy, chandelier glare | ballroom, front steps, manor sitting room, bridal room |
+| Glenmoor Cemetery | EP01·EP17·EP50 | 어머니 묘소 (진짜 모친) | Sterling family plot, headstone, manicured grounds | grey stone, green, overcast soft light | graveside |
+| Noah's Penthouse | EP04·EP10·EP15·EP22·EP23·EP38·EP40 | "여기선 안전한 나" · 로맨스·재정비 | floor-to-ceiling glass, Manhattan skyline, minimal warm interior | night city light, warm low lamp, glass black mirror | living room, kitchen, bedroom, terrace |
+| Lena's Apartment | EP04·EP05·EP21 | 도둑맞은 집 (Mara가 차지) | marble lobby, modern high-floor apartment | warm neutral, marble, intruder's perfume | lobby (Hector), 14B interior |
+| Brandt Clinic | EP01 | swap 현장 (얼굴 도둑) | mirror-wall back room, surgical light | clinical white, mirror, cold steel | mirror room |
+| The Glass Conservatory | EP43·EP46-50 | Lena & Noah 결혼식 (진짜 회복) | wide glass hall over the sea, white peonies, aisle, tide behind | sea light, white, glass, gold band | aisle, bridal suite |
+| Somewhere Small (EP50) | EP50 | Mara의 몰락 | cramped bare gray room, muted TV | drained gray, cold | — |
+
+### 대공간 사용 규칙
+
+- establishing wide는 대공간을 한 번 잠글 때만. 반복 컷은 빈 목·펜던트 위치·흉터·군중 반응·Mara 가면 균열 같은 권력 변화 중심.
+- Cross Manor(가짜의 권력) vs Noah Penthouse(진짜의 안전) vs Conservatory(회복) = 색온도로 즉시 구별.
+- 같은 대공간 안에서는 소품·조명만 바뀌고 건축 문법 유지.
+
+---
+
+## 5. 최종 폐기 기준
+
+- 두 얼굴(Lena·Mara)이 한 컷에서 한눈에 구별 안 됨 / 긴 정적 같은-프레임에서 "누가 진짜?" 뜯어봐야 함.
+- 쿨한 수사·미스터리·스릴러 무드 (이 작품은 막장 — 시청자는 1화부터 다 안다).
+- 소품이 이야기를 끎 (CCTV·서류·증거·카메라 장치로 진실 폭로) — 진실은 가짜의 자백으로만.
+- 빌런(Mara·Victoria·Eileen)이 영리·우아·동정 가게 보임 (천박·뻔뻔·멍청해야 함).
+- Lena가 매달리고 질질 짜는 default 피해자로 보임 (당하되 꺾이지 않음).
+- 인물이 시대극/판타지/애니/현대 클럽룩에 있음 (현대 재벌 글로시 실사).
+- Mara 흉터가 사라지거나 위치가 흔들림.
+- 펜던트가 reveal-key처럼 쓰임 / 각인이 플롯을 해결.
+- 시적·연극·은유 대사 (`coat`·`seams`·`costume` 류).
+- 예쁜데 무슨 일이 바뀌었는지 안 읽힘 (뇌-오프 실패).
 
 ---
 
 ## 환류 로그
 
-- **2026-05-12 v1:** 주연 2 (레나 6변형·마라 3변형) + 조연 5 러프. Identity Theft 작품 특성상 레나·마라 동일 외모 + 시술 흉터로 구별. 어머니 목걸이 = Hard Lock 핵심 단서.
-- **2026-05-12 v2 (룰 정정):** 비주얼 락 본질 = 캐릭터 어셋 고정 (`feedback_visual_lock_system.md` v2). 조연 단일 의상 확정 / 노아 1번 변경.
-- **2026-05-27 v3 (양식 v2 통합):**
-  - 작품 레벨 Hard Lock plot prop 명시 (어머니 목걸이·다이아 팔찌만·그 외 단발)
-  - 작품 cadence 금지 (no-theater-tone 5 차원)
-  - 작품 인티머시 카논 (T2 한도·레나 ↔ 노아 페어·KEY CAMERA shot list)
-  - 각 캐릭터 1-5 AIGC Asset Call Signature 추가
-  - 각 캐릭터 3-1 Voice 음색 + 금지 패턴 추가
-  - 각 캐릭터 9-2 Voice·9-3 Prop 의존 금지 섹션 추가
-  - 룩 변형마다 AIGC Asset Call Signature 추가
+- **2026-05-12 v1~v3:** 초기 6변형 캐릭터 어셋 + no-theater-tone 5차원 + 인티머시 카논. (구 증거-미스터리·이복자매 엔진 기준 — 폐기.)
+- **2026-05-30 v4 (전면 재작성 · titan_born 양식 참조 · v37 동기화):**
+  - 양식을 titan_born 비주얼락 lean 포맷으로 교체 (명사·외형·금지 중심·프롬프트 ready). 캐릭터별 🆕 비대 서브섹션 제거.
+  - **v37 엔진 동기화:** 증거/수사/CCTV/삭제예약표/서명/브라이덜룸-카메라-폭로장치·이복자매(EP35 bloodline)·EP25 정체폭로 = 전부 제거. 진실 = EP48 Mara 자백(Lena가 결핍 찔러). 펜던트·흉터 = 표식(엔진 X).
+  - **캐논 오류 수정:** Lena/Mara 나이 late-20s → **30세.** 펜던트 회수 EP9 → **EP50.** 인티머시 EP16/23/48/49 → **T2 EP15·23·38·45.**
+  - **신규 락:** 🔒 동일 얼굴 구별 락(AIGC #1 제약·5수단·긴 같은-프레임 금지) · 시청자 이해도(뇌-오프) · 막장 톤(쿨 미스터리 금지·빌런 천박).
+  - 룩 변형 v37 EP에 재정렬 (Lena 5룩·Mara 3룩·빈 목 EP02-49). 폐기 소품 명시.
