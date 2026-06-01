@@ -1,7 +1,7 @@
 # SHE STOLE MY FACE — Master Continuity Bible (⛔ DEPRECATED · 2026-05-30)
 
-> ⛔ **이 문서는 폐기됨.** v1(2026-05-27)은 구 증거-수사-이복자매 엔진 기준이라 현재 본문(v37)과 충돌한다.
-> **연속성·캐논 단일 출처 = `06_she_stole_my_face_04_blueprint_full.md` (v2) §12-8 + `07_final/06_she_stole_my_face_FINAL_v37.md`.**
+> ⛔ **이 문서는 폐기됨.** v1(2026-05-27)은 구 증거-수사-이복자매 엔진 기준이라 현재 본문(v38.1)과 충돌한다.
+> **연속성·캐논 단일 출처 = `06_she_stole_my_face_04_blueprint_full.md` (v3) §12-8 + `07_final/06_she_stole_my_face_FINAL_v38.md`.**
 > 아래 본문은 역사 기록용. **사용 금지** — 특히 Halcyon Trust·Julian Voss·"Mara = Helena 비밀 딸/이복자매"·Milo Hayes·라이브 카메라 신호·EP35 bloodline 폭로 = 전부 폐기됨. (구 "이 문서가 단일 진실/우선" 조항 무효.)
 
 ---

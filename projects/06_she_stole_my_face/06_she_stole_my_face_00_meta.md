@@ -34,9 +34,13 @@
 
 ## 진행 상황
 
-**현재 단계 (2026-05-30 갱신):** **🎬🔒 FINAL v37 — `07_final/06_she_stole_my_face_FINAL_v37.md` — PRODUCTION-LOCK** (v36까지 톤·구조 정리 → v37 외부 시청자 페르소나 4인 패널이 만장일치로 짚은 #1 구조 결함(여주 46화 수동·중반 반복·페이월 하향·결말 펀치 Noah) 척추 재설계: Lena 능동화(EP06 무기→EP08 선언→EP24 보이는 승점→EP48 **Lena가 직접 결정타**→EP49 씨앗 회수). fresh-eyes 정합성 패스 HIGH 1건 수정 후 LOCK. 상세 = CLAUDE.md 작품 테이블 단일 출처.)
+**현재 단계 (2026-06-01 갱신):** **🎬 FINAL v38 — `07_final/06_she_stole_my_face_FINAL_v38.md`** (vertical 재분절: TV식 '한 화=자기완결 사건' → vertical식 '한 상황을 4-5/7-8화로 milk'·묶음 4·4·5·8·7·7·5·5·5·맵 `04b_resegmentation_map.md`·fresh-eyes QC 통과·단발 세트[Bea/Marlow/파우더룸] 컷·swap EP1-2·첫균열 EP18·T2 15/23/38/45 보존·EP48 Lena 결정타 보존. **v38.1 상업 cadence 보정(2026-06-01):** "돈 되는가" 빡센 판단 결과 = 전환(EP8)·피날레는 강하나 유료 중반(EP20-39)이 굴욕 백로딩으로 인당 구매화수 누수 → 중반에 *회수 안 되는* 쾌감 이식(EP19 갈라 스나르 클립 상시 유지·EP26 적진 신봉자 공개 합류+Mara 공개 손실[빈 의자]·EP36 멍청함의 가시적 대가[보드 제외·친구 이탈·클립 잔존=제국 균열])+EP49 Ethan "진짜를 버렸다" 후회. 게이트 전부 통과(EP50·HC49·END1·한국어0·훅42·은유0). **핸드오프/청사진/비주얼락 = v38.1 환류 동기화 완료(2026-06-01·아래 환류 로그).** **v38.2 (2026-06-01·Noah 위로비트 반복 압축):** v38.1에서 보류한 '차기 패스' 집행 — Noah 순수 verbal 반복 안심 틱 6곳만 외과 처치(filler "I know" 컷·only-two-know 비트 "Two of us, then."·certainty 라인 중복 해소·이중 안심 트림·서약 "Best thing it ever cost me." 신선 payoff). 엔진 앵커 `"I'm Lena."/"I know."`·경비 차단 행동·"Cry. I've got you...I do."·공개 선언·T2 보존. 핸드오프(→v38.2)·비주얼락(v5→v5.1)·청사진(v3→v3.1) = v38.2 최신 대본 기준 환류 + 전수 정합성 수정 완료(사용자 지시 — 비주얼락 Eileen EP 마커·Conservatory EP44·Cross Manor EP28·청사진 Tessa EP11 등 4건 fix·회귀단역/Hector/펜던트/드레스/흉터/T2 대본 일치 확인). 게이트 통과(50EP·HC49·END1·한국어0·은유0·voice_lint v32 베이스라인 이내). 상세=CLAUDE.md.)
+
+**(이전) v37 (2026-05-30 LOCK):** **🎬🔒 FINAL v37 — `07_final/06_she_stole_my_face_FINAL_v37.md` — PRODUCTION-LOCK** (v36까지 톤·구조 정리 → v37 외부 시청자 페르소나 4인 패널이 만장일치로 짚은 #1 구조 결함(여주 46화 수동·중반 반복·페이월 하향·결말 펀치 Noah) 척추 재설계: Lena 능동화(EP06 무기→EP08 선언→EP24 보이는 승점→EP48 **Lena가 직접 결정타**→EP49 씨앗 회수). fresh-eyes 정합성 패스 HIGH 1건 수정 후 LOCK. 상세 = CLAUDE.md 작품 테이블 단일 출처.)
 
 **환류·전달 (2026-05-30):** 청사진 v2 + 비주얼락 v4 v37 동기화 완료. 캐논 팩트는 청사진 §12-8로 흡수, `05_canon_bible.md`는 ⛔폐기(연속성 단일 출처 = 청사진 §12-8 + FINAL v37). 제작 전달본 신규: **`06_she_stole_my_face_PRODUCTION_HANDOFF_v37.md`** (핵심만·주연급 인물/의상 EP표·핵심 엔진·시각 must·제작 룰[지문 자율 보정 OK·대사 변경 금지=사전요청]).
+
+**환류·전달 (2026-06-01·v38.1 동기화):** 청사진 v3 + 비주얼락 v5 + 제작 핸드오프를 v38.1에 환류. 핸드오프 신규 = **`06_she_stole_my_face_PRODUCTION_HANDOFF_v38.md`** (v37본은 ⛔supersede 배너). 공통 정합: swap EP01→EP01-02·첫 공개 균열 EP24→EP18·드레스 회수 EP04→EP05·Hector EP09·50·5블록→9묶음(04b)·Eileen EP02·20·30·36·39·Tessa EP01·06·11. **신규 회귀 단역 잠금(동일 배우): 묘지 기자(EP14·18·19·49)·진주 노부인(EP26·49).** 엔진 정합: Ethan EP49 후회 플래시(grovel X)·"중반 균열=호감 균열이지 swap 발각 아님" 룰 명문화.
 
 이전 본:
 - FINAL v1 = phase_6 round 1 패치 후 통합 (`07_final/06_she_stole_my_face_FINAL_v1.md`)
