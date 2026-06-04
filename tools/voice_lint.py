@@ -12,6 +12,8 @@ Catches the exact failure patterns the memory files document:
         THERAPY    - "part of me / the version of me / who I was"
         MIRROR     - possession declaration "you are mine / I am yours"
         CLINICAL   - clinical verb inside human anger (dispose of / eliminate)
+        ACQUIRE    - male-target genre-fit: enemy-force acquisition framed as the
+                     win (seize/take command of the army) instead of smash/dominate
         EM_DASH    - 2+ em-dashes on one line (poetic asides)
   LOW   BRITISH    - grey / colour / cancelled / whilst ... (NA spelling only)
         BREATH     - "takes a breath / steadies her breath" stage tic
@@ -54,6 +56,15 @@ PATTERNS = [
     ("CLINICAL", "MED", re.compile(
         r"\b(dispose of|eliminate|terminate|neutraliz\w*|neutralis\w*|liquidate)\b", re.I),
      "clinical verb inside human anger"),
+    ("ACQUIRE", "MED", re.compile(
+        r"\b(seize[sd]?|seizing|claim[s]?|takes? command|taking command|"
+        r"take[s]? over|taking over|inherit[s]?|absorb[s]?)\b[^.?!]{0,25}\b"
+        r"(army|armies|legion[s]?|fleet[s]?|troops?|soldiers?|battalion[s]?|forces|ranks?)\b"
+        r"|\b(army|armies|legion[s]?|fleet[s]?|troops?|soldiers?|battalion[s]?|forces)\b"
+        r"[^.?!]{0,25}\b(now\s+)?(serve[s]?|obey[s]?|answers?\s+to|defect[s]?\s+to|"
+        r"kneel[s]?\s+to|bow[s]?\s+to|under\s+(his|her|my)\s+command)\b", re.I),
+     "enemy-force acquisition framed as the win - male-target wants smash/dominate, "
+     "not command-transfer (only women are a satisfying seizure); confirm a destruction beat carries it"),
     ("BRITISH", "LOW", re.compile(
         r"\b(grey|colour|favour|honour|realise|recognise|cancelled|travelled|"
         r"theatre|centre|defence|licence|apologise|organis\w*|whilst|learnt|"

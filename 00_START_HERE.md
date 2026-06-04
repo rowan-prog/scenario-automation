@@ -10,8 +10,6 @@
 
 | 폴더 | 작품 | 현재본 (정본) | 단계 | 다음 작업 |
 |---|---|---|---|---|
-| `projects/02_the_offering/` | THE OFFERING | **🔒 `07_final/02_the_offering_FINAL_v33_5_clean.md` (Production LOCK 2026-05-21)** | v33.5 LOCKED + 비주얼 락 v4 완료 | 원어민 polish (내가 진행·다음 단계) |
-| `projects/01_titan_born/` | TITAN BORN | (07_final 확인 후 갱신) | 완결 ✅ | 없음 |
 | `projects/03_most_wanted_ship/` | I BOUGHT THE GALAXY'S MOST WANTED SHIP | (07_final 확인 후 갱신) | phase_2 완료 | phase_3 진입 대기 |
 | `projects/06_she_stole_my_face/` | SHE STOLE MY FACE | (07_final 확인 후 갱신) | phase_3 완료 | phase_4 진입 대기 |
 
@@ -19,6 +17,8 @@
 
 | 폴더 | 사유 |
 |---|---|
+| `projects/_X_01_titan_born/` | 외부 별도 진행 — `_X_` prefix·자동 차단 (2026-06-02) |
+| `projects/_X_02_the_offering/` | 외부 별도 진행 — `_X_` prefix·자동 차단 (2026-06-02) |
 | `projects/_X_04_heiress_clause/` | 폐기 — `_X_` prefix·자동 차단 |
 | `projects/_X_08_reborn_at_ten/` | 폐기 — `_X_` prefix·자동 차단 |
 
