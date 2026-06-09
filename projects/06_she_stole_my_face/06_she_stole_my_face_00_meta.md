@@ -1,5 +1,34 @@
 # SHE STOLE MY FACE — 진행 메타
 
+## 🟡 LOCK-READY CERTIFICATE — v48 (2026-06-09 · 사용자 교차검수 대기)
+
+**정본: `07_final/06_she_stole_my_face_FINAL_v48.md` · AIGC △ 프롬프트-제작양식 · LOCK-ready.** 자동/에이전트 게이트(기계+적대 Track B+cold-read Track A) 전부 통과. **진짜 LOCK = 사용자 교차검수 후 확정**(자가판정 단독 LOCK 금지). Track A 패치 5개(EP9/30/31/35/48)=신규 작성분이라 교차검수 필수.
+
+| 항목 | 값 |
+|---|---|
+| EP / Scene | 50 / 87 |
+| Hard Cut / [END HOOK] | 49 / 49 (EP50 자연 END) |
+| 전수 분모 | 대사 393 · VO 31 · △ 542 |
+| Korean 잔존 | 0 |
+| action-line 대명사(모호) | 0 |
+| 포맷 비준수 | 0 |
+| have sex | 1 |
+| voice_lint | METAPHOR 2(씬타이틀+엔진모티프·≤baseline 3) · MICRO_ACTING 0 · "I love you" 2 |
+| char count | 97,018 (AIGC 제작양식 — 대사 70-80k spec 미적용) |
+| **Track B 진성오류 (HARD/FIX)** | **0** |
+
+**파이프라인:** `config/lock_pipeline_standard.md`. Phase 2A 기계게이트 PASS → Track B 적대 에러게이트(10 에이전트·분모 제시·76 flags) → 쇼러너 merge(HARD 11 + FIX 11 + WATCH 14 수정·천박≠싸구려/엔진보호 기각 적용) → Track A(cold-read 3회 + 여성시청자/장르쾌감 페르소나·engine_intact=True·PATCH THEN LOCK·전원 EP8 결제 YES) → 수렴 약점 패치 → 델타 적대검수 → 확인 cold-read → 재게이트 PASS.
+
+**Track B HARD 11(적대게이트가 잡은 기초 정합성 오류):** Continuous 텔레포트(EP2 차/EP8 dais)·LIVE 시간모순·EP20 중복아이디어·"he"=Ethan 모호(AI더빙)·aisle 방향 모순·상처 lip↔hairline·EP41 INTERCUT 누락·"Tonight"↔주간. = "AI가 늘 괜찮다"던 그 사고들 → 파이프라인 유효성 실증.
+
+**Track A 패치(수렴 약점):** EP9 첫유료=헌터각성(불신 반복→첫 무기 발견)·EP30 빌런 공회전→Lena 능동(reporter에 Mara 실수 전달=안 내려가는 크랙)·EP31 reshape(4번째 잠입-끌려나감→의심이 Mara에게·Lena 밖 헌팅·staircase)·EP35 gloat-call 중복 제거→Lena가 심은 기자 공개 TV 함정·EP48 confession 트리거 therapist→막장 taunt. reporter staircase = EP9 hands lie → EP10 계획 → EP30 전달 → EP35 공개 결실.
+
+**잔존 WATCH(~40·LOCK 비차단):** 전부 intended-design/엔진 — 흉터 hand-to-ear tell(EP1 장전·EP49 무의식 회수)·pendant 소유 모티프·Lena 불신(EP48까지 = 막장 엔진 고정비용)·EP25/29 유사(EP31 reshape로 4연속 깨짐).
+
+**다음(사용자 교차검수 통과 후):** docs(핸드오프·비주얼락·청사진) v48 *내용* 환류(reporter 스레드·EP9/30/31/35/48 변경 반영 — *양식 변경 아님*·이전 v47 환류와 동종) + 마케팅 셀링포인트(`config/mkt_selling_points_template.md`).
+
+---
+
 ## 작품 정보
 
 - **가제 (영어/한국어):** SHE STOLE MY FACE / 내 얼굴로 재벌가 약혼녀가 된 여자
