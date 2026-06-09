@@ -19,13 +19,12 @@
 - **`config/target_research/male_target_research.md`**
   - **이 단계 필요 Section: 1-5 (결론·4축·16 카테고리), 15-17 (5 최적 조합·5대 엔진·표면 장르), 21-22 (시장 출발·10 결제 패턴), 28 (공식)**
 - `config/target_research/platform_recent/2026-05-12_paid_vertical_signals.md` (남성향 작품 매트릭스만)
-- 메모리: `feedback_male_target_research_data.md` / `feedback_male_target_immediate_gratification.md` / `feedback_genre_reward_modes.md` / `feedback_paid_vertical_platform_signals.md` / `feedback_hook_vs_payment_engine.md` / `feedback_space_adventure_niche_opportunity.md` (해당 시)
-
+- 메모리: `feedback_male_target_master.md` / `feedback_genre_reward_modes.md` / `feedback_paid_vertical_platform_signals.md` / `feedback_hook_vs_payment_engine.md`
 **여성향 작품 진입 시:**
 - **`config/target_research/female_target_research.md`**
   - **이 단계 필요 Section: 1-4 (결론·시장·9 핵심 보상·16 카테고리), 18-21 (10 기획 조합·Harlequin 변환·피해야 할 5·최종 우선순위)**
 - `config/target_research/platform_recent/2026-05-12_paid_vertical_signals.md` (여성향 작품 매트릭스만)
-- 메모리: `feedback_female_target_research_data.md` / `feedback_female_target_romance.md` / `feedback_genre_reward_modes.md` / `feedback_paid_vertical_platform_signals.md` / `feedback_hook_vs_payment_engine.md`
+- 메모리: `feedback_female_target_research_data.md` / `feedback_genre_reward_modes.md` / `feedback_paid_vertical_platform_signals.md` / `feedback_hook_vs_payment_engine.md`
 
 ### 공통 룰 메모리 (필수)
 - `feedback_target_data_dual_use.md` (검증+집필+피칭 근거 활용)
@@ -120,7 +119,7 @@
 
 ## 작성 원칙
 
-### A. 새 원칙 (필수, `feedback_pitch_principles_master.md`)
+### A. 새 원칙 (필수, production_guide 11-8)
 - 작품 밖에서 말하지 말 것. 작품 안 실제 사건만.
 - 평가·해설·메타 0건. 빈 결론문 0건.
 - 금지어 35종 검색 후 의심.
@@ -128,7 +127,7 @@
 - 사람을 물건처럼 ("폐기된" / "자산" / "변수") 0건.
 - 7 최종 검수 모든 문장 통과.
 
-### A0. 직관성 anti-pattern 6 검수 (필수, `feedback_directness_anti_patterns.md`)
+### A0. 직관성 anti-pattern 6 검수 (필수, `feedback_directness_master.md`)
 - **A1 은유·암시 0건** ("이름을 지웠다" / "잘라냈다" / "자리를 비웠다" → 사실로)
 - **A2 장소 명확** ("어둠 속" / "그곳" → 구체 장소)
 - **A3 추상·인격화 동사 0건** ("응답해 / 호응해 / 동조해 / 화답해 / 함께 떨고 / 같은 결로" → 시각적 동사)
@@ -147,8 +146,8 @@
 - 클리프행어가 단서 발견만으로 끝나면 약함 → 인물 처지 변화 동반.
 - 핵심 발화는 영어 인용 가능.
 
-### D. 회차 설계 게이트 (Section 5-5 — 체질 개선 v3·2026-05-17)
-- **회차 수 가변** (권장 50-60화 / 결제 루프 자연 흐름) / **편당 90초-3분 가변** / **페이월 위치 자연 흐름 EP5-15 분포** / 분할 가능 단위. (장르·소재·타깃 가변·`feedback_episode_count_flexibility.md`)
+### D. 회차 설계 게이트 (🚨 MEMORY 0-2 절대 룰 우선·2026-05-28 정정)
+- **default = 50화 · 총 70-80k chars · 편당 ~1.5분 · 페이월 EP8.** 다른 값은 사용자 명시 시만. (구 "가변 50-60화·EP5-15" 프레이밍 = 폐기)
 
 ### E. 인물 이름 충돌 검사 (필수, `feedback_character_name_diversity.md`)
 - 기존 진행 중 모든 작품 이름·성씨와 충돌 검사. 충돌 시 신규 작품 측 양보.
@@ -169,11 +168,8 @@
 
 화수는 매출의 직접 곱셈 인자. 다음 3가지 게이트를 모두 통과해야 함.
 
-### 회차 설계 기준 (체질 개선 v3·2026-05-17)
-- 편당 길이: **90초-3분 가변** (장르·소재·타깃 가변)
-- 총 러닝타임: **회차 수 × 편당 길이** (가변)
-- **총 화수: 가변** (권장 50-60화 / 결제 루프 자연 흐름)
-- **페이월 위치: 가변** (EP5-15 분포 — 23 히트작 baseline)
+### 회차 설계 기준 (🚨 MEMORY 0-2 절대 룰)
+- **50화 · 총 영어 char count 70-80k (target ~75k) · 편당 ~1.5분 · 페이월 EP8** — default 고정. 사용자 명시 시만 변경.
 
 ### 3가지 게이트 질문 (자가 점검)
 1. 편당 평균 길이 × 총 화수 = 예상 총 러닝타임. 보수적 책정?
@@ -182,7 +178,7 @@
 
 게이트 미통과 시 → 회차 설계 재작업.
 
-## 7 최종 검수 (모든 문장 통과 — `feedback_pitch_principles_master.md`)
+## 7 최종 검수 (모든 문장 통과 — production_guide 11-8)
 
 1. 실제 사건이 있는가?
 2. 사람이 움직이거나·물건이 넘어가거나·자리가 바뀌는가?

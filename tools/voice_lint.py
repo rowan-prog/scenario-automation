@@ -74,6 +74,23 @@ PATTERNS = [
         r"\b(takes? a breath|a steadying breath|steadies? (her|his|my|the) breath|"
         r"steadying breath|breathes out|lets out a breath|a shaky breath)\b", re.I),
      "breath-stabilization stage tic"),
+    ("MICRO_ACTING", "MED", re.compile(
+        r"\b(unreadable|enigmatic|inscrutable|cryptic)\b[^.?!]{0,18}\b"
+        r"(look|glance|smile|grin|expression|gaze|face|eyes)\b"
+        r"|\b(look|glance|smile|grin|expression|gaze)\b[^.?!]{0,12}\b"
+        r"(unreadable|enigmatic|inscrutable|cryptic|complicated|conflicted)\b"
+        r"|\b(meaningful|knowing|pointed|loaded|secret|wry) (look|glance|smile|grin)\b"
+        r"|\b(a|the|her|his) (faint|small|slight|ghost of a|hint of a|tiny|barely-there) (smile|grin)\b"
+        r"|\b(complicated|complex|conflicted|unreadable|ambiguous) (expression|emotion|feeling)\b"
+        r"|\b(barely perceptible|almost imperceptib\w+|barely noticeable)\b"
+        r"|\bsomething (flickers?|flickered|passes?|passed|crosses?|crossed|shifts?|shifted)\b"
+        r"[^.?!]{0,22}\b(face|eyes|features|expression)\b"
+        r"|\ba flicker\b"
+        r"|\b(flickers?|flickered|crosses?|crossed|passes?|passed|ghosts?) "
+        r"(of \w+ )?(over |across |through )?(her|his|their|the) (face|eyes|features|expression)\b"
+        r"|\bface changes in one (frame|beat)\b|\bin a single frame\b", re.I),
+     "subtle facial micro-acting AI-video can't render; externalize subtext via "
+     "insert + V.O. and resolve to a specific shot (ECU/crash-zoom)"),
 ]
 
 KOREAN = re.compile(r"[가-힣㄰-㆏]")

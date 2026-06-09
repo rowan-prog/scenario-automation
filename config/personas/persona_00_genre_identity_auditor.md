@@ -24,7 +24,7 @@
 - `feedback_ai_writing_guide_reference.md` (AI 집필 가이드)
 - `feedback_23_hits_baseline_synthesis.md` (히트작 통합)
 - `feedback_no_theater_tone.md` (시적 톤 금지)
-- `config/hit_library/vertical_hit_library_2026-05-19_corrected_v2.xlsx` (히트 라이브러리)
+- `config/hit_library/vertical_hit_library_2026-06-05_updated.xlsx` (히트 라이브러리·현재 활성)
 - `config/vertical_drama_hit_scripts/` (검증 대본)
 
 ## 검토 강도 (절대 — 다른 페르소나보다 엄격)

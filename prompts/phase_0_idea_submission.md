@@ -42,14 +42,14 @@ phase_0 (아이디어 제출 + 선택)
   - **이 단계 필요 Section: 1-5 (결론·4축·16 카테고리), 15 (5 최적 조합), 31 (12 후킹 소재 매트릭스), 38 (플랫폼 신호 요약)**
   - 다른 Section은 후속 phase에서 정독
 - **플랫폼 신호:** `config/target_research/platform_recent/2026-05-12_paid_vertical_signals.md` (해당 성향 작품 매트릭스만)
-- 메모리: `feedback_male_target_research_data.md` / `feedback_male_target_immediate_gratification.md` / `feedback_paid_vertical_platform_signals.md` / `feedback_space_adventure_niche_opportunity.md` (해당 시)
+- 메모리: `feedback_male_target_master.md` / `feedback_paid_vertical_platform_signals.md`
 - 페르소나: `config/personas/persona_08_male_viewer_diagnostic.md`
 
 ### 여성향 작품 진입 시 (필수 — 단계 한정 Section만 정독)
 - **문서:** `config/target_research/female_target_research.md`
   - **이 단계 필요 Section: 1-4 (결론·시장 전제·9 핵심 보상·16 카테고리), 18 (10 기획 조합), 24 (플랫폼 신호 요약)**
 - **플랫폼 신호:** `config/target_research/platform_recent/2026-05-12_paid_vertical_signals.md` (해당 성향만)
-- 메모리: `feedback_female_target_research_data.md` / `feedback_female_target_romance.md` / `feedback_paid_vertical_platform_signals.md`
+- 메모리: `feedback_female_target_research_data.md` / `feedback_paid_vertical_platform_signals.md`
 - 페르소나: `config/personas/persona_09_female_viewer_diagnostic.md`
 
 ### 공통 룰 메모리 (필수)
@@ -68,8 +68,8 @@ phase_0 (아이디어 제출 + 선택)
 - **선호 카테고리·장르 방향** (열려 있는 카테고리·반드시 피할 카테고리)
 - **플랫폼** (페이드 버티컬 / TVOD / OTT)
 - **포맷** (AIGC Live-action vs Animation 3D / 2.5D / 2D + 세로형 9:16 vs 가로형 16:9)
-- **총 화수·편당 길이** (회차 수 가변·권장 50-60화 / 편당 90초-3분 가변·체질 개선 v3)
-- **결제 루프 구조** (전 회차 1개 자연 흐름·페이월 위치 자연 흐름 EP5-15 분포 — 체질 개선 v3)
+- **총 화수·편당 길이** (🚨 default = **50화·총 70-80k chars·편당 ~1.5분** — MEMORY 0-2 절대 룰. 다른 값은 사용자 명시 시만)
+- **결제 루프 구조** (전 회차 1개 자연 흐름·페이월 default EP8)
 - **제한 수위** (다크 로맨타지 고수위 / 일반 / 안전 톤)
 - **참고 작품·톤** (선택)
 - **사용자 아이디어** (있으면 1차 input. 없으면 AI가 자유 생성)
@@ -131,7 +131,7 @@ phase_0 (아이디어 제출 + 선택)
 - 1개: 외도 복수 / 후회남
 
 ### B. 타깃 자료 기반 (필수)
-각 아이디어는 **`feedback_male_target_research_data.md` 또는 `feedback_female_target_research_data.md` 자료에 직접 매칭**.
+각 아이디어는 **`feedback_male_target_master.md` 또는 `feedback_female_target_research_data.md` 자료에 직접 매칭**.
 
 남성향:
 - 보상 루프 본질 7개 중 최소 3개 포함 (강해진다·해금된다·장비가 좋아진다·거점이 커진다·판을 읽는다·강자가 인정한다·여자가 붙는다)
@@ -194,7 +194,7 @@ phase_0 (아이디어 제출 + 선택)
 ## 실행 순서
 
 1. **필수 입력값 전체 확보 확인** — 빠진 항목 있으면 먼저 묻는다.
-2. **타깃별 자료 정독** — 남성향이면 `feedback_male_target_research_data.md`, 여성향이면 `feedback_female_target_research_data.md`.
+2. **타깃별 자료 정독** — 남성향이면 `feedback_male_target_master.md`, 여성향이면 `feedback_female_target_research_data.md`.
 3. **기존 작품 충돌 검사** — `projects/` 폴더 메타·인물 이름·세계관 확인.
 4. **아이디어 N개 생성** — 카테고리 분산 + 타깃 자료 기반 + 광고 카피라이팅 로그라인 + 5차원 자가 점검.
 5. **위험 신호 자가 진단** — 각 아이디어마다 점검.

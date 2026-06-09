@@ -6,15 +6,24 @@
 >
 > **새 시스템:** EP01-EP10 (또는 EP12) **한 호흡 Conversion Runway 집필.** EP08 = **paywall cut** (완결 X / 끊는 지점). **EP09 장면이 집필 목표** (EP1-7은 EP9 행동 압박 설계).
 
+## 단계 중심 (운용 룰 §0 — 2026-06-05)
+
+**집필 = 쾌감·재미 생산이 본령.** 모든 판단 기준 = "이게 결제하고 싶나·이 장면이 터지나". 정합성·포맷은 최종고 게이트(phase_7)가 잡는다 — 집필 중엔 발목 잡지 않게만.
+
+## 진입 게이트 + 파일럿 우선 (2026-06-05)
+
+1. **Engine brief 없이 집필 시작 금지** — `[작품]_03b_engine_brief.md` (`config/engine_brief_template.md`). 쾌감 엔진·reference calibration(히트작 기능 단위 비교)·보이스 락·게이트 기준이 잠겨 있어야 한다. "히트작처럼" 추상 적용 = 망한다 — 기능 단위(EP1 훅·first paid reward·villain insult·sex reward·HEA payoff)로 실제 비트와 1:1 비교.
+2. **파일럿 우선:** ①EP1~페이월 먼저 집필 → funnel-cold-reader 독립 3회 수렴 (engine brief §4 기준) → 엔진/훅 확정 → ②잔여 EP 집필. 엔진 미확정 50EP 전량 집필 → 전면 재작성이 역대 최대 토큰 낭비.
+
 ## 새 7 단계 (옛 19 Step 폐기)
 
-1. **Hit Function Intake** — 히트작 기능 추출 (표면 복사 X)
+1. **Hit Function Intake** — 히트작 기능 추출 (표면 복사 X·engine brief calibration 표에 기록)
 2. **Reward Loop / Antagonist / Proof Ledger** — 청사진 중심 작성
 3. **EP01-EP10 Conversion Runway 설계** — EP1-7 압박·EP8 paywall cut·EP9 즉시 보상·EP10 더 큰 부채
 4. **Visual Lock** — AIGC 어셋·보상 루프 화면 설계서
 5. **Single-Voice Script Draft** — 한 호흡 (4 seed 조립 X)
-6. **Three-Gate Review** — Commercial·Native Spoken English·AIGC Visual
-7. **Rewrite**
+6. **기계 게이트** — voice_lint + 직접 한 줄 수술 (전면 Rewrite 폐기 — 1 pass + 외과)
+7. **구간 검수** — 운용 룰 §4 시점만 (파일럿 cold-read·LOCK 전 fresh-eyes) → phase_5
 
 ## 핵심 baseline 메모리 (필수 정독)
 
@@ -22,7 +31,7 @@
 - `feedback_conversion_runway_writing.md` (v3 핵심·새 7 단계)
 - `feedback_unified_writing_flow.md` (v2 무료/유료 분리 폐기)
 - `feedback_payment_loop_unit_writing.md` (결제 루프 단위)
-- `feedback_episode_count_flexibility.md` (회차 수·페이월 위치 가변)
+- ~~`feedback_episode_count_flexibility.md`~~ (⛔ 폐기 — 50화·70-80k 고정 = MEMORY 0-2 절대 룰이 우선)
 - `feedback_vertical_drama_7_rules.md` (7 핵심 룰)
 - `feedback_demon_lord_failure_postmortem.md` (실패 9 함정·회피 baseline)
 - `feedback_locked_out_success_insights.md` (성공 패턴 baseline)
@@ -48,7 +57,7 @@ EP08은 paywall cut으로·EP09를 목표로 EP1-7 압박 설계.
 - ⛔ 옛 `protocol_premium_pilot.md` / `protocol_premium_pilot_lite.md` (체질 개선 v3에서 폐기·archive — Conversion Runway 7 단계로 대체)
 - ⛔ 19 Step Premium Pilot
 - ⛔ 4 Seed Draft (a_visual·b_voice·c_paywall·d_heat)
-- ⛔ 9 페르소나 매번 (Three-Gate Review로 대체)
+- ⛔ 9 페르소나 매번 (검수 = 운용 룰 §4 시점·agent 패널로 대체)
 - ⛔ "무료회차 EP1-8 별도 protocol" 라우팅
 
 ## 실행 전 읽어야 할 파일
@@ -93,12 +102,12 @@ EP08은 paywall cut으로·EP09를 목표로 EP1-7 압박 설계.
 **남성향 작품:**
 - `config/target_research/male_target_research.md`
   - **이 단계 필요 Section: 22 (10 결제 패턴), 24 (설계 룰 4 — 잠긴 보상·매화 끝 상태), 25 (포맷별 강약점), 28 (매화 끝 상태 변화 룰)**
-- 메모리: `feedback_male_target_research_data.md` / `feedback_male_target_immediate_gratification.md` / `feedback_paid_vertical_platform_signals.md` / `feedback_hook_density_vs_qa_weighting.md`
+- 메모리: `feedback_male_target_master.md` / `feedback_paid_vertical_platform_signals.md` / `feedback_hook_density_vs_qa_weighting.md`
 
 **여성향 작품:**
 - `config/target_research/female_target_research.md`
   - **이 단계 필요 Section: 3 (9 핵심 보상), 7 (결제 행동 패턴), 8 (자가 검증 8개), 20 (피해야 할 5)**
-- 메모리: `feedback_female_target_research_data.md` / `feedback_female_target_romance.md` / `feedback_paid_vertical_platform_signals.md` / `feedback_hook_density_vs_qa_weighting.md`
+- 메모리: `feedback_female_target_research_data.md` / `feedback_paid_vertical_platform_signals.md` / `feedback_hook_density_vs_qa_weighting.md`
 
 **공통 룰:**
 - `feedback_target_alignment_all_steps.md` (5차원 정렬 매 회차)
@@ -118,12 +127,12 @@ EP08은 paywall cut으로·EP09를 목표로 EP1-7 압박 설계.
 
 > **옛 무료/유료 분리 진행 폐기.** 전 회차 1개 자연 흐름·Conversion Runway 7 단계 (`feedback_conversion_runway_writing.md` + `feedback_unified_writing_flow.md`).
 
-phase_3 청사진이 완성된 시점부터 phase_4 집필은 **전 회차 자동 순차 진행** (회차 수 가변):
+phase_3 청사진이 완성된 시점부터 phase_4 집필은 **전 회차 자동 순차 진행** (default 50화 고정 — MEMORY 0-2):
 
 ### 진행 순서
-1. **EP1~EPN** 한 호흡 집필 — Conversion Runway 7 단계 (Hit Function Intake → Reward Loop·Antagonist·Proof Ledger → EP1-10 Conversion Runway 설계 → Visual Lock → Single-Voice Script Draft → Three-Gate Review → Rewrite)
-2. **페르소나 검토** (Three-Gate Review·또는 풀 페르소나 phase_5·phase_6 사이클 옵션)
-3. **phase_7 4-Gate** 평가 → **1종 FINAL.md** 통합
+1. **파일럿 (EP1~페이월)** 한 호흡 집필 → cold-read 3회 수렴 → 엔진 확정
+2. **잔여 EP** 한 호흡 집필 (Conversion Runway 7 단계)
+3. **LOCK 전 검수** (phase_5 — fresh-eyes + cold-read + 필요 시 패널) → 수술 (phase_6) → **phase_7 게이트** → **FINAL_v{N}** 통합
 
 ### 룰
 - 사용자가 명시적으로 한정한 경우에만 그 범위로 작업
@@ -132,42 +141,66 @@ phase_3 청사진이 완성된 시점부터 phase_4 집필은 **전 회차 자�
 - phase_5·phase_6·phase_7 사이클은 전 회차 단위 (옛 무료/유료 분리 폐기)
 - 상세: 메모리 `feedback_unified_writing_flow.md` + `feedback_conversion_runway_writing.md`
 
-### 분량 기준 (체질 개선 v1·v3 — 회차 수·페이월 위치 가변)
-- **회차 수 가변** (권장 50-60화 / 결제 루프 자연 흐름)
-- **편당 길이 90초-3분** (장르·소재·타깃 가변)
-- **무료/페이월 위치 자연 흐름** (EP5-15 분포 — 23 히트작 baseline)
-- 옛 50화 고정·1-8 무료 고정 = 폐기 (`feedback_episode_count_flexibility.md`)
+### 분량 기준 (🚨 절대 룰 — MEMORY 0-2·2026-05-28 사용자 정정)
+- **50화 · 총 영어 char count 70,000-80,000 (target ~75k)** — 대사-vertical 기준. (VFX 남성향 제작스펙은 raw char count 금지 — [[vfx-male-power-fantasy-engine]].)
+- 편당 ~1.5분·평균 1,400-1,600 chars. 초과 시 분량 컷·미달 X.
+- 페이월 위치 = 청사진 락 (default EP8).
 - 실패 레퍼런스: Demon Lord's Marked Bride — 분위기·상징·절제·누적 의존을 paid vertical 성공으로 오인하지 말 것 (`feedback_demon_lord_failure_postmortem.md`)
 
-## 스크립트 포맷 (필수 — 2026-05-15 표준)
+## 스크립트 포맷 (필수 — 2026-06-05 표준 · titan v169 양식 채택)
 
 ```
-EP[N] — [TITLE]
+# [작품명] — EP[N]                   ← 🚨 EP 부제/타이틀 금지 (2026-06-05 사용자 명시 — 에피소드별 부제 전혀 불필요)
 
-S#[번호] — [LOCATION / SUB-LOCATION / TIME or CONTINUOUS]
+## S#[번호]. [LOCATION] — [BEAT NAME] · [TIME]   ← 씬 = 공간 1개 + 그 씬의 비트명
 
 [VISUAL / ACTION]
-(상황·동작·블로킹·시각 정보 통합 단락. 스토리상 중요한 소리도 여기. 미세 디테일 X — 핵심만.)
-
-[KEY CAMERA]
-(스토리·상업 엔진상 중요한 컷만 — 보통 2-5 cuts. 모든 컷 명시 금지. 연출/제작팀 영역.)
-SHOT TYPE: 무엇이 잡히는가 한 줄.
+(상황·동작·블로킹·시각 정보. 비트당 짧은 단락·단문 위주. 스토리상 중요한 소리도 여기.)
 
 [DIALOGUE]
-CHARACTER: line (3-10 단어 이하)
-CHARACTER: line
+CHARACTER (tone, 1-3 단어): line
+CHARACTER: line                      ← 평이한 기능 라인은 지문 생략
+
+[KEY CAMERA]
+- SHOT-LABEL: 무엇이 잡히는가 한 줄.  ← 라벨형 (IMPACT CLOSE / VFX WIDE / INSERT / FLASH CUT ...)
+
+[ON-SCREEN TITLE]                    ← 인물 첫 기능 컷에서만. visual lock §2 승인 목록만.
+NAME / SELLING TAG
 
 [GRAPHIC / UI]    ← 필요한 씬만. 화면 그래픽·UI·텍스트 노출 시.
-[END HOOK]        ← 회차 마지막 씬만. 다음 회차로 끄는 한 줄.
+[END HOOK]        ← 회차 마지막 한 줄 — 이미지 + 다음 화 끄는 stake.
 ```
+
+### 🚨 보이스톤 지문 룰 (2026-06-05 사용자 명시·같은 날 강화 — 비영어권 제작자 오독 차단)
+
+- **🎙️🚨 상위 룰 먼저 (2026-06-08·AI 더빙+AI 영상·`feedback_ai_dub_tone_independent_dialogue.md`): 문장이 톤과 무관하게 한 가지 의미로 수렴할 것.** AI 더빙(TTS)은 반어·이중의미·의미심장·애매를 못 살린다. **의미가 *톤*에서만 나오는 대사 금지** — 의미는 *단어+행동*이 운반. 톤 지문(아래)은 *이미 단일 의미인 문장* 위 안전망일 뿐·**톤 지문으로 톤 의존 문장을 구제하려 하지 마라**(문장을 먼저 고친다). 짧음과 무관(긴 직설 OK·짧은 암시 fail). 서브텍스트가 필요하면 V.O./다음 대사 평문 재진술/이미 보여준 행동으로 외화. **미세 표정 의존 지문도 제한**("묘한/복잡한/의미심장한 표정"에 핵심 X→무성 insert + V.O.로·특정 샷으로 귀결).
+- **정말 평이한 기능 라인을 제외한 모든 대사 = 괄호 톤 지문 의무.** **1-2단어 조합** (때론 전달 방향 포함 2-3단어). AIGC = 비영어권 제작자가 톤을 잘못 생성하는 사고가 실제로 왕왕 발생 — 지문이 유일한 방어선.
+- **적확성 > 평이함 (사용자 명시).** 지문 단어는 짧고 쉬운 단어에 혈안되지 말 것 — **그 뉘앙스를 정확·적확하게 전달하는 단어**를 고른다. `(wistful)` `(seething)` `(brittle)` `(coaxing)` OK / `(sad)` `(angry)` 같은 뭉툭한 단어로 뭉개기 금지. 대사 *본문*은 짧고 쉬운 직설 — 톤 *지문*은 적확한 단어. 두 기준을 섞지 말 것.
+- **진짜 목적 = 오독 쉬운 층위 (2026-06-05 사용자 정정).** 기본 감정(화남·슬픔)은 오독이 어렵다 — 액션/문맥이 운반하면 생략 가능. 지문이 반드시 잡아야 하는 건 **비아냥·음흉함·통제된 욕망·상처를 숨긴 말투·장난과 위협이 섞인 층·섹드립·섹시·요염함·한 차원 위 복합 감정** 같은 오독 쉬운 뉘앙스다. 이런 라인의 지문 누락 = 결함.
+- 형식: `(low, furious)` `(sweet, cruel)` `(cold)` `(memory, desperate)` `(through the mirror)` `(to the arena, too loud)` — 감정·온도·방향(누구에게)·발화 매체.
+- 생략 허용 기준 = **"이 라인은 어떤 톤으로 읽어도 같은 장면이 되는가?"** Yes일 때만 생략. (구 기준 "오독 가능 라인만 지문" = 폐기·커버리지 확대)
+- compound paradox 지문 (`(sweet, cruel)`)은 빌런 이중성·핵심 변곡 라인에 — [[compound-tone-parentheticals]].
+
+### 🚨 모욕·폭행 씬 룰 (2026-06-05 사용자 명시 — 여성향)
+
+- **토큰 모욕 금지:** 모욕·핍박 씬은 시청자가 몰입해 악역에게 분노할 수준 — **1~2비트 금지·비트 4+·길이 확보** (가해 발화·군중 반응·잔혹 디테일 축적).
+- **폭행 성별 룰 (절대):** 남자→여주 = 강도 높은 언어폭력 + 애매모호한 저강도 물리(붙잡기·연행)까지만. **고수위 물리 폭행(타격·약물·사고 연출급) = 같은 여성에 의해서만.**
+
+### 🚨 캐릭터 간 보이스 차별화 룰 (2026-06-05 사용자 명시 — 집필+검토 양쪽)
+
+- **역할이 전혀 다른 인물인데 말투가 똑같다 = 집필 실패.** "영어가 자연스러운가"와 별개의 검사 축.
+- 집필 전 engine brief §3 보이스 락에 캐릭터별 말투 구별(어휘 영역·평균 라인 길이·리듬·금지 틱·시그니처)을 고정 — 집필 중 매 EP 자가 점검.
+- **Name-cover test:** 화자 이름을 가리고 대사만 읽었을 때 주연·빌런·핵심 조연 간 누가 말했는지 구분 안 되면 수술.
+- 검토 = native-ear-reviewer의 voice-collision 항목.
 
 ### 블록별 룰
 
-- **[VISUAL / ACTION]** = 필수. 모든 씬. 상황·동작·블로킹·시각 정보·스토리상 중요한 사운드 비트 통합. 미세 디테일·연출 세부는 제작팀이 알아서. 핵심만 명료하게.
-- **[KEY CAMERA]** = 선택. **스토리상 또는 상업 엔진상 (섹슈얼 인서트·감정 클로즈업·페이월 컷 등) 중요한 컷만.** 모든 씬에 강제 X. 미명시 = 연출가 재량. 명시할 때만 그 컷의 의도가 전달되어야.
-- **[DIALOGUE]** = 거의 필수 (대사 씬). 캐릭터별 말투·맛 살리기. 살아있는 대사. 라인 3-10 단어 이하 우선.
-- **[GRAPHIC / UI]** = 선택. UI 알림·문서·뉴스 헤드라인·warrant·증서 등 화면 그래픽 노출 시.
-- **[END HOOK]** = 회차 마지막 씬 한 줄. 다음 회차로 시청자 끄는 한 줄. 마지막 회차는 자연 엔딩 (아래 룰).
+- **[VISUAL / ACTION]** = 필수. 모든 씬. 비트 순서대로 짧은 단락·단문 ("The blade drops." 류 한 줄 액션 적극). 미세 디테일·연출 세부는 제작팀 영역. 씬 안에서 블록 반복·교차 (v39 룰). **🚨 동작 정합성(집필 시·2026-06-08): 다음 동작을 쓰기 전에 직전 동작/상태(위치·소품 소유·자세·인물 지식·Continuous 태그)를 확인 — 앞동작과 모순되는 동작 금지(예: 머리채 안 잡았는데 'releases the hair'·한 인물이 Continuous인데 두 장소 동시). 미세 표정연기 의존 지문 금지(AI 영상 렌더 불가 — '한 프레임에 표정 변화'·'a flicker crosses her face'·'calculating through the pain'류 → 행동/특정 샷으로 외화). LOCK 검수 = `feedback_lock_exhaustive_line_audit.md` 전수.**
+- **[KEY CAMERA]** = 선택. 스토리·상업 엔진상 중요한 컷만 — **라벨형 표기** (`- IMPACT CLOSE on Kael catching the blade.` / `- FIRST FRAME: cold close on the execution blade.`). 비트 직후 배치 — 씬 끝 몰아넣기 금지.
+- **[DIALOGUE]** = 거의 필수 (대사 씬). 캐릭터별 말투·맛. 라인 3-10 단어 우선 + 톤 지문 룰 (위).
+- **[ON-SCREEN TITLE]** = 인물 첫 기능 컷만. visual lock §2 (On-Screen Title Lock) 승인 목록 외 사용 금지·반복 금지.
+- **[GRAPHIC / UI]** = 선택. UI 알림·문서·뉴스 헤드라인·증서 등.
+- **[END HOOK]** = 회차 마지막 — 이미지+stake 한 줄. 마지막 회차는 자연 엔딩 (아래 룰).
 
 ### 제거된 블록
 
@@ -236,7 +269,7 @@ EP 파일은 **첫 헤더 + S#1 ~ Hard Cut 본문만** 작성한다. **한국어
 - **금지 메타 헤더 (첫 헤더 다음 S#1 이전):** `**Function:**`, `**Information:**`, `**Cut:**`, `**Power Stage:**`, `**Look variants used:**`, `**Look variants new:**`, `**Scene count exception:**` — 한국어든 영어든 모두 작성 금지.
 - **금지 footer (Hard Cut 이후):** `**Episode Update:**`, `**Series Update:**`, `**Hard Lock principle preserved:**`, `**Sequel hook:**` 등 종합 노트 — 작성 금지.
 - **비주얼 락 정보:** 캐릭터 첫 등장 또는 룩 변형 시 [Visual] 본문 안에서 영어로 묘사 (예: `**RAVEN-9 Look 3 first showing — Look 2 + core embroidery + race-pattern shoulder strap.**`).
-- **본문 한국어 0건:** 슬러그라인·액션·대사·FX 모두 영어. 한국어 잔존 시 phase_5 페르소나 02·06이 자동 🟡 trigger.
+- **본문 한국어 0건:** 슬러그라인·액션·대사 모두 영어. 한국어 잔존 = 기계 게이트 즉시 fail (voice_lint·final-consolidator).
 
 **작가 노트가 필요한 경우:**
 - 환류 로그 → 청사진(`[작품]_03_blueprint_full.md` 또는 `_04_blueprint_full.md`) 끝에 추가.
@@ -367,6 +400,13 @@ EP 본문만이 영어 일원화 대상.
 - 여성향 다크 로맨스/로맨타지 여주는 남성향식으로 군림하지 않아도 된다. 몸은 떨려도 선택하고, 거래하고, 거절하고, 괴물의 소유욕을 위험한 방패로 쓰는 쪽이 장르에 맞다.
 - `Yours`, `Mine`, `Wife`, `Mate`, `Chosen`, `Body`, `Kneel` 같은 선언형 단어는 앞 회차에서 모욕/조건/거절/거래/위협으로 적립한 뒤 payoff에서 뒤집어 쓴다.
 
+### 신분 반전 / reveal 문법 (2026-06-05 사용자 명시 — hidden identity 계열 필수)
+
+- **vertical의 hidden identity/reveal = 편의주의적·직관적 방식이 통한다.** 히트작은 "우아하게 자연스러운 추리"가 아니라 **공개장소 + 모욕 + 갑작스러운 권위자/직함 호출 + 즉시 신분 반전**을 선호.
+- 표준 reveal 장치 = **매니저·비서·회장·직원·경비·공개 호칭** ("회장님께서 어떻게 여기를…" 한 마디면 끝). 권위자가 달려와 허리 굽히는 한 컷 > 단서 쌓기 10씬.
+- 기준 = **시청자가 1초 만에 이해하는 신분 반전.** "세련된 리얼리즘"으로 reveal을 늦추거나 추리화하면 실패 ([[easy-dopamine-over-logic]]와 동일 축).
+- 개연성은 묻지 않는다 — 반전 직후 모욕했던 자의 얼굴이 무너지는 리액션이 개연성보다 먼저다.
+
 ### 대박작 구조 룰 (필수, `feedback_blockbuster_structural_insights.md`)
 - **EP1 비트 밀도** — 다층 비트 적재 (일반 5-7비트 / 대박작 15-20비트). EP1은 단일 사건 X / 다층 사건 압축. "왜 돌아와야 하는가 / 왜 이 인물에게 붙어야 하는가"가 EP1 안에 모두 납득되어야.
 - **페이월 3중 구조** — 페이월 회차 EP6/EP8 = 사회적 판정장 + 시간 압박 + 동시 다발 적재.
@@ -402,21 +442,13 @@ EP 본문만이 영어 일원화 대상.
 
 **히로인 매력 장신구는 별개** — 페플로스 핀·황금 사슬·귀걸이·머리 장식 등 필요 시 추가 OK. 추가된 장신구도 청사진 룩 변형 락에 등재해 회차 일관성 유지.
 
-## 회차 씬 수 기준 (AIGC 비트 단위 — 유동적)
+## 회차 씬 기준 (v39 블록 양식 — 2026-06-04 캐논·구 "1씬 1비트" 폐기)
 
-**원칙: AIGC 영상 단위 = 1씬 1 비트.** 회차 씬 수는 회차의 중요도·정보 밀도·클리프행어 구성에 따라 유동적이다.
-
-| 씬 수 | 적용 |
-|---|---|
-| **1~6씬** | 표준 범위 — 회차 중요도·밀도·클리프행어 구성에 따라 자유 결정. 응축이 강한 회차는 1씬, 분기·전환이 많은 회차는 6씬. |
-| **7씬** | 제한적 허용 — 매우 짧고 빠른 비트로 구성될 때만. 1씬당 분량을 평소보다 짧게 절단. 정당한 사유 명시. |
-| **8씬 이상** | 비표준 — 회차 분할 또는 비트 응축 검토. |
-
-**1씬 = 1 비트 (단일 기능).** 도입·진행·반응·전환을 한 씬에 다 넣지 않는다. 비트가 다르면 씬을 분할.
-
-**예시 — LOCKED OUT EP10 S#3:** 파이프 내려옴 + Jack 한 발 밀림 + 손으로 파이프 잡음 + 금속 휨 = 한 씬 한 비트("손이 파이프를 이긴다"). 그 직후 backhand·barricade 붕괴는 별개 씬 S#4.
-
-**중요 — 청사진·피칭덱·트리트먼트에는 씬 수 표기 금지.** 씬 수는 집필 단위 결정 사항이지 기획 단계 결정 사항 아님.
+- **씬 = 공간 1개.** 공간이 바뀌면 다른 씬. 순수 이동은 흡수·동일 공간 시간점프는 한 씬 유지·INTERCUT 유지.
+- **씬 안에서 블록을 비트 순서로 반복·교차** — `[VISUAL/ACTION]`·`[DIALOGUE]`·`[KEY CAMERA]`(+`[VO]`/`[INSERT/CUTAWAY]`/`[INTERCUT]`/`[GRAPHIC/UI]`)를 비트마다 다시 연다. **한 블록 덤프 금지·씬 끝에 [KEY CAMERA] 몰아넣기 금지.**
+- **묶음 milk (vertical식 분절):** 한 상황을 4-5화 또는 7-8화로 milk·1-2 공간·home-base 공간 유지·**화마다 안 끝나는 훅.** TV식 "한 화=자기완결 사건+새 장소" 금지. 단발 세트는 컷.
+- EP당 씬 1-3 표준 (v39 실측 ~1.7). 단발 공간이 늘어나면 재분절 신호.
+- **청사진·피칭덱·트리트먼트에는 씬 수 표기 금지** (집필 단위 결정 사항).
 
 **대사 단어 한도:**
 - 라인당 3-10 단어 이하 우선.
@@ -427,14 +459,7 @@ EP 본문만이 영어 일원화 대상.
 - 1 단락 또는 7줄 이하 파편화 (각 줄 1 비트).
 - 다중 인물 행동·다중 시간 점프 한 씬에 안 넣음.
 
-**Camera shots:**
-- 4-7 shots, → 화살표 연결.
-- 첫 shot은 보통 WIDE/EXTREME WIDE/TRACKING/PUSH IN. 클라이맥스 shot은 ECU/CLOSE.
-- 모든 씬에 [Camera] 블록 필수.
-
-**FX:**
-- 3-5 sound notes.
-- 모든 씬에 [FX] 블록 필수.
+**카메라·사운드:** 상위 "블록별 룰" 적용 — [KEY CAMERA]는 키 컷만(선택)·[FX] 블록 없음(스토리상 중요한 소리는 [VISUAL/ACTION] 통합). 전 씬 강제 X.
 
 **CONTINUOUS:**
 - 직전 씬과 시간·위치 연속 시 적극 사용.
@@ -562,9 +587,7 @@ LIVIA enters the dining hall. She sets the letter on the table. ADRIAN watches.
 - **묘사 누락 X** — 화면에 보이는데 [Visual]에 없으면 AIGC 생성 시 임의 처리 → 톤·정합성 깨짐
 - **회차 간 락 부담 X** — 한 번 등장하고 사라질 인물에 락 X / 다시 등장할 인물이면 비주얼 락에 러프 등재 환류
 
-### 검토 trigger
-
-phase_5 검토 시 02·06 페르소나가 첫 등장 묘사 누락 발견 시 자동 🟡 등재.
+(첫 등장 묘사 누락 = 검수에서 플래그 — 수정 판단은 메인.)
 
 ## 섹슈얼 씬 — 샷·라인 레벨 디테일 (필수)
 
@@ -591,7 +614,7 @@ phase_5 검토 시 02·06 페르소나가 첫 등장 묘사 누락 발견 시 �
 **권장:**
 - ✅ `He grips her jaw, tilts her face up, presses his mouth against hers. Her lips part — his tongue pushes in, and she gasps into his mouth before her hands fist in his collar.`
 
-### 베드 씬 — [Camera] 블록에 클로즈업 명시 필수
+### 베드 씬 — [KEY CAMERA] 블록에 클로즈업 명시 필수
 
 매 컷 무엇이 잡히는지 적시:
 
@@ -602,7 +625,7 @@ phase_5 검토 시 02·06 페르소나가 첫 등장 묘사 누락 발견 시 �
 - `LOW ANGLE: her toes curling against the sheet`
 - 침대 가장자리에 떨어지는 드레스·헤드보드 그림자·흔들리는 캐노피
 
-[FX]에 사운드 디테일: 숨소리·헤드보드 소리·시트 마찰음·신음.
+사운드 디테일(숨소리·헤드보드·시트 마찰음·신음)은 [VISUAL/ACTION] 안에 통합 ([FX] 블록 없음).
 
 **금지:**
 - ❌ "They make love."
@@ -628,64 +651,15 @@ phase_5 검토 시 02·06 페르소나가 첫 등장 묘사 누락 발견 시 �
 - 모든 여성향 sensual 작품. 특히 북미 paid vertical·다크 로맨타지·초고수위 작품(OFFERING 등)에서 강제.
 - 남성향에서도 sensual 씬 등장 시 동일 — "안는다" 한 줄 처리 X.
 
-### 검토 trigger
+(한 줄 처리·클로즈업 누락 = 검수에서 플래그 — 수정 판단은 메인.)
 
-phase_5 검토 시 페르소나 01 (Intimacy)·02 (Production Director)가 한 줄 처리·클로즈업 누락 발견 시 자동 🟡.
+## 첫 등장 이후 — 반복 묘사 금지 / 사건 기능 있는 변화만
 
-## 첫 등장 이후 — 반복 묘사 금지 / 사건 기능 있는 변화만 (필수, 2026-05-12 보완)
-
-> **첫 등장 후 동일 인물·괴물·동물의 외형 반복 묘사 금지.**
-> **[Visual] 지문에는 사건 기능이 있는 변화만 기재한다.**
-
-### 반복 묘사 금지 (기본)
-
-- 같은 의상·같은 헤어·같은 신체 = 다시 적지 말 것
-- "여전히 [...] 차림" / "Still in [...]" 류 반복 확인 X
-- 외형은 비주얼 락 어셋 + 첫 등장 묘사로 고정됨
-
-### 예외 — 사건 기능 있는 변화만 [Visual]에 기재
-
-**사건 기능 = 외형 변화가 이 씬의 사건·정보·관계·주도권·감정·상황 갱신과 연결될 때.**
-
-| 사건 기능 변화 | 기재 사유 |
-|---|---|
-| 권능·각성 표지 (눈 색·문양 발광·갑주 발현) | 각성 사건 = 정보 갱신 |
-| 상해·전투 흔적 (찢긴 옷·이마 피·손목 자국) | 갈등 결과 = 상태 갱신 |
-| 신분·정체 변경 룩 (왕좌 등극·갑주 첫 착용·가면 벗음) | 정체 reveal = 정보 갱신 |
-| 공개 마킹·소유 표지 (목·손목 자국·반지·문장) | 관계 갱신 |
-| 타락·변질·죽음 표지 (창백함·핏기·검은 정맥) | 상태 갱신 |
-| 의상 단계 진화 (얌전 → 과감 → 권력자) | 캐릭터 톤 변화 = 사건 |
-| 무기·소품 획득·상실 | 사건·주도권 갱신 |
-
-→ [Visual]에 묘사 + 비주얼 락 환류 등재 (다음 회차 일관성용).
-
-### 금지 (사건 기능 없음 = 묘사 X)
-
-- 일상 옷 갈아입기 (날짜·상황 변경) — 묘사 X
-- 사소한 액세서리 추가·제거 (정체성 X) — 묘사 X
-- 부분 변화 (먼지·일상 피로) — 사건 결과 아니면 묘사 X
-
-### 예시
-
-**EP1 첫 등장 (묘사 O):**
-> [Visual] LIVIA stands at the temple gate in a **white silk robe, a silver pendant at her throat, her dark hair loose past her shoulders.**
-
-**EP3 일상 씬 (묘사 X — 반복 금지):**
-> [Visual] LIVIA enters the dining hall. She sets the letter on the table. ADRIAN watches.
-
-**EP7 사건 기능 변화 (묘사 O):**
-> [Visual] LIVIA steps into the throne room. **The silver pendant is gone. A black iron collar marks her throat — the dragon's seal.** Her hands are bound at the wrist.
-
-(목걸이 사라짐·검은 철 칼라 = 공개 마킹·소유 표지 = 사건 기능 → 묘사 + 비주얼 락 환류)
-
-### 자가 검증
-
-동일 인물 재등장 시 외형 변화 있으면 자문:
-- 이 변화가 이 씬의 사건·정보·관계·주도권·감정·상황 갱신과 직접 연결되는가? → Yes면 [Visual]에 기재 + 비주얼 락 환류 / No면 묘사 X
-
-### 검토 trigger
-
-phase_5 검토 시 02·06 페르소나가 반복 외형 묘사 발견 시 자동 🟡 (정리 권고).
+> 상세 = 위 "의상·룩 어셋 식별 룰" 표 + "사건 기능 변화 매트릭스" (동일 룰·중복 섹션 통합 2026-06-05).
+- 같은 의상·헤어·신체 = 다시 적지 않는다 ("Still in [...]" 류 반복 확인 X). 외형은 비주얼 락 + 첫 등장 묘사로 고정.
+- **사건 기능 있는 변화만 기재** (매트릭스 참조) + 비주얼 락 환류.
+- 사건 기능 없음(일상 옷 갈아입기·사소한 액세서리·먼지/피로) = 묘사 X.
+- 자가 검증: 이 변화가 이 씬의 사건·정보·관계·주도권·감정·상황 갱신과 직접 연결되는가? Yes = 기재+환류 / No = X.
 
 ## 저장 위치
 projects/[작품명]/05_episodes/[작품명]_ep[번호].md
@@ -693,11 +667,11 @@ projects/[작품명]/05_episodes/[작품명]_ep[번호].md
 (폴더 네이밍 규약: production_guide Section 0-1 참조)
 
 ## 실행 순서
-1. 완성 청사진을 읽고 이 화의 포지션(아크, 기능, 정보 상태)을 파악한다.
-2. 이전 화 요약으로 연속성을 확인한다.
-3. 이 화에서 갱신될 요소 목록을 먼저 정리한다.
-4. 씬 구조(씬 수, 각 씬의 기능)를 잡고 사용자에게 간단히 공유한다.
-5. 승인 후 타깃 언어로 전체 스크립트를 작성한다.
+1. **이 화의 핵심 쾌감/후킹 비트를 먼저 확정한다** — "이 화에서 시청자가 다음 화를 누르는 이유 한 줄" (engine brief·청사진 화별 락 기준). 이게 안 잡히면 집필 시작 X.
+2. 완성 청사진을 읽고 이 화의 포지션(아크, 기능, 정보 상태)을 파악한다.
+3. 이전 화 요약으로 연속성을 확인한다 + 이전 EP 3개 raw 정독.
+4. 이 화에서 갱신될 요소 목록을 정리하고 씬 구조를 잡는다 (자율 진행 — 승인 대기 X·비가역만 사전 확인).
+5. 타깃 언어로 전체 스크립트를 작성한다.
 6. projects/[작품명]/05_episodes/[작품명]_ep[번호].md에 저장한다.
 7. projects/[작품명]/[작품명]_00_meta.md를 업데이트한다 (라운드·게이트 표에 EP[번호] 초안 행 추가/갱신).
 8. 종료 안내 (3줄 패턴):

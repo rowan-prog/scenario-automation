@@ -1,3 +1,5 @@
+> ⛔ SUPERSEDED by PRODUCTION_HANDOFF_v41.md (2026-06-04) — current 정본 = `07_final/06_she_stole_my_face_FINAL_v41.md`. This v38.2 sheet is retained for history only.
+
 # SHE STOLE MY FACE — Production Handoff (v38.2)
 
 Script: `07_final/06_she_stole_my_face_FINAL_v38.md` (= v38.2 — the dialogue baseline now includes the Noah comfort-beat compression pass; lines are locked to THIS version)

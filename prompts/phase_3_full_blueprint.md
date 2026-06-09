@@ -14,7 +14,7 @@
 - projects/[작품명]/[작품명]_02_pitch_deck.md (피칭덱)
 - projects/[작품명]/[작품명]_03_pitch_outcome.md (있으면 — 피칭 결과·평가위원 피드백)
 - **config/reference_scripts/INDEX.md** — 등재된 reference 목록 자동 발견. 작품 카테고리(blueprint_density)에 일치하는 모든 reference 정독.
-- **메모리: feedback_pitch_principles_master.md / feedback_banned_expressions.md / feedback_directness_density.md**
+- **메모리: feedback_banned_expressions.md / feedback_directness_master.md**
 
 ### 타깃 자료 (필수 — 단계 한정 Section만 정독)
 
@@ -23,17 +23,21 @@
 **남성향 작품:**
 - `config/target_research/male_target_research.md`
   - **이 단계 필요 Section: 16-17 (5대 엔진·표면 장르), 22 (10 결제 패턴), 24 (paid vertical 설계 룰 4), 26 (7 이식 모델), 28 (1화/8화/50화 공식)**
-- 메모리: `feedback_male_target_research_data.md` / `feedback_male_target_immediate_gratification.md` / `feedback_genre_reward_modes.md` / `feedback_paid_vertical_platform_signals.md`
+- 메모리: `feedback_male_target_master.md` / `feedback_genre_reward_modes.md` / `feedback_paid_vertical_platform_signals.md`
 
 **여성향 작품:**
 - `config/target_research/female_target_research.md`
   - **이 단계 필요 Section: 3 (9 핵심 보상), 4 (16 카테고리), 7 (결제 행동 패턴), 8 (자가 검증), 18 (10 기획 조합)**
-- 메모리: `feedback_female_target_research_data.md` / `feedback_female_target_romance.md` / `feedback_genre_reward_modes.md` / `feedback_paid_vertical_platform_signals.md`
+- 메모리: `feedback_female_target_research_data.md` / `feedback_genre_reward_modes.md` / `feedback_paid_vertical_platform_signals.md`
 
 **공통 룰:**
 - `feedback_target_alignment_all_steps.md` (5차원 정렬)
 - `feedback_hook_density_vs_qa_weighting.md` (강한 후킹 비트 다발)
 - `feedback_hook_vs_payment_engine.md` (페이월 = 결제 엔진)
+
+## 적용 순서 (운용 룰 §1 — 2026-06-05)
+
+**①장르 쾌감 엔진(12-2)을 먼저 확정 → ②구조(화별 락·묶음) → ③서술 → ④금지어/검수는 마지막 1패스.** 청사진 완료 시 **engine brief 작성 의무** (`config/engine_brief_template.md` → `[작품]_03b_engine_brief.md`) — phase_4 진입 게이트. 화별 락 작성 시 매 화 자가질문: "이 화의 쾌감/훅 강도는?"
 
 ## 새 원칙 적용 (필수, 2026-05-09 사용자 마스터)
 
@@ -116,7 +120,7 @@ AIGC 실사 드라마는 의상·헤어 변경이 빈번해 필수. AIGC 애니�
 ### 단일 사건축 / 전 회차 확장 게이트 (체질 개선 v3)
 
 - 청사진 마스터는 먼저 Conversion Runway 구간 (EP1-페이월·자연 흐름)의 핵심 압력축을 고정한다.
-- 전 회차 확장 (회차 수 가변·권장 50-60화)은 사건축을 여러 개 늘리는 방식이 아니라, 같은 욕망 축의 규모·공개성·위험도·권한 이동 범위를 키우는 방식이어야 한다.
+- 전 회차 확장 (default 50화 고정 — MEMORY 0-2 절대 룰·구 "가변 50-60화" 폐기)은 사건축을 여러 개 늘리는 방식이 아니라, 같은 욕망 축의 규모·공개성·위험도·권한 이동 범위를 키우는 방식이어야 한다.
 - 무료 구간은 기본 쾌감을 증명하고 최종 보상은 유예한다. “재미없다”와 “다 봤다”를 모두 피한다.
 - 반복 보상형 작품은 원초 보상축을 먼저 고정한다. 은행, 백화점, 부동산, 투자장, 가족 비밀처럼 무대가 바뀌어도 같은 시청자 쾌감이 새 증거·새 증인·새 지위 판정으로 반복되는지 확인한다.
 - 유료 구간은 새 세계관 투어가 아니라, 무료 구간에서 약속한 행동과 권력 이동의 결과를 더 큰 무대에서 단계적으로 회수한다.

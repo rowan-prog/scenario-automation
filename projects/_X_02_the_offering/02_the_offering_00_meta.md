@@ -2482,3 +2482,11 @@ v33.5.7 = 50 EP / 49 Hard Cut + 1 Fade Out / Korean 0 / "I love you" 3 instances
 - 결제 보상은 사적 친밀이 아니라 "사절들 앞 공개 선언"으로 정의.
 - 용 풀샷 의존도 낮게: 부분 비늘 + 비인간 눈 + 날개 그림자 + 화염 반응 손 위주.
 - EP6 페이월 대사: "She was your offering. Now she is my bride."
+
+---
+
+## CLAUDE.md 작품 행 원문 아카이브 (2026-06-05 토큰 다이어트 이관)
+
+> CLAUDE.md 인덱스에 있던 전체 이력 행 원문. 단일 진실 = 본 meta.
+
+| `_X_02_the_offering` | THE OFFERING: Claimed by the Dragon Lord | **🎬 `07_final/02_the_offering_FINAL_v68_dialogue_surgery.md`** (대사·VO surgery 적용) | **🚫 폐기 — 외부 별도 진행 (2026-06-02)·작업 금지.** **v68 dialogue surgery (2026-05-27·외부 2인 리뷰 반영)** — v65→v66→v67→v68. 5217 lines (v67 5232 → -15). **3 카테고리 처치:** ①법정 심문형 (`Say it/Tell them` 강요 자백) 제거 — EP08·09·14·25·30·32·37·41·42·43 / ②스카카토 핑퐁 (꽁트풍 단답 교환) 깸 — EP01·09·10·13·15·**18 (deathbed 최우선)**·23·28·46 / ③시적/연극적 VO 트림 — EP01·02·04·05·10·12·28. **핵심 paywall payoff 유지·롤프닝:** EP21 Sabine 처형 tri-colon 제거 + "My mother's blood is on your hands. So is mine." / EP46 reveal "I missed a stranger / let me feel insane" → "I was sick over a stranger and the stranger was you. While I thought I was losing my mind." / EP50 "Vael, break both hands." 펀치 유지. **논리 fix:** EP24 "No one had to" (이전 draft 잔재) 정리. **Verification:** Korean 0·EP 50/50·Hard Cut 50/50·sex scene 7건 보존·"Say it/that" 잔여 2 (왕명·통치 voice·OK). v65 매출 1위급 baseline 위에 외부 리뷰 2인 (대사·VO 전수검사) 반영. |

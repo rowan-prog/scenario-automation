@@ -1,4 +1,24 @@
-# 캐릭터 비주얼 락 템플릿 (v2 / 2026-05-27 개정)
+# 비주얼 락 템플릿 (v3 / 2026-06-05 개정 — titan v169 작품-레벨 양식 채택)
+
+## 0. 작품-레벨 문서 구조 (필수 — 개별 캐릭터 양식보다 먼저)
+
+비주얼락 파일은 아래 순서의 **작품-레벨 문서**다 (titan_born v169 기준). 개별 캐릭터는 §0-4 안에서 아래 "캐릭터 비주얼 락 템플릿"(§1-9)을 lean하게 적용.
+
+1. **Core Visual Rules** — 포맷·장르 화면 문법·이 작품의 #1 시각 제약·"첫 화부터 크게" 류 명령형 룰. 해석문 금지·단정문만.
+2. **On-Screen Title Lock** — 승인된 타이틀 카드 전체 목록을 코드블록으로 고정 (`NAME / SELLING TAG`). 첫 기능 컷에서만·반복 금지·**이 목록 외 타이틀 카드 사용 금지.**
+3. **주인공** — Identity / Look / Costume Continuity 표 (EP 범위) / Locked Marks (표식 락) / Power·Action Palette (해당 시).
+4. **주요 인물들** — 인물별 Function·Look·Presence·**Face impression (넓게 — 정확한 얼굴 기하 과잠금 금지·미모 타입/팔레트/존재감으로 즉시 구별)**·Hair·Skin·Body line·Costume·Props·Do not. 유사 계열 인물은 **구별 표** (presence | face impression | skin/light read) 선행.
+5. **빌런·단역** — 간단히. Core use + Look + Do not.
+6. **Props And Visual Objects 표** — `| Object | Lock |` (등장 EP 범위·소멸 시점·승계 금지 명시). 소품은 물리 객체일 뿐 — 이야기의 감정 중심 금지.
+7. **용어 락 (Terminology)** — 같은 시각 요소를 부르는 단어 통일 (예: mark/seal/cuff/collar 구분·금지 동의어 목록). AIGC 프롬프트 일관성의 뿌리.
+8. **Key Episode Visual Locks** — 머니샷 EP별 한 줄 락 (페이월·중간 정점·피날레).
+9. **Negative Locks** — 작품 전체 금지 목록 한 곳에 (스타일 드리프트·캐릭터 함정·외부 레퍼런스 누출 금지).
+
+> 언어: 영어 권장 (제작 전달 겸용). 한국어 작성 시에도 AIGC Call·태그·금지 목록은 영어.
+
+---
+
+# 캐릭터 비주얼 락 템플릿 (구 v2 — §0-3/0-4 안에서 lean 적용)
 
 **🎯 본질 (2026-05-15 정정 · 2026-05-27 강화):** 비주얼 락 = **AIGC 어셋 생성 고정용 DB.** 대본 `[VISUAL/ACTION]` · `[KEY CAMERA]`는 어떤 어셋을 호출하는지 식별 가능해야 한다. 첫 의상·변경·재착용 시 묘사 필수 / 직전과 동일 = 비묘사 (반복 묘사 = 산업 비용·집중 분산). 상세: 메모리 `feedback_visual_lock_system.md`.
 

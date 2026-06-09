@@ -4,7 +4,7 @@
 
 - 9:16 vertical 실사형 어셋 생성 기준
 - 캐릭터 / 소품 / 배경의 반복 생성용 디자인 락
-- 대본 기준 고정 (`07_final/06_she_stole_my_face_FINAL_v38.md` = v38.2)
+- 대본 기준 고정 (`07_final/06_she_stole_my_face_FINAL_v42.md` = 현재 정본 · v6.1 — v42 = 포맷 패스만·대사/비트 v41 동일·본 락 내용 유효)
 - 프롬프트 원재료로 바로 쓸 수 있게, 명사 / 형태 / 색 / 소재 / 금지사항 중심으로 정리
 - 은유적 분위기 설명보다 눈에 보이는 외형 정보 우선
 
@@ -44,13 +44,13 @@
 - ❌ 쿨한 수사물 / 미스터리 / 스릴러 무드 (이 작품은 추리극 아님 — 시청자는 1화부터 다 안다)
 - ❌ HBO식 회색 리얼리즘 · 다큐 톤
 - ❌ 시대극 / 판타지 / 마법 · ❌ 애니메이션 / 3D 렌더 · ❌ 코스프레 · ❌ 게임 시네마틱
-- 첫 컷은 풍경이 아니라 두 개의 똑같은 얼굴 (거울 앞 Lena와 마스크 벗는 Mara)로 시작
+- EP01 = 콜드오픈 (첫 ~15초): 거울 벽 방·의자에 늘어지는 여자 + 뒤에 마스크 쓴 두 번째 여자(같은 턱·같은 입) → 마스크를 제 손으로 내리는 중 **좌측 귀밑 fresh 곡선 흉터(still pink) ECU = 타이틀 직전 마지막 이미지** → **컷 투 블랙**(두 번째 얼굴은 안 보임·흉터만 보임) → 타이틀카드 `SHE STOLE MY FACE` → 흰 글자 `Earlier that day.` Mara 얼굴 풀 리빌은 EP01 엔드훅에서 회수. 첫 컷은 풍경이 아니라 두 개의 똑같은 얼굴로 시작.
 
 ### 🔒 동일 얼굴 구별 락 (이 작품 최우선 — AIGC #1 제약)
 
 Lena와 Mara는 **같은 얼굴**(시술로 동일)이다. 매 컷에서 둘이 한눈에 구별돼야 하며, 구별 수단은 다음 5가지뿐이다:
 
-1. **시술 흉터 (Mara 전용)** — 좌측 귀 2cm 아래 곡선 1.5cm + 우측 손목 안쪽 직선 3cm. 평상시 헤어/각도로 가려지고 **근접 증거 컷에서만 노출.** EP01-50 동일 위치 유지 (Hard Lock).
+1. **시술 흉터 (Mara 전용)** — 좌측 귀 2cm 아래 곡선 1.5cm + 우측 손목 안쪽 직선 3cm. 평상시 헤어/각도로 가려지고 **근접 증거 컷에서만 노출.** EP01-50 동일 위치 유지 (Hard Lock). EP01-03 = 시술 직후라 fresh·pink / 이후 faint. **의도 노출 3컷 (물증형 보증 — 시청자 전용 plant):** ①콜드오픈 마스크 내리는 중 흉터 ECU(타이틀 직전 마지막 이미지) ②EP01 엔드훅 — 거울 미소 연습 중 흉터 발견·미소 정지·머리카락 한 가닥으로 가림·미소 재시작 ③EP03 — 대형 생중계 스크린서 바람에 머리 들리자 빠르고 연습된 손길로 귀 가림. (회수 = EP49.)
 2. **의상 팔레트** — Lena = 절제된 slate·navy·charcoal·ivory / Mara = 훔친 글로시 룩(navy·cream silk) → 후반 black(난입)·stripped(몰락).
 3. **헤어 스타일링** — Lena 낮은 정돈(다운/낮은 묶음/단정 하프업) / Mara 더 윤기·화려한 셋업.
 4. **태도·자세** — Lena 정적·자제·곧은 자세 / Mara 카메라 앞 sweet-victim 연기, 단둘이면 천박·비웃음·snarl.
@@ -148,7 +148,7 @@ Lena와 Mara는 **같은 얼굴**(시술로 동일)이다. 매 컷에서 둘이 
 
 | 룩 | 적용 EP | 상태 |
 |---|---|---|
-| 2-1 Imposter Bride | EP01-34 | Lena의 삶을 입음: navy·cream silk, STOLEN pendant at throat, diamond bracelet on left wrist, sweet public mask |
+| 2-1 Imposter Bride | EP01-34 | Lena의 삶을 입음: navy·cream silk, STOLEN pendant at throat, sweet public mask. **EP02-03 = Lena 약혼 가운 복제본**(Eileen 세단 garment bag → 차 안에서 갈아입음·헤어 미리 매칭). **Helena의 다이아 팔찌 = 틀린(좌측) 손목 · EP10-11만 착용 → EP11 이후 영구 미착용**(Lena가 "clasp는 우측 전용" 약점 문자 → Mara 차단 후 팔찌 제거, 다시 안 참 = 의상 연속성 락). |
 | 2-2 Mrs. Cross | EP35-46 | married polish, blush·cream, wedding ring + stolen pendant, growing hollow/strained under the smile |
 | 2-3 Fallen | EP47-50 | EP47 black dress + cameraman (wedding crash) → EP50 stripped (pendant peeled off), alone in a cramped gray room |
 
@@ -158,11 +158,11 @@ Lena와 Mara는 **같은 얼굴**(시술로 동일)이다. 매 컷에서 둘이 
 - 얼굴/체형: Lena와 **완전 동일** (시술) — 표정만 다름(계산적·sweet 연기 / 천박)
 - 헤어: ink-black straight hair to mid-back (염색·약간 더 윤기), 화려한 셋업
 - 눈: 회녹색 (시술로 같은 색)
-- 신체 우세: **시술 흉터** — 좌측 귀 2cm 아래 곡선 1.5cm + 우측 손목 안쪽 직선 3cm. 평상시 가려지고 근접 증거 컷에서만 노출. EP01-50 동일 위치 (Hard Lock).
+- 신체 우세: **시술 흉터** — 좌측 귀 2cm 아래 곡선 1.5cm + 우측 손목 안쪽 직선 3cm. 평상시 가려지고 근접 증거 컷에서만 노출. EP01-50 동일 위치 (Hard Lock). EP01-03 fresh·pink → 이후 faint. 의도 노출 3컷(콜드오픈 ECU·EP01 엔드훅 거울·EP03 스크린 바람) = §1 구별 락 참조.
 - 의상: 훔친 navy·cream 실크·재벌가 룩 → EP35+ Mrs. Cross 광택 → EP47 black → EP50 stripped
-- 악세사리: 빼앗은 어머니 목걸이(EP01-49 착용 → EP50 강제 회수), diamond bracelet(좌측 손목)
+- 악세사리: 빼앗은 어머니 목걸이(EP01-49 착용 → EP50 강제 회수), Helena 다이아 팔찌(좌측 손목 = 틀린 손목 · **EP10-11만** → EP11 후 영구 미착용)
 - 색: navy·cream·blush → black → drained gray
-- AIGC Call (기본): `30-year-old woman, identical V-jaw and moss-green eyes to Lena, faint curved scar 2cm below left ear + straight scar on right inner wrist, ink-black styled hair, navy/cream silk, stolen gold-diamond pendant at throat, diamond bracelet on left wrist. Sweet performed face in public, vulgar smirk in private.`
+- AIGC Call (기본): `30-year-old woman, identical V-jaw and moss-green eyes to Lena, faint curved scar 2cm below left ear + straight scar on right inner wrist, ink-black styled hair, navy/cream silk, stolen gold-diamond pendant at throat. Sweet performed face in public, vulgar smirk in private.` (EP10-11 only: add diamond bracelet on the wrong/left wrist; drop it from EP12 on.)
 - 금지: 흉터 사라짐·위치 이동 · 영리한 침착 빌런 톤 · 동정 가는 퇴장(EP50 = 아무도 없는 회색 방, 구원 X) · 시적/연극 대사
 
 ## 2-3. NOAH KEENE (새 남주)
@@ -267,7 +267,7 @@ Lena와 Mara는 **같은 얼굴**(시술로 동일)이다. 매 컷에서 둘이 
 
 | 룩 | 적용 EP | 상태 |
 |---|---|---|
-| 7-1 The Friend | EP01·EP06·EP11 | camel cardigan over cream camisole, soft casual / EP06 mascara-wrecked |
+| 7-1 The Friend | EP01·EP06·EP11 (+EP50 = EP11 토크쇼 클립 재생만·신규 렌더 불필요) | camel cardigan over cream camisole, soft casual / EP06 mascara-wrecked |
 
 ### 상세
 
@@ -301,8 +301,11 @@ Lena와 Mara는 **같은 얼굴**(시술로 동일)이다. 매 컷에서 둘이 
 
 ## 2-9. 회귀 단역 (연속성-필수 · 동일 배우 유지)
 
-- **THE CEMETERY REPORTER** (젊은 여기자) — EP14·18·19·49. 20대 후반, press lanyard·소형 카메라, 평범한 정장 코트. 군중과 달리 *촬영 안 하고 관찰*(EP14) → EP18부터 Mara를 찍는 쪽. 동일 배우.
-- **THE WOMAN IN PEARLS** (Helena의 오랜 친구) — EP26·49. 60대, baroque 진주 목걸이·이브닝 가운, 품위. EP26 게이트서 사적 고백 → EP49 군중서 *선두로* Lena 곁. 동일 배우.
+- **THE CEMETERY REPORTER** (젊은 여기자) — EP14·18·19·47·49. 20대 후반, press lanyard·소형 카메라, 평범한 정장 코트. 군중과 달리 *촬영 안 하고 관찰*(EP14) → EP18 Mara snarl 촬영 → EP19 그 클립 게시(소수 의심·회수불가) → **EP47 Lena 결혼식 하객석**("whose face she remembered"=EP14 회수·촬영 X) → EP49 그 클립을 방에 틂. 동일 배우 5회. (게시한 클립 자체는 EP30·35서 stitched/split-screen으로 자라며 화면 등장 — 기자는 비등장.)
+- **THE WOMAN IN PEARLS** (Helena의 오랜 친구) — EP26·47·49. 60대, baroque 진주 목걸이·이브닝 가운, 품위. EP26 게이트서 사적 고백·샤워 일찍 퇴장(빈 의자=Mara 손실) → **EP47 Lena 결혼식 신부측 하객석** → EP49 군중서 *선두로* Lena 곁. 동일 배우 3회.
+- **NOAH'S AUNT** (Noah 가족 노부인) — EP46만·1회. 브라이덜 스위트서 Lena 베일 고정·신부측 유일 가족·따뜻한 한 줄("Then walk yourself in."). 재등장 불요.
+- **MARA'S PRESS CONTACT** — 음성/오프스크린 단역(EP14 묘지 연출 지시 전화·EP45 폰 화면 번호). 렌더 불필요(폰 화면만).
+- **THE TWO WOMEN AT THE TV STUDIO** (EP12·20-30대·커피) — Lena를 *콘텐츠*로 소비하며 촬영. 1회·재등장 불요.
 
 ---
 
@@ -316,10 +319,10 @@ Lena와 Mara는 **같은 얼굴**(시술로 동일)이다. 매 컷에서 둘이 
 
 | 소품 | 디자인 | 룰 |
 |---|---|---|
-| 어머니 목걸이 (MOTHER'S PENDANT) | gold-diamond, 안쪽 라틴 각인 `LUMEN MEUM` | **감정·정체성 표식** (Hard Lock 예외). EP01 강탈 → Mara 목 EP01-49 → EP50 강제 회수 → Lena 목. **Reveal trigger 아님.** 각인 = Lena만 아는 것 / Mara는 모름 (멍청함의 바늘), 플롯-키 X. |
-| 시술 흉터 (SURGICAL SCAR) | 좌측 귀 2cm 아래 곡선 1.5cm + 우측 손목 안쪽 직선 3cm | Mara 전용 · 두 얼굴의 유일한 시각 구별 · **근접 confirmation 컷만**, 세상을 뒤집는 trigger 아님(자백이 먼저). |
+| 어머니 목걸이 (MOTHER'S PENDANT) | gold-diamond, 안쪽 라틴 각인 `LUMEN MEUM` | **감정·정체성 표식** (Hard Lock 예외). EP01 강탈 → Mara 목 EP01-49 → EP50 강제 회수 → Lena 목. **Reveal trigger 아님.** 각인 = Lena만 아는 것 / Mara는 모름 (멍청함의 바늘), 플롯-키 X. **각인 물증 시퀀스 (EP01-03·시청자 전용):** EP01 묘지 — Lena의 엄지가 *안 보고도* 각인을 찾음 → EP02 세단 — Eileen "What does it say inside?" / Mara "Something in Latin. Who cares." (매일 걸 물건을 못 읽음) → EP03 커브 — Lena가 빈 목을 움켜쥠. (회수 = EP14·19 코미디·EP48.) |
+| 시술 흉터 (SURGICAL SCAR) | 좌측 귀 2cm 아래 곡선 1.5cm + 우측 손목 안쪽 직선 3cm | Mara 전용 · 두 얼굴의 유일한 시각 구별 · **근접 confirmation 컷만**, 세상을 뒤집는 trigger 아님(자백이 먼저). EP01-03 fresh·pink → 이후 faint. 의도 노출 3컷(콜드오픈 ECU·EP01 엔드훅 거울·EP03 스크린 바람) = §1 참조. |
 | 어머니 진짜 웨딩드레스 | 단순 ivory silk, no train | EP05 Lena가 false panel서 꺼내 들고 나옴(Mara가 못 찾은 것) → EP46 그 드레스로 결혼. 감정 회수. |
-| 다이아 팔찌 (Mara) | diamond bracelet, 좌측 손목 | EP01 사고 현장 prop · 단발 시각 디테일 (CCTV-단서 엔진 아님). |
+| Helena 다이아 팔찌 (Mara) | diamond bracelet, clasp는 **우측 손목 전용**(Helena 좌측 손목 부러진 적) | EP10-11만 Mara가 **틀린 좌측 손목**에 착용 → Lena가 "매번 한 가지를 틀린다"는 한눈 tell. Lena가 약점 문자(EP11) → Mara 차단·팔찌 제거 → **EP11 이후 영구 미착용**(의상 연속성 락). 증거 prop 아님 — Lena+시청자만 아는 확인. |
 
 ### 폐기된 소품 (이전 설계 잔재 — 사용 금지)
 
@@ -329,6 +332,8 @@ Lena와 Mara는 **같은 얼굴**(시술로 동일)이다. 매 컷에서 둘이 
 ### 화면 증거 (소품 아닌 UI)
 
 - TV chyron(`MR. & MRS. CROSS`·`STALKER INCIDENT`), 폰 피드/댓글, 군중 핸드폰, 자막 reveal(`SHE STOLE MY FACE`·`SHE FINALLY SAID IT HERSELF`) — 9:16 모바일에서 즉시 읽히게.
+- **The doubter-clip account (회수불가 승점 스레드):** 기자가 게시한 작은 계정(EP19). snarl 클립 → EP30 stitched(snarl+묘지+"screams") 댓글 climb → EP35 split-screen(swim vs scared-of-water) → EP49 방에서 재생. 매번 *small, won't come down* = 화면에 폰 피드/댓글/follower count로. 군중이 swap을 추리한 게 아니라 *Mara 호감/일관성*에 금 가는 표식.
+- **모닝쇼 red-light tell (EP09·16·39·42):** off-air = Mara 무표정/지루 → red light pop on 그 프레임에 sweet-tearful 전환. 화면 연출 device.
 
 ---
 
@@ -338,13 +343,13 @@ Lena와 Mara는 **같은 얼굴**(시술로 동일)이다. 매 컷에서 둘이 
 
 | 대공간 | 적용 구간 | 기능 | 큰 형태 / 실루엣 | 색 / 질감 | 세부 공간 |
 |---|---|---|---|---|---|
-| Cross Manor / Estate | EP04·07-08·20·25-26·28·29-34·36·39 | 계단 망신·페이월·Mara 스위트·브라이덜 샤워·결혼식 | 거대 대리석 발리룸, 무대 dais, 앞 계단, 정원, 차가운 금·유리 재벌 저택 | cold marble white, gold, deep navy, chandelier glare | ballroom, front steps, Mara's suite, bridal room, garden(shower·wedding), gates |
+| Cross Manor / Estate | EP04·07-08·14·20·25-26·28·29-34·36·39 | 계단 망신·페이월·Mara 스위트(아침/민낯)·브라이덜 샤워·결혼식 | 거대 대리석 발리룸, 무대 dais, 앞 계단, 정원, 차가운 금·유리 재벌 저택 | cold marble white, gold, deep navy, chandelier glare | ballroom, front steps, Mara's suite (아침/민낯 = EP14·30·36 private-crack), bridal room, garden(shower·wedding), gates |
 | Glenmoor Cemetery | EP01·EP14·EP50 | 어머니 묘소 (진짜 모친) | Sterling family plot, headstone, manicured grounds | grey stone, green, overcast soft light | graveside |
 | Noah's Penthouse (home base) | EP08·10·15·21·23·24·32·35·38·40·41·45·50 외 | "여기선 안전한 나" · 로맨스·재정비·상시 base | floor-to-ceiling glass, Manhattan skyline, minimal warm interior | night city light, warm low lamp, glass black mirror | living room, kitchen, bedroom, terrace |
 | Lena's Apartment / Sterling Bldg | EP05·EP09·EP50 | 도둑맞은 집 → Hector 거부(EP09)·회복(EP50) | marble lobby, modern high-floor apartment | warm neutral, marble, intruder's perfume | lobby (Hector EP09·50), 14B interior (EP05) |
 | Brandt Clinic | EP01 | swap 현장 (얼굴 도둑) | mirror-wall back room, surgical light | clinical white, mirror, cold steel | mirror room |
 | Swap-Night Sets (1회) | EP02·EP03 | 연출 사고·병원 탈출 | coastal road·diner·hospital room | rain night, wet asphalt, clinical | wreck, diner TV, Harbor General |
-| Public Set-Pieces (milk) | 추모 오찬 EP13·추모 갈라 EP17-19·살롱 EP22·루프탑 EP28·자선 갈라 계단 EP37·모닝쇼 EP16·39·42 | Lena가 가짜를 공개서 흔드는 무대 | 행사장 홀·sweeping 계단·살롱·TV 스튜디오 | event lighting, press, raised phones | gala floor, grand staircase, salon mirror, talk-show set |
+| Public Set-Pieces (milk) | 추모 오찬 EP13·추모 갈라 EP17-19·살롱 EP22·루프탑 EP28·자선 갈라 계단 EP37·모닝쇼 EP09·16·39·42·TV 스튜디오 거리 문 EP12 | Lena가 가짜를 공개서 흔드는 무대 / 또래가 Lena를 콘텐츠 소비 | 행사장 홀·sweeping 계단·살롱·TV 스튜디오·스튜디오 거리 유리문 | event lighting, press, raised phones, daylight sidewalk | gala floor, grand staircase, salon mirror, talk-show set + 백스테이지(red-light tell), studio street doors (EP12·lobby screen loop) |
 | The Glass Conservatory | EP44·EP46-49 (베뉴 결정 EP42 Noah 사무실·EP43 펜트하우스 / 컨서버토리 물리 등장 EP44부터) | Lena & Noah 결혼식 (진짜 회복) | wide glass hall over the sea, white peonies, aisle, tide behind | sea light, white, glass, gold band | aisle, bridal suite, steps |
 | Somewhere Small | EP50 | Mara의 몰락 | cramped bare gray room, muted TV | drained gray, cold | — |
 
@@ -390,3 +395,17 @@ Lena와 Mara는 **같은 얼굴**(시술로 동일)이다. 매 컷에서 둘이 
   - 소스 경로 v38.1→**v38.2**(Noah 위로비트 반복 압축 패스 반영 — 2-3 Noah "I know 반복 금지" 룰이 본문에 실제 적용됨).
   - **정합성 수정 (현재 대본 실측 기준):** ①6-1 Eileen "EP02·20·30·36·39" → **물리 등장 EP02·36·39 / 전화 음성만 EP20·28·30**(EP28 폰 V.O. 누락분 추가·렌더 불필요분 구분). ②§4 Conservatory "EP43-44" → **EP44·46-49**(EP42 사무실·EP43 펜트하우스서 베뉴 결정만·컨서버토리 물리 등장은 EP44부터). ③§4 Cross Manor에 **EP28**(Mara 스위트 S#2) 추가.
   - 검증: 묘지 기자(EP14·18·19·49)·진주 노부인(EP26·49)·Hector(EP09·50)·펜던트(EP01→50)·드레스(EP05→46)·흉터·T2(15·23·38·45) = 전부 대본 일치 확인.
+- **2026-06-04 v6 (FINAL v41 환류 — v39 양식 + v40/v41 콘텐츠 패스 반영):**
+  - 소스 경로 v38.2→**v41**(현재 정본). v39 블록 양식(씬=공간 1개)·v40·v41 변경 반영. 통째 재작성 X·델타만 외과 수정.
+  - **EP01 콜드오픈(v40):** §1에 정확 구조 추가 — 거울 두 얼굴 → 마스크 *제 손으로 내리기 직전* 컷 투 블랙 → 타이틀 → `Earlier that day.` 풀 리빌은 EP01 엔드훅.
+  - **팔찌 룰 정정(v41):** Helena 다이아 팔찌 = clasp 우측 전용 · Mara가 **틀린 좌측 손목에 EP10-11만 착용 → EP11 이후 영구 미착용**(의상 연속성 락). Mara 룩표·상세·AIGC Call 기본값·소품표 4곳 수정(default call서 팔찌 제거).
+  - **doubter-clip 스레드(v40):** §3 화면 증거에 신규 — 기자 게시(EP19)→EP30 stitched→EP35 split-screen→EP49 재생, *small·won't come down*. 회귀 단역 기자 설명에 클립 성장(EP30·35) 명시. 모닝쇼 red-light tell(EP09·16·39·42) 추가.
+  - **신규 공간:** TV 스튜디오 거리 유리문(EP12·또래 2인 콘텐츠 소비·lobby screen loop)·모닝쇼 백스테이지 red-light(EP09)·Mara 스위트 아침/민낯(EP14)을 §4 공간표에 추가(Public Set-Pieces·Cross Manor 행).
+  - **신규 회귀/단역(§2-9):** Mara press contact(음성/오프스크린 EP14·45)·TV 스튜디오 두 여성(EP12·1회).
+  - 검증(대본 실측): 50EP·HC49·END HOOK50·씬 87(EP1 콜드오픈으로 v39 85→87)·한국어0·묘지 기자(EP14·18·19·49)·진주 노부인(EP26·49)·Hector(EP09·50)·Eileen 물리 EP02·36·39/전화 EP20·28·30·펜던트(EP01→50)·드레스(EP05→46)·T2(15·23·38·45) 전부 대본 일치.
+- **2026-06-05 v6.1 (v41 후속 패스 환류 — 6렌즈 수정·막장 복원·EP1-3 천박 이식+물증형 보증):**
+  - **콜드오픈 정정(§1):** 마스크 내리는 중 좌측 귀밑 흉터(fresh·pink) ECU = 타이틀 직전 마지막 이미지 추가.
+  - **물증형 보증 2자루 (EP01-03·시청자 전용 plant):** ①흉터 의도 노출 3컷(콜드오픈 ECU·EP01 엔드훅 거울 발견-가림-미소 재시작·EP03 스크린 바람-귀 가림·회수 EP49) ②각인 시퀀스(EP01 묘지 thumb·EP02 세단 못 읽음·EP03 빈 목·회수 EP14/19/48) — §1 구별 락·§2-2·§3 소품표에 반영. 흉터 EP01-03 fresh·pink → 이후 faint 명시.
+  - **회귀 단역 EP 정정(§2-9):** 기자 EP14·18·19·**47**·49(5회·EP47 결혼식 하객) · 진주 노부인 EP26·**47**·49(3회·EP47 신부측 하객). 신규 단역 **NOAH'S AUNT**(EP46·1회·베일 고정).
+  - **의상(§2-2·2-7):** Mara EP02-03 = Lena 약혼 가운 복제본(세단 garment bag) · Tessa EP50 = EP11 클립 재생만(신규 렌더 불필요).
+  - 검증(대본 실측): 흉터 3컷(L18·L85·L203)·각인 3비트(L29·L129-130·L209)·EP47 증인(L2610)·Noah's aunt(L2569)·Tessa EP50 클립(L2780) 전부 FINAL v41 일치.

@@ -6,7 +6,7 @@
 피칭덱은 **작품을 해설하는 문서가 아니다.** 위원이 작품을 직접 본 것처럼 이해하게 만드는 문서다.
 "이해된다"가 아니라 **"재밌겠다"** 가 떨어져야 한다.
 
-## 최상위 락 (필수, 2026-05-09 사용자 직접 작성 — `feedback_pitch_principles_master.md` / production_guide 11-8)
+## 최상위 락 (필수, 2026-05-09 사용자 직접 작성 — `feedback_pitch_master.md` / production_guide 11-8)
 
 **작품 밖에서 말하면 안 된다.** 작품 안에서 실제로 벌어지는 일·인물의 처지·빼앗기는 것·뒤집히는 자리·남겨지는 갈등만 써라.
 
@@ -35,7 +35,7 @@
 - config/reference_scripts/pitchdeck_examples.md (기존 포맷 참고)
 - config/reference_scripts/title_patterns.md (통 타이틀 작성 시 정독)
 - projects/[작품명]/[작품명]_01_blueprint_rough.md
-- 메모리 (통합): **feedback_pitch_master.md** (작성·근거·검수·양식 통합) / **feedback_evaluator_master.md** (위원 평가) / **feedback_directness_master.md** (직관성·트리트먼트) / feedback_banned_expressions.md / feedback_female_target_romance.md / feedback_character_name_diversity.md
+- 메모리 (통합): **feedback_pitch_master.md** (작성·근거·검수·양식 통합) / **feedback_evaluator_master.md** (위원 평가) / **feedback_directness_master.md** (직관성·트리트먼트) / feedback_banned_expressions.md / feedback_character_name_diversity.md
 
 ### 타깃 자료 + 피칭 근거 (필수 — "이 IP 피칭하는 이유" 근거 마련)
 
@@ -46,7 +46,7 @@
 - **`config/target_research/male_target_research.md`**
   - **이 단계 필요 Section: 1-5 (결론·4축·16 카테고리), 15-17 (5 최적 조합·5대 엔진), 21-23 (시장 출발 5단계·10 결제·source market 변환표 — 피칭 사유 근거), 26-28 (7 이식 모델·버려야 할 4·공식), 30-32 (Space-set Sci-Fi 진입 기회·12 후킹 매트릭스·강한 조합), 38 (플랫폼 신호 14편)**
 - `config/target_research/platform_recent/2026-05-12_paid_vertical_signals.md` (남성향 작품 매트릭스만 — 비교작·검증 근거)
-- 메모리: `feedback_male_target_research_data.md` / `feedback_paid_vertical_platform_signals.md` / `feedback_space_adventure_niche_opportunity.md` (해당 시)
+- 메모리: `feedback_male_target_master.md` / `feedback_paid_vertical_platform_signals.md`
 
 **여성향 작품:**
 - **`config/target_research/female_target_research.md`**
@@ -203,7 +203,7 @@
 - **부제는 의무 X.** 메인 타이틀만으로 갈등·장르·필수 후킹 소재가 읽히면 부제 없음.
 - 부제는 메인 타이틀에 빠진 **필수 후킹 소재 보강용**으로만 사용 (예: "LOCKED OUT: I Rule the World With My AI Girls").
 - **영문 타이틀 전체 (메인 + 부제 합산) 공백 포함 50 words 이하.**
-- **남성향 작품에서 하렘은 필수 평가 기준 X** — 작품 정체성이 권력 획득·위계 전복·스케일 보상이면 그 기준으로 판단 (단, "준하렘" 보정 별도 — `feedback_male_target_immediate_gratification.md` / `evaluators.md` Section 12-2 참조).
+- **남성향 작품에서 하렘은 필수 평가 기준 X** — 작품 정체성이 권력 획득·위계 전복·스케일 보상이면 그 기준으로 판단 (단, "준하렘" 보정 별도 — `feedback_male_target_master.md` / `evaluators.md` Section 12-2 참조).
 
 **좋은 예 (각 형식별 — 모두 3초 직관성):**
 - 문장형: "She Stole My Face" / "Every Monday, Manhattan Dies"
@@ -334,9 +334,9 @@
 
 ---
 
-## 시청자 페르소나 호출 (필수, 2026-05-10)
+## 시청자 시점 자가 진단 (2026-06-05 — 페르소나 별도 호출 '필수' 강등·token-diet 룰3)
 
-피칭덱이 위원 4표를 받아도 **시청자가 받지 않으면 매출 안 남**. 피칭덱 본문(로그라인·인물 소개·줄거리·트리트먼트) 작성 후, 작품 타깃 정렬 시청자 페르소나로 1차 진단을 받는다.
+피칭덱이 위원 4표를 받아도 **시청자가 받지 않으면 매출 안 남**. 아래 5항목은 **작성자 자가 체크리스트** (페르소나 agent 별도 호출은 사용자 명시 시만 — 사용자 직접 평가 우선).
 
 **활성화 규칙:**
 - 남성향 작품 → **persona_08 (Male Viewer)** 호출. 09 비활성.
@@ -391,7 +391,11 @@
 
 작성 완료 후 아래 항목 모두 점검. 하나라도 NG면 수정.
 
-### A0. 직관성 anti-pattern 6 검수 (필수 통과, 2026-05-10 — `feedback_directness_anti_patterns.md`)
+### A-1. 쾌감 게이트 (최우선 — 2026-06-05·운용 룰 §1)
+
+**"이 덱만 읽어도 이 작품이 재밌겠다·돈 내겠다가 서는가?"** — 핵심 쾌감 한 컷이 로그라인·트리트먼트에 실제로 박혀 있는가. NO면 아래 형식 검수 진행 전 본문부터 다시. (형식 검수가 쾌감을 깎는 방향이면 쾌감 우선.)
+
+### A0. 직관성 anti-pattern 6 검수 (필수 통과, 2026-05-10 — `feedback_directness_master.md`)
 
 모든 문장(로그라인·줄거리·트리트먼트·인물 소개·페이월 응축)에 6 anti-pattern 검수:
 
@@ -426,7 +430,7 @@
 - [ ] 차가운 코드네임/낯선 호칭에 감정 진입선·기능 라벨?
 - [ ] 인물 이름이 그 회차 또는 이전 회차에 소개?
 - [ ] 인물 이름 충돌 검사 (다른 작품과)?
-- [ ] 여성향이면 알파남 + 침실 긴장감·금지된 끌림 회피 X (`feedback_female_target_romance.md`)?
+- [ ] 여성향이면 알파남 + 침실 긴장감·금지된 끌림 회피 X (`feedback_female_target_research_data.md`)?
 - [ ] 방어적 에세이 섹션 ("왜 X인가") 0건?
 - [ ] 차용·약점 메타 발화 0건?
 - [ ] 7인 평가위원 판단축 4개 이상 충족?
@@ -439,7 +443,7 @@ projects/[작품명]/[작품명]_02_pitch_deck.md
 ## 실행 순서
 
 1. **production_guide.md 11-8 (피칭덱 작성 원칙 마스터) 정독.**
-2. **메모리 정독**: feedback_pitch_principles_master.md / feedback_banned_expressions.md / feedback_directness_density.md / feedback_pitch_deck_format.md.
+2. **메모리 정독**: feedback_pitch_master.md / feedback_banned_expressions.md / feedback_directness_master.md.
 3. **타깃 자료 정독 (필수 — 피칭 사유 근거 마련용):**
    - 작품 타깃 확인 (남성향/여성향) → 해당 `config/target_research/[성별]_target_research.md` 전체 정독
    - `config/target_research/platform_recent/2026-05-12_paid_vertical_signals.md` 정독 (해당 성향 작품 매트릭스·트롭 매핑)
@@ -447,14 +451,14 @@ projects/[작품명]/[작품명]_02_pitch_deck.md
    - **목적:** 피칭 사유에 카테고리 검증·글로벌 IP·결제 동력·시장 공백·비교작 근거로 활용
 4. config/evaluators.md, projects/[작품명]/[작품명]_01_blueprint_rough.md 읽음.
 6. 평가위원 7인 핵심 전제 내면화 (4인 OK 목표 / 첫 인상 통과 / 논리 설득 불가 / **위원 가중치 = 매력 70%·트로프 15%·결제 10%·QA 5%**).
-7. 러프 청사진에서 **핵심 쾌감 한 컷** 추출 (작품의 가장 강한 단일 이미지).
+7. 러프 청사진에서 **핵심 쾌감 한 컷** 추출 (작품의 가장 강한 단일 이미지). **← 통과/탈락 게이트: 한 컷이 안 서면 압축 작성 진입 금지 — 러프 청사진 보강 먼저.**
 8. 제목·로그라인·키워드 압축 작성. 한국어 로그라인 + 두 줄 룰.
 9. 출력 구조 본문 작성. **새 원칙 강제** — 작품 안 사건만 / 평가·해설·메타 0건 / 금지어 0건.
 10. **피칭 사유 섹션 작성 시 타깃 자료 적극 활용** — 카테고리 검증 (16 카테고리 표) / 글로벌 IP 매핑 / paid vertical 적합도 (NetShort·ReelShort 등 비교작 사례) / 결제 동력 (페이월 응축) / 시장 공백 (해당 시)
-11. **자가 검증 A (새 원칙) + B (형식) 모두 통과 확인.** NG 있으면 수정 후 재점검.
+11. **자가 검증 A-1 (쾌감 게이트) → A (새 원칙) + B (형식) 모두 통과 확인.** NG 있으면 수정 후 재점검.
 12. projects/[작품명]/[작품명]_02_pitch_deck.md 저장.
-11. projects/[작품명]/[작품명]_00_meta.md 업데이트 (진행: phase_2 완료).
-12. 종료 안내 (3줄):
+13. projects/[작품명]/[작품명]_00_meta.md 업데이트 (진행: phase_2 완료).
+14. 종료 안내 (3줄):
     - `✅ projects/[작품명]/[작품명]_02_pitch_deck.md — [영어 타이틀]`
     - `페이월 응축: [한 줄 — 핵심 쾌감 한 컷] · 7 검수 통과 ✅ · 금지어 0 ✅`
     - `다음: 평가위원 반응을 알려주세요. 결과를 받으면 projects/[작품명]/[작품명]_03_pitch_outcome.md에 정리 후 완성 청사진(phase_3)으로 진행.`

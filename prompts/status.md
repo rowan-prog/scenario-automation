@@ -47,7 +47,7 @@ ls projects/
 - `[작품명]_03_pitch_outcome.md` 존재 여부.
 - `[작품명]_04_blueprint_full.md` 존재 여부.
 - `05_episodes/` 안 EP 파일 개수 (예: `[작품명]_ep01.md` ~ `[작품명]_ep50.md`). 각 EP의 최신 라운드 (`_r1`, `_r2` 등).
-- `06_reviews/` 안 라운드별 검토 보고서 개수 (페르소나·EP 단위).
+- `06_reviews/` 안 검토 산출물 (있으면) 개수.
 - `07_final/` 안 최종고 EP 개수.
 
 ### 3. 다음 권장 prompt 산출 (작품별)
@@ -59,11 +59,11 @@ ls projects/
 | 피칭덱 있음 + 피칭 결과 없음 | (사용자) 피칭 결과 작성 (`03_pitch_outcome.md`) |
 | 피칭 결과 있음 + 완성 청사진 없음 | `phase_3_full_blueprint.md` |
 | **완성 청사진 있음 + 집필 미완성** | **Conversion Runway 7 단계 (체질 개선 v3)** — `feedback_conversion_runway_writing.md` baseline + phase_4 활용 (전 회차 1개 자연 흐름) |
-| 집필 N화 완료 + 페르소나 검토 0건 | `phase_5_persona_review.md` (페르소나 01부터·또는 Three-Gate Review) |
-| 검토 라운드 N + 패치 없음 | `phase_6_revision.md` |
-| 패치 라운드 N + 4-Gate 평가 없음 | `phase_7_final_gate.md` (4-Gate + 1종 FINAL.md 통합) |
-| 4-Gate 통과 + 07_final/ 비어 있음 | (자동 복사 누락 — 점검) |
-| 통합 FINAL.md 완료 | 작품 완료 ✅ |
+| 집필 N화 완료 + 검수 미수행 | `phase_5_persona_review.md` (운용 룰 §4 시점 — 파일럿 cold-read·LOCK 전 fresh-eyes) |
+| 검수 완료 + 수술 없음 | `phase_6_revision.md` (외과 수술) |
+| 수술 완료 + 최종 게이트 미진행 | `phase_7_final_gate.md` (보호 단계·기계 게이트 + FINAL_v{N} 통합) |
+| 게이트 통과 + 07_final/ 비어 있음 | (통합 누락 — 점검) |
+| `FINAL_v{N}.md` 완료 | 작품 완료 ✅ (docs 환류 = LOCK 후 1회) |
 
 > **phase_8 폐기 (2026-05-15·체질 개선 v3):** 한국어 줄거리 요약 = 토큰 낭비·매출 영향 0. archive 처리.
 >
@@ -78,7 +78,7 @@ ls projects/
 - **빈 작품 폴더:** `_00_meta.md`도 없는 폴더가 있는지.
 - **메타 vs 실제 산출물 불일치:** 메타에는 "phase_3 완료"인데 실제 `_04_blueprint_full.md` 파일 없음 등.
 - **EP 누락:** `05_episodes/`에 EP1, EP2, EP4 있지만 EP3 없음 등 (순서 누락).
-- **페르소나 검토 누락:** 라운드 N에 페르소나 일부만 있고 일부 누락.
+- **정본 vs 메타 모순:** `07_final/FINAL_v{최신N}` ↔ meta·CLAUDE.md 작품 행 불일치 (파일 시스템 우선).
 
 ## 출력 형식
 
@@ -116,7 +116,7 @@ ls projects/
 
 ## 명령 단축 (사용자가 다음 단계 즉시 진행 시)
 - "EP3 집필 시작" → phase_4 호출 (작품 01)
-- "페르소나 01로 EP1 검토" → phase_5 호출 (작품 01, EP1, 페르소나 01)
+- "콜드리드 3회" / "fresh-eyes 감사" → phase_5 호출 (해당 agent 패널)
 - "새 작품 시작" → projects/04_[slug]/ 생성 + phase_1 호출
 ```
 
