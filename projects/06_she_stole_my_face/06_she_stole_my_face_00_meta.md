@@ -1,8 +1,8 @@
 # SHE STOLE MY FACE — 진행 메타
 
-## 🟡 LOCK-READY CERTIFICATE — v48 (2026-06-09 · 사용자 교차검수 대기)
+## 🔒 LOCK CERTIFICATE — v48 (2026-06-09 · 사용자 확정 LOCK)
 
-**정본: `07_final/06_she_stole_my_face_FINAL_v48.md` · AIGC △ 프롬프트-제작양식 · LOCK-ready.** 자동/에이전트 게이트(기계+적대 Track B+cold-read Track A) 전부 통과. **진짜 LOCK = 사용자 교차검수 후 확정**(자가판정 단독 LOCK 금지). Track A 패치 5개(EP9/30/31/35/48)=신규 작성분이라 교차검수 필수.
+**정본: `07_final/06_she_stole_my_face_FINAL_v48.md` · AIGC △ 프롬프트-제작양식 · 🔒 LOCK.** 자동/에이전트 게이트(기계+적대 Track B 진성오류0+cold-read Track A engine_intact+voice_lint) 전부 통과 + **사용자 확정 LOCK(2026-06-09 "확실하게 lock하라").** v031(THE OFFERING 양식충족·거부 EP1) 6대 거부사유 렌즈로 역검증도 통과(VO 일기X·EP1 엔진 9.0·막장 대사·하드 후크 = v031과 정반대).
 
 | 항목 | 값 |
 |---|---|
