@@ -4,28 +4,29 @@ AIGC 숏폼 vertical drama 시나리오 제작. 최종 산출 = `projects/[작�
 
 ---
 
-## 어디서 무엇 찾는지 (이 파일은 인덱스만)
+## 핵심 문서 3개 (2026-06-10 일원화 — 사용 시점별)
+
+| 시점 | 문서 |
+|---|---|
+| 모든 작업의 근본 원리 (작품 진입 시 1회) | **`config/00_vertical_dna.md`** — 8 매체 조건·모든 룰의 모체 |
+| 집필·재집필·가필 | **`config/10_writing_standard.md`** — 진입 게이트·△ 양식·연속극 구조·대사·State Ledger·모욕 표준 |
+| 검수·LOCK | **`config/20_review_standard.md`** — 2모드·Track A/B·토큰 회계(LOCK belt ≤6 호출)·쇼러너 merge |
+
+구 문서(hard_rules·final_review_flow·agent_operating_rules·lock_pipeline_standard·phase_4 prompt) = 위 3개로 통합·스텁만 잔존 (`config/_archive_2026-06-10/` 원문 보존). master_guide_v3(5816줄) = 집필 컨텍스트 진입 금지.
+
+## 보조 자료 (필요 시점만)
 
 | 필요 | 위치 |
 |---|---|
-| Hard rule 12개 | `config/hard_rules.md` (1페이지·매 phase 진입 시 정독) |
-| Phase별 prompt | `prompts/phase_*.md` (단계 진입 시) |
-| 작품 진행 메타 | `projects/[작품]/[작품]_00_meta.md` |
-| 검증 히트작 raw 대본 | `config/vertical_drama_hit_scripts/` (집필 시 매칭 작품 3-5 EP raw 강제 정독) |
-| 히트작 분석 | `config/vertical_drama_hit_scripts_analysis/` |
-| 페르소나 | `config/personas/` (검토 시점만) |
-| 평가위원 | `config/evaluators.md` (피칭 시점만) |
-| 타깃 자료 | `config/target_research/[성별]_target_research.md` · 권역 인사이트 = `es/jp_region_insights_2026-06.md` |
-| 비주얼 락 템플릿 | `config/visual_lock_template.md` |
-| Reference 인덱스 | `config/reference_scripts/INDEX.md` |
-| 시스템 baseline 메모리 | `memory/` (always-load 3개만·MEMORY.md 참조) |
-| 상태·정합성 도구 | `prompts/status.md` · `prompts/audit.md` |
-| 검수 agent 7종 + 운용 룰 | `~/.claude/agents/` (정의) · **`config/agent_operating_rules.md` (운용 단일 진실)** (LOCK 전 최소 = voice_lint + fresh-eyes-auditor + cold-read 3회 수렴) |
-| 최종고 검수 흐름 | **`config/final_review_flow.md`** (10+3패스·단일/sub-agent 모드 기준·쇼러너 merge·**절대 규칙: 천박함 ≠ 싸구려**) |
-| 핸드오프 템플릿 | `config/production_handoff_template.md` (titan v169 양식·영어·LOCK 후 환류 시) |
-| 마케팅 셀링포인트 템플릿 | `config/mkt_selling_points_template.md` (BUMP 엑셀 양식·전회차 트리트먼트+MKT IDEA·LOCK 후 마무리 산출물) |
-
-> **master_guide_v3.md (5816줄) = 시스템 백과·집필 컨텍스트 진입 금지.** Hard rule 12개는 `config/hard_rules.md`에 추출됨.
+| 작품 진행 메타 (이력 단일 진실) | `projects/[작품]/[작품]_00_meta.md` |
+| 검증 히트작 raw | `config/vertical_drama_hit_scripts/` (집필 진입 시 매칭 3-5 EP 강제 정독) |
+| 히트작 분석 / 페르소나 / 평가위원 | `config/vertical_drama_hit_scripts_analysis/` · `config/personas/`(검토 시) · `config/evaluators.md`(피칭 시) |
+| 타깃 자료 | `config/target_research/` |
+| 템플릿 | `config/engine_brief_template.md` · `visual_lock_template.md` · `production_handoff_template.md` · `mkt_selling_points_template.md` · `meta_template.md` |
+| Reference / 피칭 데이터 | `config/reference_scripts/INDEX.md` · `config/pitch_references/MASTER_DATASET.md` |
+| 검수 agent 7종 정의 | `~/.claude/agents/` (운용 룰 = `config/20_review_standard.md` §7) |
+| 기계 도구 | `tools/voice_lint.py` · `tools/continuity_lint.py` · `tools/format_pass_verify.py` |
+| 장르·작품 특수 메모리 | `memory/` (MEMORY.md 인덱스·호출 트리거 기반) |
 
 ---
 
@@ -33,51 +34,42 @@ AIGC 숏폼 vertical drama 시나리오 제작. 최종 산출 = `projects/[작�
 
 ```
 phase_0 (아이디어) → phase_1 (러프 청사진) → phase_2 (피칭) → 피칭 결과
-  → phase_3 (완성 청사진 + visual lock) → phase_4 (Conversion Runway 집필)
-  → phase_5 (페르소나 검토) → phase_6 (패치) → phase_7 (최종고)
+  → phase_3 (완성 청사진 + visual lock + engine brief) → phase_4 (집필 = 10_writing_standard)
+  → phase_5/6 (검토·패치 = 20_review_standard 경량) → phase_7 (LOCK = 20_review_standard 풀)
 
 부가 트랙: phase_a (각색) / phase_b (외부 대본) / phase_c (외부 피드백)
 ```
 
----
-
 ## 작품 파일 명명 규칙 (필수)
 
-`projects/[NN]_[slug]/[NN]_[slug]_[단계번호]_[단계명].md`
-- 폴더 prefix = 폴더명 동일
-- 하위 폴더 (`05_episodes/`·`06_reviews/`·`07_final/`) 안 파일도 prefix 적용
-- 폐기 폴더 = `_X_NN_slug` prefix (자동 차단)
+`projects/[NN]_[slug]/[NN]_[slug]_[단계번호]_[단계명].md` — 폴더 prefix 동일·하위 폴더(`05_episodes/`·`06_reviews/`·`07_final/`)도 prefix 적용·폐기 폴더 = `_X_NN_slug`(자동 차단).
 
 ---
 
-## 현재 작품 (2026-05-21)
+## 현재 작품 (2026-06-10)
 
-| 폴더 | 작품 | 현재본 (정본) | 단계 |
-|---|---|---|---|
-| `_X_01_titan_born` | TITAN BORN | (외부 진행) | **🚫 폐기 — 외부 별도 진행 (2026-06-02)·작업 금지** |
-| `_X_02_the_offering` | THE OFFERING: Claimed by the Dragon Lord | **🎬 `07_final/02_the_offering_FINAL_v68_dialogue_surgery.md`** | **🚫 폐기 — 외부 별도 진행 (2026-06-02)·작업 금지.** v68 = 대사·VO surgery 최종본(5217 lines·Korean 0·EP 50/50·sex scene 7건 보존). 상세 이력 = `02_the_offering_00_meta.md`(CLAUDE.md 원문 이관 포함). |
-| `03_most_wanted_ship` | I BOUGHT THE GALAXY'S MOST WANTED SHIP | (07_final 확인 필요) | phase_2 완료 |
-| `_X_04_heiress_clause` | I AM THE HEIR | — | 폐기 |
-| `06_she_stole_my_face` | SHE STOLE MY FACE | **🔒🎬 `07_final/06_she_stole_my_face_FINAL_v48.md`** (2026-06-09 · **🔒 LOCK 확정**·사용자 지시) | **현행 정본 = v48 = AIGC △ 프롬프트-제작양식 전면 변환 + 풀 LOCK. 풀 파이프라인(기계게이트+적대 Track B *진성오류0*+cold-read Track A *engine_intact*+voice_lint) 통과 + **사용자 확정 LOCK(2026-06-09).** v031(THE OFFERING 양식충족했으나 거부된 EP1) 6대 거부사유 렌즈로 역검증도 통과 — VO 일기X·EP1 엔진 9.0·막장 대사·하드 후크(v031과 정반대).** v47(구 [KEY CAMERA]/[VO] 블록양식)→v48 = 매 컷 1프롬프트 △ 양식(EP-S#·Characters·△ atomic·고유명·[END HOOK]→훅컷·메타0). **LOCK 파이프라인(`config/lock_pipeline_standard.md` 단일 진실):** ①Phase 2A 기계게이트 PASS(50EP·씬87·HC49·END HOOK49·Korean0·action-pronoun0·포맷클린·분모 대사393/VO31/△542) ②Track B 적대 에러게이트(10 에이전트·분모 제시·76 flags)→쇼러너 merge: HARD 11(Continuous 텔레포트·LIVE 시간모순·EP20 중복아이디어·"he"=Ethan 모호·aisle 방향·상처 lip↔hairline·EP41 INTERCUT 누락·"Tonight"↔주간) + FIX 11(내면-대체 지문·posed VO·recap) + WATCH 14 수정 = **진성오류 0** ③Track A cold-read 3회+페르소나(engine_intact=True·"PATCH THEN LOCK"·전원 EP8 결제 YES)→수렴 약점 패치: EP9 첫유료=헌터각성·EP30 공회전→Lena 능동 reporter 크랙(남는 승리)·EP31 reshape(잠입 반복→의심이 Mara에게·staircase)·EP35 gloat중복 제거→공개 TV 함정·EP48 트리거 막장 taunt화 ④델타 적대검수→reporter 스레드 정합(EP9 hands lie→10 계획→30 전달→35 공개 결실)·확인 cold-read(EP9 7·EP30 7·EP35 8·남는 승리 확인) ⑤voice_lint: METAPHOR2(씬타이틀+엔진모티프 "wearing my mother"·≤baseline3)·MICRO_ACTING0·Korean0·"I love you"2·97,018 chars(AIGC 제작양식이라 대사 70-80k spec 미적용). 엔진 = impostor-believed 막장(시청자 EP01부터 전모·세상 EP48까지 가짜 믿음·진실=증거X Mara 자백·악역 천박/뻔뻔/멍청). 50EP·페이월 EP8·HC49·END HOOK49(EP50 자연 END). 핵심 메모리 = [[vertical-revenge-impostor-believed-engine]]·[[easy-dopamine-over-logic]]·[[emotion-to-action-aigc-writing]]·[[aigc-prompt-script-writing]]. **이전 양식(v30→v47) 이력·수술 상세 = `06_she_stole_my_face_00_meta.md`. 잔존 WATCH(~40 intended-design: 흉터 tell·pendant 소유·Lena 불신=엔진) = LOCK 비차단·문서화.** |
-| `_X_08_reborn_at_ten` | REBORN AT TEN | — | 폐기 |
+| 폴더 | 작품 | 현재 상태 |
+|---|---|---|
+| `_X_01_titan_born` · `_X_02_the_offering` · `_X_04_heiress_clause` · `_X_08_reborn_at_ten` | (폐기 4종) | 🚫 작업 금지 — 이력은 각 meta 파일 |
+| `03_most_wanted_ship` | I BOUGHT THE GALAXY'S MOST WANTED SHIP | phase_2 완료 |
+| `06_she_stole_my_face` | SHE STOLE MY FACE | **🔒 정본 = `07_final/06_she_stole_my_face_FINAL_v48.md` (2026-06-09 사용자 LOCK).** **v50 = 2026-06-10 신표준 50화 전면 재집필 — LOCK 파이프라인 통과(Track B 0·cold-read 3/3 결제 YES)·사용자 확정 도장 대기.** v49 = 중간 산출(폐기 후보). certificate·이력 = `06_she_stole_my_face_00_meta.md` 단일 진실. 핵심 메모리 = [[vertical-revenge-impostor-believed-engine]] [[easy-dopamine-over-logic]] [[translation-proof-no-cinema]] |
 
 새 작품 번호 = **09**.
 
-> **현재본 단일 진실:** 각 작품의 `07_final/[작품]_FINAL_v{최신N}.md`. 메타 파일·CLAUDE.md 모순 시 → *파일 시스템 우선*. 메타 즉시 갱신.
+> **현재본 단일 진실:** `07_final/[작품]_FINAL_v{최신N}.md`. 메타·CLAUDE.md 모순 시 → 파일 시스템 우선·메타 즉시 갱신. CLAUDE.md 작품 행 = 현재 상태 + 포인터만(이력 누적 금지).
 
-> **메모리 위치 주의:** workspace 안에 `memory/` 폴더 *없음*. 실제 위치 = `C:/Users/Rowan/.claude/projects/C--Users-Rowan-scenario-automation/memory/`. `memory/feedback_*.md` 참조 = 그 위치를 의미.
+> **메모리 위치:** workspace 안에 `memory/` 폴더 없음. 실제 = `C:/Users/Rowan/.claude/projects/C--Users-Rowan-scenario-automation/memory/`.
 
 ---
 
 ## 룰
 
-1. **묻지 말고 자율 진행.** 비가역 (캐논 변경·작품 이름 변경·대량 삭제·Hard Lock 변경)만 사전 확인.
-2. **검증 보고서·테이블·자가 검수 풀이 = 본문 외 작성 금지.** 메타 분량 = 본문 톤 침투의 근본 원인.
-3. **집필 컨텍스트 = raw drama prose 우선.** 매 phase_4 진입 시 매칭 히트작 3-5 EP + 이전 EP 3개 raw 정독 강제.
-4. **EP 본문 = 영어 100% (한국어 0건).** EP 외 메타·footer·로그도 영어 권장.
-5. **사용자 질문 시 PushNotification** (200자 이내·결정/입력값/블로커).
-
----
+1. **묻지 말고 자율 진행.** 비가역(캐논 변경·작품 이름 변경·대량 삭제·Hard Lock 변경)만 사전 확인.
+2. **검증 보고서·테이블·자가 검수 풀이 = 본문 외 작성 금지.** 메타 분량 = 본문 톤 침투의 근본 원인. 보고 = 경로 + 한 줄.
+3. **집필 컨텍스트 = raw drama prose 우선.** 집필 진입 시 매칭 히트작 3-5 EP + 직전 배치 raw 정독 강제.
+4. **EP 본문 = 영어 100% (한국어 0건).**
+5. **한국어 출력 시 AI jargon·작업어·어색한 조어 절대 금지** (전 작업 — 대본·메모·로그·대화). 친구 카카오톡 톤 우선.
+6. **사용자 질문 시 PushNotification** (200자 이내·결정/입력값/블로커).
 
 ## 모델·세션
 
