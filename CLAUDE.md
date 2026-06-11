@@ -52,7 +52,7 @@ phase_0 (아이디어) → phase_1 (러프 청사진) → phase_2 (피칭) → �
 |---|---|---|
 | `_X_01_titan_born` · `_X_02_the_offering` · `_X_04_heiress_clause` · `_X_08_reborn_at_ten` | (폐기 4종) | 🚫 작업 금지 — 이력은 각 meta 파일 |
 | `03_most_wanted_ship` | I BOUGHT THE GALAXY'S MOST WANTED SHIP | phase_2 완료 |
-| `06_she_stole_my_face` | SHE STOLE MY FACE | **🔒 정본 = `07_final/06_she_stole_my_face_FINAL_v48.md` (2026-06-09 사용자 LOCK).** **v50 = 2026-06-10 신표준 50화 전면 재집필 — LOCK 파이프라인 통과(Track B 0·cold-read 3/3 결제 YES)·사용자 확정 도장 대기.** v49 = 중간 산출(폐기 후보). certificate·이력 = `06_she_stole_my_face_00_meta.md` 단일 진실. 핵심 메모리 = [[vertical-revenge-impostor-believed-engine]] [[easy-dopamine-over-logic]] [[translation-proof-no-cinema]] |
+| `06_she_stole_my_face` | SHE STOLE MY FACE | **🔒 정본 = `07_final/06_she_stole_my_face_FINAL_v48.md` (2026-06-09 사용자 LOCK).** **v51 = 현행 LOCK 후보** (v50 신표준 재집필 + 2026-06-11 사용자 11라운드 교정: 무료부 노아 제거·한 사건 다화·수사물 제거·수위 돌파·반PC·calque 41·델타 적대감사 HIGH 4 수술). v49-50 = 중간 산출. **버전 룰: 메이저 수정 = v{N+1} 복사 후 수정(사용자 명시).** certificate·이력 = `06_she_stole_my_face_00_meta.md` 단일 진실. 핵심 메모리 = [[vertical-revenge-impostor-believed-engine]] [[easy-dopamine-over-logic]] [[translation-proof-no-cinema]] |
 
 새 작품 번호 = **09**.
 

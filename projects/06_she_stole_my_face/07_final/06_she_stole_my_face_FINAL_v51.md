@@ -11,7 +11,7 @@ LENA (glowing, breathless): Quick as you can — at eight tonight, the whole cit
 △ A masked nurse waves her to the chair. At the counter, a masked assistant in scrubs and cap preps a syringe, back turned.
 
 NURSE (masked): It's a numbing shot and a light sedative. Twenty minutes and you're out the door.
-LENA (sitting, touching the pendant at her throat): Then this mark on my collarbone is gone before the cameras see it. Mara begged them for this slot. She thinks of everything.
+LENA (sitting, touching the pendant at her throat): Then this bruise on my collarbone is gone before the cameras see it. Mara begged them for this slot. She thinks of everything.
 
 LENA (bright, happy): Tonight, after the toast, I'm asking her to be my maid of honor. Twenty years. She's basically my sister.
 
@@ -74,7 +74,7 @@ MARA (to the mirror, in Lena's exact voice): Hi. I'm Lena Sterling.
 
 MARA (her own voice, pleased): A year of practice. Worth every minute.
 
-△ Mara leans down over the unconscious Lena, close to her ear.
+△ Mara leans down over the drugged Lena, close to her ear.
 
 MARA (whispering, gloating): Want a secret before you go under? Last week I borrowed your face for an afternoon. Your Ethan kissed me at the door. (beat) He couldn't tell, Lena. The man you were going to marry can't tell us apart. Nobody can. Nobody ever will. (patting her cheek) I'll take it from here.
 
@@ -179,7 +179,7 @@ NURSE (soothing, not believing a word): Honey. Sit down. Keep saying that name a
 
 △ Lena looks at the nurse. Then at the door.
 
-△ Lena rips the tape off her arm and runs — barefoot, hospital gown, past a startled orderly.
+△ Lena rips the tape off her arm. From the tray by the bed she grabs her cracked phone — the one thing that came in with her — and runs, barefoot, past a startled orderly.
 
 NURSE (calling after her): Somebody stop her —
 
@@ -476,7 +476,7 @@ Characters: Lena, two men · (then: a man in the car)
 
 △ A side door opens. A guard uncuffs Lena and shoves her out into the dark service road. The door slams.
 
-△ Lena stands alone in the rain. No phone. No shoes that match the night. Blood drying on her knuckles.
+△ Lena stands alone in the rain. No phone. Blood drying on her knuckles.
 
 △ Two men peel away from the dispersing crowd and follow her down the dark stretch past the hedges — phones out, grinning.
 
@@ -532,7 +532,7 @@ NOAH (flat): They watched the wrong woman.
 
 △ Lena goes still.
 
-NOAH (finally looking at her — blunt, no warmth wasted): Every gala for three years, you held your glass in your left hand. The woman in that ballroom tonight signs with her right. They bought your face. They forgot your hands.
+NOAH (finally looking at her — blunt, no warmth wasted): Every gala for three years, you held your glass in your left hand. The woman in that ballroom tonight signed the guest book with her right hand. They bought your face. They forgot your hands.
 LENA (staring at him): Three years. You watched me for three years?
 NOAH (eyes back on the road, even): You were engaged. (beat) You're not anymore.
 
@@ -621,9 +621,9 @@ NOAH (flat): Get in, Lena.
 
 △ Lena gets in. The door shuts.
 
-△ [INSERT] The new phone in Lena's lap lights up on its own — a morning show, auto-playing.
+△ [INSERT] The new phone in Lena's lap lights up with a push alert — a morning-show clip, already playing.
 
-△ [INTERCUT] A studio green room, off-air. Mara sits in the guest chair, Helena's pendant at her throat, scrolling the fresh lobby clip of Lena.
+△ [INTERCUT] A studio green room, off-air. Mara sits in the guest chair, Helena's pendant at her throat, a flesh-tone strip at her lip, scrolling the fresh lobby clip of Lena.
 
 MARA (bored, contemptuous): Why do they keep letting her near MY building? Her face goes on every desk in that lobby. Anyone who lets her in is done. Fix it.
 
@@ -1191,7 +1191,7 @@ MARA (low, sour): Twenty years she had all this. She never even used it right. W
 
 MARA (cold): Doesn't matter. After the wedding it's all mine, and nobody can touch a piece of it.
 
-△ [INSERT] On the vanity, the wedding invitation proof — LENA STERLING & ETHAN CROSS. Mara signs LENA across the approval line without looking, fast, like she has signed it a thousand times.
+△ [INSERT] On the vanity, the wedding invitation proof — LENA STERLING & ETHAN CROSS. Mara signs LENA across the approval line with her right hand, fast, like she has signed it a thousand times.
 
 Hard Cut.
 
@@ -1211,7 +1211,7 @@ HELENA (V.O., old voicemail, warm): Lena, sweetheart, it's Mom. Call me back whe
 △ Lena's face crumples and she cries, the phone pressed to her ear.
 
 LENA (barely): Where did you—
-NOAH (even): Your old phone. They never wiped the backup. It's yours now. This one, nobody can take.
+NOAH (even): They took your phone. They never wiped the cloud backup. Her voice is yours again — and this one, nobody can take.
 
 △ Lena holds the phone to her chest. Noah puts an arm around her.
 
@@ -1832,7 +1832,7 @@ MARA (warm, for the room): And Margaret — Mom loved you most.
 
 △ Lena climbs the stairs toward Mara and pulls the wig off — her own face, in clear view near the top.
 
-LENA (loud, clear): That's not her name. That's twice tonight. I grew up in that woman's kitchen! Ask the bride my mother's middle name! She doesn't know!
+LENA (loud, clear): That's not her name. I grew up in that woman's kitchen! Ask the bride my mother's middle name! She doesn't know!
 
 △ The room goes quiet. Nobody laughs.
 
@@ -2255,7 +2255,7 @@ Characters: Lena, Noah, Mara, Eileen, Young Reporter, Cameraman, Ethan, Victoria
 
 NOAH (flat): You walked into my wedding. In black. With a camera.
 MARA (faltering, then louder, tearful): I came to save you. She's dangerous—
-NOAH (level): The only one faking anything here is you. You're not invited. Get out.
+NOAH (level): The only one faking anything here is you. You're not welcome here. Get out.
 
 △ Mara's eyes go across the room for a face that will turn for her. None turn. Noah steps back and leaves Mara the floor.
 
@@ -2287,7 +2287,7 @@ EILEEN (low, gripping Noah's wrist): Where did you get that. That was deleted. W
 △ Mara thrashes against the men holding her.
 
 MARA (screaming): MOM! Don't say another WORD—
-EILEEN (whirling on Mara, furious): Don't you "Mom" me, Mara. THIS is what I get for cleaning up after you. I told you to stay small. I told you not to marry him. You couldn't help yourself—
+EILEEN (whirling on Mara, furious): Don't you "Mom" me, Mara. THIS is what I get for cleaning up after you. Every mess. Every slip. You couldn't go one week without handing them another one—
 MARA (screaming over her): SHUT UP! SHUT YOUR MOUTH—
 EILEEN (losing it, pointing at Mara): I bought you that face and you couldn't even wear it right!
 
@@ -2334,7 +2334,7 @@ LENA (after a beat, steady): I'm Lena Sterling. Mara drugged me, took my face, t
 
 MARA (scrambling, tears rushing back): No — no, she's confusing you, I'm Lena, I've always been—
 
-△ Nobody in the crowd moves toward Mara. The faces stay on Mara.
+△ Nobody in the crowd moves toward Mara. The faces stay on Mara. Noah's men let go of her arms and step back — she has nowhere to go.
 
 △ Victoria stands.
 
@@ -2348,7 +2348,7 @@ NOAH (cold, stepping in front of Ethan): She's done talking to you.
 
 △ Ethan stops where he stands.
 
-△ Lena walks past Ethan to Mara. Lena reaches down and unclasps Helena's pendant from Mara's throat. Mara grabs for it, weak, too late. Lena lifts it away clean.
+△ Lena walks past Ethan to Mara and unclasps Helena's pendant from Mara's throat. Mara grabs for it, weak, too late. Lena lifts it away clean.
 
 LENA (quiet, certain): This was always mine.
 
@@ -2403,7 +2403,7 @@ TESSA (on screen): I worked for Lena for years.
 
 CROWD MEMBER (laughing): Mara.
 
-△ Cross staff strip Mara's name off the cards, the cars, the doors. Mara stands outside the gates with Lena's face and nothing it used to buy.
+△ Cross staff strip the stolen name off the cards, the cars, the doors. Mara stands outside the gates with Lena's face and nothing it used to buy.
 
 ## EP50 - S#2  Day / Interior / Sterling Building · Lobby
 Characters: Lena, Hector

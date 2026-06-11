@@ -220,3 +220,12 @@ Noah "Bring her in." → 노아의 사람들이 아일린 연행 입장 → 노�
 
 ### v50 사용자 직접 적발 3건 + EP48 격발 재연출 (2026-06-11)
 ①EP48 아일린 폭로 = 진술 낭독 폐기 → **모녀 진흙탕**: 트리거 반응("That was deleted. We PAID to have that deleted—" = 나열 없이 시청자 추론) → 마라 "MOM! Don't say another WORD—" → 아일린 분노 폭발 "Don't you 'Mom' me, Mara. ... **I bought you that face and you couldn't even wear it right!**" → 자기방어("Her idea. Her face. I just paid the bills."). 정보는 진술이 아니라 싸움에서 떨어짐. ②EP49 에단 = 무지→인지 공포("Mara. Lena's Mara. You sat at our table for three years.") ③EP46 크로스 모자 = 동행→저지 추격(Victoria "We drag her home before the cameras eat us alive.") ④EP8 잠긴 문 = 걷어차 부수고 진입. 게이트 클린.
+
+### v50 수위 돌파·반PC 라운드 (2026-06-11 사용자)
+욕설 상한 돌파: EP18 라이브 마이크 스널 "Shut your fucking mouth"(욕설이 공개 슬립을 더 치명적으로)·EP48 "GET THE FUCK OFF ME!"·EP8 "You crazy bitch."·EP30 "this fucking bitch". 남→여 물리 상한: EP8 포식자 목조르기(벽에 핀 — 노아 헤드라이트 직전 위기 정점). 반PC: EP46-47 결혼 입장 = "walk yourself / own two feet"(자립 수사) 폐기 → 이모가 팔짱 + **노아가 못 기다리고 통로를 마중**("I don't wait well. Not for you."). F-5 룰 교정(남주만 여주 물리 가해 금지·그 외 상한 없음). 게이트 클린.
+
+### 수위 캐논 교정 (2026-06-11 사용자 — 구 ROI 게이트 "성적 직접 묘사 없음" 폐기)
+본작 = 막장 복수극·권선징악(다크 로맨스 아님). 단 수위 = 한계 돌파: **강간 직전 위기 포함**(EP8 페이월: 목조르기→코트 찢김→"This is the part people pay for."→입 틀어막힌 비명→노아가 얼굴을 벽돌에 박아버리는 구출). 마라의 언행·여주의 불합리/위기 = 개 쎄도 됨. **"북미" = 언어만** — 내용은 비북미적 막장 과잉이 판매 포인트(00 DNA 조건 7-1 신설). 게이트 클린.
+
+### v51 분기 + 델타 적대감사 (2026-06-11 · 현행 LOCK 후보 = v51)
+사용자 지시: 이후 메이저 수정 = v{N+1} 복사 후(버전 앵커 재확인 — v50 덮어쓰기 관행 중단). **델타 감사(수술 구간 EP1-12·44-50 + 경계)**: 분모 EP50/△574/대사~500/seam49 — CRITICAL 0·HIGH 4 적발·전건 v51에서 수술: ①EP48 아일린 역사 날조("stay small/말랬지" — 본인이 결혼 설계자) → "Every mess. Every slip." ②폰 출처(훔친 코트에서 자기 폰) → 병원 탈출 시 트레이에서 회수 컷 ③EP21 "Your old phone" → 클라우드 백업 워딩 ④쇄골 마크 미회수 셋업 → bruise(휘발). MED/LOW 11 수술(서명 오른손 명시·drugged·"twice tonight" 삭제·제압 해제 컷·reaches down·You're not welcome·푸시알림·립 스트립 연속성 등). 기각(의도 문서화): 폰화면 비공개·에단 미연결(엔진 비용)·wearing 모티프 패밀리·curb·EP22 웃음 위협(심리전 기능)·EP36 미견 콜. 게이트 클린. **남은 도장 = 사용자.**
