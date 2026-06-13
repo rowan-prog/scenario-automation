@@ -229,3 +229,136 @@ Noah "Bring her in." → 노아의 사람들이 아일린 연행 입장 → 노�
 
 ### v51 분기 + 델타 적대감사 (2026-06-11 · 현행 LOCK 후보 = v51)
 사용자 지시: 이후 메이저 수정 = v{N+1} 복사 후(버전 앵커 재확인 — v50 덮어쓰기 관행 중단). **델타 감사(수술 구간 EP1-12·44-50 + 경계)**: 분모 EP50/△574/대사~500/seam49 — CRITICAL 0·HIGH 4 적발·전건 v51에서 수술: ①EP48 아일린 역사 날조("stay small/말랬지" — 본인이 결혼 설계자) → "Every mess. Every slip." ②폰 출처(훔친 코트에서 자기 폰) → 병원 탈출 시 트레이에서 회수 컷 ③EP21 "Your old phone" → 클라우드 백업 워딩 ④쇄골 마크 미회수 셋업 → bruise(휘발). MED/LOW 11 수술(서명 오른손 명시·drugged·"twice tonight" 삭제·제압 해제 컷·reaches down·You're not welcome·푸시알림·립 스트립 연속성 등). 기각(의도 문서화): 폰화면 비공개·에단 미연결(엔진 비용)·wearing 모티프 패밀리·curb·EP22 웃음 위협(심리전 기능)·EP36 미견 콜. 게이트 클린. **남은 도장 = 사용자.**
+
+### v52 분기 — 외부 피드백 2종 쇼러너 판정 + 사용자 신규 지시 2건 (2026-06-11)
+**분기:** v51 복사 → v52 (클라이맥스 기제·EP31-32 재구성 = 메이저). 외부 피드백(비전문 2종+구 리뷰) — 수용은 인사이트 기준 재해석, 수사물 방향 전부 기각.
+**수용·수술 (메커니즘 0·감정형):**
+① **마라 실종 알리바이(파리)** — EP1 "all the way from Paris. Six months gone"+"calling her in Paris"(수술 회복기간 은닉+실종 무관심 동시 봉쇄·사용자 직접 안) / EP7 글로팅 "Mara's in Paris... I write those texts from your bathtub" / EP49 "on my way" 제거.
+② **EP1 3비트 완성** — NURSE "Some friend." 브리지 + 바늘 핑계 "No gold near the needle"→"It's hanging right over the bruise."
+③ **EP3 프레임 시딩** — EILEEN "Run the story tonight... off her meds... Whatever it costs."(EP4 "stalker from the news" 당일 성립 근거).
+④ **EP8 메타 대사 제거** — "This is the part people pay for"(페이월 직후 시청자 윙크 위험)→"This one's gonna sell."
+⑤ **EP9 클라우드 구멍 반줄 봉쇄** — "grabbed it before the video could upload anywhere"(EP21 백업 라인이 만든 질문) + calque 3건(getting caught faking it in front of a full room / puts your mother on, she gets it wrong / rooms where she can slip).
+⑥ **EP19 스널 매장→스핀** — 클립 소멸 폐기 → "recut and slowed, captioned *GRIEVING BRIDE PUSHED PAST HER LIMIT*"(세상이 도둑 편드는 엔진 강화).
+⑦ EP33 경호 반줄(구 기각 재수용) — "two men, all the gate will pass... hold at the gate." ⑧ EP37 계단 사각(구 기각 재수용·지문만) — "past the curve of the balustrade"+"into everyone's view"(감정 라인 유지). ⑨ EP40 붕대 thin strip ⑩ EP34 honeymoon→victory lap ⑪ EP50 "the same door that threw her out."
+⑫ **EP48 증거 공개 (🚨 구 사용자 결정 "내용 비공개" 뒤집음 — 외부 2종+구 리뷰 합치·사용자 도장 대기)** — [ECU] 클리닉 인테이크 사진(마라 옛 얼굴+수술 동의서·시청자만) + NOAH "The doctor kept a copy. People you pay keep insurance." 방 내 정보는 여전히 모녀 싸움에서만.
+⑬ **EP49 펜던트 문구 공개 회수 (구 기각 재수용 — EP3 아일린 약속 "Someday somebody will ask"+EP8 절규 이중 떡밥 회수)** — 아일린 폭로 뒤 = 이미 의심하는 방이라 흡수 불가: "say the words inside the pendant" → 마라 리허설 회피 "too painful to repeat"(EP3 셋업 그대로 발화) → "Lumen meum. My light." EP50 묘지 = 콜백 격하. + ETHAN "Mara. You're Mara — Lena's best friend."
+**신규 지시 ① 살해 미수+기대 붕괴 (EP31-32 재구성):** EP31 S#1 끝 마라 시선 캐치 → 신규 S#2 서비스 야드 목조르기("I should have fixed this at the clinic... I wanted you to watch"·"You die as Mara, sweetie. I live as Lena. Everybody's accounted for." = 실종 알리바이 영구 봉쇄 플랜) → 샴페인 잔 반격 → ETHAN 두 얼굴 목격 [END HOOK] → EP32 S#1 기대 붕괴(마라 표변 "she said I die in that dress tomorrow"·ETHAN "Go."·한 박자 긴 응시) → S#2 노아 차(목 멍·"We end this.") → S#3(구 S#1) 아침. **EP49 콜백 = 마라 최후 폭발 "I should have KILLED you in that chair!! I had my hands on your throat the night before my wedding and I let go—"(공개 자백)** → [FLASHBACK EP31 S#2] 에단 깨달음 → LENA "Hi, Mara. (beat) There you are."
+**신규 지시 ② 에피별 감정 트리거 최소 1·연결부 화 금지** — `config/10_writing_standard.md` §C-4-1 신설(3대장 분노·억울·섹슈얼+강한 슬픔·결말 사이다·기대 붕괴형 훅 패턴 등재). 전 50화 감사 = 위반 0(최약이던 EP32는 본 라운드로 보강).
+**기각(엔진 충돌·수사물):** DNA/지문/생체/치과/Face ID 일체·클리닉 법적 사슬(EP48 사진 한 컷으로만 흡수)·마취 시술 교체·음성/체형 식별·EP1 콜드오픈 순화·EP4 "Gold-diggers"/EP24 "nice dress"/EP15/EP48 "bag-girl" 교체(천박 보존)·잠입 난이도(EP8/22/25)·EP14 묘지 인지 경로·EP49 경찰 비트(바닥의 마라를 넘는 서약이 더 강함)·EP7 단독 방문 리스크.
+**게이트:** 50EP·훅49·HC49·END1·한국어0·"I love you"2·voice_lint HIGH 3(전부 v51 기존 wearing 모티프 = 기각 문서화 항목). **남은 도장 = 사용자.**
+
+### v52 시그니처 반복 제거 + 콜드씬 이중 채널 (2026-06-11 사용자 2건)
+①**동일 문장 반복 금지** — 노아 "I've got you/her" 5회 → 1회만 존치(EP10·에단의 EP13 1회는 다크 미러로 존치)·나머지 변주("She's with me."·"Move."·"Breathe. Look at me."·"I'm right here. I'm not going anywhere."). "You'll never be me" 2회 → EP48 클라이맥스만 존치·EP22 → "Silk shows every shake." / "You know my voice" 2회 → EP27 → "Three years of breakfasts across one table." 예외 존치 = 같은 씬 즉각 반복·고정 텍스트 인용(펜던트 각인·테사 클립 재생)·응답 에코(EP26 진주 부인). 룰 = `10_writing_standard.md` §D-5-1 신설. ②**콜드씬 오리엔트 = 대사+그림 이중 채널 의무**(§C-5 정밀화 — 음소거 테스트+대사만 테스트 둘 다 통과). 본문 추가 수정 0(사용자: 현 대본 대부분 구현됨).
+
+### v52 EP1 진정제 고지 모순 제거 (2026-06-11 사용자 적발)
+"a light sedative" 고지 시 잠드는 게 예고된 일이라 "That's not... a numbing —" 경악이 성립 안 함 → 간호사 고지 = "Just a numbing shot. You'll be awake the whole time"으로 교체(쓰러짐 자체가 즉시 이상 신호·레나 대사 원형 존치). 연쇄: EP2 drugged-watching 강화·EP31 "in the drip"→"on that needle"(EP1=주사기 정합).
+
+### v53 분기 — human-exit 재감사 쇼러너 판정 + 자체 seam 스윕 (2026-06-12)
+**분기:** v52 복사 → v53. 입력 = 사용자 실패 표본 2종(루즈/암시 대사 · EP간 거대사건→조용한 리셋) + 외부 `v52_human_exit_reaudit.md`(P1 7건). 판정 = **수용 8 / 기각 7**.
+**수용·수술 8 (전부 감정·행동형·메커니즘 0):**
+① EP32 에단 부정 가시화 — 마라가 베인 팔뚝을 에단 가슴에 숨기는 컷 + 에단 시선 회피 컷 + "I don't know what I saw."(편한 진실 선택이 화면에 박힘·EP49 "You had months to know" 강화)
+② EP32 노아 선언 모순 제거 (자체 적발) — "stop counting on rooms"가 EP34 "room she can slip in"과 정면 모순(선언→다음 화 무시 = Kael-패턴 축소판) → "She put her hands on you. (beat) We end this. Whatever it takes."
+③ EP34 room-은유 후기 반복 구체화 — "another chance for her to slip."
+④ EP29 계획↔실행 동사 정합 — "She films the part the others won't" → "She looks where the other cameras don't."(기자는 실제로 안 찍고 봄·"Nobody filmed the window" 포스트 정합)
+⑤ EP37 노아 시선 1컷 — 점프 직전 발러스트레이드 커브 통과 위치 고정(EP38 "I saw her do it" 근거)
+⑥ EP48 빅토리아 추격 회수 (자체 적발) — EP46 "drag her home" 목적 증발 → 손목 잡기→마라 뿌리침("they NEED to hear this")→폰 앞 동결 비트(마라 고립 +1·EP49 "Get her out" 아크 정합)
+⑦ EP33 마라 웨딩드레스 long lace sleeves — EP31 팔뚝 유리 상처 다음날 은폐(ledger ④·비주얼락 환류 시 동기화)
+⑧ EP50 차이론 — "FACE-THEFT BRIDE CHARGED"가 레나 화면 밑 = 1초 신원 오독 → "MARA VOSS CHARGED" + 레나 펜던트 식별자(세상이 처음으로 본명을 부름 = 이름 회수 엔진 payoff)
+**기각 7 (엔진·기존 문서화 판정):** EP31-35 추가 공개 크랙(EP48 전 판 뒤집기 금지·크랙 사다리 13→18→31→35→37 이미 점증) · EP48 아일린/파일 사전 시딩(reveal 편의주의 문법·EP45 "one more guest"+insurance 한 줄 기존재) · "bag-girl"(같은 발화 안 "girl who carried my bags" 자체 앵커·천박 보존) · EP11 wear-모티프 2건(모티프 패밀리 문서화) · EP19 "The real one."(직전 호흡 내 선행사) · EP14 "wrong room"(payoff EP18 물리 회수) · EP19 "rooms where she can slip"(EP7/9 "full room" 앵커·직전 슬립 사건 직결).
+**자체 seam 전수 (50EP · 거대사건→리셋 렌즈):** EP8 절규→전 도시 기억 지속 · EP18 스널→EP19 재흡수 기제 화면 명시(recut 스핀) · EP37 낙하→EP38-39 결과 전부 운반(붕대 추적) · EP47-49 풀 인과 — Kael-패턴 진성 = EP31-32 에단뿐(①로 봉합).
+**게이트:** 50EP·씬91·훅49·HC49·END1·한국어0·대명사0·잔재 grep 0(counting on rooms/films the part/FACE-THEFT BRIDE CHARGED 전멸)·voice_lint HIGH 3 = 기존 wearing 모티프(기각 문서화)·THERAPY 1 = 발악 레지스터 PASS 예외·char 118,279.
+
+### v53 델타 재게이트 — fresh-eyes 적대 감사 (2026-06-12 · 수정 구간 한정)
+풀 LOCK belt 재가동 X(작품당 1회 — v49 소진·표준 §1) — 델타 재게이트만: 기계 게이트(전체) + fresh-eyes 1개(EP27-39·46-50 + 교차 9씬·가드레일 동봉). **분모: 씬 34·△ 229·대사 170. CRITICAL 0·HIGH 2·MED 2·LOW 3·의도확인 1 — 진성 9건 전건 수술·기각 0:**
+① EP49 "I let go" → "I didn't finish it"(EP31 유리 반격·플래시백과 물리 모순 — 자백 직후 화면이 '들킨 순간'이라 "놓아줬다" 성립 불가) ② EP37 계단 기하 3건 — 레나 "just below the curve"(플로어 가시 = 누명 머니샷 성립)·마라 "leans her head past the curve... pulls back"(시선 상호성)·노아 "steps below the curve"(커브=꼭대기 직전 정합) ③ EP32 상처팔 은닉 자가붕괴 — 에단 가슴 압박(혈흔 전사) → 제 허리에 접고 반대 손으로 클러치 ④ **EP50 차이론 ATTEMPTED MURDER 추가** — v50 "살인 프레임 제거" 결정이 v52 살해미수 신설·EP49 공개 교살 자백과 충돌한 잔재(전국 폰이 자백을 찍었는데 죄목 누락 = 사건 무시 패턴) ⑤ EP49 기립 오독 2건(stands→stares/steps forward — 둘 다 입장부터 서 있음) ⑥ EP35 정킷 long sleeves(팔뚝 상처 며칠 경과 의상 락) ⑦ EP47 진주 부인 가시화 1컷(EP49 등장 근거) ⑧ EP45 마라 통화 모호 해소 — "Of course I'll be there"가 "one more guest"(=아일린) 시드와 오결합 위험 → "Clear your morning. I'm going to a wedding."(상대=카메라맨·EP46 회수).
+재게이트: 기계 PASS(한국어0·대명사0·훅49·HC49)·voice_lint 베이스라인 동일·신규 패턴 grep 전건 1회·잔재 0.
+**Track A 델타 검증 (2026-06-12 · "수정이 재미/직관을 깎았나" 사용자 질문):** 대사·비트 실변경 7곳 구/신 블라인드 A/B(신본 배치 절반씩 교차) × cold-reader 독립 3인 — **7/7 신본 승·구본 양축 우세 0.** 만장일치 신본 = 에단 "I don't know what I saw"(속은 멍청이→알면서 외면 = 빡침 상향+결혼 진행 치팅 독해 차단)·노아 원초어("rooms" 전략어 = 해독 지연+차가움 이중 오답 판정)·"didn't finish it"(let go = 화면 모순+자기미화 전압 누수)·빅토리아 비트·전야 통화 명령형. EP37 빼꼼 비트만 직관 1표 갈림(타격은 만장일치 신본·"텍스트 지연은 화면에서 소멸" 독자 명시). 독자들이 자발 추출한 패턴 = "행동 비트 추가형은 추가가 이기고, 대사는 단순·천박·원초 쪽이 이긴다" — 수술 방향과 일치. 본 belt 합계 = fresh-eyes 1 + cold-read 3 = 4호출(≤6 내).
+
+### v53 사용자 정정 — 에단 = 속은 후회남·"알면서 외면" 폐기 (2026-06-12)
+사용자: "I don't know what I saw"(의식적 외면) = 전통 문학/연극 레지스터 — 에단 캐논 = **진짜로 속은 멍청이 → 마지막 후회남** (후회남 트로프 = NA vertical 핵심 키워드·신규 메모리 [[vertical-regret-man]] 등재. A/B 1번 B 우세 판정은 knowing-denial 프레임 내 비교 — 장르 레지스터 결정이 상위). human-exit P1은 외부안 (a) 시야 불완전화로 재봉합:
+① EP31 끝 — 에단 목소리에 마라가 떨어져 나간 뒤 빛 유입: 에단 시야 = "어둠 속 두 동일 얼굴이 빛 쪽으로 도는" 불완전 단편(한 명은 손 반쯤 든 채)·"Caught." 라벨 삭제·훅 = "똑같은 얼굴이 둘" 충격으로 이동(기대붕괴 장전 유지·관객용 frozen-hands ECU는 존치).
+② EP32 — **마라가 베인 팔뚝을 숨기지 않고 무기화**: 피 흐르는 팔 들이밀며 "she came at me with a glass" — 레나의 정당방위 상처가 레나를 모는 증거로 역전(에단의 속음 = 정직·합리적 = 억울 연료 극대). 레나 손의 깨진 잔 시선·"The glass was all I had—"·잔 떨어뜨림 컷. "I don't know what I saw"·시선 회피·목 멍 목격 전부 삭제(멍은 S#2 노아 목격만 유지). 한 박자 긴 응시(무의식 nag) 존치.
+③ EP49 플래시백 = 에단 시점 일치 교체("two identical faces turning into the light — one with her hands still half-raised") — 자백 "I had my hands on your throat"이 단편을 해독 → face goes slack → "I swear I didn't know" = 참말 = 후회남 완성.
+④ EP46 계륵 비트 추가(후회남 사다리 중반 질투 보강 — 레나 결혼 소식에 대한 에단 반응 부재 해소): ETHAN "Keene's actually marrying the stalker. (beat) The whole city's lost its mind." + VICTORIA "Then go watch. Just bring your wife home."(에단의 식장 출석 동기 동시 봉합).
+재게이트: 기계 PASS·잔재 0(I don't know what I saw/wound side away/bruised throat/Caught/pinned to the wall 전멸)·half-raised 쌍 2(EP31↔EP49 의도 페어)·voice_lint 베이스라인 동일.
+
+### v53 여미새·연출 교정·빅토리아 라운드 (2026-06-12 사용자 3건)
+① **여미새 축 주입 + 2차 정밀화**: EP27 레나 "And you came yourself. No lawyers. No security. Just you, waiting at my curb."(계륵 지적 = 입으로) + 에단 위아래 스캔 1컷("eyes flick down Lena and back up") → 직후 Keene 비난 = 과잉 부정. 1차안(시선 입가 낙하·"a beat too long" 응시·마라 흐느낌 캐치·EP8 추가 비트)은 **사용자 적발 "영화/HBO 연출"로 전면 철회**(EP8 원문 복원) — 끌림 운반 = 큰 행동+대사. EP37 "for half a second — counting the cameras"도 동일 사유 평문화("one look down at the cameras at the base"). **2차 정정(사용자):** 본능은 모든 여자에게 샘 — "원본 추적기" 프레임 금지(또 하나의 문학화)·진짜 앞 = 옛 포인트 "어?" 한 번씩(기존 EP5 두통 freeze·EP27 stride-break가 그 비트·추가 0) / **마라 연료 = 에단 사랑 금지** — 스크립트 전수 확인: EP15·23·24·28·30 전부 소유/탐욕/"쟤는 아무것도 가지면 안 됨" 축·사랑 비트 0 = 수정 0. 메모리 [[vertical-regret-man]] 갱신(여미새 축·연출 금지·도둑 질투 연료 룰).
+② **빅토리아 재조율 (사용자 스펙: 무식 + 교양 코스프레 + 천박 직설 + 뺨):** EP6 뺨 직후 "Excuse my hand. I was raised better than this."(자기모순 코미디) / EP13 "Nonsense. Helena sang like an angel — I heard her myself a hundred times."(도너 의심을 무식한 확신으로 분쇄 = 판 안 뒤집히는 이유 한 컷) / EP46 "drag your wife home before she costs us another cent."(돈-천박 틱) / **EP49 마라 백핸드** — 레나를 때렸던 그 손의 대칭("Mara's head snaps sideways" 동일 워딩)·"Three years at my table. I'll burn the chair you sat in." = 마라 최후 자백의 물리 격발기("Something in Mara finally tears" 동기 보강).
+③ 게이트 재실행.
+
+### v53 빅토리아 EP49 응징 철회 — 장기 콜백/대칭 = 문학병 (2026-06-12 사용자)
+EP49 마라 백핸드("레나 때린 손" 동일 워딩 미러) = **기각·철회.** 사유(사용자): ①수십 화 전 컷을 끌어와 비핵심 인물에게 서사적 대칭 부여 = 과도한 문학 요소·카타르시스 상승 없음 ②빅토리아 = 응징자 포지션이 되면 크로스가가 정화되고 마라만 나쁜년 구도 = 덜 통쾌 — **공범적 가해 조연의 결말 정서 = 응징이 아니라 멘붕/허망.** 교체: 진주 움켜쥐기 → 카메라에 "Turn those off! Turn them OFF!" 절규 → 아무도 안 끔(권력 사망·허망) → 마라에게 shrill 손절 "Get her out of my sight! She never sets foot near a Cross again!"(자백 격발 트리거 = v52 원기능 유지). EP6 레나 뺨 + "I was raised better than this."·EP13 무식 확신·EP46 돈-틱 = 존치(뺨·천박 자체는 vertical 자산 — 문제는 콜백 연출). 룰 등재 = `10_writing_standard.md` §B 신설 항(장기 콜백·대칭·시각 라임·가해 조연 응징자 금지·시선 초레오그래피 포함). 게이트 클린.
+
+### v53 문학병 전수 스윕 (2026-06-12 사용자 "이런 거 더 없나" — 4갈래 렌즈)
+렌즈 = ①지문 속 서사/테마 내레이션(그릴 수 없는 의미 얹기) ②미세 표정·습관 해설 ③VO 폼 대구 ④여운/라벨 컷. **진성 11건 수술:** EP1 "a bride-to-be on her best day"(라벨) · EP3 "Mara is Lena now"(ECU 뒤 선언 라벨) · EP9 "(a hard almost-smile)"(미세 표정 지문) · EP19 "swallowing the crack whole"(지문 은유) · EP20 "— the old habit"(§B 명시 금지 습관 해설) · EP33 "every soul"→"the whole garden" · EP41 VO "the one thing I built without her"→"my wedding"(추상→직설) · EP46 "in the dress nobody took"(대사가 이미 말한 테마 재서술) · EP49 "she has nowhere to go"(해설) · EP50 "nothing it used to buy" + "wearing the face that was never hers"(테마 내레이션 2건).
+**존치 판정(보고):** EP32 "one beat too long"(시공간·물리 = 사용자 합법 판정 확정) · EP39 VO "She has my whole life. I've got one man who believes me."(대구지만 자산 셈 = 날것 판정·§5 다림질 금지) · "You can't resize a laugh"·wearing 모티프 3·"They bought your face. They forgot your hands."(기각 문서화·직역 생존 시그니처) · EP35 blink(클립 루프 = 플롯 오브젝트) · EP2 "like merchandise"(연기 지시).
+
+### v53 문학병 진짜 전수 + 도구 보완 (2026-06-12 사용자 — "전수검사로 패스 가능하게·도구 미비 보완까지")
+**판별 기준 확정(사용자):** 시공간·물리량("one beat too long"·"harder than a pat") = 감정 운반해도 합법 / 카메라가 못 찍는 작가의 의미 부여(은유·라벨·역사·테마 내레이션) = 쓰레기. → `10_writing_standard.md` §B 지문 bullet에 **물리 테스트** 명문화.
+**전수 분모: △ 604 전행 + VO 전량 + 톤 지문 스윕.** 추가 진성 33건 수술(누계 44): 지문 라벨/테마("as the radiant bride-to-be"·"in the stolen life"·"queen of the room"·"the perfect picture of a worried friend"·"the forgiving saint"·"a performance"·"No softness anywhere"·"already sad") · 역사/대칭 내레이션("where the pendant always sat"·"mother built herself"·"nobody has opened it in years"·"the same phones/lobby/door that..." 3종·"the way Mara used to crowd her") · 해설("Victoria is doing the work for her"·"waiting to see if"·"too late"·"the snarl forgiven"·"the confession hangs in the air"·"For the first time"·"Something in Mara finally tears"·"all of them facing the fake"·"Nobody is angry. Nobody is scared.") · 직유 내레이션("like a coat") · 미세 표정("almost smiles"·"half-smiling"×2) · 자가 적발("perfume hangs in the air" = 냄새 = 못 찍음 → 사용자 교정 반영 최종형 = **리액션 외화**: Lena가 문 두 걸음 안에서 멈춤 + "It even smells like her." — 비가시 감각 = ①가시 현상 ②행동+대사 외화 의무 룰 §B 등재).
+**도구 보완:** `voice_lint.py`에 △ 전용 ACTION_NARR/ACTION_MICRO/ACTION_SIMILE 신설. **회귀 검증 = v52에서 33건 적발(이번 수술 라인 전부 커버) → v53 잔여 = ACTION_NARR 1(FP: "hand hangs in the air" = 물리) + SIMILE 4(연기 지시 manner 직유 = 문서화 PASS) + MICRO 0.** 린트가 손 스윕이 놓친 진성 2건("used to crowd"·"too late")도 잡음 = 검출기 유효 실증.
+**게이트:** 기계 PASS·훅49·HC49·△604·한국어0·char 118,004.
+
+### v53 battle 피드백 판정 + 설명투 실측 패스 + EP1 펀치라인 (2026-06-12)
+**수술 7:** ①EP1 "Always am." 재배치 — 바늘 컷 **뒤**로(사용자 안 — 반어를 톤이 아니라 행동이 고정 = 포식자 펀치라인) ②EP3 "Wake up nobody"→"Wake up **a** nobody"(동사-목적어 오독 "아무도 깨우지 마" 차단 — battle 표 중 유일 진성) ③EP32 에단 "I saw the glass in your hand." 추가 — battle의 denial 프레임은 기각하되 **속은 자의 근거 발화**로 전용(인사이트 추출·다른 방향 반영) + 연회장 불빛 글랜스 컷(스캔들 회피 동기 시각화) ④EP49 "You never even looked inside"→"You never even **cared what it said**"(EP3 "Who cares what it says"와 정합 + 에코·자체 적발) ⑤EP29 레나 인과 체인 압축("So when I show up..., I'm the dangerous one and she's the victim" → "She's making me the dangerous one before I even walk in." — 같은 작전 2인 2회 설명 해소).
+**설명투 실측(사용자 인상 검증):** 인상 절반 진성 — 관계/상황 직설 설명 = 히트작이 더 심함(Billionaire EP30 실측: 운전기사 설명 Q&A·"You all depend on Zena... I'll call him") = 장르 문법·무혐의. 진성 = **전략 인과 체인** 레지스터(So when/So first 6곳·레나-노아 작전 씬 농축) — 히트작은 설명을 파워무브에 부착(선언→즉시 행동), 우리만 분석투. 1곳 수술(⑤)·나머지 존치(EP9 = 보상 선언 룰 의무·§C-5-2 등재 예문·Q&A 장치는 히트작 동일·행동 부착). 룰 = `10_writing_standard.md` §C-5-2 신설 항(전략 설명 = 선언+행동 부착·인과 체인 분석투 금지·작전 2회 설명 금지).
+**battle 기각(쇼러너):** EP31-32 denial 명시 비트(사용자 캐논 정면 위반 — 에단 = 진짜 속은 후회남·moral guilt 프레임 = 문학 레지스터) · EP33-34 결혼식 중 공개 균열(억울 정점 무결성 = 연료·균열은 EP31/35에 전후 배치 기존재·sleeve 주목 = 자가 장전) · EP48 파일 사전 시드(reveal 편의주의 문법·총 선발사) · 대사 표 8건 중 7건(wearing 모티프 3·동일 호흡 선행사 2·기각 3회차 재상정 2) · EP8 슬랩 제거(무료부 레나 = 전략가 아닌 충동·유일 타격 사이다·폰 압수로 프레임 위험 부재) · EP38 구두 동의 비트(레나 선도+노아 정지 컷으로 행동 구현 기존재). 인라인 피드백 6건 = 기각 5(펜던트 기믹·프로젝터·끌려나감 변주[기존재]·EP1 첫대사·병원 경찰·에일린 손절[기존재]) + 일부반영 2(④·③ 글랜스). 게이트 클린.
+
+### v53 인라인 anaphora 도구 구멍 + 대구 전수 (2026-06-12 사용자 적발 "Her idea. Her face." )
+사용자 판정 적중: "Her idea. Her face. I just paid the bills." = §D-1 정전 형태("One X. One Y. My Z.") 연극 대사 → "...It was her idea. I just paid the bills."(비대칭 축소 어법). **도구 구멍 발견·보수:** voice_lint ANAPHORA가 이름/대사 분리 포맷만 검사 — 우리 한 줄 포맷(`NAME (tone): 대사`)에서 대사 anaphora 검사가 0이었음 → INLINE_DLG 검출 추가. **전수 18건 판정: PASS 17**(즉각 강조 반복 "Okay. Okay."·"SHUT UP!"류 = §D-5-1 예외 / 인월드 공연 "I forgive her. I do." = 리허설 캐논 / 분노·공포 열거 "Every mess. Every slip."·"The hymn. The flowers." = 실제 인간 화법) **+ 진성 폼 2 수술**(에일린 + 쇼러너 자기 라인 "No lawyers. No security. Just you" → "No lawyer, no security — just you" 한 호흡화). ANAPHORA 17 = 전건 판정 문서화 baseline. 게이트 클린.
+
+### v53 위험 대사(격언투·이면 의미) 전수 스윕 (2026-06-12 사용자 "또 없는지")
+렌즈 = ①격언투(일반화+은유+위트 결합) ②이면 의미(의미가 미공개 장면/은유 해독에 저당) ③0.1초 해독. EP2 "Spoiled girls always want the wheel" 3차 수술 종착("Gladly. She never let me drive her precious car." — 그 순간 완결·천박 원한·EP3 운전 컷 장전). **전수 후보 ~50건 판정: 수술 2** — ①EP2(위) ②EP19 "she won't get the **mask** back on" = v45-46 사용자 일소("catch her faking" 교체) 가족의 잔존 대사 → "she won't get the sweet smile back on in time."(EP8 지문 기존 물리 어휘). **PASS 분류 논리:** 돈·도박·가면 아닌 만국 원형 vehicle("I put money on you"·"a stray he feeds")·이디엄("eat me alive"·"bury me with you")·통념 발화("Rich people love that")·빅토리아 편견 일반화(보이스 그 자체)·서스펜스→같은 교환 내 평문 해소("They watched the wrong woman."→왼손 설명) = 전부 무혐의. **워치(비차단·보고만):** EP12 chiasmus "So stop proving you're Lena. Make her prove she isn't."(전략 피벗 테제·단발 허용) · EP22 "Silk shows every shake."(컷 내 물리 완결·두운만). 게이트 클린.
+
+### v53 mask 잔존 사후 처리 + 장부투 폐기 + 오귀속 정정 (2026-06-12 사용자)
+① **공정 결함 규명:** v45-46 mask 일소의 검증 grep이 문구 단위("drop the mask")라 변형("get the mask back on")이 통과 — **어근 grep 룰 신설**(`10_writing_standard.md` §I-2). 역대 일소 가족 전체(mask·earpiece·consultant·fixer·warrant·raid·psych·sedative·hunting·counting·walk yourself 등) 어근 재스윕 = **추가 잔존 0** (mask 1건이 유일했음·기수술).
+② **🚨 오귀속 정정:** "Everybody's accounted for." = 사용자 지정 아님 — v52 수술 때 쇼러너가 작문한 문장이 meta 인용으로 기록되며 지정처럼 보인 것. 사용자 판정 = **장부 정리투 서늘함 = 역겨움(세련 빌런 = F-0 위반)** → 폐기: MARA "See? Nobody even goes missing."(유치한 자기만족·알리바이 기능 유지) + EP32 레나 에코 동기화 + 같은 결 "And here's the pretty part"(음미투)→"best part".
+③ EP10 "Her first mistake. I'm keeping it."(반추상) → "Her first mistake. (beat) I want more."(식욕 — EP11 피드 사냥 체인).
+잔재 grep 0(accounted for/pretty part/keeping it/mask back 전멸)·신형 확인(goes missing 2 = 마라+레나 에코 페어)·게이트 클린.
+
+### v53 세션 변경분 전체 opus 적대 감사 + EP1 완성구 (2026-06-12)
+① EP1 "Always am." 뒤 완성구 추가(사용자 — 상대 대사 의존 응답어는 덜 vertical): "Always am. (beat) **There we go. Nice and slow.**"(쓰러지는 피해자를 간호사처럼 달래며 내려놓는 자기완결 발화).
+② **v52→v53 diff 전체(변경 지점 47) opus fresh-eyes 적대 감사** (§7 모델 분담 첫 적용): CRITICAL 0·**HIGH 1·MED 1**·LOW 2(처방 불요·문서화)·의도충돌 0. 분모 = 변경 47 × 에코 grep 9 × ~210행 대조. 에코 체인 전부 동기화 확인(goes missing 페어·EP31↔EP49 플래시백 half-raised·펜던트 EP1→3→49→50·Voss 모녀·ATTEMPTED MURDER 근거 = EP49 자백 촬영).
+③ 수술 2: **EP44 "(mask off, mocking)" → "(sweet gone, mocking)"** — 쇼러너가 1차에서 "톤 지문 무관" 판정한 것을 opus가 재적발·번복 수용(작품에 실물 수술 마스크 존재 → 비유 mask 지문 = 제작 오독 리스크·mask 가족 완전 소멸) / **EP49 빅토리아 "her own pearls"** — 회귀 단역 식별자 "Woman in Pearls"와 같은 씬 충돌 완화.
+잔여 "(masked" 5 = EP1-2 실물 마스크 태그(정상). 게이트 클린.
+
+### v53 LOCK 전수검사 + 외부 피드백 2종 판정 + native-ear 마감 (2026-06-12 사용자 지시 "전수 검사하라")
+**① 대사 전수: 532/532행 쇼러너 직접 판정** (렌즈 = 직역 생존·관용구/생략 의존·격언투·이면 의미·장부투·0.1초·보이스) — **신규 진성 0** (수용분 반영 후). 세션 누적 전수 분모: 대사·VO 532 + △ 604 + anaphora 18판정 + 격언형 9판정 + 폐기어 어근 스윕.
+**② 외부 battle 리뷰(v53_external_battle_review_20260612.md) 판정 — 수용 21·기각 9:**
+- 🚨 **RED1 적중(대형): EP8-9 의상 캐논 잔존** — v50 무료부 대수술(케이터링 잠입)이 EP8 골목 씬+EP9 노아 대사의 구버전 의상(병원 가운·훔친 코트·맨발)을 미동기화. 수술: "rips the catering jacket...blouse tears"·"No purse, no phone, no name"·EP9 "catering uniform". 잔여 gown/coat 3건 = EP4-7 시대 정합 확인.
+- 수용: RED2(EP49 "staying between her and the arch" 차단 유지 + EP50 경관 2인 접근 컷 = 구금 인과) · RED3(why-now 반줄 "And you stopped paying." = EP39 아일린 손절과 결착) · P1-2(EP13 "Before they put her name on it" 추모 명칭 모순 해소) · P1-3(EP17 "the way she'd have wanted" / EP33 aisle entrance / EP48 dais→arch) · P1-5(ratty hood) · P1-6(Tessa "PAID TO CRY" 차이론) · P2 7건(EP21 spare phone+읽기전용 계정 반줄·EP30 베개 음원·EP37/50 헤더 명칭·EP49 "married Ethan"·EP25 bridal shower·EP45 "Tomorrow I marry you. My choice."·EP1 "She's been gone six months").
+- 기각: P1-4 소매↔hands 가시성(소매는 손목까지 = 손 노출·단서는 손버릇이지 피부 아님) · P1-7 EP9 공개 지위 리프트(무료 추락↔유료 사다리 낙차 설계·cold-read 3회 검증 통과) · P2 상처 캐리(기판정: 멍 휘발·붕대 스트립 추적 기존재) · EP24 "your side"(에단 침대의 '네 자리' = 성립·더 아픔) · 대사 5건(wrong room 4회차 재상정·out there/in here = 동일 씬 프레임·Her voice is yours = 단순직설·another one = 동일 호흡 선행사·EP50 "it all" = 자연 구어) · EP50 에단/빅토리아 추가 응징 이미지(LOCK 단계 Track A 재설계 금지·에단 처벌 = EP49 냉대+차단 기설계).
+**③ 인라인 피드백(여주 수동성·고구마 반복·작위 결말·에단 무능) = 전건 기각** — ①수동성: 레나 주체 비트 실재(EP11 팔찌 반격·EP17-18 라이브 마이크 함정 단독·EP29 의도 연출·EP30 기자 피드·EP35 정킷 함정·EP44 초대 미끼·EP49 펜던트 시험 = 최종 시험 격발자 = 레나) + 중간 보상 = 판 안 뒤집는 장면 승리(엔진 메모리) ②반복: 패배마다 기능 상이(기판정·cold-read 수렴) ③에일린 급발진: 현행 = 슬립→화풀이→꼬리자르기(§G-① 정전 예문) — '손절→마라 폭주' 제안 흐름이 이미 구현돼 있음 ④에단 무능+수술 개연성: 멍청한 전남자+믿는 세상 = 엔진 코어·수술 그럴듯함 보강 = v52 기각 전례·위화감 비트 기존재(EP5 두통·EP13 찬송가·EP30 remember).
+**④ native-ear(opus) 신규 30라인 마감: PASS 24 / FIX 6 수용** — "Pardon me. I was raised better than that."(Excuse my hand = 번역투) · "She watches where..." · "that sweet face back on" · "no muscle — just you, parked at my curb" · "She's been gone six months"(gone=임신 관용구 vs away=번역투 충돌 → 피드백2 원안 채택) · "ratty hood"(hood 단독 = '동네' 오독).
+**게이트:** 기계 PASS·훅49·HC49·END1·한국어0·ANAPHORA 17/METAPHOR 3(문서화 baseline)·char 118,377.
+
+### v53 명명(vertical 말맛) 패스 — 전 화수 (2026-06-12 사용자)
+사용자 통찰 확정: **vertical 말맛 = 세련이 아니라 명명·과잉·받아치기** → `10_writing_standard.md` §D-6-1 신설(핵심 소유물·인물·판돈 = 대명사 금지·재명명, 인물 첫 호명 = 신분 태그 동반). **히트작 실측 검증**: 신부 오프닝 "배산그룹 대표 강민우" / Billionaire 재언급에도 풀태그("Tyler Kane. CEO of Kane Industries.") / 달래기 호칭=직함("황 대표님") = 명명+태그가 히트 문법 실증. **수술 7**: EP1 "I'm marrying Ethan Cross. The richest man in it."(신분 태그) + "Ethan held me too hard last night"(멍 출처 — 외부 예시 인사이트 채택·친밀 박제+마라 청취 연료) / EP1 펜던트 글로팅 "Your mother's pendant. The one you never take off."(레나의 말 받아 되치기) / EP7 "Take your mother's pendant back" / EP11 "That's my mother's box" / EP16 "Keene is the only thing" / EP32 "Then they get their story". 명명 전수(532행 재주행) 잔여 후보 0 — 엔진 자체가 소유물 전쟁이라 명명이 기본 문법. 외부 한국어 예시 검토 = 인사이트 2건만 추출(신분 태그·멍 출처), 본체 기각(캐릭터 반전 = 엔진 킬·"내가 완벽하게 가질 수 있으니까" = 이면 의미 대사·지문 스포·미세연출). 게이트 클린. **남은 도장 = 사용자 (EP48 증거 공개 포함).**
+
+
+### 2026-06-12 — v53 막판 t4 정합 + EP1 블라인드 교차 검증
+- t4 금지 형용사 'slow' 베드신 4곳 제거(EP15/23/38/45 키스 → 'Deep, open mouth' 계열) + EP38 +2컷(레나 올라타기·헤드보드 리듬·pinning). 기계 게이트 PASS·HIGH 베이스라인 불변(ANAPHORA 17·METAPHOR 3).
+- 외부 평가자 'SHE STOLE 별로 < OFFERING VER1/2' 주장 검증: EP1 3작품 블라인드 교차(독립 6인·순서 로테이션·2라운드째 실물 원문). 본작 1위 5/6(나머지 1회 2위), VER2 평균 8.3, VER1 6인 전원 최하위(5-6점). 'VER1이 낫다' = 기각 / 'VER2 강함' = 인정(다크로맨스 EP1 자극 밀도 = 장르 특성).
+
+### 2026-06-12 — 히트작 4종 정독 패스 (사용자 지시: 인간 히트작 기준 재검증) + V.O. 계층 수술 4
+- 신부/한류스타/천재아기 raw 정독 + 위태롭고 달콤한 우리(기존 분석). 텍스처 실측: 감정 분출 49건/50화·천박 모욕·장면단위 보상·1화1사건+클리프 = 히트작 동급. 유일 실격차 = V.O. (NA 히트작 20-29회 vs 본작 9회·전원 레나 — 에단/마라 내면 0).
+- 수술 4 (추가만·캐논 보존): EP27 에단 V.O.(훑어봄 자기수치) · EP32 에단 V.O.(목 빨갰다→자기억압 = 속은남자 유지) · EP11 마라 V.O.+인터컷(팔찌 문자 공포 — EP12 레나 'she is terrified' 선행 실증) · EP37 마라 V.O.(자작극 실시간 계산). VO 9→13. 기계 게이트 PASS·ANAPHORA 17·METAPHOR 3 불변.
+- (보강) 위 패스를 역대본 전수 19종으로 확장(사용자: 역대본 = 원본 초히트작 가능성·꼼꼼히): V.O. 중앙값 ~40회/작품·3계층(여주 결심/남주 충격/빌런 공포) 실증 → 10_writing_standard §D-4 화자 3계층 룰 추가. V.O. 외 축(모욕 천박도·사이다 간격·감정 분출·SNS 삽입·소품 증거물·정보 비대칭·빌런 계략 엔딩) = v53 동급 확인·추가 수정 없음.
+- (신규 6종 확장 — 사용자 추가: 신부탈출기·도련님사모님·신의한방·결혼일기·퀸카·K축구) 퀸카 = 동일 과(가짜 상속녀 임포스터) 검증 히트작 — 가짜의 즉석 역공("내 인생을 훔치려는 미친년")·증거 인멸 협박·재해석 루프 = 본작 엔진 전 항목 실증, v53 추가 수정 없음. V.O. 중앙값 유지(77·70·26회 — 도련님 빌런 V.O. 28회 최다 화자). 신규 장치 3(공개 관중 시스템·재해석 루프·기술 교습 래더) → ep1-full-deck 메모리·§H 환류. 남성향 2종 = TITAN 리부트(09) 직결 문법.
+- (마감) 네이티브 귀 검수(opus) — 오늘 신규 11라인: FIX 3 집행(EP32 V.O. 대문자 강조 제거·EP11 which wrist·EP45 eases→pulls) + 키스 헤드 3회 동일문장(§D-5-1 위반·쇼러너 자체 적발) 변주 2건. 게이트 재PASS. v53 = LOCK 후보 확정 상태·도장 대기.
+- (최종) 사용자 지시 이중 귀 전수: opus 정밀귀 x2 + sonnet 단순귀 x2 = 대사 532줄 독립 전수. 신고 42(opus 4/sonnet 38) → 쇼러너 채택 9 집행: 일반화 격언 3 제거(EP9/14/37 — People only check/follow/film 패밀리)·중의성 1(buried my mother with me)·번역투 2(in front of a room·inside your whole life)·THERAPY 1(felt like a person→myself)·천박화 1(EP27 stray dog)·단순화 1(EP41). 기각 33 = 엔진 앵커·베팅남 정체성 라인·빌런 잔인 펀치·디제틱 미끼 대사(EP43) + sonnet 캐논 파괴 교체안 1 차단(EP27 에단 '알면서' 부여). 이중 귀 룰 = 20_review_standard 등재. 게이트 재PASS — v53 도장 대기 최종 상태.
+- (사용자 적발) "She can wear my face. She can't wear my mother." = 제유 위트 — 쇼러너가 보존 목록에 넣어 검수 차단했던 자기편향 사고. wear/resize 어근 전수 → 제유 6건 전원 수술(EP11 wear my mother→never knew·EP11 resize a laugh→fix the way you laugh·EP12 wore my mother wrong→wore the bracelet wrong·EP33 name she's wearing→taking·EP48 wear me→wear all of it·EP49 wore her→wore it). 잔당 0(steal/borrow 계열 클린 — stole my face = 인월드 리터럴 전제·타이틀). 룰 2건 신설: 10_writing §B 제유 금지+어근 grep / 20_review §7 보존 목록 신고 면제 아님. 게이트 재PASS.
+- (마감) 비유 마스터 룰 제정(초딩/노숙자/갱단 즉시 이해 수준만 허용·과잉 적용 금지 단서 포함) + 대사 내 비유 전수 6건 전원 무죄(생활 비교·디제틱 상투구). v53 추가 수정 0 — LOCK 가능 상태 최종 확인.
+
+### 🔒 2026-06-12 — v53 사용자 LOCK (도장: "핸드오프, 비주얼락으로 환류해라")
+- 정본 = `07_final/06_she_stole_my_face_FINAL_v53.md`. v53 머문 사유 = 분기 후 수정 전량 라인 단위(구조·캐논 변경 0 → v54 분기 요건 미달, 사용자 확인).
+- 환류 개시: PRODUCTION_HANDOFF_v53 신규 + 04_visual_lock v53 갱신 (sonnet sub-agent, 사용자 지정). 마케팅 셀링포인트 = 별도 대기.
+- (환류 검수) 핸드오프 v53 신규 + 비주얼락 v53 갱신(sonnet 2기). 쇼러너 대조 적발 2: ①V.O. 화수 오기(레나 9건 = EP14·17·31·32·33·35·39·41·43로 정정 + 전화 V.O. 10건 별도 표기 추가) ②EP4-6 의상 과잉 삭제(병원 가운+카페 코트+맨발 = 합법 캐논 — 복원. agent가 'EP8-9 잔재 제거' 지시를 전역 적용한 사고).
+- (외부 리라이팅 판정) 막장 말맛 EP1-8 재구성안 — 채택 0/기각 전건. 사유: 핵심 펀치 7개("Wake up a nobody"·locked ward·빌린 얼굴·Hose down·caught dead·두통·I told you) = 전부 v53 기존 라인의 재포장(외부 검증 효과). 순수 신규 3건 기각 — 노아 소개 대사(우리 증거-라인이 우월)·"I was bored"(20년 시기 캐논 위반)·"You were my paycheck"(친구≠고용인 캐논 오독). 회수 1: Hook Line per EP 포맷 = 마케팅 셀링포인트 재료로 보관.
+
+### 2026-06-12 — LOCK 후 배틀 피드백 패치 (수용 10 / 기각 2 / 정정 1)
+- P1 수용 5: ①EP9 계정 룰 선행 가시화(POSTING RESTRICTED 인서트+레나 1줄) ②EP49 마라 물리 통제(release→무릎 강제+스크린, 종료 후 오버플로 게이트 퇴장 = 레나 EP8 끌려나감 미러) ③EP33 손 단서 ECU(오른손 — 세상이 안 봄) ④EP9 유료 보상 공적 인정(노아 스태프 통화 "Lena Sterling... You heard the name right") ⑤EP50 정산 보강(에단 THE GROOM WHO COULDN'T TELL 조롱 + 빅토리아 창가 허망 — punisher 금지 캐논 준수).
+- P2 수용 5: Her mother/wrong people/be Lena out there too/gold-digger 간결화/got your NAME back.
+- 기각 2(사유): Tessa paid seed 추가 — EP11 "She sold you again."이 이미 대사로 못 박음+PAID TO CRY 회수 완결, 추가 영수증 컷 = 피드백 스스로 기각 권고한 절차 설명과 동종 / "Her first mistake. I want more." — 울음 정지→사냥 개시 전환 비트로 기능 정확·직역 무손실·대안 부재. 정정 1: EP33 소매-손 충돌 주장 = 사실 아님(손목까지 소매 = 손 노출, 가시성 요구만 수용).
+- 게이트 재PASS. 피드백의 자체 기각 4건(페이월 유지·에단 fooled 유지·DNA 절차 배제·펜던트 조기 성공 배제) = 전원 동의.

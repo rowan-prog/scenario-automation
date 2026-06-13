@@ -18,6 +18,16 @@ Catches the exact failure patterns the memory files document:
   LOW   BRITISH    - grey / colour / cancelled / whilst ... (NA spelling only)
         BREATH     - "takes a breath / steadies her breath" stage tic
 
+Action-line (△) only — literary narration the camera can't shoot (2026-06-12):
+  MED   ACTION_NARR   - meaning/history/theme words in a △ ("the old habit",
+                        "queen of the room", "for the first time", "the same X that",
+                        "hangs in the air", "swallowing the crack whole")
+        ACTION_MICRO  - micro expression progression in a △ ("almost smiles")
+  LOW   ACTION_SIMILE - simile in a △; OK only as performable manner cue
+                        ("inspecting it like merchandise") — metaphor narration = cut
+Rule of thumb: physical/spatial/temporal stays even when expressive
+("one beat too long", "harder than a pat"); authorial meaning goes.
+
 Usage:
   python tools/voice_lint.py <file.md>
   python tools/voice_lint.py <file.md> --full           # every hit, not just HIGH samples
@@ -93,6 +103,27 @@ PATTERNS = [
      "insert + V.O. and resolve to a specific shot (ECU/crash-zoom)"),
 ]
 
+# ---- action-line (△) detectors: narration/meaning the camera can't shoot ------
+ACTION_PATTERNS = [
+    ("ACTION_NARR", "MED", re.compile(
+        r"\b(performance|habit|saint|queen of|king of|victory|truth|fate|soul|"
+        r"meaning|picture of|symbol|forgiven|forgotten|too late|in vain|finally|"
+        r"at last|for the first time|in years|always|used to|doing the work|"
+        r"waiting to see|hangs in the air|stolen (life|night|years)|"
+        r"softness|cruelty|kindness|menace|swallow(s|ing|ed)?|"
+        r"the same \w+ that)\b"
+        r"|\b[A-Z]\w+ is [A-Z]\w+ now\b", re.I),
+     "narration/meaning in an action line - the camera can't shoot it; "
+     "keep only physical/spatial/temporal (one beat too long = OK)"),
+    ("ACTION_MICRO", "MED", re.compile(
+        r"\b(almost|half)[ -]?(smil\w+|laugh\w+|grin\w+)\b", re.I),
+     "micro expression progression in an action line"),
+    ("ACTION_SIMILE", "LOW", re.compile(
+        r"\b(like (a|an|the|she|he|it|they) \w+|as if)\b", re.I),
+     "simile in an action line - OK only as a performable manner cue; "
+     "metaphor narration = cut"),
+]
+
 KOREAN = re.compile(r"[가-힣㄰-㆏]")
 EP_HEADER = re.compile(r"\bEP\s?(\d{1,2})\b")
 SENT_SPLIT = re.compile(r"(?<=[.!?])\s+")
@@ -116,6 +147,8 @@ def is_speech(line):
 
 
 CUE = re.compile(r"^[A-Z][A-Z0-9 .,'’()/&-]{1,38}$")
+INLINE_DLG = re.compile(
+    r"^[A-Z][A-Z0-9' .]{0,28}(\([^)]*\))?\s*(\([^)]*\))?:\s*(?P<content>.+)$")
 
 
 def is_cue(line):
@@ -192,6 +225,19 @@ def scan(path, cats, ep_range):
                 continue
             if rx.search(text):
                 findings.append((cat, sev, i, text.strip()[:110], note))
+
+        if stripped.startswith("△"):
+            for cat, sev, rx, note in ACTION_PATTERNS:
+                if cats and cat not in cats:
+                    continue
+                if rx.search(text):
+                    findings.append((cat, sev, i, text.strip()[:110], note))
+
+        # inline dialogue format: NAME (tone): content — run anaphora on content
+        if (not cats or "ANAPHORA" in cats):
+            m_inline = INLINE_DLG.match(stripped)
+            if m_inline:
+                findings.extend(find_anaphora(i, m_inline.group("content")))
 
         if (not cats or "ANAPHORA" in cats) and dialogue:
             findings.extend(find_anaphora(i, text))

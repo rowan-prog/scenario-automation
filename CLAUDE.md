@@ -52,7 +52,7 @@ phase_0 (아이디어) → phase_1 (러프 청사진) → phase_2 (피칭) → �
 |---|---|---|
 | `_X_01_titan_born` · `_X_02_the_offering` · `_X_04_heiress_clause` · `_X_08_reborn_at_ten` | (폐기 4종) | 🚫 작업 금지 — 이력은 각 meta 파일 |
 | `03_most_wanted_ship` | I BOUGHT THE GALAXY'S MOST WANTED SHIP | phase_2 완료 |
-| `06_she_stole_my_face` | SHE STOLE MY FACE | **🔒 정본 = `07_final/06_she_stole_my_face_FINAL_v48.md` (2026-06-09 사용자 LOCK).** **v51 = 현행 LOCK 후보** (v50 신표준 재집필 + 2026-06-11 사용자 11라운드 교정: 무료부 노아 제거·한 사건 다화·수사물 제거·수위 돌파·반PC·calque 41·델타 적대감사 HIGH 4 수술). v49-50 = 중간 산출. **버전 룰: 메이저 수정 = v{N+1} 복사 후 수정(사용자 명시).** certificate·이력 = `06_she_stole_my_face_00_meta.md` 단일 진실. 핵심 메모리 = [[vertical-revenge-impostor-believed-engine]] [[easy-dopamine-over-logic]] [[translation-proof-no-cinema]] |
+| `06_she_stole_my_face` | SHE STOLE MY FACE | **🔒 정본 = `07_final/06_she_stole_my_face_FINAL_v53.md` (2026-06-12 사용자 LOCK).** v48 = 구 정본 · v49-52 = 중간 산출. **버전 룰: 메이저 수정 = v{N+1} 복사 후 수정(사용자 명시).** certificate·이력 = `06_she_stole_my_face_00_meta.md` 단일 진실. 환류: 핸드오프·비주얼락 v53 갱신(2026-06-12). 핵심 메모리 = [[vertical-revenge-impostor-believed-engine]] [[easy-dopamine-over-logic]] [[translation-proof-no-cinema]] |
 
 새 작품 번호 = **09**.
 
@@ -73,4 +73,4 @@ phase_0 (아이디어) → phase_1 (러프 청사진) → phase_2 (피칭) → �
 
 ## 모델·세션
 
-Opus / High effort. 시작 시 `/model` 확인. 본문 영어·대화 한국어.
+메인 = 세션 최상위 모델(현 Fable) / High effort — **집필·수술·쇼러너 판정 = 메인 직접, 위임 금지.** 검수 agent 모델 분담 = `config/20_review_standard.md` §7 (단독 정밀 판정 = opus / 반복 수렴·기계 작업 = sonnet — Agent 호출 시 `model` 명시). 시작 시 `/model` 확인. 본문 영어·대화 한국어.
