@@ -132,6 +132,8 @@ AI는 "에피소드"라는 단어를 보면 닫힌 완결형(사건 발생→해
 
 ## D. 대사·VO 표준
 
+> **표준 reference (집필·수술 진입 시 정독):** `config/vertical_drama_hit_scripts_analysis/english_hit_dialogue_charge_reference.md` — 사용자 필사 북미 영어 히트작 대사 verbatim + genre case별 craft. **핵심 thesis = 모든 라인이 charge(극적 기능)를 가진다·중립 정보 0.** 이 필사본은 표준 그 자체 — `voice_lint`·"spoken이냐" 잣대로 채점 금지(평가 아니라 학습).
+
 ### D-0. 모든 대사 = 기능 (2026-06-11 사용자)
 - **모든 대사는 기능이 있어야 한다 — 단 그것 때문에 대사를 줄이면 안 된다** (vertical = 대사 중심으로 돌아간다). 기능 = 막연한 게 아니라 **오직 스토리 진행·감정·관계**다. 일정·물류·예의 잡담("늦었죠, 머리 해야 해요") = 기능 0 = 삭제하거나 기능을 입혀라.
 - **EP1 첫 대사 = 작품의 첫 킥.** 판돈+욕망이 한 줄에. ✅ `Quick as you can — at eight tonight, the whole city finds out Ethan Cross is marrying me.` ❌ `I know, I'm late. The toast is at eight and I still have to get my hair done.`

@@ -2,7 +2,7 @@
 
 
 ## EP1 - S#1  Late Afternoon / Interior / Brandt's Clinic · Back Room
-Characters: Lena Sterling, Mara Voss (masked, as the assistant), Nurse
+Characters: Lena Sterling, Mara Voss (masked, posing as the clinic nurse)
 
 △ Lena Sterling pushes through the door, phone to her ear — Ethan on the line — glowing.
 
@@ -10,7 +10,7 @@ Characters: Lena Sterling, Mara Voss (masked, as the assistant), Nurse
 
 LENA (into the phone, soft, laughing): No, you hang up first. (giddy) Okay, I'm going, I'm going. I love you. See you tonight.
 
-△ Lena slips the phone into her coat and beams at the masked nurse.
+△ Lena slips the phone into her coat and beams at the nurse — masked and capped, gloved, bent over the tray.
 
 LENA (warm, breathless): Hi — so sorry I'm late. Thank you for fitting me in.
 NURSE (masked, warm): Don't you worry, Miss Sterling. Sit, sit.
@@ -22,7 +22,7 @@ LENA (bashful, glowing): Oh, don't— you'll jinx it.
 NURSE (masked, a little starry): Engaged to Ethan Cross — the richest man in the city. Every woman in this town wanted to be you.
 LENA (soft, shy): I keep pinching myself. I'd marry him with nothing. (honest) I just really love him.
 
-△ At the counter, the masked assistant keeps her back turned, drawing clear liquid into a syringe. Slow. Unhurried.
+△ [INSERT] On the steel tray by the chair, a syringe lies capped and already full. Clear liquid. Waiting.
 
 NURSE (masked): So — what are we covering today?
 LENA (touching her collarbone, a little rushed): Just a little bruise — right here. Can we be quick? I really can't be late.
@@ -33,12 +33,12 @@ LENA (warm): My best friend made it happen. Flew in just for tonight.
 NURSE (masked, dry): Some friend.
 LENA (soft): The best. I'm making her my maid of honor at the toast. (quieter) Twenty years. She's the only family I've got left.
 
-ASSISTANT (masked, back turned, sweet): Jewelry off for me. Necklace, rings, all of it.
+NURSE (masked, sweet): Jewelry off for me. Necklace, rings, all of it.
 
 △ [ECU] The gold pendant in the hollow of Lena's throat.
 
 LENA: Oh — not this one. It was my mom's. I never take it off.
-ASSISTANT (masked, back turned, sweet): Today you do. It's sitting right over the bruise.
+NURSE (masked, sweet): Today you do. It's sitting right over the bruise.
 
 △ Lena hesitates — then unclasps it and holds it out.
 
@@ -46,13 +46,13 @@ ASSISTANT (masked, back turned, sweet): Today you do. It's sitting right over th
 
 LENA (a small smile): Careful with it. Please.
 
-△ The needle slides into Lena's arm. Lena blinks. Her knees give.
+△ The nurse lifts the syringe from the tray, uncaps it, and slides the needle into Lena's arm. Lena blinks. Her knees give.
 
-ASSISTANT (sweet, low): I'm always careful. (beat) Go to sleep now.
+NURSE (sweet, low): I'm always careful. (beat) Go to sleep now.
 
 LENA (slurring): Wait — that's not... that's not numbing —
 
-△ The assistant turns and lifts the cap. The mask comes away.
+△ The nurse peels off the mask and cap.
 
 △ [NAME] Mara Voss / Lena's Friend
 
@@ -87,7 +87,7 @@ Hard Cut.
 ---
 
 ## EP2 - S#1  Late Afternoon / Interior / Brandt's Clinic · Back Room · Continuous
-Characters: Lena (drugged), Mara, Eileen, Nurse
+Characters: Lena (drugged), Mara, Eileen
 
 △ Lena slumps in the chair, her eyes open to slits — drugged, watching. Mara at the mirror wall, pendant on, fixing her hair down over the scar.
 
@@ -101,7 +101,7 @@ MARA (her own voice, pleased): A year of practice. Worth every minute.
 
 MARA (whispering, gloating): Want a secret before you go under? Last week I borrowed your face for an afternoon. Your Ethan kissed me at the door. (beat) He couldn't tell, Lena. The man you were going to marry can't tell us apart. Nobody can. Nobody ever will. (patting her cheek) I'll take it from here.
 
-△ The door opens. Eileen walks in — gloves, a garment bag over one arm. The masked nurse slips out past her without a word.
+△ The door opens. Eileen walks in — gloves, a garment bag over one arm.
 
 △ [NAME] Eileen Voss / Mara's Mother
 
@@ -188,26 +188,26 @@ Hard Cut.
 ---
 
 ## EP4 - S#1  Night / Interior / Harbor General · Room 412 · Same Night
-Characters: Lena, Nurse · (TV: Ethan, Mara)
+Characters: Lena, Ward Nurse · (TV: Ethan, Mara)
 
 △ Lena's eyes open. An IV in her arm. A fresh bandage at her temple.
 
 △ Lena's hand goes to her throat — the pendant is gone.
 
-NURSE: You're awake. (beat) The Cross family asked us to keep everyone away from you — said you might not make much sense.
+WARD NURSE: You're awake. (beat) The Cross family asked us to keep everyone away from you — said you might not make much sense.
 LENA (hollow): Ethan didn't even call. He sent his family to handle me.
 
 △ The TV across the room — Cross Manor, the engagement on repeat. Ethan at the podium. Mara beside him in Lena's gown and Lena's pendant, smiling.
 
 LENA (rising, the IV tearing): That is NOT me.
 LENA (pointing at the TV, voice climbing): She put me in that car. She's wearing my face and my mother's necklace. I'm Lena Sterling.
-NURSE (soothing, not believing a word): Honey. Sit down. Keep saying that name and they'll move you to the sixth floor — locked ward, no shoes. Is that what you want?
+WARD NURSE (soothing, not believing a word): Honey. Sit down. Keep saying that name and they'll move you to the sixth floor — locked ward, no shoes. Is that what you want?
 
 △ Lena looks at the nurse. Then at the door.
 
 △ Lena rips the tape off her arm. From the tray by the bed she grabs her cracked phone — the one thing that came in with her — and runs, barefoot, past a startled orderly.
 
-NURSE (calling after her): Somebody stop her —
+WARD NURSE (calling after her): Somebody stop her —
 
 ## EP4 - S#2  Night / Exterior / Cross Manor · Gates · Rain
 Characters: Lena, Guard, crowd · (screen: Mara)
@@ -570,7 +570,7 @@ NOAH (flat): They watched the wrong woman.
 
 △ Lena goes still.
 
-NOAH (finally looking at her — blunt, no warmth wasted): Every gala for three years, you held your glass in your left hand. The woman in that ballroom tonight signed the guest book with her right hand. They bought your face. They forgot your hands.
+NOAH (finally looking at her — blunt, no warmth wasted): Every gala for three years, you held your glass in your left hand. The woman in that ballroom tonight does everything with her right. They bought your face. They forgot your hands.
 LENA (staring at him): Three years. You watched me for three years?
 NOAH (eyes back on the road, even): You were engaged. (beat) You're not anymore.
 
@@ -583,15 +583,12 @@ Characters: Lena, Noah · (screen: Mara)
 
 NOAH (into the phone, even): The penthouse has a guest. Lena Sterling. Whatever she asks for. (beat) You heard the name right.
 
-NOAH: Closet's stocked by morning. Card's on the counter. Driver's downstairs when you want him.
 LENA (small): I can't pay any of this back.
 NOAH (matter-of-fact): I didn't ask you to. She's spending your money in your apartment right now. I'm not going to let you stand around in a catering uniform while she does it.
 LENA (low): Why. You could hand me over to the Crosses and be their hero.
 NOAH (flat): I put money on you the night I first saw you. I've never bet wrong. Don't make this the first time.
 LENA (low): Then I go to the police.
-NOAH (flat): Today you're the crazy woman who attacked a bride. Whatever you bring them, that's all they see.
-LENA (quiet): So the truth doesn't matter.
-NOAH (level): Not yet. Nobody's checking her story — they all believe it. So first we make them doubt her.
+NOAH (flat): Today you're the crazy woman who attacked a bride. Whatever you bring them, that's all they see. Nobody's checking her story — they all believe it. So first we make them doubt her.
 
 △ A wall screen, muted, lights up with a push alert. Noah turns it on.
 
@@ -744,11 +741,11 @@ NOAH (quiet): Two of us, then.
 
 △ Lena freezes the feed on the bracelet.
 
-LENA (slow): Every time she opens her mouth about Mom, she gets it wrong. So I keep her talking.
+LENA (slow): So I keep her talking.
 NOAH: Then keep watching.
 
 ## EP11 - S#2  Morning / Interior / Noah's Penthouse · Next Morning
-Characters: Lena, Noah · (TV: Tessa, Host)
+Characters: Lena, Noah · (TV: Tessa, Host · intercut: Mara)
 
 △ A talk show plays on the wall TV. Lena sits in front of it.
 
@@ -805,7 +802,7 @@ Hard Cut.
 ---
 
 ## EP12 - S#1  Morning / Exterior / TV Studio · Street Doors
-Characters: Lena, First Woman, Second Woman, Doorman
+Characters: Lena, First Woman, Second Woman, Doorman, Man in Suit
 
 △ The glass doors of the network where Tessa's show tapes. Behind the glass, a lobby screen loops yesterday's clip of Tessa mid-tear.
 
@@ -1284,7 +1281,7 @@ MARA (to an attendant, sweet): My mom always said simple. Her style. (to her ref
 
 △ Lena walks into the salon in plain clothes.
 
-LENA (level): She's even wearing the dress I always wanted.
+LENA (level): You even took the dress I wanted. You don't own a single thing on you.
 MARA (not turning, to the attendants): See? This is what I deal with. She follows me everywhere. (sweet, to Lena) Did you pick my shoes too?
 
 △ The attendants step in around Lena, blocking her path.
@@ -1545,7 +1542,7 @@ NOAH (calm): I want them looking. I want every one of them to see exactly who I 
 
 △ Lena smiles. She catches it and presses her mouth flat.
 
-LENA (low): I'd forgotten what that even feels like.
+LENA (low): I'd forgotten what it's like to be looked at and not flinch.
 
 △ Two tables over, a diner lifts a phone and takes a photo of Lena and Noah.
 
@@ -1706,7 +1703,7 @@ MARA (O.S., sweet): Leaving already?
 △ Lena turns. Mara stands in the doorway light in white, a champagne glass in one hand. Mara sets the glass down on a crate, slow, and walks into the dark.
 
 MARA (light, closing in): Tomorrow morning I marry him. The whole country crying for me. And you'll still be out here in the dark in that ratty hood, telling strangers you're Lena Sterling.
-LENA (backing a step): Go back inside. Your guests are waiting.
+LENA (backing a step): Your guests are right inside. Lay a hand on me and every one of them sees it.
 MARA (closer, sweet): I should have fixed this at the clinic. One more push on that needle — done. But no. I wanted you awake. I wanted you to watch me take it. (a small laugh) My one soft spot.
 
 △ Mara's hands close around Lena's throat and slam Lena back into the wall. The sweetness stays on Mara's face the whole time.
@@ -2215,7 +2212,7 @@ Characters: Lena, Noah
 
 LENA (flat, almost amused): She signed it with my initial. She can't even threaten me without using my name.
 LENA (steady): She only gets this nasty when she's losing.
-NOAH (low): She can't stand watching you be happy. That's all this is.
+NOAH (low): Then let her come. Half that room already stopped believing her. She'll finish the job herself.
 
 △ [INSERT] The glass conservatory over the sea, full of sea light.
 
@@ -2320,7 +2317,7 @@ LENA (low, to her reflection): Okay. Today nobody takes anything.
 △ [INTERCUT] On the manor steps, Victoria watches the car go, Ethan beside her.
 
 VICTORIA (cold): She's going to burn our name down at Keene's wedding. Get in. We drag her home before the cameras eat us alive.
-ETHAN (sour, not moving): Keene's actually marrying the stalker. (beat) The whole city's lost its mind.
+ETHAN (sour, not moving): Keene's actually marrying the stalker.
 VICTORIA (already walking): Then go watch. Just drag your wife home before she costs us another cent.
 
 △ Ethan and Victoria get into a second car.
@@ -2378,7 +2375,7 @@ Hard Cut.
 ---
 
 ## EP48 - S#1  Day / Interior / Conservatory · Aisle · Continuous
-Characters: Lena, Noah, Mara, Eileen, Young Reporter, Cameraman, Ethan, Victoria, guests
+Characters: Lena, Noah, Mara, Eileen, Young Reporter, Woman in Pearls, Cameraman, Ethan, Victoria, guests
 
 △ Mara stands in the aisle, the cameraman's lens live, the room frozen. Nobody in the crowd moves toward Lena. The guests watch Mara.
 
@@ -2402,7 +2399,7 @@ NOAH (level): The only one faking anything here is you. You're not welcome here.
 
 △ Lena steps away from the arch and walks right up to Mara — same face to same face. Lena speaks low.
 
-LENA (quiet, cruel): You've got my face, my ring, my mother's name — and underneath it you're still the girl who carried my bags for twenty years, dreaming of being me. You can wear all of it. You'll never be me. Every day you're scared sick somebody'll look close and see the bag-girl under my face.
+LENA (quiet, steady): You've got my face, my ring, my mother's name. Twenty years I called you my best friend — and you spent every one of them wishing you were me. (beat) You can wear all of it. You still flinch when somebody laughs next to you. You'll never be me, and every day you're scared sick they'll finally see it.
 LENA (after a beat): Look around. They're all about to.
 
 △ [ECU] Mara's face breaks. Mara's eyes go to the lifted phones.

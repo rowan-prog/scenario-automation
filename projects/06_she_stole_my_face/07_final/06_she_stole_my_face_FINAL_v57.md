@@ -2,7 +2,7 @@
 
 
 ## EP1 - S#1  Late Afternoon / Interior / Brandt's Clinic · Back Room
-Characters: Lena Sterling, Mara Voss (masked, as the assistant), Nurse
+Characters: Lena Sterling, Mara Voss (masked, posing as the clinic nurse)
 
 △ Lena Sterling pushes through the door, phone to her ear — Ethan on the line — glowing.
 
@@ -10,7 +10,7 @@ Characters: Lena Sterling, Mara Voss (masked, as the assistant), Nurse
 
 LENA (into the phone, soft, laughing): No, you hang up first. (giddy) Okay, I'm going, I'm going. I love you. See you tonight.
 
-△ Lena slips the phone into her coat and beams at the masked nurse.
+△ Lena slips the phone into her coat and beams at the nurse — masked and capped, gloved, bent over the tray.
 
 LENA (warm, breathless): Hi — so sorry I'm late. Thank you for fitting me in.
 NURSE (masked, warm): Don't you worry, Miss Sterling. Sit, sit.
@@ -20,9 +20,9 @@ NURSE (masked, warm): Don't you worry, Miss Sterling. Sit, sit.
 NURSE (masked): Big night for you. The whole city's talking about nothing else.
 LENA (bashful, glowing): Oh, don't— you'll jinx it.
 NURSE (masked, a little starry): Engaged to Ethan Cross — the richest man in the city. Every woman in this town wanted to be you.
-LENA (soft, shy): I keep pinching myself. I'd marry him with nothing. (honest) I just really love him.
+LENA (soft, shy): He could lose every dollar tonight. I'd still marry him.
 
-△ At the counter, the masked assistant keeps her back turned, drawing clear liquid into a syringe. Slow. Unhurried.
+△ [INSERT] On the steel tray by the chair, a syringe lies capped and already full. Clear liquid. Waiting.
 
 NURSE (masked): So — what are we covering today?
 LENA (touching her collarbone, a little rushed): Just a little bruise — right here. Can we be quick? I really can't be late.
@@ -31,14 +31,14 @@ LENA (light, laughing): Ethan held me a bit too tight last night. (shy) I bruise
 NURSE (masked): You're lucky to get in at all — we're booked for weeks.
 LENA (warm): My best friend made it happen. Flew in just for tonight.
 NURSE (masked, dry): Some friend.
-LENA (soft): The best. I'm making her my maid of honor at the toast. (quieter) Twenty years. She's the only family I've got left.
+LENA (soft): She's the only family I've got left. I'm making her my maid of honor tonight.
 
-ASSISTANT (masked, back turned, sweet): Jewelry off for me. Necklace, rings, all of it.
+NURSE (masked, sweet): Jewelry off for me. Necklace, rings, all of it.
 
 △ [ECU] The gold pendant in the hollow of Lena's throat.
 
 LENA: Oh — not this one. It was my mom's. I never take it off.
-ASSISTANT (masked, back turned, sweet): Today you do. It's sitting right over the bruise.
+NURSE (masked, sweet): Today you do. It's sitting right over the bruise.
 
 △ Lena hesitates — then unclasps it and holds it out.
 
@@ -46,13 +46,13 @@ ASSISTANT (masked, back turned, sweet): Today you do. It's sitting right over th
 
 LENA (a small smile): Careful with it. Please.
 
-△ The needle slides into Lena's arm. Lena blinks. Her knees give.
+△ The nurse lifts the syringe from the tray, uncaps it, and slides the needle into Lena's arm. Lena blinks. Her knees give.
 
-ASSISTANT (sweet, low): I'm always careful. (beat) Go to sleep now.
+NURSE (sweet, low): I'm always careful. (beat) Go to sleep now.
 
 LENA (slurring): Wait — that's not... that's not numbing —
 
-△ The assistant turns and lifts the cap. The mask comes away.
+△ The nurse peels off the mask and cap.
 
 △ [NAME] Mara Voss / Lena's Friend
 
@@ -60,9 +60,9 @@ LENA (slurring): Wait — that's not... that's not numbing —
 
 △ [ECU] Lena's blurring eyes barely holding the face in front of her.
 
-△ Mara fastens the pendant around her own throat. Under her left ear, a thin curved scar healed to a silver line.
+△ Mara fastens the pendant around her own throat.
 
-MARA (touching the pendant, mocking): Your mom's necklace. The one you never take off. (beat) And you just handed it to me. God, you make it easy.
+MARA (touching the pendant, mocking): Your mother's necklace. You handed it over before I even asked twice.
 
 △ Mara takes Lena's jaw and tilts it one way, then the other.
 
@@ -73,7 +73,7 @@ MARA (studying her, smug): Look at that. I'm prettier than you. (beat) And it's 
 MARA (at her ear, sweet, vicious): Look at you, princess. Can't even hold your own head up. (beat) Go on. Say thank you for the appointment. ...No? Can't?
 
 LENA (slurred, fading): ...maid of honor... I was gonna ask you—
-MARA (flat, then vicious): Oh, I heard you. (closer) I don't want to stand next to the bride, Lena. I want to BE the bride.
+MARA (flat, then vicious): Oh, I heard you. (closer) I'm not standing next to the bride. I'm taking it all — your bed, your ring, your name. Tonight Ethan fucks me in your sheets and calls me Lena. (beat) Thanks for the face, you dumb bitch.
 
 [END HOOK]
 △ Lena's mouth moves. Nothing comes out. Her head rolls toward the mirrored wall —
@@ -87,21 +87,21 @@ Hard Cut.
 ---
 
 ## EP2 - S#1  Late Afternoon / Interior / Brandt's Clinic · Back Room · Continuous
-Characters: Lena (drugged), Mara, Eileen, Nurse
+Characters: Lena (drugged), Mara, Eileen
 
-△ Lena slumps in the chair, her eyes open to slits — drugged, watching. Mara at the mirror wall, pendant on, fixing her hair down over the scar.
+△ Lena slumps in the chair, her eyes open to slits — drugged, watching. Mara at the mirror wall, pendant on, fixing her hair into Lena's style.
 
 MARA (to the mirror, in Lena's exact voice): Hi. I'm Lena Sterling.
 
 △ Mara laughs — Lena's exact laugh, pitch-perfect.
 
-MARA (her own voice, pleased): A year of practice. Worth every minute.
+MARA (her own voice, pleased): Smile, voice, signature. I paid for all of it.
 
 △ Mara leans down over the drugged Lena, close to her ear.
 
-MARA (whispering, gloating): Want a secret before you go under? Last week I borrowed your face for an afternoon. Your Ethan kissed me at the door. (beat) He couldn't tell, Lena. The man you were going to marry can't tell us apart. Nobody can. Nobody ever will. (patting her cheek) I'll take it from here.
+MARA (whispering, gloating): Want a secret before you go under? I've spent months becoming you — your voice, your laugh, your signature. I paid for all of it. (beat) Tonight I climb into your bed and your Ethan won't know the difference. By morning there's only one Lena. (patting her cheek) I'll take it from here.
 
-△ The door opens. Eileen walks in — gloves, a garment bag over one arm. The masked nurse slips out past her without a word.
+△ The door opens. Eileen walks in — gloves, a garment bag over one arm.
 
 △ [NAME] Eileen Voss / Mara's Mother
 
@@ -141,7 +141,9 @@ EILEEN (V.O., flat): Make it look like an accident. Then walk to my car.
 
 △ Mara drags Lena across the console into the driver's seat and folds her limp hands onto the wheel.
 
-△ Mara checks her reflection in the cracked window and fixes one strand of hair down over her own left ear. Through the glass, behind Mara's reflection, Lena's slumped shape.
+△ Mara lifts Lena's phone and bag off the floor mat and pockets them. Everything that says Lena Sterling leaves with Mara.
+
+△ Mara checks her reflection in the cracked window. Through the glass, behind her, Lena's slumped shape.
 
 MARA (on speaker): She's breathing.
 EILEEN (V.O., cold): Good. Let her wake up sounding insane.
@@ -156,12 +158,11 @@ Characters: Mara, Eileen
 
 △ Mara peels off the scrubs and slides into the gown. Her hair is already styled to match Lena's.
 
-EILEEN (eyes on the road, testing her): What does it say inside the pendant?
-MARA (checking her lips in the mirror, bored): Some dead-language thing. Who cares what it says. It's gold, it's expensive, and it's around MY neck now.
-EILEEN (warning, quiet): Her mother used to whisper it to her. Someday somebody will ask.
-MARA (waving it off, airy): Then I'll cry and say it's too painful to repeat. Rich people love that.
+EILEEN (eyes on the road): By morning her bank flags her name, her building tells her she doesn't live there, her lawyers take their orders from you. She wakes up shut out of everything — and nothing's even been signed yet.
+MARA (checking her lips in the mirror, bored): Already calling. Her lawyers think they're taking orders from Lena. (touching the pendant) This too. Real gold. Mine now.
+EILEEN (flat): Don't get sentimental. Keep her locked out of her own life.
 
-EILEEN (into the car phone, flat): Run the story tonight. A crazed fan cut her face to match the bride's — obsessed, dangerous, off her meds. Every channel before she wakes up. (beat) Whatever it costs.
+EILEEN (into the car phone, flat): Run it everywhere. Crazy fan, the bride's face, dangerous, off her meds. Every channel before she wakes up. (beat) And the hospital — the crash victim came in with nothing. No phone, no cards, no name. Keep her a Jane Doe. Whatever it costs.
 
 △ [ECU] The duplicate gown zipped up the side.
 
@@ -188,26 +189,26 @@ Hard Cut.
 ---
 
 ## EP4 - S#1  Night / Interior / Harbor General · Room 412 · Same Night
-Characters: Lena, Nurse · (TV: Ethan, Mara)
+Characters: Lena, Ward Nurse · (TV: Ethan, Mara)
 
 △ Lena's eyes open. An IV in her arm. A fresh bandage at her temple.
 
 △ Lena's hand goes to her throat — the pendant is gone.
 
-NURSE: You're awake. (beat) The Cross family asked us to keep everyone away from you — said you might not make much sense.
-LENA (hollow): Ethan didn't even call. He sent his family to handle me.
+WARD NURSE: You're awake. (beat) The woman who called you in said to keep everyone away — said you'd wake up confused, not making much sense.
+LENA (hollow): I don't know any woman. (beat) Somebody made sure I'd wake up alone, with no one coming.
 
 △ The TV across the room — Cross Manor, the engagement on repeat. Ethan at the podium. Mara beside him in Lena's gown and Lena's pendant, smiling.
 
 LENA (rising, the IV tearing): That is NOT me.
-LENA (pointing at the TV, voice climbing): She put me in that car. She's wearing my face and my mother's necklace. I'm Lena Sterling.
-NURSE (soothing, not believing a word): Honey. Sit down. Keep saying that name and they'll move you to the sixth floor — locked ward, no shoes. Is that what you want?
+LENA (pointing at the TV, voice climbing): She drugged me. She crashed my car. That's my face on TV.
+WARD NURSE (soothing, not believing a word): Honey. Sit down. Stop talking, or they'll lock you in the crazy ward. (beat) Shut up if you want to leave.
 
 △ Lena looks at the nurse. Then at the door.
 
-△ Lena rips the tape off her arm. From the tray by the bed she grabs her cracked phone — the one thing that came in with her — and runs, barefoot, past a startled orderly.
+△ Lena rips the tape off her arm. No phone. No bag. No shoes — nothing came in with her. She runs anyway, barefoot, past a startled orderly.
 
-NURSE (calling after her): Somebody stop her —
+WARD NURSE (calling after her): Somebody stop her —
 
 ## EP4 - S#2  Night / Exterior / Cross Manor · Gates · Rain
 Characters: Lena, Guard, crowd · (screen: Mara)
@@ -221,9 +222,9 @@ GUARD (intercom, flat): The bride isn't seeing anyone tonight. Step back.
 
 △ [Insert] On the screen, an interviewer leans in to the bride-to-be.
 
-MARA (on screen, sweet, into the lens): Honestly? I finally have the life I was always meant to have.
+MARA (on screen, sweet, into the lens): Tonight I become Mrs. Cross. That's all I ever wanted.
 
-△ On the giant screen, a gust lifts Mara's hair — one flash of her left ear. Mara smooths it back down, fast and practiced.
+△ On the giant screen, Mara laughs at something Ethan murmurs, perfectly at home in Lena's life.
 
 △ The crowd lifts their phones at the soaked woman screaming at the gate.
 
@@ -256,11 +257,11 @@ LENA (desperate): Ethan. It's me.
 △ Ethan turns. He looks at her face — really looks. A full second.
 
 ETHAN (flat): Security.
-LENA (closer, shaking): Three years. Look at me. The pendant is mine — my mother's. Ask her what the words inside mean. She can't tell you.
-ETHAN (stepping between Lena and Mara, contempt): You've got her face. I'll give whoever cut it that much — it's close. But Lena doesn't scream. Lena doesn't show up barefoot begging in the rain.
-LENA (fast, before the guards reach her): You get headaches behind your right eye when you lie. You're getting one now. Who else on earth would know that?
+LENA (closer, shaking): Ethan, you kissed me last night. Now look me in the eyes and call me a stranger.
+ETHAN (not quite meeting her eyes, contempt): You bought her face and you still couldn't buy what she is. Look at you — soaked, shaking, begging at a gate. A cheap, filthy stalker. (to the guards) Get this trash off my steps.
+LENA (fast, before the guards reach her): You can't even look at me while you throw me out. Say it to my face.
 
-△ Ethan goes still. His hand rises halfway to his right eye — and stops.
+△ Ethan's eyes drop. For one second he can't make himself give the order.
 
 △ The guards hold one step back, waiting on him. The crowd's phones swing from Lena to Ethan.
 
@@ -276,15 +277,15 @@ Hard Cut.
 ## EP6 - S#1  Night / Exterior / Cross Manor · Front Steps · Continuous · Rain
 Characters: Lena, Mara, Ethan, Victoria, guards, crowd
 
-△ Ethan's hand hangs halfway to his eye. The whole staircase waits.
+△ Ethan stands frozen, jaw working, unable to make himself look at her. The whole staircase waits.
 
 △ Mara slides in against Ethan's chest, arms going up around his neck, mouth at his jaw.
 
 MARA (low, silk, only for Ethan): Baby. You're shaking. Take me inside and I'll fix that. (kissing his jaw, slow) You promised me a first dance.
 
-△ Ethan looks down at Mara's mouth. His hand drops from his eye.
+△ Ethan looks down at Mara's mouth. The hesitation drains out of his face.
 
-ETHAN (turning on Lena, colder than before): Cheap trick. Anyone can buy gossip about a headache. (to the guards) Get her off my property. You want to be Lena Sterling? Lena Sterling wouldn't be caught dead looking like you.
+ETHAN (turning on Lena, colder than before): Last night I had Lena in my bed. You're not Lena. (to the guards) Get this crazy bitch off my property. (to Lena, cold) And don't you ever put her name in your filthy mouth again.
 
 △ Victoria glides down the steps, pearls and fur, bored.
 
@@ -292,8 +293,8 @@ ETHAN (turning on Lena, colder than before): Cheap trick. Anyone can buy gossip 
 
 △ Victoria backhands Lena — crack. Lena's head snaps sideways. The bandage at her temple tears open.
 
-VICTORIA (smoothing her glove, gracious, to the crowd): Pardon me. I was raised better than that.
-VICTORIA (to Lena, cold): I have no idea who you are. And you're bleeding on my steps. (to a staffer, without looking) Hose down the steps where she stood. And search her before she's off the grounds — women like that never leave empty-handed.
+VICTORIA (smoothing her glove, to the crowd): Look at it — bleeding like a stray dog on my marble.
+VICTORIA (to Lena, cold): You bought the face. Couldn't afford the breeding. (to a staffer, without looking) Scrub the steps with bleach before the guests smell her. And search her on the way out — trash like that never leaves empty-handed.
 MARA (to the crowd, sweet): She used to be my friend. I don't know what happened to her.
 
 △ Mara lifts the pendant to her lips and kisses it for the cameras.
@@ -319,7 +320,7 @@ Characters: Lena, guards · (screen: Mara, Ethan)
 [END HOOK]
 △ On the screen, Mara turns her face into Ethan's neck — and her eyes find the camera anyway.
 
-LENA (to no one, hollow): That's my dance. That's my song.
+LENA (to no one, hollow): Even the music is mine now.
 
 Hard Cut.
 
@@ -330,24 +331,22 @@ Characters: Lena
 
 △ Lena's key still turns. The bandage at her temple is soaked with rain.
 
-△ Lena stops two steps inside the door.
+△ Lena goes straight for the closet shelf — the one where her mother's box has sat for ten years. She shoves a row of unfamiliar dresses aside.
 
-LENA (low): She's sleeping in my bed.
+△ The shelf is bare.
 
-△ Mara's jacket on the chair. In Lena's closet, Lena's clothes are gone, replaced by a row of new ones in Mara's taste.
+LENA (gutted): She took Mom's box.
 
-△ At the very back, behind a false panel — Helena's wedding dress, untouched. The dust line along the panel's edge unbroken.
+△ Lena turns. Her own clothes are gone — racks of new ones in Mara's taste hang where they hung. Mara's jacket on the chair. Her bed, slept in.
 
-△ Lena lifts the dress down and zips it into a garment bag.
-
-LENA (low): Whatever else they take. Not this.
+△ There is nothing of Lena's left in Lena's home to take.
 
 ## EP7 - S#2  Day / Interior / Lena's Apartment · Living Room · Continuous
 Characters: Lena, Mara
 
 △ The front door unlocks from the outside. Mara walks in with her own copy of the key, Lena's pendant at her throat — like she lives here.
 
-△ Lena shifts sideways, slow — putting herself between Mara and the garment bag against the wall.
+△ Lena shifts sideways, blocking Mara from stepping deeper into the apartment.
 
 MARA (light, taunting): You're hard to keep up with, crazy. Still chasing your own face around the city?
 
@@ -361,12 +360,11 @@ MARA (looking Lena up and down, savoring): And look at you. A hospital gown unde
 
 △ Mara stands. Walks close. Pendant level with Lena's eyes.
 
-MARA (sweet venom, slow): And you should know one more thing. Last night, after the cameras went home, your fiancé took me to your bed.
+MARA (sweet venom, slow): One more thing before you crawl off. Last night your fiancé fucked me in your bed. Your sheets. Your perfume.
 
 △ Lena's hand finds the wall behind her.
 
-MARA (closer, savoring every word): He said your name. (beat) It's my name now. And here's the part that should keep you up at night — he couldn't tell, Lena. The man you love can't tell your body from mine. Nobody's coming for you. Nobody even knows you're gone.
-MARA (delighted with herself): And don't wait for anyone to miss me either. Mara's in Paris — didn't you hear? She texts Ethan every week. So happy for the couple. (beat) I write those texts from your bathtub.
+MARA (closer, savoring every word): He had me all night and never once knew it wasn't you. (cruel) He doesn't miss YOU, Lena. He missed your perfume. So I just wore more. (sweet) Nobody's coming. Nobody even knows you're gone.
 
 △ Lena's hand comes up — shaking, an inch from Mara's throat. Mara doesn't step back. She smiles.
 
@@ -380,26 +378,15 @@ MARA (mock-gentle, condescending): Good girl. See? You're learning.
 
 △ At the door, Mara lifts the pendant off her chest and kisses it, eyes on Lena.
 
-MARA (sweet, cruel): Take your mother's pendant back if you can. It'll never feel like yours again.
+MARA (sweet, cruel): Take it back if you can. Ethan kissed me while I wore it.
 
-△ Mara walks out. The door clicks.
+△ Mara walks out — and holds the door for two building guards coming the other way.
 
-LENA (to the empty room, shaking): God, I want to hit her so bad.
+MARA (over her shoulder, sweet): That's her. The stalker who keeps getting into my apartment.
 
-△ Lena pulls her own cracked phone from the coat pocket. On the screen, the group thread — Mara's text from before: "Pop in early." Under it, Tessa's name.
+△ The guards take Lena by both arms and walk her out of her own home. Lena doesn't fight it.
 
-LENA (cold, steadying): She knew I'd walk in alone. No guard, no questions. Somebody promised her that.
-
-△ Lena sits down on the floor, back against her own wall, eyes fixed on nothing.
-
-△ [FLASHBACK — EP02 S#1 (clinic mirror)] One second: Mara at the mirror wall, trying on Lena's laugh.
-
-LENA (slow): Even half under, I saw her at that mirror. A whole year of practice — and she still had to fix my laugh.
-
-△ Lena gets up off the floor.
-
-LENA (quiet): She can have all of it — the house, the ring, the money. (beat) Not my mother. Never my mother.
-LENA (cold): She'd rather die than get caught faking. So I catch her — in front of a room full of people.
+LENA (quiet, as they move her): She can have the house, the ring, the money. (beat) But I'm done screaming it in the street for them to film. (cold) Done being the crazy woman they get to laugh at.
 
 [END HOOK]
 △ [ECU] Lena's eyes — dry, fixed.
@@ -408,116 +395,82 @@ Hard Cut.
 
 ---
 
-## EP8 - S#1  Day / Interior / Various · Montage
-Characters: Lena
-
-△ [MONTAGE] A catering agency counter — Lena signs a work form with a steady hand.
-
-△ [MONTAGE] Lena in a staff mirror, fitting a dark wig — her own face disappearing under it.
-
-△ [MONTAGE] A printed schedule on a corkboard: CROSS ENGAGEMENT BLESSING — FULL STAFF.
-
-## EP8 - S#2  Early Evening / Interior / Cross Manor · Service Wing
-Characters: Lena, catering staff
-
-△ Catering staff in white stream through the service wing. Among them, Lena — the dark wig, a catering uniform, a steam bag in her hand, her cracked phone in her apron pocket.
-
-LENA (under her breath, to herself): Get her alone. Real face on camera. Don't blow it.
-
-## EP8 - S#3  Continuous / Interior / Cross Manor · Bridal Room C
-Characters: Lena, Mara
-
-△ Lena sets the bag down. Mara sits at the vanity, back to her, sliding pearl earrings in.
-
-MARA (bored, snapping fingers without looking): Steam bag. Closet. Don't make me say it twice.
-LENA (her own voice): Hi, Mara.
-
-△ Mara's hand stops on the second earring.
-
-△ In the vanity mirror — Mara's eyes find the catering girl behind her.
-
-MARA (smug, mocking, not turning): Took you longer than I thought. Twenty years I watched you. You were always slow.
-
-△ Lena locks the door — click. Mara turns: the same face, under a dark wig.
-
-LENA (flat): Take off the pendant.
-MARA (snarling, taunting): Make me. Look at you — rent-a-waiter in a wig. Nobody out there will believe a word.
-
-△ Lena lunges. Mara swings the hairbrush at her head.
-
-△ Lena ducks, catches Mara's wrist, and twists. The brush flies into the mirror — crack.
-
-△ Mara shoves Lena back. The sweet thing is gone — Mara's real face out, snarling.
-
-△ Lena holds her phone up, recording. She slaps Mara open-palmed. Mara's lip splits on her own teeth.
-
-MARA (blood, snarling, then the ugly grin): You crazy bitch. (through the blood) Why would I keep taking your little gifts when I could just take everything? Your house, your money, your man. So I did. Because I could.
-LENA (quiet): You were my best friend.
-MARA (vulgar, dismissive): You were a dumb rich cunt and I was bored. Best friend. Please. You were my paycheck.
-
-△ Lena steps back, phone steady. Mara drops to the floor — deliberate, graceful.
-
-MARA (screaming at the door, instant tears): HELP — SHE'S HURTING ME — GUARDS —!
-
-△ Footsteps thunder. The door rattles.
-
-## EP8 - S#4  Continuous / Interior / Cross Manor · Bridal Room C  [PAYWALL]
+## EP8 - S#1  Early Evening / Interior / Cross Manor · Bridal Room C
 Characters: Lena, Mara, guards
 
-△ The lock tears out of the frame — the door kicked open. Two of Victoria's guards. Mara on the floor, performing collapse, blood on her mouth.
+△ Catering crews in white stream through the service wing. Among them, one dark-wigged server peels off toward the bridal wing — Lena, in a stolen uniform, a staff badge lifted off the loading dock clipped to her chest.
 
-MARA (weeping): She came at me — please — get her out —
+LENA (V.O., low): Take back my mother's necklace. Look her in the face once. Then I stop chasing.
 
-△ Cuffs go on Lena. Her phone hits the marble; a Cross guard pockets it.
+△ Lena slips into Bridal Room C and turns the lock — click. Mara sits at the vanity, back to the door, sliding a pearl earring in.
 
-△ The guards drag Lena down the staff corridor behind the ballroom. A quartet plays somewhere ahead.
+MARA (bored, not looking, snapping her fingers): Steam the train and get out. Don't make me say it twice.
+LENA (her own voice, quiet): Hello, Mara.
 
-△ The blessing dais. Mara already beside Ethan — lip blotted clean, the sweet smile back on.
+△ Mara's hand stops on the earring. In the mirror, her eyes find the dark-wigged server behind her.
 
-△ Lena throws her body sideways. One guard's grip slips. She crashes through the ballroom doors, the edge tearing her knuckles open.
+MARA (smug, slow, not turning): Took you long enough. Twenty years I watched you crawl after me. Always so slow.
 
-## EP8 - S#5  Continuous / Interior / Cross Manor · Ballroom
+△ Mara stands and turns — the same face, looking back at its own reflection in a wig.
+
+LENA (low, steady): You're wearing my mother's necklace. You're sleeping in my bed. You put my name on a wedding invitation. (beat) Give me back the necklace. That's all I came for.
+MARA (lifting the pendant off her own chest, dangling it, delighted): This little gold heart? I had it on last night while your Ethan was inside me, in your sheets, moaning your name. He likes it on me. (closing her fist around it) It's mine now. Same as the rest of you.
+LENA (stepping in, hand out): It was my mother's. Take it off.
+
+△ Lena holds her open hand between them. She does not touch Mara.
+
+MARA (sweet, vicious, backing toward the wall): You want it? Come peel it off me. Put one mark on this pretty face. (smiling wide) Go on. I'll scream loud enough to bring the whole wedding running, and they'll drag you out by your wig.
+
+△ Lena's open hand hangs in the air. She looks at it. She lowers it.
+
+LENA (quiet, even): No. (beat) Not this time. You don't get the show.
+
+△ Mara waits for Lena to swing. Lena doesn't.
+
+△ Then Mara's face goes flat and calm. She rakes her own nails down her own forearm — hard, four red welts springing up — and bites down on her own lip until it splits. Then she drops to the floor.
+
+MARA (screaming at the door, tears instant): HELP — SHE'S HURTING ME — SOMEBODY — HELP —!
+
+△ Boots thunder down the corridor. The lock tears out of the frame — two of Victoria's guards. Mara on the floor, blood on her arm, blood on her mouth, sobbing perfectly.
+
+MARA (weeping, pointing up at Lena): She came at me — get her off me — please —
+
+△ Cuffs snap onto Lena's wrists. She does not stop saying her own name as they drag her up.
+
+## EP8 - S#2  Continuous / Interior / Cross Manor · Blessing Floor
 Characters: Lena, Mara, Ethan, Victoria, guests
 
-△ The music stops. Every face turns. Lena — catering uniform, cuffed, blood on her knuckles, hair half out of the wig.
+△ The guards haul cuffed Lena out of the bridal wing — straight through the edge of the engagement blessing. Guests with champagne. A string quartet. Ethan and Victoria near the dais. Every head turns. Phones come up.
 
-LENA (shouting, voice cracking): I'M LENA STERLING! THAT WOMAN HAD SURGERY TO LOOK LIKE ME! SHE STOLE MY FACE!
+△ Mara is already at Ethan's side, lip blotted, the sweet smile back on, the bleeding arm cradled to her chest.
 
-△ Silence. Forks in the air. Phones up.
+LENA (cuffed, dragged, shouting): I'M LENA STERLING. That woman drugged me and paid a surgeon to steal my face. She's wearing my mother's necklace right now — look at her neck —
 
-△ Mara, at the podium, doesn't move for one full second.
+△ The room stares. Forks stop halfway. Phones film.
 
-MARA (into the mic, breaking voice): Oh god. Somebody help her.
+MARA (into Ethan's chest, weeping, loud enough to carry): She got into my room — she said she'd kill me in my dress — look what she did to my arm —
 
-△ Mara steps off the dais and walks toward Lena like a friend toward a wounded animal — tears already on Mara's cheeks, real-looking.
+△ Mara lifts the bleeding forearm for the room. Gasps ripple through the guests.
 
-MARA (soft, all sweetness): She's been off her meds. Her mother died and she never came back from it. Please — don't film her like this —
+△ Ethan shoves through to Mara, takes her bleeding arm in both hands, and rounds on Lena, eyes gone black.
 
-△ [PHONE POV] A guest's vertical phone screen frames it: Mara's open hands reaching for Lena, tears down her cheeks.
+ETHAN (low, shaking, just for Lena): You put your hands on my wife. (louder, to the room) You bought her face, and now you want her blood too, you filthy knockoff? (to the guards) Get it OUT of my house. If it comes near her again I'll handle it myself.
 
-△ [ECU] Victoria at the rail, already nodding.
+LENA (screaming as she's hauled back): SHE TOOK THAT NECKLACE OFF MY NECK WHILE I WAS DRUGGED — ASK HER WHERE SHE GOT MY FACE —
 
-△ Ethan steps down from the dais, buttons his jacket, and stops in front of Lena. He looks at her one more time. Then past her, at the guards.
+△ Victoria, at the rail, nods the guards on, bored. The doors swing shut on the music. Mara is already sobbing prettily into Ethan's shoulder, the whole room folding around her.
 
-ETHAN (low, just for her, disgusted): I told you what would happen. (to the guards) Get it out of my house.
-
-△ The guards drag Lena back. Her heel scrapes a long ugly streak across the parquet.
-
-LENA (screaming as she's pulled out): ASK HER WHAT THE WORDS INSIDE MEAN — ASK HER —
-
-△ The doors close. The music resumes. Mara is already sobbing into Ethan's shoulder.
-
-## EP8 - S#6  Night / Exterior / Cross Manor · Service Road · Continuous
-Characters: Lena, two men · (then: a man in the car)
+## EP8 - S#3  Night / Exterior / Cross Manor · Service Road · Continuous
+Characters: Lena, two men
 
 △ A side door opens. A guard uncuffs Lena and shoves her out into the dark service road. The door slams.
 
-△ Lena stands alone in the rain. No phone. Blood drying on her knuckles.
+△ Lena stands alone in the rain. No phone. Red marks where the cuffs bit.
 
 △ Two men peel away from the dispersing crowd and follow her down the dark stretch past the hedges — phones out, grinning.
 
 MAN 1 (circling her, mock-friendly): Hey, movie star. No purse, no phone, no name. Where are you sleeping tonight?
-MAN 2 (closer, filming, leering): Face like that and nobody to call. Smile for the camera, beautiful. Let's make it worth something.
+MAN 2 (closer, filming, leering): Pretty face, nobody to call. Come on, sweetheart — show us a good time. Make the video worth something.
 
 △ Man 1 catches Lena's wrist and slams her back against the wall. Lena claws at his hand.
 
@@ -531,29 +484,30 @@ MAN 1 (close, laughing): You'll what? Scream? Nobody believes a word you say. We
 
 MAN 2 (filming, leering): Hold her still. This one's gonna sell.
 
-△ Lena screams. Man 1's palm clamps over her mouth.
-
-△ Headlights flood the stretch. A black car cuts across the curb, hard.
-
-△ A man steps out of the light and doesn't slow down. He takes Man 1 by the hair and puts Man 1's face into the brick. The man drops.
-
-△ Man 2 bolts, phone and all.
-
-△ The man looks at Lena.
-
-MAN (flat): Get in.
-LENA (raw, backing up): Who the hell are you?
+△ Lena screams. Man 1's palm clamps over her mouth. Man 2 keeps filming, grinning down at her.
 
 [END HOOK]
-△ The man holds the car door open. Rain runs off the roof between them.
-
-MAN (even, unhurried): The only person in this city who knows you're not crazy.
+△ [ECU] Lena's eyes — wide, no one coming. Rain. The phone light in her face. The hand on her throat tightens.
 
 Hard Cut.
 
 ---
 
-## EP9 - S#1  Night / Interior / The Black Car · Continuous
+## EP9 - S#1  Night / Exterior / Cross Manor · Service Road · Continuous  [PAYWALL]
+Characters: Lena, two men, Noah
+
+△ Headlights flood the stretch. A black car cuts across the curb, hard.
+
+△ A man steps out of the light and doesn't slow down. He takes Man 1 by the hair and puts his face into the brick. The man drops.
+
+△ Man 2 bolts, phone and all.
+
+△ The man pulls Lena up out of the wet and holds the car door open. Rain runs off the roof between them.
+
+MAN (even, unhurried): I know you're the real Lena Sterling. Get in if you want your life back.
+LENA (raw, backing up): Who the hell are you?
+
+## EP9 - S#2  Night / Interior / The Black Car · Continuous
 Characters: Lena, Noah
 
 △ Lena sits pressed against the far door, dripping, fists closed. The man drives. Fast, calm.
@@ -562,7 +516,7 @@ Characters: Lena, Noah
 
 LENA (stunned, quiet): ...You're Noah Keene. You're on magazine covers.
 
-△ [NAME] Noah Keene / Investigator
+△ [NAME] Noah Keene / Billionaire
 
 NOAH (eyes on the road): I was at that party tonight. I watched them drag you across the floor.
 LENA (bitter): Everyone watched. Eight million people watched.
@@ -570,11 +524,11 @@ NOAH (flat): They watched the wrong woman.
 
 △ Lena goes still.
 
-NOAH (finally looking at her — blunt, no warmth wasted): Every gala for three years, you held your glass in your left hand. The woman in that ballroom tonight signed the guest book with her right hand. They bought your face. They forgot your hands.
+NOAH (finally looking at her — blunt): I'm not here to prove anything. I watched them throw the real one out in the rain and toast the fake. (beat) The whole room saw a lunatic. I've watched you for three years — I saw you.
 LENA (staring at him): Three years. You watched me for three years?
 NOAH (eyes back on the road, even): You were engaged. (beat) You're not anymore.
 
-## EP9 - S#2  Night / Interior / Noah's Penthouse · Continuous
+## EP9 - S#3  Night / Interior / Noah's Penthouse · Continuous
 Characters: Lena, Noah · (screen: Mara)
 
 △ A glass wall with the city behind it. Lena stands dripping in the middle of the room, not sitting down.
@@ -583,15 +537,12 @@ Characters: Lena, Noah · (screen: Mara)
 
 NOAH (into the phone, even): The penthouse has a guest. Lena Sterling. Whatever she asks for. (beat) You heard the name right.
 
-NOAH: Closet's stocked by morning. Card's on the counter. Driver's downstairs when you want him.
 LENA (small): I can't pay any of this back.
 NOAH (matter-of-fact): I didn't ask you to. She's spending your money in your apartment right now. I'm not going to let you stand around in a catering uniform while she does it.
 LENA (low): Why. You could hand me over to the Crosses and be their hero.
-NOAH (flat): I put money on you the night I first saw you. I've never bet wrong. Don't make this the first time.
+NOAH (flat): I've never once been wrong about a person. I'm not wrong about you.
 LENA (low): Then I go to the police.
-NOAH (flat): Today you're the crazy woman who attacked a bride. Whatever you bring them, that's all they see.
-LENA (quiet): So the truth doesn't matter.
-NOAH (level): Not yet. Nobody's checking her story — they all believe it. So first we make them doubt her.
+NOAH (flat): Today you're the crazy woman who attacked a bride. Whatever you bring them, that's all they see. Nobody's checking her story — they all believe it. So first we make them doubt her.
 
 △ A wall screen, muted, lights up with a push alert. Noah turns it on.
 
@@ -607,19 +558,19 @@ LENA (flat): She just called my dead mother hers. On live TV. And they clapped.
 
 △ A long beat. Lena lifts her head.
 
-LENA (cold): She's terrified of one thing — getting caught faking it in front of a full room. Tonight I caught her on my phone, and her people grabbed it before the video could upload anywhere. So I stop screaming. Next time it's a camera they can't reach. Live. With the whole country watching her face crack.
+LENA (cold): Every time I scream the truth, I'm the crazy one and she's the victim. So I stop screaming. (beat) She's got everything now — and she still won't be able to stop reaching for more, right in front of everyone. That's where she breaks. Not me.
 NOAH (holding her eyes): Now you sound like a Sterling.
 
-△ The new phone on the counter buzzes — her old account, already signed in.
+△ Noah sets a clean phone in Lena's hand. On the screen — her own stolen account, public to the whole city: Mara, living as Lena, posting as Lena.
 
-△ [INSERT] Phone screen — Lena's thumb starts typing a post. A gray banner drops over it: POSTING RESTRICTED — ACCOUNT UNDER REVIEW.
+LENA (flat): My face, my friends, my photos — out there for everyone. The password stopped being mine the night she took it. I can't even get in.
 
-LENA (flat): I can see my whole life. I can't say one word in it.
+△ Lena's thumb finds the one number she still knows by heart. She types: I'm alive. I'm coming for all of it.
 
-△ [INSERT] Phone screen — UNKNOWN (text): Saw you on TV tonight. You looked insane. Wedding's in three weeks — I'd invite you, but security has my photo. Sleep good. 😘
+△ [INSERT] Phone screen — three dots, then MARA: Saw you on TV tonight. You looked insane. Wedding's in three weeks — I'd invite you, but security has my photo. Sleep good. 😘
 
 [END HOOK]
-△ Lena types nothing. She turns the phone face-down on the counter.
+△ Lena sets the phone face-down on the counter.
 
 LENA (to Noah, steady): Three weeks. That's enough.
 
@@ -634,7 +585,7 @@ Characters: Lena, Hector, two tenants
 
 △ [NAME] Hector / Doorman
 
-LENA (soft): Hector. It's me. There's a box of my mother's things in 14B I couldn't carry last time. I'll grab it and go.
+LENA (soft): Hector. It's me. My mother's box is gone from my closet. I need to know who carried it out, and when.
 
 HECTOR (careful): Miss Sterling came by last night. With Mr. Cross. She said you'd come for her mother's things.
 
@@ -679,15 +630,15 @@ MARA (bored, contemptuous): Why do they keep letting her near MY building? Her f
 
 △ A floor manager points at Mara. A red ON AIR light pops on. Mara smiles, then bursts into soft tears.
 
-MARA (on screen, sweet, dabbing one eye): I forgive her. I do. I just pray somebody gets her help. (softer) My mother always said I had her hands. I feel her every time I look down.
+MARA (on screen, sweet, dabbing one eye): I forgive her. I do. I just pray somebody gets her help.
 
 △ In the car, Lena freezes, staring at the phone.
 
-LENA (quiet, the tears stopping): Mom hated her own hands. She kept them out of every photo she ever took.
+LENA (quiet, the tears stopping): She's crying in my bed, wearing my mother's pendant, asking the whole city to pity her.
 
 △ Lena drags the clip back and watches Mara's mouth say it again.
 
-LENA (low, steady now): She gets things wrong. On camera. In front of everyone. And I'm the only one alive who knows it's wrong.
+LENA (low, steady now): She cries on cue and eight million people believe her. (beat) I can't out-cry her. (cold) So I stop crying. I start watching.
 
 NOAH: You stopped crying.
 LENA (flat): Her first mistake. (beat) I want more.
@@ -725,30 +676,19 @@ Characters: Lena, Noah · (screen: Mara)
 
 △ [INSERT] Phone screen — Mara's feed. Mara in Lena's closet, racks of her own new dresses behind her, Helena's jewelry laid out on Lena's bed. Caption: *Healing. Grateful for my family. 🤍*
 
-LENA (flat, to the screen): That's my mother's box. Hector wouldn't let me up for it, and she's got it spread out on my bed for likes.
+LENA (flat, to the screen): That's my mother's box — off my own shelf. She's got it spread across my bed for likes.
 
-△ [INSERT] Phone screen — a live Q&A. A fan's question scrolls up: *what did your mom call you?* Mara answers without a pause. Hearts flood the screen.
-
-MARA (on screen, sweet): Princess.
+△ [INSERT] Phone screen — a live Q&A, hearts flooding. Mara answers every soft question without a blink, sweet and word-perfect.
 
 △ Lena watches the phone. Noah sits beside Lena, not touching.
 
-LENA (flat): Mom called me bug. (beat) Princess is what SHE calls me.
-
-△ [INSERT] Phone screen — Mara raises a hand to her face. A diamond bracelet on her left wrist.
-
-LENA (slow): That's my mom's bracelet. She's wearing it on the wrong wrist. Mom broke her left wrist as a kid — it healed thick, the band never closed over it. She only ever wore it on the right.
-NOAH: So every time she puts your mother on, she gets it wrong — in front of everyone.
-LENA (quiet): And nobody knows but me.
-NOAH (quiet): Two of us, then.
-
-△ Lena freezes the feed on the bracelet.
-
-LENA (slow): Every time she opens her mouth about Mom, she gets it wrong. So I keep her talking.
+LENA (flat): Look at her. My closet, my mother's rings, my own front door — and she's loving every second.
+NOAH: So take it from her.
+LENA (slow): Then I stop chasing her. I put her next to the money.
 NOAH: Then keep watching.
 
 ## EP11 - S#2  Morning / Interior / Noah's Penthouse · Next Morning
-Characters: Lena, Noah · (TV: Tessa, Host)
+Characters: Lena, Noah · (TV: Tessa, Host · intercut: Mara)
 
 △ A talk show plays on the wall TV. Lena sits in front of it.
 
@@ -762,8 +702,8 @@ LENA (barely): Tessa held my hair the night my mother died. Now she's making me 
 NOAH (low): She sold you again.
 LENA (cracking): My mom's voice is in my head telling me to stand up straight and just say it. But every time I say I'm Lena, I'm just the stalker who can't let go.
 NOAH: Then stop saying it to them.
-LENA: To who, then.
-NOAH (level): To me. In here you don't have to prove anything to anyone.
+LENA: Then who?
+NOAH (level): Me. In here you don't have to prove anything to anyone.
 
 △ Lena turns to Noah.
 
@@ -772,40 +712,28 @@ NOAH (certain): I know.
 
 △ Lena's phone buzzes on the table.
 
-△ [INSERT] Phone screen — UNKNOWN NUMBER. Text: *Saw you on TV this morning. Watched it from your tub. Oh — and I changed your sheets. Ethan kept saying the bed smelled like someone else. Hope you don't mind. 🤍*
+△ [INSERT] Phone screen — UNKNOWN NUMBER. Text: *Saw you on TV this morning. Watched it from your tub. I changed your sheets — they reeked of you. Ethan likes them better now they smell like me. 🤍*
 
-LENA (reading, hollow): Someone else. (beat) In my own bed, I'm someone else.
+LENA (reading, cold): She's in my bed, sleeping with my fiancé, while I'm locked out. (beat) I'm going to make her pay for every second.
 
-△ Lena types.
+△ Lena types one line and sends it.
 
-△ [INSERT] Phone screen — Lena's reply: *Mom's bracelet goes on the RIGHT wrist. She broke the left one — the clasp never fit it. You've worn it wrong on every camera in the city.*
+△ [INSERT] Phone screen — Lena's reply: *You can wear my face. You'll never sound like me when it counts.*
 
-△ [INSERT] Phone screen — the typing dots appear. Stop. Start again.
+△ [INSERT] Phone screen — the typing dots appear. Stop. Start again. Then: NUMBER BLOCKED.
 
-△ [INTERCUT] Lena's bedroom — Mara on the bed, phone in hand, reading the text again.
-
-MARA (V.O.): How does she know which wrist? (beat) What else does she know?
-
-△ [INSERT] Phone screen — Mara's reply: *Thanks, sweetie. Taking Mom's bracelet to the jeweler today — resizing it for my wrist. She'd want it worn, not sitting in a box. Hope you don't mind. 🤍*
-
-△ [INSERT] Phone screen — NUMBER BLOCKED.
-
-NOAH: Why tip her off?
-LENA (shaking, cold): Because now I know she reads every word I send her. And the old clips don't lie — she wore the bracelet wrong on every camera in the city. Those are mine.
-
-△ Hours later. Lena scrolls to Mara's newest post — Mara's hand against her cheek, the bracelet on her right wrist, fitting perfectly. Caption: *Resized to keep her close. Wearing her every day. 🤍*
+NOAH: You rattled her.
+LENA (cold): Blocked me in four seconds. She reads every word I send. (beat) Good. Let her sit in my apartment knowing I'm not going anywhere.
 
 [END HOOK]
-LENA (quiet, to the screen): She cut up my mother's bracelet to fit her own wrist.
-
-LENA (cold, steady): Keep fixing the little things, Mara. You can't fix the way you laugh.
+LENA (quiet, to the dark screen): Keep touching my money, Mara. One day you'll do it with the mic still on.
 
 Hard Cut.
 
 ---
 
 ## EP12 - S#1  Morning / Exterior / TV Studio · Street Doors
-Characters: Lena, First Woman, Second Woman, Doorman
+Characters: Lena, First Woman, Second Woman, Doorman, Man in Suit
 
 △ The glass doors of the network where Tessa's show tapes. Behind the glass, a lobby screen loops yesterday's clip of Tessa mid-tear.
 
@@ -850,13 +778,13 @@ LENA (cracking): And the more I scream it, the crazier I look.
 
 LENA (low): Every time I cry in public she clips it and posts it.
 NOAH: So stop handing it to her.
-LENA (slow): I watched her practice my laugh in that clinic mirror. She's terrified somebody'll catch her faking it.
-NOAH: So stop proving you're Lena. Make her prove she isn't.
-LENA (cold, decided): I use what she keeps getting wrong. My mother. The things she can't fake.
+LENA (slow): She's got my name, my money, my man. But she's greedy, and she's cruel — and greedy, cruel people show it to the wrong room.
+NOAH: So stop chasing her.
+LENA (cold, decided): I stop screaming that I'm Lena. I put her in a room full of my mother's oldest friends, cameras running, a checkbook on the table.
 
 [END HOOK]
 NOAH: Where?
-LENA (looking at him): Somewhere she can't walk away from. Something about my mother — the one thing she can't fake.
+LENA (looking at him): My mother's memorial. She has to stand up there and play the heartbroken daughter — right next to the money.
 
 Hard Cut.
 
@@ -869,22 +797,22 @@ Characters: Lena, Mara, Noah, Ethan, Victoria, Donor, guards, donors, press
 
 △ Noah walks Lena in at the back — hood up, a borrowed press badge. His hand flat on Lena's spine.
 
-MARA (at the mic, sweet): Before they put her name on it, my mother opened this lunch every year. She stood right up there and led her favorite hymn, the whole room singing along —
-LENA (on her feet, loud, steady): That's a lie. My mother never knew a single hymn — she couldn't read music, she just hummed a beat behind everyone. You'd know that if you were her daughter. You're not.
+MARA (at the mic, sweet): Before they put her name on this foundation — I promise you all, I'll protect my mother's legacy. Every last dollar of it.
+LENA (on her feet, loud, steady): Every dollar — that's the only part you mean. (to the room) She buried my mother, had the accounts frozen and herself put in control before the flowers were dead, and locked the family out. She's not grieving. She's cashing out.
 
 △ The room goes still. Two older donors turn to each other.
 
-DONOR (low): ...that's true. Helena never knew the first verse of anything.
+DONOR (low): ...the accounts did move awfully fast. I said so at the time.
 
 △ Near the front, Ethan stares at Lena. The room turns toward Lena.
 
 △ Mara bursts into tears.
 
-MARA (into the mic, weeping): Oh my god. She's been digging through my dead mother's things. How long have you been studying us?
+MARA (into the mic, weeping): Oh my god — she's accusing me of robbing my own dead mother. At her memorial. How much more do I have to take from this woman?
 
 △ The room turns back toward Mara. The two old donors do not clap. They keep looking at Helena's portrait.
 
-VICTORIA (rising, grand, to the room): Nonsense. Helena sang like an angel — I heard her myself a hundred times. (cold) This one stole family stories and practiced them. Get her out.
+VICTORIA (rising, grand, to the room): Nonsense. This creature bought my son's bride's face and came here to scream for money. (cold) Get her out.
 
 △ Two guards close on Lena and grab Lena's arms.
 
@@ -892,16 +820,16 @@ NOAH (stepping in front of Lena, low and firm): Hands off her. Now.
 
 △ The guards stop. The room watches Noah shield Lena.
 
-VICTORIA (sad, to a reporter): That poor man. She's gotten inside his head too.
-LENA (voice rising, losing the room): I'm not studying her. Those are MY memories —
+VICTORIA (sad, to the cameras): That poor man. She's gotten inside his head too.
+LENA (voice rising, losing the room): I'm not after her. That's my mother's name on that check —
 
-△ Ethan stares at the pendant on Mara's throat, then at Mara's face.
+△ Ethan watches Mara's face — the tears running, but the eyes flat, already counting who in the room is still on her side.
 
-ETHAN (low, to Mara only): You told me your mother taught you that hymn. You sang the first verse for me.
+ETHAN (low, almost to himself): You're not even crying. You're counting heads.
 
-△ Mara turns to Ethan, in tears.
+△ Mara turns to Ethan, tears right back on.
 
-MARA (small, broken, to Ethan): I can't even grieve her without that woman crawling through every memory I have. Don't you start too.
+MARA (small, broken, to Ethan): I can't even mourn her without that woman screaming I'm a thief. Don't you turn on me too.
 
 △ Ethan looks at Mara a beat longer, then puts his hand on her back and turns her away from the room.
 
@@ -913,18 +841,18 @@ Characters: Lena, Noah
 △ Noah walks Lena out a side door before more security reaches Lena. Lena shakes in the passenger seat.
 
 LENA (shaken): For one second they heard me. Then she cried and I was the crazy one again.
-NOAH (even): Not all of them. The two old ones by the portrait — they didn't clap when you left. And they never looked at her again.
+NOAH (even): Not all of them. Two of your mother's oldest friends watched her perform and didn't buy a second of it. (beat) You don't need the whole room. You need them.
 LENA (flat): That's nothing.
-NOAH: It's not nothing. Right now she's memorizing your mother's life, scared of what you'll catch her on next.
+NOAH: It's not nothing. Right now she's playing the grieving daughter — and she's greedy. Sooner or later she grabs in front of people who won't look away.
 LENA (steadier): Then next time I make her lose her temper where they can't cover for her.
 NOAH: Now you sound like you're getting it all back.
 
 [END HOOK]
-△ [INSERT] An evening news clip. Chyron: *STALKER KNEW PRIVATE STERLING DETAILS — FAMILY "DEEPLY DISTURBED."*
+△ [INSERT] An evening news clip. Chyron: *STALKER STORMS MEMORIAL — ACCUSES GRIEVING BRIDE OF FRAUD.*
 
 △ Lena watches the clip from the floor.
 
-LENA (quiet): The things only a daughter knows. That's the proof they used to bury me.
+LENA (quiet): Every time I push her she cries and I'm the monster again. (beat) So next time I crack her where they can't edit it out.
 
 Hard Cut.
 
@@ -939,61 +867,44 @@ Characters: Mara · (phone: press contact)
 MARA (into the phone, low, vicious): They're still talking about yesterday because of HER. Set up the grave visit this morning. Get me every camera you can. I'll cry, they'll believe every tear — and the lunatic disappears for good.
 
 ## EP14 - S#2  Morning / Exterior / Glenmoor Cemetery
-Characters: Lena, Mara, Groundskeeper, Young Reporter, press
+Characters: Lena, Mara, Groundskeeper, press
 
-△ Helena Sterling's headstone. A small press pool in a half-circle. Mara in black, arms full of white lilies, kneeling.
+△ Helena Sterling's headstone. A small press pool in a half-circle. Mara in black, an armful of white flowers, kneeling.
 
-MARA (at the headstone, soft, for the cameras): Hi, Mom. I brought your favorite.
+MARA (at the headstone, soft, for the cameras): Hi, Mom. Look at them all, here for you. For us.
 
-△ A reporter writes it down. Behind the tree line, Lena in a dark hood grips a branch until it cracks.
+△ Behind the tree line, Lena in a dark hood watches, still. She does not step out.
 
-LENA (V.O.): My mother hated lilies. Those were the flowers at her own mother's funeral.
+LENA (V.O.): I'm done handing them clips of me screaming. Today I just watch.
 
-△ Mara lays the lilies on the stone and kisses it. The cameras push in close on Mara.
+△ Mara lays the flowers on the stone and kisses it. The cameras push in close.
 
-△ Lena steps out from the tree line into the open.
+△ An aide crouches and murmurs in Mara's ear. Mara turns her back to the cameras to answer — and forgets the mic by her knee.
 
-LENA (low, shaking): Those are funeral flowers. She hated them. You don't even know what you put on her.
+MARA (low, sharp, to the aide, not clocking the mic near her knee): How much longer do I have to kneel in this dirt? Tell the foundation the check clears today or there's no speech.
 
-△ The whole press pool swings to Lena.
+△ Three feet back, two of Helena's oldest friends — come to mourn, not to clap — go still. They heard it: the check, the dirt, the bored voice under the tears.
 
-MARA (stepping back, frightened, perfect): Please. Not here. Not at my mother's grave.
+△ Mara catches herself. The tears snap right back on for the cameras. Too late for the two who heard.
 
-△ A groundskeeper steps between Lena and Mara.
-
-GROUNDSKEEPER (hard): Ma'am. Back up. Have some respect.
-
-△ Lena lifts both hands and turns to walk out on her own.
-
-△ Mara crosses the grass and pulls Lena into a hug, arms wide for every lens. Mara's mouth goes to Lena's ear.
-
-MARA (low, mocking, only to Lena): She's dead, sweetheart. She can't help you. Nobody can. I'm her daughter now and there's nothing you can do about it. Smile for the cameras.
-LENA (barely, only to Mara): She was MY mother. One day a camera's going to catch what you really are.
-
-△ Lena pulls free and walks.
-
-△ Mara stands alone, dabbing her eyes for the room.
-
-△ A few feet back, one young reporter holds her phone down at her side, not filming. The young reporter watches Mara.
-
-△ Walking out, Lena's eyes catch the one lens in the cemetery not pointed at her — the young reporter's.
+△ From the tree line, Lena watches the two women trade a long look across the grave.
 
 ## EP14 - S#3  Morning / Interior / Noah's Car · Continuous
 Characters: Lena, Noah
 
 △ Lena gets in beside Noah and shuts the door. Lena is shaking.
 
-LENA (shaken): She put the wrong flowers on my mother. I didn't scream. I walked. And tonight they'll still say I attacked her.
-NOAH (flat): Right now they all follow her. She doesn't know how thin the act is.
-LENA (bitter): And on camera she held my hands while she did it.
-NOAH: One day she says the wrong thing in front of the wrong people. I'll have you there.
-LENA (slow): One of them put her phone down. The young one. She watched Mara the whole time, not me.
-NOAH: Then remember her face.
+LENA (low, steady): I didn't scream this time. I watched. (beat) She knelt at my mother's grave and asked when the check clears. Out loud — in front of the women who loved my mother.
+NOAH (flat): And they heard her.
+LENA (slow): She doesn't even hear herself do it.
+NOAH: Then stop chasing her through the streets. Put her in those rooms and let her reach.
 
 [END HOOK]
-△ [INSERT] Phone screen, evening — a glowing photo of Mara at the grave. Headline: *"LENA" HONORS LATE MOTHER — STALKER DISRUPTS PRIVATE GRIEF.*
+△ [INSERT] Phone screen, evening — a glowing photo of Mara at the grave. Headline: *"LENA" HONORS LATE MOTHER AT GRAVESIDE.* Thousands of hearts. The whole country crying with her.
 
 △ Lena turns the phone face-down on her knee.
+
+LENA (quiet): They all love her today. (beat) Wait till they watch her grab for the money with the whole room still looking.
 
 Hard Cut.
 
@@ -1016,7 +927,10 @@ NOAH (low): Lena.
 
 △ Noah's mouth goes to the bare place at Lena's throat. Lena grabs his shoulders and stops shaking.
 
-LENA (breath, against Noah's neck): Right now — I'm nobody's copy. I'm just me.
+LENA (breath, against Noah's neck): Say my name.
+NOAH (low, mouth at her throat): Lena.
+LENA: She's got it plastered on every screen in this city.
+NOAH (low): She's got the name. I've got you in my bed. (beat) Lena.
 
 △ [ECU] Noah's hand spread flat at the small of Lena's back, pulling Lena down onto him.
 
@@ -1026,15 +940,15 @@ LENA (breath, against Noah's neck): Right now — I'm nobody's copy. I'm just me
 
 △ After. Lena's cheek on Noah's chest. Noah's hand in Lena's hair.
 
-LENA (quiet): Felt like me again. (beat) Even just for an hour.
-NOAH (low): Then we do this every night. Until you get to be Lena out there too.
+LENA (quiet): In here she doesn't exist.
+NOAH (low): Tomorrow she grabs too much in front of the wrong people. I'm right next to you when she does.
 
 [END HOOK]
 △ [INSERT] Across town — Mara at her vanity, scrolling. On the phone screen: a paparazzi shot, Noah Keene's hand at the small of an unnamed woman's back, the two of them leaving his building. The woman's face is turned away.
 
 △ Mara goes still.
 
-MARA (low, seething): Of course she ran to Noah Keene. She lost everything — right down to the face on her head — and she STILL gets a man holding her like that. (slamming the phone down) She doesn't get to be happy. Not while I've got her whole life.
+MARA (low, seething): Of course she ran to Noah Keene. She lost everything — right down to the face on her head — and she STILL gets a man holding her like that. (slamming the phone down) She doesn't get to be happy. Not while I've got her name, her man, her face.
 
 Hard Cut.
 
@@ -1134,53 +1048,45 @@ Hard Cut.
 ---
 
 ## EP18 - S#1  Night / Interior / Helena Sterling Memorial Gala · Floor · Continuous
-Characters: Lena, Mara, Young Reporter, guests
+Characters: Lena, Mara, guests
 
 △ Lena reaches the foot of the stage. The room half-turns. Mara, smiling at the mic, sees Lena coming and keeps smiling for the lenses.
 
 △ Lena doesn't shout. Lena pitches her voice just loud enough to carry.
 
-LENA (level, carrying): Twenty years copying me and you still flinch when somebody laughs right next to you. Look at you up there. They're all clapping — and you know you're a fake every single second of it.
+LENA (low, just for Mara, under the applause): Twenty years you wanted to be me. Now you've got all of it — and you still flinch every time someone says my mother's money out loud.
 
-△ [ECU] Mara's radiant face goes wrong. The sweet drops clean off.
+△ Mara keeps the smile up for the cameras and answers without moving her lips.
 
-MARA (snarling at Lena, forgetting the mic is live, ugly): Shut your fucking mouth, you jealous little nobody — nobody wants you, that's why you—
+MARA (low, through her teeth, only the front row close enough): Every cent of it is mine now. Keep pushing and I'll have you in a cell before the cake's cut.
 
-△ The room hears it. A beat of stunned quiet. Phones swing up.
+△ Only the front tables catch it. Two of Helena's old friends exchange a look. The rest of the room is still on its feet, clapping for the bride.
 
-△ Three feet back, the young reporter from the cemetery lifts her phone and films Mara's face.
-
-△ [ECU] Mara's snarl, full and ugly, on the big room screen behind her.
-
-△ [ECU] Phones swinging up across the floor.
-
-△ [ECU] The cemetery reporter filming Mara, not Lena.
+△ [ECU] Mara's smile snaps back, bright, for the cameras.
 
 [END HOOK]
-△ Mara's mouth fights back to sweet. Mara reaches up to wipe at her eyes.
+△ Lena steps back into the crowd, calm.
 
-△ The reporter keeps filming.
-
-LENA (quiet, just for Mara): There's the real you. On camera this time.
+LENA (quiet, just for Mara): There it is. (beat) That was just the front row. Next time it's the whole country.
 
 Hard Cut.
 
 ---
 
 ## EP19 - S#1  Night / Interior / Helena Sterling Memorial Gala · Floor · Continuous
-Characters: Lena, Mara, Victoria, Noah, Young Reporter, guards, guests
+Characters: Lena, Mara, Victoria, Noah, guards, guests
 
 △ Mara drops into tears — fast, wet, expert.
 
-MARA (weeping): I'm sorry — I'm sorry, she just knows exactly what to say to hurt me—
+MARA (weeping): I'm sorry — I'm sorry, she twists everything, she always has —
 
-△ The room rushes to Mara. Staff close in on Lena.
+△ Most of the room moves toward Mara. Staff close in on Lena.
 
-VICTORIA (quiet, sad, to a reporter): You see what that woman does to her. At her own mother's gala.
+VICTORIA (quiet, sad, to the nearest guests): You see what that creature does to her. At her own mother's gala.
 
-△ The crowd folds around Mara.
+△ The crowd folds around Mara — but the two women from the graveside stay in their seats, not moving.
 
-LENA (loud, over the crowd, at Mara): You cried on command. Somebody three feet away filmed you snarling first. Play it back.
+LENA (low, just for Mara, as the crowd closes in): Cry all you want. The people who loved my mother just felt what you really are. (beat) That's how it starts.
 
 △ A guard grabs Lena's arm. Noah steps in.
 
@@ -1190,7 +1096,7 @@ NOAH (even): Hands off. She's with me.
 
 △ [ECU] Mara weeping, the room folded around her.
 
-△ [ECU] The cemetery reporter standing apart from the crowd, phone sliding into her pocket.
+△ [ECU] The two old friends by the wall, heads together, glancing back at the stage.
 
 △ Behind Noah and Lena, two guests trade pitying looks at Noah's back.
 
@@ -1199,19 +1105,19 @@ Characters: Lena, Noah
 
 △ Lena gets in beside Noah. Noah pulls out.
 
-LENA (charged): Did you see her face? For one second the whole room saw her. The real one.
-NOAH (even): They saw it. By morning they'll swear they didn't.
-LENA (steady): One camera saw her real face tonight. That's all I needed.
-NOAH (quiet): Then put her in more rooms where she can slip.
-LENA (steady): And when it counts, she won't get that sweet face back on in time.
+LENA (charged): She threatened me. At the mic, smiling. (beat) Only the front row caught it — but the women who knew my mother did.
+NOAH (even): A few people saw it tonight. That's how it always starts.
+LENA (steady): They didn't move when she cried. They felt it too.
+NOAH (quiet): Then put her near that money again. A bigger room, a brighter light.
+LENA (cold): And next time, the whole country's watching when she reaches.
 
 [END HOOK]
-△ [INSERT] Morning feeds — the snarl clip everywhere, recut and slowed, captioned: *GRIEVING BRIDE PUSHED PAST HER LIMIT.* Over it, a flattering photo of Mara in tears: *STALKER TORMENTS GRIEVING BRIDE AT MOTHER'S GALA.*
+△ [INSERT] Morning feeds — Mara glowing in a tear-streaked photo, captioned *STALKER TORMENTS GRIEVING BRIDE AT MOTHER'S GALA.* The country eats it up.
 
-△ Noah turns his phone to Lena. On the screen — the cemetery reporter's post under the crying photo: *That wasn't grief. I was three feet away.* Small. Buried under the big channels. Still up.
+△ Lena scrolls past the adoring headlines, calm.
 
-NOAH (low): She won't take it back. And it won't die.
-LENA (a breath): Somebody finally looked twice. Yesterday it was nobody.
+NOAH (low): They still love her this morning.
+LENA (a breath): For now. The front row just saw what she turns into over money. (beat) Next time it won't be the front row. It'll be the whole country.
 
 Hard Cut.
 
@@ -1222,17 +1128,17 @@ Characters: Mara · (phone: Eileen)
 
 △ Mara paces her suite. On the dresser, her phone lies face-up, a call open on speaker.
 
-MARA (rattled, vicious): She knows things she shouldn't. The hymn. The flowers. She got me to snap on a live mic. People are starting to look — and I want her gone for good.
+MARA (rattled, vicious): She keeps getting under my skin and making me snap on a live mic. People are starting to look — and I want her gone for good.
 EILEEN (V.O., flat): Then stop reacting. Take something so big nobody can ever call it hers.
 
 △ Mara stops pacing.
 
-MARA (smug, the sweet voice already rehearsed): I'll put her mother's name on the foundation. Sign it "Helena's daughter" in front of the whole country. Once they all watch me cry over a dead woman like she's mine, that stalker can scream all she wants — nobody can take it back.
+MARA (smug, sweet again): I'll put her mother's name on the foundation. Sign it "Helena's daughter" in front of the whole country. Once they all watch me cry over a dead woman like she's mine, that stalker can scream all she wants — nobody can take it back.
 EILEEN (V.O., cold, pleased): Now you're listening.
 
 △ Mara hangs up. She walks to the mirror and looks at her own face.
 
-△ [ECU] Mara sweeps a strand of hair down over her left ear.
+△ [ECU] Mara studies her own face in the mirror, satisfied.
 
 MARA (low, sour): Twenty years she had all this. She never even used it right. Wasted on her.
 
@@ -1241,7 +1147,7 @@ MARA (low, sour): Twenty years she had all this. She never even used it right. W
 
 MARA (cold): Doesn't matter. After the wedding it's all mine, and nobody can touch a piece of it.
 
-△ [INSERT] On the vanity, the wedding invitation proof — LENA STERLING & ETHAN CROSS. Mara signs LENA across the approval line with her right hand, fast, like she has signed it a thousand times.
+△ [INSERT] On the vanity, the wedding invitation proof — LENA STERLING & ETHAN CROSS. Mara signs LENA across the approval line, fast, like she has signed it a thousand times.
 
 Hard Cut.
 
@@ -1250,24 +1156,21 @@ Hard Cut.
 ## EP21 - S#1  Night / Interior / Noah's Penthouse
 Characters: Lena, Noah
 
-△ Lena sits slumped on the couch. Noah sets a worn spare phone in Lena's hand.
+△ Lena sits slumped on the couch, staring at nothing.
 
-NOAH (low): You said you were forgetting her voice.
+LENA (hollow): I'm starting to forget what my own mother sounded like. And she's out there crying "Mom" into every camera in the country.
 
-△ Noah presses play.
+NOAH (low, sitting beside her): Then tell me. What did she sound like.
 
-HELENA (V.O., old voicemail, warm): Lena, sweetheart, it's Mom. Call me back when you land. I love you. Stand up straight.
+LENA (barely): She'd fix my collar before I left and say — stand up straight. Every single time. (her face crumpling) I can't hear it in my head anymore.
 
-△ Lena's face crumples and she cries, the phone pressed to her ear.
+NOAH (even, taking her hand): Then I'll say it for you. (low) Stand up straight, Lena. (beat) You're almost there.
 
-LENA (barely): Where did you—
-NOAH (even): They took your phone. They never wiped the cloud backup. You can listen — you can't post. Her people own the accounts. (beat) But her voice is yours again. This one, nobody can take.
-
-△ Lena holds the phone to her chest. Noah puts an arm around her.
+△ Lena leans into him. Noah holds her.
 
 [END HOOK]
-LENA (quiet, into his chest): She's out there putting my mother on like a costume. And you just gave her back to me.
-NOAH (certain): They took her from you. I'll keep giving her back. Whatever I can find.
+LENA (quiet, into his chest): She's wearing my mother like a costume.
+NOAH (certain): Not for much longer. Every day she's in front of more people, reaching for more than she can hold.
 
 △ [INSERT] The TV behind them, muted — Mara in white at a press wall. Chyron: THE WEDDING — COUNTDOWN BEGINS.
 
@@ -1284,7 +1187,7 @@ MARA (to an attendant, sweet): My mom always said simple. Her style. (to her ref
 
 △ Lena walks into the salon in plain clothes.
 
-LENA (level): She's even wearing the dress I always wanted.
+LENA (level): You even took the dress I wanted. You don't own a single thing on you.
 MARA (not turning, to the attendants): See? This is what I deal with. She follows me everywhere. (sweet, to Lena) Did you pick my shoes too?
 
 △ The attendants step in around Lena, blocking her path.
@@ -1296,7 +1199,7 @@ MARA (loud, delighted, for the room): I'm getting married and she still won't le
 
 △ At the door, Lena stops. She turns back and speaks low, just for Mara.
 
-LENA (quiet, just for Mara): Enjoy the fittings. Somewhere between the toast and the first dance, somebody's going to make you laugh — your real laugh. I'll be watching when it happens.
+LENA (quiet, just for Mara): Enjoy the fittings. Touch my mother's money in public again. I'll be there.
 
 △ Mara goes still in the mirror, the gown half-pinned.
 
@@ -1356,7 +1259,7 @@ Characters: Lena · (phone/intercut: Mara, Ethan's shadow)
 
 MARA (sultry, gloating): Ethan just kissed me goodnight. Slow. Hands everywhere. He thinks it's you — but it's my mouth he wants now. You should hear the way he says your name when the lights are off.
 LENA (flat): You're disgusting.
-MARA (smug): I'm comfortable. Big difference. I wear your robe, I sleep on your side, and when he says your name in the dark, I answer to it. He's reaching for you and getting me, every single night, and he can't tell. That's how much you mattered.
+MARA (smug): I'm comfortable. Big difference. Your robe's on my floor, your sheets under my back, your fiancé asleep ten feet away. He fucks me every night moaning your name and never knows. (cruel) He doesn't miss you, Lena. He misses the shape of you. And I fit perfectly.
 
 △ [INTERCUT] Lena grips the phone, knuckles tight.
 
@@ -1379,7 +1282,7 @@ NOAH (quiet, hard): He's kissing a stranger and calling it you. I know exactly w
 
 [END HOOK]
 LENA (low, against his chest): I can't even hear my own name anymore without flinching.
-NOAH (certain): Before that wedding, they'll watch her crack on camera. And the name comes back to you.
+NOAH (certain): Before that wedding, she grabs too much in front of the wrong camera. And this time she can't cry her way out.
 
 Hard Cut.
 
@@ -1392,7 +1295,7 @@ Characters: Lena, Mara, Victoria, guests
 
 △ Lena, in a catering apron and a pinned wig, slips in along the catering line. She moves toward a small circle of older women in pastel who knew Helena.
 
-LENA (low, to the circle of women): You knew my mother. Look at her — really look at her. Ask her one thing from before all this.
+LENA (low, to the woman in pearls): You loved my mother. Thirty years you sat at her table. You watched them lock the family out and put her name on everything the week she died. (low) Don't turn away. Help me.
 
 △ A woman in the circle gasps and steps back. Across the garden, without turning, Mara raises her voice for everyone.
 
@@ -1410,7 +1313,7 @@ A GUEST (backing off): Somebody — call someone —
 △ Victoria points Lena out across the garden, loud, for the crowd.
 
 [END HOOK]
-LENA (breaking, to the circle of women): You held me at her funeral. You don't know me now?
+LENA (cold, to the circle of women): You all know it's me. You're just licking her boots because she's the one with Ethan's money now.
 
 △ The garden goes silent. Every face turns toward Mara.
 
@@ -1424,13 +1327,13 @@ Characters: Lena, Woman in Pearls, guests
 
 △ Lena stands surrounded in the catering apron and pinned wig. The circle of older women in pastel stands frozen around Lena.
 
-LENA (cracking): You cried at her funeral. I stood right next to you. Look at me. You know it's me.
+LENA (cold, steady): Every one of you knows it's me. You won't say it because she's the one signing the Cross checks now. That's all this is.
 
 △ One woman turns her back. Then another. The whole circle turns away — all but one.
 
 △ An older woman in pearls holds Lena's eyes and does not turn.
 
-LENA (quiet, only to her): You braided my hair at the lake house. You know my voice.
+LENA (quiet, only to her): You knew my mother. You know this face. (beat) I'm not asking you to say it in there. I just needed one person to look at me and know it's me.
 
 △ The woman in pearls stays put while the others turn. Her eyes fill.
 
@@ -1441,9 +1344,9 @@ Characters: Lena, Woman in Pearls, Noah, guards
 
 △ The woman in pearls reaches the gate and catches Lena's hand. The woman leans in close, fast, only for Lena.
 
-WOMAN IN PEARLS (low, fast): I braided your hair every summer at that lake house. I know your voice. (a breath) I can't say it in there. They'd eat me alive.
+WOMAN IN PEARLS (low, fast, gripping Lena's hand): I don't care what they're calling you. I knew your mother thirty years, and I know whose girl you are. (a breath) I can't stand up in that garden — they'd bury me. But listen. They're putting Helena's name on the foundation, and to do it, that woman has to stand up and sign for it — in front of every donor your mother ever had. (hard) Be there when she reaches for that money. You won't be the only one watching.
 
-△ The woman in pearls presses Lena's hand once and walks off through the parked cars.
+△ The woman in pearls squeezes Lena's hand hard, then walks off fast through the parked cars.
 
 △ Noah's car stops at the gate. Noah is out and at Lena's side.
 
@@ -1451,10 +1354,8 @@ NOAH (to the guards, low): Don't put a hand on her. Move.
 
 △ Noah walks Lena out himself, past the guards.
 
-LENA (shaken): Every one of them turned away. People who held me at her funeral.
-NOAH (even): All but one.
-LENA (low): She couldn't say it inside. But she held my hand the way she used to. Somebody in that house still knows me.
-NOAH (certain): And she walked out of the bride's party to do it.
+LENA (low, charged): One of them just told me where to stand. The foundation signing — she has to grab the money in front of the whole room.
+NOAH (even): Then that's where we put her. Not to prove anything. Just let the people who loved your mother watch her reach for a dead woman's money.
 
 [END HOOK]
 △ [INSERT] Phone screen — the shower group photo online, Mara glowing at the center. One empty chair sits at the end of the row.
@@ -1481,9 +1382,9 @@ LENA (level): And you came yourself. No lawyer, no muscle — just you, parked a
 
 △ Ethan's eyes flick down Lena and back up.
 
-ETHAN (V.O.): I just checked her out. The stalker. (beat) What the hell is wrong with me?
+ETHAN (V.O.): I looked at her. (beat) God help me, I looked.
 
-ETHAN (sharp): And tell your billionaire to stay out of my wedding. Whatever Keene's doing, it isn't love. He picked you up off the street. You're not his girl — you're a stray dog he feeds. He'll get bored and dump you right back.
+ETHAN (sharp): And tell your billionaire to stay out of my wedding. Noah Keene is just using you. He found you on the street. To him, you're just a toy. He'll get bored and throw you away.
 
 LENA (quiet): You're jealous. Of him. With me.
 ETHAN (too fast): Of a stalker? Don't flatter yourself.
@@ -1496,38 +1397,10 @@ LENA (loud, to his back): You'd rather marry a stranger than admit a woman made 
 
 △ Ethan's stride breaks half a step. Ethan does not turn around. Ethan keeps walking.
 
-## EP27 - S#2  Night / Exterior / Noah's Building · Side Street
-Characters: Lena, two men, Noah · (insert: Mara, Eileen)
-
-△ Night. Lena walks the half block back from the corner store, a small bag in her hand.
-
-△ Two men step out of a doorway — too clean for the street, too casual to be lost. One already has his phone out, filming.
-
-MAN 1 (circling her, soft): There she is. The famous face.
-MAN 2 (closer, leering): Come on, beautiful. Show us what's under the coat. Make the video worth something.
-
-△ Man 1 backs Lena into the wall, one hand flat beside her head. Lena swings the bag at him; he catches her wrist.
-
-LENA (raw, loud): GET OFF — HELP—
-
-△ Noah comes around the corner at a dead run.
-
-△ Noah rips Man 1 off Lena and slams him face-first onto a parked car's hood, holding him there.
-
-NOAH (calm, to Man 2's phone): Keep filming. Get my good side.
-
-△ Man 2 bolts. Man 1 tears loose and runs, cradling his wrist.
-
-△ Noah pulls Lena against him with one arm, eyes still on the dark street.
-
-NOAH (low): Breathe. Look at me. Just breathe.
-
 [END HOOK]
-△ [INSERT] An hour later, a clip already spreading — cut to start at the slam, the cornering gone. Caption: BILLIONAIRE KEENE ATTACKS FAN IN STREET.
+△ Lena watches Ethan's back shrink down the block.
 
-△ [INSERT] Cross Manor. Mara watches the clip with Eileen, smiling.
-
-MARA (sweet): Told you. He does the work himself. Pay them double.
+LENA (V.O.): He felt it. He'll choose his pride anyway. (beat) Good. Let it eat him.
 
 Hard Cut.
 
@@ -1545,7 +1418,7 @@ NOAH (calm): I want them looking. I want every one of them to see exactly who I 
 
 △ Lena smiles. She catches it and presses her mouth flat.
 
-LENA (low): I'd forgotten what that even feels like.
+LENA (low): I'd forgotten what it's like to be looked at and not flinch.
 
 △ Two tables over, a diner lifts a phone and takes a photo of Lena and Noah.
 
@@ -1593,34 +1466,28 @@ Characters: Lena, Noah · (screen: Mara)
 
 △ Lena watches Mara's tearful statement play on the wall screen. Noah stands beside Lena.
 
-NOAH (even): She's not scared of a stalker. She's scared of you. So give her exactly the picture she's asking for — but pick who's watching it.
-LENA (steady): One reporter. The one who's already watching her.
+NOAH (even): She's not scared of a stalker. She's scared of you. So stop fighting the picture — give the cameras the crazy woman they came for. (beat) But pick what you scream while they film.
+LENA (steady): The money. Where my mother's money went. (beat) Let them laugh at the stalker and still walk away with the question.
 
 ## EP29 - S#3  Day / Exterior / Cross Manor · Driveway
-Characters: Lena, guards, Young Reporter, Mara, press
+Characters: Lena, guards, Mara, press
 
 △ Lena steps out onto the driveway, straight at the bank of cameras.
 
-LENA (loud, at the lenses): That woman paid a surgeon to steal my face —
+LENA (loud, at the lenses): Ask her how she got her hands on every dollar Helena Sterling left! Ask her who locked the real family out the week my mother died!
 
 △ Security swarms Lena before she finishes.
 
-△ Lena lets the guards take her arms and pulls hard the wrong way, on purpose. Every phone on the driveway swings to it.
-
-△ A dozen phones feed on Lena hauled and struggling.
-
-△ At a manor window above the cameras, Mara stands half behind the curtain, watching. Mara finds Lena's eyes — only Lena's — and blows Lena a small kiss.
+△ Lena lets the guards take her arms and pulls hard the wrong way, on purpose. Every phone on the driveway swings to it — but the words are already out, loud, on every clip.
 
 △ [ECU] Lena's face mid-shout, hair wild, hands clamped on a guard's arm.
 
 △ [ECU] Two guards hauling Lena back.
 
-△ Three feet off the line, the young reporter from the cemetery does not film Lena. The reporter follows Lena's eyeline up to the window — the curtain already falling back across it.
+△ At a manor window above the cameras, Mara watches from behind the curtain — dry-eyed, bored, not bothering to come down and cry where the lenses can see her.
 
 [END HOOK]
-△ The young reporter stares at the empty window, then down at Lena being dragged. Her phone stays at her side.
-
-△ [INSERT] That night — the reporter's small post: *Everyone filmed the stalker today. Nobody filmed the window.*
+△ [INSERT] That night — the clip is everywhere, captioned for laughs: the stalker screaming about money again. But under it the same question keeps coming back, thousands of times: she's crazy... so why won't anyone just say where Helena Sterling's money went?
 
 Hard Cut.
 
@@ -1633,35 +1500,31 @@ Characters: Mara · (phone: Eileen) · (intercut: Lena, Noah)
 
 MARA (small): Every time I close my eyes I see her face at that door.
 EILEEN (V.O., flat): Then put more men on the doors.
-MARA (uneasy): He looks at me sometimes like he's trying to remember something.
-EILEEN (V.O., cold): Then kiss him until he stops thinking. I raised a coward. You got the face and the ring. Stop crying because she found the better man.
-MARA (spiteful): She's got a man who'd do anything for her. She doesn't get to keep one nice thing. Not one.
+MARA (sour, jealous): Ethan's eyes keep following her. The stalker. She's on Keene's arm in diamonds and my own husband can't stop looking.
+EILEEN (V.O., cold): Then kiss him till he stops looking. I raised a coward. You got the face and the ring. Stop whining because she landed the better man.
+MARA (spiteful): She's got a man who'd burn the world down for her. She doesn't get to keep one nice thing. Not one.
 EILEEN (V.O., cold): Take her name. Take the house. Take the man. Leave her outside begging. That's how you sleep at night, baby.
 
 △ Mara taps the phone dark. Mara scrolls, then stops, thumb frozen on the screen.
 
-△ [INTERCUT] Noah's penthouse, same night. Lena sits with her phone — the clip of Mara's "my mother's hands" answer frozen on the screen.
+△ [INTERCUT] Noah's penthouse, same night. Lena sets her phone down — a single quiet post from a gala guest: *Did anyone else hear what the bride said about her mother's money?*
 
-LENA (quiet, to Noah): I can't make a whole city believe me. So I give the one reporter who looked twice a reason.
+LENA (quiet, to Noah): One person at the front table. I didn't have to shout it. They're starting to whisper it themselves.
 
-△ Lena sends the reporter one clip and one line.
+△ [INSERT] Phone screen in the dark suite — Mara staring at that same small post, two replies under it agreeing.
 
-△ [INSERT] Phone screen in the dark suite — the reporter's new post: WHY DOES THE GRIEVING DAUGHTER KEEP SLIPPING?
+MARA (low, rattled): ...Why is anyone even asking.
 
-MARA (low, rattled): Take it down. Report her. Kill it. — Why won't this fucking bitch just stop.
+△ Mara turns the phone face-down. The question doesn't go away.
 
-△ Mara scrubs at the screen. The post reloads, unchanged. It does not come down.
+△ Mara opens the stolen account. On the screen — a new photo: the real Lena on Noah Keene's arm, a billionaire looking at her like she's the only thing in the room.
 
-△ Mara opens the stolen account. Mara taps an old saved video and props the phone against the lamp.
+△ Mara stares at it, jaw tight, her knuckles white on the phone.
 
-△ [INSERT] Phone screen — the real Lena, years ago, head back, laughing for someone off-camera.
-
-△ Mara watches the laughing video. Mara laughs along with it, copying the sound.
-
-△ [ECU] Mara's open mouth — the laugh comes out flat, wrong, nothing like the screen.
+MARA (low, vicious): She lost the face, the name, the man, the money — all mine now. And she STILL lands a billionaire who looks at her like that. (rising) She doesn't get one happy day. Not one.
 
 [END HOOK]
-△ Mara shoves the phone under the pillow. The real Lena keeps laughing under it, muffled.
+△ Mara hurls the phone across the room. It cracks off the wall. She stands alone in the dark, breathing hard.
 
 Hard Cut.
 
@@ -1678,7 +1541,7 @@ LENA (V.O.): The night before she marries Ethan in my name.
 
 △ At the head table, a guest leans toward Mara with her phone face-up in her hand, loud enough for the table to hear.
 
-GUEST (bright): Lena — that reporter still won't drop it. All the little things you keep getting wrong about your own mother. People are starting to wonder. Tell me it's nothing.
+GUEST (bright): Lena — a couple of your mother's old friends are still whispering about the gala. Something you said about the money. People are starting to wonder. Tell me it's nothing.
 
 △ Mara holds her smile. The smile stays up one beat too long. The nearest guests go quiet to listen.
 
@@ -1686,7 +1549,7 @@ MARA (recovering, sweet, an edge under it): People will say anything for clicks.
 
 △ A few glasses lift. A few stay flat on the table.
 
-△ The guest sets her phone down face-up, the reporter's post still glowing.
+△ The guest sets her phone down face-up, that gala clip still glowing.
 
 △ [ECU] Mara's glass raised, smile bright, the table half-quiet around her.
 
@@ -1706,14 +1569,14 @@ MARA (O.S., sweet): Leaving already?
 △ Lena turns. Mara stands in the doorway light in white, a champagne glass in one hand. Mara sets the glass down on a crate, slow, and walks into the dark.
 
 MARA (light, closing in): Tomorrow morning I marry him. The whole country crying for me. And you'll still be out here in the dark in that ratty hood, telling strangers you're Lena Sterling.
-LENA (backing a step): Go back inside. Your guests are waiting.
+LENA (backing a step): Your guests are right inside. Lay a hand on me and every one of them sees it.
 MARA (closer, sweet): I should have fixed this at the clinic. One more push on that needle — done. But no. I wanted you awake. I wanted you to watch me take it. (a small laugh) My one soft spot.
 
 △ Mara's hands close around Lena's throat and slam Lena back into the wall. The sweetness stays on Mara's face the whole time.
 
 MARA (squeezing, cooing): Shh. Shh. Don't fight it, sweetie. Nobody's even out here.
 LENA (choked): They'll... find me—
-MARA (tightening, sweet): And here's the best part. You die as Mara, sweetie. Poor jealous Mara who flew home, carved my face into hers, and broke. I live as Lena. (close to her ear) See? Nobody even goes missing.
+MARA (tightening, sweet): And here's the best part. When they find your body, they bury you under my old name. Just a crazy, jealous nobody who lost her mind. (close to her ear) Nobody even goes missing. Bye, Mara.
 
 △ Lena claws at Mara's wrists. The yard light swims. Lena's hand finds the crate — the champagne glass — and rakes it hard across Mara's forearm. Glass cracks. Mara's grip slips.
 
@@ -1783,11 +1646,11 @@ Characters: Lena, Noah · (TV: Mara)
 
 △ Lena stands close to the TV, not moving.
 
-LENA (quiet): Today she marries him with my name in her mouth.
+LENA (quiet): Today she marries him in my dress, signing my name.
 NOAH (low): You don't have to watch it.
 LENA (flat): I'm going.
 NOAH (low): Your face is flagged at their doors. The second you're seen, you're the stalker who crashed the wedding. That's the exact story they want.
-LENA: Then they get their story. She doesn't say my vows to him without me in the room.
+LENA: Then they get their story. She doesn't sign my name in that book without me standing right there.
 NOAH (steady): Then I'm coming. They drag you out, they drag me out holding onto you.
 
 △ [ECU] Lena's face, jaw set, eyes on the TV.
@@ -1825,7 +1688,7 @@ NOAH (low, hard): If you run up there now, you're the headline. She stays the br
 △ [HIGH ANGLE] The full garden — every row of guests weeping toward the arch.
 
 [END HOOK]
-LENA (V.O.): Those are my vows. And they're all crying for her.
+LENA (V.O.): That's my name she's signing. And they're all crying for her.
 
 Hard Cut.
 
@@ -1848,9 +1711,9 @@ GUEST (too loud): That's her — she's HERE —
 
 △ Two security men close on Lena. Noah lunges to reach Lena — three of Victoria's men pin Noah back.
 
-LENA (shouting): That's MY name she's taking! Look at her hands — look at her!
+LENA (shouting): That's MY name she's taking! She drugged me and dumped me in a ditch to get it — look what she is!
 
-△ [ECU] At the arch — Mara's right hand, steady, closing over Ethan's. Nobody in the rows looks down.
+△ [ECU] At the arch — the ring sliding home on Mara's finger. Nobody in the rows looks twice.
 
 △ [HIGH ANGLE] Guards haul Lena backward through the rear rows toward the overflow gate, past hundreds of weeping guests.
 
@@ -1870,7 +1733,7 @@ LENA (hollow): She's his wife now. And I'm out here in the grass.
 
 △ Noah pulls Lena up onto her feet, his jacket around her.
 
-NOAH (low): Married means more cameras. Junkets. Interviews. Every one of them is another chance for her to slip.
+NOAH (low): Married means more money she can touch. She'll go for it.
 LENA (wet, cold): Then let's go watch the victory lap.
 
 Hard Cut.
@@ -1884,23 +1747,23 @@ Characters: Lena, Noah · (TV: Mara, Reporter)
 
 △ Lena sits forward on the couch, eyes on the screen. Noah watches Lena.
 
-LENA (low): The reporter I fed. Watch what she asks.
+LENA (low): The whole country's watching this one. Watch her face when they ask about the money.
 
-△ [INSERT] TV — down the row, the reporter Lena fed gets her question in, pleasant, a tablet on her knee.
+△ [INSERT] TV — down the row, a reporter leans in, pleasant, a tablet on her knee.
 
-REPORTER (TV, pleasant): On the morning show you said you have your mother's hands — that you feel her every time you look down. But Helena Sterling kept her hands out of every photo she ever took. People close to her say she hated them. So which is it?
+REPORTER (TV, pleasant): Mrs. Cross — on Friday you're set to sign your mother's whole foundation into your personal control. The properties, the trusts, all of it. People want to know why.
 
-△ [ECU] Mara's smile holds. Mara blinks once and goes still.
+△ [ECU] Mara holds the smile one second too long. Then the answer comes out before she can stop it.
 
-MARA (TV, recovering, sweet): She — made her peace with them. For me. (a small laugh) You're sweet, keeping notes.
+MARA (TV, it bursts out of her): Because I'm the only Sterling left, and it's MINE to run however I want. All of it. (a beat too late, the smile slamming back) ...the way Mom would have wanted.
 
-△ Lena does not move.
+△ The studio goes quiet. Even the host stops nodding.
 
-△ [INSERT] Noah's phone — the clip already cut loose, Mara's blink looping, a caption climbing: *did she just freeze?* Shares ticking up.
+△ [INSERT] Noah's phone — the clip already loose, Mara's "it's MINE to run however I want" looping nationwide, the caption climbing: *grieving daughter or gold-digger?* Shares doubling.
 
-NOAH (low): You said she'd trip. You tripped her. And this time the whole feed saw it.
-LENA (a breath): She'll smile it away by morning.
-NOAH (certain): Some of it sticks. It always sticks — and you put it there.
+NOAH (low): There it is. The whole country this time. And nobody made her say it.
+LENA (a breath): No takebacks now. Half of them just stopped crying for her.
+NOAH (certain): It sticks. And every time she opens her mouth near that money, it sticks harder.
 
 [END HOOK]
 LENA (V.O.): She never had to be smart. They just gave it all to her.
@@ -1916,9 +1779,9 @@ Characters: Mara, Eileen
 
 EILEEN (flat): You got the ring and still called her. Why.
 MARA (gloating, mean): Because I wanted to hear her cry. I called her up just to say it slow — Mrs. Cross. She made this little broken sound and I almost felt bad. Almost.
-EILEEN (inspecting): You're getting sloppy. On camera you blanked when they asked you something only a real daughter would know — and people heard it. The charity that wanted you headlining their spring gala just dropped your name — no call, no reason. One of Helena's oldest friends walked out of your own bridal shower and hasn't answered an invitation since. She won't be the last one to walk out on you.
+EILEEN (inspecting): You said "my money" on a live feed. One charity already dropped you. Helena's oldest friends walked out of your shower. The whole internet's still chewing on it. Keep your mouth shut, or sink alone.
 MARA (preening, smug): Nobody heard a thing. Look at me. They love me — every one of them. I could trip naked down the aisle and they'd clap.
-EILEEN (cold): They love a story, and yours is starting to crack. That reporter who keeps calling your grief an act is still at it — small, but she won't quit. I got you the face. I got you the wedding. From here on, you keep your mouth shut — or you sink alone. I'm not going down with you.
+EILEEN (cold): They love a story, and yours is turning into "gold-digger." Every time you open your mouth near that money, you feed it. I got you the face. I got you the wedding. From here on, you keep your mouth shut — or you sink alone. I'm not going down with you.
 
 △ Mara waves Eileen off, swirling a glass, not looking at her.
 
@@ -1927,10 +1790,22 @@ EILEEN (cold): You've got a ring and a dead woman's name. That just means you've
 
 △ Eileen walks out.
 
-[END HOOK]
-△ Mara alone. She pours Eileen's untouched wine into her own glass and drinks it.
+△ Mara pours Eileen's untouched wine into her own glass and drinks it. In the doorway, Ethan stands, thumb stopped on his phone — a photo of the stalker, elegant on Noah Keene's arm, lit up on the screen.
 
-MARA (to the empty doorway, smug): Watch me. Friday I sign it — "Helena's daughter." In front of everybody.
+MARA (sweet, crossing to him): There's my husband. Come here.
+
+△ Ethan pockets the phone fast and lets Mara pull him in. He kisses his wife — but his eyes drift over her shoulder to nothing.
+
+ETHAN (V.O.): The crazy one's in diamonds on Keene's arm now. I keep pulling the photo back up. (beat) I don't know why a stalker's face won't get out of my head.
+
+△ Ethan steps back, jaw tight, and turns for the door.
+
+ETHAN (quiet, not looking at Mara): I've got calls.
+
+[END HOOK]
+△ Mara watches him go, the sweet smile flattening off her face.
+
+MARA (low, to the empty doorway): Watch me. Friday I sign it — "Helena's daughter." In front of everybody. Nobody takes one cent of it back.
 
 Hard Cut.
 
@@ -1943,19 +1818,23 @@ Characters: Mara, Lena, Noah, Ethan, Victoria, guests
 
 △ Lena stands among the guests, a dark wig and a borrowed invitation getting her in. Under the wig, her own face, watching Mara work the room.
 
-△ Mara takes the mic to thank "her mother's dearest friends" and gestures to an older woman in the crowd, calling her by a name.
+△ Mara takes the mic to thank "her mother's dearest friends," sweeping a warm hand across the crowd.
 
-MARA (warm, for the room): And Margaret — Mom loved you most.
+MARA (warm, for the room): Every face here is family. Mom would be so proud to see you all.
 
-△ A few guests near the woman frown. The woman shakes her head.
+△ A few guests glance at each other. The grand warmth lands on no one.
 
 △ Lena climbs the stairs toward Mara and pulls the wig off — her own face, in clear view near the top.
 
-LENA (loud, clear): That's not her name. I grew up in that woman's kitchen! Ask the bride my mother's middle name! She doesn't know!
+LENA (loud, clear): You're about to sign my mother's name for money and cameras. You didn't grieve her. You sold her. (to Mara) Tell this whole room how you got my face.
 
 △ The room goes quiet. Nobody laughs.
 
-△ Ethan turns toward the stairs. Victoria's smile drops.
+△ Ethan turns toward the stairs. He sees her up there — wig gone, her own face, chin up, a diamond at her throat, every inch a Sterling. His jaw loosens. His throat moves as he swallows.
+
+ETHAN (V.O., low): God. Even screaming, she's — (cutting it dead) No. She's a sickness. She's nothing.
+
+△ Victoria's smile drops.
 
 △ Noah starts up the stairs from the floor.
 
@@ -1984,7 +1863,7 @@ MARA (screaming, pointing up at Lena): She pushed me! She PUSHED me — somebody
 [END HOOK]
 △ Noah reaches Lena on the stairs.
 
-NOAH (low, fast): She threw herself. I saw it — nobody pushed her. Now we move.
+NOAH (low, hard, to Victoria across the room): I was ten feet away. I watched your bride throw herself down those stairs. Call the police and I'll say so to every camera in the country, with my name on it. Let us walk out, or I spend whatever it takes to bury the Cross name myself. (to Lena, low) Now we walk.
 
 Hard Cut.
 
@@ -2002,7 +1881,7 @@ NOAH (level): They were filming the blood, not the jump. They'd already decided 
 
 △ Noah kneels in front of Lena and takes her face in both hands.
 
-NOAH (certain): I did. Look at me. I was right there. I watched her throw herself down those stairs. You're the one thing in this whole city I'm still sure of.
+NOAH (certain): I did. Look at me. I was right there. I watched her throw herself down those stairs. You're the one person in this whole city I'm still sure of.
 
 ## EP38 - S#2  Night / Interior / Noah's Penthouse · Bedroom · Continuous
 Characters: Lena, Noah
@@ -2068,14 +1947,14 @@ Characters: Mara, Eileen
 
 EILEEN (flat, contemptuous): You threw yourself down a staircase in front of every phone in the room. Cry pretty while it works. One bad angle and you're finished.
 MARA (smug, preening): Let them all walk. I don't need her. One little fall and the whole country's crying for me — they love me more now than the day I married him. I should've thrown myself down a staircase years ago.
-EILEEN (picking up the bag): You're on your own. I got you in the door. I'm not staying to watch you trip over your own feet.
+EILEEN (picking up the bag): You're on your own. I cleaned up every mess you ever made, and you keep making bigger ones — the money slip, the staircase. No more. From here you cover your own, or they bury you. Not me. I'm out.
 
 △ Eileen walks out the front door.
 
 △ Mara stands alone in the empty foyer, the bandage on her head.
 
 [END HOOK]
-LENA (V.O.): She has my whole life. I've got one man who believes me.
+LENA (V.O.): She has my name, my house, my husband. I've got one man who believes me.
 
 Hard Cut.
 
@@ -2215,7 +2094,7 @@ Characters: Lena, Noah
 
 LENA (flat, almost amused): She signed it with my initial. She can't even threaten me without using my name.
 LENA (steady): She only gets this nasty when she's losing.
-NOAH (low): She can't stand watching you be happy. That's all this is.
+NOAH (low): Then let her come. Half that room already stopped believing her. She'll finish the job herself.
 
 △ [INSERT] The glass conservatory over the sea, full of sea light.
 
@@ -2233,18 +2112,18 @@ Characters: Lena, Mara, Noah
 
 △ Lena comes out the conservatory door toward the car. Beside the car, Mara stands waiting in cream.
 
-MARA (sweet gone, mocking): You thought a new venue would keep me out? Wherever you go, I'm already there. I know your whole life by heart. I'm not about to miss the wedding.
-MARA (taunting, contemptuous): Cute little glass house. You really think a man like Noah Keene marries the crazy stalker live on camera? Everybody's going to be laughing at you before the cake.
+MARA (sweet gone, mocking): You think a little glass house keeps me out? I've got your name, your bank, your dead mother's necklace. I'm not about to miss watching you flop at a wedding too.
+MARA (taunting, contemptuous): You really think a man like Noah Keene marries the crazy stalker live on camera? They'll be laughing at you before the cake's cut.
 LENA (level): You drove all the way out here. To a wedding you keep calling a joke.
-MARA (cold, condescending): I came to tell you to call it off. You embarrass yourself every time you open your mouth — don't drag him down with you. Crawl back to whatever hole you came from.
+MARA (cold, condescending): I came to tell you to call it off. You embarrass yourself every time you open your mouth — don't drag him down too. Crawl back to whatever hole you came from.
 
 △ Lena steps in close, crowding Mara back against the car.
 
-LENA (calm): You're scared. You took my whole life and it still isn't enough. (beat) He knows me — that's the one thing you can't fake.
+LENA (calm): You took the name, the money, the man. And you still drove an hour to scream at me in a parking lot. (beat) That's not winning, Mara. That's losing.
 
 △ Mara's sweet expression drops. Lena holds her ground.
 
-LENA (steady): So come. Saturday. Wear black, bring a camera, do whatever it is you do. You can't stand seeing me happy, and you've never once kept your mouth shut in a room full of people.
+LENA (steady): You won't be able to stay away. You can't stand me happy, and you've never once kept your mouth shut in a room full of people.
 MARA (thrown, sneering): You actually want me there. You're even dumber than I thought.
 LENA (cold): No. I just know you can't help yourself. You never could.
 
@@ -2253,8 +2132,8 @@ LENA (cold): No. I just know you can't help yourself. You never could.
 △ [ECU] Lena standing on the steps, watching the car go.
 
 [END HOOK]
-NOAH (O.S., from the doorway): You just invited her to our wedding.
-LENA (steady): She can't stand it. She'll come, she'll make a scene — and this time the cameras are mine.
+NOAH (O.S., from the doorway): You didn't have to say much.
+LENA (steady): I didn't. She can't stand me happy. She'll come on her own — and do exactly what she always does.
 
 Hard Cut.
 
@@ -2282,9 +2161,9 @@ NOAH (low): Come to bed.
 △ After. Lena's head rests on Noah's chest.
 
 LENA (quiet): If she comes tomorrow—
-NOAH (even): Then she leaves our wedding in front of everyone. I gave the front row to that reporter — the one who never believed her act. Not once. She earned the seat more than anyone in this city.
-LENA (quiet): The one who looked twice.
-NOAH (low): Her. And one more guest. (beat) Sleep. Tomorrow you marry me.
+NOAH (even): Then she leaves our wedding in front of everyone. I saved the front row for the one woman in this city who looked you in the eye and knew you — your mother's old friend. She earned that seat.
+LENA (quiet): The woman in pearls.
+NOAH (low): Her. (beat) Sleep. Tomorrow you marry me.
 
 [END HOOK]
 △ [INSERT] Across the city — Mara at a dark window, phone to her ear. A black dress lies laid out on the bed behind her.
@@ -2300,7 +2179,7 @@ Hard Cut.
 ---
 
 ## EP46 - S#1  Morning / Interior / Conservatory · Bridal Suite
-Characters: Lena, Noah's Aunt · (intercut: Mara, Ethan, Victoria, Cameraman)
+Characters: Lena, Noah's Aunt · (intercut: Mara, Ethan, Victoria, Cameraman, Eileen)
 
 △ Sea light pours through the glass. Lena stands in Helena's wedding dress — clean ivory silk, no train.
 
@@ -2320,12 +2199,16 @@ LENA (low, to her reflection): Okay. Today nobody takes anything.
 △ [INTERCUT] On the manor steps, Victoria watches the car go, Ethan beside her.
 
 VICTORIA (cold): She's going to burn our name down at Keene's wedding. Get in. We drag her home before the cameras eat us alive.
-ETHAN (sour, not moving): Keene's actually marrying the stalker. (beat) The whole city's lost its mind.
+ETHAN (sour, not moving): Keene's actually marrying the stalker.
 VICTORIA (already walking): Then go watch. Just drag your wife home before she costs us another cent.
 
 △ Ethan and Victoria get into a second car.
 
-△ [INTERCUT] The car pulls onto a coast road, water on one side.
+△ [INTERCUT] Eileen alone in her apartment, the TV on — LIVE: THE KEENE WEDDING, and a tip already racing online that the "Cross stalker" is the bride. Eileen stares one second, then grabs her coat off the chair.
+
+EILEEN (low, cold, to herself): That stupid girl is going to spill the whole thing on a live feed. (beat) And drag me down with her.
+
+△ [INTERCUT] The cars pull onto a coast road, water on one side.
 
 [END HOOK]
 △ [HIGH ANGLE] The car runs down the coast road toward the headland, the conservatory glass far ahead.
@@ -2335,13 +2218,11 @@ Hard Cut.
 ---
 
 ## EP47 - S#1  Day / Interior / Conservatory · Aisle
-Characters: Lena, Noah, Officiant, Young Reporter, Woman in Pearls, guests · (then: Mara, Cameraman, Ethan, Victoria)
+Characters: Lena, Noah, Officiant, Woman in Pearls, guests · (then: Mara, Cameraman, Ethan, Victoria, Eileen)
 
 △ [HIGH ANGLE] The glass aisle, sea light behind it, a small crowd seated — Noah's people on one side, a handful for Lena on the other.
 
-△ The young reporter sits front row, a clear angle. A small livestream camera runs on a stand at the side.
-
-△ A few rows back on Lena's side, the older woman in pearls sits with her hands folded.
+△ The older woman in pearls sits front row on Lena's side, hands folded, her eyes already wet. A small livestream camera runs on a stand at the side, the wedding going out live.
 
 △ Noah's aunt walks Lena down the glass aisle on her arm. Noah waits at the end — then stops waiting. He walks up the aisle and takes Lena's hand the rest of the way.
 
@@ -2378,7 +2259,7 @@ Hard Cut.
 ---
 
 ## EP48 - S#1  Day / Interior / Conservatory · Aisle · Continuous
-Characters: Lena, Noah, Mara, Eileen, Young Reporter, Cameraman, Ethan, Victoria, guests
+Characters: Lena, Noah, Mara, Eileen, Woman in Pearls, Cameraman, Ethan, Victoria, guests
 
 △ Mara stands in the aisle, the cameraman's lens live, the room frozen. Nobody in the crowd moves toward Lena. The guests watch Mara.
 
@@ -2402,7 +2283,7 @@ NOAH (level): The only one faking anything here is you. You're not welcome here.
 
 △ Lena steps away from the arch and walks right up to Mara — same face to same face. Lena speaks low.
 
-LENA (quiet, cruel): You've got my face, my ring, my mother's name — and underneath it you're still the girl who carried my bags for twenty years, dreaming of being me. You can wear all of it. You'll never be me. Every day you're scared sick somebody'll look close and see the bag-girl under my face.
+LENA (quiet, steady): You've got my face, my ring, my mother's name. Twenty years I called you my best friend — and you spent every one of them wishing you were me. (beat) Wear all of it. You'll still never be me. You drove here in black because you couldn't stand to miss me winning.
 LENA (after a beat): Look around. They're all about to.
 
 △ [ECU] Mara's face breaks. Mara's eyes go to the lifted phones.
@@ -2411,35 +2292,32 @@ LENA (after a beat): Look around. They're all about to.
 
 MARA (thrashing, screaming): GET THE FUCK OFF ME! Do you know who I am?! I'm LENA STERLING!
 
-△ Noah lifts his phone.
+△ The conservatory doors bang open a second time.
 
-NOAH (into the phone, calm): Bring her in.
-
-△ The conservatory doors open again. Two of Noah's men walk Eileen up the aisle. Eileen's eyes go everywhere — the cameras, the crowd, the exits.
+△ Eileen strides in — coat still on, eyes wild — straight for Mara. She grabs Mara's arm and hauls at her toward the doors.
 
 MARA (frozen, small): ...Mom?
+EILEEN (low, hard, pulling at her): Shut your mouth and get in the car. NOW. You are not doing this on a live camera —
 
-△ Noah crosses to Eileen and turns his phone to her face. One look. The screen stays away from every camera.
+△ Mara rips her arm free and screams it at the whole room.
 
-△ [ECU] The phone screen, shielded from the room's lenses — a clinic intake photo: Mara's old face, the before-face, clipped to a surgery consent form.
+MARA (shrill): I'M LENA STERLING! Tell them, Mom — TELL THEM I'M LENA —
 
-△ Eileen goes white.
+△ Eileen goes still. Every lens in the room swings onto her. The livestream light burns red on her face.
 
-EILEEN (low, gripping Noah's wrist): Where did you get that. That was deleted. We PAID to have that deleted—
-NOAH (low, even): The doctor kept a copy. People you pay keep insurance. (beat) And you stopped paying.
+△ [ECU] Eileen's eyes flicking across the cameras — doing the math. Her daughter going down, and the whole country watching her stand right next to it.
 
-△ Mara thrashes against the men holding her.
+EILEEN (to the room, fast, hands lifting, backing off Mara): No. No — whatever she's done, that's HER. I tried to stop her. I always tried to clean up after her —
+MARA (screaming): MOM! Don't you DARE —
+EILEEN (whirling on Mara, the dam breaking): Don't you "Mom" me! Twenty years of your messes — the lies, the bills, the doctors I paid to bury your secrets! I told you to stop after the wedding. I told you to keep your mouth shut —
+MARA (screaming over her): SHUT UP! SHUT YOUR MOUTH —
+EILEEN (losing it, shrieking, pointing at Mara): It was YOUR idea! I paid that surgeon to turn you into her — and you STILL ruined everything!
 
-MARA (screaming): MOM! Don't say another WORD—
-EILEEN (whirling on Mara, furious): Don't you "Mom" me, Mara. THIS is what I get for cleaning up after you. Every mess. Every slip. You couldn't go one week without handing them another one—
-MARA (screaming over her): SHUT UP! SHUT YOUR MOUTH—
-EILEEN (losing it, pointing at Mara): I bought you that face and you couldn't even wear it right!
+△ The room goes dead silent. Every phone, and the livestream, swings from Mara to Eileen and back.
 
-△ The room goes dead silent. Every phone swings from Mara to Eileen and back.
+EILEEN (hearing her own voice — too late. Stepping back off Mara, small): ...It was her. I only ever paid the bills.
 
-EILEEN (catching herself — too late. Quieter): ...It was her idea. I just paid the bills.
-
-△ Mara's own cameraman keeps rolling. The young reporter's lens holds steady, front row.
+△ Mara's own cameraman keeps rolling. The livestream pours it out, live, to the whole country.
 
 [END HOOK]
 MARA (screaming, hoarse): She's LYING! I don't even know her! I'M LENA STERLING — TELL THEM —
@@ -2451,7 +2329,7 @@ Hard Cut.
 ---
 
 ## EP49 - S#1  Day / Interior / Conservatory · Aisle · Continuous
-Characters: Lena, Noah, Mara, Eileen, Ethan, Victoria, Young Reporter, Woman in Pearls, guests
+Characters: Lena, Noah, Mara, Eileen, Ethan, Victoria, Woman in Pearls, guests
 
 △ Mara stands in the glass room, the crowd staring. The guests turn toward Mara, not Lena.
 
@@ -2469,20 +2347,13 @@ ETHAN (hollow, staring at Mara): Mara. You're Mara — Lena's best friend. (beat
 
 △ Lena steps forward. The room goes quiet to hear Lena.
 
-LENA (level): I screamed it for months and you called me crazy. (beat) Her own mother says it once and now you listen.
+LENA (level): I screamed it for weeks and you called me crazy. (beat) Mara's own mother says it once and now you listen.
 LENA (after a beat, steady): I'm Lena Sterling. Mara drugged me, took my face, took my life — and you all helped her do it. (beat) The night she drugged me, I was going to ask her to be my maid of honor.
 
 △ A guest covers her mouth. Nobody else makes a sound.
 
-△ Mara's hand flies up to cover the scar under her left ear. The whole room catches it.
-
 MARA (scrambling, tears rushing back): No — no, she's confusing you, I'm Lena, I've always been—
-LENA (clear, for the whole room): Then say the words inside the pendant. (to Mara) Mom whispered them to her daughter every night of her life. If you're Lena, you know them. Say them.
-
-△ The room waits. Mara's mouth opens. Nothing comes out.
-
-MARA (grasping, the rehearsed tears): It's— it's too painful to repeat—
-LENA (flat): "Lumen meum." My light. (beat) You wore it around your neck for months. You never even cared what it said.
+LENA (stepping closer, low, for the whole room): It's over, Mara. The name, the money, the house, Ethan — gone. Your own mother just handed you to them. (beat) You're nobody again. And the whole country watched it happen.
 
 △ Nobody in the crowd moves toward Mara. The faces stay on Mara.
 
@@ -2492,29 +2363,38 @@ VICTORIA (shrieking, at the cameras): Turn those off! Turn them OFF!
 
 △ Nobody moves. Every lens stays up.
 
-VICTORIA (whirling on Mara, shrill): Get her out of my sight! She never sets foot near a Cross again!
+VICTORIA (whirling on Mara, shrill): Get out of my sight. You never come near my family again — you filthy little nobody.
 
-△ The sweet bride voice rips away — Mara's own voice out, raw.
+△ Mara stops pretending. The next thing out of her is her own raw voice.
 
-MARA (screaming at Lena, thrashing against the men's grip): I should have KILLED you in that chair!! I had my hands on your throat the night before I married Ethan and I didn't finish it — that's the only thing I ever did wrong!!
+MARA (screaming at Lena, thrashing against the men's grip): I should've pushed that needle harder at the clinic! I had my hands around your neck and I let you breathe! That was my only mistake — not putting you in the dirt!
 
 △ The room goes stone still. Every phone holds on Mara.
 
-△ [FLASHBACK — EP31 S#2 (service yard)] One second: two identical faces turning into the light — one with her hands still half-raised.
+△ [FLASHBACK — EP31 S#2 (service yard)] Two identical faces turning into the light — one with her hands at the other's throat.
 
-△ Ethan's face goes slack.
+△ [FLASH — EP6 S#1 (front steps)] The real Lena on the steps, barefoot, bleeding in the rain, screaming his name — and Ethan's own hand, waving the guards to drag her off.
 
-LENA (quiet, even): Hi, Mara. (beat) There you are.
+△ Ethan's legs buckle. He goes down onto his knees on the glass floor, in front of the whole room.
 
-△ Noah's men force Mara down to her knees and step back half a pace — staying square between her and Lena.
+ETHAN (wrecked, barely): I slept beside that thing. I called it Lena. (his voice cracking) And you came to me bleeding.
 
-△ Ethan turns from Mara to Lena and takes a step, hand half up.
+ETHAN (his own words climbing back up his throat): "Get this trash off my steps." (he flinches) I said that. To you.
 
-ETHAN (shaking): Lena. I didn't — I swear I didn't know—
-LENA (not looking at Ethan): You had months to know. You called me crazy on camera and let them drag me down your own steps.
-NOAH (cold, stepping in front of Ethan): She's done talking to you.
+△ Ethan strikes his own face, hard. Once.
 
-△ Ethan stops where he stands.
+ETHAN (reaching for the hem of Lena's dress): Tell me how to take it back.
+
+LENA (quiet, even — to Mara, not to Ethan): Hi, Mara. (beat) There you are.
+
+△ Noah's men force Mara to her knees an arm's length from the kneeling Ethan — the two of them on the floor at Lena's feet.
+
+△ Lena looks down at Ethan. One beat. Then she looks away, like the floor is empty.
+
+LENA (flat, not to him): "Don't put her name in your filthy mouth." (beat) You said that one to me too. (beat) Now you're on your knees. Stay down there.
+NOAH (cold, stepping between Ethan and Lena): She's done talking to you.
+
+△ Ethan stays on his knees, one hand still half-raised toward a woman who has already turned her back.
 
 △ Lena walks past Ethan to Mara and unclasps Helena's pendant from Mara's throat. Mara grabs for it, weak. Lena lifts it away clean.
 
@@ -2522,7 +2402,7 @@ LENA (quiet, certain): This was always mine.
 
 △ Lena closes her hand around the pendant. Mara's hands drop, empty.
 
-△ The young reporter lowers her camera.
+△ The livestream light glows red — the whole country watching it happen, live.
 
 △ The older woman in pearls crosses out of the crowd to stand beside Lena. Then a second guest. Then a third.
 
@@ -2541,7 +2421,7 @@ LENA (steady): I do.
 
 △ Mara kneels alone in the middle of the aisle, wearing Lena's face. No one reaches for Mara. The cameraman's lens keeps rolling.
 
-△ At Noah's nod, two of his men lift Mara off the floor and walk her out through the press overflow gate — the same gate Lena had to come in through.
+△ At Noah's nod, his men drag the screaming Mara out through the press gate — the same gate Lena was once dragged through.
 
 [END HOOK]
 △ [ECU] Lena's hand closed around the pendant.
@@ -2561,11 +2441,11 @@ On-screen text: STERLING HEIRESS RECLAIMS HER NAME. "IT WAS LENA ALL ALONG."
 
 △ [INSERT] A news panel — EILEEN VOSS, the woman who paid for the face, walked out of a building in cuffs, cameras flashing.
 
-△ [INSERT] A morning panel — wedding footage of Ethan kissing the bride. Chyron: THE GROOM WHO COULDN'T TELL.
+△ [INSERT] A morning panel — wedding footage of Ethan kissing the bride. Chyron: HE THREW THE REAL ONE OUT IN THE RAIN.
 
 △ [INSERT] Cross Manor — through the gates, staff carry the wedding flowers out with the trash. At an upstairs window, Victoria watches, very still.
 
-△ [INSERT] The studio set where Tessa cried on cue — her seat empty. Tessa's old clip plays on the monitor under a new chyron: PAID TO CRY.
+△ [INSERT] The studio set where Tessa cried on cue — her seat empty. Tessa's old clip plays on the monitor under a new chyron: LENA'S ASSISTANT LIED.
 
 TESSA (on screen): I worked for Lena for years.
 
@@ -2613,7 +2493,7 @@ LENA (quiet): It's me, Mom. It's really me. I got it all back. Took me long enou
 
 △ [ECU] Lena's hand around the pendant.
 
-LENA (soft): "Lumen meum." My light. That's what you called me. (beat) Your light's home, Mom.
+LENA (soft): You called me your light. (beat) I'm home, Mom.
 
 △ Noah stays a step behind Lena.
 
@@ -2633,8 +2513,8 @@ Characters: Lena, Noah
 
 △ Lena and Noah stand at the glass, the city below.
 
-LENA (level): She had my face for months and still couldn't be me.
-NOAH (certain): You did. From the second you got your name back.
+LENA (level): She had my face, my bed, my ring. Still ended on her knees.
+NOAH (certain): And you're the one still standing.
 
 △ [ECU] The pendant at Lena's own throat.
 
