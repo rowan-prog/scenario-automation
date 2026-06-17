@@ -1,8 +1,106 @@
 # SHE STOLE MY FACE — 진행 메타
 
-## 🔒 LOCK — v57 (2026-06-15)
+## 🔒 LOCK — v63 (2026-06-16 · 외부 피드백 5라운드 수렴 + LOCK 자체검수 통과)
 
-**정본 = `07_final/06_she_stole_my_face_FINAL_v57.md`.** 기계게이트 PASS: 한국어0 · Hard Cut49 · END HOOK49 · NAME7 · PAYWALL1(EP9) · "I love you"2 · continuity_lint PASS · 88씬 · 50화 · 118,993자.
+**정본 = `07_final/06_she_stole_my_face_FINAL_v63.md` (v62 복사·🔒 LOCK 앵커).** 게이트 전부 통과: 한국어0·50화·Hard Cut49·END HOOK49·PAYWALL1(EP9 S#1)·NAME7·continuity_lint PASS·전 회차 ≥223단어(최저 EP17 223w)·I love you 2쌍·98,846자.
+
+**LOCK 경로 = 외부 피드백 자동 루프(10분 폴링) → 90분 무피드백 수렴 → 자체검수 belt → LOCK:**
+- **feedback_01~05 (총 37라인 적용):** ①de-proof(Noah 여론카운트 `people starting to see`/`half that room`→Mara 자멸 직설) ②de-literary 지문(`turned into a weapon`·`hands map`·`rain coming down`·`trash on his shoe`·`perfectly`/`on cue`/`prettily` 작가라벨 전건→물리 동작) ③정합(EP7 Mara `shoulders past`·**EP24 gown slash↔EP25 crumpled↔EP28 repaired** 일관·EP32 Eileen 인용 `MINE`·EP47 callback 정확·EP34 Noah 고아대사 `I did` 제거·EP43/44 Characters Eileen 조기등재 제거·EP12 `my rings`→`jewelry`·EP41 `woman in pearls`→`Margaret`) ④EP2/EP5 직설화(`choosing tonight`·`dress/Ethan`). **feedback_05 = 수정 0 "LOCK 가능·stop"**(수렴).
+- **LOCK belt 자체검수:** 기계게이트 PASS + **opus fresh-eyes-auditor = LOCK-CLEAN 블로커 0**(목걸이 체인·상처 체인·수갑·3주 시계·계단 동선·Eileen 아크·gown 아크·ring 시점·maid-of-honor 콜백·구버전 버그픽스 전부 검증) + **opus native-ear 5라인 직역화**(`afford the breeding`→`can't buy class`·`look at her`→`point them at the woman wearing your face`·`reeked`→`stank`·comma-splice 분리·`spill on a live feed`→`tell everyone on live TV`).
+- **기각 유지 전건:** Noah 물증·DNA/병원기록/경찰/법절차/foundation 법타임라인·second ring/새 소품·탐정/증거 엔진·EP3 결혼식 앞당김·EP8 압축·EP1-3 추가병합.
+
+**산출물:** 핸드오프 `06_she_stole_my_face_production_handoff_v63.md` · 비주얼락 `06_she_stole_my_face_visual_lock_v63.md`. **차기 = 제작 핸드오프(AIGC 어셋 생성).**
+
+---
+
+## 🔧 v62 — NOT LOCK (2026-06-16 · 초반 무료퍼널 제한 재배치)
+
+**정본 = `07_final/06_she_stole_my_face_FINAL_v62.md` (v61에서 메이저 분기·v61 = 직전 앵커 보존).** 기계게이트 PASS: 한국어0·Hard Cut49·END HOOK49·PAYWALL1(EP9 S#1)·NAME7·continuity_lint PASS·50화·전 회차 ≥238단어·99,294자.
+
+**문제 진단(사용자):** v61 초반이 vertical 기준 느림 — 현 EP2(Mara/Eileen 계획 설명)+EP3(사고 처리)로 "아는 악행을 2화나 처리", '세상이 이미 Mara를 Lena로 받아들였다'는 충격이 EP3 끝에야 옴.
+
+**해법 = 옵션4 "EP1-9만 제한 재배치"**(전체 대수술 X·LOCK-먼저 보류·제자리 압축은 약함). 매핑:
+- 현 EP1 → 신 EP1 (클리닉 강탈·유지)
+- **현 EP2+EP3 → 신 EP2 (2→1 압축)**: S#1 클리닉 봉합(Mara "I'm Lena Sterling"+Eileen *한 줄* "By midnight there's one Lena Sterling"·NAME 카드)·S#2 사고 *몽타주*(충돌→운전석 이동→폰/가방 탈취→"Wake up with nothing")·S#3 난파차 각성→길 건너 식당 TV로 **자기 얼굴 Mara가 약혼 발표(STERLING HEIRESS ENGAGED—TONIGHT)** → **END HOOK = "they're already calling her Lena / she's standing in my LIFE"**(EP1 "that's my face" 버튼과 중복 회피).
+- 현 EP4 → 신 EP3 (병원+gate, 유지)
+- 현 EP5 → 신 EP4 (Ethan 첫 거절, 유지)
+- **현 EP6 front-steps 굴욕 1→2 분할**: 신 EP5 = Ethan "you're not Lena" 잔혹 거절(+Lena 반응·군중 조소·Mara 가짜자비·Ethan 등돌림 굴욕 비트로 체급 보강) END HOOK / 신 EP6 = Victoria 손찌검+"bleeding like a stray dog"+끌려나감+service gate 댄스 리플레이(기존 END HOOK).
+- 현 EP7/EP8/EP9 → 신 EP7/EP8/EP9 (아파트/bridal frame/Noah paywall·**전부 유지**).
+
+**−1(EP2+3 압축) +1(EP6 분할) = 9화 유지·EP10-50 손 안 댐·paywall EP9 그대로.** 워드카운트 실측으로 분할점 조정(service-gate 단독=과소 → Ethan 거절 직후로 분할). 컷 예산을 *셋업 가속(EP2)→굴욕 만끽(EP5-6)*으로 이동(절차 패딩 아닌 장르 도파민).
+
+**금지 준수:** EP1 과밀 X·새 증거/절차/병원 논리 보강 X·Eileen 설명 확장 X·중후반 무수정. 컷: EP2 gloating whisper·EP3 sedan 미디어플랜(lawyers/Jane Doe/run-it-everywhere) 절차 전건 삭제.
+
+**전 회차 단어(EP1-9):** 655·407·455·238·259·313·546·965·680 — 219 floor 전부 상회.
+
+**LOCK 전 라인 라운드 (외부 피드백 필터·구조 무수정·18건):** 정합/직설화 — ring 시점·중복(EP25 face+the ring→face+Ethan·EP30 재슬라이드 2곳→already on/bright on)·Noah 동선 브릿지(tears free→overflow gate)+계단 목격(right behind→right there)·Host 대상(to camera/if you're out there→to Mara)·replacement gown 잔재 제거·EP45/46 blocking(rips free→half-free·Eileen kept away)·EP48 중복 지문 절삭·반복대사 절삭·새 EP2/EP5 직설화(marrying→choosing tonight·standing in my LIFE→dress/Ethan/where I should be·phones drinking it down→keep filming·Lena's exact laugh 삭제). **기각 유지: Noah 물증·DNA/병원기록/경찰/법절차/foundation 타임라인·second ring(새 소품).** 기계게이트 PASS·한국어0·50화·NAME7.
+
+**🔁 외부 피드백 자동 루프 (2026-06-16 20:47 개시):** inbox `Documents/Codex/scenario-automation-codex/inbox/she stole my face 피드백/` **10분 폴링** → 새 피드백 md 타당성 판단 후 적용(기각 사유 명시). **90분 무피드백 → LOCK 자체검수(fresh-eyes 등 빡빡 기준) → LOCK → 핸드오프/비주얼락 환류.** 루프 상태 = 피드백 폴더 내 `.sssf_loop_state.json`.
+
+**루프 처리 이력:**
+- **feedback_01 (21:14·19건 적용):** de-proof(Noah "people starting to see"/"half that room"→Mara 자멸 직설)·de-literary 지문(turned into a weapon·hands map·rain coming down·trash on his shoe·easy/free/untouchable→물리 동작)·정합(EP7 Mara shoulders-past·**EP24 gown slash↔EP25 slashed crumpled↔EP28 repaired** 일관·EP32 Eileen 인용 "MINE"·EP47 callback 정확 "And don't you ever say her name again"·EP12 my rings→jewelry·EP41 woman-in-pearls→Margaret). 기각셋(Noah 물증·DNA/기록/경찰/법절차/foundation·EP8 압축·Noah 사전씨드·one-thing 라벨·second ring) = 피드백 자체 기각·동의. 기계게이트 PASS.
+- **feedback_02 (21:26·3건 적용):** EP15 표정연기 지문→물리(`smile snaps back`→`turns to donors, lifts mic`)·EP17 `People are starting to look` 판세언어 제거·EP22 V.O. 작가요약 단순화(`used her mother's old friend`→`made me the liar again`). 기각셋 동의. 기계게이트 PASS.
+- **feedback_03 (+feedback_02 재저장 보조패스·21:39·5건 적용):** EP34 Noah 고아대사 `I did` 제거(받을 질문 없음)·**EP43/EP44 Characters Eileen 조기등재 제거**(Eileen 첫 등장=EP45·헤더 메타 정리)·EP22 L1128 작가요약→구체 동작(`garden turns back on Lena. Guests glare`)·EP22 L1137 중복 `one old woman… for one second` 절삭. 기각셋 동의. 기계게이트 PASS.
+- **feedback_04 (22:02·5건 적용):** 작가라벨 지문 절삭 — EP3 `perfectly at home in Lena's life`→`leans into his side`·EP4 `trembling on cue`→`trembling`·EP8 `sobbing perfectly`→`with both hands raised`·`sobbing prettily`→`sobbing`·EP35 `trembles — perfectly`→`shaking hand`. (radiant은 분위기 형용이라 비블로커·유지) 기각셋 동의. 기계게이트 PASS.
+
+---
+
+## 🔧 v61 — NOT LOCK (2026-06-16 · 中 플랫폼 피드백 구조개정 P1+P2)
+
+**정본 = `07_final/06_she_stole_my_face_FINAL_v61.md` (v60 LOCK에서 메이저 분기).** 기계게이트 PASS: 한국어0·Hard Cut49·END HOOK49·PAYWALL1·NAME7·continuity_lint PASS·50화·전50화≥60s·99,199자.
+
+**v61 = 中 플랫폼 主编/감독 피드백을 사용자 입장으로 필터 반영(구조개정만):**
+- **P1 중반 공개대치 4→2 wave (감독1):** EP13 luncheon + EP16-17 gala → **Wave A(엄마/재단/탐욕)**: 공개=foundation 탐욕만 새고(`My mother left me her name and her foundation. After tonight, nobody takes a dollar...`), *사적으로만* face 자백(`This face got me Ethan. Her name gets me the foundation.` only-for-Lena → 방이 "다 들었잖아" 안 됨). EP22 shower + EP25 press → **Wave B(결혼/신분 + 가짜승리→역공)**: Woman in Pearls가 *공개적으로* Lena 편(`I knew Helena thirty years. That woman is not grieving her. She's spending her name.`)→방 첫 동요→Mara 즉시 역전(`She's doing it again — dragging my mother's oldest friends into her lie.`)+Victoria가 증인 입막음→Lena 다시 거짓말쟁이→Mara 패닉 씨앗(`They looked at me like I was the thief.`)→EP27 살해 동기. **증인/증거 아님·감정 사회적 린치만.**
+- **P2 살해 EP banquet|service-yard 클리프행어 분할** (Mara가 창문 너머 Lena 발견→`Tonight.`→service yard). EP21/EP26 분할분 = 응징 dessert 아닌 *긴장 build*로 확장(전50화≥60s 유지).
+- **P4 face=원인 재앵커링**(`used my face to take the man, the house, the money`·`use your face to take your mother's foundation`) · **P6 Noah 보호선택**(`I don't know the whole story. I know they lied. ...I'm not leaving you out here.`) · P5 Ethan 불안 1비트(연회장).
+- **기각(엔진 충돌):** 기자/카메라/증거/조사/법절차 추가·Noah 추리단서·EP3 결혼식 앞당김·foundation 법적절차·복수방향 대사설명.
+- **라벨링 모욕 금지 제정:** `that thing/creature/it`=작가 라벨 → 구체 처지직격(L1177/L461 교체). 수위는 단어만 낮추고 은유로 비틀지 마라.
+- flashback 태그 `service yard → EP27 S#1` 갱신. 일회용 스크립트 삭제.
+- **中 AI 피드백 필터 라운드 (라인번호 stale 검증):** 포맷 *병합대사*(L74/L2043 등) = 실제 v61에 **0건**(regex 검증)→**기각**(AI 구버전 스냅샷). 작가식 *라벨* 재스윕(that thing만 검색은 틀림): `sleeps behind a dumpster`·`Look at it`·`prettiest thing`·`her own voice` 톤 → 구체 처지/삭제. Woman in Pearls *증언 잔재*: `don't know what I saw`→`shouldn't have said anything`·`sick old friend`→`her mother's old friend`. 문학지문 `radiance slides off like a mask`→`stops smiling`. Reporter Characters→Donor. **런타임: 내 cut-기반 추정기 부정확 판명**(사용자 word-count가 맞음)→최저 6화(EP17/18/31/36/40/41)에 무언 행동비트 ×2씩 보강(전부 ≥230w). 기계게이트 PASS·100,274자. **교훈: "전 게이트 PASS"는 기계게이트만이고 포맷/라벨/런타임은 안 잡힘 — '다 됐다' 착각 경계.**
+- **LOCK 직전 절삭 (사용자 5 + fresh-eyes 4):** 사용자 5건 — `Something in her face hardens`→`Her jaw tightens`·`tilting toward Lena`→`the garden is on Lena's side`·`used poor Margaret`→`made Margaret say that`·`reporters firing questions`→`morning-show panel, soft smiles`·`doing your work for you`→`She keeps hurting herself to hurt you. People are starting to see it.` 이후 독립 opus fresh-eyes 최종패스 = **하드 블로커 0**(목걸이 체인·타임라인·상처·라벨·vertical English 전부 clean). 소프트 4건 절삭 — L2189 목걸이 풀기 물리(Mara 무릎꿇려 제압+`the fight gone out of her` 브릿지)·문학지문 2(`doesn't know how to stop it`→`eyes dart from face to face`·`watching a room move her way…`→`not one face laughing at her`)·도어맨 절차감(`who carried it out, and when`→`Did you see who took it?`). Ethan 의심 V.O.=의도설계 유지. 기계게이트 PASS·100,340자.
+- **DRAFT 대조 라운드 (구버전 v56~57 export와 기계 diff):** 사용자가 `Downloads/She Stole My Face_DRAFT.md`(마크다운 이스케이프 export·구조상 v61과 별개 구버전·중반부터 records/reporter/clip/장부 누적) 제시. 이스케이프·공백 정규화 후 실내용 비교 = 771 동일/v61측 555 다름. **DRAFT 구조는 기각**(탐정/장부/Noah 조기 물증인지)이나 *초반 단순 타격문* 3개만 정합 검증 후 복원: ①L65 `This precious little necklace`→`Your mother's necklace`(L40 "It was my mom's" 콜백·감정핵 즉발) ②L76 → `...not standing next to the bride — I'm the bride now. I get your bed, your name, your man`(`I'm the bride now` 한 줄 판전환 + maid-of-honor flip만 살림). **DRAFT의 `your ring, your husband`은 사용자 재검에서 기각** — EP1 화면상 이전은 목걸이뿐(반지는 결혼식 L1471+ 등장)이라 `ring`=반지 갭 재발·EP1=약혼 발표 밤이라 Ethan=아직 fiancé라 `husband` 시점 오류. 소품은 `name/man` 유지. (내 "신부 패키지=지위라 ring 정합" 논리가 과교정이었음 — 규율: 화면 이전된 소품만 주장.) ③L511 Noah `Get in — I'm not leaving you out here`→`Get in if you want your life back`(훅 강화·물증 주장 아님·de-recognizer 유지). + 직전 턴 L1110 `Her jaw tightens`(얼굴-감정 지문) 절삭(컵 동작은 L1116 기존분이 담당·중복 방지). 기계게이트 PASS·한국어0·50화.
+- **LOCK 전 직역형 5라인 절삭 (구조 무수정):** 직역 붕괴 은유 4건 → 직설 — L885 `selling my mother's name`→`using my mother's name to take her foundation`·L1108 `sells her name`→`uses Helena's name for money`·L1118 `She's spending her name`→`She's using Helena's name for money`·L1755 `From here you cover your own`→`From here, clean up your own mess`. + ESL 오독 방지: L1114/L1178 `shower`→`bridal shower`(목욕 샤워 오독 차단·전 3곳 bridal로 통일·L1114 panic echo `She found my SHOWER`는 단독 프레임 오독 위험이라 제거). 블로킹 지문 전부 보존·기계게이트 PASS·한국어0·50화.
+- **현 상태 = LOCK 후보** (차기 = 사용자 최종 cold-read·새 중반 2-wave 리듬 점검). 동일 `Her jaw tightens` 1건 L1983(에일린 TV컷) 잔존 — 사용자 범위 밖이라 미절삭(대기).
+
+---
+
+## 🔒 LOCK — v60 (2026-06-16 · 수렴 테스트 통과 + 회당 1분 게이트 · v61로 구조개정)
+
+**정본 = `07_final/06_she_stole_my_face_FINAL_v60.md`. 🔒 LOCK (메인 판정).** 기계게이트 PASS: 한국어0 · Hard Cut49 · END HOOK49 · PAYWALL1(EP9) · "I love you"2 · NAME7 · continuity_lint PASS · 50화 · 102,145자 · **전 50화 ≥60s(최소 65s, 캘리브레이션 추정).**
+
+**LOCK 근거 (수렴 테스트):** ①포렌식 연속성 감사(opus)=목걸이/폰/사건위치/상처/정보경로/타임라인/노아 belief 전 스레드 contradiction 0. ②엔진/장부/대사 감사(opus)=국소 발견(Friday-signing 절차·중복 livestream·자해 출혈 정합) 전건 수정. ③사용자 수동 캐치(반지 물리이동→L76 "your man"·clinic/throat 사건혼합→needle·**회당 1분 미달**) 전건 수정. ④voice_lint HIGH=anaphora(의도 makjang 반복)·"wearing my face/necklace"(face-theft 직역 literal) 전부 오탐 판정.
+**회당 1분 게이트:** 위험 7화(EP5/19/20/29/35/48/49/50)를 *패딩 아닌 응징/회수 dessert*로 확장 — Hector 수치·환영 귀가, 마라 맨목 throat+"nobody's coming"(아일린 유기 payoff), "wake up with nothing" EP3 콜백 역전, EP29 이름-결혼 목격 고통, 침실/모닝쇼 텍스처. 전 50화 ≥60s.
+**잔여 리스크(정직):** 내가 시트 못 본 *플랫폼 제출 스펙*(총 러닝타임 상한·자막 길이·char 상한 등)은 미검증 — 시트 입수 시 즉시 검증.
+
+**v60 (사용자 진단=라인 아닌 *회차 엔진* — 동의 후 집행 · LOCK 아님):** 중반이 `공개장소→레나 진실/돈 말함→증인/기자/클립 반응→다음엔 더 크게`로 굴러 "단계별 증명 드라마"로 읽힘 → **엔진 de-proof**(증명 X·감정 복수+마라 자멸 O).
+1. **증인/기자/클립/돈자백 기능 제거:** woman-in-pearls=정보 NPC→감정 조력자(Friday tip 삭제)·reporter 추궁→축하에 마라가 greed 자진 폭발·"Say the money's yours/Every cent is mine"(자백유도)→"You're selling my mother's name"(모욕)+마라 possessive boast·EP33 계단 여파 "nobody saw it/clip loop"(리셋)→"마라가 공개 자멸·지지층 균열"·돈="증거 항목"→"엄마 이름 팔아먹는 모욕"(That foundation was never yours).
+2. **정합성 버그(진성):** crying in *bed*→on TV(직전 스튜디오)·fiancé *asleep*→bathroom·`salon` 잔재 2건 삭제(작품에 salon 사건 無)·`my ring` 좌표 흐림→`my name`·Eileen 첫 등장이 *이미 코트*(마라가 이미 부름)·`you all helped`→`too many of you`(노아측 제외).
+3. **구조 압축2(50화 유지·패딩0):** EP12(스튜디오 조롱=EP10-11 중복) 삭제+엄마 무덤 setup을 EP11 훅에 흡수·EP38(아침쇼 victim+staff loyalty=중복) 삭제 → EP10(victim→predator "I want more")·EP35(아일린 마라 버림 foyer) 씬경계 클리프행어 분할로 50화 복원. flashback 태그(EP27·EP6) 불변 확인.
+4. **대사 폴리싱:** Eileen/Mara 자백 법정체→raw(I paid for that face / I should've finished you at the clinic)·Ethan 후회 "내가 속았다"→"Lena에게 한 짓"(bleeding in the rain, I had them drag you out)·Ethan 버림 "글라스 봤다"→"봤지만 체면 택함"·Noah 소유욕→belief·"start a new one"(정체성 포기 뉘앙스)→"take it back with me".
+- **차기 = 사용자 cold-read** (중반이 감정 복수극으로 읽히는지).
+
+**v58 라인 대수술 (사용자 cold-read 6라운드 누적 집행 · LOCK 아님):**
+1. **중반(EP13-37) 증거/증인/카메라/장부 라인 전면 절삭** — "누가 들었나"·clip/camera/mic·"돈 어디 갔나" 추적·재단 서명 절차 → *마라가 군중 앞에서 더 가지려다 자멸* + *Lena가 비명 안 지르고 지켜봄*으로 교체. EP14 무덤=녹음/mic 삭제·실제 조문객이 역겨워 떠남. **EP29 척추정렬**: Lena가 카메라에 돈 외치던 장면 → Lena 침묵에 마라가 과연기·군중 이탈·아일린 첫 균열.
+2. **엄마 디톡스** (사용자 격노): 레나의 wound를 *엄마(돈/재단/무덤/유품)→제 얼굴·이름·침대·삶*으로 환원. `my mother` 40→2, `mother` 50→9. **Helena 잔존 = 오직 *마라가 착취하는 죽은 이름*** (villain 위선·옛 친구들 혐오·재단=레나 것). 결혼식 ally(진주부인)=*알아봄(recognition) 금지* → "Helena 사랑했던 사람이 마라 탐욕을 혐오"로만. 펜던트 = "the pendant/내 목걸이"(엄마 소유격 대거 제거). Eileen='Mom'은 마라 친모(배신 메커닉)이라 유지.
+3. **vertical English 폴리싱**: 작가 요약문·내면분석·과나열 정산표(`break her`·`reaches too far`·`where she breaks`·`face/ring/name/house` 나열) → 직역생존 단문·구체 행동.
+
+**v59 구조 압축 (사용자 결정 = 50화 유지·내용 재분배·패딩 0):** 중복 비트 병합/삭제 후 백하프 강비트를 클리프행어로 분할 → 50화 유지.
+- **병합/삭제(−4화):** EP13+14→1(공개 탐욕목격 1회로·무덤씬 컷) · EP17+18→1(갈라 연설+플로어 대치) · EP25+26→1(샤워 ally 모집·중복 "you loved her" 라인 컷) · EP22 bridal salon 삭제(EP30 편집증과 중복).
+- **클리프행어 분할(+4화):** EP48(문 두 번째로 쾅→누구?) · EP49(마라 *라이브 살인 자백* "I didn't kill you!"→정적) · EP50 6씬→3화(몰락몽타주+로비 / 아침+무덤 / 마라 회색방+피날레).
+- 기계 = reset-on-S#1 리넘버 스크립트(`tools/` 일회용·삭제함) → EP 1-50 순차·HardCut/ENDHOOK 49·flashback 태그 EP31→EP27 갱신·continuity_lint PASS. **신규 플롯/분량 0.** 유지 강비트 = EP31-34(현 27-30)·피날레.
+- **차기 = 사용자 cold-read** (구조 압축 후 흐름 점검).
+
+---
+
+## 🔒 LOCK — v57 (2026-06-16 · 2차 정밀 재감사 후 · v58로 대체됨)
+
+**구 정본 = `07_final/06_she_stole_my_face_FINAL_v57.md`.** 기계게이트 PASS: 한국어0 · Hard Cut49 · END HOOK49 · NAME7 · PAYWALL1(EP9) · "I love you"2 · continuity_lint PASS · 88씬 · 50화 · 118,667자.
+
+**⚠️ 교훈: 단일 fresh-eyes 패스로 LOCK 건 건 성급 — 사용자 지적으로 무효화.** 1차 패스가 *상태/시점·빙의 POV·플래시백·엔진브레이크* 클래스를 통째 놓침.
+
+**2차 정밀 재감사 (2026-06-16 · 3렌즈 opus 다중에이전트 병렬 전수):** ①상태/시점 ②빙의 POV ③사실/플래시백/연기들통 → **~32건 진성 추가 집행.** 핵심: **엔진 브레이크 1건** = EP13 에단이 마라 가짜눈물 간파("You're not even crying. You're counting heads") → *눈먼 사랑 방어*로 교체(후회남 공식 사수). + **약혼/결혼 상태오류 6**(EP4 Mrs.Cross·EP8 my wife→fiancée·EP8 whole wedding→house·EP30 my husband→the man I'm marrying·EP32-33 signing→vows/in my name·EP39 my husband) — *오늘밤=약혼, 결혼식은 EP33*. + **빙의 POV 2**(EP22/EP39 3인칭 Lena). + **prop 4**(EP1 목걸이 자발양도↔EP8 "took off my neck while drugged" 모순 수정·Lena diamond 3곳 삭제). + **플래시백 동작오류**(EP49 "hands at throat"→"half-raised"=EP31 실제동작). + **연기들통 지문 8 행동화**(pitch-perfect·smile slips/holds/dies·expression drops·face breaks). + **중반 작전브리핑/카메라 잔재**(EP12 checkbook·EP29 "pick what you scream"·EP35 "watch her face") + **피날레 렌즈 밀도 경감**(every phone/lens 중복 컷). 전 클래스 residue 0·게이트 재PASS.
+
+**1차 LOCK 검수 (참고·일부 무효):** ①fresh-eyes-auditor(opus)= CRIT0·HIGH1(플래시백 태그)·MED3 — *단, 위 클래스 누락*. ②funnel-cold-reader = **EP8→EP9 페이월 결제 YES**(8/10)·피날레 9·EP1 콜드오픈 9. 소견 = EP13-30 중반 반복 = *리텐션 최적화 여지*(비차단). **잔여 최적화(차기): 중반 디브리프 메트로놈 축소·EP25 샤워 차별화·레나 가시적 중반 승리 1개.**
 
 **LOCK 검수 (외부 강제 layer):** ①fresh-eyes-auditor(opus·fresh-context 전수)= CRITICAL 0 · HIGH 1(EP49 플래시백 출처태그 EP4→EP6 오기 — 수정) · MED 3(EP2 타임라인·EP35/EP14 가면-크랙 어법·전부 수정) · LOW(진주부인 역할 staff→friend 통일 등 수정). 펜던트/폰삭제/박스/상처/서명시계/결혼시계/이름 체인 전수 clean 확인. ②funnel-cold-reader = **EP8→EP9 페이월 결제 YES**(8/10)·피날레 9·EP1 콜드오픈 9. 유일 소견 = EP13-30 중반 반복(공개행사→가짜눈물→두 노부인→차 디브리프 ×5·EP25 샤워=EP13 추모 중복)= *리텐션 최적화 여지*(결함/구멍 아님·cold-reader도 LOCK-worthy 판정). 최악 verbatim 중복만 경량 제거(EP13 디브리프 "didn't clap" 중복). **잔여 최적화(비차단·차기): 중반 디브리프 메트로놈 축소·EP25 샤워 차별화·레나 가시적 중반 승리 1개.**
 

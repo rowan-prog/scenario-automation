@@ -62,7 +62,7 @@ LENA (slurring): Wait — that's not... that's not numbing —
 
 △ Mara fastens the pendant around her own throat.
 
-MARA (touching the pendant, mocking): Your mother's necklace. You handed it over before I even asked twice.
+MARA (touching the pendant, mocking): This precious little necklace. You handed it over before I even asked twice.
 
 △ Mara takes Lena's jaw and tilts it one way, then the other.
 
@@ -147,7 +147,7 @@ EILEEN (V.O., flat): Make it look like an accident. Then walk to my car.
 
 MARA (on speaker): She's breathing.
 EILEEN (V.O., cold): Good. Let her wake up sounding insane.
-MARA (not turning back, cold, contemptuous): Sleep good, princess. Wake up a nobody.
+MARA (not turning back, cold, contemptuous): Sleep tight, princess. Wake up with nothing.
 
 △ Mara crosses to a second sedan idling on the shoulder and climbs in.
 
@@ -158,11 +158,11 @@ Characters: Mara, Eileen
 
 △ Mara peels off the scrubs and slides into the gown. Her hair is already styled to match Lena's.
 
-EILEEN (eyes on the road): By morning her bank flags her name, her building tells her she doesn't live there, her lawyers take their orders from you. She wakes up shut out of everything — and nothing's even been signed yet.
+EILEEN (eyes on the road): By morning, no phone, no cards, no name. Every door that opens for you shuts on her. And nothing's even been signed yet.
 MARA (checking her lips in the mirror, bored): Already calling. Her lawyers think they're taking orders from Lena. (touching the pendant) This too. Real gold. Mine now.
 EILEEN (flat): Don't get sentimental. Keep her locked out of her own life.
 
-EILEEN (into the car phone, flat): Run it everywhere. Crazy fan, the bride's face, dangerous, off her meds. Every channel before she wakes up. (beat) And the hospital — the crash victim came in with nothing. No phone, no cards, no name. My people handle the car. Keep her a Jane Doe. Whatever it costs.
+EILEEN (into the car phone, flat): Run it everywhere. Crazy fan, the bride's face, dangerous, off her meds — every channel before she wakes up. (beat) And the hospital: the crash victim came in with nothing. My people handle the car. Keep her a Jane Doe. Whatever it costs.
 
 △ [ECU] The duplicate gown zipped up the side.
 
@@ -331,11 +331,11 @@ Characters: Lena
 
 △ Lena's key still turns. The bandage at her temple is soaked with rain.
 
-△ Lena goes straight for the closet shelf — the one where her mother's box has sat for ten years. She shoves a row of unfamiliar dresses aside.
+△ Lena goes straight for the closet shelf — the one where her keepsake box has sat for ten years. She shoves a row of unfamiliar dresses aside.
 
 △ The shelf is bare.
 
-LENA (gutted): She took Mom's box.
+LENA (gutted): She took my box.
 
 △ Lena turns. Her own clothes are gone — racks of new ones in Mara's taste hang where they hung. Mara's jacket on the chair. Her bed, slept in.
 
@@ -400,7 +400,7 @@ Characters: Lena, Mara, guards
 
 △ Catering crews in white stream through the service wing. Among them, one dark-wigged server peels off toward the bridal wing — Lena, in a stolen uniform, a staff badge lifted off the loading dock clipped to her chest.
 
-LENA (V.O., low): Get my mother's necklace. Get her alone. Get out.
+LENA (V.O., low): Get my necklace. Get her alone. Get out.
 
 △ Lena slips into Bridal Room C and turns the lock — click. Mara sits at the vanity, back to the door, sliding a pearl earring in.
 
@@ -413,9 +413,9 @@ MARA (smug, slow, not turning): Took you long enough. Twenty years I watched you
 
 △ Mara stands and turns — the same face, looking back at its own reflection in a wig.
 
-LENA (low, steady): You're wearing my mother's necklace. You're sleeping in my bed. You stood beside Ethan under my name. (beat) Give me back the necklace. That's all I came for.
+LENA (low, steady): You're wearing my necklace. You're sleeping in my bed. You stood beside Ethan under my name. (beat) Give me back the necklace. That's all I came for.
 MARA (lifting the pendant off her own chest, dangling it, delighted): This little gold heart? I had it on last night while your Ethan was inside me, in your sheets, moaning your name. He likes it on me. (closing her fist around it) Your bed is mine. Ethan is mine. This is mine too.
-LENA (stepping in, hand out): It was my mother's. Take it off.
+LENA (stepping in, hand out): It's mine. Take it off.
 
 △ Lena holds her open hand between them. She does not touch Mara.
 
@@ -540,7 +540,7 @@ NOAH (into the phone, even): The penthouse has a guest. Lena Sterling. Whatever 
 LENA (small): I can't pay any of this back.
 NOAH (matter-of-fact): I didn't ask you to. She's spending your money in your apartment right now. I'm not going to let you stand around in a catering uniform while she does it.
 LENA (low): Why. You could hand me over to the Crosses and be their hero.
-NOAH (flat): The Crosses don't own me. And I don't walk away from something I want.
+NOAH (flat): The Crosses don't own me. I saw enough tonight to believe you.
 LENA (low): Then I go to the police.
 NOAH (flat): Police won't save you tonight. They see a crazy woman. We make them look at her.
 
@@ -552,9 +552,9 @@ MARA (on screen, soft, brave): I just want her to get help. (into the camera) Sw
 
 △ [INSERT] On screen, the chyron: STERLING–CROSS WEDDING — DATE SET. Mara lifts the pendant to the camera, slow.
 
-MARA (on screen, sweet): I'll wear my mother's pendant down the aisle. She'd want me to.
+MARA (on screen, sweet): I'll wear this pendant down the aisle. It means everything to me.
 
-LENA (flat): She just called my dead mother hers. On live TV. And they clapped.
+LENA (flat): She's on live TV wearing my face and my necklace. And they clapped.
 
 △ A long beat. Lena lifts her head.
 
@@ -585,11 +585,11 @@ Characters: Lena, Hector, two tenants
 
 △ [NAME] Hector / Doorman
 
-LENA (soft): Hector. It's me. My mother's box is gone from my closet. I need to know who carried it out, and when.
+LENA (soft): Hector. It's me. My keepsake box is gone from my closet. I need to know who carried it out, and when.
 
 HECTOR (careful): Miss Sterling came by last night with Mr. Cross. She took a box down to the car. Said if you showed up again, keep you out.
 
-LENA (low): They're MY mother's things. I'm Lena Sterling.
+LENA (low): They're MY things. I'm Lena Sterling.
 
 △ Hector turns the desk monitor toward Lena.
 
@@ -601,7 +601,7 @@ HECTOR (low, not meeting her eyes): I see it. Same face. I'm not blind. But the 
 
 TENANT (filming, amused): That's her. The one who got her face done to look like the heiress.
 
-LENA (to the lens, voice cracking): She STOLE my face. A surgeon cut hers to match mine. She took my dead mother's things, my home, all of it —
+LENA (to the lens, voice cracking): She STOLE my face. A surgeon cut hers to match mine. She took my home, my name, all of it —
 
 △ The tenants laugh and film harder.
 
@@ -634,7 +634,7 @@ MARA (on screen, sweet, dabbing one eye): I forgive her. I do. I just pray someb
 
 △ In the car, Lena freezes, staring at the phone.
 
-LENA (quiet, the tears stopping): She's crying in my bed, wearing the pendant, asking the whole city to pity her.
+LENA (quiet, the tears stopping): She's crying on TV, wearing my necklace, asking the whole city to pity her.
 
 △ Lena drags the clip back and watches Mara's mouth say it again.
 
@@ -643,7 +643,14 @@ LENA (low, steady now): She cries on cue and eight million people believe her. (
 NOAH: You stopped crying.
 LENA (flat): Her first mistake. (beat) I want more.
 
-## EP10 - S#3  Night / Interior / Noah's Penthouse · Kitchen
+[END HOOK]
+△ [ECU] Lena's face — the tears gone, something colder behind her eyes.
+
+Hard Cut.
+
+---
+
+## EP11 - S#1  Night / Interior / Noah's Penthouse · Kitchen
 Characters: Lena, Noah
 
 △ Noah holds Lena's wrist in one palm and changes the dressing on her hand. Lena watches his hands.
@@ -663,7 +670,7 @@ NOAH (quiet): Cry. I've got you. They don't have to know tonight. I do.
 △ [INTERCUT] Lena's apartment · bedroom — the same night. Mara in Lena's silk slip, cross-legged on Lena's bed. Ethan's jacket over Lena's chair. Ethan in the bed beside her.
 
 MARA (curled into Ethan, small, testing): What if she shows up at the wedding?
-ETHAN (stroking Mara's hair, cold): Then this time they don't walk her out. They carry her. (kissing Mara's shoulder) She's got your face — and she still looks like something that sleeps behind a dumpster. A face was never the part of you that mattered.
+ETHAN (stroking Mara's hair, cold): Then this time they don't walk her out. They carry her. (kissing Mara's shoulder) She's got your face — and she still looks like something that sleeps behind a dumpster.
 MARA (settling into his chest, smiling where Ethan can't see it): Say the last part again.
 ETHAN (low, certain): Nobody steals you from me.
 
@@ -671,23 +678,23 @@ Hard Cut.
 
 ---
 
-## EP11 - S#1  Day / Interior / Noah's Penthouse
+## EP12 - S#1  Day / Interior / Noah's Penthouse
 Characters: Lena, Noah · (screen: Mara)
 
 △ [INSERT] Phone screen — Mara's feed. Mara in Lena's closet, racks of her own new dresses behind her, Helena's jewelry laid out on Lena's bed. Caption: *Healing. Grateful for my family. 🤍*
 
-LENA (flat, to the screen): That's my mother's box — off my own shelf. She's got it spread across my bed for likes.
+LENA (flat, to the screen): That's my box — off my own shelf. She's got it spread across my bed for likes.
 
 △ [INSERT] Phone screen — a live Q&A, hearts flooding. Mara answers every soft question without a blink, sweet and word-perfect.
 
 △ Lena watches the phone. Noah sits beside Lena, not touching.
 
-LENA (flat): Look at her. My closet, my mother's rings, my own front door — and she's loving every second.
+LENA (flat): Look at her. My closet, my rings, my own front door — and she's loving every second.
 NOAH: So take it from her.
 LENA (slow): Then I stop chasing her. I let her reach for the money herself.
 NOAH: Then let her.
 
-## EP11 - S#2  Morning / Interior / Noah's Penthouse · Next Morning
+## EP12 - S#2  Morning / Interior / Noah's Penthouse · Next Morning
 Characters: Lena, Noah · (TV: Tessa, Host · intercut: Mara)
 
 △ A talk show plays on the wall TV. Lena sits in front of it.
@@ -698,9 +705,9 @@ TESSA (TV, tearful): I worked for Lena for years. Looking back, the signs were a
 HOST (TV): And you think that's the woman who —
 TESSA (TV, small): I think she always wanted to be Lena. Now she's telling people she is.
 
-LENA (barely): Tessa held my hair the night my mother died. Now she's making me a joke on TV.
+LENA (barely): Tessa held my hair on the worst night of my life. Now she's making me a joke on TV.
 NOAH (low): She sold you again.
-LENA (cracking): My mother would tell me to stand up. I can't even say my name without people laughing.
+LENA (cracking): I used to be someone. Now I can't even say my own name without people laughing.
 NOAH: Then stop saying it to them.
 LENA: Then who?
 NOAH (level): Me. Say your name once in here. I believe it.
@@ -726,65 +733,7 @@ NOAH: You rattled her.
 LENA (cold): Blocked me in four seconds. She reads every word I send. (beat) Good. Let her sit in my apartment knowing I'm not going anywhere.
 
 [END HOOK]
-LENA (quiet, to the dark screen): Keep grabbing my money, Mara. You never could stop yourself.
-
-Hard Cut.
-
----
-
-## EP12 - S#1  Morning / Exterior / TV Studio · Street Doors
-Characters: Lena, First Woman, Second Woman, Doorman, Man in Suit
-
-△ The glass doors of the network where Tessa's show tapes. Behind the glass, a lobby screen loops yesterday's clip of Tessa mid-tear.
-
-△ Lena walks straight at the doors — no hood, her own face bare in daylight.
-
-LENA (steady, loud enough to carry): That show yesterday was a lie. I'm Lena Sterling. The woman in that house —
-
-△ Two women Lena's own age, coffees in hand, turn toward Lena and light up — delighted, not afraid.
-
-FIRST WOMAN (delighted): Oh my god. It's her. The copycat from Tessa's show.
-SECOND WOMAN (sweet, already filming): Do the line. Please? Say "she stole my face."
-
-△ [PHONE POV] The second woman's vertical screen frames Lena's bare face, the little red dot on.
-
-△ [INSERT] A phone held up beside Lena's face, comparing Lena to a photo captioned LENA STERLING.
-
-LENA (cracking): I'm not copying anyone. She is wearing MY —
-FIRST WOMAN (giggling, to the camera): She's so committed. I kind of love her.
-
-△ A doorman steps in and walks Lena off the doors, both hands soft and gentle. The two women wave bye-bye.
-
-△ A man in a suit, passing, presses a folded five into Lena's hand without stopping.
-
-MAN IN SUIT (not unkind): Get yourself something warm.
-
-△ Lena stands on the sidewalk with the bill open in her hand.
-
-LENA (to no one): ...she did. She stole it.
-
-## EP12 - S#2  Day / Interior / Noah's Penthouse
-Characters: Lena, Noah
-
-△ [INSERT] Phone screen — the sidewalk clip: Lena mid-sentence, the giggle in the audio. Caption: *"SHE STOLE MY FACE" GIRL SHOWS UP AT TESSA'S STUDIO 💀*
-
-△ Lena watches the clip once. Noah watches Lena.
-
-LENA (flat): I screamed it at Hector. At a lobby full of phones. At a TV. And this morning two strangers turned it into a punchline for their feed. Then a man gave me five dollars — like I sleep out there.
-NOAH: And?
-LENA (cracking): And the more I scream it, the crazier I look.
-
-△ Lena turns the TV off. The room goes quiet.
-
-LENA (low): Every time I break down in public, she comes out looking like the victim.
-NOAH: So stop handing it to her.
-LENA (slow): She took my name, my house, my man. She still wants more.
-NOAH: So stop chasing her.
-LENA (cold, decided): So I stop begging. I stop chasing. I put her in front of the people who loved my mother — and let her grab in front of all of them.
-
-[END HOOK]
-NOAH: Where?
-LENA (looking at him): My mother's memorial. She stands up there playing the heartbroken daughter — and still reaches for the money.
+LENA (quiet, to the dark screen): Keep grabbing my money, Mara. You never could stop yourself. (beat) Reach for it in front of everyone who loved my mother. I'll be right there.
 
 Hard Cut.
 
@@ -798,11 +747,11 @@ Characters: Lena, Mara, Noah, Ethan, Victoria, Donor, guards, donors, press
 △ Noah walks Lena in at the back — hood up, a borrowed press badge. His hand flat on Lena's spine.
 
 MARA (at the mic, sweet): I promise you all — I'll protect my mother's legacy. Every last dollar of it.
-LENA (on her feet, loud, steady): Every dollar. That's the only part you care about. (to the room) You buried my mother and started spending like her daughter before the flowers were dead. You're not grieving. You're cashing out.
+LENA (on her feet, loud, steady): Every dollar. That's the only part you care about. (to the room) You crawled into my life and started spending before the flowers were dead. You're not grieving. You're cashing out.
 
 △ The room goes still. Two older donors turn to each other.
 
-DONOR (low): ...she never talked like Helena's daughter. I said so at the time.
+DONOR (low): ...Helena would hate this. I said so at the time.
 
 △ Near the front, Ethan stares at Lena. The room turns toward Lena.
 
@@ -821,11 +770,11 @@ NOAH (stepping in front of Lena, low and firm): Hands off her. Now.
 △ The guards stop. The room watches Noah shield Lena.
 
 VICTORIA (sad, to the cameras): That poor man. She's gotten inside his head too.
-LENA (voice rising, losing the room): I'm not after her. That's my mother's money —
+LENA (voice rising, losing the room): I'm not after her. That foundation was never yours —
 
 △ Ethan crosses straight to Mara and puts himself between her and the room.
 
-ETHAN (low, fierce, to the room): My fiancée is burying her mother, and that lunatic won't even let her grieve.
+ETHAN (low, fierce, to the room): My fiancée is grieving, and that lunatic won't even let her.
 
 △ Mara turns into Ethan's chest, tears right back on.
 
@@ -859,56 +808,7 @@ Hard Cut.
 ---
 
 
-## EP14 - S#1  Morning / Interior / Cross Manor · Mara's Suite
-Characters: Mara · (phone: aide)
-
-△ Mara at her vanity, no makeup, Helena's pendant at her throat. Her jaw tight — yesterday the donors whispered about the stalker, not about her.
-
-MARA (into the phone, low, vicious): They're still talking about yesterday because of HER. Set up the grave visit this morning. Helena's old friends, the donors — get all of them there. I'll cry, they'll believe every tear — and the lunatic disappears for good.
-
-## EP14 - S#2  Morning / Exterior / Glenmoor Cemetery
-Characters: Lena, Mara, Groundskeeper, mourners
-
-△ Helena Sterling's headstone. Helena's old friends and a few donors in a loose half-circle. Mara in black, an armful of white flowers, kneeling.
-
-MARA (at the headstone, soft, for the crowd): Hi, Mom. Look at them all, here for you. For us.
-
-△ Behind the tree line, Lena in a dark hood watches, still. She does not step out.
-
-LENA (V.O.): I'm done giving them a show of me screaming. Today I just watch.
-
-△ Mara lays the flowers on the stone and kisses it. The mourners bow their heads.
-
-△ An aide crouches and murmurs in Mara's ear. Mara answers without lowering her voice, careless, two of Helena's old friends close behind her.
-
-MARA (sharp, impatient, to the aide, not caring who hears): How much longer do I have to kneel in this dirt? Nobody gets a tear out of me until the foundation money's signed to my name.
-
-△ The two old friends — come to mourn, not to clap — draw back. The grief on their faces curdles into something cold.
-
-△ Mara catches herself. The tears snap right back on. The two old friends have already seen enough.
-
-△ From the tree line, Lena watches the two women trade a long look across the grave.
-
-## EP14 - S#3  Morning / Interior / Noah's Car · Continuous
-Characters: Lena, Noah
-
-△ Lena gets in beside Noah and shuts the door. Lena is shaking.
-
-LENA (low, steady): I didn't scream this time. I watched. (beat) She knelt at Helena's grave and asked when she gets paid.
-NOAH (flat): Then she'll say worse when the money is closer.
-
-[END HOOK]
-△ [INSERT] Phone screen, evening — a glowing photo of Mara at the grave. Headline: *"LENA" HONORS LATE MOTHER AT GRAVESIDE.* Thousands of hearts. The whole country crying with her.
-
-△ Lena turns the phone face-down on her knee.
-
-LENA (quiet): They all love her today. (beat) Wait till they watch her grab for the money with the whole room still looking.
-
-Hard Cut.
-
----
-
-## EP15 - S#1  Night / Interior / Noah's Penthouse · Bedroom
+## EP14 - S#1  Night / Interior / Noah's Penthouse · Bedroom
 Characters: Lena, Noah
 
 △ Low light. Lena stands at the window in one of Noah's shirts. Noah comes in. Lena turns to face him.
@@ -939,7 +839,7 @@ NOAH (low): She's got the name. I've got you in my bed. (beat) Lena.
 △ After. Lena's cheek on Noah's chest. Noah's hand in Lena's hair.
 
 LENA (quiet): In here she doesn't exist.
-NOAH (low): Tomorrow she reaches for Helena's money. I'm right next to you when she does.
+NOAH (low): Tomorrow she reaches for the money. I'm right next to you when she does.
 
 [END HOOK]
 △ [INSERT] Across town — Mara at her vanity, scrolling. On the phone screen: a paparazzi shot, Noah Keene's hand at the small of an unnamed woman's back, the two of them leaving his building. The woman's face is turned away.
@@ -952,7 +852,7 @@ Hard Cut.
 
 ---
 
-## EP16 - S#1  Day / Interior / Noah's Office
+## EP15 - S#1  Day / Interior / Noah's Office
 Characters: Noah, Lena · (screen: Host · phone: client)
 
 △ A glass-walled office. Noah at his desk. Lena on the couch, watching a muted morning show on the wall screen.
@@ -979,7 +879,7 @@ CLIENT (V.O., curt): We're out, Keene. Cross said so. Nobody hires the man sleep
 
 NOAH (flat): Second one today. They're calling everyone I work for.
 
-## EP16 - S#2  Day / Interior / Noah's Penthouse · Bedroom · Later
+## EP15 - S#2  Day / Interior / Noah's Penthouse · Bedroom · Later
 Characters: Lena, Noah
 
 △ A duffel open on the bed. Lena folds the few plain clothes she owns into it.
@@ -1014,7 +914,7 @@ Hard Cut.
 
 ---
 
-## EP17 - S#1  Night / Interior / Helena Sterling Memorial Gala
+## EP16 - S#1  Night / Interior / Helena Sterling Memorial Gala
 Characters: Mara, Lena, Noah, guards, guests
 
 △ A grand black-tie room in Helena's name. Mara at the podium, glowing, the pendant on. The room on its feet, applauding.
@@ -1035,28 +935,23 @@ MARA (soft, radiant, to the room): My mom can't be at my wedding. So I brought a
 
 △ [ECU] Noah a half-step behind Lena, letting her go.
 
-[END HOOK]
 △ A guard steps into Lena's path. Lena moves around the guard, eyes on Mara on the stage.
 
 NOAH (low, at Lena's shoulder): You sure.
-LENA (not slowing): She can't walk away from a room full of donors. Watch.
+LENA (not slowing): She won't leave this room clean. Watch.
 
-Hard Cut.
-
----
-
-## EP18 - S#1  Night / Interior / Helena Sterling Memorial Gala · Floor · Continuous
+## EP16 - S#2  Night / Interior / Helena Sterling Memorial Gala · Floor · Continuous
 Characters: Lena, Mara, guests
 
 △ Lena reaches the foot of the stage. The room half-turns. Mara, smiling at the mic, sees Lena coming and keeps smiling for the lenses.
 
 △ Lena doesn't shout. Lena pitches her voice just loud enough to carry.
 
-LENA (low, just for Mara, under the applause): Say it again. Say Helena's money is yours.
+LENA (low, just for Mara, under the applause): You're selling my mother's name to this whole room.
 
 △ Mara keeps the smile up for the room and answers without moving her lips.
 
-MARA (low, through her teeth, just for Lena): Every cent is mine. Keep pushing and I'll bury you before the wedding.
+MARA (low, through her teeth, just for Lena): Her name's mine now. So's the rest of it. Push me and I'll bury you before the wedding.
 
 △ The whole room is on its feet, clapping for the bride. Nobody even looks at Lena.
 
@@ -1065,13 +960,13 @@ MARA (low, through her teeth, just for Lena): Every cent is mine. Keep pushing a
 [END HOOK]
 △ Lena steps back into the crowd, calm.
 
-LENA (quiet, just for Mara): You said it once. You'll say it louder.
+LENA (quiet, just for Mara): You said it once. Say it louder next time.
 
 Hard Cut.
 
 ---
 
-## EP19 - S#1  Night / Interior / Helena Sterling Memorial Gala · Floor · Continuous
+## EP17 - S#1  Night / Interior / Helena Sterling Memorial Gala · Floor · Continuous
 Characters: Lena, Mara, Victoria, Noah, guards, guests
 
 △ Mara drops into tears — fast, wet, expert.
@@ -1080,7 +975,7 @@ MARA (weeping): I'm sorry — I'm sorry, she twists everything, she always has �
 
 △ Most of the room moves toward Mara. Staff close in on Lena.
 
-VICTORIA (quiet, sad, to the nearest guests): You see what that creature does to her. At her own mother's gala.
+VICTORIA (quiet, sad, to the nearest guests): You see what that creature does to her. At her own gala.
 
 △ The crowd folds around Mara. Lena stands alone in it, the only one not crying for the bride.
 
@@ -1098,7 +993,7 @@ NOAH (even): Hands off. She's with me.
 
 △ Behind Noah and Lena, two guests trade pitying looks at Noah's back.
 
-## EP19 - S#2  Night / Interior / Noah's Car · Continuous
+## EP17 - S#2  Night / Interior / Noah's Car · Continuous
 Characters: Lena, Noah
 
 △ Lena gets in beside Noah. Noah pulls out.
@@ -1119,7 +1014,7 @@ Hard Cut.
 
 ---
 
-## EP20 - S#1  Night / Interior / Cross Manor · Mara's Suite
+## EP18 - S#1  Night / Interior / Cross Manor · Mara's Suite
 Characters: Mara · (phone: Eileen)
 
 △ Mara paces her suite. On the dresser, her phone lies face-up, a call open on speaker.
@@ -1136,7 +1031,7 @@ EILEEN (V.O., cold, pleased): Now you're listening.
 
 △ [ECU] Mara studies her own face in the mirror, satisfied.
 
-MARA (low, sour): Twenty years she had all this and wasted it. (beat) It looks better on me.
+MARA (low, sour): It looks better on me.
 
 [END HOOK]
 △ Mara stares at her reflection, jaw set.
@@ -1149,20 +1044,20 @@ Hard Cut.
 
 ---
 
-## EP21 - S#1  Night / Interior / Noah's Penthouse
+## EP19 - S#1  Night / Interior / Noah's Penthouse
 Characters: Lena, Noah
 
 △ Lena sits slumped on the couch, staring at nothing.
 
-LENA (hollow): She says "Mom" on TV and people clap. I want to rip that word out of her mouth.
+LENA (hollow): She wears my face on TV and people clap. I want to rip it right off her.
 
 NOAH (low, sitting beside her): Then take it back. Your name, your face, all of it. (beat) You're almost there.
 
 △ Lena leans into him. Noah holds her.
 
 [END HOOK]
-LENA (quiet, into his chest): She's out there pretending my mom was hers.
-NOAH (certain): Not for much longer. Every day she's in front of more people, reaching for more than she can hold.
+LENA (quiet, into his chest): She's out there being me. And they love her for it.
+NOAH (certain): Not for much longer. She'll grab again. She always does.
 
 △ [INSERT] The TV behind them, muted — Mara in white at a press wall. Chyron: THE WEDDING — COUNTDOWN BEGINS.
 
@@ -1170,40 +1065,7 @@ Hard Cut.
 
 ---
 
-## EP22 - S#1  Day / Interior / Bridal Salon
-Characters: Mara, attendants
-
-△ Mara stands at a three-way mirror in a wedding gown. Two attendants in black fuss at the hem. Mara turns to admire herself.
-
-MARA (to the mirror, preening): Look at me. It finally fits.
-
-△ Mara's eyes flick to the doorway behind her in the mirror. Empty. She checks it again.
-
-MARA (sharp, to an attendant): Who came in? Is someone at the door?
-ATTENDANT (careful): No one, Miss Sterling. We closed the salon for you.
-
-△ Mara turns back to her own face in the glass. She can't hold the smile.
-
-MARA (low): Then why do I keep feeling her behind me.
-
-△ An attendant kneels and reaches for the hem. Mara snatches the fabric out of her hands.
-
-MARA (cold): Don't paw at it. This dress is worth more than you are.
-
-△ The attendant freezes, eyes down.
-
-[END HOOK]
-△ [INSERT] Mara's phone screen — a mirror selfie in the gown, caption: *Said yes to the dress 👰🤍* Thousands of hearts.
-
-△ Mara scrolls the hearts. Her eyes keep going back to the empty doorway behind her in the photo.
-
-MARA (low, to herself): It's all mine. So why doesn't it feel like it.
-
-Hard Cut.
-
----
-
-## EP23 - S#1  Night / Interior / Noah's Penthouse · Bedroom
+## EP20 - S#1  Night / Interior / Noah's Penthouse · Bedroom
 Characters: Lena, Noah
 
 △ Late. The dark city behind the glass. Lena turns to Noah.
@@ -1237,7 +1099,7 @@ Hard Cut.
 
 ---
 
-## EP24 - S#1  Night / Interior / Noah's Penthouse / Cross Manor · Bedroom · Intercut
+## EP21 - S#1  Night / Interior / Noah's Penthouse / Cross Manor · Bedroom · Intercut
 Characters: Lena · (phone/intercut: Mara, Ethan's shadow)
 
 △ Lena's phone rings — unknown number. Lena answers.
@@ -1246,7 +1108,7 @@ Characters: Lena · (phone/intercut: Mara, Ethan's shadow)
 
 MARA (sultry, gloating): Ethan just kissed me goodnight. Slow. Hands everywhere. He thinks it's you — but it's my mouth he wants now. You should hear the way he says your name when the lights are off.
 LENA (flat): You're disgusting.
-MARA (smug): I'm comfortable. Big difference. Your robe's on my floor, your sheets under my back, your fiancé asleep ten feet away. He fucks me every night moaning your name and never knows. (cruel) He doesn't miss you. He wants this face, and I have it.
+MARA (smug): I'm comfortable. Big difference. Your robe's on my floor, your sheets under my back, your fiancé in the bathroom ten feet away. He fucks me every night moaning your name and never knows. (cruel) He doesn't miss you. He wants this face, and I have it.
 
 △ [INTERCUT] Lena grips the phone, knuckles tight.
 
@@ -1256,7 +1118,7 @@ MARA (mocking, contemptuous): You're out there screaming at strangers in a wig. 
 
 △ Mara tosses the phone aside and pulls Lena's silk robe tighter around herself.
 
-## EP24 - S#2  Night / Interior / Noah's Penthouse · Continuous
+## EP21 - S#2  Night / Interior / Noah's Penthouse · Continuous
 Characters: Lena, Noah
 
 △ Lena sets the phone down. Her hands shake. Noah watches Lena.
@@ -1275,14 +1137,14 @@ Hard Cut.
 
 ---
 
-## EP25 - S#1  Day / Exterior / Cross Manor · Garden
+## EP22 - S#1  Day / Exterior / Cross Manor · Garden
 Characters: Lena, Mara, Victoria, guests
 
 △ A garden bridal shower in full bloom. Mara stands at the center, glowing, guests around her.
 
 △ Lena, in a catering apron and a pinned wig, slips in along the catering line. She moves toward a small circle of older women in pastel who knew Helena.
 
-LENA (low, to the woman in pearls): You loved Helena. Thirty years at her table. You know that woman up there is nothing like her daughter. (low) Don't turn away. Help me.
+LENA (low, to the woman in pearls): You loved Helena. Don't sit there and clap while that woman spends her name like it's hers. (low) Don't turn away. Help me.
 
 △ A woman in the circle gasps and steps back. Across the garden, without turning, Mara raises her voice for everyone.
 
@@ -1299,39 +1161,29 @@ A GUEST (backing off): Somebody — call someone —
 
 △ Victoria points Lena out across the garden, loud, for the crowd.
 
-[END HOOK]
-LENA (cold, to the circle of women): You all loved Helena. And you know that woman is not her daughter.
+LENA (cold, to the circle of women): You all loved Helena. Don't clap while she spends her name.
 
 △ The garden goes silent. Every face turns toward Mara.
 
-Hard Cut.
-
----
-
-
-## EP26 - S#1  Day / Exterior / Cross Manor · Garden · Continuous
+## EP22 - S#2  Day / Exterior / Cross Manor · Garden · Continuous
 Characters: Lena, Woman in Pearls, guests
-
-△ Lena stands surrounded in the catering apron and pinned wig. The circle of older women in pastel stands frozen around Lena.
-
-LENA (cold, steady): You all know what she is. And not one of you will say it out loud.
 
 △ One woman turns her back. Then another. The whole circle turns away — all but one.
 
 △ An older woman in pearls holds Lena's eyes and does not turn.
 
-LENA (quiet, only to her): You didn't turn away. That means you know.
+LENA (quiet, only to her): You didn't turn away. So you'll help me.
 
 △ The woman in pearls stays put while the others turn. Her eyes fill.
 
-## EP26 - S#2  Day / Exterior / Cross Manor · Front Gate · Continuous
+## EP22 - S#3  Day / Exterior / Cross Manor · Front Gate · Continuous
 Characters: Lena, Woman in Pearls, Noah, guards
 
 △ Two guards walk Lena toward the gate, one at each arm. Behind them, the woman in pearls leaves the shower early, alone.
 
 △ The woman in pearls reaches the gate and catches Lena's hand. The woman leans in close, fast, only for Lena.
 
-WOMAN IN PEARLS (low, fast, gripping Lena's hand): I loved Helena thirty years. I can't say it in there — they'd bury me. But Friday, the foundation gala — she'll show them all what she really wants. Be there.
+WOMAN IN PEARLS (low, fast, gripping Lena's hand): I loved Helena. I can't say it in there — they'd bury me. But I will never clap for that woman. Not once.
 
 △ The woman in pearls squeezes Lena's hand hard, then walks off fast through the parked cars.
 
@@ -1353,12 +1205,12 @@ Hard Cut.
 
 ---
 
-## EP27 - S#1  Day / Exterior / Noah's Penthouse · Street
+## EP23 - S#1  Day / Exterior / Noah's Penthouse · Street
 Characters: Lena, Ethan
 
 △ Lena comes out of the building. Ethan stands at the curb, planted there, waiting for her.
 
-ETHAN (clipped): You need to stop. You show up at the cemetery. Her salon. Her shower. People are scared of you.
+ETHAN (clipped): You need to stop. You show up at the cemetery. Her shower. People are scared of you.
 LENA (level): Ethan. Three years of breakfasts across one table. You know me.
 ETHAN (cold): The woman I'm marrying is Lena. You paid a surgeon to look like her. Stop embarrassing yourself.
 LENA (quiet): You came here yourself. I got to you.
@@ -1393,7 +1245,7 @@ Hard Cut.
 
 ---
 
-## EP28 - S#1  Night / Interior / Rooftop Restaurant
+## EP24 - S#1  Night / Interior / Rooftop Restaurant
 Characters: Lena, Noah, diners
 
 △ Noah sits across from Lena at a rooftop table, out in the open, no wrap, no glasses. Noah keeps his hand over Lena's on the cloth.
@@ -1409,7 +1261,7 @@ LENA (low): I'd forgotten what it's like to be looked at and not flinch.
 
 △ Two tables over, a diner lifts a phone and takes a photo of Lena and Noah.
 
-## EP28 - S#2  Night / Interior / Cross Manor · Mara's Suite
+## EP24 - S#2  Night / Interior / Cross Manor · Mara's Suite
 Characters: Mara · (phone: Eileen) · (screen: Lena, Noah)
 
 △ [INSERT] Phone screen, already posted: KEENE & THE FACE-STEALER — COZY ROOFTOP DINNER. Lena smiling beside Noah.
@@ -1439,24 +1291,24 @@ Hard Cut.
 
 ---
 
-## EP29 - S#1  Day / Exterior / Cross Manor · Gates
+## EP25 - S#1  Day / Exterior / Cross Manor · Gates
 Characters: Mara, press
 
 △ Mara stands at a cluster of microphones outside the gates, crying, days before the wedding.
 
-MARA (trembling, to the cameras): I just want to get married in peace. But she keeps finding me. My salon. My shower. The cemetery. Please — keep her away from my wedding. I'm scared of what she'll do.
+MARA (trembling, to the cameras): I just want to get married in peace. But she keeps finding me. My shower. The cemetery. Please — keep her away from my wedding. I'm scared of what she'll do.
 
 △ The press cameras crowd in close on Mara's wet face. The reporters nod along.
 
-## EP29 - S#2  Day / Interior / Noah's Penthouse · Continuous
+## EP25 - S#2  Day / Interior / Noah's Penthouse · Continuous
 Characters: Lena, Noah · (screen: Mara)
 
 △ Lena watches Mara's tearful statement play on the wall screen. Noah stands beside Lena.
 
 NOAH (even): She's not scared of a stalker. She's scared of you. She wants you to scream.
-LENA (steady): Then I don't scream. I let her keep crying — and keep reaching. She can't help it.
+LENA (steady): Then I don't scream. I let her show them. She can't help herself.
 
-## EP29 - S#3  Day / Exterior / Cross Manor · Gates
+## EP25 - S#3  Day / Exterior / Cross Manor · Gates
 Characters: Lena, Mara, press, guards
 
 △ Lena stands at the edge of the crowd, still, hands at her sides — just watching Mara perform.
@@ -1469,7 +1321,7 @@ MARA (louder, pushing it, to the press): She's here — right there! Somebody ge
 
 △ Every lens swings to where Mara points — a quiet woman doing nothing at all. A reporter lowers his camera, frowning.
 
-LENA (quiet, just watching): Keep reaching, Mara. A little further.
+LENA (quiet, just watching): Keep going, Mara. Louder.
 
 [END HOOK]
 △ At a manor window above the gates, Eileen watches her daughter oversell it to a crowd that has started to frown. Eileen's knuckles go white on the sill.
@@ -1478,7 +1330,7 @@ Hard Cut.
 
 ---
 
-## EP30 - S#1  Night / Interior / Cross Manor · Mara's Suite
+## EP26 - S#1  Night / Interior / Cross Manor · Mara's Suite
 Characters: Mara · (phone: Eileen) · (intercut: Lena, Noah)
 
 △ Mara sits on the edge of the bed in the dark. The replacement wedding gown hangs across the room. A phone glows on speaker beside Mara.
@@ -1492,7 +1344,7 @@ EILEEN (V.O., cold): Take her name. Take the house. Take the man. Leave her outs
 
 △ Mara taps the phone dark. Mara scrolls, then stops, thumb frozen on the screen.
 
-△ [INTERCUT] Noah's penthouse, same night. Lena watches Mara's feed — Mara radiant, adored, in Lena's face and Lena's mother's necklace.
+△ [INTERCUT] Noah's penthouse, same night. Lena watches Mara's feed — Mara radiant, adored, in Lena's face and Lena's own necklace.
 
 LENA (quiet, to Noah): She's wearing my face, and a whole room loves her for it. (cold) She'll take again. I just have to be there.
 
@@ -1513,7 +1365,7 @@ Hard Cut.
 
 ---
 
-## EP31 - S#1  Night / Interior / Cross Manor · Banquet Hall
+## EP27 - S#1  Night / Interior / Cross Manor · Banquet Hall
 Characters: Mara, a guest, Ethan, Victoria, guests · (outside: Lena)
 
 △ The night before the wedding. Mara sits at the head of the long table in white. Guests crowd the tables, glasses up.
@@ -1528,11 +1380,11 @@ MARA (sweet, raising her glass): To Mom. (a beat too bright) Everything she left
 
 △ A few glasses lift. Ethan looks up from his plate at Mara, and frowns.
 
-△ [INTERCUT] In the dark at the service window, Lena watches Mara toast with her dead mother's name. Lena steps back into the dark.
+△ [INTERCUT] In the dark at the service window, Lena watches Mara toast in her stolen name. Lena steps back into the dark.
 
 △ At the head table, Mara spots Lena at the service window. Her hand tightens around the glass.
 
-## EP31 - S#2  Night / Exterior / Cross Manor · Service Yard · Continuous
+## EP27 - S#2  Night / Exterior / Cross Manor · Service Yard · Continuous
 Characters: Lena, Mara · (then: Ethan)
 
 △ The service yard — dark, crates and bins between the wall and the hedge. Lena cuts through it, hood up, headed for the road.
@@ -1549,7 +1401,7 @@ MARA (closer, sweet): I should have fixed this at the clinic. One more push on t
 
 MARA (squeezing, cooing): Shh. Shh. Don't fight it, sweetie. Nobody's even out here.
 LENA (choked): They'll... find me—
-MARA (tightening, sweet): And here's the best part. When they find your body, they bury you under my old name. Just a crazy, jealous nobody who lost her mind. (close to her ear) Nobody even goes missing. Bye, Mara.
+MARA (tightening, sweet): And here's the best part. When they find your body, they call you Mara. Nobody ever looks for Lena. (close to her ear) I'm right here.
 
 △ Lena claws at Mara's wrists. The yard light swims. Lena's hand finds the crate — the champagne glass — and rakes it hard across Mara's forearm. Glass cracks. Mara's grip slips.
 
@@ -1568,7 +1420,7 @@ Hard Cut.
 
 ---
 
-## EP32 - S#1  Night / Exterior / Cross Manor · Service Yard · Continuous
+## EP28 - S#1  Night / Exterior / Cross Manor · Service Yard · Continuous
 Characters: Lena, Mara, Ethan
 
 △ One breath. Then Mara spins and runs to Ethan — shaking, tears already up.
@@ -1587,7 +1439,7 @@ MARA (screaming into Ethan's chest): GET HER AWAY FROM ME!
 
 △ Ethan stares at the blood running down Mara's arm. Then at the lit windows of the hall behind him.
 
-ETHAN (to Lena, cold): I saw the glass in your hand. (beat) Go. Before security does it for you.
+ETHAN (to Lena, cold): I see your neck. I see the glass. (beat) I can't do this here. Go. Before security does it for you.
 
 △ Lena backs into the dark, throat burning.
 
@@ -1598,7 +1450,7 @@ ETHAN (V.O.): She sounded so sure. (beat) Stop. The glass was in her hand.
 MARA (small, into his chest): You're shaking.
 ETHAN (flat): So are you. (beat) Inside.
 
-## EP32 - S#2  Night / Interior / Noah's Car · Continuous
+## EP28 - S#2  Night / Interior / Noah's Car · Continuous
 Characters: Lena, Noah
 
 △ Lena drops into the seat. Noah sees her throat. He goes very still.
@@ -1606,13 +1458,13 @@ Characters: Lena, Noah
 NOAH (quiet, dangerous): Who.
 LENA (rasping, flat): Her. With her own hands. Smiling the whole time. (beat) She said I die as Mara, she lives as Lena — and nobody even goes missing.
 NOAH (jaw tight): She put her hands on you. (beat) We end this. Whatever it takes.
-LENA (cold, steady): Tomorrow she stands at the altar. She just showed me where she breaks.
+LENA (cold, steady): Tomorrow she stands at the altar. She'll panic there too.
 
 △ Noah takes Lena's hand off her lap and holds it. He doesn't let go the whole ride.
 
 △ [INSERT] A billboard slides past — flowers, press, Mara in Lena's face, captioned THE BRIDE.
 
-## EP32 - S#3  Morning / Interior / Noah's Penthouse
+## EP28 - S#3  Morning / Interior / Noah's Penthouse
 Characters: Lena, Noah · (TV: Mara)
 
 △ A wall-mounted TV runs the morning broadcast. Chyron: STERLING–CROSS WEDDING TODAY. On the screen, Mara wears Lena's face, white gown, Helena's pendant at her throat, waving.
@@ -1637,7 +1489,7 @@ Hard Cut.
 
 ---
 
-## EP33 - S#1  Day / Exterior / Cross Manor · Garden
+## EP29 - S#1  Day / Exterior / Cross Manor · Garden
 Characters: Lena, Mara, Ethan, Noah, officiant, guests · (Noah's security present)
 
 △ [HIGH ANGLE] Hundreds of guests fill white-draped rows. At the aisle entrance, Mara stands in white — long lace sleeves down to her wrists — Helena's pendant at her throat. Ethan waits under the arch.
@@ -1667,7 +1519,7 @@ Hard Cut.
 
 ---
 
-## EP34 - S#1  Day / Exterior / Cross Manor · Garden · Continuous
+## EP30 - S#1  Day / Exterior / Cross Manor · Garden · Continuous
 Characters: Lena, Mara, Ethan, Noah, Guest, guests, security
 
 △ Ethan slides a ring onto Mara's hand.
@@ -1692,7 +1544,7 @@ LENA (shouting): That's MY name she's taking! She drugged me and dumped me in a 
 
 △ [ECU] Mara and Ethan kissing under the arch, confetti in the air.
 
-## EP34 - S#2  Day / Exterior / Cross Manor · Outside the Gates · Continuous
+## EP30 - S#2  Day / Exterior / Cross Manor · Outside the Gates · Continuous
 Characters: Lena, Noah
 
 △ The cheering muffles behind the hedges. Lena lies on the grass where security left her.
@@ -1713,18 +1565,18 @@ Hard Cut.
 
 ---
 
-## EP35 - S#1  Day / Interior / Noah's Penthouse
+## EP31 - S#1  Day / Interior / Noah's Penthouse
 Characters: Lena, Noah · (TV: Mara, Reporter)
 
 △ [INSERT] TV — a wedding-week press junket, a row of reporters firing questions. Chyron: MRS. CROSS SPEAKS. Mara glowing in long sleeves, ring flashing, Helena's pendant on.
 
 △ Lena sits forward on the couch, eyes on the screen. Noah watches Lena.
 
-LENA (low): Watch her when they say Helena's name.
+LENA (low): She can't hear Helena's name and stay quiet.
 
 △ [INSERT] TV — down the row, a reporter leans in, pleasant, a tablet on her knee.
 
-REPORTER (TV, pleasant): Mrs. Cross, why is Helena Sterling's foundation moving under your name Friday?
+REPORTER (TV, warm): Congratulations on the foundation, Mrs. Cross. Your mother would be so proud of you today.
 
 △ [ECU] Mara opens her mouth to smile it off — and snaps.
 
@@ -1744,10 +1596,10 @@ Hard Cut.
 
 ---
 
-## EP36 - S#1  Day / Interior / Cross Manor · Mara's Suite
+## EP32 - S#1  Day / Interior / Cross Manor · Mara's Suite
 Characters: Mara, Eileen
 
-△ Mara lounges across the suite, ring on, Helena's pendant on. Eileen stands by the door, pulled back, wary.
+△ Mara lounges across the suite, ring on, the pendant on. Eileen stands by the door, pulled back, wary.
 
 EILEEN (flat): You got the ring and still called her. Why.
 MARA (gloating, mean): Because I wanted to hear her cry. I called her up just to say it slow — Mrs. Cross. She cried. I loved it.
@@ -1777,22 +1629,22 @@ ETHAN (quiet, not looking at Mara): I've got calls.
 [END HOOK]
 △ Mara watches him go, the sweet smile flattening off her face.
 
-MARA (low, to the empty doorway): Watch me. Friday I sign the foundation papers as Helena's daughter. In front of everybody. Nobody takes one cent back.
+MARA (low, to the empty doorway): Watch me. Friday I sign as Helena's daughter. Then it's all mine.
 
 Hard Cut.
 
 ---
 
-## EP37 - S#1  Night / Interior / Helena Sterling Foundation Gala · Grand Staircase
+## EP33 - S#1  Night / Interior / Helena Sterling Foundation Gala · Grand Staircase
 Characters: Mara, Lena, Noah, Ethan, Victoria, guests
 
 △ [HIGH ANGLE] The Helena Sterling Foundation gala — Mrs. Cross's first big public night, her name going on the foundation before the room. Mara stands at the top of a sweeping staircase, ring and pendant on. Hundreds of guests below.
 
 △ Lena stands among the guests, a dark wig and a borrowed invitation getting her in. Under the wig, her own face, watching Mara work the room.
 
-△ Mara takes the mic to thank "her mother's dearest friends," sweeping a warm hand across the crowd.
+△ Mara takes the mic to thank "Helena's dearest friends," sweeping a warm hand across the crowd.
 
-MARA (warm, for the room): Every face here is family. Mom would be so proud to see you all.
+MARA (warm, for the room): You all loved my mother. She'd be proud tonight.
 
 △ A few guests glance at each other. The grand warmth lands on no one.
 
@@ -1841,21 +1693,21 @@ Hard Cut.
 
 ---
 
-## EP38 - S#1  Night / Interior / Noah's Penthouse
+## EP34 - S#1  Night / Interior / Noah's Penthouse
 Characters: Lena, Noah
 
-△ Lena sits on the floor, wrecked. On the wall screen behind Lena, the clip of her at the top of the stairs plays on a loop across feeds.
+△ Lena sits on the floor, wrecked. Noah crouches in front of her.
 
-LENA (cracking): I almost had them. They were starting to believe me. Then she jumped and now I'm the one who—
-NOAH (low): I know. I saw her do it. She threw herself down those stairs to bury you.
-LENA (small): A hundred phones in that room. And nobody saw it.
-NOAH (level): They were filming the blood, not the jump. They'd already decided who pushed who.
+LENA (cracking): She threw herself down a flight of marble to keep them looking at her. Who does that?
+NOAH (low): A desperate woman. I saw her do it — and so did the ones who already doubt her.
+LENA (small): She's unraveling in front of everyone.
+NOAH (level): Every time she does something this insane, a few more stop believing her. She's doing your work for you.
 
 △ Noah kneels in front of Lena and takes her face in both hands.
 
 NOAH (certain): I did. Look at me. I was right there. I watched her throw herself down those stairs. You're the one person in this whole city I'm still sure of.
 
-## EP38 - S#2  Night / Interior / Noah's Penthouse · Bedroom · Continuous
+## EP34 - S#2  Night / Interior / Noah's Penthouse · Bedroom · Continuous
 Characters: Lena, Noah
 
 △ Lena reaches for Noah first, pulling him in hard.
@@ -1880,7 +1732,7 @@ NOAH (low): Lena.
 
 △ After. Lena's head on Noah's bare chest, his arm around her.
 
-LENA (quiet): In here I forget I'm the most hated woman in the country.
+LENA (quiet): In here I don't hear them calling me crazy.
 NOAH (low): Then stay in here with me. Not because you're hiding — because you want to.
 
 [END HOOK]
@@ -1893,7 +1745,7 @@ Hard Cut.
 ---
 
 
-## EP39 - S#1  Day / Interior / Morning Show Studio
+## EP35 - S#1  Day / Interior / Morning Show Studio
 Characters: Mara, Host
 
 △ [INSERT] A morning show set. Mara sits in a soft chair across from the Host, a bandage at her hairline.
@@ -1902,7 +1754,7 @@ MARA (on screen, soft, brave): I just want to feel safe. She pushed me down the 
 
 △ The Host leans in and dabs at her own eyes.
 
-## EP39 - S#2  Day / Interior / Noah's Penthouse
+## EP35 - S#2  Day / Interior / Noah's Penthouse
 Characters: Lena, Noah · (TV: Mara)
 
 △ Lena watches the broadcast on the wall screen. Beside Lena, Noah's phone lights up on the table, call after call.
@@ -1912,7 +1764,14 @@ NOAH (flat): No.
 LENA: Noah—
 NOAH (low, certain): I said no. I don't need them. I need you.
 
-## EP39 - S#3  Day / Interior / Cross Manor · Foyer
+[END HOOK]
+△ [ECU] Noah's hand closes over Lena's, steady. Outside the glass, the calls keep coming.
+
+Hard Cut.
+
+---
+
+## EP36 - S#1  Day / Interior / Cross Manor · Foyer
 Characters: Mara, Eileen
 
 △ A packed bag at the door. Eileen stands beside it, coat on. Across from Eileen, Mara stands with the bandage at her hairline.
@@ -1932,7 +1791,7 @@ Hard Cut.
 
 ---
 
-## EP40 - S#1  Night / Exterior / Noah's Penthouse · Terrace
+## EP37 - S#1  Night / Exterior / Noah's Penthouse · Terrace
 Characters: Lena, Noah
 
 △ Lena stands at the terrace rail. Below the rail, the city glitters across the dark.
@@ -1944,7 +1803,7 @@ NOAH (low): Then don't go back.
 
 △ Lena turns and faces Noah.
 
-NOAH (certain): You've spent every day chasing the life she stole. Stop chasing it. Start a new one with me instead — one she can't touch.
+NOAH (certain): You've spent every day chasing the life she stole. Take it back — with me beside you, not instead of it.
 
 △ Noah takes Lena's hand and opens his palm. A thin plain gold band rests in Noah's hand.
 
@@ -1969,7 +1828,7 @@ Hard Cut.
 
 ---
 
-## EP41 - S#1  Morning / Interior / Noah's Penthouse
+## EP38 - S#1  Morning / Interior / Noah's Penthouse
 Characters: Lena, Noah
 
 △ Morning light across the glass. Lena sits in soft ivory, hair loose, the thin gold band on her hand.
@@ -1983,7 +1842,7 @@ NOAH (certain): Nobody's taking anything of yours again. I'll see to that myself
 LENA (flat): I finally get one good thing and somehow that's the problem.
 NOAH (low): Then we do it loud. In the open. Big as I can make it.
 
-## EP41 - S#2  Morning / Interior / Cross Manor / Noah's Penthouse · Intercut
+## EP38 - S#2  Morning / Interior / Cross Manor / Noah's Penthouse · Intercut
 Characters: Mara · Lena
 
 △ [INTERCUT] Cross Manor. Mara stands in cream, the tablet in her hand, the same headline on the screen.
@@ -2007,43 +1866,7 @@ Hard Cut.
 
 ---
 
-## EP42 - S#1  Day / Interior / Morning Show Studio
-Characters: Mara, Host
-
-△ [INSERT] The morning show set. Mara sits in blush silk, the pendant at her throat, eyes wet on cue.
-
-MARA (on screen, trembling, brave): I'm not scared for me anymore. I'm scared for Noah Keene. She did this to the Cross family. Now she's using Noah Keene too. Somebody has to protect that man.
-
-△ The Host nods, grave.
-
-## EP42 - S#2  Day / Interior / Noah's Office
-Characters: Noah, Lena, staff · (screens: Mara)
-
-△ Noah stands in front of a room of his own staff. On the wall screen behind Noah, Mara's clip plays.
-
-NOAH (even, certain): I know who I'm marrying. Anyone who doesn't can leave now.
-
-△ Nobody in the room moves.
-
-LENA (quiet): They all think you're being played.
-NOAH (calm): Let them. I'm not hiding you to make a crowd comfortable.
-
-△ [ECU] Mara on the wall screen — wet eyes, blush silk.
-
-△ [HIGH ANGLE] The room of Noah's staff, every one of them staying put.
-
-[END HOOK]
-△ [INSERT] A phone screen: #SaveNoahKeene trending nationwide.
-
-△ [INSERT] Mara's newest post — a single lit candle, the pendant in frame. Caption: *Praying for Noah. Some people can't stand seeing anyone happy. 🤍*
-
-LENA (low): She's not saving him. She's trying to take him from me too.
-
-Hard Cut.
-
----
-
-## EP43 - S#1  Day / Interior / Noah's Penthouse
+## EP39 - S#1  Day / Interior / Noah's Penthouse
 Characters: Lena, Noah
 
 △ Lena lowers her phone from her ear.
@@ -2055,7 +1878,7 @@ NOAH (already dialing): That place was never going to be big enough anyway. We t
 
 △ [INSERT] A glass conservatory over the sea — glass walls, white peonies, the tide behind it.
 
-## EP43 - S#2  Evening / Interior / Noah's Penthouse · Later
+## EP39 - S#2  Evening / Interior / Noah's Penthouse · Later
 Characters: Lena, Noah
 
 △ A delivery package on the table. Lena tears it open. Inside is a bridal magazine, Lena's own face ripped off the cover.
@@ -2079,20 +1902,20 @@ Hard Cut.
 
 ---
 
-## EP44 - S#1  Day / Exterior / Conservatory · Steps
+## EP40 - S#1  Day / Exterior / Conservatory · Steps
 Characters: Lena, Mara, Noah
 
 △ Lena comes out the conservatory door toward the car. Beside the car, Mara stands waiting in cream.
 
-MARA (sweet gone, mocking): You think a glass house keeps me out? I've got your name, your bank, your dead mother's necklace. You really think a man like Noah Keene marries the crazy stalker on camera? Call it off before you embarrass him too.
+MARA (sweet gone, mocking): You think a glass house keeps me out? I've got your name, your bank, your necklace. You really think a man like Noah Keene marries the crazy stalker on camera? Call it off before you embarrass him too.
 
 △ Lena steps in close, crowding Mara back against the car.
 
-LENA (calm): You took the name, the money, the man. And you still drove an hour to scream at me in a parking lot. (beat) That's not winning, Mara. That's losing.
+LENA (calm): You've got the name, the money, the man. And you still came all the way out here to scream at me in a parking lot. (beat) You drove an hour just to watch me smile.
 
 △ Mara's hand tightens on the car door.
 
-LENA (steady): You'll come Saturday anyway. You can't stand me happy, and you never once kept your mouth shut in a room full of people.
+LENA (steady): You'll come Saturday. You can't stand me happy.
 
 △ Mara turns and gets in her car. The car pulls away too fast.
 
@@ -2100,14 +1923,14 @@ LENA (steady): You'll come Saturday anyway. You can't stand me happy, and you ne
 
 [END HOOK]
 NOAH (O.S., from the doorway): You didn't have to say much.
-LENA (steady): I didn't. She can't stand me happy. She'll come on her own — and do exactly what she always does.
+LENA (steady): I didn't. She'll come on her own — and do exactly what she always does.
 
 Hard Cut.
 
 ---
 
 
-## EP45 - S#1  Night / Interior / Noah's Penthouse · Bedroom
+## EP41 - S#1  Night / Interior / Noah's Penthouse · Bedroom
 Characters: Lena, Noah
 
 △ Night, the city dark behind the glass. Lena stands at the window in one of Noah's shirts.
@@ -2128,7 +1951,7 @@ NOAH (low): Come to bed.
 △ After. Lena's head rests on Noah's chest.
 
 LENA (quiet): If she comes tomorrow—
-NOAH (even): Then she leaves our wedding in front of everyone. I saved the front row for your mother's old friend. She knows what Mara did to Helena's money.
+NOAH (even): Then she leaves our wedding in front of everyone. I saved the front row for someone who loved Helena. Mara won't like seeing her there.
 LENA (quiet): The woman in pearls.
 NOAH (low): Her. (beat) Sleep. Tomorrow you marry me.
 
@@ -2145,10 +1968,10 @@ Hard Cut.
 
 ---
 
-## EP46 - S#1  Morning / Interior / Conservatory · Bridal Suite
+## EP42 - S#1  Morning / Interior / Conservatory · Bridal Suite
 Characters: Lena, Noah's Aunt · (intercut: Mara, Ethan, Victoria, Cameraman, Eileen)
 
-△ Sea light pours through the glass. Lena stands in Helena's wedding dress — clean ivory silk, no train.
+△ Sea light pours through the glass. Lena stands in a simple ivory wedding dress — clean silk, no train.
 
 LENA (quiet): The dress Mara never got to touch.
 
@@ -2159,7 +1982,7 @@ NOAH'S AUNT (taking Lena's arm, warm): You do now. Me. And if my nephew had his 
 
 △ Lena looks at her own face in the glass.
 
-LENA (low, to her reflection): Okay. Today nobody takes anything.
+LENA (low, to her reflection): Okay. Not today.
 
 △ [INTERCUT] Mara, in the black dress, slides into a car. A cameraman gets in after her. The car pulls out fast.
 
@@ -2171,7 +1994,7 @@ VICTORIA (already walking): Then go watch. Just drag your wife home before she c
 
 △ Ethan and Victoria get into a second car.
 
-△ [INTERCUT] Eileen alone in her apartment, the TV on — LIVE: THE KEENE WEDDING, and a tip already racing online that the "Cross stalker" is the bride. Eileen stares one second, then grabs her coat off the chair.
+△ [INTERCUT] Eileen, already in her coat, watches the TV — LIVE: THE KEENE WEDDING, a tip already racing online that the "Cross stalker" is the bride. Her jaw tightens.
 
 EILEEN (low, cold, to herself): That stupid girl is going to spill the whole thing on a live feed. (beat) And drag me down with her.
 
@@ -2184,7 +2007,7 @@ Hard Cut.
 
 ---
 
-## EP47 - S#1  Day / Interior / Conservatory · Aisle
+## EP43 - S#1  Day / Interior / Conservatory · Aisle
 Characters: Lena, Noah, Officiant, Woman in Pearls, guests · (then: Mara, Cameraman, Ethan, Victoria, Eileen)
 
 △ [HIGH ANGLE] The glass aisle, sea light behind it, a small crowd seated — Noah's people on one side, a handful for Lena on the other.
@@ -2206,7 +2029,7 @@ OFFICIANT: Do you, Noah—
 
 △ The conservatory doors bang open.
 
-△ Mara strides in down the aisle in the black dress, Helena's pendant at her throat, tears already running. The cameraman comes in at Mara's shoulder, lens up.
+△ Mara strides in down the aisle in the black dress, the stolen pendant at her throat, tears already running. The cameraman comes in at Mara's shoulder, lens up.
 
 △ Ethan and Victoria come in right behind Mara.
 
@@ -2223,7 +2046,7 @@ Hard Cut.
 
 ---
 
-## EP48 - S#1  Day / Interior / Conservatory · Aisle · Continuous
+## EP44 - S#1  Day / Interior / Conservatory · Aisle · Continuous
 Characters: Lena, Noah, Mara, Eileen, Woman in Pearls, Cameraman, Ethan, Victoria, guests
 
 △ Mara stands in the aisle, the cameraman's lens live, the room frozen. Nobody in the crowd moves toward Lena. The guests watch Mara.
@@ -2248,7 +2071,7 @@ NOAH (level): The only one faking anything here is you. You're not welcome here.
 
 △ Lena steps away from the arch and walks right up to Mara — same face to same face. Lena speaks low.
 
-LENA (quiet, steady): You have my face, my ring, my name. Twenty years my best friend — and you still came here in black because I was winning.
+LENA (quiet, steady): You took my face. You took my name. And you still came here in black because I was happy.
 LENA (after a beat): Look around. They're all watching you now.
 
 △ [ECU] Mara's eyes dart to the lifted phones. Her hands start to shake.
@@ -2257,7 +2080,15 @@ LENA (after a beat): Look around. They're all watching you now.
 
 MARA (thrashing, screaming): GET THE FUCK OFF ME! Do you know who I am?! I'm LENA STERLING!
 
+[END HOOK]
 △ The conservatory doors bang open a second time.
+
+Hard Cut.
+
+---
+
+## EP45 - S#1  Day / Interior / Conservatory · Aisle · Continuous
+Characters: Lena, Noah, Mara, Eileen, Cameraman, Ethan, Victoria, guests
 
 △ Eileen strides in — coat still on, eyes wild — straight for Mara. She grabs Mara's arm and hauls at her toward the doors.
 
@@ -2274,9 +2105,9 @@ MARA (shrill): I'M LENA STERLING! Tell them, Mom — TELL THEM I'M LENA —
 
 EILEEN (to the room, fast, hands lifting, backing off Mara): No. No — whatever she's done, that's HER. I tried to stop her. I always tried to clean up after her —
 MARA (screaming): MOM! Don't you DARE —
-EILEEN (whirling on Mara, the dam breaking): Don't you "Mom" me! Twenty years of your messes — the lies, the bills, the doctor I paid for that face! I told you to stop after the wedding. I told you to keep your mouth shut —
+EILEEN (whirling on Mara, the dam breaking): Don't you "Mom" me! Twenty years of your lies, and I STILL bailed you out every time —
 MARA (screaming over her): SHUT UP! SHUT YOUR MOUTH —
-EILEEN (losing it, shrieking, pointing at Mara): It was YOUR idea! I paid that surgeon to turn you into her — and you STILL ruined everything!
+EILEEN (losing it, shrieking, pointing at Mara): It was YOUR idea! I paid for that face — and you STILL ruined everything!
 
 △ The room goes dead silent. Every face in it turns from Mara to Eileen and back.
 
@@ -2293,7 +2124,7 @@ Hard Cut.
 
 ---
 
-## EP49 - S#1  Day / Interior / Conservatory · Aisle · Continuous
+## EP46 - S#1  Day / Interior / Conservatory · Aisle · Continuous
 Characters: Lena, Noah, Mara, Eileen, Ethan, Victoria, Woman in Pearls, guests
 
 △ Mara stands in the glass room, the crowd staring. The guests turn toward Mara, not Lena.
@@ -2313,12 +2144,12 @@ ETHAN (hollow, staring at Mara): Mara. You're Mara — Lena's best friend. (beat
 △ Lena steps forward. The room goes quiet to hear Lena.
 
 LENA (level): I screamed it for weeks and you called me crazy. (beat) Mara's own mother says it once and now you listen.
-LENA (after a beat, steady): I'm Lena Sterling. Mara drugged me, took my face, took my house — and you all helped her do it. (beat) The night she drugged me, I was going to ask her to be my maid of honor.
+LENA (after a beat, steady): I'm Lena Sterling. Mara drugged me, took my face, took my house — and too many of you helped her do it. (beat) The night she drugged me, I was going to ask her to be my maid of honor.
 
 △ A guest covers her mouth. Nobody else makes a sound.
 
 MARA (scrambling, tears rushing back): No — no, she's confusing you, I'm Lena, I've always been—
-LENA (stepping closer, low, for the whole room): It's over, Mara. The name, the money, the house, Ethan — gone. Your own mother just gave you up in front of everyone. (beat) You've got nothing again. And the whole country watched it happen.
+LENA (stepping closer, low, for the whole room): It's over, Mara. Look at you. No name. No house. No Ethan. Nothing. (beat) Your own mother just gave you up in front of everyone. And the whole country watched it happen.
 
 △ Nobody in the crowd moves toward Mara. The faces stay on Mara.
 
@@ -2332,17 +2163,25 @@ VICTORIA (whirling on Mara, shrill): Get out of my sight. You never come near my
 
 △ Mara stops pretending. The next thing out of her is her own raw voice.
 
-MARA (screaming at Lena, thrashing against the men's grip): I should've given you more of that drug at the clinic! I had my hands on your throat and I stopped! My one mistake — I didn't kill you!
+MARA (screaming at Lena, thrashing against the men's grip): I should've finished you at the clinic! I had my hands on your throat — that was my one mistake!
 
+[END HOOK]
 △ The room goes stone still.
 
-△ [FLASHBACK — EP31 S#2 (service yard)] Two identical faces turning into the light — one with her hands still half-raised.
+Hard Cut.
+
+---
+
+## EP47 - S#1  Day / Interior / Conservatory · Aisle · Continuous
+Characters: Lena, Noah, Mara, Eileen, Ethan, Victoria, Woman in Pearls, guests
+
+△ [FLASHBACK — EP27 S#2 (service yard)] Two identical faces turning into the light — one with her hands still half-raised.
 
 △ [FLASH — EP6 S#1 (front steps)] The real Lena on the steps, barefoot, bleeding in the rain, screaming his name — and Ethan's own voice ordering the guards to drag her off.
 
 △ Ethan's legs buckle. He goes down onto his knees on the glass floor, in front of the whole room.
 
-ETHAN (wrecked, barely): I slept beside that thing. I called it Lena. (his voice cracking) And you came to me bleeding.
+ETHAN (wrecked, barely): You came to me bleeding in the rain, screaming your own name. (his voice cracking) And I had them drag you out.
 
 ETHAN (his own words climbing back up his throat): "Get this trash off my steps." (he flinches) I said that. To you.
 
@@ -2361,9 +2200,9 @@ NOAH (cold, stepping between Ethan and Lena): She's done talking to you.
 
 △ Ethan stays on his knees, one hand still half-raised toward a woman who has already turned her back.
 
-△ Lena walks past Ethan to Mara and unclasps Helena's pendant from Mara's throat. Mara grabs for it, weak. Lena lifts it away clean.
+△ Lena walks past Ethan to Mara and unclasps the pendant from Mara's throat. Mara grabs for it, weak. Lena lifts it away clean.
 
-LENA (quiet, certain): My mother's necklace. Not yours.
+LENA (quiet, certain): My necklace. Not yours.
 
 △ Lena closes her hand around the pendant. Mara's hands drop, empty.
 
@@ -2395,7 +2234,7 @@ Hard Cut.
 
 ---
 
-## EP50 - S#1  Day / Montage / Screens · Cross Gates
+## EP48 - S#1  Day / Montage / Screens · Cross Gates
 Characters: Mara, Tessa (screen), crowd, Cross staff
 
 △ [INSERT] Phone screens flip headlines overnight.
@@ -2424,7 +2263,7 @@ CROWD MEMBER (laughing): Mara.
 
 △ Cross staff take the bride's name off the doors and the place cards. Mara stands alone outside the gates.
 
-## EP50 - S#2  Day / Interior / Sterling Apartment Building · Lobby
+## EP48 - S#2  Day / Interior / Sterling Apartment Building · Lobby
 Characters: Lena, Hector
 
 △ The Sterling lobby. Hector stands at the door in his doorman's coat.
@@ -2434,51 +2273,61 @@ Characters: Lena, Hector
 HECTOR (quiet): Welcome home, Ms. Sterling.
 LENA (a beat): Thank you, Hector.
 
+[END HOOK]
 △ Lena walks in.
 
-## EP50 - S#3  Morning / Interior / Noah's Penthouse · Another Morning
+Hard Cut.
+
+---
+
+## EP49 - S#1  Morning / Interior / Noah's Penthouse · Another Morning
 Characters: Lena, Noah
 
 △ A quiet morning, no press at the curb. Lena and Noah stand together at the counter.
 
-△ [ECU] The gold band on Lena's hand. Helena's pendant back at Lena's own throat.
+△ [ECU] The gold band on Lena's hand. The pendant back at Lena's own throat.
 
 NOAH (warm): Morning, Mrs. Keene.
 LENA (small smile): Say it again.
 NOAH (low): Morning, Lena.
 
-## EP50 - S#4  Day / Exterior / Glenmoor Cemetery
+## EP49 - S#2  Day / Exterior / Glenmoor Cemetery
 Characters: Lena, Noah
 
 △ Lena stands at Helena's grave. Lena sets down a bunch of bright garden flowers.
 
 △ [ECU] The pendant at Lena's throat catches the sun.
 
-LENA (quiet): It's me, Mom. It's really me. I got it all back. Took me long enough.
+LENA (quiet): It's me, Mom. It's really me. I came back.
 
 △ [ECU] Lena's hand around the pendant.
 
-LENA (soft): I came back, Mom. I've got your necklace.
+LENA (soft): I've got your necklace, Mom.
 
+[END HOOK]
 △ Noah stays a step behind Lena.
 
-## EP50 - S#5  Day / Interior / Small Gray Room
+Hard Cut.
+
+---
+
+## EP50 - S#1  Day / Interior / Small Gray Room
 Characters: Mara · (screen: Lena)
 
 △ A cramped gray room. Mara sits alone.
 
-△ [INSERT] The muted news on the screen — the real Lena Sterling, Helena's pendant at her throat. The chyron under her: MARA VOSS CHARGED — ATTEMPTED MURDER, DRUGGING, FRAUD, IDENTITY THEFT.
+△ [INSERT] The muted news on the screen — the real Lena Sterling, the pendant back at her throat. The chyron under her: MARA VOSS CHARGED — ATTEMPTED MURDER, DRUGGING, FRAUD, IDENTITY THEFT.
 
 MARA (alone, bitter): I did everything right. It was supposed to be me.
 
 △ The screen stays on the real Lena.
 
-## EP50 - S#6  Evening / Interior / Noah's Penthouse
+## EP50 - S#2  Evening / Interior / Noah's Penthouse
 Characters: Lena, Noah
 
 △ Lena and Noah stand at the glass, the city below.
 
-LENA (level): She had my face, my bed, my ring. Still ended on her knees.
+LENA (level): She had my face, my name, my bed. Still ended on her knees.
 NOAH (certain): And you're the one still standing.
 
 △ [ECU] The pendant at Lena's own throat.
