@@ -245,7 +245,7 @@ MARA (low, only for Ethan): Baby. You're shaking. Take me inside. I'll make you 
 
 △ Ethan looks down at Mara's mouth. He stops hesitating.
 
-ETHAN (turning on Lena, colder than before): Last night I had Lena in my bed. You're not Lena. (to the guards) Get this crazy bitch off my property. (to Lena, cold) And don't you ever say her name again.
+ETHAN (turning on Lena, colder than before): Last night Lena was in my arms. You're not Lena. (to the guards) Get this crazy bitch off my property. (to Lena, cold) And don't you ever say her name again.
 
 △ Lena rocks back a half-step. Ethan looks at her with disgust.
 
@@ -319,7 +319,7 @@ LENA (gutted): She took my box.
 
 △ Lena turns. Her own clothes are gone — racks of new ones in Mara's taste hang where they hung. Mara's jacket on the chair. Her bed, slept in.
 
-△ None of Lena's things are left in Lena's home.
+△ Lena's clothes are gone. The apartment already looks like Mara's.
 
 ## EP7 - S#2  Day / Interior / Lena's Apartment · Living Room · Continuous
 Characters: Lena, Mara
@@ -366,7 +366,7 @@ MARA (over her shoulder, sweet): That's her. The stalker who keeps getting into 
 
 △ The guards take Lena by both arms and walk her out of her own home. Lena doesn't fight it.
 
-LENA (quiet, as they move her): She gets the house. Fine. She wants me to hit her where everyone can see.
+LENA (quiet, as they move her): She gets my home. Fine. She wants me to hit her where everyone can see.
 
 [END HOOK]
 △ [ECU] Lena's eyes — dry, fixed.
@@ -705,7 +705,7 @@ LENA (reading, cold): She's in my bed, sleeping with my fiancé, while I'm locke
 
 △ Lena types one line and sends it.
 
-△ [INSERT] Phone screen — Lena's reply: *You took my face. You took my house. You'll give it all back.*
+△ [INSERT] Phone screen — Lena's reply: *You took my face. You took my home. You'll give it all back.*
 
 △ [INSERT] Phone screen — the typing dots appear. Stop. Start again. Then: NUMBER BLOCKED.
 
@@ -1024,7 +1024,7 @@ LENA (barely): Say it like you mean it.
 NOAH (low, sure): You're Lena Sterling. I've never been more sure of anything in my life.
 
 [END HOOK]
-△ [INTERCUT] Cross Manor · bedroom. Mara stares at a blurry photo on her phone — Noah and a woman in a coat.
+△ [INTERCUT] Lena's apartment · bedroom. Mara stares at a blurry photo on her phone — Noah and a woman in a coat.
 
 MARA (seething): She lost everything and she's still smiling at him.
 
@@ -1036,12 +1036,12 @@ Hard Cut.
 
 ---
 
-## EP20 - S#1  Night / Interior / Noah's Penthouse / Cross Manor · Bedroom · Intercut
+## EP20 - S#1  Night / Interior / Noah's Penthouse / Lena's Apartment · Bedroom · Intercut
 Characters: Lena · (phone/intercut: Mara, Ethan's shadow)
 
 △ Lena's phone rings — unknown number. Lena answers.
 
-△ [INTERCUT] Mara lies back on the Cross Manor bed in Lena's silk robe. Behind Mara, Ethan's shadow moves across the bathroom glass.
+△ [INTERCUT] Mara lies back on Lena's bed in Lena's silk robe. Behind Mara, Ethan's shadow moves across the bathroom glass.
 
 MARA (sultry, gloating): Ethan just kissed me goodnight. Slow. Hands everywhere. He thinks it's you — but it's my mouth he wants now. You should hear the way he says your name when the lights are off.
 LENA (flat): You're disgusting.
@@ -1242,7 +1242,7 @@ EILEEN (V.O., flat): Then put more men on the doors.
 MARA (sour, jealous): Ethan's eyes keep following her. The stalker. She's on Keene's arm and the man I'm marrying can't stop looking.
 EILEEN (V.O., cold): Then kiss him till he stops looking. I raised a coward. You got her face and Ethan. Stop whining because she landed the better man.
 MARA (spiteful): She's got a man who'd do anything for her. She doesn't get to keep one nice thing. Not one.
-EILEEN (V.O., cold): Take her name. Take the house. Take the man. Leave her outside begging. That's how you sleep at night, baby.
+EILEEN (V.O., cold): Take her name. Take her home. Take the man. Leave her outside begging. That's how you sleep at night, baby.
 
 △ Mara taps the phone dark. Mara scrolls, then stops, thumb frozen on the screen.
 
@@ -1577,10 +1577,10 @@ Hard Cut.
 
 ---
 
-## EP33 - S#1  Night / Interior / Helena Sterling Foundation Gala · Grand Staircase
+## EP33 - S#1  Night / Interior / Helena Sterling Foundation Donor Reception · Grand Staircase
 Characters: Mara, Lena, Noah, Ethan, Victoria, guests
 
-△ [HIGH ANGLE] The Helena Sterling Foundation gala — Mrs. Cross's first big public night with the foundation donors. Mara stands at the top of a sweeping staircase, ring and pendant on. Hundreds of guests below.
+△ [HIGH ANGLE] Foundation donors and Cross guests pack the staircase hall. Mara stands at the top as Mrs. Cross, ring and pendant on. Hundreds of guests below.
 
 △ Lena stands among the guests, a dark wig and a borrowed invitation getting her in. Under the wig, her own face, watching Mara work the room.
 
@@ -1741,7 +1741,7 @@ EILEEN (picking up the bag): You're on your own. I cleaned up every mess you eve
 △ In the dark foyer mirror, Mara watches her own reflection, alone — then makes herself smile again.
 
 [END HOOK]
-LENA (V.O.): She has my name, my house, Ethan. Noah is the one person who believes me.
+LENA (V.O.): She has my name, my home, Ethan. Noah is the one person who believes me.
 
 Hard Cut.
 
@@ -2112,7 +2112,7 @@ ETHAN (hollow, staring at Mara): Mara. You're Mara — Lena's best friend. (beat
 △ Lena steps forward. The room goes quiet to hear Lena.
 
 LENA (level): I screamed it for weeks and you called me crazy. (beat) Mara's own mother says it once and now you listen.
-LENA (after a beat, steady): I'm Lena Sterling. Mara drugged me, took my face, took my house — and too many of you let her do it. (beat) The night she drugged me, I was going to ask her to be my maid of honor.
+LENA (after a beat, steady): I'm Lena Sterling. Mara drugged me, took my face, took my home — and too many of you let her do it. (beat) The night she drugged me, I was going to ask her to be my maid of honor.
 
 △ A guest covers her mouth. Nobody else makes a sound.
 

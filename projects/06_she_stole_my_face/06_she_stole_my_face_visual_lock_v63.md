@@ -1,126 +1,128 @@
-# SHE STOLE MY FACE — Visual Lock (v63 · 🔒 LOCK · AIGC asset DB)
+# MY BEST FRIEND STOLE MY FACE AND MY FIANCÉ — Visual Lock (v63 · LOCK)
+> Working/internal codename: SHE STOLE MY FACE (folder `06_she_stole_my_face`).
 
-Script: `07_final/06_she_stole_my_face_FINAL_v63.md` · Handoff: `06_she_stole_my_face_production_handoff_v63.md`
+Script: `07_final/06_she_stole_my_face_FINAL_v63.md`  
+Handoff: `06_she_stole_my_face_production_handoff_v63.md`
 
-## 1. Core Visual Rules
+## 1. Purpose
 
-- Modern-day NA vertical (9:16). Real-world wealth/luxury vs stripped-down survival. No fantasy/VFX.
-- **#1 constraint:** Lena and Mara share ONE face. Identity is read by **prop + wardrobe-world + context**, never by facial difference (see §4 distinguisher table + §6 pendant).
-- Free episodes (EP1-8) must look as rich as the paid run — the engagement world, the gala, the manor are all in the free funnel. Make the stolen-luxury big from EP1.
-- Inserts (phone POV / TV / chyron) are **public-spectacle** screens only — never evidence/document inserts.
+Use this as the visual continuity and taste reference for the v63 script.
 
-## 2. On-Screen Title Lock
+The lock is simple: Lena and Mara must share one compelling, attractive face, and the audience must always know who is who by context.
 
-Approved title cards — first functional cut only, never repeated, no others:
+## 2. Core Look
 
-```
-Lena Sterling
-Mara Voss / Lena's Friend
-Eileen Voss / Mara's Mother
-Ethan Cross / Lena's Fiancé
-Victoria Cross / Ethan's Mother
-Noah Keene / Billionaire
-Hector / Doorman
-```
+- Modern North American vertical drama.
+- Real wealth, public humiliation, stolen luxury, glass penthouse romance, and dirty social cruelty.
+- No fantasy, no VFX logic, no detective-show inserts, no courtroom/procedure staging.
+- Free episodes must already look rich enough to sell the theft: clinic, Cross Manor, engagement spectacle, bridal-room infiltration, service-road paywall.
 
-## 3. Protagonist — Lena Sterling
+## 3. Casting / Face Taste
 
-- **Identity:** mid-20s woman, the real Helena Sterling's daughter; warm, lovely, dignified. The face the whole show fights over.
-- **AIGC Asset Call Signature:** `Mid-20s woman, soft oval face with warm brown eyes and natural glow, dark brown soft waves to collarbone, mother's thin gold heart pendant (EP1 + EP47+ only), warm simple wardrobe.`
-- **Voice:** warm plain alto, full human breaths; flat short steel only at decision points; no recitation, no punchline cadence.
-- **Costume Continuity:**
+All principal characters should read as North American-target vertical drama leads: attractive, camera-friendly, commercially castable, and not generic.
 
-  | EP range | Look | Detail |
-  |---|---|---|
-  | EP1 | Engagement-night | soft glam, the gold pendant at her throat |
-  | EP2-3 | Stripped | hospital gown under a stolen café coat; temple cut; bare throat |
-  | EP4-8 | Survivor / disguise | wet/plain; **dark wig + white catering jacket/cap** for the bridal-room infiltration; bare own face |
-  | EP9-42 | Noah's world | clean simple well-kept clothes; bare own face, no wig, **no pendant** |
-  | EP43-47 | Her wedding | her late mother's plain ivory silk gown, no train; pendant reclaimed at EP47 |
-  | EP48-50 | Restored | own face bare, pendant back at her own throat, calm |
+- **Lena / Mara:** very pretty in a female-audience-friendly way. Soft, sympathetic, emotional, elegant. Pretty enough for the stolen-face premise, but not oversexualized male-gaze beauty.
+- **Noah:** extremely handsome, sexy, wealthy, masculine. Dark hair. More dangerous and animal than Ethan, but still controlled and expensive. Not old, ordinary, boyish, or flashy.
+- **Ethan:** extremely handsome, wealthy, blond or dirty blond. Slightly softer and more polished than Noah, with proud rich-boy elegance. Still sexy. Not weak, plain, or too old.
+- **Victoria:** blond wealthy society mother. Polished, expensive, sharp, and visibly mean under the surface.
+- **Eileen:** harsher and more poisonous than Victoria. Greedy, cold, sharp, and predatory.
+- **Margaret:** older society woman with warmth and fear in the face.
+- **Hector, Tessa, cameraman, service-road men:** recognizable continuity faces, not overdesigned.
 
-- **Locked marks:** mother's gold pendant is hers by right (worn EP1, absent EP2-46, reclaimed EP47→50). Temple cut EP3 heals over the mid-run.
+If AIGC outputs make the leads ugly, uncanny, too old, mismatched, or East Asian-coded by accident, reroll while preserving continuity.
 
-## 4. Major Characters
+## 4. Lena / Mara Same-Face Rule
 
-> **Lena vs Mara distinguisher table (apply every shared/ambiguous cut):**
->
-> | | presence | pendant | wardrobe-world | wounds |
-> |---|---|---|---|---|
-> | **Lena (real)** | alone / dragged / quiet beside Noah | **bare throat** (EP2-46) | hospital gown → wig+uniform → plain penthouse → ivory gown | temple (EP3), throat |
-> | **Mara (fake)** | adored by crowds, sweet public mask | **pendant at throat** (EP1-47) | Cross luxury / gala / bridal | self-cut forearm (EP8/27), hairline (EP33) |
+Lena and Mara have the same face. Use the same actress, the same approved face model, or a consistent identical-face pipeline.
 
-### Mara Voss — antagonist (same face as Lena)
-- **Function:** the thief in Lena's face; sweet in public, vicious alone; self-destructs by her own greed.
-- **AIGC Asset Call Signature:** `Mid-20s woman IDENTICAL to Lena Sterling's face, the stolen thin gold heart pendant always at her throat, Cross-world luxury wardrobe, sweet camera-smile masking cold eyes.`
-- **Face impression:** identical to Lena — differentiate ONLY by pendant + luxury wardrobe + cold-under-sweet carriage. Never alter her features.
-- **Costume:** EP1 nurse mask→reveal; EP2-29 bridal/gala/foundation luxury + stolen pendant; EP24 slashed gown → EP28 repaired; EP29 long lace sleeves to wrists; EP33+ shrinking hairline bandage; EP50 prison gray, **bare throat**.
-- **Do not:** sympathetic or smart; different face; exposed by evidence.
+Do not lock the face to narrow traits like a specific eye color, face shape, or hair texture if it makes the generated women unattractive. Beauty and consistency are the lock. Exact facial features are not.
 
-### Eileen Voss — Mara's mother
-- **Function:** cold operator who paid for the face; betrays Mara at the climax.
-- **AIGC Asset Call Signature:** `Late-40s/50s woman, sharp cool features, sleek dark hair, black gloves and a sleek dark coat (kept on), no warmth.`
-- **Do not:** doting/warm; hysterical.
+Required impression:
 
-### Ethan Cross — Lena's fiancé (regret-man)
-- **Function:** proud man who discards the real Lena, marries the fake, breaks too late.
-- **AIGC Asset Call Signature:** `Early-30s man, handsome cold features, dark hair, sharp Cross-money tailoring; EP47 same suit undone, on his knees.`
-- **Do not:** detective-suspicion; early/clean regret; redemption.
+- Adult mid-20s.
+- Beautiful enough that the stolen face feels worth fighting over.
+- Camera-friendly, emotional, not uncanny.
+- Lena reads warmer and more human.
+- Mara reads sweeter in public and colder underneath.
 
-### Victoria Cross — Ethan's mother
-- **Function:** bored aristocratic class-cruelty.
-- **AIGC Asset Call Signature:** `50s/60s woman, immaculate, pearls and fur and gloves, lethal boredom.`
-- **Do not:** loud harridan.
+The difference is not facial structure. The difference is pendant, styling, world, wounds, and behavior.
 
-### Noah Keene — billionaire (believer/rescuer)
-- **Function:** the one man who chooses the discarded real Lena; believes by intuition, never proof.
-- **AIGC Asset Call Signature:** `Mid-30s man, still and commanding, dark expensive understated suit, glass-penthouse world, plain gold wedding band from EP37.`
-- **Do not:** clues/investigation; hesitation; flashy playboy.
+Main tells:
 
-### Margaret — "woman in pearls" (Helena's old friend)
-- **Function:** older guest who publicly sides with Lena (Wave B), is frightened silent, returns front-row at the wedding. Same actress EP21-22 / EP43-47.
-- **AIGC Asset Call Signature:** `60s society woman, pastel dress and pearls, kind frightened eyes.`
-- **Do not:** evidence-giver.
+- **Pendant:** Lena wears the gold pendant in EP1. Mara wears it from EP1 until Lena reclaims it in the finale. Lena's throat is bare through the middle run.
+- **World:** Lena is hospital/rain/survival, then Noah's clean penthouse world, then her final ivory wedding dress. Mara is Cross luxury, engagement, gala, bridal, public tears.
+- **Social position:** Lena is dragged, mocked, filmed, or quietly protected by Noah. Mara is adored, believed, photographed, and centered.
+- **Wounds:** Lena has the crash temple cut early. Mara has self-harm marks, the glass-cut forearm under lace, and the staircase hairline bandage.
 
-## 5. Villain / Bit Parts
-- **Hector / doorman** — complicit gatekeeper → ashamed (EP9-area, EP10, EP48). Same actor.
-- **Tessa / TV host** — Lena's former friend who mocks her on air (EP10-12, EP48 empty chair). Same actor.
-- **Mara's cameraman** — films her victim act, keeps rolling through her fall (EP42-47). Same actor.
-- **Ward Nurse / Donor / guards / two phone-men / crowd** — functional, in-world.
+In same-face shots, keep at least one tell visible.
 
-## 6. Props And Visual Objects
+## 5. Character Visual Briefs
 
-| Object | Lock |
-|---|---|
-| **Helena's gold pendant** (thin gold heart) | THE king prop. Lena's late mother's. On Lena EP1 → stolen, on **Mara's throat EP1-47** → Lena reclaims at EP47 → Lena's throat EP47-50. Single object, never duplicated, never lost. Reveal trigger = dialogue/VO only, never a prop-match clue. |
-| Lena's engagement/wedding gown line | Lena's EP1 gown stolen by Mara; Mara's stolen-life gown **slashed EP24 → crumpled EP25 → repaired EP28**; Lena's own ivory (her mother's) at the EP43 wedding. |
-| Wedding ring (Mara/Ethan) | Appears **only at the EP29-30 wedding**, never earlier. |
-| Noah's plain gold band | Separate object, EP37 nightstand → EP43+ Lena's hand. Do not conflate with the Cross ring. |
-| Phones / TV / chyrons | Public-spectacle inserts only (shaming/spread), never evidence/document inserts. |
+### Lena Sterling
 
-## 7. Terminology (AIGC prompt consistency)
+Natural, warm beauty. Soft enough to believe Ethan loved her, strong enough to survive public humiliation. Avoid villainess styling and helpless-victim prettiness.
 
-- The neck jewel = **pendant** or **necklace** (interchangeable, same object). Not "locket/charm/chain" as separate items.
-- The disguise = **dark wig + catering jacket/cap** (not "costume/outfit").
-- Mara's self-harm marks = **scratch / cut / bandage** (not "wound/injury" inflation).
-- The believed-impostor = always written/shot as **Mara wearing Lena's face**, never "the real Lena" for Mara.
+Continuity:
 
-## 8. Key Episode Visual Locks
+- EP1: engagement-night softness, gold pendant.
+- EP2-3: hospital gown, stolen coat, temple cut, bare throat.
+- EP4-8: wet survival; dark wig + catering uniform for infiltration.
+- EP9-42: Noah's world, clean and simple, no pendant.
+- EP43-47: simple ivory wedding dress, clean silk, no train, no pendant until reclaim.
+- EP48-50: restored, pendant back at her throat.
 
-- **EP1:** face theft + `[SPLIT SCREEN]` two identical faces (one going dark, one smiling) — the premise in one image.
-- **EP2 (END HOOK):** Lena bleeding in the wrecked car sees the diner TV — her own face, engaged, adored on screen. The world already flipped.
-- **EP8→EP9 (PAYWALL):** assault threat on the service road → black car → Noah ends it, pulls Lena up. The single paywall hook.
-- **EP24:** Mara drives a heel through the hanging gown — greed turning on itself.
-- **EP33:** Mara throws herself down the marble staircase to frame Lena — self-destruct money shot (Noah's clear sightline grounds "I watched her jump").
-- **EP43-47 (finale stack):** Mara crashes Noah/Lena's glass-house wedding → Eileen's spoken betrayal on camera → Ethan on his knees → Lena unclasps the pendant from kneeling Mara.
-- **EP50:** Mara in prison gray, bare throat, alone — intercut with the real Lena free, pendant at her own throat.
+### Mara Voss
 
-## 9. Negative Locks (whole-work)
+Same face as Lena. Luxury styling, stolen pendant, public sweetness, private cruelty. She should look believable as the adored "Lena" to the crowd.
 
-- ❌ Any facial difference between Lena and Mara (they are ONE face — identity by pendant/world/context only).
-- ❌ Evidence/document/forensic/DNA inserts; police-procedural or legal/foundation-timeline staging; detective clue-gathering.
-- ❌ Noah recognizing/proving Lena's identity by any clue; any pre-seeded "watcher" before the EP9 rescue.
-- ❌ A second pendant, a second ring, or any new tracked prop; losing/duplicating the pendant.
-- ❌ Writer-label stage directions (`that thing`/`creature`/person-as-`it`/"perfectly"/"on cue"/"prettily").
-- ❌ Tasteful/cool/prestige tone; soft-victim staging of Lena; sympathetic or clever staging of Mara.
-- ❌ Voice/dialogue: poetic cadence, tri-colon anaphora, mirror-echo ping-pong, recitation tone (per no-theater-tone).
+Continuity:
+
+- EP1: nurse mask reveal, then stolen pendant and Lena's engagement look.
+- EP2-29: Cross luxury, bridal/gala/foundation looks, pendant visible.
+- EP24-29: wedding gown slashed, then replaced/repaired for broadcast; long sleeves cover the forearm cut.
+- EP33-46: hairline bandage after staircase self-throw.
+- EP50: prison gray, bare throat.
+
+### Noah Keene
+
+Quiet billionaire power. Understated, expensive, still. Sexy and protective, not flashy or investigative.
+
+### Ethan Cross
+
+Blond rich-boy polish. Handsome, proud, and cruel before he breaks. His final collapse should be public and humiliating.
+
+### Victoria Cross
+
+Blond, rich, polished, mean. Her cruelty should feel expensive and controlled.
+
+### Eileen Voss
+
+Cold operator. Sharper and more poisonous than Victoria. Greed and self-preservation should show in her face.
+
+## 6. Prop / Costume Continuity
+
+- **Gold pendant / necklace:** one object only. Lena EP1, then Mara through the middle, then Lena after reclaim. Do not duplicate or redesign it as another object.
+- **Lena's disguise:** dark wig + catering uniform. Keep it readable and practical.
+- **Cross wedding ring:** only for the Ethan/Mara wedding track. Do not show it earlier.
+- **Noah's plain gold band:** separate from the Cross ring.
+- **Phones / TV / chyrons:** public spectacle and humiliation only, not evidence screens.
+
+## 7. Key Visual Beats
+
+- EP1: face theft and same-face reveal.
+- EP2: Lena bleeding in the wrecked car while her own face is adored on TV.
+- EP8-9: service-road assault threat into Noah's paywall rescue.
+- EP24: Mara ruins the wedding gown in rage.
+- EP33: Mara throws herself down the stairs to frame Lena.
+- EP43-47: Noah/Lena wedding, Mara crash, Eileen betrayal, Ethan on knees, pendant reclaim. (Direction note: for one beat, Ethan and Mara are both below Lena.)
+- EP50: Mara bare-throated and alone; Lena free with the pendant back.
+
+## 8. Avoid
+
+- Facial difference between Lena and Mara.
+- Ugly, uncanny, aged-up, generic, or mismatched Lena/Mara generations.
+- Evidence/document/forensic/procedure visuals.
+- New tracked props.
+- Detective staging for Noah, Ethan, Margaret, or Lena.
+- Prestige-drama restraint that softens the cruelty.
+- Poetic visual metaphor when a direct image is clearer.
