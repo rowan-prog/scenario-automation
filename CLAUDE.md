@@ -2,6 +2,8 @@
 
 AIGC 숏폼 vertical drama 시나리오 제작. 최종 산출 = `projects/[작품]/07_final/[작품]_FINAL_v{N}.md`.
 
+> **대본 문서 = 제1부(기획·개요) + 제2부(정식 회차 대본) 2부 구성 — 각색·신규 공통 필수** (2026-07-02). 상세 = `config/10_writing_standard.md` §B-0.
+
 ---
 
 ## 핵심 문서 3개 (2026-06-10 일원화 — 사용 시점별)
@@ -24,7 +26,7 @@ AIGC 숏폼 vertical drama 시나리오 제작. 최종 산출 = `projects/[작�
 | 타깃 자료 | `config/target_research/` |
 | 템플릿 | `config/engine_brief_template.md` · `visual_lock_template.md` · `production_handoff_template.md` · `mkt_selling_points_template.md` · `meta_template.md` |
 | Reference / 피칭 데이터 | `config/reference_scripts/INDEX.md` · `config/pitch_references/MASTER_DATASET.md` |
-| 검수 agent 7종 정의 | `~/.claude/agents/` (운용 룰 = `config/20_review_standard.md` §7) |
+| 검수·집필지원 agent 9종 정의 | `~/.claude/agents/` (운용 룰 = `config/20_review_standard.md` §7 — 3-tier 모델맵·직교 sweep·집필지원 W1-W3 = `10_writing_standard.md` §A-1) |
 | 기계 도구 | `tools/voice_lint.py` · `tools/continuity_lint.py` · `tools/format_pass_verify.py` |
 | 장르·작품 특수 메모리 | `memory/` (MEMORY.md 인덱스·호출 트리거 기반) |
 
@@ -74,4 +76,4 @@ phase_0 (아이디어) → phase_1 (러프 청사진) → phase_2 (피칭) → �
 
 ## 모델·세션
 
-메인 = 세션 최상위 모델(현 Fable) / High effort — **집필·수술·쇼러너 판정 = 메인 직접, 위임 금지.** 검수 agent 모델 분담 = `config/20_review_standard.md` §7 (단독 정밀 판정 = opus / 반복 수렴·기계 작업 = sonnet — Agent 호출 시 `model` 명시). 시작 시 `/model` 확인. 본문 영어·대화 한국어.
+메인 = 세션 최상위 모델(현 Fable) / High effort — **집필·수술·쇼러너 판정 = 메인 직접, 위임 금지.** 검수 agent 모델 분담 = `config/20_review_standard.md` §7 **3-tier 맵**(2026-07-02): **티어는 중요도 아닌 업무 성격이 정한다** — 단독 정밀 발견/하드블록 = **opus** / 반복 수렴·중난도 추출 = **sonnet** / 기계+naive-proxy(뇌오프 시청자·flat-TTS·무맥락 이미지생성기 — *덜 이해해야 정확*) = **haiku**. Agent 호출 시 `model` 명시(미지정 = 비싼 상속). 영상·음성 = AIGC라 생성기 프록시(`aigc-draw-auditor`·`tts-literal-ear` = haiku) 상설. 시작 시 `/model` 확인. 본문 영어·대화 한국어.
