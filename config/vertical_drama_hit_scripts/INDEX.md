@@ -2,6 +2,8 @@
 
 > 사용자 검증 히트작 대본 통합 인덱스. 매 phase 진입 시 참조 baseline.
 >
+> **🥇 우선 8종 (2026-07-03 사용자 지정 — 집필 진입 시 이 8종 카드+raw 최우선):** Bussy and the Beast · 역대본_약자의 가면 강자의 힘 · (완)역대본_신의한방 · [말할 수 없는 나의 신부] · 나의_토깽이_아가씨 · TITAN BORN(CN)* · [Vigloo KR] Owned by the Vampire King · Dragon Lord(CN)* (*히트 지위 미검증·사내 지정). 크래프트 카드 = `../vertical_drama_hit_scripts_analysis/craftcard_*.md` · 교차 법칙 = `hit_dna_priority8.md`.
+>
 > **🚨 핵심 (2026-05-17 사용자 명시):** "한국어 대본이 어느 나라인지는 알 필요 없다." → **국가 신경 X / vertical drama 특징 학습 우선.** 분석 본질 = **구조·캐릭터·대사 스타일 패턴 추출**. 국가 정보는 메타로만 (있으면 좋음 / 분석 본질 X). "국가 초월" 류 과도한 일반화 X.
 
 ---
