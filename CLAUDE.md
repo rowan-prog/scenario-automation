@@ -74,7 +74,9 @@ phase_0 (아이디어) → phase_1 (러프 청사진) → phase_2 (피칭) → �
 | `10_buried_heir` | (가제) 임신한 애첩과 내가 묻어버린 신혈 계승자 | **LOCK 2026-07-06 — 정본 = `07_final/10_buried_heir_FINAL_v2.md` (한국어 54화·무료 1~10·2부 구성).** v1 LOCK → 콜드리드 수술 v2(제우스 카드 47화 봉인·28화 타르타로스 선언 제거·23화 과적 삭제·오리온 카피 교체·45화 환상 리컷·제1부 훅 31건 정합) → fresh-eyes 감사에서 시간축 역회귀 1건 잡아 복원 → LOCK. 中 이혼복수극 원작 구조 보존 + 올림푸스 신화 각색. 잔여 = 타이틀 확정(후보 = `10_buried_heir_04b_title_candidates.md`)·영어 번역(사용자). 이력 = `10_buried_heir_00_meta.md`. 핵심 메모리 = [[vertical-regret-man]] [[panic-begging-form-not-content]] |
 | `06_she_stole_my_face` | SHE STOLE MY FACE | **정본 = `07_final/06_she_stole_my_face_FINAL_v70.md` (48화).** v63 LOCK 이후 사용자 cold-read 라운드(v64~v70): ①초반 가속 — EP1-3→2화 + 계단 EP3+EP4 병합 → **50→48화**(무료런 8→7·Noah 구원/희망 EP7·PAYWALL@EP8) ②대사 census de-rhythm(소유/나열 tic ~19→북엔드2+클라이맥스1) ③모녀=한 몸 공범(아일린 함께 침몰) ④goad 중복 해소(아파트=사회적 말살) ⑤노아 de-parrot(확신=행동) ⑥청중 스케일 표준화 ⑦프레임-탈피 소수정(on repeat→live·EP45 범죄자 선퇴장 등). 타임라인=이른 오후 클리닉→저녁 크래시→밤. 게이트: 한국어0·48화·HardCut47·END HOOK47·PAYWALL@EP8·END1. 상세 이력 = `06_she_stole_my_face_00_meta.md`. **버전 룰: 메이저 = v{N+1} 복사 후 수정.** 핵심 메모리 = [[vertical-rhythmic-list-fuel-only-in-scarcity]] [[english-vertical-hit-dialogue-tone]] [[protagonist-not-villain-voice]] [[vertical-revenge-impostor-believed-engine]] [[vertical-regret-man]] |
 
-새 작품 번호 = **11**.
+| `11_the_outcast` | THE OUTCAST (CN 원어·남성향 사이다 파워판타지·NA 영어 타깃) | **검토 재교정 v2 (2026-07-08).** 리뷰 = `06_reviews/11_the_outcast_review_v2.md`. **v1의 EP34 결번·EP21~28 공란·EP37 대사공란 = 전부 철회 — `source_CN.md` python-docx 변환 손실(표/텍스트박스 대사 누락)이었고 원본 docx엔 50화 다 있음. source_CN.md = docx 완전추출본으로 교체 완료.** 실제 상태 = 50화 완결·엔진 A급. 잔여 = 하드오류 아님·전부 정리/보강급: 이중리빌 강도조정·EP42~43 최종처치 온스크린 컷·표기정리(EP37 씬넘버·EP7 헤더/오타·경기장명 드리프트)·정합소소(발렌상처·황제인지·알바도르동선·매수증인·达里安선고)·NA관리(테사·목걸이 레퍼런스·维莱拉/莱拉 이름충돌). 순서 = 소정리→영어 각색→라인검수→LOCK. 이력 = `11_the_outcast_00_meta.md`. 핵심 = [[na-target-intensity-calibration]] [[male-target-commercial-kwaegam-northstar]] [[no-hero-defeat-in-saida-power-fantasy]] [[docx-conversion-drops-table-textbox-text]] |
+
+새 작품 번호 = **12**.
 
 > **현재본 단일 진실:** `07_final/[작품]_FINAL_v{최신N}.md`. 메타·CLAUDE.md 모순 시 → 파일 시스템 우선·메타 즉시 갱신. CLAUDE.md 작품 행 = 현재 상태 + 포인터만(이력 누적 금지).
 
