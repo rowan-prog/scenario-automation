@@ -6,12 +6,12 @@
 
 ## 즉시 확인 (매 세션 진입 시)
 
+### 0. 세션 모델 확인 (🚨 2026-07-10 사용자 재확인 — 반복 지적 사항)
+**파이프라인은 opus/sonnet/haiku만으로 자급되게 설계돼 있다 — Fable은 구조·룰·워크플로우 자체를 개정할 때만 1회성 투입.** 지금 세션이 Fable이고 이번 요청이 구조/룰 개정이 아니면(집필·각색·검수 등 실무) → 사용자에게 "opus로 충분합니다" 고지. **세션 모델이 무엇이든, 프로스 실무(EP 본문·대사 생성)는 메인이 직접 하지 않고 항상 별도 opus agent에 위임한다** (`config/10_writing_standard.md` §A 진입게이트 0번 · `config/20_review_standard.md` §7 · memory `feedback_fable_structure_only.md`). 이 룰은 이미 3중으로 문서화돼 있었는데도 실무에서 스킵됐던 전례가 있다 — 매 집필 요청마다 실제로 위임했는지 자문할 것.
+
 ### 1. 현재 작업 가능 프로젝트 (활성)
 
-| 폴더 | 작품 | 현재본 (정본) | 단계 | 다음 작업 |
-|---|---|---|---|---|
-| `projects/03_most_wanted_ship/` | I BOUGHT THE GALAXY'S MOST WANTED SHIP | (07_final 확인 후 갱신) | phase_2 완료 | phase_3 진입 대기 |
-| `projects/06_she_stole_my_face/` | SHE STOLE MY FACE | (07_final 확인 후 갱신) | phase_3 완료 | phase_4 진입 대기 |
+**단일 진실 = `CLAUDE.md` "현재 작품" 표.** 이 표를 여기 복제하지 않는다(2026-07-10 — 두 곳에 같은 표를 두면 한쪽이 갱신될 때 다른 쪽이 stale해지는 게 반복된 실패 패턴이었다. 실제로 이 표는 2026-05-21 이후 갱신이 안 돼 활성 작품 5개 중 2개만 반영하고 있었다). `CLAUDE.md`를 열어 "현재 작품" 섹션을 확인할 것.
 
 ### 2. 폐기 프로젝트 (작업 금지)
 
@@ -21,6 +21,7 @@
 | `projects/_X_02_the_offering/` | 외부 별도 진행 — `_X_` prefix·자동 차단 (2026-06-02) |
 | `projects/_X_04_heiress_clause/` | 폐기 — `_X_` prefix·자동 차단 |
 | `projects/_X_08_reborn_at_ten/` | 폐기 — `_X_` prefix·자동 차단 |
+| `projects/_X_09_scarred_bride/` | 폐기 — `09_ashen_bride`와 번호 충돌로 발견·동일 컨셉 후속안에 밀림 (2026-07-10) |
 
 ### 3. 현재 작품 내 폐기·실험·아카이브 (작업 금지)
 
@@ -46,12 +47,9 @@
 C:/Users/Rowan/.claude/projects/C--Users-Rowan-scenario-automation/memory/
 ```
 
-`CLAUDE.md`·`hard_rules.md`·기타 문서가 `memory/feedback_*.md`라고 참조할 때 = *위 위치*를 의미.
+`CLAUDE.md`·기타 문서가 `memory/feedback_*.md`라고 참조할 때 = *위 위치*를 의미.
 
-**Always-load 3개 (매 phase 진입 시 절대 정독):**
-1. `feedback_no_theater_tone.md` — 시적·연극톤 절대 금지
-2. `feedback_dark_romance_relationship_centered_v2_3.md` — 둘의 관계 70% / 외부 적 30%
-3. `config/hard_rules.md` (workspace 내) — 12 hard rule 1페이지
+**Always-load 목록 = `memory/MEMORY.md` "🥇 매 작업 진입 시" 섹션이 단일 진실.** 여기 별도 목록을 복제하지 않는다(2026-07-10 — 구 목록이 2026-06-10 메모리 v4 개편 이후 갱신 안 돼 `config/hard_rules.md`처럼 이미 스텁으로 바뀐 파일을 "12 hard rule 정독 대상"으로 지목하고 있었다 — 같은 stale-duplicate-table 패턴).
 
 **호출 트리거 baseline:** `memory/MEMORY.md` 참조
 
@@ -61,10 +59,10 @@ C:/Users/Rowan/.claude/projects/C--Users-Rowan-scenario-automation/memory/
 
 매 phase 진입 시 다음 5가지를 *순서대로* 확인:
 
-1. **본 파일 (`00_START_HERE.md`) 정독** — 현재 상태 파악
-2. **CLAUDE.md 인덱스 확인** — 자료 위치
-3. **`config/hard_rules.md` 정독** — 12 hard rule
-4. **memory/ always-load 3개 정독**
+1. **본 파일 (`00_START_HERE.md`) 정독** — 현재 상태 파악 (§0 세션 모델 확인 포함)
+2. **CLAUDE.md 인덱스 확인** — 자료 위치 + 핵심 문서 3개(`00_vertical_dna`·`10_writing_standard`·`20_review_standard`)
+3. **`memory/MEMORY.md` "🥇 매 작업 진입 시" 정독**
+4. **집필 진입이면 `10_writing_standard.md` §A 진입게이트(0번 프로스 위임 확인 포함) 전항 통과**
 5. **작품 진입 시 `projects/[작품]/[작품]_00_meta.md` 정독** — 작품 현재 상태
 
 → 1개라도 SKIP = 작업 중단·먼저 정독.
@@ -116,7 +114,7 @@ C:/Users/Rowan/.claude/projects/C--Users-Rowan-scenario-automation/memory/
 
 ```
 phase_0 (아이디어) → phase_1 (러프 청사진) → phase_2 (피칭) → 피칭 결과
-  → phase_3 (완성 청사진 + visual lock) → phase_4 (Conversion Runway 집필)
+  → phase_3 (완성 청사진 + engine brief) → phase_4 (Conversion Runway 집필)
   → phase_5 (페르소나 검토) → phase_6 (패치) → phase_7 (최종고)
 ```
 
@@ -128,4 +126,4 @@ phase_0 (아이디어) → phase_1 (러프 청사진) → phase_2 (피칭) → �
 
 > **본 파일 = 현재 상태 단일 진실. 작업 시작 = 본 파일 정독. 작업 완료 = 본 파일 갱신.**
 
-마지막 갱신: 2026-05-21
+마지막 갱신: 2026-07-10 — 세션 모델 확인(§0) 신설·활성 프로젝트 표/always-load 목록 중복 제거(CLAUDE.md·memory/MEMORY.md 단일 진실로 통일, 7주 stale 상태였음)·`_X_09_scarred_bride` 반영

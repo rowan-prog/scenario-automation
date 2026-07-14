@@ -66,7 +66,7 @@ persona_02 (AIGC Production)와 차이:
 - Section 12-3 (캐릭터 캐논 — 비주얼 락 항목)
 - Section 12-7 (비주얼 캐논)
 - Section 23-4 (Production Gate — 외형 락)
-- `config/visual_lock_template.md` (템플릿)
+- 어셋 캐논 기준 = **본문 △ 첫 등장 정의 + 상태태그** (`config/10_writing_standard.md` §B — 별도 비주얼 락 문서 = 2026-07-13 폐지·"락" = 본문 내 일관성 개념으로만 사용)
 
 ## 등급 분류 기준
 
