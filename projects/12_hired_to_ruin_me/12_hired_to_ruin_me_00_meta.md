@@ -8,7 +8,7 @@
 
 - **가제 (영어/한국어):** I Married the Woman Hired to Ruin Me / 날 파멸시키라고 고용된 여자와 결혼했다
 - **트랙:** 부가 A (각색)
-- **원작:** The CEO's Tempting Secretary (외부 러프 대본 — video-to-production-script-agent/projects/the_ceos_tempting_secretary, English master 66씬 단일본)
+- **원작:** The CEO's Tempting Secretary (dailymotion xacqflm · 1h42m). **⚠️ 소스 리빌드됨 (2026-07-15):** 각색 기반이던 옛 66씬 단일 마스터 = 소스 파이프라인이 **폐기**(speaker swap·STT 깨짐·△를 one-shot 아닌 generic paragraph 취급). 새 authoritative source = **프레임 정확 V2 컷 대본**(컷당 △1개) — 사본 = `_source_v2_frame_accurate/`(레퍼런스·수정금지). **현재 R01(0~46.5초)만 존재·나머지 재추출 중.** 각색 완성 = 이 소스 참조(대사 직설 레지스터 앵커·△ one-shot 규율)·단 러프이므로 결함(19초 무드컷 등) 비계승.
 - **장르:** GL · 고자극 치정 멜로 · 사이다 복수
 - **타깃 (국가 / 성향):** NA(영어권) · 30~50대 여성 / GL 수요층
 - **포맷:** A급 AIGC 실사형
@@ -28,8 +28,15 @@
 
 ## 진행 상황
 
-**현재 단계:** **EP1~13 LOCK 확정(2026-07-14).** 정본(제작 단일 진실) = `07_final/12_hired_to_ruin_me_FINAL_v2.md` (50화·2부 구성·무료1-8/유료9-50·제2부 본문 영어100%). 한국어 참고본 = `07_final/12_hired_to_ruin_me_FINAL_v2_KR.md` (검토용·인물명 한글 전사·EN과 정합). v1 불변. 타이틀 확정(사용자).
-**다음 권장:** EP14~50 동일 프로세스(지문/대사 구성 + 보수적 검토 → LOCK).
+**현재 단계:** **🚨 대사 전면 재작성 라운드 (2026-07-15) — EP1~13 LOCK 해제.** 사용자 콜드리드 판정: 전 대사 코퍼스 레지스터 불합격 — 완곡·암시·돌려말하기·순화("I want my wife filmed with another woman's mouth on her" = 행위를 못 부름)·재치 대구·압축 은유("prenup's toilet paper"·"Why hand me the knife")·톤 큐 의존(큐 없이 의미 안 섬). 특정 라인이 아니라 구조·지문·대사 전반 판정. 정본 = `07_final/12_hired_to_ruin_me_FINAL_v2.md` (v1/v2 불변 보존).
+**재작성 원칙:** 전개·비트·씬·지문 불변 — **대사만** §D-2-1 직설 레지스터로 재작성(행위 명명 의무·위트 EP당 1 배급제·밀당≠수수께끼·큐-가림). 수위 순화 절대 금지(완곡 깨면 수위 상향이 정상).
+**EP1~3 교정 배치 적용 완료 (2026-07-15) → `07_final/12_hired_to_ruin_me_FINAL_v3.md` (v2 불변).** script-surgeon(opus) 39줄 심문 → 16줄 교체(EP1·EP2 위트 0건·EP3 1건=END HOOK 킥) + 쇼러너 부분수용 2(#7·#34 워딩) + 연속성 1(#9 "for a year"→"three years") + **인용 정합 5**(EP1 발언의 녹취 재생 L1637·L2410, 캐치프레이즈 콜백 "never see a girl coming"→"never suspect a girl" L1646·L2505, 식탁 콜백 L2657 — 원 대사가 바뀌면 녹취/콜백 글자도 따라가야 함·D-5-1 예외②). 게이트: 구패턴 잔존 0·대사 524 불변·EP130/HOOK49/HC49 불변·esl intuitive 84.9%(비퇴행). 계획서 = `12_hired_to_ruin_me_05_surgery_plan_v3_dialogue_register.md`.
+**다음:** 사용자 v3 EP1~3 콜드리드 도장 → EP4~50 fan-out(도장 전 착수 금지) → KR 일괄 동기화.
+
+### 대사 레지스터 판정 (2026-07-15 — 사고 기록)
+- 이 판정으로 신설: `10_writing_standard.md` §D-2-1(직설 레지스터·위트 배급제) · `20_review_standard.md` §2B 직설 판정·§4 역방향 오분류 금지 · `tools/esl_hardwords.py` · tts-literal-ear 심문 5(리터럴 패러프레이즈). 메모리 = [[dialogue-direct-register-wit-ration]].
+- 사고 경로 3중: ①유창해서 per-line 검수 통과(직설 여부를 안 물음·지시서 초안부터 완곡 레지스터) ②belt의 은유 트림 지적을 '스타일'로 분류해 각색 보수주의 명분 전량 되돌림(자작 대사에 "대사 불가침" 오적용) ③register cool-tone FLAG를 "의도된 알파 레지스터" 무드 라벨로 기각.
+- 실측: 어휘 intuitive_pct 84.7%(esl_hardwords) — 어휘는 통과인데 전량 완곡 = 본병은 "쉬운 단어로 돌려 말하기" 구조.
 
 ### EP1~13 LOCK (2026-07-14)
 - 검토 = 무료(EP1-8)+5화 belt(aigc-draw·native-ear·funnel-cold-read·fresh-eyes) + 지문/대사 구성 기계검출 + opus 판정 + sonnet 수정.
