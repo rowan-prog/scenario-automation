@@ -86,7 +86,11 @@ phase_0 (아이디어) → phase_1 (러프 청사진) → phase_2 (피칭) → �
 
 | `15_reign_predators_office` | 군림: 포식자의 오피스 / REIGN: THE PREDATOR'S OFFICE | **phase_p 제출본 v1 (2026-07-22)** — 남성향 오피스 신분역전·섹슈얼·KR 발화·KR 20-40 남성·총 50화 내외(TBD)·무료 8·오리지널·中文 생략·레퍼런스 SarosTV <신생>. 제출본 = `Vigloo AI Drama Proposal_REIGN - THE PREDATOR'S OFFICE.docx`·원안 정본 = `_p0_source.md`·이력 = `15_reign_predators_office_00_meta.md`. 엔진 = 무요구 군림(여자들이 스스로 바침)·무료 8화 = 세아 단일 축·채은/최도혁 = 유료 카드. 잔여 = 사용자 검토·TBD 필드(총 회차·일정·제작비)·EN 타이틀 표기 확정 |
 
-새 작품 번호 = **16**.
+| `16_moses` | 내 남편은 거지 모세 / I Chose a Slave, But He Parts the Sea | **phase_p v5 (2026-07-24)** — 여성향 회귀 리벤지 판타지·48화·무료 1~5·각색 원작 《Swapped to a Beggar But He is Apollo》(완역 48화 보유·플롯 구조 그대로 = 사용자 확정). 제출본 = `Vigloo AI Drama Proposal_I Chose a Slave, But He Parts the Sea.docx` · **작가 전달용 트리트먼트 별도 문서 = 1~50화(무료 1~7 분할본)** = `내 남편은 거지 모세_회차 트리트먼트_1-50화.docx` (`_p1_treatment_full.md`) — 기획안은 원안 무료 5화 표기 유지(사용자 지시로 분할 미반영) · 원안 정본 = `_p0_source.md` · 이력 = `16_moses_00_meta.md`. 콜드리드 재작업 v5 = 원작 클리프 1:1 복원·유료 2~3줄 트리트먼트 신설·기획안 주접 제거. 잔여 = 사용자 검토·TBD(일정·비용) |
+
+| `17_son_of_the_lamp` | 《거지 알라딘과 전능의 램프》 BEGGAR ALADDIN AND THE ALMIGHTY LAMP (확정) | **phase_p 제출본 v1 (2026-07-24)** — 히든 아이덴티티 메인·복수 서브·미국/글로벌 EN·50화·무료 7·중수위 암시형·KR 전용(中文 생략). 3원 융합: 스파인 《약자의 가면, 강자의 힘》 + 스펙터클 《One Move God Mode》 + 로맨스 《Swapped to a Beggar But He Is Apollo》. 코어 = 유품 램프→정령 카딤 각성→어머니 복수, 이중 신분(거지↔복면 실력자↔은인), 리빌 3단(→은인→진왕 혈통)·디즈니 제로. 제출본 = `Vigloo AI Drama Proposal_BEGGAR ALADDIN AND THE ALMIGHTY LAMP.docx`·스펙 = `_p1_proposal_spec.txt`·원안 정본 = `_p0_source.md`·러프 = `_p0_rough.md`·이력 = `17_son_of_the_lamp_00_meta.md`. 기계 게이트·문체 콜드리드(신고 9건 반영) 통과. 잔여 = 사용자 검토·TBD(담당자·일정·제작비·샘플) |
+
+새 작품 번호 = **18**.
 
 > **현재본 단일 진실:** `07_final/[작품]_FINAL_v{최신N}.md`. 메타·CLAUDE.md 모순 시 → 파일 시스템 우선·메타 즉시 갱신. CLAUDE.md 작품 행 = 현재 상태 + 포인터만(이력 누적 금지).
 
