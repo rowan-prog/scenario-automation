@@ -25,7 +25,7 @@ def sentences(text):
 # 게이트1: 원안 무료회차 본문 = 문장 단위 verbatim 전수 (치환 인명 반영·회차 간 이동 허용)
 wonan = p0.split('## 원안 (verbatim)', 1)[1]
 src_block = wonan.split('무료회차 줄거리', 1)[1]
-src_block = src_block.replace('아사르', '모세').replace('황태자비', '왕비').replace('황태자', '파라오').replace('실라', '델릴라')
+src_block = src_block.replace('아사르', '모세').replace('화관', '연꽃').replace('황태자비', '왕비').replace('황태자', '파라오').replace('실라', '델릴라')
 src_lines = [ln.strip() for ln in src_block.split('\n') if ln.strip() and not re.match(r'^EP\d', ln.strip())]
 sents = []
 for ln in src_lines:

@@ -13,6 +13,7 @@ AIGC 숏폼 vertical drama 시나리오 제작. 최종 산출 = `projects/[작�
 | 모든 작업의 근본 원리 (작품 진입 시 1회) | **`config/00_vertical_dna.md`** — 8 매체 조건·모든 룰의 모체 |
 | 집필·재집필·가필 | **`config/10_writing_standard.md`** — 진입 게이트·△ 양식·연속극 구조·대사·State Ledger·모욕 표준 |
 | 검수·LOCK | **`config/20_review_standard.md`** — 2모드·Track A/B·토큰 회계(tier-weighted belt·직교 sweep·병렬 fan-out)·입력 무결성 게이트·쇼러너 merge·§4-1 수술 파이프라인 |
+| **외부 작가 대본 검수·코멘트** | **`config/30_writer_feedback_standard.md`** (2026-07-25 제정) — 사용자 코멘트 실물 3종 + AI 헛다리 대조로 도출한 4대 관점·형식 법칙·헛다리 필터·프로세스. 작가 회수본 올 때마다 §4 사례 환류 |
 
 구 문서(hard_rules·final_review_flow·agent_operating_rules·lock_pipeline_standard·phase_4 prompt) = 위 3개로 통합·스텁만 잔존 (`config/_archive_2026-06-10/` 원문 보존). master_guide_v3(5816줄) = 집필 컨텍스트 진입 금지.
 
@@ -56,6 +57,7 @@ phase_0 (아이디어) → phase_1 (러프 청사진) → phase_2 (피칭) → �
 | LOCK (phase 7) | `20_review_standard.md` §1 풀 belt(병렬 fan-out) → §2 Track B → §4 머지 → §5 **LOCK 후보 → 사용자 콜드리드 도장 → LOCK 확정** (핸드오프·비주얼락 환류 = 폐지·마감은 meta 갱신뿐) | belt = §7 모델맵 |
 | **LOCK 후 피드백·수술** | **`20_review_standard.md` §4-1 수술 파이프라인** (판정→계획서→v분기→기계/프로스→머지 체크리스트→게이트→마감) | 기계 = 메인 직접 · 프로스 = script-surgeon(opus) · 정합 대조 = consistency-sweeper(sonnet) |
 | 외부 대본/피드백 (phase b/c) | **입력 무결성 census 먼저(`20_review` §1 — 변환 결손 대조)** → external-intake 막장-필터 → §4 머지 | external-intake = opus |
+| **작가 집필 대본 코멘트** (검수 후 작가 반환) | `config/30_writer_feedback_standard.md` — 3패스(콜드리드→장르·구조→라인)·코멘트 = 사용자 관점·형식 법칙·AI 헛다리 필터. 캐논 = 해당 작품 트리트먼트+내용요건 | 콜드리드 지점 신고 = funnel-cold-reader(sonnet) / 코멘트 작성·선별 = 메인 직접 |
 | **플랫폼 기획안 (phase_p)** | `prompts/phase_p_platform_proposal.md` — **0단계 설계 확정 문답(fan-out 전)** → 대원칙 8종(원안=정본 verbatim·로그라인 5요소·갈등축 발명 금지·§C-4-2/§C-2-2 게이트·룰 정합·dramatic irony·내용요건=놓치기 쉬운 것만·사람 말 문체) → 기계 게이트 6종 → 빌더 `tools/build_vigloo_proposal.py` (2026-07-16 제정 · 실증 = My Million-Dollar Reset·While My Wife's Away) | 0단계 문답 = 메인↔사용자 / **안목(로그라인·내용요건 + 머지 후 문체 콜드리드) = fable 1기 고정** / 훅·아크 = opus / 트리트먼트 = sonnet(보강 0 기본값) / 시놉·캐릭터 = sonnet / 메타 = haiku → 머지·게이트·docx = 메인. **Fable = 안목 유닛만 — 벌크 프로즈 배정 금지 (2026-07-22 2차 정밀화·근거 = 절차문 분업 §)** |
 | 한국어 정본 검토 | 메모리 [[external-korean-script-review-belt]] (한국어 벤치마크 필수·voice_lint 무효→grep 대체) | opus + sonnet belt |
 | 산출 라운드 (타이틀·광고카피·셀링포인트) | 후보 = 다시각 독립 N기 병렬 → 메인 선별(§4-1 머지 체크리스트 준용) → 사용자 확정 | 생성 = copy-candidate-generator(opus) / 추출 = mkt-selling-point-extractor(sonnet) |
@@ -88,7 +90,7 @@ phase_0 (아이디어) → phase_1 (러프 청사진) → phase_2 (피칭) → �
 
 | `16_moses` | 내 남편은 거지 모세 / I Chose a Slave, But He Parts the Sea | **phase_p v5 (2026-07-24)** — 여성향 회귀 리벤지 판타지·48화·무료 1~5·각색 원작 《Swapped to a Beggar But He is Apollo》(완역 48화 보유·플롯 구조 그대로 = 사용자 확정). 제출본 = `Vigloo AI Drama Proposal_I Chose a Slave, But He Parts the Sea.docx` · **작가 전달용 트리트먼트 별도 문서 = 1~50화(무료 1~7 분할본)** = `내 남편은 거지 모세_회차 트리트먼트_1-50화.docx` (`_p1_treatment_full.md`) — 기획안은 원안 무료 5화 표기 유지(사용자 지시로 분할 미반영) · 원안 정본 = `_p0_source.md` · 이력 = `16_moses_00_meta.md`. 콜드리드 재작업 v5 = 원작 클리프 1:1 복원·유료 2~3줄 트리트먼트 신설·기획안 주접 제거. 잔여 = 사용자 검토·TBD(일정·비용) |
 
-| `17_son_of_the_lamp` | 《거지 알라딘과 전능의 램프》 BEGGAR ALADDIN AND THE ALMIGHTY LAMP (확정) | **phase_p 제출본 v1 (2026-07-24)** — 히든 아이덴티티 메인·복수 서브·미국/글로벌 EN·50화·무료 7·중수위 암시형·KR 전용(中文 생략). 3원 융합: 스파인 《약자의 가면, 강자의 힘》 + 스펙터클 《One Move God Mode》 + 로맨스 《Swapped to a Beggar But He Is Apollo》. 코어 = 유품 램프→정령 카딤 각성→어머니 복수, 이중 신분(거지↔복면 실력자↔은인), 리빌 3단(→은인→진왕 혈통)·디즈니 제로. 제출본 = `Vigloo AI Drama Proposal_BEGGAR ALADDIN AND THE ALMIGHTY LAMP.docx`·스펙 = `_p1_proposal_spec.txt`·원안 정본 = `_p0_source.md`·러프 = `_p0_rough.md`·이력 = `17_son_of_the_lamp_00_meta.md`. 기계 게이트·문체 콜드리드(신고 9건 반영) 통과. 잔여 = 사용자 검토·TBD(담당자·일정·제작비·샘플) |
+| `17_son_of_the_lamp` | 《거지 알라딘과 요술램프》 Beggar Aladdin and the Almighty Lamp | **phase_p 제출본 v2 = v5 스파인 (2026-07-25)** — 히든 아이덴티티 메인·미국/글로벌 EN 발화·50화·무료 7·KR 전용. 스파인 = 《Bukan Pengawal Biasa》(최강자 위장 경호·보호 로맨스) + 《False Weakling, True Power》(손가락 마법·오인 쾌감) — 잠입 미션 축 제거(사용자). 코어 = 진의 왕 알라딘이 평범한 삶 찾아 공주의 하인으로 → 매회 '실수' 위장 몰래 구하기(물주전자 문법) → 공주의 정체 추적 = 로맨스. 램프 = 왕권·정령 봉인 신물(비비기 = 소환·닦는 척 = 부리는 중)·지니 카딤 = 귀환 압박→중매 변심 축·디즈니 제로. 제출본 = `Vigloo AI Drama Proposal_Beggar Aladdin and the Almighty Lamp.docx`·스펙 = `_p1_proposal_spec.txt`·캐논 = `_p0_source.md` §0·이력 = meta. 게이트 통과(킬러 대사 11종·中文 0·구버전 축 잔재 0). 잔여 = 사용자 검토·TBD(담당자·제작비·납품·릴리즈·샘플) |
 
 새 작품 번호 = **18**.
 
