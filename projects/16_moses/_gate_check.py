@@ -25,7 +25,7 @@ def sentences(text):
 # 게이트1: 원안 무료회차 본문 = 문장 단위 verbatim 전수 (치환 인명 반영·회차 간 이동 허용)
 wonan = p0.split('## 원안 (verbatim)', 1)[1]
 src_block = wonan.split('무료회차 줄거리', 1)[1]
-src_block = src_block.replace('아사르', '모세').replace('화관', '연꽃').replace('황태자비', '왕비').replace('황태자', '파라오').replace('실라', '델릴라')
+src_block = src_block.replace('아사르', '모세').replace('화관', '연꽃').replace('황태자비', '왕비').replace('황태자', '파라오').replace('실라', '델릴라').replace('제국민', '백성').replace('제국', '왕국')
 src_lines = [ln.strip() for ln in src_block.split('\n') if ln.strip() and not re.match(r'^EP\d', ln.strip())]
 sents = []
 for ln in src_lines:
@@ -37,7 +37,7 @@ if missing:
 
 # 게이트1b: 원안 로그라인 3행 대조 (왕세자→파라오 1어절 승인 변경 반영)
 log_block = wonan.split('로그라인', 1)[1].split('무료회차 줄거리')[0]
-log_lines = [ln.strip().replace('왕세자', '파라오') for ln in log_block.split('\n') if ln.strip()]
+log_lines = [ln.strip().replace('왕세자', '파라오').replace('제국', '왕국') for ln in log_block.split('\n') if ln.strip()]
 log_missing = [ln for ln in log_lines if ln not in spec]
 if log_missing:
     fails.append(f"게이트1b 로그라인 누락 {len(log_missing)}행: " + " / ".join(m[:40] for m in log_missing))
