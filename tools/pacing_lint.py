@@ -27,13 +27,119 @@ LLM 판단 0. 숫자 + EP번호만 낸다. "괜찮다" 금지 — 분모/카운�
   6. PROTAGONIST PRESENCE — Characters: 로스터 최빈 인물이 빠진 EP 목록 (§C-3 인물 운용
      "거의 모든 회차에 주인공 등장" — 라이터스룸 강의록 §11. 2화+ 연속 부재 = FLAG)
 
+  7. TREATMENT CONTAINER AUDIT (--treatment 모드 · 2026-07-30, §C-3 상위 기준 = 컨테이너) —
+     회차 트리트먼트(`NN화|본문` 또는 `N화` 헤더 + 본문)를 컨테이너 구간(`[S…]` 라벨 행 ~ 다음
+     라벨 행)으로 잘라, 구간별 distinct 장소 수(--venues 사전 매칭) + 날짜점프 마커 수를 센다.
+     한 컨테이너에 장소 2+ 또는 날짜점프 1+ = FLAG. `[브리지]` 라벨 구간은 점프 허용(카운트 제외).
+     배경: 14/18(장모×사위 2종) 유료 트리트먼트가 "컨테이너" 라벨 밑에서 12화에 장소 11개
+     방 순회를 하고도 여러 검토 패스를 통과 — 매 화 새 장소·새 날 = 매 화 닫힌 구조 =
+     클리프행어가 이어질 곳이 없다. 세는 결함은 기계가 센다.
+
 usage: python tools/pacing_lint.py <script.md> [--single-use-cap 3] [--jump-cap 5]
                                     [--homebase-window 5] [--closer-keywords "tv;screen;chyron"]
+       python tools/pacing_lint.py --treatment <run.txt> --venues "드레스룸;침실;서재;부엌;현관"
 """
 import sys, io, re
 from collections import OrderedDict, Counter
 
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8")
+
+# --- CHECK 7: treatment container audit -------------------------------------
+EP_ROW = re.compile(r"^(\d+)화\|(.*)$")          # paid-run 규격: NN화|본문
+EP_HDR = re.compile(r"^(\d+)화$")                 # free-run 규격: N화 단독 행
+SEG_LABEL = re.compile(r"\[([^\[\]]*?)\]")        # [S1 · …] / [브리지]
+DAY_MARK = re.compile(
+    r"이튿날|다음\s?날|다음\s?주|(이틀|사흘|나흘|닷새|며칠)\s?(뒤|후|째)|"
+    r"(첫|둘|셋|넷|다섯)째\s?날|일주일|한\s?달|몇\s?달|\d+\s?(일|주|달|년)\s?(뒤|후)|그로부터|어느\s?날")
+# "첫날"은 안 센다 — 컨테이너 정의("입주 첫날")거나 에코("첫날과 똑같이")지 점프가 아니다.
+OFFSCREEN = re.compile(r"소리|불빛|목소리|너머|냄새|청소기|노크|벨|기침")  # 장소 ±14자에 이게 붙으면 오프스크린 방해
+
+def _setting_venues(body, venues):
+    """본문에서 '무대로 쓰인' 장소만 추출. 오프스크린 방해(발소리·불빛·청소기·너머)는
+    우리 긍정 패턴(방해는 밖에서 들어온다)이므로 무대로 세지 않고 별도 반환.
+    --venues 사전에는 독립 무대 공간만 넣어라 — 가구(소파·침대)·부속 공간(팬트리)·
+    문 이름(정원 문)을 넣으면 오탐이 는다."""
+    setting, offscreen = set(), set()
+    for v in venues:
+        for m in re.finditer(re.escape(v), body):
+            window = body[max(0, m.start() - 14):m.end() + 14]
+            (offscreen if OFFSCREEN.search(window) else setting).add(v)
+    return setting - {""}, offscreen - setting
+
+def treatment_audit(path, venues):
+    """트리트먼트를 컨테이너 구간으로 잘라 구간별 무대 장소·날짜 마커를 센다.
+    FLAG 기준: 무대 장소 3+ (2 = WARN·쇼러너 판정) / 날짜 마커가 구간 회차의 절반+ (매 화 리셋 리듬).
+    날짜 마커 1~2는 WARN — 한 방에서 며칠 이어지는 시퀀스(발목 나흘 등)는 합법이고,
+    죽이는 건 '매 화 새 날'이라는 리듬이다 (DNA 조건 2)."""
+    lines = load(path)
+    # 회차별 본문 수집 (paid-run 한 줄 규격과 free-run 헤더+블록 규격 둘 다)
+    ep_text = OrderedDict()
+    cur = None
+    for ln in lines:
+        m = EP_ROW.match(ln.strip())
+        if m:
+            ep_text[int(m.group(1))] = m.group(2); cur = None; continue
+        m = EP_HDR.match(ln.strip())
+        if m:
+            cur = int(m.group(1)); ep_text.setdefault(cur, ""); continue
+        if cur is not None and ln.strip():
+            ep_text[cur] += " " + ln.strip()
+    if not ep_text:
+        print("NO EPISODE ROWS FOUND — expected 'NN화|본문' or 'N화' headers"); return False
+
+    # 구간 분할: [S…]/[브리지] 라벨이 나오는 화에서 새 구간 시작. 라벨 전 = "(무라벨 선두)"
+    segments = []  # (label, is_bridge, [(ep, body)…])
+    label, bucket = "(무라벨 선두)", []
+    for ep, body in ep_text.items():
+        mlab = SEG_LABEL.search(body)
+        if mlab:
+            if bucket: segments.append((label, "브리지" in label, bucket))
+            label, bucket = mlab.group(1).strip(), []
+        bucket.append((ep, body))
+    if bucket: segments.append((label, "브리지" in label, bucket))
+
+    P = print
+    P("=" * 60); P(f"pacing_lint --treatment :: {path}"); P("=" * 60)
+    P("[7] TREATMENT CONTAINER AUDIT (§C-3 컨테이너 — 구간 = 한 공간·한 흐름, 점프는 브리지만)")
+    if not venues:
+        P("  ⚠ --venues 미지정: 장소 카운트 생략, 날짜 마커만 검사 (사전 없이 장소는 못 센다)")
+    all_pass, total_setting = True, set()
+    last_seg_label = segments[-1][0] if segments else None
+    max_ep_all = max(ep_text)
+    for lab, is_bridge, rows in segments:
+        eps = [e for e, _ in rows]
+        setting, offscreen, days = set(), set(), []
+        finale_grace = set()
+        for e, b in rows:
+            sv, ov = _setting_venues(b, venues)
+            # 에필로그 grace: 마지막 구간의 마지막 2화(출국·재현 비트)는 무대 카운트 제외
+            if lab == last_seg_label and e >= max_ep_all - 1:
+                finale_grace |= sv
+            else:
+                setting |= sv
+            offscreen |= ov
+            md = DAY_MARK.search(b)
+            if md: days.append((e, md.group(0)))
+        total_setting |= setting | finale_grace
+        if is_bridge or lab == "(무라벨 선두)":
+            P(f"  [{lab}] EP{eps[0]}–EP{eps[-1]}: 무대 {sorted(setting)} · 날짜 {len(days)} (점프 허용 구간)")
+            continue
+        v_flag = venues and len(setting) >= 3
+        v_warn = venues and len(setting) == 2
+        half = max(2, (len(rows) + 1) // 2)
+        d_flag = len(days) > half                     # 절반 초과 = 매 화 리셋 리듬
+        d_warn = len(days) > max(1, len(rows) // 4)   # 1/4 초과부터 경고 (한 방 며칠 시퀀스는 합법)
+        flag = v_flag or d_flag
+        all_pass &= not flag
+        verdict = "FLAG" if flag else ("WARN(쇼러너 판정)" if (v_warn or d_warn) else "PASS")
+        grace_note = f" · 에필로그 grace {sorted(finale_grace)}" if finale_grace else ""
+        P(f"  [{lab}] EP{eps[0]}–EP{eps[-1]} ({len(eps)}화): 무대 {len(setting)} {sorted(setting)}"
+          f" · 오프스크린 방해 {sorted(offscreen)}{grace_note} · 날짜 마커 {len(days)} {days if days else ''}  => {verdict}")
+    if venues:
+        P(f"  작품 전체 무대 총량(사전 매칭): {len(total_setting)} {sorted(total_setting)}")
+    P(f"  => 컨테이너 게이트 {'PASS' if all_pass else 'FLAG (방 순회 또는 매 화 리셋 리듬 — 재분절 검토)'}")
+    return all_pass
+# -----------------------------------------------------------------------------
 
 def load(path):
     with open(path, encoding="utf-8") as f:
@@ -65,6 +171,13 @@ def parse_header(rest):
     return time_raw, venues
 
 def main():
+    if "--treatment" in sys.argv:
+        path = sys.argv[sys.argv.index("--treatment") + 1]
+        venues = []
+        if "--venues" in sys.argv:
+            venues = [v.strip() for v in sys.argv[sys.argv.index("--venues") + 1].split(";") if v.strip()]
+        treatment_audit(path, venues)
+        return
     path = sys.argv[1]
     def arg(flag, default, cast=int):
         return cast(sys.argv[sys.argv.index(flag) + 1]) if flag in sys.argv else default
