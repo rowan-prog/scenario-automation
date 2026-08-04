@@ -1,0 +1,100 @@
+# -*- coding: utf-8 -*-
+"""작가 회수본(2차)에 검수 코멘트 주입 → _1-21화_검수코멘트_v13.docx
+   - 회수본에 남아 있던 지난 라운드 코멘트 54개는 전부 제거하고 새 것만 넣는다.
+   - 앵커는 단락 번호가 아니라 본문 고유 문구로 잡는다(초고가 바뀌어도 안 어긋나게).
+"""
+import io, os, re, sys, shutil, zipfile
+sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8', errors='replace')
+
+SRC = r"C:\Users\Rowan\Downloads\I Chose a Slave, But He Parts the Sea_내 남편은 거지 모세_대본 (2).docx"
+OUT = r"C:\Users\Rowan\scenario-automation\projects\16_moses\내 남편은 거지 모세_1-21화_검수코멘트_v13.docx"
+AUTHOR, INITIALS, DATE = 'Rowan Lee', 'RL', '2026-08-03T00:00:00Z'
+WT = r'<w:t(?:\s[^>]*)?>(.*?)</w:t>'
+
+# (앵커 문구, 코멘트)
+@@C@@
+
+def esc(s):
+    return s.replace('&', '&amp;').replace('<', '&lt;').replace('>', '&gt;')
+
+
+def body_xml(cid, text):
+    runs = []
+    for j, line in enumerate(text.split('\n')):
+        br = '<w:br/>' if j else ''
+        runs.append(f'<w:r><w:rPr><w:sz w:val="18"/><w:szCs w:val="18"/></w:rPr>{br}'
+                    f'<w:t xml:space="preserve">{esc(line)}</w:t></w:r>')
+    return (f'<w:comment w:id="{cid}" w:author="{AUTHOR}" w:initials="{INITIALS}" '
+            f'w:date="{DATE}"><w:p><w:pPr><w:pStyle w:val="CommentText"/></w:pPr>'
+            + ''.join(runs) + '</w:p></w:comment>')
+
+
+z = zipfile.ZipFile(SRC)
+doc = z.read('word/document.xml').decode('utf-8')
+com = z.read('word/comments.xml').decode('utf-8')
+
+# ── 0. 사용자 변경 이력 수락 (삽입 확정 · 삭제 반영) ────────
+ins_n, del_n = len(re.findall(r'<w:ins\b', doc)), len(re.findall(r'<w:del\b', doc))
+doc = re.sub(r'<w:del\b[^>]*/>', '', doc)
+doc = re.sub(r'<w:del\b[^>]*>.*?</w:del>', '', doc, flags=re.S)
+doc = re.sub(r'<w:ins\b[^>]*/>', '', doc)
+doc = re.sub(r'</?w:ins\b[^>]*>', '', doc)
+assert not re.search(r'<w:ins\b|<w:del\b|<w:delText', doc), '변경 이력 잔재'
+print(f'변경 이력 수락: 삽입 {ins_n} · 삭제 {del_n}')
+
+# ── 1. 지난 라운드 코멘트 전부 제거 ─────────────────────────
+before = len(re.findall(r'<w:comment ', com))
+doc = re.sub(r'<w:commentRangeStart[^>]*/>', '', doc)
+doc = re.sub(r'<w:commentRangeEnd[^>]*/>', '', doc)
+doc = re.sub(r'<w:r\b(?:(?!</w:r>).)*?<w:commentReference[^>]*/>(?:(?!</w:r>).)*?</w:r>', '', doc, flags=re.S)
+com = re.sub(r'<w:comment .*</w:comment>', '', com, flags=re.S)
+assert not re.search(r'commentRangeStart|commentReference', doc), '구 코멘트 잔재'
+print(f'구 코멘트 제거: {before}개')
+
+# ── 2. 앵커 찾기 ──────────────────────────────────────────
+spans = [m.span() for m in re.finditer(r'<w:p[ >].*?</w:p>|<w:p/>', doc, re.S)]
+texts = []
+for a, b in spans:
+    t = ''.join(re.findall(WT, doc[a:b], re.S))
+    texts.append(t.replace('&amp;', '&').replace('&lt;', '<').replace('&gt;', '>')
+                  .replace('&quot;', '"').replace('&apos;', "'"))
+
+edits, bodies, cid = [], [], 0
+for anchor, text in C:
+    key = anchor.rstrip('\n')
+    hits = [i for i, t in enumerate(texts)
+            if (key in t) and (not anchor.endswith('\n') or t.strip() == key.strip())]
+    assert len(hits) == 1, f'앵커 {len(hits)}건: {anchor[:35]}'
+    i = hits[0]
+    a, b = spans[i]
+    p = doc[a:b]
+    m = re.search(r'<w:r[ >]', p)
+    assert m, f'run 없음: {anchor[:35]}'
+    st = f'<w:commentRangeStart w:id="{cid}"/>'
+    en = (f'<w:commentRangeEnd w:id="{cid}"/><w:r><w:rPr><w:rStyle w:val="CommentReference"/></w:rPr>'
+          f'<w:commentReference w:id="{cid}"/></w:r>')
+    newp = p[:m.start()] + st + p[m.start():]
+    newp = newp[:newp.rindex('</w:p>')] + en + '</w:p>'
+    edits.append((a, b, newp))
+    bodies.append(body_xml(cid, text))
+    cid += 1
+
+for a, b, newp in sorted(edits, key=lambda x: -x[0]):
+    doc = doc[:a] + newp + doc[b:]
+com = com.replace('</w:comments>', ''.join(bodies) + '</w:comments>')
+
+# ── 3. 저장 ──────────────────────────────────────────────
+shutil.copyfile(SRC, OUT)
+tmp = OUT + '.tmp'
+zin, zout = zipfile.ZipFile(OUT), zipfile.ZipFile(OUT + '.tmp', 'w', zipfile.ZIP_DEFLATED)
+for it in zin.infolist():
+    d = zin.read(it.filename)
+    if it.filename == 'word/document.xml':
+        d = doc.encode('utf-8')
+    elif it.filename == 'word/comments.xml':
+        d = com.encode('utf-8')
+    zout.writestr(it, d)
+zout.close(); zin.close()
+os.replace(tmp, OUT)
+print(f'코멘트 {len(bodies)}개 주입')
+print('WROTE', OUT)
