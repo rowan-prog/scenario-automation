@@ -1,0 +1,93 @@
+EP     lines scenes    △  dlg  chars  speakers
+1        100      5   41   17   2535  Leo（VO）:6 Leo:6 Chloe:3 Leo（冷笑）:1 Chloe（嫌弃的白眼）:1
+2         84      3   43   20   1625  Leo:5 保镖:2 Leo（VO）:2 神秘人:1 保镖（冷漠）:1 Leo（惨叫）:1
+3         43      1   24   13   1169  Chloe:8 Leo:4 Leo（咬牙）:1
+4         57      4   24   11   1526  Chloe:3 Leo（VO）:1 Leo（VO，慌乱）:1 Leo（低吼）:1 Leo（暴躁）:1 Leo（命令）:1
+5         82      3   39   17   2312  Chloe:7 Leo:6 Leo（OS）:1 Leo（VO）:1 Chloe（轻声）:1 Leo（轻笑）:1
+6         58      2   25   13   1462  Chloe:5 Leo（VO）:2 Chloe（OS，命令）:1 Leo:1 Leo（沙哑）:1 Chloe（气息不稳）:1
+7         66      3   27   14   1883  Leo:3 Leo（嘶哑）:1 Leo（低吼）:1 Leo（疯狂）:1 Leo（轻佻）:1 Chloe（愤怒）:1
+8         50      2   25   10   1539  Chloe（呵斥）:1 Leo（调侃）:1 Leo:1 Chloe（冷声）:1 Leo（轻松）:1 Leo（愤恨）:1
+9         45      1   18   12   1723  Leo:5 Chloe:2 Leo（沙哑）:1 Leo（低沉）:1 Leo（自嘲）:1 Chloe（冰冷）:1
+10        61      2   33   19   1419  Chloe:4 Leo（VO）:4 Leo:3 Leo（急切，紧张）:1 Chloe（OS）:1 Leo（迟疑）:1
+11        47      3   25   10    946  Leo:4 片段A:1 片段B:1 片段C:1 Leo（OS）:1 Chloe:1
+12        41      1   25   12   1061  Chloe:9 Leo:2 Leo（咬牙）:1
+13        45      3   22   13    939  Leo:4 Chloe:4 Marcus:3 Marcus（平静）:1 Leo（VO）:1
+14        42      2   26    9   1057  Marcus:4 Chloe:1 Marcus（含糊不清）:1 片段A:1 片段B:1 片段C:1
+15        46      3   26   10   1002  Leo:6 Chloe:3 Leo（咬牙）:1
+16        42      2   24   12    990  Chloe:6 Leo:5 Chloe（认真）:1
+17        47      3   24   12   1060  Leo:4 Chloe:2 Leo（轻笑）:1 Leo（自信）:1 片段A:1 片段B:1
+18        47      2   24   16    941  Leo:6 助理:3 Chloe:3 Leo（轻声）:1 Chloe（轻笑）:1 Chloe（轻声）:1
+19        49      3   26   10   1130  Leo:5 Leo（OS）:1 片段A:1 片段B:1 片段C:1 Leo（VO）:1
+20        43      1   25   12   1016  神父:2 Chloe:2 Leo（VO）:1 Leo:1 Leo（认真地）:1 Leo（嘶哑，急切）:1
+21        30      2   19    4    822  Leo（VO）:2 Leo（怒吼）:1 Leo:1
+22        48      3   26   11    996  Chloe:2 Leo:2 片段A:1 片段B:1 Leo（闷哼）:1 片段C:1
+23        34      1   22    9    872  Chloe:5 Leo（咬牙）:1 Chloe（挑眉）:1 Leo（VO）:1 Leo（冷漠）:1
+24        40      2   27    7   1045  Leo（VO）:2 Leo（自语）:1 Chloe（冷傲）:1 Leo:1 Leo（咬牙）:1 Chloe:1
+25        40      1   24   13   1036  Chloe:9 Leo:3 Chloe（轻笑）:1
+26        33      1   22    8   1004  Chloe:4 Leo（VO）:2 Leo:2
+27        50      3   26   15   1125  Chloe:7 Leo:7 Leo（VO）:1
+28        35      2   20    9    923  Chloe:4 Leo:3 Leo（底气不足）:1 Leo（痛苦）:1
+29        38      2   23    9    895  Chloe:4 Leo:3 Chloe（OS）:1 Leo（紧张）:1
+30        33      1   26    4    905  Chloe:3 Leo:1
+31        51      3   21   20   1053  Chloe:8 Leo:7 Liam（OS）:3 Leo（低吼）:1 Liam:1
+32        39      1   18   18    970  Leo:5 Liam:4 Chloe:3 Leo（咬牙切齿）:1 Chloe（轻声）:1 Leo（VO）:1
+33        32      1   17   12    855  Leo:4 美女B:2 美女A（瞪大眼睛，捂着嘴惊呼）:1 美女C（娇媚）:1 美女A:1 Liam:1
+34        31      1   21    7    919  美女A（尖锐）:1 美女B（嫌弃）:1 Chloe（冰冷，霸气）:1 Liam（责怪）:1 Leo（冷冽）:1 Chloe:1
+35        30      1   18    9    850  Liam:2 Leo（声音嘶哑，带着哭腔）:1 服务生:1 Leo:1 Chloe（VO）:1 Chloe（轻声）:1
+36        35      1   19   13    917  Chloe:6 Leo:3 Chloe（轻声，安抚）:1 Chloe（轻声）:1 Leo（低声，躲闪）:1 Chloe（语速加快）:1
+37        26      1   16    7    819  Leo:2 Chloe（挣扎）:1 Leo（低沉）:1 Leo（声音发抖）:1 Leo（激动）:1 Chloe（哽咽）:1
+38        31      1   16   12    815  Chloe:6 Leo:5 Chloe（怒斥）:1
+39        30      1   22    5    877  Chloe:4 Leo:1
+40        35      2   23    6    938  Chloe:4 Leo:2
+41        34      4   14    8    952  Leo:3 Chloe:3 Marcus（得意）:1 安保:1
+42        35      1   23    9    859  Chloe:6 Leo:2 Marcus（OS）:1
+43        39      1   22   14    973  Marcus:6 Chloe:4 Chloe（命令）:1 Marcus（自信）:1 Leo（轻笑）:1 Leo:1
+44        40      1   24   13   1073  Chloe:2 Marcus（断断续续）:1 Leo:1 Marcus（喘气）:1 Chloe（平静）:1 Chloe（笑着）:1
+45        39      2   20   13    886  Leo:2 Chloe:2 Chloe（轻声）:2 女人（激动）:1 男人（暧昧）:1 女人（娇嗔）:1
+46        36      1   25    8    873  Chloe:4 Leo:2 Leo（颤抖）:1 Leo（嘶哑）:1
+47        36      1   20   13    900  Chloe:3 Leo（轻笑）:3 Leo:3 Chloe（喘息）:1 Leo（轻声）:1 Chloe（挑衅，虚弱）:1
+48        28      1   21    4    785  Chloe:1 Chloe（哽咽）:1 Chloe（坚定）:1 Leo（哽咽）:1
+49        36      2   21    5    905  片段A（青年）:1 片段B（青年）:1 片段C（青年）:1 片段D（中年）:1 片段E（老年）:1
+50        35      1   23    8    876  Chloe（哽咽）:1 Leo（微弱，断断续续）:1 Leo:1 Leo（似有似无）:1 医生（沉重）:1 Chloe:1
+
+=== 전체 화자 ===
+  161  Chloe
+  140  Leo
+   28  Leo（VO）
+   14  Marcus
+    9  Chloe（轻声）
+    8  Liam
+    7  Leo（轻笑）
+    5  Leo（咬牙）
+    5  片段A
+    5  片段B
+    5  片段C
+    3  Leo（低吼）
+    3  Leo（OS）
+    3  Leo（嘶哑）
+    3  Leo（嘶吼）
+    3  Leo（轻声）
+    3  助理
+    3  Liam（OS）
+    3  美女B
+    3  Chloe（哽咽）
+    2  保镖
+    2  Leo（命令）
+    2  助理（OS）
+    2  Leo（沙哑）
+    2  Chloe（冰冷）
+    2  Leo（调侃）
+    2  Leo（低沉）
+    2  Chloe（OS）
+    2  Leo（嘶哑，急切）
+    2  Chloe（认真）
+    2  Chloe（轻笑）
+    2  神父
+    2  Leo（痛苦）
+    1  Leo（冷笑）
+    1  Chloe（嫌弃的白眼）
+    1  神秘人
+    1  保镖（冷漠）
+    1  Leo（惨叫）
+    1  男女
+    1  Leo（绝望抓狂）

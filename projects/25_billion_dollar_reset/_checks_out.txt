@@ -1,0 +1,54 @@
+=== 영문 단어 내부 VO/OS 오염 ===
+    3  rVOe
+    1  cVOts
+    1  CrVOs
+    1  lVOe
+    1  pVOsibly
+    1  faOSrs
+    1  lVOt
+    1  AlmVOt
+
+=== 화별 대사 언어 (EN / CN) ===
+EP1   EN=16  CN=1     EP2   EN=9   CN=11    EP3   EN=3   CN=10    EP4   EN=7   CN=4     
+EP5   EN=17  CN=0     EP6   EN=12  CN=1     EP7   EN=13  CN=1     EP8   EN=8   CN=2     
+EP9   EN=12  CN=0     EP10  EN=0   CN=19    EP11  EN=0   CN=10    EP12  EN=0   CN=12    
+EP13  EN=0   CN=13    EP14  EN=1   CN=8     EP15  EN=0   CN=10    EP16  EN=0   CN=12    
+EP17  EN=0   CN=12    EP18  EN=1   CN=15    EP19  EN=0   CN=10    EP20  EN=2   CN=10    
+EP21  EN=0   CN=4     EP22  EN=0   CN=11    EP23  EN=0   CN=9     EP24  EN=0   CN=7     
+EP25  EN=0   CN=13    EP26  EN=0   CN=8     EP27  EN=0   CN=15    EP28  EN=0   CN=9     
+EP29  EN=0   CN=9     EP30  EN=0   CN=4     EP31  EN=1   CN=19    EP32  EN=0   CN=18    
+EP33  EN=0   CN=12    EP34  EN=0   CN=7     EP35  EN=1   CN=8     EP36  EN=0   CN=13    
+EP37  EN=0   CN=7     EP38  EN=0   CN=12    EP39  EN=0   CN=5     EP40  EN=0   CN=6     
+EP41  EN=0   CN=8     EP42  EN=1   CN=8     EP43  EN=1   CN=13    EP44  EN=0   CN=13    
+EP45  EN=0   CN=13    EP46  EN=0   CN=8     EP47  EN=1   CN=12    EP48  EN=0   CN=4     
+EP49  EN=0   CN=5     EP50  EN=0   CN=8     
+총 EN 대사: 106 / 총 CN 대사: 449
+EN 대사 0인 첫 화: 10
+
+=== Attempt / 次 카운터 ===
+   68: 【Attempt：第2次】
+   73: 【Attempt：第23次】
+   79: 【Attempt：第57次】
+   83: 【Attempt：第92次】
+   92: 【Attempt：第93次】
+   93: Leo（VO）： 92 failures. She rejects money. She rejects charm. She rejects everything. This woman is impenetrable
+   94: （92次失败。她拒绝金钱，拒绝魅力，拒绝一切。这个女人根本无法攻破。但是——见鬼，我满脑子都是她。）
+  172: Leo（VO）：Attempt number 34. You spilled coffee on your collar, and I saw that exact same snake and rVOe.
+  173: （第34次读档。你把咖啡洒在衣领上时，我看到了这一模一样的一蛇与玫瑰。）
+  249: 【Attempt：第97次】
+  419: （真是疯狂的一夜，有了96次失败，这次我终于赢了。）
+  423: [CONQUEST PROGRESS: 95%]
+  451: 【Attempt：第98次】
+  546: 【Ready：第99次】
+  554: Leo（沙哑）：98 times—— I threw money, I threw charm, I threw threats. Every time she rejected me, I just hit reloa
+  579: Leo：Thank you for playing along with my nonsense 97 times, and making me realize this.
+  653: [CONQUEST PROGRESS: 5%]
+  695: [CONQUEST PROGRESS: 20%]
+  778: [CONQUEST PROGRESS: 50%]
+  880: [CONQUEST PROGRESS: 70%]
+  930: [CONQUEST PROGRESS: 80%]
+  994: [CONQUEST PROGRESS: 90%]
+ 1034: [STATUS: IN PROGRESS]
+ 1035: [CONQUEST PROGRESS: 99%]
+ 1114: [CONQUEST PROGRESS: Reset]
+ 1130: 【Attempt：第99次】

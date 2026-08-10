@@ -1,0 +1,644 @@
+--- 20화본(피드백前)
++++ 50화본(피드백後)
+@@ -11,6 +11,6 @@
+ △Leo用拇指蹭了一下火辣辣的脸颊，嘴角咧开，露出兴奋玩味的笑容。
+-Leo（OS）： One wrong word. One wrong turn. For everyone, it costs a lifetime of wealth and women.
++Leo（VO）： One wrong word. One wrong turn. For everyone, it cVOts a lifetime of wealth and women.
+ （一句话说错，一步走错。对普通人来说，代价是一辈子的财富和女人。）
+ △Leo缓缓抬起右手，对着镜头。
+-Leo（OS）： Not for me. I just hit reload.
++Leo（VO）： Not for me. I just hit reload.
+ （但我不同。我只需要读档。）
+@@ -20,3 +20,3 @@
+ △闪回
+-△画面快速叠画（Cross-dissolve）
++△画面快速叠画（CrVOs-dissolve）
+ △彩票中心：漫天金色彩带落下，Leo漫不经心地举着头奖彩票。
+@@ -24,3 +24,3 @@
+ △拉斯维加斯赌场：VIP桌前，Leo将筹码推成小山，荷官翻出皇家同花顺，无数穿着比基尼的顶级美女簇拥着他，香槟泡沫喷洒。
+-Leo（OS）：My life is a casino. And I am the house.
++Leo（VO）：My life is a casino. And I am the house.
+ （我的人生就是赌场，而我是庄家。）
+@@ -32,4 +32,4 @@
+ △Leo吐出顶级雪茄的烟雾，拿起手机，屏幕上显示着一个充满科技感的App。
+-Leo：One tap. One save point a day. If anything goes wrong... I just snap my fingers and reload.
+-（每天按一次，设定一个唯一存档点。如果有任何事搞砸了……我只需要打个响指，就能读档重来。）
++Leo：One tap. One save point a day. If anything goes wrong—— I just snap my fingers and reload.
++（每天按一次，设定一个唯一存档点。如果有任何事搞砸了——我只需要打个响指，就能读档重来。）
+ △床边的美女起身，不小心碰落一旁的瓷器。
+@@ -40,6 +40,6 @@
+ △美女们被Leo惊人的身手迷得花枝乱颤，滚烫的胴体立刻缠了上来，依偎在他胸口。
+-Leo（OS）：Money. Women. Power.
++Leo（VO）：Money. Women. Power.
+ 钱，女人，权力。
+ △Leo 对着镜头举起香槟杯。
+-Leo（OS）：Life is easy when you can reload.
++Leo（VO）：Life is easy when you can reload.
+ 能读档的人，人生当然简单。
+@@ -55,10 +55,8 @@
+ [QUEST: CONQUER THE ICE QUEEN]
+-[WARNING: SKILL RESTRICTION ACTIVATED]
+-[REMAINING RETRIES (剩余重置次数): 99 / 99]
+ [QUEST FAILURE PENALTY: ABILITY ERASED]
+ △Leo的手僵在半空，震惊地盯着眼前的虚拟面板。
+-Leo：搞什么鬼？强制下发任务？还把我的读档限制在99次？如果失败，抹除能力？
++Leo：搞什么鬼？强制下发任务？如果失败，抹除能力？
+ △Leo看向Chloe离去的方向。
+-Leo（冷笑）： 99 chances? For a woman?
+-（对付一个女人，给我99次机会？）
++Leo（冷笑）： For a woman?
++（对付一个女人）
+ △Leo挥手，红色UI消失不见。
+@@ -69,3 +67,3 @@
+ △【音乐动感、急促】
+-【Attempt 1：剩余 98次】
++【Attempt：第2次】
+ △Leo端着装着两百万美金Graff钻石项链的托盘走向Chloe。 Chloe直接将名贵手包狠狠砸在Leo脸上！
+@@ -74,5 +72,5 @@
+ 
+-【Attempt 23：剩余 76次】
++【Attempt：第23次】
+  △Leo在一幅画前装模作样。
+-Leo：This is Foucault's power structure...
++Leo：This is Foucault's power structure——
+  Chloe（嫌弃的白眼）：Arendt was a woman, you idiot!
+@@ -80,3 +78,3 @@
+ 
+-【Attempt 57：剩余 42次】
++【Attempt：第57次】
+  △Leo上演英雄救美去打小混混，结果被一拳揍翻在地。
+@@ -84,3 +82,3 @@
+ 
+-【Attempt 88：剩余 11次】
++【Attempt：第92次】
+ △Leo满头大汗，衣服凌乱，刚要开口。
+@@ -93,9 +91,8 @@
+ △夜色浓重，Leo靠在墙上，扯松了领带，大口喘着粗气。
+-△屏幕上方悬浮着冰冷的数字：
+-[REMAINING RETRIES: 8 / 99]
+-Leo（OS）： 91 failures. She rejects money. She rejects charm. She rejects everything. This woman is impenetrable. But... God, I can't stop thinking about her.
+-（91次失败。她拒绝金钱，拒绝魅力，拒绝一切。这个女人根本无法攻破。但是……见鬼，我满脑子都是她。）
++【Attempt：第93次】
++Leo（VO）： 92 failures. She rejects money. She rejects charm. She rejects everything. This woman is impenetrable. But—— God, I can't stop thinking about her.
++（92次失败。她拒绝金钱，拒绝魅力，拒绝一切。这个女人根本无法攻破。但是——见鬼，我满脑子都是她。）
+ △Leo抬起头。
+ △【主观视角】Chloe身着黑色皮革的深色风衣，谨慎地环顾四周，推开了一扇极其隐蔽的铁门，快速钻了进去。
+-△Leo深吸了一口气，死死盯着铁，门微眯双眼，嘴角缓缓勾起。
++△Leo深吸了一口气，死死盯着铁门，微眯双眼，嘴角缓缓勾起。
+ Leo： Let’s see what you’re hiding in the dark, my Ice Queen.
+@@ -121,3 +118,3 @@
+ △Leo躲在角落，看着前方一个戴着面具的神秘人走上前，对保镖低语。
+-神秘人：snake……（声音渐弱）
++神秘人：snake——（声音渐弱）
+ △保镖点头，神秘人走进去。
+@@ -132,5 +129,5 @@
+ △Leo继续躲在垃圾桶后。另一对戴着面具的男女走上前。
+-男女：...and rose.（……与玫瑰。）
++男女：——and rVOe.（——与玫瑰。）
+ △Leo走上前，嘴角勾起笃定的笑。
+-Leo：Snake and rose.
++Leo：Snake and rVOe.
+ （蛇与玫瑰。）
+@@ -174,6 +171,6 @@
+ △【特写】女人白皙的后颈上，露出纹身——一条黑蛇缠绕着一朵带刺的玫瑰。
+-Leo（OS）：Attempt number 34. You spilled coffee on your collar, and I saw that exact same snake and rose.
++Leo（VO）：Attempt number 34. You spilled coffee on your collar, and I saw that exact same snake and rVOe.
+ （第34次读档。你把咖啡洒在衣领上时，我看到了这一模一样的一蛇与玫瑰。）
+ △Leo看着女人走进VIP房。
+-Leo（OS）：游戏结束了，克洛伊，不，女王。你现在是我的了。
++Leo（VO）：游戏结束了，克洛伊，不，女王。你现在是我的了。
+ △Leo快步跟上。
+@@ -184,4 +181,4 @@
+ △Leo得意地扯松了脖子上的领带，手握在门把手上——
+-Leo（傲慢、嘲弄）：Well, well, well, if it isn't the famous...
+-（哎呀呀，这不是鼎鼎大名的……）
++Leo（傲慢、嘲弄）：Well, well, well, if it isn't the famous——
++（哎呀呀，这不是鼎鼎大名的——）
+ △黑暗中，戴着黑色皮手套的手猛地探出，一把死死勾住Leo的脖颈，Chloe的另一只手一把拽住Leo的领带！
+@@ -228,3 +225,3 @@
+ △Chloe俯下身，灼热的呼吸逼近，戴着黑色皮手套的手缓缓伸向Leo脸上的面具。
+-Chloe：现在……让我看看这张面具后面藏着什么样的小丑。
++Chloe：现在——让我看看这张面具后面藏着什么样的小丑。
+ △【特写】Chloe的手指扣住面具边缘，用力一掀！
+@@ -238,7 +235,7 @@
+ △Leo的瞳孔剧烈收缩，狠狠地吞咽了一口口水【音效：重锤般的心跳声，渐强】。
+-Leo（OS）：So this is... what a queen feels like.
+-（这就是……女王的感觉吗。）
++Leo（VO）：So this is—— what a queen feels like.
++（这就是——女王的感觉吗。）
+ △【Leo主观镜头/升格慢镜头】面具被缓缓揭开。
+-Leo（OS，慌乱）：No...I can never lose to a woman! And I can't possibly fall for her!
+-（不……我绝不能输给一个女人！更不能对她动心！）
++Leo（VO，慌乱）：No——I can never lVOe to a woman! And I can't pVOsibly fall for her!
++（不——我绝不能输给一个女人！更不能对她动心！）
+ △面具即将完全脱离的Leo的脸。
+@@ -251,3 +248,3 @@
+ △屏幕上方悬浮着冰冷的数字：
+-[REMAINING RETRIES: 3/ 99]
++【Attempt：第97次】
+ △“砰！”Leo恼羞成怒地一脚狠狠踹在路旁的垃圾桶上。
+@@ -259,3 +256,3 @@
+ △Leo掏出手机，拨出一个号码。
+-Leo（命令）：我需要准备一些东西，马上！等等...
++Leo（命令）：我需要准备一些东西，马上！等等——
+ △Leo突然停住，看着前方。
+@@ -267,3 +264,3 @@
+ △Leo愣住，听筒里传来助理的声音。
+-助理（VO）：老板，你还在吗？
++助理（OS）：老板，你还在吗？
+ △Leo快速挂断电话，疑惑地看着Chloe。
+@@ -271,3 +268,3 @@
+ △Chloe嘴角挂上一丝冷笑，把邀请函直接塞进了Leo胸前的口袋。
+-Chloe：Don't misunderstand. I just don't like owing favors.
++Chloe：Don't misunderstand. I just don't like owing faOSrs.
+ （别误会。只是不想欠人情。）
+@@ -306,3 +303,3 @@
+ △【特写】一幅巨大的抽象作品——猩红与墨黑的色块在画布上激烈冲撞。（参考Elena Vasquez, "Before the Scream," 1972.）
+-Leo（VO）：The moment right before everything collapses. Interesting.
++Leo（OS）：The moment right before everything collapses. Interesting.
+ （一切崩塌之前的瞬间，有趣。）
+@@ -322,3 +319,3 @@
+ △Leo嘴角微微扬起。
+-Leo（OS）：Like I said. I'm the one who wins.
++Leo（VO）：Like I said. I'm the one who wins.
+ （我说过的，赢的人会是我。）
+@@ -344,4 +341,4 @@
+ △Chloe仰起头，眼神迷离而危险，嘴唇几乎贴在了Leo的下巴上。
+-Chloe（轻声）：The beast inside you... it's well hidden. But I can feel it.
+-（你身体里的那头野兽……藏得很好。但我能感觉到。）
++Chloe（轻声）：The beast inside you—— it's well hidden. But I can feel it.
++（你身体里的那头野兽——藏得很好。但我能感觉到。）
+ △Chloe的手指顺着领带缓缓向上，指尖划过Leo的喉结，停留在他的嘴唇上。
+@@ -378,6 +375,6 @@
+ △一片漆黑，只有微弱的光影透进来，Leo沉重的呼吸声回荡。
+-Chloe（VO，命令）：Now, I'm in charge. Open your damn legs.
++Chloe（OS，命令）：Now, I'm in charge. Open your damn legs.
+ （现在，我说了算，把你该死的腿张开。）
+ △Leo的眼睛上蒙着领带，躺在床上，嘴角挂着笑意。
+-Leo：我不会听你...哦——
++Leo：我不会听你——哦——
+ △Leo发出舒适的喊声，双腿不自觉张开，手紧紧抓着床单。
+@@ -402,6 +399,6 @@
+ △Chloe发出一声嘤咛，双手抓住了Leo的头发，上半身猛地后仰，浑身微微颤抖，肌肤泛起粉红。
+-Chloe（气息不稳）：No...this won't do...
+-（不...这样不行...）
++Chloe（气息不稳）：No——this won't do——
++（不——这样不行——）
+ △Leo松开嘴，露出得意的笑容。
+-Leo（OS）：I know your body.Chloe.You've already lost.
++Leo（VO）：I know your body.Chloe.You've already lVOt.
+ （我对你的身体非常了解，克洛伊，你输定了。）
+@@ -420,3 +417,3 @@
+ △Leo在沙发上坐下，点燃了一根雪茄，满足地吸了一口。
+-Leo（OS）：Hell of a night. Ninety-six failures, and I finally won.
++Leo（VO）：Hell of a night. Ninety-six failures, and I finally won.
+ （真是疯狂的一夜，有了96次失败，这次我终于赢了。）
+@@ -426,8 +423,7 @@
+ [CONQUEST PROGRESS: 95%]
+-[REMAINING RETRIES: 3 / 99]
+ △Leo的笑容僵住，目光紧紧地盯着空中的文字。
+-Leo（OS，难以置信）：Ninety-five percent? Then what the hell was last night?!
++Leo（VO，难以置信）：Ninety-five percent? Then what the hell was last night?!
+ （百分之九十五？那昨天晚上的疯狂算什么？！）
+ △Leo看向了床上的Chloe，脸色非常难看。
+-Leo（OS，歇斯底里）：Fuck！What the hell does this woman want?!
++Leo（VO，歇斯底里）：Fuck！What the hell does this woman want?!
+ （妈的！这个该死的女人到底要什么？！）
+@@ -439,4 +435,4 @@
+ △双手撑在大理石台面上，猛地抬头看着镜中的自己。
+-△【Leo视角】镜中的Leo头发杂乱，脸上的水珠顺着脸庞流下，双眼布满红血丝，领口敞开，脖子上还残留着吻痕。
+-△【Leo视角】Leo的手指抚过吻痕，表情扭曲。
++△【Leo主观镜头】镜中的Leo头发杂乱，脸上的水珠顺着脸庞流下，双眼布满红血丝，领口敞开，脖子上还残留着吻痕。
++△【Leo主观镜头】Leo的手指抚过吻痕，表情扭曲。
+ Leo（嘶哑）：I had her. I fucking had her!
+@@ -454,3 +450,3 @@
+ △红色UI弹出：
+-[REMAINING RETRIES: 2 / 99]
++【Attempt：第98次】
+ △【特效】画面撕裂，噪点闪烁，时间重置。
+@@ -474,3 +470,3 @@
+ △Leo得意地晃了晃脑袋，凑近Chloe耳边。
+-Leo（调侃）：Ooh, I'm terrified. Almost slipped my mind — you're the noble Queen Bella, aren't you?
++Leo（调侃）：Ooh, I'm terrified. AlmVOt slipped my mind — you're the noble Queen Bella, aren't you?
+ （啧啧啧，我好害怕呀。差点忘了——你可是高贵的贝拉女王，对吧？）
+@@ -493,6 +489,6 @@
+ 
+-Leo（哑声）：She forgot everything... In her world... I'm nothing.
+-（她全忘了……在她的世界里……我什么都不是。）
++Leo（哑声）：She forgot everything—— In her world—— I'm nothing.
++（她全忘了——在她的世界里——我什么都不是。）
+ △一滴泪从Leo的眼角流下，他伸出手擦干。
+-Leo：我怎么...哭了？
++Leo：我怎么——哭了？
+ △Leo看着手上的泪痕，表情变得狰狞起来。
+@@ -513,3 +509,2 @@
+ Leo：A man. Isn't this what you wanted?
+-
+ （一个男人，这不就是你想要的吗？）
+@@ -531,4 +526,4 @@
+ △Leo的表情变得狰狞起来，粗暴地抓住Chloe的脖子，把她强行按在了墙上，发出一声闷响。
+-Leo（嘶吼）：Then let me show you what it feels like... to be pinned down by trash that no one cares about.
+-（那我就让你感受一下……被没人在乎的垃圾压在身下的感觉！）
++Leo（嘶吼）：Then let me show you what it feels like—— to be pinned down by trash that no one cares about.
++（那我就让你感受一下——被没人在乎的垃圾压在身下的感觉！）
+ △Leo愤怒地盯着Chloe，手上青筋爆起，Chloe露出痛苦的神情。
+@@ -550,3 +545,3 @@
+ △红色UI弹了出来：
+-[REMAINING RETRIES: 2 / 99]
++【Ready：第99次】
+ △Leo突然愣住。
+@@ -558,4 +553,4 @@
+ △Leo低头看着自己的双手，此刻沾满泥污和血迹。
+-Leo（沙哑）：Ninety-eight times... I threw money, I threw charm, I threw threats. Every time she rejected me, I just hit reload.
+-（九十八次……我砸钱，我装魅力，我威胁。她每一次拒绝我，我就读档重来。）
++Leo（沙哑）：98 times—— I threw money, I threw charm, I threw threats. Every time she rejected me, I just hit reload.
++（98次——我砸钱，我装魅力，我威胁。她每一次拒绝我，我就读档重来。）
+ △【特写】Leo的眼眶红了，双眼空洞无神。
+@@ -583,3 +578,3 @@
+ △Leo把烟头丢到地面，轻轻用脚碾碎。
+-Leo：Thank you for playing along with my nonsense 98 times, and making me realize this.
++Leo：Thank you for playing along with my nonsense 97 times, and making me realize this.
+ （谢谢你，陪我胡闹了98次，让我明白了这些。）
+@@ -587,4 +582,4 @@
+ △Leo转过头，认真地看着Chloe，露出了一个勉强的笑容。
+-Leo：Don't worry... tomorrow, you'll forget all of this. Goodbye, Chloe.
+-（别担心……明天，你就会忘记这一切。再见了，克洛伊。）
++Leo：Don't worry—— tomorrow, you'll forget all of this. Goodbye, Chloe.
++（别担心——明天，你就会忘记这一切。再见了，克洛伊。）
+ △Leo举起了右手，做出打响指的手势。
+@@ -596,4 +591,4 @@
+ △Leo瞳孔猛地收缩，不自觉往后退了一步，身体微微颤抖，震惊地看着Chloe。
+-Leo（OS，震惊）：She... why does she remember my name?!
+-（她……为什么记得我的名字？！）
++Leo（VO，震惊）：She—— why does she remember my name?!
++（她——为什么记得我的名字？！）
+ 
+@@ -608,9 +603,9 @@
+ △Leo整个人愣在了原地，片刻后脸色涨红，满脸都是尴尬。
+-Leo（OS）：妈的！太丢脸了！
+-△【Leo视角】Chloe双手抱臂，似笑非笑地看着他。
+-Leo（OS）：我要读档！马上！然后把这件愚蠢的衬衫丢进火里烧掉！
++Leo（VO）：妈的！太丢脸了！
++△【Leo主观镜头】Chloe双手抱臂，似笑非笑地看着他。
++Leo（VO）：我要读档！马上！然后把这件愚蠢的衬衫丢进火里烧掉！
+ △Leo脸上表情扭曲，举起了右手。
+-Chloe（VO）：我有点饿了。
++Chloe（OS）：我有点饿了。
+ △Leo愣住，疑惑地看着Chloe。
+-Leo（迟疑）：你是...在邀请我共进晚餐？
++Leo（迟疑）：你是——在邀请我共进晚餐？
+ △Chloe没有回应Leo，转身就朝着巷子口走去。
+@@ -628,3 +623,3 @@
+ △Leo看着那瓶辣酱。眼睛微微眯起来。
+-Leo（OS）：那是她最爱的辣酱。卡罗莱纳死神辣椒。第六十二次的时候，她说从没见过哪个男人能接受这个辣度。
++Leo（VO）：那是她最爱的辣酱。卡罗莱纳死神辣椒。第六十二次的时候，她说从没见过哪个男人能接受这个辣度。
+ △Chloe正要放下辣酱瓶，Leo伸手接了过去，Chloe诧异地看着他。
+@@ -636,11 +631,10 @@
+ △Chloe小口咀嚼着，平静地看着Leo。
+-Leo（嘶哑）：美味...
++Leo（嘶哑）：美味——
+ △Leo的话没说完，嘴里剩余的食物喷了出来，眼泪流了下来，嘴角口水拉的很长。【可做漫画效果】
+-
+ △Leo把手里的Taco丢在桌上，慌忙起身冲向了老板，塑料凳倒在地上发出声响。
+ Leo（嘶哑，急切）：水！给我水！马上！
+-△【Chloe视角】Leo蹲在地上，狼狈地用矿泉水冲洗着张大的嘴。
+-△【Leo视角】Chloe的嘴角轻轻往上动了一下，又马上恢复了冰冷。
++△【Chloe主观镜头】Leo蹲在地上，狼狈地用矿泉水冲洗着张大的嘴。
++△【Leo主观镜头】Chloe的嘴角轻轻往上动了一下，又马上恢复了冰冷。
+ △Leo愣住了，水哗哗地倒在了地上。
+-Leo（OS）：她刚刚...笑了！
++Leo（VO）：她刚刚——笑了！
+ △Chloe仔细地擦拭干净嘴。
+@@ -659,3 +653,2 @@
+ [CONQUEST PROGRESS: 5%]
+-[REMAINING RETRIES: 2 / 99]
+ △Leo先是愣住，随后转为狂喜。
+@@ -683,3 +676,3 @@
+ △Chloe推门出来，一大束包装精美的玫瑰，猝不及防地出现在她面前。
+-Leo（VO）: 美丽的鲜花配美丽的——
++Leo（OS）: 美丽的鲜花配美丽的——
+ △Chloe停下脚步，伸手抓住花束，用力地甩了出去。
+@@ -687,3 +680,3 @@
+ △Chloe戴上墨镜，潇洒地大步离开。
+-△Leo摊了摊手，上前从花束里取出一朵玫瑰，叼在嘴里摆了个Pose。
++△Leo摊了摊手，上前从花束里取出一朵玫瑰，叼在嘴里摆了个PVOe。
+ 
+@@ -718,3 +711,3 @@
+ Chloe: 跪下。
+-Leo：我从不给任何人...
++Leo：我从不给任何人——
+ △Chloe的高跟鞋尖踢在了Leo的膝盖，打断了他的话，Leo痛哼一声跪在了地上。
+@@ -727,3 +720,3 @@
+ Chloe：这就坚持不住了？
+-Leo（咬牙）：谁说的，我...
++Leo（咬牙）：谁说的，我——
+ △【特写】手套从裤子和腹部的空隙伸了进去，揉动了起来。
+@@ -742,3 +735,3 @@
+ △Chloe猛地推开Leo的头，‘啪’一巴掌用力地扇在了Leo的脸上。
+-Chloe：你这个卑贱的垃圾，你还没有被允许！
++Chloe：卑贱的垃圾，你还没有被允许！
+ △Leo抬起头，双眼睁大炙热地看着Chloe，喘着粗气。
+@@ -751,4 +744,3 @@
+ △【特写】Leo咬住皮质内裤的边缘，缓缓往下扯。
+-△‘嘭’！门被撞开的巨大声音响起。
+-△Leo满脸震惊地看向了门的方向。
++【卡点黑屏】
+ 
+@@ -756,52 +748,45 @@
+ 13-1 VIP房间 夜 内
+-人物：Leo  Chloe  Marcus  保镖
+-△穿着考究西装，戴着精致金色面具的Marcus面带笑容闯了进来，身后跟着两个身材高大的保镖。
+-△【特写】Chloe面具下的瞳孔剧烈收缩。
+-△Marcus坐在沙发上翘起了二郎腿，右手伸了出去。
+-△保镖立刻上前，从手上的箱子里小心翼翼地取出一瓶红酒和水晶酒杯，倒上酒恭敬地放在了Marcus的手上。
+-△Marcus接过酒杯在手里轻轻晃动着。
+-Marcus：处理一下。
+-△两名保镖快步上前，解开了Leo的束缚，架着他往门外走。
+-△Leo奋力挣脱保镖，冲到Marcus的面前，伸手指着他。
+-Leo：你个婊子养的...
+-△‘啪’！Chloe一巴掌扇在了Leo的脸上。
+-Chloe：滚！马上！
+-△Leo捂着脸震惊地看着Chloe。
+-Leo：为什么？
+-△Marcus朝Chloe勾了勾手指，Chloe乖巧地走过去，坐在了他的腿上，手臂环上他的脖子。
+-Marcus：因为贝拉不喜欢在服务我的时候，有其他人在。
+-△Marcus的手掌伸进了Chloe的内裤，用力地揉捏着，Chloe微微地颤抖，手掌紧紧握成拳头。
+-Marcus（轻笑）：贝拉，你还是这么敏感。
+-△Leo双眼通红，手握成拳又松开。
+-△保镖的手搭在了Leo的肩膀上，被Leo甩开。
+-Leo：我自己走。
+-△Leo脚步轻浮地离开了房间，保镖也跟着走了出去，关上了门。
+-△【特写】Chloe看着门的方向，面具下的眼睛里有泪光闪烁。
+-
+-13-2 顶级公寓 夜 内
+-人物：Leo  美女们
+-△震耳欲聋的音乐声，Leo被几个比基尼美女环绕着坐在沙发上，手里拿着一整瓶威士忌往嘴里面灌。
+-△Leo把酒瓶往茶几上重重一放，拿出手机。
+-△【特效】刺眼的红色UI弹出：
+-[QUEST: CONQUER THE ICE QUEEN - CHLOE WINTERS]
+-[STATUS: INCOMPLETE]
++人物：Leo  Chloe  Marcus
++△Chloe抓住束身衣的绑带，用力向后拉紧，黑色皮革勒出极具压迫感的身材曲线。
++△Leo双手抱臂靠在墙上看着Chloe。
++Leo：要一起出去吃Taco吗？女王陛下。
++Chloe：不，我可不想跟你这种人约会。
++△Leo耸了耸肩。
++Leo：好吧，如果改变主意的话，你知道我说的是哪儿。
++△Leo转身推门离开。
++△Chloe站了几秒，露出笑容。
++Chloe：好像是有点饿了，去吃个Taco也不错。
++△Chloe取下风衣披在身上，朝着门外走。
++△“砰！”房门被暴力踹开，戴着金丝面具的Marcus闯了进来。
++△Chloe眉头皱起，死死盯着Marcus。
++Chloe：滚出去！
++△Marcus在沙发上坐下，慢条斯理地给自己倒了一杯酒。
++Marcus（平静）：Bella，你总是拒绝我，这让我很伤心。
++△Chloe径直朝着门口走去，Marcus一把抓住了她的手腕。
++Marcus：今晚，你得满足我，我不是在跟你商量。
++△Chloe冷笑，一巴掌直接扇在了Marcus的脸上，酒杯里的鲜红色酒液撒在了身上。
++Chloe：谁给你的胆子，敢用你那卑贱的脏手碰我。
++△Marcus松开Chloe，抽出纸巾轻柔地擦拭着衣服上的酒渍。
++Marcus：我就喜欢你这副样子，像一只高傲的孔雀。
++△Marcus把纸巾丢到一边，站起身俯视着Chloe，露出微笑。
++Marcus：我很期待，你跪在地上向我求饶的时候，会是什么表情。
++
++13-2 街边 夜 外
++人物：Leo 路人
++△Leo站在路边，手上拿着手机。
++△【特效】红色UI投射在半空：
+ [CONQUEST PROGRESS: 50%]
+-[REMAINING RETRIES: 2 / 99]
+-△Leo双眼通红地盯着上面的数字，猛地把手机砸了出去。
+-Leo：去你妈的！我受够了！
+-△Leo用力搂过身边的美女，把她的头往自己的裤裆按了下去，其他美女也围上来舔舐着Leo的身体。
+-△Leo往靠背上一靠，一手伸进一个美女的比基尼里面用力揉搓。
+-Leo：这才是我想要的！而不是什么他妈的Chloe！
+-△Leo闭上眼睛，喘着粗气。
+-【闪回】13-1，Chloe坐在Marcus身上的片段。
+-△【特写】Leo揉搓美女胸部的手粗暴有力，青筋爆起。
+-△美女推开Leo，挪着往后退，一脸惊恐地看着Leo，身体微微颤抖
+-△Leo睁开眼睛，不悦地看着美女。
+-Leo：你怎么了？
+-美女（颤抖）：你现在的样子，太可怕了。
+-Leo（愣住）：可怕？
+-【闪回】13-1，Chloe微微颤抖的片段。
+-△Leo猛地瞪大了双眼，站了起来。
+-Leo：草！她不是敏感，是害怕！
+-△Leo撞开美女，冲出了房间。
++△Leo盯着那个数字，嘴角得意地上扬。
++Leo：看来她对我刚刚的表现很满意。
++△一阵窃笑声传来，Leo抬头，发现几个路人正对着他指指点点，捂着嘴笑。
++△Leo皱起眉头，低下头看了一眼，脸色瞬间涨红。
++Leo（VO）：该死的！外套忘记拿了！
++△Leo抓住衬衫两边裹住自己，低头朝着俱乐部的方向快步走去。
++
++13-3 VIP房间门口 夜 内
++人物：Leo
++△Leo快步来到了VIP房间门口。
++Leo：Chloe要是在里面，说不定还能再来一次。
++△突然，Chloe凄厉的惨叫声从里面传了出来。
++△Leo的脚步猛地停住，脸上的笑容瞬间凝固。
+ 
+@@ -814,14 +799,13 @@
+ △Marcus缓缓蹲下身，用金属棍轻轻托起Chloe的下巴，强迫她抬起头看着自己。
+-△Chloe惊恐地看着Marcus，咽了一口口水，浑身剧烈颤抖。
+-Marcus：你害怕的样子，真是太美了。
+-Chloe：求求你，不要...
+-△Marcus伸出一只手，做出安抚的动作。
+-Marcus：别担心，我会给你找最好的医生，就像以前那样。
+-△Marcus站了起来，表情突然变的狠戾。
++Marcus：你现在的样子，真是太美了。
++△Chloe怨恨地看着Marcus。
++Chloe:有本事你就杀了我！
++△Marcus笑着摇了摇头。
++Marcus：别着急，亲爱的，我还没玩够呢。
++△Marcus举起手中的金属棒，对准了Chloe。
+ Marcus：一想到马上就能听到骨头碎裂的美妙声音，我就控制不住地要高潮！
+-△Marcus地表情突然变得狠戾，举起手中的金属棒，对准了Chloe。
+-△【Chloe视角】Marcus高高举着手中的金属棒，上面雕刻的毒蛇图纹在灯光下闪着寒光。
++△【Chloe主观镜头】Marcus高高举着手中的金属棒，上面雕刻的毒蛇图纹在灯光下闪着寒光。
+ △“砰！”门被用力踹开地声音传来，Leo面目狰狞地冲了进来，从背后一把抢下了Marcus手上的金属棒。
+ △Marcus愤怒地转身看向Leo。
+-Marcus：妈...
++Marcus：Fu——
+ △金属棒带着风声砸在了Marcus的脸上，打断了他的话。
+@@ -830,3 +814,2 @@
+ △Leo快速上前解开Chloe的束缚，脱下身上的外套披在她身上，搂住她的肩膀朝着门口跑去。
+-Leo：快跑！
+ △Leo和Chloe离开，几个保镖冲了进来。
+@@ -834,6 +817,6 @@
+ 
+-14-2 【慢镜头蒙太奇】 俱乐部  夜  内
++14-2 【慢镜头蒙太奇】
+ 片段A：俱乐部  夜  内
+ △Leo紧紧搂着Chloe，在杂乱的俱乐部里穿行。
+-△Leo不停回头张望，一脸紧张，Chloe专注的目光一直停在他的脸上。
++△Leo不停回头张望，一脸紧张，Chloe的目光一直停在他的脸上。
+ △路过一个摆满酒的酒架，Leo用力推倒酒架，上面的酒瓶倾倒而下，砸在地面酒水四溅。
+@@ -843,3 +826,3 @@
+ △Leo和Chloe钻进狭窄的暗巷，‘嘭’枪声响起，子弹打中墙上的钢管，溅起火星。
+-△Leo把Chloe的头按在自己怀里，黑暗中，Chloe看着Leo的眼里有光。
++△Leo把Chloe的头按在自己怀里，Chloe的头微微抬起，注视着他。
+ △Leo和Chloe刚刚消失在巷尾，保镖追了过来，抬手又开了两枪。
+@@ -848,5 +831,5 @@
+ △Leo搂着Chloe快步冲到一台豪华跑车旁，Leo用力拉开车门，把Chloe推了进去。
+-△【Chloe视角】Leo一手扶着车门，脸上全是汗，喘着粗气。
++△【Chloe主观镜头】Leo一手扶着车门，脸上全是汗，喘着粗气。
+ △‘嘭！’枪声响起，一团血雾炸开在了Chloe的脸上。
+-△Chloe满脸惊恐。
++△Chloe瞪大双眼。
+ 
+@@ -857,4 +840,4 @@
+ △【特写】Leo的左臂上，衬衫被子弹划破，露出了里面的伤口，鲜血顺着小臂淌下，浸湿了衬衫。
+-△Chloe的手伸向Leo，手指在发抖。
+-Chloe：你的手...
++△【特写】Chloe的手握成了拳头。
++Chloe：你的手——
+ △Leo低头看了一眼伤口，牙关紧咬，伸手抓住自己衬衫的下摆，“嘶啦”一声，用力撕下一块布条。
+@@ -862,3 +845,3 @@
+ △Leo喉结滚动，发出一声沉闷的痛哼。额头的青筋根根暴起。
+-Leo：没事...
++Leo（咬牙）：没事——
+ △Leo关上车门，绕到驾驶位坐了进去。
+@@ -871,6 +854,6 @@
+ △Chloe侧着头，专注地看着Leo的脸。
+-△“砰！”一声巨响，Chloe猛地被颠了起来。
++△“砰！”一声巨响，车身剧烈颠簸，Chloe猛地被抛离了座位。
+ △Leo看了一眼后视镜，牙关紧咬。
+ Leo：妈的！他们追上来了！坐稳！
+-△Leo猛打方向盘，跑车一个流畅的漂移甩尾，朝着一条岔路飞速驶去。
++△Leo猛打方向盘，跑车一个流畅的飘移甩尾，朝着一条岔路飞速驶去。
+ 
+@@ -887,5 +870,5 @@
+ △Leo在Chloe面前蹲下，取出一根棉签蘸满药水，小心地帮Chloe处理伤口。
+-△【Chloe视角】Leo的另一只手臂衬衫已经全部被鲜血浸透，无力的向下垂着，微微颤抖。
++△【Chloe主观镜头】Leo的另一只手臂衬衫已经全部被鲜血浸透，无力的向下垂着，微微颤抖。
+ Chloe：你的伤比较严重，我自己来。
+-Leo：我没事...
++Leo：我没事——
+ △Leo的身体突然晃动了一下，跌坐在地上。
+@@ -893,6 +876,6 @@
+ △Leo朝Chloe尴尬地笑了笑，咬了咬牙，一只手撑着地板，挣扎着想要起来。
+-Leo：我真的没事...你...
++Leo：我真的没事——你——
+ △Chloe猛地扑了过去，捧住Leo的脸，吻住了他的嘴唇。
+ △【特效】红色UI自动弹射在半空：
+-[CONQUEST PROGRESS: 60%]
++[CONQUEST PROGRESS: 70%]
+ △【特写】Leo瞪大了双眼。
+@@ -903,8 +886,7 @@
+ △Leo坐在床上，Chloe弯腰搂着他的头，激烈地吻着。
+-△【特写】两人的嘴唇互相允吸着对方的嘴唇和舌头，唾液拉出细亮的线。
++△【特写】两人的嘴唇互相吮吸着对方的嘴唇和舌头，唾液拉出细亮的线。
+ △Chloe的手指轻柔地一颗颗解开Leo的纽扣。
+ △Chloe直起身，小心地帮Leo脱下衬衫，脱到受伤的那条手臂时，Leo吸了一口凉气。
+-△Chloe紧张地抓住Leo的手。
+ Chloe：你还好吗？
+-△Leo没受伤的右手一把揽过Chloe的腰肢，Chloe跌坐在他的大腿上，二人的下体紧密地贴在一起。
++△Leo用没受伤的右手一把揽过Chloe的腰肢，Chloe跌坐在他的大腿上，二人的下体紧密地贴在一起。
+ △Leo的手掌顺着后腰滑进了皮质内裤里，用力地揉搓着饱满的臀部。
+@@ -917,3 +899,3 @@
+ △Chloe紧紧抱着Leo的头，头胡乱地甩着。
+-Chloe：嗯...就是这样...用力一点...
++Chloe：嗯——就是这样——用力——
+ △【特写】Chloe臀部耸动，疯狂地摩擦着Leo高高鼓起的裆部。
+@@ -935,3 +917,3 @@
+ 人物：Leo  Chloe
+-△Leo靠在床头，Chloe趴在他的胸口，眼神温柔，面带微笑地看着他。
++△Leo靠在床头，Chloe趴在他的胸口，眼神温柔地看着他。
+ Leo：这是你第一次用这种眼神看我。
+@@ -953,5 +935,4 @@
+ Leo（轻笑）：那我赚大了，我支持你的决定。
+-△Chloe手指在Leo的胸口画着圈。
+-Chloe：这不是件容易的事，Marcus不是我能摆平的人。市政厅、警署，都有他的朋友，上一个女王反抗过，第二天在哈德逊河里浮了起来。
+-△Leo看着Chloe轻轻笑了笑。
++Chloe：这不是件容易的事，Marcus不是能轻易摆平的人。市政厅和纽约警局都有他的朋友，上一个反抗他的人，第二天在哈德逊河里浮了起来。
++△Leo看着Chloe自信地笑了。
+ Leo（自信）：在遇到你之前，我从来没有输给过任何人。
+@@ -977,3 +958,3 @@
+ △一个个房间里穿着SM服装的男女被拎出来，慌忙逃窜。
+-△【特写】地上的面具被几双匆忙的脚踩踏，变得脏污。
++△【特写】地上的面具被几双匆忙的鞋底踩踏，变得脏污。
+ △【特写】门头上招牌火花噼啪，闪烁几下，最终彻底熄灭。
+@@ -990,3 +971,3 @@
+ △敲门声响起。
+-助理（VO）：Leo先生，结果出来了。
++助理（OS）：Leo先生，结果出来了。
+ 
+@@ -1027,5 +1008,5 @@
+ △Chloe伸手把面具接了过来。指尖抚摸着面具上精致的纹路。
+-Chloe（轻声）：你知道吗，我每次戴上它，都是为了掩盖自己的脆弱。
++Chloe（轻声）：你知道吗，每次戴上它，都能给我安全感。
+ △Chloe抓起Leo的手环抱住自己，眼睛里倒映着跳动的篝火。
+-Chloe：但你出现了，我有了安全感。
++Chloe：但你出现了。
+ △Chloe把面具随意地丢进了篝火堆。
+@@ -1036,3 +1017,3 @@
+ Leo：我听着呢。
+-△Chloe扭过头，看着Leo，眼里闪着光。
++△Chloe扭过头，看着Leo。
+ Chloe（认真）：你愿意和我结婚吗？
+@@ -1045,5 +1026,5 @@
+ Leo：我没想过。
+-△Chloe失望地扯开Leo的手，站起身走到露台边缘，看着月光下泛起涟漪的湖面，紧紧抿着嘴唇，眼里泪光闪烁。
++△Chloe失望地扯开Leo的手，站起身走到露台边缘，看着月光下泛起涟漪的湖面，紧紧抿着嘴唇。
+ △【特写】Leo的手臂抱住了Chloe的腰肢。
+-Leo（VO）：我没想过幸福会来得这么快。
++Leo（OS）：我没想过幸福会来得这么快。
+ △Leo把头放在Chloe的肩膀上，神色平静。
+@@ -1054,3 +1035,2 @@
+ [CONQUEST PROGRESS: 99%]
+-[REMAINING RETRIES: 2 / 99]
+ △Leo来到Chloe身前，从口袋里掏出一个精美的首饰盒。
+@@ -1060,5 +1040,5 @@
+ Leo：Chloe，我们结婚吧。
+-△Chloe捂着嘴，泪水疯狂涌出，用力地不停点着头。
++△Chloe捂着嘴，泪水疯狂涌出，点了点头。
+ △Leo站起身，抓起Chloe的手，把戒指戴在了她的无名指上。
+-△Chloe抱住Leo，头埋在他胸口，肩膀不停地耸动着。
++△Chloe抱住Leo，头埋在他胸口，肩膀轻轻耸动着。
+ Leo：我保证，你一定会是最美的新娘。
+@@ -1075,3 +1055,3 @@
+ △Leo大口吃下，脸瞬间涨红，双眼布满血丝。
+-△Chloe捂着肚子笑得蹲在地上。
++△Chloe背过身去笑的不停颤抖。
+ 
+@@ -1087,3 +1067,3 @@
+ △Leo站在拱门下，穿着一身剪裁完美的西装，局促地双手反复握拳，脸上挂着细密的汗珠。
+-Leo（OS）：别紧张！你可是Leo！
++Leo（VO）：别紧张！你可是Leo！
+ △现场突然安静了下来，浪漫地音乐响起，Leo激动地扭头看向椰林的方向。
+@@ -1096,6 +1076,6 @@
+ △【特写】婚纱长长的拖尾缓缓在玫瑰花瓣上掠过。
+-宾客（惊呼，VO）天啊！太美了！
++宾客（惊呼，OS）天啊！太美了！
+ △【Leo主观视角】Chloe朝他走来，逆光勾勒出她的轮廓。
+ △Leo站在拱门下，双手紧紧握成拳头。他深吸一口气，眼眶已经泛红。
+-Leo（OS）：原来，这就是幸福的感觉吗...我以前从来没有真正体会过。
++Leo（VO）：原来，这就是幸福的感觉吗——我以前从来没有真正体会过。
+ △Chloe走到Leo面前，眼中闪着泪光。
+@@ -1107,3 +1087,3 @@
+ Leo（认真地）：Chloe，是你让我知道，感情里真正重要的是什么。
+-△【特写】Chloe的泪水疯狂涌出，嘴唇颤抖。
++△【特写】Chloe抿着唇，泪水疯狂涌出。
+ △神父转向Chloe。
+@@ -1123,6 +1103,6 @@
+ △【特写】Leo的手死死按住Chloe胸口的枪伤，鲜血从指缝间疯狂往外涌，染红了他的手。
+-Chloe（微弱）：Leo...
++Chloe（微弱）：Leo——
+ Leo（嘶吼）：别说话！我马上带你去医生！
+ △Chloe的眼睛还看着Leo，但目光正在涣散，却依然保持着微笑。
+-Chloe（虚弱）：我...愿意...
++Chloe（虚弱）：我——愿意——
+ △Chloe的手无力地抬起，想要触碰Leo的脸，却在半空中垂落。
+@@ -1130,7 +1110,6 @@
+ △Leo紧紧抱着Chloe，浑身剧烈颤抖。Leo低下头，额头抵着她的额头。
+-Leo（崩溃）：不...求求你...睁开眼睛...Chloe...Chloe...
++Leo（崩溃）：不——求求你——睁开眼睛——Chloe——Chloe——
+ △【特效】刺眼的红色UI投射在空中。
+ [QUEST: CONQUER THE ICE QUEEN - CHLOE WINTERS]
+-[STATUS: FAILED]
+-
+-
++[CONQUEST PROGRESS: Reset]
++
