@@ -23,7 +23,10 @@ if hasattr(sys.stdout, "reconfigure"):  # 윈도우 cp949 콘솔 대응
 
 WS = Path(__file__).resolve().parent.parent
 HOME = Path.home()
-AGENTS_SRC = HOME / ".claude" / "agents"
+# 에이전트 정의: 저장소 안 사본이 정본. 없으면 개인 폴더로 폴백.
+AGENTS_SRC = WS / "agents"
+if not AGENTS_SRC.is_dir():
+    AGENTS_SRC = HOME / ".claude" / "agents"
 MEMORY_SRC = HOME / ".claude" / "projects" / "C--Users-Rowan-scenario-automation" / "memory"
 DOCS_SRC = WS / "tools" / "dist_docs"
 
