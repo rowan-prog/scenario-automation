@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # install.sh — 시나리오 자동화 메모리 설치 (macOS / Linux / Git Bash)
 #
-# 하는 일: 이 패키지의 memory/ 185개를 Claude Code가 읽는 위치로 복사한다.
+# 하는 일: 이 패키지의 memory/ 전부를 Claude Code가 읽는 위치로 복사한다.
 # 그 외 자산(룰·에이전트·프롬프트·도구)은 이 폴더 안에 있어서 복사가 필요 없다.
 #
 # 사용: bash install.sh          (기존 파일 있으면 물어봄)
