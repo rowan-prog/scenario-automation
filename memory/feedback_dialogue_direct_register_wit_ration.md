@@ -1,0 +1,27 @@
+---
+name: dialogue-direct-register-wit-ration
+description: 대사 기본값 = 직설 평문(행위를 그 이름으로) — 완곡·암시·재치 대구·압축 은유·큐의존 = 매체 조건 위반(하드 결함). 12_hired 전 코퍼스 실증 + 사고 경로 3중.
+metadata: 
+  node_type: memory
+  type: feedback
+  originSessionId: eb503c48-77bd-435f-9764-c03f216e73e7
+---
+
+**사실 (2026-07-15 사용자 판정 — 12_hired_to_ruin_me):** EP1-13 LOCK본 콜드리드에서 "대사가 쓰레기·은유적/암시적/돌려말하기/순화하기 천지·큐 없이는 이해 안 감·개구리다" 전면 불합격. 첫 대사부터: `I want my wife filmed with another woman's mouth on her.` (완곡+부위 우회 — kissing/sex를 말 못 함). 특정 라인이 아니라 **전 코퍼스 레지스터 결함** — `Why hand me the knife` `He bought a trainer. I kept a wife.` `the prenup's toilet paper` `Say it again with my eyes on you` 등 모든 라인이 에피그램·은유·이너엔도를 지향. 524줄 중 절반+가 톤 큐에 의미를 기댐.
+
+**Why (사고 경로 3중 — 셋 다 봉쇄해야 재발 안 함):**
+1. **생성 편향:** Claude(전 티어)는 위트·압축·서브텍스트를 "좋은 글"로 평가 — 작가식 생성은 에피그램으로 수렴하고, 그런 줄은 유창해서 per-line 검수(spoken?·자연스러운가?)를 전부 통과한다. **깨진 게 아니라 직관적이지 않은 것 — "유창한가"가 아니라 "직설인가"를 물어야 잡힌다.** 지시서 초안 자체가 완곡 레지스터를 심었음(메인이 쓴 첫 대사 초안부터 "mouth on her").
+2. **검수 분류 오류:** belt가 은유 트림을 지적했는데 "스타일"로 분류돼 각색 보수주의 명분으로 전량 되돌려짐. **직관성 위반 = 스타일이 아니라 Track B급 매체 조건 위반.** 각색 보수주의의 보호 대상 = 원작 계승 대사지, 자작 대사의 결함 아님(자작 대사에 "대사 불가침" = 자기 초고 보호 순환논리).
+3. **무드 라벨 기각:** register_census cool-tone FLAG를 "의도된 알파 레지스터"로 수용 — 무드 라벨("무심한 압도감·절제된 카리스마")은 낮게 깔고 시크한 척하는 AI 대사의 알리바이. 기계 FLAG를 라벨로 기각 금지.
+
+**🚨 판정 기준 = 타격감(인간 반응)이지 단어/미감이 아니다 (2026-07-15 사용자 격노 교정):** furniture 반려를 내가 "사용자가 그 단어를 싫어함"으로 오독 → 사용자: "단어가 아니라, **저 말 들은 진짜 인간이 모욕을 느끼냐**의 문제다. 가구라 불리면 사람은 '가구? 어쩌라고' 하지 모욕 안 느낀다. 시청자도 안 움찔한다." 즉 비유 모욕은 **종이 위에선 위트 같아도 급소에 안 꽂힌다** = '개구리는' 대사의 정체. 판정은 항상 §F-2-2 타격감 테스트("실제 인간이 느끼나·시청자가 움찔하나")를 **대사에도** 돌리는 것. 진짜 수치 = 비유 아닌 **구체·개인·상황**(투명인간/하녀/사진용 아내 취급). 되받기도 말장난(`furniture held the deed`) 아닌 진짜 권력 뒤집기(`You never once looked at me. Now it's all in my name.`). 나의 반복 실패 모드 = 대사 결함을 '단어 교체' 문제로 축소(미감 판정) → 인간 반응 테스트를 안 돌림. [[humiliation-violence-standard]] F-2-2가 이미 있었는데 대사에 적용을 안 한 것.
+
+**🚨 AI 완결·축자 편향 (2026-07-15 사용자 — Find My Crown 이중역 실측·`Documents/Codex/2026-07-06/new-chat/work/find_my_crown_dialogue_only_comparison.md`):** 같은 소스의 두 영어역을 전문 번역가·원어민이 평가 → **더 완전·축자·설명적인 DOCX판을 버리고 더 짧고 벼려진 Pasted판을 선호.** AI는 반대로 DOCX판 선호 = **내 완결/축자/설명 본능이 곧 오답 신호.** 이게 "직설로 고쳤는데도 AI 티"의 정체 = 직설이지만 밋밋·과설명. 교정축: ①설명 골조 삭제(`whether to X or Y`) ②급소어 문두(화행 어순) ③최상급/개인/즉물>축자/추상/원경 ④화자 레지스터 평탄화 금지(왕은 왕답게) ⑤화행하라 서술마라(`Now answer me`>`Because I have questions`) ⑥긍정직결>이중부정 ⑦파편·정지 ⑧고유명사 군더더기 제거. 판정=두 안 중 더 짧고·급소 앞서고·화자톤 산 쪽("더 완전/안전"으로 긴 쪽 고르면 AI편향). 본문 = §D-2-2. [[claude-voice-bias-vertical-failure]] 대사판.
+
+**How to apply:**
+- 본문 룰 = `config/10_writing_standard.md` §D-2-1 (행위 명명 의무·위트 배급제 EP당 1·밀당≠수수께끼·상황식 생성·큐-가림 테스트) + `20_review_standard.md` §2B 직설 판정·§4 역방향 오분류 금지.
+- 기계 = `tools/esl_hardwords.py`(어휘 Zipf — 단 어휘 통과 ≠ 직관 통과: 12_hired 84.7% 어휘 통과인데 전량 완곡. 쉬운 단어로 돌려 말하기가 본병) + tts-literal-ear 심문 5번(리터럴 패러프레이즈 — "무슨 행위인지" 빈칸이 문장에 없으면 FLAG).
+- 원전 독트린 = `C:/Users/Rowan/claude_localiation/CLAUDE.md` §1(상황식 생성·수위 약화 금지·부위 화제화 위험군)·§2(ESL 직관성 1급)·§2.4(의미는 단어에·무드 라벨 판정 금지). 번역 규범이지만 집필에 그대로 적용 — 사용자 지정.
+- 모델 교훈: 이건 티어 문제가 아니다(Fable도 같은 편향) — 표준+게이트 문제. opus 집필 유지, 검출 = 기계+haiku 프록시.
+
+관련: [[english-vertical-hit-dialogue-tone]] [[claude-voice-bias-vertical-failure]] [[adaptation-conservative-no-forced-rewrites]] [[occasion-hopping-space-economy]]
