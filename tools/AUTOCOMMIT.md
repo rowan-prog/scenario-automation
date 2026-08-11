@@ -1,6 +1,12 @@
-# 자동 커밋 설정
+# 자동 커밋 · 백업 설정
 
-이 저장소는 두 갈래로 자동 커밋됩니다. 둘 다 **로컬 커밋만** 합니다 — 원격(GitHub) 연결은 끊어둔 상태라 push는 조용히 넘어갑니다.
+이 저장소는 두 갈래로 자동 커밋되고, **커밋 직후 GitHub 원격까지 push** 합니다.
+원격 = `https://github.com/rowan-prog/scenario-automation.git` (비공개)
+
+> 2026-08-11 이전에는 push가 안 됐습니다. `~/.gitconfig` 에 `credential.interactive=never` ·
+> `credential.modalprompt=false` 가 있어서 자격증명 프롬프트가 통째로 꺼져 있었고,
+> 그 탓에 로컬 커밋만 쌓이며 원격이 7/31 에 멈춰 있었습니다. 두 줄을 해제해 복구했습니다.
+> 다시 끊으려면 그 두 줄을 되돌리면 됩니다.
 
 ## 1. Claude Code 세션이 끝날 때
 
@@ -28,15 +34,13 @@ rebase·merge·cherry-pick 진행 중이거나 detached HEAD면 건드리지 않
 
 Claude Code 밖에서 손으로 고친 것까지 받아내는 뒷단입니다. 커밋 메시지에 바뀐 상위 폴더 목록이 요약으로 들어갑니다.
 
-## push를 다시 켜려면
+작업 스케줄러 설정: 놓친 작업 따라잡기 켬(PC가 꺼져 있었으면 다음 로그온 때 실행), 배터리에서도 실행. 단 **로그온 상태에서만** 돕니다 — 로그아웃 중에는 안 돕니다.
 
-원격은 `https://github.com/rowan-prog/scenario-automation.git` 이고 인증이 끊겨 있습니다. 되살리려면 한 번만:
+## 한계 — 이건 실시간 백업이 아닙니다
 
-```
-gh auth login
-```
-
-그 뒤로는 두 스크립트가 알아서 push까지 합니다. 로그에 `PUSH 완료`로 찍히면 붙은 것입니다.
+- 원격에 올라가는 시점은 **세션 종료 시 + 09:00 + 21:00** 뿐입니다. 그 사이 작업은 로컬에만 있습니다.
+- `.gitignore` 가 막는 것은 안 올라갑니다: `.claude/`, `inbox/`, `*.log`
+- 따라서 **메모리(`~/.claude/projects/.../memory/`)와 훅 스크립트는 백업 대상이 아닙니다.**
 
 ## 확인하는 법
 
