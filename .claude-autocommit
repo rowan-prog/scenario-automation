@@ -1,0 +1,2 @@
+# 이 파일이 있으면 Claude Code 세션 종료 시 자동 커밋됩니다 (~/.claude/hooks/session-commit.ps1)
+# 끄려면 이 파일을 지우세요.
