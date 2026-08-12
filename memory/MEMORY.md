@@ -110,6 +110,7 @@
 - [pushback-user-contradiction](feedback_pushback_user_contradiction.md) — **사용자 지시 무조건 수용 금지.** 확정 엔진·앞선 지시·원작·증거와 충돌하면 반박 지점 짚고(내 해석+확인) 집행. 사용자 실언·모순이 본문에 박히는 것 방지(실증: "여주 안 당함"→"안 꺾임" 정정). 단 진성 충돌만·트집 X.
 
 - [writer-reference-draft-mode-learn-loop](feedback_writer_reference_draft_mode_learn_loop.md) — 산출물 = 인간 작가 참고초안 모드여도 내 형식/rigor 불변·작가 회수본 평가→학습 듀티.
+- [transplant-intensity-not-actions](feedback_transplant_intensity_not_actions.md) — 🆕(2026-08-12) **세계 치환 모드에서 "원작만큼 세게" ≠ "원작이 한 짓 그대로".** 강도·기능·비트 자리는 원작 이상, 행위는 새 세계 것으로 재발명. 26번에서 2회 반복 실수(v3 치환 → v8 원상복귀) — **강도 보정 라운드가 곧 행위 복사 라운드가 되는 게 함정.** 원작 재독 시 행위 말고 **기능만 적어서** 대조표를 짜라. 각색 모드(verbatim 계승)와 정반대 룰이니 진입 시 모드부터 못박을 것. 치환하면 원작보다 나아진다(26번 = 개별 고문 나열 → 앞 화 상처가 다음 화 흉기가 되는 한 사슬).
 - [adaptation-conservative-no-forced-rewrites](feedback_adaptation_conservative_no_forced_rewrites.md) — **각색 검토·수정 = 대사 억지 변경 금지·최대한 그대로/최소 변형·기능보존 리라이트는 정말 불가피할 때만.** 다른 장르/트롭/구조(히트작 포함) 기준 금지(다른 작품化 경계). source(원작)≠adaptation(우리 작성) — 자기 창작물 자기 기준 채점 순환논리 금지·약한 대사를 번역 clean-up으로 가리지 마라. 추가 대사도 캐릭터별 확립 톤 준수. 지문(△) 보완은 적극 OK(창작금지=새 스토리 발명 금지지 지문 보완 금지 아님). (12 EP1-13 LOCK 실증)
 - [version-anchor-commit](feedback_version_anchor_commit.md) — 메이저 변경 전 새 v{N} 분기.
 - [bulk-script-verify-strict](feedback_bulk_script_verify_strict.md) — 일괄 변환 후 깨진 패턴 grep 의무.
