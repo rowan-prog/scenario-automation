@@ -142,7 +142,7 @@ NEW = {
 '△一道极其璀璨、充满无上威压的金色神芒，如同开天辟地的利刃，强行撕裂了黑暗穹顶！金光瞬间驱散了所有的阴霾，将雷文那张惊恐扭曲的脸照得惨白。':
     '△ 눈부시게 찬란하고 지고의 위압으로 가득한 황금빛 신광이, 천지를 가르는 칼날처럼 어둠의 천장을 강제로 찢어버린다! 금빛이 순식간에 모든 어둠을 몰아내고, 경악으로 일그러진 레이븐의 얼굴을 창백하게 비춘다.',
 '△阿拉丁VO：想伤害我要保护的人？你，问过我了吗？':
-    '△ **알라딘 VO**: 내가 지키는 사람을 건드리겠다고? 너, 나한테 물어는 봤나?',
+    '**알라딘 VO**: 내가 지키는 사람을 건드리겠다고? 너, 나한테 물어는 봤나?',
 }
 
 # ── 정렬 ─────────────────────────────────────────────
@@ -291,7 +291,7 @@ def build(path, bilingual):
                 p2 = para(after=9, keep=True)
                 run(p2, c, cnfont=True, size=9, color=CNC)
         else:
-            dialogue = k.startswith('**')
+            dialogue = k.startswith('**') or not k.startswith('△')
             p = para(after=(2 if bilingual else (7 if dialogue else 5)),
                      before=(5 if dialogue else 0), keep=bilingual)
             krline(p, k, size=(11.5 if dialogue else 10.5),
