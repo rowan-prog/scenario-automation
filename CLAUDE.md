@@ -6,16 +6,17 @@ AIGC 숏폼 vertical drama 시나리오 제작. 최종 산출 = `projects/[작�
 
 ---
 
-## 핵심 문서 3개 (2026-06-10 일원화 — 사용 시점별)
+## 핵심 문서 (2026-06-10 일원화 — 사용 시점별 · 2026-08-19 셀링 포인트 추가)
 
 | 시점 | 문서 |
 |---|---|
 | 모든 작업의 근본 원리 (작품 진입 시 1회) | **`config/00_vertical_dna.md`** — 8 매체 조건·모든 룰의 모체 |
 | 집필·재집필·가필 | **`config/10_writing_standard.md`** — 진입 게이트·△ 양식·연속극 구조·대사·State Ledger·모욕 표준 |
 | 검수·LOCK | **`config/20_review_standard.md`** — 2모드·Track A/B·토큰 회계(tier-weighted belt·직교 sweep·병렬 fan-out)·입력 무결성 게이트·쇼러너 merge·§4-1 수술 파이프라인 |
+| **마케팅 셀링 포인트 (CD1 시트)** | **`config/40_selling_point_standard.md`** (2026-08-19 제정) — [EN_AI] Selling Point 팀 공용 템플릿 실측 규격(좌표·색·폰트·사이즈·열 너비) + 섹션별 작성 규칙 + 등급·MKT Idea·Fake MKT Idea·문장 규칙. 빌더 `tools/build_cd1_sheet.py` · 검증 `tools/cd1_validate.py` |
 | **외부 작가 대본 검수·코멘트** | **`config/30_writer_feedback_standard.md`** (2026-07-25 제정) — 사용자 코멘트 실물 3종 + AI 헛다리 대조로 도출한 4대 관점·형식 법칙·헛다리 필터·프로세스. 작가 회수본 올 때마다 §4 사례 환류 |
 
-구 문서(hard_rules·final_review_flow·agent_operating_rules·lock_pipeline_standard·phase_4 prompt) = 위 3개로 통합·스텁만 잔존 (`config/_archive_2026-06-10/` 원문 보존). master_guide_v3(5816줄) = 집필 컨텍스트 진입 금지.
+구 문서(hard_rules·final_review_flow·agent_operating_rules·lock_pipeline_standard·phase_4 prompt) = 위 00/10/20으로 통합·스텁만 잔존 (`config/_archive_2026-06-10/` 원문 보존). `mkt_selling_points_template.md`(JP BUMP 양식) = 2026-08-19 `40_selling_point_standard.md`로 대체·스텁 잔존. master_guide_v3(5816줄) = 집필 컨텍스트 진입 금지.
 
 ## 보조 자료 (필요 시점만)
 
@@ -25,10 +26,10 @@ AIGC 숏폼 vertical drama 시나리오 제작. 최종 산출 = `projects/[작�
 | 검증 히트작 raw | `config/vertical_drama_hit_scripts/` (집필 진입 시 매칭 3-5 EP 강제 정독) |
 | 히트작 분석 / 페르소나 / 평가위원 | `config/vertical_drama_hit_scripts_analysis/` · `config/personas/`(검토 시) · `config/evaluators.md`(피칭 시) |
 | 타깃 자료 | `config/target_research/` |
-| 템플릿 | `config/engine_brief_template.md` · `mkt_selling_points_template.md`(온디맨드) · `meta_template.md` (visual_lock·production_handoff = 2026-07-13 폐지 — 애셋 단일 진실 = 본문 △ + Ledger ④) |
+| 템플릿 | `config/engine_brief_template.md` · `meta_template.md` (visual_lock·production_handoff = 2026-07-13 폐지 — 애셋 단일 진실 = 본문 △ + Ledger ④) |
 | Reference / 피칭 데이터 | `config/reference_scripts/INDEX.md` · `config/pitch_references/MASTER_DATASET.md` |
 | 검수·집필지원·수술·발상 agent 14종 정의 | `~/.claude/agents/` (전원 frontmatter `model:` 핀 = opus 이하 — 운용 룰 = `config/20_review_standard.md` §7 3-tier 모델맵·직교 sweep·집필지원 W1-W3 = `10_writing_standard.md` §A-1. 수술 3종 = `script-surgeon`·`consistency-sweeper`·`copy-candidate-generator` · **발상 = `idea-diverger`**(2026-07-30 신설 · opus+effort:low = 저사고 발산 전용 · 입력은 적게·금기 2~3개만·출력 15~20줄 무근거 + 무리수 쿼터 · 선별/검증은 메인)) |
-| 기계 도구 | `tools/build_treatment_doc.py`(회차 트리트먼트 docx — 무료=spec 인용/유료=`_paid_run_*.txt`) · `tools/voice_lint.py` · `tools/continuity_lint.py` · `tools/format_pass_verify.py` · `tools/pacing_lint.py`(공간 경제·절단 구조 6검사) · `tools/register_census.py`(인물별 레지스터/코치봇 — 둘 다 2026-07-10 신설) · `tools/esl_hardwords.py`(대사 어휘 Zipf 직관 스캔 — 2026-07-15 신설·localization 워크스페이스 포팅) · **`tools/build_dist.py`**(사내 배포 패키지 빌더 — 2026-08-05 신설 · `--zip`/`--no-assets` · 배포판 문서 원본 = `tools/dist_docs/` · 상세 = 메모리 [[project-dist-package]]) · **자동 커밋·백업 = `tools/AUTOCOMMIT.md`**(2026-08-11 · 세션 종료 훅 + 매일 09:00/21:00 스케줄 → GitHub 원격 push까지 자동) · `tools/sync_claude_assets.py`(agents·memory ↔ 개인 폴더 동기화·드리프트 확인) |
+| 기계 도구 | `tools/build_treatment_doc.py`(회차 트리트먼트 docx — 무료=spec 인용/유료=`_paid_run_*.txt`) · `tools/voice_lint.py` · `tools/continuity_lint.py` · `tools/format_pass_verify.py` · `tools/pacing_lint.py`(공간 경제·절단 구조 6검사) · `tools/register_census.py`(인물별 레지스터/코치봇 — 둘 다 2026-07-10 신설) · `tools/esl_hardwords.py`(대사 어휘 Zipf 직관 스캔 — 2026-07-15 신설·localization 워크스페이스 포팅) · **`tools/build_dist.py`**(사내 배포 패키지 빌더 — 2026-08-05 신설 · `--zip`/`--no-assets` · 배포판 문서 원본 = `tools/dist_docs/` · 상세 = 메모리 [[project-dist-package]]) · **자동 커밋·백업 = `tools/AUTOCOMMIT.md`**(2026-08-11 · 세션 종료 훅 + 매일 09:00/21:00 스케줄 → GitHub 원격 push까지 자동) · **`tools/build_cd1_sheet.py` + `tools/cd1_validate.py`**(CD1 셀링 포인트 시트 빌더·검증기 — 2026-08-19 신설 · 규격 = `config/40_selling_point_standard.md`) · `tools/sync_claude_assets.py`(agents·memory ↔ 개인 폴더 동기화·드리프트 확인) |
 | **라이터스룸 강의록 (집필·각색·검수 진입 정독)** | `config/vertical_drama_hit_scripts_analysis/craft_lecture_liv_writersroom2.md` — 2026-07-10 사용자: "vertical drama의 정수" (예문 verbatim 보존·요약 대체 불가) |
 | 장르·작품 특수 메모리 | `memory/` (MEMORY.md 인덱스·호출 트리거 기반) |
 
@@ -60,7 +61,8 @@ phase_0 (아이디어) → phase_1 (러프 청사진) → phase_2 (피칭) → �
 | **작가 집필 대본 코멘트** (검수 후 작가 반환) | `config/30_writer_feedback_standard.md` — 3패스(콜드리드→장르·구조→라인)·코멘트 = 사용자 관점·형식 법칙·AI 헛다리 필터. 캐논 = 해당 작품 트리트먼트+내용요건 | 콜드리드 지점 신고 = funnel-cold-reader(sonnet) / 코멘트 작성·선별 = 메인 직접 |
 | **플랫폼 기획안 (phase_p)** | `prompts/phase_p_platform_proposal.md` — **진입 게이트(hit_dna #9 + craftcard §5 공간 경제 정독 · 2026-07-30)** → **0단계 설계 확정 문답(fan-out 전 · 컨테이너 지도 포함)** → 대원칙 9종(원안=정본 verbatim·로그라인 5요소·갈등축 발명 금지·§C-4-2/§C-2-2 게이트·룰 정합·dramatic irony·내용요건=놓치기 쉬운 것만·사람 말 문체·**컨테이너 구조=방 순회 금지**) → 기계 게이트 7종(⑦=`pacing_lint.py --treatment` 컨테이너 계측) → 빌더 `tools/build_vigloo_proposal.py` (2026-07-16 제정 · 실증 = My Million-Dollar Reset·While My Wife's Away) | 0단계 문답 = 메인↔사용자 / **안목(로그라인·내용요건) = fable 1기 고정** / **머지 후 문체 콜드리드 = opus 별도 인스턴스 (2026-07-30 사용자 룰 — fable에서 하향)** / 훅·아크 = opus / 트리트먼트 = sonnet(보강 0 기본값) / 시놉·캐릭터 = sonnet / 메타 = haiku → 머지·게이트·docx = 메인. **Fable = 안목 유닛만 — 벌크 프로즈 배정 금지 (2026-07-22 2차 정밀화·근거 = 절차문 분업 §)** |
 | 한국어 정본 검토 | 메모리 [[external-korean-script-review-belt]] (한국어 벤치마크 필수·voice_lint 무효→grep 대체) | opus + sonnet belt |
-| 산출 라운드 (타이틀·광고카피·셀링포인트) | 후보 = 다시각 독립 N기 병렬 → 메인 선별(§4-1 머지 체크리스트 준용) → 사용자 확정 | 생성 = copy-candidate-generator(opus) / 추출 = mkt-selling-point-extractor(sonnet) |
+| 산출 라운드 (타이틀·광고카피) | 후보 = 다시각 독립 N기 병렬 → 메인 선별(§4-1 머지 체크리스트 준용) → 사용자 확정 | 생성 = copy-candidate-generator(opus) |
+| **마케팅 셀링 포인트 (CD1 시트)** | `config/40_selling_point_standard.md` — 파싱 → **전편 실독** → 회차 카드(회차별 독립) → 등급 → Overview·CAST·Reference → **MKT Idea(실제 장면 묶음)** → Fake MKT Idea 2종 → `build_cd1_sheet.py` → `cd1_validate.py` 전항 통과 → 눈으로 확인 | 원료 추출 = mkt-selling-point-extractor(sonnet) 10화 단위 병렬 / 등급·묶음·Fake·빌드·검증 = 메인 직접 |
 | **발상이 막힐 때 (창의력 요구 지점)** (2026-07-30 신설) | 기획 장치·의식·설정 대안 / 클리프행어·비트·펀치라인 대안 / 한 공간 컨테이너 안 자극 비트 채우기 / 피드백 시 "더 나은 대안". **입력 = 과제 한 줄 + 요약 5줄 이내 + 절대금기 2~3개** (맥락을 많이 주면 기존 텍스트로 수렴해 발산이 죽는다) → 출력 = 무근거 15~20줄 → **선별·정합 검증·엔진 가드레일 = 메인, 확정 = 사용자.** 다시각 = 프레이밍 달리해 N기 병렬 | idea-diverger(opus·effort low) |
 | 구조·룰·워크플로우 개정 | **유일한 Fable 투입처** — 개정 후 이 표 + 해당 § 즉시 갱신. **실무 세션(opus/sonnet)이 구조 결함을 발견하면 직접 개정하지 말고 발견 보고까지만 — 개정은 사용자가 Fable로 전환 후** (2026-07-10 실증: sonnet 구조 개정이 진단 절반 누락 + 오진 메모리 기록) | Fable 1회성 |
 
