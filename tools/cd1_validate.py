@@ -66,15 +66,13 @@ BANNED_EUPHEMISMS = {
     "인티머시": "-", "콜드오픈": "-", "수위 있는": "-",
 }
 
-# 템플릿에 회색으로 박혀 있는 예시문 — 우리 값으로 덮었어야 한다
+# 템플릿 예시문 중 **서술 칸**의 것 — 여기는 English 를 써야 한다 (표준 §3-1).
+# 짧은 스펙 칸(타이틀·드라이브·제작형태·언어·화수)의 예시문은 그대로 두는 게 규격이라 검사하지 않는다.
 TEMPLATE_GUIDE_MARKERS = [
-    "(eg) Bound to the Alpha",
-    "video, srt, script 모두 이 안에서 확인",
     "레퍼작과 무엇이 다른가를 한 문장으로",
     "선택받고 싶은 욕망 + 무시한 자들에 대한 역전",
     "여주가 스스로 판을 뒤집는다",
     "원작 있을시 원작에 대한 정보 기입",
-    "72화 / 페이월 8화",
     "여성향, 25-44",
 ]
 
@@ -473,7 +471,7 @@ def gate_format(ws, bands, cards, rep):
     for loc, text in all_cells(ws):
         for marker in TEMPLATE_GUIDE_MARKERS:
             if marker in text:
-                bad.append("{0}: 템플릿 예시문 잔존".format(loc))
+                bad.append("{0}: 서술 칸에 예시문 잔존 (English 를 써야 한다)".format(loc))
 
     for r in range(1, ws.max_row + 1):
         for col in "ABCDFGH":

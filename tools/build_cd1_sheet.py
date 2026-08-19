@@ -79,6 +79,22 @@ EPISODIC_HEAD = [
 SCENE_HEAD = ["추천 장면 (KR)", "Recommended Scene (EN)", "\t推荐场景 (CN)"]
 MKT_HEAD_PREFIX = "MKT Idea (Copy this format if there's more than 1) - "
 
+# C열 예시문 — spec 의 en 이 null 이면 이 문구를 회색 9pt 이탤릭 그대로 남긴다
+#  (짧은 스펙 칸은 B(한국어)에 값이 들어가면 C의 영어가 중복이라 예시문을 유지한다 — 표준 §3-1)
+GUIDE_TEXT = {
+    "title": "(eg) Bound to the Alpha",
+    "drive": "video, srt, script 모두 이 안에서 확인 / Video, SRT and script files ",
+    "format": "AI 실사 / AI Live Action",
+    "language": "English / USA",
+    "eps": "72화 / 페이월 8화",
+    "differentiator": "레퍼작과 무엇이 다른가를 한 문장으로 / What makes this different from the reference title, in one line",
+    "emotion": "선택받고 싶은 욕망 + 무시한 자들에 대한 역전 / Desire to be chosen + payback against those who dismissed her",
+    "highlight": "여주가 스스로 판을 뒤집는다 (구조받는 서사 아님) / The FL flips the table herself (not a rescued heroine)",
+    "target": "여성향, 25-44 / Female-skewing, 25-44",
+    "other": "원작 있을시 원작에 대한 정보 기입 / If adapted from existing IP, note the original here",
+}
+GUIDE_RGB = "FF808080"
+
 MIN_CAST_ROWS = 9          # 기본 레이아웃(Reference 밴드 = 32행)을 지키는 최소치
 SCENE_MAX_CHARS = 130
 
@@ -131,11 +147,12 @@ def label(ws, row, text, col="A"):
     c.border = BOX
 
 
-def data(ws, row, col, value, center=False, fill=None, bold=False):
+def data(ws, row, col, value, center=False, fill=None, bold=False, guide=False):
     c = ws[col + str(row)]
     c.value = value
     c.fill = PatternFill("solid", fgColor=fill) if fill else NO_FILL
-    c.font = Font(name=FONT_NAME, bold=bold)
+    c.font = (Font(name=FONT_NAME, size=9, italic=True, color=GUIDE_RGB) if guide
+              else Font(name=FONT_NAME, bold=bold))
     c.alignment = TOP_CENTER if center else TOP_LEFT
     c.border = BOX
 
@@ -153,7 +170,11 @@ def build_overview(ws, spec):
         if isinstance(item, str):
             item = {"kr": item, "en": ""}
         data(ws, r, "B", item.get("kr") or None)
-        data(ws, r, "C", item.get("en") or None)
+        en = item.get("en")
+        if en is None:                      # 예시문 유지 (회색 9pt 이탤릭)
+            data(ws, r, "C", GUIDE_TEXT.get(key), guide=True)
+        else:
+            data(ws, r, "C", en or None)
     wipe(ws, 20, "ABCD")
 
 
