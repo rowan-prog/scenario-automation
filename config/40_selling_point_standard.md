@@ -84,7 +84,7 @@ python tools/cd1_validate.py out.xlsx script.md --tab "TITLE" --receipts read_re
 |---|---|---|
 | `A1:C1` | 작품 타이틀 (**탭 이름도 같이 바꾼다**) | A1:C1 |
 | `A3:C3` | 밴드 `Title Overview` | — (A·B·C 각각 남색) |
-| `A4:C19` | Title Overview 16항목 — A=항목명 / **B=한국어 / C=English** | — |
+| `A4:C19` | Title Overview 16항목 — A=항목명 / **B=한국어(필수) / C=English(서술 칸만)** | — |
 | `F2:H2` | 밴드 `Episodic Breakdown` | — (F·G·H 각각 남색) |
 | `F3 / G3 / H3` | 소제목 `EP` / `주요 사건 키워드 / Key Event Keywords` / `스토리 요약 (2-3문장) / Story Summary (2-3 sentences)` | — |
 | `F4:H(3+N)` | 회차 카드 N행 | — |
@@ -143,7 +143,7 @@ python tools/cd1_validate.py out.xlsx script.md --tab "TITLE" --receipts read_re
 
 | 위치 | 한국어 | English | 中文 |
 |---|---|---|---|
-| Title Overview | B | C | — |
+| Title Overview | B | C (서술 칸만) | — |
 | Episodic Breakdown (F/G/H) | 전부 한국어 | — | — |
 | CAST | B | C | D |
 | MKT Idea / Fake MKT Idea | B | C | D |
@@ -158,7 +158,14 @@ python tools/cd1_validate.py out.xlsx script.md --tab "TITLE" --receipts read_re
 
 ### 3-1 Title Overview (A4:C19)
 
-16항목 고정. A열 항목명은 템플릿 문구 그대로 두고, B(한국어)·C(English)만 채운다.
+16항목 고정. A열 항목명은 템플릿 문구 그대로 둔다.
+
+**B = 한국어, 전 항목 필수.** C열은 원래 템플릿의 회색 예시문 열이다. 두 가지로 갈라 쓴다.
+
+| C열 | 항목 | 처리 |
+|---|---|---|
+| 예시문 그대로 둔다 | 타이틀 · 프로그램 코드 · 담당 · 드라이브 · 론칭일 · 제작 형태 · 발화 언어 · Total EP/Paywall | B에 값이 들어가면 C의 영어는 중복이다. 회색 9pt 이탤릭 예시문을 그대로 남긴다 |
+| English 를 쓴다 | Logline · Synopsis · 장르 키워드 · 핵심 차별점 · 타겟 감정·욕망 · 반드시 강조할 요소 · 기획 타겟 정보 · 기타 | 미국 마케터가 실제로 읽어야 하는 서술 칸. 쓸 때는 **검정 Arial 10pt**로 되돌린다(회색 9pt 이탤릭 위에 덮어쓰면 주석처럼 보인다) |
 
 | 항목 | 규칙 |
 |---|---|
@@ -169,7 +176,7 @@ python tools/cd1_validate.py out.xlsx script.md --tab "TITLE" --receipts read_re
 | 론칭일 / Release Date | 〃 |
 | 제작 형태 / Format | `AI Live Action` 등 |
 | 발화 언어 / Language | `EN` / `KR` |
-| Total EP / Paywall EP | **무료가 1~N화면 페이월은 N+1화다. 표기법을 임의로 바꾸지 않는다** — `50 / 9 (Free EP 1-8)` 처럼 무료 구간을 같이 적는다 |
+| Total EP / Paywall EP | 표기 = **`총회차(무료회차수)`** — 53화·무료 8화면 `53(8)`. 표기법을 임의로 바꾸지 않는다. 무료가 1~N화면 페이월은 N+1화다 |
 | Logline | 공식본 있으면 그대로. 없으면 대본에서 뽑는다. **주인공이 무엇을 빼앗겼고 무엇을 하러 가는지**가 한 문장에 들어가야 한다 |
 | Synopsis | 4~6문장. 전제 → 관계 구도 → 중반 동력 → 결말 방향 |
 | 장르 키워드 (3개) | 통용 장르어 3~4개를 ` · `로. 안 쓰는 조어 금지 |
