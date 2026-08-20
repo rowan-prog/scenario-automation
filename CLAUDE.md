@@ -23,7 +23,7 @@ AIGC 숏폼 vertical drama 시나리오 제작. 최종 산출 = `projects/[작�
 | 필요 | 위치 |
 |---|---|
 | 작품 진행 메타 (이력 단일 진실) | `projects/[작품]/[작품]_00_meta.md` |
-| 검증 히트작 raw | `config/vertical_drama_hit_scripts/` (집필 진입 시 매칭 3-5 EP 강제 정독) |
+| 검증 히트작 raw | `config/vertical_drama_hit_scripts/` (집필 진입 시 매칭 3-5 EP 강제 정독) · **🚨 진입 순서 고정 = INDEX 우선 8종 → 검증 히트작 → 최신 등재순 → 전량 · 임의 선별 금지 · docx/pdf도 추출해 포함**(2026-08-20 README 제정 — 임의 선별 사고) |
 | 히트작 분석 / 페르소나 / 평가위원 | `config/vertical_drama_hit_scripts_analysis/` · `config/personas/`(검토 시) · `config/evaluators.md`(피칭 시) |
 | 타깃 자료 | `config/target_research/` |
 | 템플릿 | `config/engine_brief_template.md` · `meta_template.md` (visual_lock·production_handoff = 2026-07-13 폐지 — 애셋 단일 진실 = 본문 △ + Ledger ④) |
