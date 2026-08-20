@@ -10,7 +10,7 @@ AIGC 숏폼 vertical drama 시나리오 제작. 최종 산출 = `projects/[작�
 
 | 시점 | 문서 |
 |---|---|
-| 모든 작업의 근본 원리 (작품 진입 시 1회) | **`config/00_vertical_dna.md`** — 8 매체 조건·모든 룰의 모체 + **`paid vertical 구조 7항`(2026-08-20 신설 — 장르·트롭 무관·기획 문서까지 적용·붕괴 3축 = 속도/인과/감정선)** |
+| 모든 작업의 근본 원리 (작품 진입 시 1회) | **`config/00_vertical_dna.md`** — 8 매체 조건·모든 룰의 모체 + **`paid vertical 구조`(2026-08-20 신설 — 히트작 원문 정독 근거 · 장르·트롭 무관 · 기획 문서까지 적용): **S0 공력 배분(1화≫≫2화>3화>마지막 무료 / 컷 = 1화 오프닝>1화 엔딩>마지막 무료 엔딩) + 결제 = 비싼 돈(원초·금기·천박·윤리 이탈이 극단으로 · "그럭저럭 만족" = 결제 0)** → 구조 7항(S1~S7) → 붕괴 3축(속도/인과/감정선)** |
 | 집필·재집필·가필 | **`config/10_writing_standard.md`** — 진입 게이트·△ 양식·연속극 구조·대사·State Ledger·모욕 표준 |
 | 검수·LOCK **+ 기획 문서 검수** | **`config/20_review_standard.md`** — **3모드(③ 기획 문서 = 2026-08-20 신설)**·Track A/B·토큰 회계(tier-weighted belt·직교 sweep·병렬 fan-out)·입력 무결성 게이트·쇼러너 merge·§4-1 수술 파이프라인 |
 | **마케팅 셀링 포인트 (CD1 시트)** | **`config/40_selling_point_standard.md`** (2026-08-19 제정) — [EN_AI] Selling Point 팀 공용 템플릿 실측 규격(좌표·색·폰트·사이즈·열 너비) + 섹션별 작성 규칙 + 등급·MKT Idea·Fake MKT Idea·문장 규칙. 빌더 `tools/build_cd1_sheet.py` · 검증 `tools/cd1_validate.py` |
@@ -59,7 +59,7 @@ phase_0 (아이디어) → phase_1 (러프 청사진) → phase_2 (피칭) → �
 | **LOCK 후 피드백·수술** | **`20_review_standard.md` §4-1 수술 파이프라인** (판정→계획서→v분기→기계/프로스→머지 체크리스트→게이트→마감) | 기계 = 메인 직접 · 프로스 = script-surgeon(opus) · 정합 대조 = consistency-sweeper(sonnet) |
 | 외부 대본/피드백 (phase b/c) | **입력 무결성 census 먼저(`20_review` §1 — 변환 결손 대조)** → external-intake 막장-필터 → §4 머지 | external-intake = opus |
 | **작가 집필 대본 코멘트** (검수 후 작가 반환) | `config/30_writer_feedback_standard.md` — 3패스(콜드리드→장르·구조→라인)·코멘트 = 사용자 관점·형식 법칙·AI 헛다리 필터. 캐논 = 해당 작품 트리트먼트+내용요건 | 콜드리드 지점 신고 = funnel-cold-reader(sonnet) / 코멘트 작성·선별 = 메인 직접 |
-| **기획 문서 검수 (기획안·트리트먼트·청사진·피칭덱)** 🆕 | `20_review_standard.md` **§1③ 기획 문서 모드** (2026-08-20 제정) — 렌즈 순서 = 엔진 → **paid vertical 구조 7항(S1~S7)** → 붕괴 3축(속도·인과·감정선) → 서사·자본/컨테이너 → 필드·문체. 기계 먼저 = `pacing_lint.py --treatment … --shortform`. **belt 확대 금지** | 3축 콜드리드 = 그 문서를 안 쓴 opus 별도 1기 / 화별 자극 전수 = funnel-cold-reader(기획 문서 모드·sonnet) / 계수 = 기계 |
+| **기획 문서 검수 (기획안·트리트먼트·청사진·피칭덱)** 🆕 | `20_review_standard.md` **§1③ 기획 문서 모드** (2026-08-20 제정) — 렌즈 순서 = 엔진 → **S0(1화 오프닝·1화 엔딩·마지막 무료 엔딩이 비싼 돈을 뽑나)** → **구조 7항(S1~S7)** → 붕괴 3축(속도·인과·감정선) → 서사·자본/컨테이너 → 필드·문체. 기계 먼저 = `pacing_lint.py --treatment … --shortform`. **belt 확대 금지** | 3축 콜드리드 = 그 문서를 안 쓴 opus 별도 1기 / 화별 자극 전수 = funnel-cold-reader(기획 문서 모드·sonnet) / 계수 = 기계 |
 | **플랫폼 기획안 (phase_p)** | `prompts/phase_p_platform_proposal.md` — **진입 게이트(hit_dna #9 + craftcard §5 공간 경제 정독 · 2026-07-30)** → **0단계 설계 확정 문답(fan-out 전 · 컨테이너 지도 포함)** → 대원칙 10종(**구조 7항 = 2026-08-20 신설**·원안=정본 verbatim·로그라인 5요소·갈등축 발명 금지·§C-4-2/§C-2-2 게이트·룰 정합·dramatic irony·내용요건=놓치기 쉬운 것만·사람 말 문체·**컨테이너 구조=방 순회 금지**·**paid vertical 구조 7항+붕괴 3축**) → 기계 게이트 8종(⑦=`pacing_lint.py --treatment` 컨테이너 계측 · **⑧=`--shortform` 구조/3축 계수**) → 빌더 `tools/build_vigloo_proposal.py` (2026-07-16 제정 · 실증 = My Million-Dollar Reset·While My Wife's Away) | 0단계 문답 = 메인↔사용자 / **안목(로그라인·내용요건) = fable 1기 고정** / **머지 후 문체 콜드리드 = opus 별도 인스턴스 (2026-07-30 사용자 룰 — fable에서 하향)** / 훅·아크 = opus / 트리트먼트 = sonnet(보강 0 기본값) / 시놉·캐릭터 = sonnet / 메타 = haiku → 머지·게이트·docx = 메인. **Fable = 안목 유닛만 — 벌크 프로즈 배정 금지 (2026-07-22 2차 정밀화·근거 = 절차문 분업 §)** |
 | 한국어 정본 검토 | 메모리 [[external-korean-script-review-belt]] (한국어 벤치마크 필수·voice_lint 무효→grep 대체) | opus + sonnet belt |
 | 산출 라운드 (타이틀·광고카피) | 후보 = 다시각 독립 N기 병렬 → 메인 선별(§4-1 머지 체크리스트 준용) → 사용자 확정 | 생성 = copy-candidate-generator(opus) |
