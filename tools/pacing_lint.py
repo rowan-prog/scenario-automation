@@ -35,9 +35,21 @@ LLM 판단 0. 숫자 + EP번호만 낸다. "괜찮다" 금지 — 분모/카운�
      방 순회를 하고도 여러 검토 패스를 통과 — 매 화 새 장소·새 날 = 매 화 닫힌 구조 =
      클리프행어가 이어질 곳이 없다. 세는 결함은 기계가 센다.
 
+  8. PAID-VERTICAL STRUCTURE AUDIT (--treatment --shortform · 2026-08-20, 00_vertical_dna
+     'paid vertical 구조 7항' + 붕괴 3축) — 기획 문서(러프/플랫폼 기획안·트리트먼트·청사진)가
+     장편 영화/무료 콘텐츠 문법으로 새는지 센다. 사용자 판정: "핵심은 장르/트롭이 아니라 구조다,
+     그 다음 서사다" + "기획안이 전개 속도·인과관계·감정선에서 숏폼이 아니다".
+       [S5/축2] 막(幕)·기승전결 라벨 = 유료 구간을 막으로 뭉갠 자백 (부채-정산 회계로 재작성)
+       [축1 속도]   화당 문장 수 / 계획·이동·결심 동사(비후킹 필연이 비트 자리를 먹음)
+       [축2 인과]   한 문장 연결어미 2+ (장편 사슬 후보) / 화면 밖 원인어
+       [축3 감정선] 점진어·아크 서술어 (곡선 서술 후보 — 장르 캐논 지연이면 이름을 대고 기각)
+     ⚠️ 연결어미·감정어 카운트 = 하한 추정기. 0이 통과 증거가 아니다(20_review §0.3 면죄부 금지).
+     캐릭터 필드 형태·기승전결 회계는 세는 결함이 아니라 사람이 읽는다 (20_review §1③).
+
 usage: python tools/pacing_lint.py <script.md> [--single-use-cap 3] [--jump-cap 5]
                                     [--homebase-window 5] [--closer-keywords "tv;screen;chyron"]
        python tools/pacing_lint.py --treatment <run.txt> --venues "드레스룸;침실;서재;부엌;현관"
+       python tools/pacing_lint.py --treatment <run.txt> --shortform   # 구조/3축 계수 (--venues 병용 가능)
 """
 import sys, io, re
 from collections import OrderedDict, Counter
@@ -141,6 +153,75 @@ def treatment_audit(path, venues):
     return all_pass
 # -----------------------------------------------------------------------------
 
+# --- CHECK 8: paid vertical 구조 / 숏폼 문법 계수 (--shortform) ----------------
+# 연결어미 = 한글 음절 뒤에 붙는 종속 연결형만 (명사 오탐 억제).
+# ⚠️ 하한 추정기다 — 여기서 0이 나와도 "인과 사슬 없음"의 증거가 아니다(20_review §0.3 면죄부 금지).
+CONNECT = re.compile(
+    r"(?<=[가-힣])(?:아서|어서|여서|해서|하여|고서|면서|는데|자마자|기에|므로)"      # 붙는 연결어미
+    r"|(?<=[가-힣])(?:고|자|니|며),"                                                  # 쉼표로 이어지는 절
+    r"|(?:때문에|탓에|덕분에|바람에|끝에|나머지)")                                    # 띄어 쓰는 인과 표지
+PLAN_V  = re.compile(r"(하기로 한다|하기로 하고|준비한다|준비하고|계획한다|결심한다|다짐한다|나선다|향한다|찾아간다|모의한다|작정한다|마음먹는다|알아보기로)")
+ACT_LBL = re.compile(r"(제\s?[1-4일이삼사]\s?막|[1-4]\s?막\b|기\s*·?\s*승\s*·?\s*전\s*·?\s*결)")
+GRADUAL = re.compile(r"(점차|점점|서서히|조금씩|차츰|이윽고|마침내|한참 뒤|한참 후|시간이 흐르|끝내는)")
+ARC_W   = re.compile(r"(성장한다|성장하며|변해간다|변화한다|깨닫는다|깨달음|내면|트라우마|자아|정체성|치유|양가)")
+CAUSE_W = re.compile(r"(를 위해|을 위해|때문에|탓에|어린 시절|과거의|성격 탓)")
+SUM_HOOK = re.compile(r"(이 시작된다|막이 오른다|일까\?|것인가\?|운명은|예고한다|드러나기 시작|알게 된다|깨닫는다)")
+
+def shortform_audit(path):
+    """트리트먼트·기획 프로즈의 구조/문법 계수. 판단 0 — 숫자와 인용만.
+    본문 = 00_vertical_dna.md 'paid vertical 구조 7항' + 붕괴 3축 · 게이트 = 20_review §1③."""
+    lines = load(path)
+    ep_text = OrderedDict(); cur = None
+    for ln in lines:
+        m = EP_ROW.match(ln.strip())
+        if m:
+            ep_text[int(m.group(1))] = m.group(2); cur = None; continue
+        m = EP_HDR.match(ln.strip())
+        if m:
+            cur = int(m.group(1)); ep_text.setdefault(cur, ""); continue
+        if cur is not None and ln.strip():
+            ep_text[cur] += " " + ln.strip()
+    P = print
+    P("=" * 60); P("pacing_lint --shortform :: " + path); P("=" * 60)
+    P("[8] PAID-VERTICAL STRUCTURE AUDIT (00_vertical_dna 'paid vertical 구조 7항' + 붕괴 3축)")
+    body_all = "\n".join(lines)
+    acts = ACT_LBL.findall(body_all)
+    P("  [S5/축2] 막(幕)·기승전결 라벨: %d %s" % (len(acts), sorted(set(str(a).strip() for a in acts))[:6])
+      + ("   => FLAG (유료 구간을 막으로 뭉갬 — 부채 적립→상전이→정산 사다리→종착으로 재작성)"
+         if acts else "   => PASS"))
+    if not ep_text:
+        P("  WARN 회차 행 없음 ('NN화|본문' 또는 'N화' 헤더 필요) — 전역 계수만 보고")
+        eps = [(0, body_all)]
+    else:
+        eps = list(ep_text.items())
+    rows = []; flags = 0
+    for ep, body in eps:
+        sents = [x.strip() for x in re.split(r"(?<=[.!?\u3002])\s+|\n", body) if x.strip()]
+        multi = [x[:56] for x in sents if len(CONNECT.findall(x)) >= 2]
+        plan  = PLAN_V.findall(body)
+        grad  = GRADUAL.findall(body)
+        arcw  = ARC_W.findall(body)
+        cause = CAUSE_W.findall(body)
+        hook  = SUM_HOOK.findall(body)
+        f = bool(multi or plan or grad or arcw or hook)
+        flags += 1 if f else 0
+        rows.append((ep, len(sents), len(multi), len(plan), len(cause), len(grad) + len(arcw), len(hook), multi[:2]))
+    P("   EP | 문장 | 2홉+ | 계획·이동 | 원인어 | 점진/아크 | 요약훅 | 2홉+ 인용")
+    for r in rows:
+        P("  %3s | %4d | %4d | %9d | %6d | %9d | %6d | %s" % r)
+    tot = sum(r[1] for r in rows)
+    P("  분모: %d화 / %d문장 · 화당 평균 문장 %.1f"
+      "   (규격 = 무료회차 상세 6~10줄 · 유료회차 2~3문장 — phase_p 산출물 정의. 화당 문장 수는 FLAG가 아니라 참고치)"
+      % (len(rows), tot, tot / max(1, len(rows))))
+    P("  [축1 속도] 계획·이동·결심 동사 = 비후킹 필연이 비트 자리를 먹은 곳 (§C-2-1)")
+    P("  [축2 인과] 한 문장 연결어미 2+ = 장편 사슬 후보 — 전건 인용 확인 후 쇼러너 판정")
+    P("            ⚠ 연결어미·감정어 카운트는 하한 추정기다. 0 = 통과 증거 아님 — 기승전결이 부채-정산 회계로 적혔는지는 사람이 읽는다")
+    P("  [축3 감정선] 점진/아크어 1+ = 곡선 서술 후보 — 장르 캐논 지연(후회남·정보 자본)이면 이름을 대고 기각")
+    ok = (flags == 0 and not acts)
+    P("  => 구조/문법 게이트 " + ("PASS" if ok else "FLAG %d/%d화 (쇼러너 판정 의무 — 20_review 1-3)" % (flags, len(rows))))
+    return ok
+# -----------------------------------------------------------------------------
+
 def load(path):
     with open(path, encoding="utf-8") as f:
         return f.read().splitlines()
@@ -176,6 +257,11 @@ def main():
         venues = []
         if "--venues" in sys.argv:
             venues = [v.strip() for v in sys.argv[sys.argv.index("--venues") + 1].split(";") if v.strip()]
+        if "--shortform" in sys.argv:
+            shortform_audit(path)
+            if venues:
+                treatment_audit(path, venues)
+            return
         treatment_audit(path, venues)
         return
     path = sys.argv[1]
