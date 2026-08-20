@@ -36,7 +36,7 @@ STAR_RATIO_MAX = 0.40
 SCENE_MAX_CHARS = 130
 KEYWORD_MIN, KEYWORD_MAX = 2, 4
 TREATMENT_MIN_SENT, TREATMENT_MAX_SENT = 2, 4
-MKT_BLOCK_MIN = 3
+MKT_BLOCK_MIN, MKT_BLOCK_MAX = 3, 5
 
 BANNED_VERBS = {
     "가라앉": "사라진다", "되받아친": "똑같이 돌려준다", "몰아붙": "다가온다",
@@ -276,6 +276,8 @@ def gate_characters(cards, script, rep, aliases):
         blob = script[ep_i]["text"].lower()
         text = c["g"] + " " + c["h"]
         for kr, en in aliases.items():
+            if en is None:          # 주연 = 회차별 호칭으로 안 바꾼다 (표준 §3-3)
+                continue
             if kr in text and en.lower() not in blob:
                 bad.append("EP{0}: '{1}' 언급, 대본에 '{2}' 없음".format(ep, kr, en))
     rep.add("G4 인물 출처", not bad, "; ".join(bad[:5]))
@@ -388,8 +390,8 @@ def gate_cast(ws, bands, rep):
 def gate_mkt(ws, blocks, script, rep):
     mkt = [b for b in blocks if b["kind"] == "mkt"]
     bad = []
-    if len(mkt) < MKT_BLOCK_MIN:
-        bad.append("MKT Idea 블록 {0}개 (최소 {1})".format(len(mkt), MKT_BLOCK_MIN))
+    if not MKT_BLOCK_MIN <= len(mkt) <= MKT_BLOCK_MAX:
+        bad.append("MKT Idea 블록 {0}개 (규격 {1}~{2})".format(len(mkt), MKT_BLOCK_MIN, MKT_BLOCK_MAX))
     for b in mkt:
         if not b["rows"]:
             bad.append("A{0}: 데이터 행 0".format(b["row"]))
@@ -501,7 +503,8 @@ def main():
     ap.add_argument("script")
     ap.add_argument("--tab", required=True)
     ap.add_argument("--receipts", help="read_receipts.json (G2)")
-    ap.add_argument("--alias", help='{"이솔데": "Isolde"} 형태 json (G4)')
+    ap.add_argument("--alias", help='{"클로이": "Chloe", "이솔데": null} 형태 json (G4). '
+                                    'null = 주연 — 그 회차에 이름이 안 나와도 이름으로 부르므로 검사 제외')
     ap.add_argument("--json", help="결과 JSON 저장 경로")
     args = ap.parse_args()
 
