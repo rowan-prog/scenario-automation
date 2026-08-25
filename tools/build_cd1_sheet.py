@@ -210,6 +210,13 @@ def build_episodic(ws, spec):
         r = 4 + i
         tier = int(ep.get("tier") or 0)
         fill = TIER_FILL.get(tier)
+        # raw 모드 — 이미 확정된 G열 본문을 그대로 싣는다.
+        # 기존 시트를 보완만 할 때 카드 서식을 우리 쪽으로 개조하지 않기 위한 통로다.
+        if ep.get("g"):
+            data(ws, r, "F", ep.get("ep"), center=True, fill=fill)
+            data(ws, r, "G", ep["g"], fill=fill)
+            data(ws, r, "H", ep.get("treatment"))
+            continue
         kws = ep.get("keywords") or []
         if not 2 <= len(kws) <= 4:
             warn.append("EP{0}: 키워드 {1}개 (2~4)".format(ep.get("ep"), len(kws)))
@@ -295,7 +302,9 @@ def build_blocks(ws, spec, start):
     for blk in spec.get("fakes") or []:
         kind = blk.get("kind")
         no = blk.get("no", "")
-        if kind == "ai":
+        if blk.get("head"):                     # 확정된 밴드 문구를 그대로 싣는 통로
+            head = blk["head"]
+        elif kind == "ai":
             head = "AI 신규 생성 페이크 {0} — {1} [{2}]".format(no, blk.get("title", ""), blk.get("spec", ""))
             if "초" not in str(blk.get("spec", "")):
                 warn.append("AI 페이크 {0}: 총 길이(초) 미표기".format(no))

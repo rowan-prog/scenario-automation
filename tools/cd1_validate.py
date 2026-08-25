@@ -114,7 +114,9 @@ def parse_script(path):
     starts = {}
     for i, line in enumerate(lines, 1):
         m = re.match(r"^#\s*Episode\s+(\d+)", line)
-        if m:
+        if not m:                       # 외부 대본 헤더 — EP.01 / EP01 / 제1화 / 1화 / 第1集
+            m = re.match(r"^\s*(?:EP\s*\.?\s*|제\s*|第\s*)(\d+)\s*(?:화|집|集)?\s*$", line)
+        if m and int(m.group(1)) not in starts:
             starts[int(m.group(1))] = i
 
     eps = sorted(starts)
@@ -175,14 +177,14 @@ def collect_blocks(ws, bands):
     for i, (row, text) in enumerate(bands):
         head = text or ""
         kind = None
-        if head.startswith("MKT Idea") or head.startswith("MKT Selling Point"):
-            kind = "mkt"
+        if "Fake MKT Idea" in head:
+            kind = "fake_generic"
         elif head.startswith(FAKE_AI):
             kind = "ai"
         elif head.startswith(FAKE_REUSE):
             kind = "reuse"
-        elif "Fake MKT Idea" in head:
-            kind = "fake_generic"
+        elif re.search(r"MKT\s*(?:Idea|IDEA)|MKT Selling Point", head):
+            kind = "mkt"
         if not kind:
             continue
         end = band_rows[i + 1] if i + 1 < len(band_rows) else ws.max_row + 1
@@ -294,12 +296,21 @@ def all_cells(ws):
 def gate_language(ws, rep):
     cells = list(all_cells(ws))
 
+    # 같은 글자지만 뜻이 다른 어법 — 오탐이라 제외한다 (근거 = My Billion-Dollar Reset 실측)
+    VERB_EXEMPT = {
+        "튕겨": ["손가락을 튕겨", "손가락 튕겨"],   # 시간 되감기 = 스냅. '튕겨 나간다'와 다른 동사다
+        "번지": ["피가 번지", "피가 터져 번지", "번지는 피", "손자국이 번지"],  # 대본 원문 표현
+    }
+
     def scan(table):
         hits = []
         for loc, text in cells:
             for bad, fix in table.items():
-                if bad in text:
-                    hits.append("{0}: '{1}' → {2}".format(loc, bad, fix))
+                if bad not in text:
+                    continue
+                if any(x in text for x in VERB_EXEMPT.get(bad, [])):
+                    continue
+                hits.append("{0}: '{1}' → {2}".format(loc, bad, fix))
         return hits
 
     v = scan(BANNED_VERBS)
@@ -382,7 +393,8 @@ def gate_cast(ws, bands, rep):
         body = ws["B" + str(r)].value
         if not name or not body:
             continue
-        if re.search(r"villain|빌런", str(name), re.I) and not re.search(r"EP[.\s]?\d+", str(body)):
+        # B열은 한국어 칸이라 'EP44'만이 아니라 '44화에서'로도 쓴다
+        if re.search(r"villain|빌런", str(name), re.I) and not re.search(r"EP[.\s]?\d+|\d+\s*화", str(body)):
             bad.append("A{0}: 빌런 몰락 회차 미표기".format(r))
     rep.add("G12 CAST 빌런 몰락 회차", not bad, "; ".join(bad))
 
