@@ -283,20 +283,12 @@ def build_blocks(ws, spec, start):
         band(ws, r, "ABCD", blk.get("head") or (MKT_HEAD_PREFIX + blk.get("axis", "")))
         subhead(ws, r + 1, ["EP"] + SCENE_HEAD)
         r += 2
-        rows = blk.get("rows") or []
-        noline = 0
-        for row in rows:
-            kr = row.get("kr") or ""
-            if '"' not in kr and "“" not in kr and "「" not in kr:
-                noline += 1
+        for row in blk.get("rows") or []:
             data(ws, r, "A", row.get("ep"), center=True)
-            data(ws, r, "B", kr or None)
+            data(ws, r, "B", row.get("kr"))
             data(ws, r, "C", row.get("en"))
             data(ws, r, "D", row.get("cn"))
             r += 1
-        if rows and noline * 2 > len(rows):
-            warn.append("MKT '{0}': 대사 없는 행 {1}/{2} — 절반 넘으면 소재가 안 된다 (표준 §3-7)".format(
-                blk.get("axis") or blk.get("head") or "?", noline, len(rows)))
         wipe(ws, r, "ABCD")
         r += 1
 
