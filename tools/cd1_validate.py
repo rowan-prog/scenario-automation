@@ -488,8 +488,9 @@ def gate_format(ws, bands, cards, rep):
         if got is None or abs(got - want) > 0.5:
             bad.append("{0}열 너비 {1} (기대 {2})".format(col, got, want))
     g_width = ws.column_dimensions["G"].width if "G" in ws.column_dimensions else None
-    if cards and any("[장면]" in c["g"] for c in cards.values()) and (g_width or 0) < 40:
-        bad.append("G열 너비 {0} — [장면]을 쓰면 45.5".format(g_width))
+    # G = 템플릿 원본 16.5 고정. 넓히면 팀 워크북에 붙였을 때 우리 탭만 어긋난다 (표준 §2-3).
+    if g_width is None or abs(g_width - 16.5) > 0.01:
+        bad.append("G열 너비 {0} — 템플릿 원본 16.5 이어야 한다".format(g_width))
 
     rep.add("G17 서식 규격", not bad, "; ".join(bad[:8]) + (" …외 {0}건".format(len(bad) - 8) if len(bad) > 8 else ""))
 

@@ -30,7 +30,14 @@ BORDER_RGB = "FFC9C9C9"
 TIER_FILL = {3: "FFEA9999", 2: "FFF9CB9C", 1: "FFFFE599"}
 TIER_STAR = {3: "★★★", 2: "★★", 1: "★"}
 
-COL_WIDTH = {"A": 33.13, "B": 35.13, "C": 38.13, "D": 42.38, "G": 45.5, "H": 51.5}
+COL_WIDTH = {"A": 33.13, "B": 35.13, "C": 38.13, "D": 42.38, "G": 16.5, "H": 51.5}
+# G=16.5 는 템플릿 원본값. 넓히면 팀 워크북에 붙였을 때 우리 탭만 어긋난다 (표준 §2-3).
+
+STATUS = {
+    "not_started": "⚪ 작성대기 / Not Started",
+    "in_progress": "🟡 작성중 / In Progress",
+    "complete": "🟢 작성완료 / Complete",
+}
 
 THIN = Side(style="thin", color=BORDER_RGB)
 BOX = Border(left=THIN, right=THIN, top=THIN, bottom=THIN)
@@ -161,6 +168,15 @@ def data(ws, row, col, value, center=False, fill=None, bold=False, guide=False):
 
 def build_overview(ws, spec):
     band(ws, 1, "ABC", spec.get("title") or spec["tab"])
+    st = spec.get("status", "complete")
+    if st not in STATUS:
+        raise SystemExit("status 는 " + " / ".join(STATUS) + " — 받은 값: " + repr(st))
+    d1 = ws["D1"]
+    d1.value = STATUS[st]
+    d1.fill = NO_FILL
+    d1.font = Font(name=FONT_NAME, size=11, bold=True)
+    d1.alignment = TOP_LEFT
+    d1.border = NO_BORDER
     band(ws, 3, "ABC", "Title Overview", merge=False)
     ov = spec.get("overview") or {}
     for i, (key, text) in enumerate(OVERVIEW_ROWS):
@@ -262,15 +278,25 @@ def build_blocks(ws, spec, start):
     r = start
     warn = []
     for blk in spec.get("mkt_ideas") or []:
-        band(ws, r, "ABCD", MKT_HEAD_PREFIX + blk.get("axis", ""))
+        # head 를 주면 밴드 문구를 통째로 갈아 끼운다(모범 탭 방식).
+        # 안 주면 템플릿 원문 + 축 이름.
+        band(ws, r, "ABCD", blk.get("head") or (MKT_HEAD_PREFIX + blk.get("axis", "")))
         subhead(ws, r + 1, ["EP"] + SCENE_HEAD)
         r += 2
-        for row in blk.get("rows") or []:
+        rows = blk.get("rows") or []
+        noline = 0
+        for row in rows:
+            kr = row.get("kr") or ""
+            if '"' not in kr and "“" not in kr and "「" not in kr:
+                noline += 1
             data(ws, r, "A", row.get("ep"), center=True)
-            data(ws, r, "B", row.get("kr"))
+            data(ws, r, "B", kr or None)
             data(ws, r, "C", row.get("en"))
             data(ws, r, "D", row.get("cn"))
             r += 1
+        if rows and noline * 2 > len(rows):
+            warn.append("MKT '{0}': 대사 없는 행 {1}/{2} — 절반 넘으면 소재가 안 된다 (표준 §3-7)".format(
+                blk.get("axis") or blk.get("head") or "?", noline, len(rows)))
         wipe(ws, r, "ABCD")
         r += 1
 
@@ -346,6 +372,7 @@ def build(spec, template_path, out_path):
 
 EXAMPLE = {
     "tab": "One Night with the Dragon Lord",
+    "status": "complete",
     "title": "One Night with the Dragon Lord",
     "overview": {
         "title": {"kr": "One Night with the Dragon Lord", "en": "One Night with the Dragon Lord"},

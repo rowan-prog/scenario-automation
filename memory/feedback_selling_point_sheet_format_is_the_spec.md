@@ -5,10 +5,16 @@ metadata:
   node_type: memory
   type: feedback
   originSessionId: d6cd8dd0-c132-4beb-bbd3-7a9c8b7d16b0
-  modified: 2026-08-19T09:59:04.238Z
+  modified: 2026-08-25T00:00:00.000Z
 ---
 
-CD1 셀링 포인트 작업은 **팀 공용 템플릿(`[EN_AI] Selling Point_Template`)의 실측 서식이 규격**이고, 우리 탭은 마케팅팀 마스터(`US Marketing Selling Point.xlsx`, 작품당 탭 80여 개)에 붙는다. 규격 본문 = `config/40_selling_point_standard.md`.
+CD1 셀링 포인트 작업은 **팀 공용 템플릿의 실측 서식이 규격**이고, 우리 탭은 그 워크북에 탭 하나로 붙는다. 규격 본문 = `config/40_selling_point_standard.md`.
+
+**🚨 기준 파일 = `C:\Users\Rowan\Downloads\[EN_AI] Selling Point_Template.xlsx` (2026-08-25 사용자 재지정).** 구판 `… (1).xlsx`도, 내가 예전에 낸 산출물도 기준이 아니다. 이 파일 = `Template` + 작품 10탭(담당자별로 관행이 다르다). **뼈대·색·좌표 = `Template` 탭 / 내용 모범 = `One Night with the Dragon Lord` 탭**(사용자: "그것도 물론 아쉬울 순 있겠지만"). 다른 팀 탭의 MKT 칸은 한 줄 메모·기계번역 수준이라 바닥이지 본이 아니다.
+
+**🚨 MKT Idea = 컷별 스토리보드다 (사용자: "페이크든 페이크가 아니든").** 좋은 장면 목록이 아니라 위에서 아래로 이어 붙이면 소재가 완성되는 순서지. 3요건 = ①컷별로 스토리텔링이 선다 ②컷과 컷의 연결이 자연스럽다(행 순서 = 편집 순서·강도 하강 금지·마지막이 가장 세거나 질문) ③대사가 맛깔나다(각 행에 원문 대사·대사 없는 행이 절반 넘으면 소재 불가). 빌더가 ③을 경고로 잡는다.
+
+**열 너비 정정:** G = **16.5**(템플릿 원본). 예전에 `[장면]`이 안 읽힌다고 45.5로 넓혔는데(TITAN BORN 탭) 워크북에 붙으면 그 탭만 어긋난다 — 모범 탭도 16.5다. `D1` = 작성 상태 셀(⚪ 작성대기 / 🟡 작성중 / 🟢 작성완료).
 
 **Why:** 2026-08-19 템플릿 전수 실측으로 확인한 것 — 내 지난 산출물 2개(TITAN BORN·Dragon Lord)에서 같은 결함이 반복됐다.
 
