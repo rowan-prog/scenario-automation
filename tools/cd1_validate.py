@@ -509,6 +509,47 @@ def gate_format(ws, bands, cards, rep):
 
 # ---------------------------------------------------------------- 진입점
 
+# --------------------------------------------------------------- G18 (표준 §0-1)
+
+TOTALIZING = ["이 작품의 전부", "가 전부다", "이 전부다", "핵심은 ", "축이 둘", "축이 하나",
+              "유일한 축", "전부라고 보면", "다름 아니라"]
+COINAGE = ["태워 본다", "태워본다", "화면의 대상", "전면에 세운다", "소구가 죽", "살아난다",
+           "그대로 태워", "물건이 된다"]
+PREACHING = ["해야 한다", "해야한다", "쓸 것", "말 것", "하지 마라", "명심", "잊지 말", "유의할 것"]
+
+
+def gate_prose(ws, bands, rep):
+    """§0-1 반복 사고 6종 중 기계로 잡히는 것 — 총괄 선언 · 자작 조어 · 훈계 · CAST 회차 연표."""
+    hits = []
+    for loc, text in all_cells(ws):
+        if not loc[0] in "BC":
+            continue
+        for w in TOTALIZING:
+            if w in text:
+                hits.append("{0}: 총괄 선언 '{1}'".format(loc, w))
+        for w in COINAGE:
+            if w in text:
+                hits.append("{0}: 자작 조어 '{1}'".format(loc, w))
+        for w in PREACHING:
+            if w in text:
+                hits.append("{0}: 훈계 어법 '{1}'".format(loc, w))
+    # CAST 주연 행이 회차 연표가 된 경우
+    start = next((r for r, t in bands if t.strip() == "CAST/CHARACTER"), None)
+    if start is not None:
+        end = next((r for r, _ in bands if r > start), ws.max_row)
+        for r in range(start + 2, end):
+            name = str(ws["A" + str(r)].value or "")
+            body = str(ws["B" + str(r)].value or "")
+            if not name or not body:
+                continue
+            if re.search(r"villain|빌런", name, re.I):
+                continue                      # 빌런은 가해·몰락 회차를 쓴다 (§3-5)
+            n = len(re.findall(r"\d+\s*화(?:에서|에|부터)", body))
+            if n >= 3:
+                hits.append("B{0}: 회차 연표 {1}건 — 성격·행동·관계 요약으로".format(r, n))
+    rep.add("G18 반복 사고 필터", not hits, "; ".join(hits[:8]))
+
+
 def main():
     sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8")
     ap = argparse.ArgumentParser()
@@ -548,6 +589,7 @@ def main():
     gate_fake(ws, blocks, script, rep)
     gate_fill(cards, rep)
     gate_format(ws, bands, cards, rep)
+    gate_prose(ws, bands, rep)
 
     print(rep.render())
     print("")
