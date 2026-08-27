@@ -49,7 +49,7 @@ TROPE = [
     "위장 결혼", "계약 결혼", "계약결혼", "가짜 약혼", "가짜 신부", "정략결혼", "비밀 결혼", "대리 신부", "하룻밤", "동침", "회귀", "다시 태어나",
     "환생", "타임리프", "시간을 되돌리", "잠입", "정체를 숨긴", "신분을 숨기", "정체", "비밀", "복수", "배신", "불륜", "외도", "이혼",
     "억만장자", "재벌", "마피아", "늑대인간", "뱀파이어", "알파", "루나", "저주", "운명의 짝", "제물", "팔린", "팔려", "빼앗", "되찾", "집착",
-    "금지된", "금기", "유혹", "목줄", "노예", "거지", "사기꾼", "누명", "감옥", "옥살이", "암살", "죽음", "죽고", "살아남", "각성", "능력", "보인다", "보이는",
+    "금지된", "금기", "유혹", "목줄", "노예", "거지", "사기꾼", "누명", "감옥", "옥살이", "암살", "죽음", "죽고", "죽을", "살아남", "살리", "살려", "각성", "능력", "보인다", "보이는", "보이기", "보인 뒤", "보였다", "수명", "마지막 날", "남편이 된", "남편이라",
 ]
 CONNECTIVE_SPLIT = re.compile(r"(?<=[.!?…])\s+|(?<=[.!?])(?=[가-힣A-Za-z\"'「])")
 NAME_RE = re.compile(r"[가-힣]{2,4}(?=[은는이가을를의와과도만에게]|\s|[,.!?]|$)")
@@ -75,7 +75,8 @@ def count_names(t: str):
     return sorted(cands)
 
 
-COMMON = set("""남편 아내 여자 남자 사랑 배신 복수 비밀 정체 운명 진실 결혼 이혼 인생 세계 가족 자신 그녀 그들 우리 이야기 사람 자리 그날 그날밤 이번 과거 현재 미래 상대 상사 동료 라이벌
+COMMON = set("""병원비 보이 숫자 집안 눈 값 수명 좌판 은화 동전 병상 수표 서류 도장 잔치 계단 복도 마스크 산소마스크 전처 배달부 여회장 애인 병원장 새 남자 그날 그날밤 하루 오늘 며칠 그때 그해
+남편 아내 여자 남자 사랑 배신 복수 비밀 정체 운명 진실 결혼 이혼 인생 세계 가족 자신 그녀 그들 우리 이야기 사람 자리 그날 그날밤 이번 과거 현재 미래 상대 상사 동료 라이벌
 회장 억만장자 재벌 마피아 두목 보스 알파 루나 왕자 공주 여왕 황제 제독 장군 기사 신부 신랑 하녀 하인 시녀 집사 청소부 의사 변호사 형사 기자 교수 학생 소녀 소년 상속녀 상속자 후계자 대통령 스타 톱스타
 아들 딸 엄마 아빠 어머니 아버지 언니 동생 여동생 오빠 삼촌 절친 친구 자매 쌍둥이 부모 할머니 시어머니 장모 사위 계부 의붓오빠 의붓아들 의붓언니
 저택 호텔 병원 학교 회사 요트 배 섬 바다 숲 벙커 감옥 왕좌 왕관 목줄 유산 제국 도시 시카고 서울 파리 호주 뉴욕 카리브해 이태원
@@ -168,13 +169,19 @@ def stats():
         print(f"  {len(l):>3}자 | {t} | {l}")
 
 
-def extract_md(path):
+def extract_md(path, drop_reason=False):
+    """'번호. 후보' 줄만 뽑는다. drop_reason=True(agent 원출력 '번호. 후보 — 근거')면 마지막 ' — ' 뒤를 버린다.
+    기본값은 자르지 않는다 — P3 골격(대시 반전)이 후보 본문에 ' — '를 품기 때문."""
     out = []
     with open(path, encoding="utf-8") as f:
         for line in f:
-            m = re.match(r"^\s*\d+[.)]\s*(.+?)(?:\s+[—–-]{1,2}\s+.*)?$", line.strip())
-            if m:
-                out.append(m.group(1).strip().strip('"“”'))
+            m = re.match(r"^\s*\d+[.)]\s*(.+?)\s*$", line.strip())
+            if not m:
+                continue
+            t = m.group(1)
+            if drop_reason and " — " in t:
+                t = t.rsplit(" — ", 1)[0]
+            out.append(t.strip().strip('"“”'))
     return out
 
 
@@ -183,7 +190,8 @@ def main():
     ap.add_argument("--stats", action="store_true")
     ap.add_argument("--text")
     ap.add_argument("--file")
-    ap.add_argument("--md", action="store_true", help="번호. 후보 — 근거 형식에서 후보만 추출")
+    ap.add_argument("--md", action="store_true", help="'번호. 후보' 줄만 추출 (라운드 파일)")
+    ap.add_argument("--md-reasons", action="store_true", help="agent 원출력 '번호. 후보 — 근거'에서 근거를 떼고 추출")
     a = ap.parse_args()
     if a.stats:
         stats(); return
@@ -191,8 +199,8 @@ def main():
     if a.text:
         cands = [a.text]
     elif a.file:
-        if a.md:
-            cands = extract_md(a.file)
+        if a.md or a.md_reasons:
+            cands = extract_md(a.file, drop_reason=a.md_reasons)
         else:
             with open(a.file, encoding="utf-8") as f:
                 cands = [l.strip() for l in f if l.strip() and not l.startswith("#")]
