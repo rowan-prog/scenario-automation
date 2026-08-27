@@ -1,0 +1,90 @@
+{
+ "1": {
+  "seriesId": 276333,
+  "m3u8": "https://saros-tv.com/s_series/v03242g10064d9c9i2q7dld6qnp95910/977a13aba15e4b5dbe0b296de3b4bebd/main.m3u8",
+  "api": 200,
+  "m3u8_status": 200,
+  "duration_s": 239.8,
+  "segments": 48,
+  "subtitle_tracks": 0,
+  "variants": 0,
+  "is_master": false
+ },
+ "2": {
+  "seriesId": 276353,
+  "m3u8": "https://saros-tv.com/s_series/v02242g10064d9c9i827dld7c4c55c30/370ace2272fc40dc8bdc4e26442715d1/main.m3u8",
+  "api": 200,
+  "m3u8_status": 200,
+  "duration_s": 295.7,
+  "segments": 60,
+  "subtitle_tracks": 0,
+  "variants": 0,
+  "is_master": false
+ },
+ "3": {
+  "seriesId": 276553,
+  "m3u8": "https://saros-tv.com/s_series/v03242g10064d9c9iia7dld69i2at2f0/8efdfcea8ac94ad2966456b4245495e4/main.m3u8",
+  "api": 200,
+  "m3u8_status": 200,
+  "duration_s": 266.0,
+  "segments": 54,
+  "subtitle_tracks": 0,
+  "variants": 0,
+  "is_master": false
+ },
+ "4": {
+  "seriesId": 276552,
+  "m3u8": "https://saros-tv.com/s_series/v02242g10064d9c9j327dldd0f1s77mg/c1089c50399447069a512bd148647475/main.m3u8",
+  "api": 200,
+  "m3u8_status": 200,
+  "duration_s": 224.1,
+  "segments": 45,
+  "subtitle_tracks": 0,
+  "variants": 0,
+  "is_master": false
+ },
+ "5": {
+  "seriesId": 276367,
+  "m3u8": "https://saros-tv.com/s_series/v02242g10064d9c9jbi7dlddkl3g8vm0/415b304c87e6423f99cc3f39b34f126e/main.m3u8",
+  "api": 200,
+  "m3u8_status": 200,
+  "duration_s": 198.3,
+  "segments": 40,
+  "subtitle_tracks": 0,
+  "variants": 0,
+  "is_master": false
+ },
+ "6": {
+  "seriesId": 276532,
+  "m3u8": "https://saros-tv.com/s_series/v02242g10064d9c9jcq7dldbto32ku50/4d8cd4039fc04d4f8738910084bb9f55/main.m3u8",
+  "api": 200,
+  "m3u8_status": 200,
+  "duration_s": 158.2,
+  "segments": 32,
+  "subtitle_tracks": 0,
+  "variants": 0,
+  "is_master": false
+ },
+ "7": {
+  "seriesId": 276350,
+  "m3u8": "https://saros-tv.com/s_series/v03242g10064d9c9jd27dld6h0is96q0/fd9e9f7074b8441dbf60d56dde630e91/main.m3u8",
+  "api": 200,
+  "m3u8_status": 200,
+  "duration_s": 147.6,
+  "segments": 30,
+  "subtitle_tracks": 0,
+  "variants": 0,
+  "is_master": false
+ },
+ "8": {
+  "seriesId": 277386,
+  "m3u8": "https://saros-tv.com/s_series/v02242g10064d9d0uca7dldbrtl7b8og/7a50691a427a4ee6bd3d771ae5dc6d34/main.m3u8",
+  "api": 200,
+  "m3u8_status": 200,
+  "duration_s": 105.3,
+  "segments": 22,
+  "subtitle_tracks": 0,
+  "variants": 0,
+  "is_master": false
+ }
+}
