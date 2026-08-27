@@ -1,5 +1,7 @@
 # Phase A-1 — 각색 방향 청사진 (부가 트랙 A · 2026-07-10 전면 개정)
 
+> **🚨 2026-08-27 라우팅:** 각색 실행 절차 = skill **`/adapt <원작> <모드 ①verbatim|②치환> [EP범위]`**(`.claude/skills/adapt/SKILL.md`). **모드 없이 진입 금지**(두 모드는 정반대 룰). 프로즈 = opus agent 배치(effort medium·논문병 가드레일·원작 직역 나란히) · 잔재/골격 = consistency-sweeper(sonnet·high) · 이중 귀 = tts-literal-ear(haiku)+native-ear(opus) — **메인 직접 프로즈 금지.** 검수 = `/adaptation-review`(adaptation-fidelity-auditor 전수) → `/script-review light`. 대사 = `10_writing` §D-2-1 직설(완곡·비유·큐의존 = 결함). 작업 모델 = opus/sonnet/haiku만.
+
 > 구판(production_guide.md 섹션 체계 참조)은 `config/_archive_2026-06-10/` 성격의 잔재였음 — 폐기.
 > 현행 표준 = **`config/00_vertical_dna.md` → `config/10_writing_standard.md` → `config/20_review_standard.md`** 3문서 + **`config/vertical_drama_hit_scripts_analysis/craft_lecture_liv_writersroom2.md` §12(각색 중티 2분법 — 각색 트랙 제1원리)**.
 

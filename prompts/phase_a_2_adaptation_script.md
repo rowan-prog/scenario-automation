@@ -1,5 +1,7 @@
 # Phase A-2 — 각색 집필 (부가 트랙 A · 2026-07-10 전면 개정)
 
+> **🚨 2026-08-27 라우팅:** 실행 = skill **`/adapt`**(위 phase_a_1 머리 참조). 배치마다 `10_writing` §A-2 기계 게이트 + consistency-sweeper 잔재/골격 + haiku 3종 → 메인 판정(원문 1:1·무판정 반영 금지). 완료 시 `/adaptation-review` + `/script-review`.
+
 > 구판(production_guide 섹션·titan v169 블록 양식 참조) = 폐기. **각색 집필도 집필이다 — 집필 표준 단일 진실 = `config/10_writing_standard.md` 전체** (진입 게이트 §A 0~6번 포함: 프로스 위임 확인·히트작 raw·강의록·State Ledger·△ 양식·연속극 구조·대사 표준·기계 게이트 전부 동일). 이 문서는 각색 고유 델타만 담는다.
 
 ## 각색 고유 델타 (10_writing_standard 위에 얹는 것)

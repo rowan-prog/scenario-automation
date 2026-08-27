@@ -18,7 +18,7 @@ metadata:
 **How to apply:**
 - **독자 3종 판정** = 꼼꼼히(문장마다 사건) / 대충(명사만 주워도 이야기가 섬) / 이해 못 함(되감기 0·중학생 어휘). 셋 다 통과. 본문 = `config/50_logline_standard.md` §1·§6.
 - **게이트** = 한국어 산출물 전부(로그라인·기획안·트리트먼트·셀링포인트·작가 코멘트·반박서) 발송 전 skill `/plain-gate` — `plain-reader`(haiku·effort low)가 문장마다 "누가/누구에게/무엇을/어떻게 됐다" 재진술 · `못 함`(비유·모르는 말·주어 없음·원관념 숨김·두 갈래·너무 김) 0. plain-reader에 작품 맥락을 주면 계측기가 오염된다. **내 자가 판정("직관적이다")은 무효.** 기각하려면 코퍼스 굳은 말임을 인용으로 증명.
-- **단일 agent 금지** = 생성 유닛 ≠ 되감기 유닛 ≠ 판정 유닛. 라우팅 = CLAUDE.md 표 + `.claude/skills/`(`/logline` `/plain-gate` `/proposal-review` `/adaptation-review` `/review-audit` `/script-review`) + `.claude/workflows/logline-round.js`.
+- **단일 agent 금지** = 생성 유닛 ≠ 되감기 유닛 ≠ 판정 유닛. 라우팅 = CLAUDE.md 표 + `.claude/skills/` 10종 — **작성 4**(`/rough-proposal` `/platform-proposal` `/adapt` `/write-episodes`) · **산출 1**(`/logline`) · **검수 5**(`/plain-gate` `/proposal-review` `/adaptation-review` `/review-audit` `/script-review`) + `.claude/workflows/logline-round.js`. 사용자 2차 지적(같은 날): "로그라인만 설계 중인가? 러프기획안·기획안·각색대본·대본 검수 모든 권역" → 검수만 깔고 작성 라우팅을 빠뜨렸던 것을 채움. **권역마다 작성 skill + 검수 skill 한 쌍이 기본형.**
 - **effort 정책** = 창의(발산·후보 생성) low / 논리(판정·대조·검수) high / naive-proxy low / 집필·수술·추출·통합 medium — agent frontmatter `effort:` 핀 전 21종. **작업 모델 = opus/sonnet/haiku만 — subagent fable 배정 0**(2026-07-22 예외 폐지).
 - **검수의 검수** = `20_review` §1④ — 기획안은 `proposal-spec-auditor`(sonnet·high 체크리스트 A1~F6), 각색은 `adaptation-fidelity-auditor`(sonnet·high · 모드 ①verbatim/②치환 못 박고), 리포트·코멘트·반박서는 `review-auditor`(opus·high 지적별 7항 → 유지/격하/철회). 외부로 나가는 검수물 전부.
 - 새 룰을 적을 때 스스로 물을 것: **이 룰을 누가 재는가?** 내가 재면 안 지켜진다. 게이트(기계·다른 유닛)가 없으면 룰이 아니라 소원이다.

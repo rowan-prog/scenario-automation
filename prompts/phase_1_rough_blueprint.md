@@ -1,5 +1,7 @@
 # Step 1-1 — 러프 청사진 프롬프트
 
+> **🚨 2026-08-27 라우팅 (사용자 — "각 작업마다 지침을 확실하게 라우팅 · 단일 agent 금지 · 지침 준수 검수 필수"):** 이 단계의 실행 절차 = skill **`/rough-proposal <원안|아이디어>`**(`.claude/skills/rough-proposal/SKILL.md`). 유닛 분리 = 로그라인 `/logline` · 셀링포인트 copy-candidate-generator(opus·low) · 트리트먼트 opus 별도 인스턴스(medium) · 발상 idea-diverger(opus·low) — **메인 직접 프로즈 금지.** 제출 전 게이트 = `/plain-gate`(독자 3종 되감기 0) + `/proposal-review`(proposal-spec-auditor A1~F6 · opus 3축). 로그라인 규격 = `config/50_logline_standard.md`. 작업 모델 = opus/sonnet/haiku만.
+
 ## 역할
 신규 작품의 러프 청사진(=청사진 초안)을 생성한다.
 러프 청사진은 **피칭덱 작성의 기반이 되는 1차 작품 설계 문서**다. 피칭덱 작성에 필요한 모든 정보를 갖춰야 한다.

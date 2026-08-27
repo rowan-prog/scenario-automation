@@ -1,5 +1,7 @@
 # phase_p — 플랫폼 기획안 (러프 → 정식 제출본 · 2026-07-16 제정)
 
+> **🚨 2026-08-27 라우팅:** 실행 절차 = skill **`/platform-proposal <p0_rough>`**(`.claude/skills/platform-proposal/SKILL.md`) — 진입 게이트 → 0단계 문답 → 유닛 fan-out(opus 안목 high / opus 훅·아크 medium / sonnet 트리트먼트 low / sonnet 시놉·캐릭터 / haiku 메타) → 머지 → 기계 게이트 ①~⑩ → `/plain-gate` → `/proposal-review` → 빌드. 작업 모델 = opus/sonnet/haiku만(fable 슬롯 폐지). 메인 프로즈 금지.
+
 **트리거:** 사용자가 러프 기획안(담당자·장르·로그라인·무료회차 줄거리·레퍼런스 등)을 주고 플랫폼 제출용 정식 기획안을 요청. 산출 = 플랫폼 템플릿 구조의 **KR/中文 병기 docx** (기준 = Vigloo AI Drama Proposal Template). 실제 대본(phase_4)의 상류 문서다 — 여기서 박은 엔진·금기·트리트먼트가 집필 지시서의 씨앗이 된다.
 
 **실증 레퍼런스:** My Million-Dollar Reset (2026-07-15~16). 1차 실패 2종(외부 빌런 축 발명 → 폐기 / 원안 트리트먼트 요약 재작성+비트 발명 → "주접" 판정·전면 재작업)이 아래 대원칙의 근거.
