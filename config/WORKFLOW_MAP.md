@@ -20,26 +20,26 @@
 
 | 산출물 | 크기 | agent 상한 | 토큰 상한 | 시간 | 절차 |
 |---|---|---|---|---|---|
-| 로그라인 단독 | 한 문장 | **2** (opus 생성 1 · haiku 되감기 1) | 60k | 5분 | 후보 10 · lint · haiku · 메인 선별. sonnet 판정 유닛 금지 |
-| **러프 기획안** | **A4 1장** | **3** (opus 작성 1 · haiku 되감기 1 · 예비 1) | **150k** | **10분** | opus 1기가 통째로 씀 → lint·grep → haiku → 메인 10항 직접 대조 |
-| 플랫폼 기획안 | docx 10필드 | 8 | 500k | 40분 | phase_p 유닛표 + `/proposal-review`(45항 전수·opus 3축) |
-| 작가 발송본(기획안·트리트먼트·가이드) | 문서 | +2 | +200k | +15분 | `/proposal-review` + `/review-audit` — 외부로 나가는 것만 |
-| 회차 집필 배치(3~5화) | 대본 | 6 | 400k | 30분 | opus 프로즈 1 + haiku 3 + 기계 |
-| 각색 배치 | 대본 | 6 | 400k | 30분 | `/adapt` |
+| 로그라인 단독 | 한 문장 | **2** (opus 생성 1 · haiku 되감기 1) | 40k | **2분** | 후보 10 · lint · haiku · 메인 선별. sonnet 판정 유닛 금지 |
+| **러프 기획안** | **A4 1장** | **2** (opus 작성 1 · haiku 되감기 1) | **80k** | **3분** (사용자: "5분도 길다") | opus 1기가 통째로 씀(규칙은 지시서 인라인 · 파일 정독 = p0·원안만) → lint·grep → haiku → 메인 10항 직접 대조 |
+| 플랫폼 기획안 | docx 10필드 | 6 | 300k | 15분 | phase_p 유닛표 + `/proposal-review`(45항 전수·opus 3축) |
+| 작가 발송본(기획안·트리트먼트·가이드) | 문서 | +2 | +150k | +10분 | `/proposal-review` + `/review-audit` — 외부로 나가는 것만 |
+| 회차 집필 배치(3~5화) | 대본 | 5 | 300k | 15분 | opus 프로즈 1 + haiku 3 + 기계 |
+| 각색 배치 | 대본 | 5 | 300k | 15분 | `/adapt` |
 | 풀 LOCK | 50화 | §7 belt | 토큰 회계 §1 | — | `/script-review lock` |
 
-**원칙:** ①A4 한 장은 메인이 직접 본다 — 체크리스트 유닛을 부르지 않는다 ②작성 유닛은 산출물당 1기 — 로그라인·셀링·트리트먼트를 따로 fan-out하면 각자 표준·코퍼스를 재정독한다(5기 × 80k) ③후보는 10개면 충분 — 36개를 만들고 130k로 판정하는 건 낭비지 품질이 아니다 ④재라운드 자동 트리거 금지 — 문장 단위 수정 ⑤코퍼스 전량 정독은 표준 제정 때 한 번, agent는 골격표·등재 예시만 ⑥라운드 파일·판정표 생성 금지(러프) — meta 5줄.
+**원칙:** ①A4 한 장은 메인이 직접 본다 — 체크리스트 유닛을 부르지 않는다 ②작성 유닛은 산출물당 1기 — 로그라인·셀링·트리트먼트를 따로 fan-out하면 각자 표준·코퍼스를 재정독한다(5기 × 80k) ③후보는 10개면 충분 — 36개를 만들고 130k로 판정하는 건 낭비지 품질이 아니다 ④재라운드 자동 트리거 금지 — 문장 단위 수정 ⑤**agent에 파일 정독을 시키지 않는다 — 규칙은 지시서 안에 인라인**(표준 5개 읽는 데 2~3분이 나간다 · agent가 여는 파일 = p0·원안·원작 해당 EP뿐) ⑥라운드 파일·판정표 생성 금지(러프) — meta 5줄 ⑦시간의 기준 = opus가 A4 한 장 쓰는 데 1분·haiku가 읽는 데 30초 — 그 이상은 절차가 만든 시간이다.
 
 ## 1. 권역 × 절차 (작성 → 검수 한 쌍)
 
 | 권역 | 작성 skill | 유닛(모델·effort) | 게이트 | 검수 skill |
 |---|---|---|---|---|
-| 러프 기획안 (A4 1장) | `/rough-proposal <원안>` — **agent ≤3 · ≤150k · ≤10분** | **opus 1기가 통째로**(로그라인 후보 3 + 셀링 5~6 + 무료 8화 · 파일 직접 저장) · haiku 되감기 1 | `logline_lint` · 작업어·구설정 grep · 메인 10항 직접 대조 | (러프는 `/proposal-review` 안 태움 — 플랫폼·발송본 전용) |
+| 러프 기획안 (A4 1장) | `/rough-proposal <원안>` — **agent ≤2 · ≤80k · ≤3분** | **opus 1기가 통째로**(로그라인 후보 3 + 셀링 5~6 + 무료 8화 · 파일 직접 저장) · haiku 되감기 1 | `logline_lint` · 작업어·구설정 grep · 메인 10항 직접 대조 | (러프는 `/proposal-review` 안 태움 — 플랫폼·발송본 전용) |
 | 플랫폼 기획안 | `/platform-proposal <p0>` | 안목 opus(high) · 훅·아크 opus(medium) · 트리트먼트 sonnet(low) · 시놉·캐릭터 sonnet · 메타 haiku | 기계 게이트 ①~⑩ | `/plain-gate` → `/proposal-review` → 빌드 |
 | 각색 대본 | `/adapt <원작> <①\|②> [EP]` | 프로즈 opus(medium·원작 직역 나란히) · 잔재/골격 consistency-sweeper(sonnet·high) · 이중 귀 tts-literal-ear(haiku)+native-ear(opus·high) | `10_writing` §A-2 배치 게이트 | `/adaptation-review` → `/script-review light` |
 | 회차 집필 | `/write-episodes <작품> <EP>` | 프로즈 opus(medium) · haiku 3종(low) · 통합 final-consolidator(sonnet) | 배치 기계 게이트 7종 | `/script-review` |
 | 대본 검수 | — | `20_review` §7 belt (모드별) | Track B | `/script-review <대본> [light\|lock\|external\|writer]` → 외부 발송이면 `/review-audit` |
-| 로그라인 단독(반려 후 재라운드) | `/logline <작품>` — **agent ≤2 · ≤60k** | copy-candidate-generator(opus·low) 1기 후보 10 → `logline_lint` → plain-reader(haiku) → 메인 3 선별 | 자수·문장·금지어 | (sonnet 판정 유닛·workflow fan-out 폐기) |
+| 로그라인 단독(반려 후 재라운드) | `/logline <작품>` — **agent ≤2 · ≤40k · ≤2분** | copy-candidate-generator(opus·low) 1기 후보 10 → `logline_lint` → plain-reader(haiku) → 메인 3 선별 | 자수·문장·금지어 | (sonnet 판정 유닛·workflow fan-out 폐기) |
 | 모든 한국어 산출물 | — | plain-reader(haiku·low) | 재진술 `못 함` 0 | `/plain-gate <파일>` |
 | 검수물(리포트·코멘트·반박서) | — | review-auditor(opus·high · 리포트 안 쓴 인스턴스) | 지적별 7항 | `/review-audit <리포트> <원문>` |
 
