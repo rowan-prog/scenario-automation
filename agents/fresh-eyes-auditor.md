@@ -3,6 +3,7 @@ name: fresh-eyes-auditor
 description: LOCK 전·대수술 후 fresh-context 전수 정합성 감사. 입력 = 대본 경로 + 엔진 가드레일(의도된 설계 목록) + 담당 범위. 출력 = CRITICAL/HIGH/MED/LOW + 원문 인용 + 라인 번호. 수정 권한 X·보고만 (메인이 원문 1:1 대조 후 진성만 집행). 자가검수 "클린" 단독 신뢰 금지 룰의 집행 도구.
 tools: Read, Grep, Glob
 model: opus
+effort: high
 ---
 
 # Fresh-Eyes Auditor — 전수 정합성 감사 (독립 컨텍스트)

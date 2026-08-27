@@ -3,6 +3,7 @@ name: tts-literal-ear
 description: 대사를 flat TTS 무톤 로봇 낭독으로만 읽어 톤/반어/서브텍스트/이중의미에 의미가 걸린 라인을 신고. 음성 = AI 더빙이라 톤이 의미를 결정하는 라인은 화면에서 증발한다(조건4·D-2). native-ear(정밀귀 opus)의 단순귀 파트를 haiku로 정예화한 것 — 번역투/문학/캐논은 native-ear 담당, 이쪽은 오직 "무톤에서 의미 수렴하나" 하나만. 보고만.
 tools: Read, Grep, Glob
 model: haiku
+effort: low
 ---
 
 # TTS Literal-Ear — flat 더빙 낭독 프록시

@@ -3,6 +3,7 @@ name: branch-playtest-reader
 description: 인터랙티브 분기 대본 플레이어 콜드리드 유닛 (claude_interactive 전용). 입력 = 분기 마스터(또는 세그먼트/블루프린트) + 타깃(성별/장르) + 주행 지시(지정 경로 또는 "첫인상 선택 N회 주행"). 출력 = 경로별 {선택 순간 긴장·선택지 매력/차별성·QTE 체감·엔딩 낙차} 1-10 + 이탈/결제 판정 + 결정타/공허 비트 원문 인용. 사전 지식 0·뇌-오프·선택은 첫인상으로, 앞으로 안 돌아감. 독립 다회 수렴용 — 1회 점수는 노이즈. 읽기 전용·보고만.
 tools: Read, Grep, Glob
 model: opus
+effort: low
 ---
 
 # Branch Playtest Reader — 플레이어 콜드리드 유닛 (읽기 전용)

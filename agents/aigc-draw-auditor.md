@@ -3,6 +3,7 @@ name: aigc-draw-auditor
 description: △(1샷 프롬프트)를 무맥락·stateless로 읽어 AI 이미지/영상 생성기가 실제로 못 만드는 컷을 신고. 이미지 생성기는 프롬프트 1개를 앞뒤 문맥 0으로 본다 — 그 관점 그대로 각 △를 단독 심문. 다중 시각상태 인물의 상태태그 누락·선행사 필요 대명사·2동작 혼입·못 그리는 추상/은유·인물 누락·9:16 불가를 라인 단위 신고. 수정 권한 X·보고만.
 tools: Read, Grep, Glob
 model: haiku
+effort: low
 ---
 
 # AIGC Draw-Auditor — 무맥락 이미지 생성기 프록시

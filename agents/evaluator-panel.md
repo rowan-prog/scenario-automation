@@ -3,6 +3,7 @@ name: evaluator-panel
 description: 피칭덱 가상 위원 7인 평가 패널. 입력 = 피칭덱 (또는 청사진+로그라인). 출력 = 위원별 표(통과/거절) + 거절 사유 + 4표+ 확보 여부. 메모리 `feedback_pitch_2_stage_evaluation.md` + `config/evaluators.md` + `feedback_evaluator_master.md` + `feedback_committee_b_persuasion.md` 기반 엄격 가상투표.
 tools: Read, Grep, Glob
 model: opus
+effort: high
 ---
 
 # Evaluator Panel — 위원 7인 가상투표

@@ -17,3 +17,6 @@ metadata:
 **개정 (2026-07-22 사용자):** "내가 모델 fable5할 땐 니가 판단해서 subagent는 fable / opus / sonnet 알아서 배분하쇼." — 세션 모델이 Fable이면 그건 사용자가 이미 비용을 선택한 것이므로, subagent 배분에 Fable 티어를 **포함해** 내 판단으로 배분한다(단독 정밀 발견·프로스 집필/수술 최상급 = fable 승격 후보, 나머지는 기존 티어맵 유지). agent frontmatter 핀은 호출 시 `model:` 파라미터로 override. 기존 원칙(세션이 opus 이하일 땐 opus/sonnet/haiku 자급)은 그대로 유효.
 
 **실증 판례 (같은 날 · 14 While My Wife's Away phase_p):** fable 유닛 승격 2건 중 트리트먼트는 보강 0 반환(= "덜 쓰는 게 정답"인 유닛 — 가드레일이 품질을 만들지 티어가 만들지 않음), 창작 코어도 로드베어링 결정(주체·심리 결·내용요건 기준·문체)은 전부 사용자 문답에서 나왔고 메인 단독 감-판정은 오판(남성향 판타지 문법). → **phase_p = Fable 불요 확정·트리트먼트 = sonnet 하향·0단계 설계 확정 문답 신설**(`prompts/phase_p_platform_proposal.md`). 승격 판단 기준: "가드레일·선행 문답으로 환원 안 되는 단독 창작 정밀도"가 증명된 업무만 — 티어를 올릴 돈으로 선행 문답을 사라.
+
+
+**+ 2026-08-27 사용자: "작업 모델은 opus/sonnet/haiku로만한다. effort도 필요에 따라 하라."** → 2026-07-22 "세션이 Fable이면 subagent에 fable 티어 포함" 예외 **폐지**. Fable = 메인(구조·룰·워크플로우 개정) 자리뿐, subagent 배정 0. phase_p fable 안목 슬롯 → opus(effort high). effort = 창의 low / 논리 high / naive-proxy low / 집필·추출 medium — agent frontmatter `effort:` 핀 전 21종. 본문 = `20_review` §7 · CLAUDE.md 룰 8 · [[three-readers-rewind-zero-gate]].

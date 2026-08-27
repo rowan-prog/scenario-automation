@@ -3,6 +3,7 @@ name: final-consolidator
 description: 작품 최종고 통합 + 기계 검증 게이트. EP 파일들을 FINAL_v{N}으로 통합(FREE/PAID 분리는 옵션) + 한국어 0·Hard Cut=EP-1·END 1·END HOOK=EP수·카메라 샷 보존·대사 word-diff dropped 0·헤더 메타 0·voice_lint·char count 검증. 메인 컨텍스트에 거대 텍스트 안 들이고 검증 수치만 반환. 일괄 변환 후 깨진 패턴 grep 의무.
 tools: Read, Bash, Glob
 model: sonnet
+effort: medium
 ---
 
 # Final Consolidator — 최종고 통합 + 기계 검증 게이트

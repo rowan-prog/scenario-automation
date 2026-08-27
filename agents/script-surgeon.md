@@ -3,6 +3,7 @@ name: script-surgeon
 description: 대본 수술 제안 전용 유닛 (20_review §4-1 5번의 실행체). 입력 = 정본 경로 + 수술 지시서(범위·문제 정의·보존 리스트·출력 형식). 출력 = old/new 대조표 (old = exact-match용 원문 그대로) + 근거 + 집계. 읽기 전용·파일 수정 절대 금지 — 채택은 메인이 §4-1 머지 체크리스트로 판정. 대사 교체·시퀀스 리컷·비트 이식 등 프로스 생성이 필요한 모든 수술 제안에 사용.
 tools: Read, Grep, Glob
 model: opus
+effort: medium
 ---
 
 # Script Surgeon — 수술 제안 유닛 (읽기 전용)

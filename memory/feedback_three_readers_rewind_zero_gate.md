@@ -1,0 +1,26 @@
+---
+name: three-readers-rewind-zero-gate
+description: "기획안·대본은 사용자에게 보여주려고 쓰는 게 아니다 — 꼼꼼히 읽는 작업자 / 대충 읽는 작업자 / 이해 못 하는 사람이 읽는다. 우회·암시·원관념 해독 한 번 더 = 결함. 룰 문장으로는 수십 번 말해도 안 고쳐졌으니 게이트로 — 한국어 산출물 전부 발송 전 plain-reader(haiku·low) 재진술 `못 함` 0 (/plain-gate · CLAUDE.md 룰 7). + 단일 agent 금지·effort 정책·작업 모델 opus/sonnet/haiku만·검수의 검수(20_review §1④)."
+metadata: 
+  node_type: memory
+  type: feedback
+  originSessionId: b51c3667-c73b-486b-b399-0bfdf90403f4
+  modified: 2026-08-27T01:22:25.144Z
+---
+
+**사용자 (2026-08-27 verbatim):**
+- *"기획안, 대본을 누가 읽는다고 생각하나? 내게 보여줄려고 쓰는 것인가? 아니다. 꼼꼼히 읽는 작업자, 다른 기획자 / 대충 읽는 작업자, 다른 기획자 / 이해 잘 못하는 다른 사람들에게 보여주는 것이다. 대상을 생각하라."*
+- *"수십번 수백번 말한 것들도 지침 업데이트하였다고만 하고, 끔찍하게 이뤄진다. 특히 심각한 우회적/암시적 표현. 1번 더 그 의미, 원관념 등을 파악해내야하는 문장들. 이런 이슈가 너무 많다."*
+- *"라우팅을 제대로해라. 각 작업마다 지침들을 확실하게 라우팅하여, 분명하게 읽고 진행할 수 있도록 하라. 또한, 단일 agent로 구동하지 말고, 목적/필요에 따라 skill/도구들을 활용하고, 목적에 분명하게 맞게 subagent를 설계해놔라. 또한, 지침에 맞게 잘 되었는지도 검수가 필요하다. 너의 기획안이 잘 맞는지 검수, 각색대본이 잘 맞는지 검수, 대본 검수가 제대로 되었는지에 대한 검수 등. 작업 모델은 opus/sonnet/haiku로만한다. effort도 필요에 따라 하라. 창의적인 면은 effort가 낮은 것, 논리적인 것은 effort가 높은 것, 빠르고 꼼꼼하고 여러번이 중요한 것은 sonnet/haiku 등."*
+
+**Why (왜 룰이 안 먹혔나):** 직설 룰은 이미 셋 있었다(`10_writing` §D-2-1 ⑧ · [[no-abstract-evasive-writing]] · [[my-prose-defaults-abstract-euphemistic]]). 그런데 판정을 **쓴 내가** 했다. 나는 맥락을 다 아니까 "침대를 사수"도 직관적으로 읽힌다 — 세 번째 독자(맥락 0)의 되감기를 내가 잴 수 없다. 룰 문장을 더 쓰는 건 답이 아니고, **다른 유닛이 재는 게이트**가 답이다. naive-proxy는 작은 모델이 더 정확하다(`20_review` §7 — 똑똑한 모델은 내가 의도한 걸 알아채 줘서 보정해버린다).
+
+**How to apply:**
+- **독자 3종 판정** = 꼼꼼히(문장마다 사건) / 대충(명사만 주워도 이야기가 섬) / 이해 못 함(되감기 0·중학생 어휘). 셋 다 통과. 본문 = `config/50_logline_standard.md` §1·§6.
+- **게이트** = 한국어 산출물 전부(로그라인·기획안·트리트먼트·셀링포인트·작가 코멘트·반박서) 발송 전 skill `/plain-gate` — `plain-reader`(haiku·effort low)가 문장마다 "누가/누구에게/무엇을/어떻게 됐다" 재진술 · `못 함`(비유·모르는 말·주어 없음·원관념 숨김·두 갈래·너무 김) 0. plain-reader에 작품 맥락을 주면 계측기가 오염된다. **내 자가 판정("직관적이다")은 무효.** 기각하려면 코퍼스 굳은 말임을 인용으로 증명.
+- **단일 agent 금지** = 생성 유닛 ≠ 되감기 유닛 ≠ 판정 유닛. 라우팅 = CLAUDE.md 표 + `.claude/skills/`(`/logline` `/plain-gate` `/proposal-review` `/adaptation-review` `/review-audit` `/script-review`) + `.claude/workflows/logline-round.js`.
+- **effort 정책** = 창의(발산·후보 생성) low / 논리(판정·대조·검수) high / naive-proxy low / 집필·수술·추출·통합 medium — agent frontmatter `effort:` 핀 전 21종. **작업 모델 = opus/sonnet/haiku만 — subagent fable 배정 0**(2026-07-22 예외 폐지).
+- **검수의 검수** = `20_review` §1④ — 기획안은 `proposal-spec-auditor`(sonnet·high 체크리스트 A1~F6), 각색은 `adaptation-fidelity-auditor`(sonnet·high · 모드 ①verbatim/②치환 못 박고), 리포트·코멘트·반박서는 `review-auditor`(opus·high 지적별 7항 → 유지/격하/철회). 외부로 나가는 검수물 전부.
+- 새 룰을 적을 때 스스로 물을 것: **이 룰을 누가 재는가?** 내가 재면 안 지켜진다. 게이트(기계·다른 유닛)가 없으면 룰이 아니라 소원이다.
+
+관련: [[logline-catalog-slot-corpus]] [[agent-orchestration-tier-map]] [[fable-structure-only-pipeline-self-sufficient]] [[rebut-from-our-own-text-first]] [[audit-must-pass-hit-scripts-first]]

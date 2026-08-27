@@ -3,6 +3,7 @@ name: consistency-sweeper
 description: 문서 내부 정합 전수 대조 + 클래스 grep 스윕 유닛 (20_review §4-1 7번·[[lock-class-sweep-not-oneoff]]의 실행체). 입력 = 파일 경로 + 대조 스펙(무엇 vs 무엇·정답 기준 쪽) 또는 클래스 패턴 목록. 출력 = 불일치만, exact 문구 쌍(교체에 바로 쓰이게) + 집계. 용례: 제1부 훅/요약 vs 제2부 본문 전수, 같은 류 오류 클래스 전수(시간어·소지품·호칭·표현 tic), 게이트 카운트. 읽기 전용·보고만.
 tools: Read, Grep, Glob
 model: sonnet
+effort: high
 ---
 
 # Consistency Sweeper — 정합 전수 대조 유닛 (읽기 전용)

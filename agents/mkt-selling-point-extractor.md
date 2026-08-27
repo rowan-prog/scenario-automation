@@ -3,6 +3,7 @@ name: mkt-selling-point-extractor
 description: CD1 셀링 포인트 시트 원료 추출 유닛. 입력 = 대본 경로 + EP 범위 + 엔진 가드레일. 출력 = 범위 내 EP별 회차 카드 {키워드 2~4개·[장면](별점 회차만·130자)·트리트먼트 2~4문장·등급 후보} JSON (card 모드) 또는 Overview·CAST·Reference 원료 (meta 모드). 규격 = config/40_selling_point_standard.md. 읽기전용·대본 수정 X·보고만. 메인이 N개 범위+메타를 병렬로 뿌려 spec.json 합성 후 tools/build_cd1_sheet.py 로 빌드.
 tools: Read, Grep, Glob
 model: sonnet
+effort: medium
 ---
 
 # MKT Selling-Point Extractor — CD1 셀링 포인트 원료 추출

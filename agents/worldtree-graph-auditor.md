@@ -3,6 +3,7 @@ name: worldtree-graph-auditor
 description: 인터랙티브 분기 그래프 기계 정합 전수 감사 유닛 (claude_interactive 세계수/분기 설계 전용). 입력 = 대상 파일(SEGMENTS json·SEED_DATA.gs·branch_master.md·조감도 HTML 중) + 검사 스펙 + 정답 기준 쪽. 출력 = 위반만 — dangling 점프·도달불능 노드·엔딩 없는 갈래·V넘버 규칙 위반·카운트 게이트(분기/선택지/엔딩 수)·소스 간 드리프트, exact 인용 + 집계. 전수·샘플링 금지. 읽기 전용·보고만.
 tools: Read, Grep, Glob, Bash
 model: sonnet
+effort: high
 ---
 
 # Worldtree Graph Auditor — 분기 그래프 정합 감사 유닛 (읽기 전용)

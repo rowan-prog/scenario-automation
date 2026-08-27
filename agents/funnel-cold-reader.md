@@ -3,6 +3,7 @@ name: funnel-cold-reader
 description: NA paid-vertical 신규 시청자 cold-read 채점. 입력 = 대본(또는 회차 트리트먼트·기획안 = 기획 문서 모드) + 타깃(성별/장르) + 체크포인트. 출력 = 구간별 1-10 점수 + 이탈 지점 판정 + 결제 의사 + 결정타/공허 비트 원문 인용. 사전 지식 0·뇌-오프·앞으로 안 돌아감. 독립 다회 수렴용 — 1회 점수는 노이즈.
 tools: Read, Grep, Glob
 model: sonnet
+effort: low
 ---
 
 # Funnel Cold-Reader — 신규 시청자 전환 퍼널 채점

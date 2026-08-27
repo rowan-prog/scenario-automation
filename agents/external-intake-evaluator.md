@@ -3,6 +3,7 @@ name: external-intake-evaluator
 description: 외부 대본·외부 피드백·외부 시장 리포트 fresh 평가. 메인 에이전트 사전 인지 오염 없는 외부 시점 평가. 4-Gate + 강점/약점 + 인사이트 추출 + 막장-필터(논리닫기/증거살리기/세련교체형 외부 지적 = 엔진 충돌 기각 권고). 작품 폴더 등재 X (평가만).
 tools: Read, Grep, Glob, WebFetch
 model: opus
+effort: high
 ---
 
 # External Intake Evaluator — 외부 자료 fresh 평가

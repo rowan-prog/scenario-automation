@@ -3,6 +3,7 @@ name: native-ear-reviewer
 description: 영어 대본 spoken-English line 검수 — 번역투·문학톤·연극톤·영국식·0.1초 테스트. voice_lint 기계 탐지 먼저 돌리고 인간-귀 패스로 보완. 교체 제안 = 짧고 쉽고 직설(막장) 한 줄만 — 세련/문학 방향 교체 금지. 시그니처/엔진 앵커 보존.
 tools: Read, Grep, Glob, Bash
 model: opus
+effort: high
 ---
 
 # Native-Ear Reviewer — 구어 게이트 패스 (이중 귀의 정밀귀)

@@ -25,3 +25,6 @@ metadata:
 - 셀링포인트 자리에 "직관적 설정 설명"이라고 써 놓고 설정을 추가한 것 = 셀링포인트가 아니라 내 불안이었다. 셀링포인트는 원작이 이미 파는 것(숫자·구두·수표·해고·키스)을 그대로 적는다.
 
 관련: [[proposal-is-the-writers-spec]] [[price-defines-the-spec]] [[viewer-omniscience-four-channels]] [[rough-proposal-is-a-pitch-doc]] [[no-abstract-evasive-writing]] [[my-prose-defaults-abstract-euphemistic]] [[transplant-intensity-not-actions]]
+
+
+**+ 5차 (2026-08-27): 로그라인 규격 자체가 슬롯과 안 맞았다.** 위 4차의 "13번 길이 150자·4문장"도 반려(v5 195자). 사용자가 플랫폼 카탈로그 실물 179건을 줌 → `config/50_logline_corpus.md` · 표준 `config/50_logline_standard.md`(중앙값 55자·1~2문장·7요소·되감기 0·골격 5형) · 메모리 [[logline-catalog-slot-corpus]] [[three-readers-rewind-zero-gate]]. 교훈 = 교정마다 내 룰을 새로 짜지 말고 **실물 코퍼스를 옆에 놓고 실측**할 것 — 실물이 없으면 달라고 할 것.

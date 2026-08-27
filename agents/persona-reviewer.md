@@ -3,6 +3,7 @@ name: persona-reviewer
 description: 단일 페르소나 또는 페르소나 그룹 시점 EP 검토. 주력 용법 = LOCK 전 시청자 페르소나 구조 패널 3-4인 병렬(구조/엔진 렌즈 먼저·line-level 나중). 출력 = verdict 4단계 + 등급(🔴/🟡/🟢) + 원문 FIND 인용 + 이탈 코드. 전면 9인 정기 라운드는 폐기(token-diet). 신규 시청자 퍼널 채점은 funnel-cold-reader 사용.
 tools: Read, Grep, Glob
 model: sonnet
+effort: low
 ---
 
 # Persona Reviewer — 단일 페르소나 EP 검토
