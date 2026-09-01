@@ -84,7 +84,7 @@ TITLE_BRACKET_RE = re.compile(r'[<《]([^<>《》]{1,80})[>》]')
 NUMBER_UNIT_RE = re.compile(r'\d+(?:[.,]\d+)?\s?(?:%|억|만|천|개|건|화|년|일|회|배|위|시간|분|초|명|원|달러)')
 REF_LINE_RE = re.compile(r'레퍼런스|reference|원작', re.I)
 EP_MARKER_RE = re.compile(r'^(?:제\s?(?P<a>\d{1,3})\s*화|(?P<b>\d{1,3})\s*화|EP\.?\s?0*(?P<c>\d{1,3})(?!\d))', re.I)
-LOGLINE_LABEL_RE = re.compile(r'^(로그라인|logline)\s*[:：]?\s*(.*)$', re.I)
+LOGLINE_LABEL_RE = re.compile(r'^(로그라인|logline)(?:\s*/\s*logline)?\s*[:：]?\s*(.*)$', re.I)
 SENT_SPLIT_RE = re.compile(r'(?<=[.!?])\s+|(?<=[.!?])(?=[^\s.!?])')
 GENRE_LABEL_ENDING_RE = re.compile(r'(스릴러|로맨스|복수극|판타지|코미디|드라마|액션물?)[.]$')
 SUMMARY_ENDING_RE = re.compile(r'(?:' + '|'.join(CLIFF_SUMMARY_ENDINGS) + r')[.]?\s*$')
@@ -150,18 +150,36 @@ def sec(sections, key):
 
 
 # ── 인물 헤더 분할 (G1) ──────────────────────────────────────────────────────
+DENY_CHAR_HEADER = {"주연", "조연", "메인", "서브", "주연진", "조연진", "등장인물", "조역", "단역", "기타"}
+
+
 def is_char_header(raw_line):
     s = re.sub(r'^-\s+', '', raw_line.strip())
     if not s:
         return False
-    if len(s) > 110:
-        return False
+    if not re.search(r'[A-Za-z0-9가-힣]', s):
+        return False  # "|" 류 MHTML 표 구분선 잔재 — 텍스트가 아니므로 헤더 아님
     if s.startswith('**') and s.endswith('**') and len(s) > 4:
         return True
-    for i, ch in enumerate(s[:50]):
+    # "이름(역할)" 패턴: 이름 뒤 30자 이내 여는 괄호, 그 닫는 괄호 바로 뒤가 줄끝이거나
+    # ·/—/:/- 구분자여야 헤더다. 본문 문장 속 괄호(예: "카마르(Qamar) 왕국의 공주...")는
+    # 닫는 괄호 다음에 그냥 문장이 이어지므로 이 조건에서 걸러진다.
+    open_pos = None
+    for i, ch in enumerate(s[:30]):
         if ch in '（(':
-            return i >= 1
-    if len(s) <= 12 and not re.search(r'[.!?。,，:：]', s):
+            open_pos = i
+            break
+    if open_pos is not None and open_pos >= 1:
+        close_idx = None
+        for j in range(open_pos + 1, len(s)):
+            if s[j] in ')）':
+                close_idx = j
+        if close_idx is not None:
+            rest = s[close_idx + 1:].lstrip()
+            if rest == '' or rest[0] in '·—:：-–／/':
+                return True
+    # 괄호 없는 맨 이름 한 줄(예: "이든", "마일스") — 그룹 구분 라벨(주연/조연 등)은 제외
+    if len(s) <= 12 and not re.search(r'[.!?。,，:：]', s) and s not in DENY_CHAR_HEADER:
         return True
     return False
 
@@ -314,14 +332,27 @@ def edit_distance_dl(a, b):
     return d[la][lb]
 
 
-def name_candidates(text):
+def quoted_hangul_aliases(text):
+    """따옴표로 격리된 2~4자 한글 별칭만 뽑는다 (예: '강준서'/'강서준') — 일반 한글 조사-어미
+    패턴(HANGUL_NAME_CAND_RE)은 보통명사 오탐이 너무 많아 인명 후보로는 안 쓴다."""
     cands = set()
-    for m in HANGUL_NAME_CAND_RE.finditer(text):
-        w = m.group(0)
-        if w not in COMMON_NAME_STOP:
-            cands.add(w)
-    for m in ROMAN_NAME_CAND_RE.finditer(text):
-        cands.add(m.group(0))
+    for qre in (SINGLE_QUOTE_RE, DIALOGUE_QUOTE_RE):
+        for m in qre.finditer(text):
+            inner = m.group(1) if m.groups() else m.group(0)
+            inner = inner.strip(' "“”‘’\'')
+            if re.fullmatch(r'[가-힣]{2,4}', inner) and inner not in COMMON_NAME_STOP:
+                cands.add(inner)
+    return cands
+
+
+def name_candidates(text, known_hangul_names=frozenset()):
+    """인명 후보 = ①로만 대문자 고유명사 ②이미 인물 헤더에서 확인된 한글 이름이 본문에 등장
+    ③따옴표로 격리된 한글 별칭. 자유 한글 조사-패턴 스캔은 보통명사 오탐이 압도적이라 뺀다."""
+    cands = set(m.group(0) for m in ROMAN_NAME_CAND_RE.finditer(text))
+    for nm in known_hangul_names:
+        if nm and nm in text:
+            cands.add(nm)
+    cands |= quoted_hangul_aliases(text)
     return cands
 
 
@@ -330,15 +361,27 @@ def is_reference_line(line):
 
 
 # ── A. 필드 무결성 ────────────────────────────────────────────────────────────
+# 타이틀·담당 CM은 원래 짧은 필드(작품명·사람 이름)라 MIN_FIELD_CHARS를 그대로 적용하면
+# 항상 걸린다 — "공란이냐 아니냐"만 보고, 나머지 5개 내용 필드만 30자 기준을 적용한다.
+FIELD_MIN_CHARS = {"title": 2, "cm": 2, "basic": MIN_FIELD_CHARS, "pitch": MIN_FIELD_CHARS,
+                    "characters": MIN_FIELD_CHARS, "plot": MIN_FIELD_CHARS, "treatment": MIN_FIELD_CHARS}
+# 피칭 사유 섹션 헤더 바로 아래 고정으로 따라붙는 3문 템플릿 — 답이 하나도 안 채워져도
+# 이 질문 텍스트만으로 30자 문턱을 넘어버려 "공란"을 놓치게 만든다. 길이 측정 전에 제거.
+PITCH_BOILERPLATE_RE = re.compile(
+    r'왜\s*제작해야\s*하는(?:지|가)\??|시장성이?\s*있는지\??|크리에이티브(?:에)?\s*변별력이?\s*있는지\??|크리에이티브\s*변별력')
+
+
 def gate_F1(sections):
     empties = []
     for key, label in STANDARD_SECTION_LABELS:
         content = sec(sections, key).strip()
-        if len(content) < MIN_FIELD_CHARS:
+        if key == "pitch":
+            content = PITCH_BOILERPLATE_RE.sub('', content).strip()
+        if len(content) < FIELD_MIN_CHARS[key]:
             empties.append(f"{label}({len(content)}자)")
     if empties:
         return "FAIL", f"{len(empties)}개 필드 공란/부족 — " + " ".join(empties)
-    return "PASS", "7개 필드 전부 30자 이상"
+    return "PASS", "7개 필드 전부 기준 이상"
 
 
 def gate_F2(sections):
@@ -628,8 +671,13 @@ def gate_G16(sections):
     logline = extract_logline(basic)
     if not logline:
         return "SKIP", "로그라인 필드를 찾지 못함"
-    body_names = name_candidates(full_body)
-    logline_names = name_candidates(logline)
+    cast_hangul = set()
+    for label, _ in split_characters(sec(sections, "characters")):
+        nm = shorten_name(label)
+        if re.fullmatch(r'[가-힣]{2,4}', nm):
+            cast_hangul.add(nm)
+    body_names = name_candidates(full_body, cast_hangul)
+    logline_names = name_candidates(logline, cast_hangul)
     issues = []
     for nm in sorted(logline_names):
         if nm in full_body:
@@ -779,8 +827,9 @@ def run_stats():
         total_chars = sum(len(sec(sections, k)) for k, _ in STANDARD_SECTION_LABELS)
         dq = len(DIALOGUE_QUOTE_RE.findall(full_text))
         sq = len(SINGLE_QUOTE_RE.findall(full_text))
-        cw_total, _ = _word_hit_detail(
-            "\n".join(sec(sections, k) for k in ("characters", "plot", "treatment")), CONCEPT_WORDS)
+        # 주의: 이 forensic 표는 MAIN_FINDINGS 유닛3 원 census 방식을 재현하기 위해 전체 텍스트
+        # 스코프로 센다 (G4 게이트 자체는 피칭 사유를 제외한 좁은 스코프 — run_all_gates 쪽 참조).
+        cw_total, _ = _word_hit_detail(full_text, CONCEPT_WORDS)
         rows.append((f"E{i}", e["title"][:28], total_chars, dq, sq, cw_total))
         results = run_all_gates(sections, full_text)
         all_results.append((f"E{i}", e["title"][:28], results))
@@ -800,6 +849,10 @@ def run_stats():
         ok = (dq == expect["dq"] and sq == expect["sq"] and cw == expect["cw"])
         tag = "일치" if ok else "불일치"
         print(f"  {label}: 실측 dq={dq}/sq={sq}/cw={cw}  vs  MAIN_FINDINGS dq={expect['dq']}/sq={expect['sq']}/cw={expect['cw']}  -> {tag}")
+        if not ok and idx == 0:
+            print("    (E1 sq 2 vs 0 — 원문 확인 결과 '세계관 학습 비용'/'소원 세 개' 둘 다 개념 라벨용 직선"
+                  " 따옴표(' ')다. G9 스펙이 명시적으로 ‘ ’ 및 ' ' 둘 다 세라고 하므로 의도된 확장이며"
+                  " 파서 오류가 아니다 — 원 census는 곡선 따옴표만 셌던 것으로 보임.)")
 
     print("\n인물소개 대사 밀도 (MAIN_FINDINGS: 골드 13개 / 나머지 9개 합계 2개)")
     char_quote_total_gold = None

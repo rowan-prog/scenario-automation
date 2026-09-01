@@ -23,6 +23,7 @@
 | 로그라인 단독 | 한 문장 | **2** (opus 생성 1 · haiku 되감기 1) | 40k | **2분** | 후보 10 · lint · haiku · 메인 선별. sonnet 판정 유닛 금지 |
 | **러프 기획안** | **A4 1장** | **2** (opus 작성 1 · haiku 되감기 1) | **80k** | **3분** (사용자: "5분도 길다") | opus 1기가 통째로 씀(규칙은 지시서 인라인 · 파일 정독 = p0·원안만) → lint·grep → haiku → 메인 10항 직접 대조 |
 | 플랫폼 기획안 | docx 10필드 | 6 | 300k | 15분 | phase_p 유닛표 + `/proposal-review`(45항 전수·opus 3축) |
+| **피칭 페이지 (S급 제작 결정 미팅)** | **A4 2~3장 (4500~5500자)** | **3** (opus 작성 1 · haiku 되감기 1 · opus 3축 콜드리드 1) | **150k** | **8분** | 진입 게이트 2종 확인 → 컷 census → opus 1기 통째 작성(규칙 인라인) → G1~G19 grep → haiku → `20_review` §1③ 콜드리드 → 메인 판정 |
 | 작가 발송본(기획안·트리트먼트·가이드) | 문서 | +2 | +150k | +10분 | `/proposal-review` + `/review-audit` — 외부로 나가는 것만 |
 | 회차 집필 배치(3~5화) | 대본 | 5 | 300k | 15분 | opus 프로즈 1 + haiku 3 + 기계 |
 | 각색 배치 | 대본 | 5 | 300k | 15분 | `/adapt` |
@@ -36,6 +37,7 @@
 |---|---|---|---|---|
 | 러프 기획안 (A4 1장) | `/rough-proposal <원안>` — **agent ≤2 · ≤80k · ≤3분** | **opus 1기가 통째로**(로그라인 후보 3 + 셀링 5~6 + 무료 8화 · 파일 직접 저장) · haiku 되감기 1 | `logline_lint` · 작업어·구설정 grep · 메인 10항 직접 대조 | (러프는 `/proposal-review` 안 태움 — 플랫폼·발송본 전용) |
 | 플랫폼 기획안 | `/platform-proposal <p0>` | 안목 opus(high) · 훅·아크 opus(medium) · 트리트먼트 sonnet(low) · 시놉·캐릭터 sonnet · 메타 haiku | 기계 게이트 ①~⑩ | `/plain-gate` → `/proposal-review` → 빌드 |
+| 피칭 페이지 (S급 제작 결정 미팅) | `/pitch-page <작품>` — **agent ≤3 · ≤150k · ≤8분** · 대본 실물 + 사용자 명시 지시 없으면 진입 금지 | **opus 1기가 통째로**(컷 census 표 + 전 항목 · 파일 직접 저장) · plain-reader haiku 1 · 3축 콜드리드 opus 1(안 쓴 인스턴스) | G1~G19(`pitch_page_lint`) · 필수 필드 공란 0 · 트리트먼트 회차 수 = 선언 무료 화수 | `/plain-gate` → `20_review` §1③ 기획 문서 모드 → 메인 §4 골격 4단 판정 |
 | 각색 대본 | `/adapt <원작> <①\|②> [EP]` | 프로즈 opus(medium·원작 직역 나란히) · 잔재/골격 consistency-sweeper(sonnet·high) · 이중 귀 tts-literal-ear(haiku)+native-ear(opus·high) | `10_writing` §A-2 배치 게이트 | `/adaptation-review` → `/script-review light` |
 | 회차 집필 | `/write-episodes <작품> <EP>` | 프로즈 opus(medium) · haiku 3종(low) · 통합 final-consolidator(sonnet) | 배치 기계 게이트 7종 | `/script-review` |
 | 대본 검수 | — | `20_review` §7 belt (모드별) | Track B | `/script-review <대본> [light\|lock\|external\|writer]` → 외부 발송이면 `/review-audit` |
