@@ -1,4 +1,4 @@
-# [T1] I'm Carrying the Wolf Heir's Triplets / 늑대 후계자의 세쌍둥이를 뱄다 (가제)
+# [T1] I'm Carrying the Wolf Heir's Triplets / 늑대 후계자의 세쌍둥이를 임신했다 (가제)
 
 | 항목 | 내용 |
 |---|---|
@@ -9,7 +9,7 @@
 | 타깃층 | 북미/글로벌 18-35 여성 |
 | 장르 | 여성향 |
 | 키워드 | #히든아이덴티티 |
-| 레퍼런스 | ReelShort 〈The Elf Prince Is My Baby Daddy〉 각색 |
+| 레퍼런스 | 〈The Elf Prince Is My Baby Daddy〉(45화) 각색 |
 
 ## 로그라인 후보
 

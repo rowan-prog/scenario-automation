@@ -2,10 +2,10 @@
 
 ## 작품 정보
 
-- **가제:** I'm Carrying the Wolf Heir's Triplets / 늑대 후계자의 세쌍둥이를 뱄다
+- **가제:** I'm Carrying the Wolf Heir's Triplets / 늑대 후계자의 세쌍둥이를 임신했다
 - **트랙:** 부가 A (각색 — **모드 ② 세계 치환**) · phase_1 러프 기획안
 - **장르 / 타깃:** 여성향 히든 아이덴티티 · 북미/글로벌 18-35 여성 · AI실사 · EN
-- **원작 = `C:\Users\Rowan\Downloads\The Elf Prince Is My Baby Daddy.역대본.md`** (ReelShort 45화 역대본 · 무료회차 = 원작 1~12화)
+- **원작 = `C:\Users\Rowan\Downloads\The Elf Prince Is My Baby Daddy.역대본.md`** (45화 역대본 · 무료회차 = 원작 1~12화 · **플랫폼 미확인 — 역대본 파일에 표기 없음, 사용자 확인 필요**)
 - **정본 = `30_wolf_heir_triplets_p0_rough.md`** (v3 · 2026-09-01)
 
 ## 캐논
