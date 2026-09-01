@@ -399,7 +399,7 @@ FLAG = 자동 실패가 아니라 쇼러너 판정 의무 항목 — 단 기각�
 | 2 컷 census | §4-3 등급 의존 컷 표 (작성 유닛의 1단계 산출 · ⓐ/ⓑ 축 판별 = 메인) | 작성 유닛 → 메인 |
 | 3 작성 | 전 항목 초안 — 인물·줄거리·트리트먼트는 **대본 원문에서 직접** 이식·압축(서브에이전트 요약 경유 금지 · [[never-canonize-subagent-summaries]]). 규칙은 지시서 인라인(§2 표기 고정 · §3 강/약표 · §4 골격 · §5 금지 목록) — 이 문서 정독 금지, 여는 파일 = 대본 정본·p0/기존 기획안·(있으면) `_02_pitch_deck.md`뿐 | opus 1기 |
 | 4 게이트 | `python tools/pitch_page_lint.py <원고.md>` (§6 20종) + `/plain-gate` 전 문장 | 기계 + haiku |
-| 5 검수·확정 | `20_review_standard.md` §1③ 기획 문서 모드 라우팅(3축 콜드리드 opus 1기 — 문서를 안 쓴 인스턴스) → 메인 §4 골격 4단·§6 판정 → 사용자. 담당 CM·대본 링크·제작 적절성 값 = 사용자 기입 → docx 빌드 | opus 1기 + 메인 → 사용자 |
+| 5 검수·확정 | `20_review_standard.md` §1③ 기획 문서 모드 라우팅(3축 콜드리드 opus 1기 — 문서를 안 쓴 인스턴스) → 메인 §4 골격 4단·§6 판정 → 사용자. 담당 CM·대본 링크 = 사용자 기입 → `python tools/build_pitch_page.py` 로 docx 빌드 | opus 1기 + 메인 → 사용자 |
 
 ### 7-2. 예산 상한 (`config/WORKFLOW_MAP.md` §0-1 형식 — 이 표가 상한이다 · §0-1 등재는 별도 개정)
 
@@ -413,7 +413,7 @@ FLAG = 자동 실패가 아니라 쇼러너 판정 의무 항목 — 단 기각�
 ### 7-3. 산출 경로
 
 - **md 정본 = `C:\Users\Rowan\scenario-automation\projects\[NN]_[slug]\[NN]_[slug]_02_pitch_page.md`** — A급 피칭덱 `[NN]_[slug]_02_pitch_deck.md`와 파일명이 갈린다(둘 다 존재 가능 — E1 전례: A급 피칭 통과 후 이 단계 진입).
-- **docx = `[한국어 제목]_피칭페이지_v{N}.docx`** (실물 전례 = `거지 알라딘과 요술램프_피칭페이지_v4.docx`). 빌더 전례 = `C:\Users\Rowan\scenario-automation\projects\17_son_of_the_lamp\_build_pitch_deck_v2.py` (인물·줄거리·트리트먼트 3항목 자동 · 타이틀·기본정보·피칭 사유 = 직접 작성 — 빌더 주석 명시). 공용 빌더 신설 = TBD(§8).
+- **docx = `[한국어 제목]_피칭페이지_v{N}.docx`** (실물 전례 = `거지 알라딘과 요술램프_피칭페이지_v4.docx`). **빌더 = `C:\Users\Rowan\scenario-automation\tools\build_pitch_page.py`** (2026-09-01 신설). `python tools/build_pitch_page.py <원고.md> [--version N] [--confluence] [--force]` — 전 항목 렌더 · **빌드 전 `pitch_page_lint` 자동 호출**(하드 게이트 F1·F2·F3·U1·U2 FAIL이면 빌드 중단, `--force`로만 우회) · **G14 볼드 자동 적용**(마지막 무료 화 클리프 하나만) · `--confluence` = 섹션 제목을 사내 양식 원문 라벨로. 서식 상수(여백·맑은 고딕·색·pt·행간)는 실물 빌더 `projects/17_son_of_the_lamp/_build_pitch_deck_v2.py`에서 그대로 승계 — 새로 정하지 않았다.
 - Confluence 등재 = 사용자. 등재 시 사내 라벨 원문(§2-1) 유지.
 - 검수 라우팅 = `C:\Users\Rowan\scenario-automation\config\20_review_standard.md` §1③ 기획 문서 모드 + skill `/plain-gate`. 미팅 문서 반영 시 문장이 압축되는 것(개조식 종결 혼용)은 정상이다 — 실물 전례: 원본 *"…먹힌다는 것은 검증된 상태."* → 미팅 *"…검증된 상태."*
 
