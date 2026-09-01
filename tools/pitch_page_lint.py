@@ -34,10 +34,14 @@ MIN_FIELD_CHARS = 30          # F1
 EP_MIN_CHARS = 130            # G3 (골드 화당 150자 실측)
 EP_MAX_CHARS = 180            # G3
 MAX_SINGLE_QUOTES = 3         # G9
-MAX_SENT_CHARS_AVG = 35       # G12 (골드 33.5자 실측)
-MAX_CONNECTIVE_AVG = 0.3      # G12 (골드 0.27 실측)
-LOGLINE_MIN = 200             # G13 — 50_logline_standard.md 계열과 별도 축(주의: 레거시 코퍼스
-LOGLINE_MAX = 260             #   로그라인은 요약 문단형이라 이 상한을 실측 검증하지 못했음 — 보고 참조)
+# G12 — 골드 실측이 두 갈래다: 문체 census(소제목 제외) 33.5자 / 이 파서(소제목 포함) 46.9자.
+# 기준은 이 파서로 잰 골드에 맞춘다 — 골드가 FAIL이면 게이트가 틀린 것이다.
+# 이 값으로도 E5(52.9)·E9(67)은 그대로 걸린다.
+MAX_SENT_CHARS_AVG = 50
+MAX_CONNECTIVE_AVG = 0.40      # G12 (골드 0.27 실측)
+LOGLINE_MIN = 120             # G13 — 실측 재산정(2026-09-01): 골드 173자/3문장. 실물 8건 = 108·118·131·
+LOGLINE_MAX = 220             #   162·173·200·212자. E9·E10은 로그라인 칸에 줄거리 전문을 넣어 상한 초과 = 의도된 FAIL.
+                              #   ※ 이 축은 `50_logline_standard.md`(카탈로그 슬롯 45~70자)와 다른 축 — 확정 = 표준 §8 TBD 2.
 CLIFF_DIALOGUE_MIN_RATIO = 0.5   # G11
 NOUN_ENDING_MIN_RATIO = 0.6      # G15
 MIN_FACT_ANCHORS = 4             # G7
@@ -47,7 +51,9 @@ CONCEPT_WORDS = ["긴장감", "몰입감", "카타르시스", "도파민", "관�
 PRODUCTION_JARGON = ["기능한다", "역할을 한다", "매개체", "조력자", "도구로", "상징한다", "장치", "로 작용한다"]
 SELF_EVAL_PREDICATES = ["적합하다", "유리하다", "용이하다", "특징적이다", "차별점이다", "구조다",
                         "지점이다", "강하다", "높일 예정", "할 수 있다", "가능하다", "할 필요가 있"]
-SUPERLATIVES = ["압도적", "극강", "극상", "완벽히", "절대적", "파격적", "최고의", "강력한", "을 선사", "극대화"]
+# "강력한"은 뺐다 — 일반 형용사라 인월드 서술을 오탐한다(골드 실증: "램프를 문지르면 강력한 정령이
+# 나온다는 규칙" = 원전 규칙 설명이지 자기 작품 자랑이 아니다). 남긴 것은 자기 작품에만 붙는 어휘.
+SUPERLATIVES = ["압도적", "극강", "극상", "완벽히", "절대적", "파격적", "최고의", "을 선사", "극대화"]
 PLATFORMS = ["NetShort", "Netshort", "ReelShort", "DramaBox", "Dramabox", "DramaWave",
              "Stardust", "ShortDrama", "Vigloo", "비글루", "Douyin", "抖音"]
 CLIFF_SUMMARY_ENDINGS = ["하기 시작한다", "하게 된다", "기로 결심한다", "깨닫는다", "넘어간다", "노려본다", "다짐한다"]
@@ -128,19 +134,28 @@ def parse_sections(text):
                 buf.append(line)
         flush()
     else:
+        # 원자료(raw MHTML→txt) 폴백: 진짜 섹션 헤더는 독립된 줄이지만, 기본정보 안의
+        # 하위 필드("- \n타이틀: Elevator Game...")도 우연히 같은 키워드로 시작할 수 있다.
+        # 그 하위 필드는 항상 바로 앞줄이 맨 "- " 불릿 마커라는 게 유일한 구조적 차이라서,
+        # 직전 줄이 불릿 마커면 헤더로 인정하지 않는다.
+        prev_stripped = None
         for line in lines:
             s = line.strip()
             if s == "[/TABLE]":
                 flush()
                 current_key = None
                 buf = []
+                prev_stripped = s
                 continue
-            if s and len(s) <= 60 and classify_heading(s) is not None:
+            prev_is_bullet_marker = bool(prev_stripped is not None and re.match(r'^-\s*$', prev_stripped))
+            if s and len(s) <= 60 and not prev_is_bullet_marker and classify_heading(s) is not None:
                 flush()
                 current_key = classify_heading(s)
                 buf = []
             elif current_key is not None:
                 buf.append(line)
+            if s:
+                prev_stripped = s
         flush()
     return {k: "\n\n".join(v).strip() for k, v in sections.items()}
 
@@ -290,9 +305,10 @@ def extract_logline(basic_text):
             continue
         if line in ("", "-"):
             continue
-        if any(line.startswith(lbl) for lbl in FIELD_LABELS):
+        stripped = re.sub(r'^-\s*', '', line)          # 불릿 접두 제거 후 하위 라벨 판정
+        if any(stripped.startswith(lbl) for lbl in FIELD_LABELS):
             break
-        buf.append(re.sub(r'^-\s*', '', line))
+        buf.append(stripped)
     return " ".join(buf).strip().strip('"“”')
 
 
@@ -536,13 +552,36 @@ def gate_G7(sections):
     return status, f"사실 앵커 {total}개 (기준 ≥{MIN_FACT_ANCHORS}) — {sample}"
 
 
+# 최상급이 "우리 작품"이 아니라 타사 실적·원작/원전 규칙을 수식하는 문장은 제외한다.
+# 골드 실증: "웨어울프의 압도적 흥행"(타사 실적) · "강력한 정령이 나온다"(원전 규칙 설명)
+# — 문체 census에서 골드의 자기 작품 최상급은 0으로 판정됐다.
+OTHERS_CONTEXT = ["원작", "원전", "레퍼런스", "타사", "경쟁작", "흥행작", "히트작", "시장",
+                  "NetShort", "Netshort", "ReelShort", "DramaBox", "Dramabox", "DramaWave",
+                  "Stardust", "ShortDrama", "Douyin", "웨어울프", "늑대인간"]
+
+
+def _is_other_work_sentence(sent):
+    if any(k in sent for k in OTHERS_CONTEXT):
+        return True
+    return bool(re.search(r'[《<〈][^》>〉]{1,60}[》>〉]', sent))
+
+
 def gate_G8(sections):
     text = sec(sections, "pitch")
     if not text.strip():
         return "SKIP", "피칭 사유 섹션을 찾지 못함"
-    total, hits = _word_hit_detail(text, SUPERLATIVES)
-    if hits:
-        return "FAIL", f"{total}건 — " + " ".join(hits)
+    own, excused = [], []
+    for sent in split_sentences(text):
+        _, hits = _word_hit_detail(sent, SUPERLATIVES)
+        if not hits:
+            continue
+        (excused if _is_other_work_sentence(sent) else own).append((sent, hits))
+    if own:
+        detail = " ".join(h for _, hs in own for h in hs)
+        quote = own[0][0][:44]
+        return "FAIL", f'{len(own)}문장 — {detail} · 예: "{quote}..."'
+    if excused:
+        return "PASS", f"자기 작품 최상급 0 (타사 실적·원전 서술 {len(excused)}문장은 제외)"
     return "PASS", "자기 최상급 0"
 
 
@@ -678,9 +717,13 @@ def gate_G16(sections):
             cast_hangul.add(nm)
     body_names = name_candidates(full_body, cast_hangul)
     logline_names = name_candidates(logline, cast_hangul)
+    # 괄호 안 로마자 = 음역 병기(진(Djinn)의 왕 · 삼해(三海))지 인명이 아니다 — 후보에서 뺀다.
+    paren_glosses = set()
+    for g in re.findall(r"[（(]\s*([A-Za-z][A-Za-z\s\-]{1,28})\s*[)）]", logline):
+        paren_glosses.update(g.split())
     issues = []
     for nm in sorted(logline_names):
-        if nm in full_body:
+        if nm in full_body or nm in paren_glosses:
             continue
         near = [bn for bn in body_names if abs(len(bn) - len(nm)) <= 1 and edit_distance_dl(nm, bn) == 1]
         if near:
