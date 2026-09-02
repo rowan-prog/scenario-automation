@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-logline_lint.py — 한국어 로그라인 기계 게이트 (규격 = config/50_logline_standard.md · 코퍼스 = config/50_logline_corpus.md)
+logline_lint.py — 한국어 로그라인 기계 게이트 (규격 = config/50_logline_standard.md §3 · 모델 = config/50_t1_page_exemplars.md · 코퍼스(--stats 참고용) = config/50_logline_corpus.md)
 
 사용:
   python tools/logline_lint.py --stats                      # 코퍼스 실측(자수·문장수·물음표·대시·인명) 출력
@@ -18,12 +18,15 @@ sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8", errors="repla
 HERE = os.path.dirname(os.path.abspath(__file__))
 CORPUS = os.path.join(HERE, "..", "config", "50_logline_corpus.md")
 
-# ── 규격 상수 (2026-08-27 코퍼스 179건 실측에서 도출 — --stats 로 재확인) ─────────────────
-MAX_CHARS_SPACED = 95      # 공백 포함 자수 상한 (코퍼스 p90 68 · 최대 92)
-MIN_CHARS_SPACED = 25      # 하한 (코퍼스 최소 24)
-MAX_SENTENCES = 3          # 코퍼스 최대 3 (1~2가 표준)
-MAX_QMARK = 1
-MAX_NAMES = 2              # 인명(카타카나식 외래 인명) — 코퍼스 대부분 0~2
+# ── 규격 상수 (2026-09-02 정정 — 모델 = config/50_t1_page_exemplars.md T1 페이지 3편 실측 124·135·173자) ──
+# 2026-08-27의 95자 상한은 슬롯 헤더 "70 words"를 자수로 오독 + 카탈로그 코퍼스(다른 회사 소개문·중앙값 55)를
+# 길이 모델로 삼은 것 → 승인된 세 편이 전부 FAIL했다. 코퍼스 실측은 --stats 참고용으로만 남긴다.
+MAX_CHARS_SPACED = 185     # 공백 포함 자수 FAIL 상한 (모델 최대 173)
+WARN_CHARS_SPACED = 100    # 이 아래는 WARN — 요소가 빠졌을 가능성 (모델 최소 124)
+MIN_CHARS_SPACED = 60      # FAIL 하한
+MAX_SENTENCES = 3          # A 아크형 1문장 / B 오해형 3문장 · 4문장 = 줄거리
+MAX_QMARK = 0              # 모델 3편 물음표·느낌표 0
+MAX_NAMES = 3              # B 오해형은 관계 골격이라 3까지(엠마·애덤·벤) · A형은 0
 
 # 금지어: 우리 반려 실물에서 나온 것 + 코퍼스 0회 어휘. (코퍼스에 있는 '운명·진실·비밀·욕망' 등은 금지 아님)
 BANNED = [
@@ -94,9 +97,15 @@ def check(text: str):
     names = count_names(t)
     fails, warns = [], []
     if n_sp > MAX_CHARS_SPACED:
-        fails.append(f"자수 {n_sp} > {MAX_CHARS_SPACED} (코퍼스 p90 68·최대 92) — 줄여라, 사건 하나·반전 하나만")
+        fails.append(f"자수 {n_sp} > {MAX_CHARS_SPACED} (모델 3편 124·135·173) — 줄거리다. A형 = 처지·능력·핵심 사건·도달점 4~5절만")
     if n_sp < MIN_CHARS_SPACED:
-        fails.append(f"자수 {n_sp} < {MIN_CHARS_SPACED} — 관계·사건·반전 중 뭔가 빠졌다")
+        fails.append(f"자수 {n_sp} < {MIN_CHARS_SPACED} — 관계·사건·도달점 중 뭔가 빠졌다")
+    elif n_sp < WARN_CHARS_SPACED:
+        warns.append(f"자수 {n_sp} < {WARN_CHARS_SPACED} (모델 최소 124) — A형이면 최종 도달점(결국 …하는 이야기)이 있는지, B형이면 세 문장인지 확인")
+    if len(sents) == 2:
+        warns.append("2문장 — 정본 2형 어느 쪽도 아니다(A 아크형 1문장 / B 오해형 3문장). 주어가 바뀌지 않는지 확인")
+    if t.count("!") + t.count("！") > 0:
+        warns.append("느낌표 — 모델 3편은 0")
     if len(sents) > MAX_SENTENCES:
         fails.append(f"문장 {len(sents)}개 > {MAX_SENTENCES} — 줄거리 요약이다")
     if q > MAX_QMARK:
@@ -216,7 +225,7 @@ def main():
             print(f"    ✗ {f_}")
         for w in r["warns"]:
             print(f"    △ {w}")
-    print(f"\n합계: PASS {tot['PASS']} · WARN {tot['WARN']} · FAIL {tot['FAIL']}  (규격: ≤{MAX_CHARS_SPACED}자 · ≤{MAX_SENTENCES}문장 · 물음표 ≤{MAX_QMARK} · 금지어 0)")
+    print(f"\n합계: PASS {tot['PASS']} · WARN {tot['WARN']} · FAIL {tot['FAIL']}  (규격: {MIN_CHARS_SPACED}~{MAX_CHARS_SPACED}자·목표 110~175 · A형 1문장/B형 3문장 · 물음표·느낌표 0 · 금지어 0 · 모델 = config/50_t1_page_exemplars.md)")
 
 
 if __name__ == "__main__":

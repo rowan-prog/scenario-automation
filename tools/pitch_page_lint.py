@@ -41,7 +41,7 @@ MAX_SENT_CHARS_AVG = 50
 MAX_CONNECTIVE_AVG = 0.40      # G12 (골드 0.27 실측)
 LOGLINE_MIN = 120             # G13 — 실측 재산정(2026-09-01): 골드 173자/3문장. 실물 8건 = 108·118·131·
 LOGLINE_MAX = 220             #   162·173·200·212자. E9·E10은 로그라인 칸에 줄거리 전문을 넣어 상한 초과 = 의도된 FAIL.
-                              #   ※ 이 축은 `50_logline_standard.md`(카탈로그 슬롯 45~70자)와 다른 축 — 확정 = 표준 §8 TBD 2.
+                              #   ※ 이 축은 `50_logline_standard.md`(러프 기획안·T1 페이지 110~175자 · 2026-09-02 정정)와 다른 축 — 확정 = 표준 §8 TBD 2.
 CLIFF_DIALOGUE_MIN_RATIO = 0.5   # G11
 NOUN_ENDING_MIN_RATIO = 0.6      # G15
 MIN_FACT_ANCHORS = 4             # G7
