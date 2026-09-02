@@ -4,7 +4,7 @@
 
 ## 🥇 매 작업 진입 시 (always)
 
-- **[t1-page-exemplars-whole-learning](feedback_t1_page_exemplars_whole_learning.md)** — 🚨(2026-09-02) 로그라인·트리트먼트·러프 기획안 모델 = 현장 호평 T1 페이지 3편 `config/50_t1_page_exemplars.md`(전 작업공간). 정본 2형(A 아크형 1문장 결말까지 / B 오해형 3문장)·110~175자·셀링 2~4 라벨·엔딩 7유형·페이지 필드 1:1.
+- **[t1-page-exemplars-whole-learning](feedback_t1_page_exemplars_whole_learning.md)** — 🚨(2026-09-02) 로그라인·트리트먼트·러프 기획안 모델 = 현장 호평 T1 페이지 3편 `config/50_t1_page_exemplars.md`(전 작업공간). **제1원리 = 무료 8~10화 전체가 한 편의 유기적인 글, EP은 자른 자리 — 문장은 앞 문장에서, 화는 앞 화 마지막 순간에서 · 끄는 문장 = 앞뒤에 걸린 스토리 문장(독립 카피 ✗) · 판정 = 헤더 지우고 읽어도 한 편인가.** 겉모양 = 정본 2형 로그라인 110~175자·셀링 2~4 라벨·꺾이는 자리 7유형·페이지 1:1.
 - [no-ai-korean-jargon](feedback_no_ai_korean_jargon.md) — 한국어 출력 시 AI jargon·작업어 금지·카톡 톤 (룰 5).
 - [token-diet-70-percent](feedback_token_diet_70_percent.md) — agent 최소·1 pass+수술·보고는 경로+한 줄.
 - [fable-structure-only-pipeline-self-sufficient](feedback_fable_structure_only.md) — 파이프라인 = opus/sonnet/haiku 자급 · Fable = 구조 개정 1회성 · subagent fable 0.
