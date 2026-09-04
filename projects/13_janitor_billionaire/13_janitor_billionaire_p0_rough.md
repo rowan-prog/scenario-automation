@@ -1,4 +1,4 @@
-### [T1] They Made Me Kneel in My Own Stables
+### [T1] My Wife's Young Lover Made Me Kneel in My Own Stables
 
 **담당자** Rowan
 **상태 · 제작 등급** 제안중 A
