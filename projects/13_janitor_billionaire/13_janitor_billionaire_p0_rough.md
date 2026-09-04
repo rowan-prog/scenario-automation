@@ -1,4 +1,4 @@
-### [T1] You Made the Wrong Man Kneel
+### [T1] Kneeling in My Own Stables
 
 **담당자** Rowan
 **상태 · 제작 등급** 제안중 A

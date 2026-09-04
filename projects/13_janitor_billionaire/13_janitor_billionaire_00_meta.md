@@ -1,4 +1,4 @@
-# You Made the Wrong Man Kneel — 진행 메타
+# Kneeling in My Own Stables — 진행 메타
 
 작품 단위 진행 추적 메타. 이력 단일 진실.
 
@@ -6,7 +6,7 @@
 
 ## 작품 정보
 
-- **가제 (영어):** You Made the Wrong Man Kneel
+- **가제 (영어):** Kneeling in My Own Stables
   - 제목 대안 = Don't Mock the Man Who Bought Your Stables / Mock the Wrong Millionaire · 한국어 대안 = 《회장님을 무릎 꿇린 죄》 《감히 회장님을 무릎 꿇려?》
 - **트랙:** 부가 A (각색) — **모드 ② 세계(직업·배경) 치환**
 - **원작 (정본):** `C:\Users\Rowan\scenario-automation\config\vertical_drama_hit_scripts\(완)_역대본_슈가마미의남편_01-60화.docx`
@@ -138,7 +138,7 @@
 ## 산출물
 
 - 러프 기획안(= T1 페이지) = `13_janitor_billionaire_p0_rough.md`
-- 플랫폼 기획안 = `Vigloo AI Drama Proposal_YOU MADE THE WRONG MAN KNEEL.docx` (spec = `_p1_proposal_spec_kr_cn.txt`)
+- 플랫폼 기획안 = `Vigloo AI Drama Proposal_KNEELING IN MY OWN STABLES.docx` (spec = `_p1_proposal_spec_kr_cn.txt`)
 - 구버전 대본(폐기 · 참고 보존) = `07_final/13_janitor_billionaire_FINAL_v1.md` · `_v2.md` · 구 청사진 `_01_adaptation_blueprint.md`
 
 ## 핵심 메모리
