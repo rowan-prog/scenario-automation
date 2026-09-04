@@ -49,7 +49,7 @@ kr_eps = {}
 for i in range(1, len(eps_kr), 2):
     kr_eps[int(eps_kr[i])] = eps_kr[i + 1].strip()
 
-tcn = section(cn, '트리트먼트 中文', [])
+tcn = R('13_janitor_billionaire_p1_treatment_cn.md')
 parts = re.split(r'\n\s*第(\d)集\s*\n', '\n' + tcn)
 cn_eps = {}
 for i in range(1, len(parts), 2):
@@ -65,6 +65,11 @@ for n in range(1, 10):
 
 # ---- 조립 ----
 out = []
+for bad in ('레이싱', '리프트', '드라이빙 코치', '폐엔진오일', '키링', '1일 이용권', '휠을'):
+    for name, t in (('kr', kr), ('cn', cn), ('rough', rough)):
+        if bad in t:
+            raise SystemExit('구무대 잔재 [%s] in %s' % (bad, name))
+
 out.append('#TEMPLATE ' + os.path.join(D, '_template_krcn_41rows.docx'))
 out.append(fields.strip())
 
