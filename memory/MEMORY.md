@@ -17,7 +17,7 @@
 - [fix-by-deleting-not-explaining](feedback_fix_by_deleting_not_explaining.md) — 이해 안 되는 자리 = 설명 덧대지 말고 없앤다("니 논문 써서 재미 없는 거야").
 - [names-must-survive-ai-dubbing](feedback_names_must_survive_ai_dubbing.md) — 인명·사명 4검사(흔한가/발음 경로 하나/동음 상용어 없나/첫소리 갈리나).
 - [proposal-prose-five-checks](feedback_proposal_prose_five_checks.md) — 기획 프로즈 5검사(초등 어휘·은유 동사 0·누가 누구에게·능력 한 줄·출처 발명 0) + 교정마다 반대편 벽으로 튀지 말 것(모델 옆에 놓고 맞춘다).
-- **[proposal-form-fields-are-one-liners](feedback_proposal_form_fields_are_one_liners.md)** — 🚨(2026-09-04) 기획안 표의 칸(사이다훅·세계관·필수·금기) = 한 줄 목록. 트리트먼트 재탕·수필 마무리·설계 설명·항목당 부연 = 사용자가 통째로 삭제. 문장으로 쓰는 칸 = 로그라인·줄거리·캐릭터·트리트먼트뿐.
+- **[proposal-form-fields-are-one-liners](feedback_proposal_form_fields_are_one_liners.md)** — 🚨(2026-09-04) 기획안 표에서 문장으로 쓰는 칸 = 로그라인·줄거리·캐릭터·트리트먼트뿐. 나머지(사이다훅·세계관·필수·금기) = 한 줄 목록 · 트리트먼트 재탕·수필 마무리·설계 설명·부연 = 삭제 대상. **금기 = 트리트먼트에 이미 있으면 빼고, 공백·표기·원작 오염·문체만 적는다.**
 - [proposal-is-the-writers-spec](feedback_proposal_is_the_writers_spec.md) — 기획안 = 외부 작가의 스펙. 발송 전 `20_review` §1③ 통과 증명 없이 발송 금지.
 - [viewer-omniscience-four-channels](feedback_viewer_omniscience_four_channels.md) — 인물은 몰라도 시청자는 관계·목표·정체를 첫 행동 전에 안다. 채널 4(네임카드/밀담/VO/회상). 미스터리화 = 추리극.
 - [paid-vertical-structure-first](feedback_paid_vertical_structure_first.md) — 판정 순서 = 엔진 → 구조 7항 → 붕괴 3축 → 서사 → 라인. 무료 8화 = 사건 1개.
