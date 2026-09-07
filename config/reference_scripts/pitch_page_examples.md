@@ -1,6 +1,6 @@
 # 피칭 페이지 실물 예시 모음
 
-이 파일은 사내 "피칭 페이지"(신규 작품 제작 결정 미팅 문서) 실물 예시를 담은다. 출처: 2026-08-13, 08-20, 08-27 미팅 원본. 규격은 `config/60_pitch_page_standard.md` 참조. **모든 내용은 원문 verbatim이며 편집하지 않음.**
+이 파일은 사내 "피칭 페이지"(신규 작품 제작 결정 미팅 문서) 실물 예시를 담은다. 출처: 2026-08-13, 08-20, 08-27 미팅 원본 + **2026-09-03 미팅(§7 · 2026-09-07 추가)**. 규격은 `config/60_pitch_page_standard.md` 참조. **모든 내용은 원문 verbatim이며 편집하지 않음.**
 
 ---
 
@@ -205,7 +205,7 @@ Rowan Lee
 
 ## 3-B. 각색 작품 피칭 사유 — GET OFF MY SHIP 《내 배에서 내려》 (사용자 작성 · 2026-09-01)
 
-> 세계 치환 각색 작품의 모범. **논거 셋 다 대본 밖에서 온다**(레퍼런스 실적 · 자사 라인업 진단 · 원작 대비 설계 델타). 장면을 상찬하는 문장이 0이다. 어미 = 명사·-음 종지. **S급 요구가 두 곳에 붙는다** — 시장성 블록 끝과 미감 항목 끝. 원문 verbatim.
+> ⚠️ 이 3-B는 **초안**이다. 2026-09-03 미팅에 실제로 올라간 제출본은 §7-A — 시장성 문단의 두 문장이 다르다(*"이미 증명이 된 스토리"* → *"대량으로 생산되는 구조/스토리"* · 자사 라인업 진단 문장 삭제). 세계 치환 각색 작품의 모범. **논거 셋 다 대본 밖에서 온다**(레퍼런스 실적 · 자사 라인업 진단 · 원작 대비 설계 델타). 장면을 상찬하는 문장이 0이다. 어미 = 명사·-음 종지. **S급 요구가 두 곳에 붙는다** — 시장성 블록 끝과 미감 항목 끝. 원문 verbatim.
 
 **왜 제작해야 하는지? 시장성이 있는지?**
 
@@ -310,6 +310,12 @@ Gilded Age와 Titanic: 현대 배경의 원작을 1910년대 도금 시대의 �
 - `특이사항
 
 その他`
+- (09-03 추가) `타이틀 (タイトル）` — 실사팀 · 하위 `한국어(Korean)` `영어 (English)` `중국어 (Chinese)`
+- (09-03 추가) `기본 정보` — 실사팀 · 하위 `장르 / 키워드 ジャンル/キーワード` `로그라인　ログライン` `회차 (에피소드) 構成` `타겟층`
+- (09-03 추가) `트리트먼트 (1화~Paywall 화)` + `회 별 엔딩 또는 클리프행어 알 수 있도록 작성` — 실사팀
+- (09-03 추가) `제작 적절성　制作費` 하위 = `총 제작비:　総製作費：` `Tier:` `예상 제작 기간:` `예상 릴리즈 일정(월):` — 실사팀
+- (09-03 추가) `Title (タイトル)` `Assigned CM (担当CM名)` `Basic Info` `IP Pitch` `Main Characters` `Episode Treatment (Episode 1 ~ Paywall)` `Script` `GLC Feedback & Post-Feedback Direction (Fill in if dropped in first round)` — CD2 영문 양식 · Basic Info 하위 = `Genre:` `Tropes:` `Logline (ログライン):` `REFERENCES` `CORE EXPECTATIONS`(Primary/Secondary) `Episode Structure:` `Target Audience (Region / Male or Female oriented):` `Format:`
+- (09-03 추가) 목차 접두 = `[CD1/AI실사]` `[CD 1 Team]` `[CD2 Team / S급 AI]` `[Live-Action팀 / 실사]` · 1문 라벨 변형 = `[왜 S급으로 제작해야하는지?]`(E11) · `[왜 S급으로 제작해야하는지?/ 시장성이 있는지 ]`(E13) · 대본 링크 라벨 = `무료회차 대본` `무료회차 대본(로컬라이징 버전)` `Script` `1화~10화 대본`
 
 ### 6-B. 기본정보 칸 하위 라벨
 
@@ -343,3 +349,254 @@ Gilded Age와 Titanic: 현대 배경의 원작을 1910년대 도금 시대의 �
 - `타겟층/ Audience`
 - `productionType`
 - `reference`
+
+---
+
+## 7. 2026-09-03 미팅 실물 (2026-09-07 추가 · E11~E17 · 원문 verbatim)
+
+> 출처 = 「2026-09-03 신규 작품 제작 결정 미팅」 Confluence 내보내기(다운로드 폴더 `2026-09-03+신규+작품+제작+결정+미팅.doc`) → 코퍼스 `config/pitch_page_corpus/deck_2026-09-03.txt`. 한 문서에 양식이 셋 섞여 있다 — CD1 한국어 AI 양식(E11~E13) / CD2 영문 양식(E14·E15) / 실사팀 양식(E16·E17). 규격 대상은 CD1 양식뿐이고 나머지는 참고. 아래는 편집 없이 옮긴 것이고, 무엇이 왜 좋고 나쁜지는 `config/60_pitch_page_standard.md` §0·§3·§4·§6에 적었다.
+
+### 7-A. 각색 작품 모델 — GET OFF MY SHIP 《내 배에서 내려!》 (E12 · 담당 Rowan Lee · 사용자 제출본)
+
+> **전문 사본 = `projects/26_get_off_my_ship/26_get_off_my_ship_02_pitch_page.md`.** 여기엔 로그라인·피칭 사유·인물 소개 전문 + 트리트먼트 1·5·8화 + 클리프 8건만 옮긴다. 3-B 초안과 사유 두 문장이 다르다(표준 §4-1). lint = FAIL 1(G1)·WARN 1(G12) — 골드 다음으로 깨끗한 실물.
+
+**기본정보**
+
+장르 : Revenge / Hidden Identity / Drama
+키워드: Gilded Age, Titanic, Pregnant, Betrayed, Husband's Mistress, Public Humiliation
+회차 (에피소드): 50화 / 무료 EP 1-8
+로그라인:
+
+초호화 여객선 첫 항해 날, 임신한 재벌가 상속녀 이블린은 남편의 불륜녀에게 밀항자로 몰려 시어머니와 함께 공개적으로 모욕과 폭력을 당한다. 이블린의 말을 아무도 믿지 않았지만, 이블린은 결국 남편과 정부가 차지한 배를 되찾아 복수한다.
+타겟층(국가, 남 or 여성향): 북미·글로벌 여성 30–60
+AI실사 or AI 애니 : AI실사
+레퍼런스
+NetShort <The Hidden Queen: My Husband's Mistress Ruined My Empire(내가 세우고 내가 무너뜨린다)>
+
+**해당 IP 피칭 사유 (Core Expectation)**
+
+왜 제작해야 하는지? 시장성이 있는지?
+NetShort <The Hidden Queen: My Husband's Mistress Ruined My Empire> 레퍼런스. 단순한 구조의 메가히트 막장물. 남녀 모두에게 소구할 수 있는 막장물은 고매출 메가 히트의 잠재력을 지니고 있어, 꾸준한 제작 시도 필요. 다만 시장에서 대량으로 생산되는 구조/스토리이기에, 비글루는 퀄리티 자체를 높여서 승부를 봐야 한다는 점에서 S급 제작 제안.
+
+크리에이티브에 변별력이 있는지?
+인트로 변형: 비행기 장면으로 시작하는 원작과 다르게 시작을 줄리언과 델라의 불륜 장면으로 시도. 첫 컷부터 불륜을 내세워 후킹력 UP.
+Gilded Age와 Titanic: 현대 배경의 원작을 1910년대 도금 시대의 첫 항해 여객선으로 옮긴다. 금박 샹들리에·샴페인·붉은 드레스의 화려함은 북미 시청자가 막연히 동경하는 시대 미감을 제시하고, 대서양의 초호화 선박은 Titanic을 연상시키는 소재감을 더함. 이런 화려한 미감 관점에서도 A급이 아닌 S급으로 제작 필요.
+전기 뱀장어에서 상어로: 원작의 전기 뱀장어 처벌을 상어가 도는 선미 난간 처벌. ‘상어 밥으로 던져진다’는 더 잔인하고 위험한 위협으로 변경.
+
+**주요 인물 소개**
+
+이블린 윈스럽 (여 / 20대 후반) · 진짜 선주, 윈스럽가 상속녀
+
+3년 전 결혼하며 친정 돈으로 줄리언의 폴라리스 해운과 임페리얼호를 세웠다. 첫 항해 날 임신 사실을 알리려 배에 오르지만, 표가 없다는 이유로 밀항자가 된다. 초반에는 이름과 신분을 말해 상황을 끝내려 한다. 아무도 믿지 않자 방식을 바꾼다. 상처 난 손으로 피 묻은 냅킨에 이혼을 쓰고, 무선전신실을 통해 돈과 기록을 움직인다. 끝까지 줄리언과 재결합하지 않고, 배와 자신의 이름을 되찾는다.
+
+줄리언 콜 (남 / 30대 중반) · 폴라리스 해운 대표, 후회남
+
+이블린의 돈으로 회사를 키웠지만 그 돈을 자기 권리처럼 쓴다. 첫 항해 날 정부 델라에게 ‘이 배에서는 네 말이 법’이라고 말하고, 블랙우드와의 계약만 기다린다. 이블린의 권한이 배를 멈추기 시작한 뒤에도 그녀를 아내·가문·아이로 붙잡으려 한다. 마지막에는 선주 전용 갑판에서 무릎 꿇고, 배에서 쫓겨난다.
+
+델라 (여 / 20대 후반) · 줄리언의 정부, 가짜 안주인
+
+첫 항해 파티를 맡아 1등석 홀에서 콜 부인 행세를 한다. 이블린과 마사를 밀항자로 낙인찍고, 손님들에게 공개 처벌을 구경시킨다. 재미있으면 한다. 시어머니에게 잔반을 붓고, 이블린에게 구두를 닦게 하고, 진주를 부수고, 끓는 차를 쏟고, 상어 위로 밧줄을 푼다. 사연이나 동정은 없다. 이블린의 돈이 끊기며 드레스·보석·무도회가 하나씩 막히고, 마지막에는 자신이 여왕이던 홀에서 끌려 내려간다.
+
+마사 콜 (여 / 60대) · 줄리언의 어머니, 이블린의 편
+
+유럽 경매에서 이블린 친정어머니의 진주 목걸이를 찾아온다. 아들 편이 아니라 며느리 편이다. 잔반을 뒤집어쓰고 구두를 닦고 3등석으로 끌려가도, 이블린에게 고개 숙이지 말라고 붙잡는다. 후반에는 델라를 안주인 자리에 앉힌 사람이 누구인지 줄리언에게 되묻는다.
+
+가브리엘 블랙우드 (남 / 40대 초반) · 블랙우드 그룹 총수
+
+대서양 화물·보험을 쥔 거물. 줄리언이 만나려 매달리는 최상층 스위트의 주인이다. 이블린과는 어린 시절부터 알고 지낸 사이이며, 폴라리스 해운을 검토한 이유도 이블린이다. 후반에 폴라리스 해운과의 계약을 끊고, 이블린에게 임시 통제권 문서를 건넨다. 이블린은 그 권한으로 마사를 먼저 데려오고, 배의 돈과 기록을 직접 움직인다.
+
+**초반 회차 트리트먼트 — EP1**
+
+임페리얼호 첫 항해 날. 선주실에서 줄리언은 델라와 키스하며, 이혼할 수 없는 이유는 이블린이 자기의 ‘상류사회 승선권’이기 때문이라고 말한다. 부두에서 이블린은 3년 만에 돌아온 마사를 맞고, 마사가 유럽 경매에서 되찾은 친정어머니의 진주 목걸이를 받는다. 이블린은 임신 사실을 마사에게만 알린다. 두 사람이 여행복 차림으로 1등석 라운지에 들어가자 델라가 샴페인 잔을 들고 묻는다.
+엔딩 훅: “누가 이 거지 둘을 내 라운지에 들여보낸 거야?”
+
+**EP5**
+
+델라는 마사가 진짜 콜 부인일 리 없다고 비웃고, 줄리언이 블랙우드와 계약만 맺으면 해운업계가 자신들 발밑에 놓일 거라고 말한다. 줄리언을 부르라는 이블린에게 델라는 젊은 선원에게 가죽 채찍을 쥐여준다. 선원이 망설이자 해고를 들먹이고, 두 번째 채찍에 이블린의 옷이 찢어져 핏자국이 난다. 델라는 직접 채찍을 휘두르고, 이블린의 진주 목걸이는 줄째 뜯긴다. 이블린이 유품을 향해 달려들자 델라는 임신한 그녀의 배를 걷어찬다.
+엔딩 훅: 이블린이 바닥에서 고개를 든다. “나는 이블린 윈스럽이야. 오늘 네가 한 짓은 줄리언의 선단 전체로 갚게 할 거야.”
+
+**EP8**
+
+최상층 스위트에서 피 묻은 냅킨을 읽는 장갑 낀 남자는 제작상 가브리엘 블랙우드다. 그는 폴라리스 해운과의 협상을 중단하라고 지시한다. 이 장면과 선미의 마지막 훅은 다른 장면이다. 한편 델라는 이블린을 선미 갑판으로 끌고 간다. 마사가 임신을 외치자 델라는 상어들이 더 좋아할 영양식이라며 웃는다. 이블린은 굵은 밧줄에 묶여 상어 떼 위에 매달리고, 한 번 떨어져 치맛자락이 물린다. 델라는 이블린의 팔에서 피가 나자 밧줄을 더 길게 이어, 이번에는 상어가 몸에 닿게 하라고 명령한다.
+엔딩 훅: 선미 철문이 발길질에 열리고, 화면 밖 남자의 목소리가 울린다. “전부 당장 멈춰!”
+
+**클리프 8건 (라벨 = `엔딩 훅:`)**
+
+- 엔딩 훅: “누가 이 거지 둘을 내 라운지에 들여보낸 거야?”
+- 엔딩 훅: 델라가 이블린의 소매를 집어 들며 말한다. “이 배 주인은 내 남편이야.”
+- 엔딩 훅: “어머니. 줄리안이 내게 준 결혼기념일 브로치를 수리 맡겼다는 건 핑계였어요. 줄리안에게 다른 여자가 있어요.”
+- 엔딩 훅: 마사가 콜 가문 이름을 들자 델라가 멈칫한다. “설마…… 당신이 정말 줄리언 엄마야?”
+- 엔딩 훅: 이블린이 바닥에서 고개를 든다. “나는 이블린 윈스럽이야. 오늘 네가 한 짓은 줄리언의 선단 전체로 갚게 할 거야.”
+- 엔딩 훅: “뉴욕에서 제일 값나가는 상속녀가 내 바닥에서 쓰레기를 줍고 있네.”
+- 엔딩 훅: 냅킨의 피 글씨. “이혼할 거예요.”
+- 엔딩 훅: 선미 철문이 발길질에 열리고, 화면 밖 남자의 목소리가 울린다. “전부 당장 멈춰!”
+
+### 7-B. 1문 라벨을 S급 질문으로 바꾼 형 — The Dragon's Lost Bride (E11 · 담당 Lily Kojima)
+
+> 첫 블록 라벨이 `[왜 S급으로 제작해야하는지?]`다. 자사 광고 지표(Spend·D+0) → 검증 플롯 → Paywall 강화 → 광고 최고 성과 씬 추가 순. ③붕괴조건·④요구 문장은 없다 — 라벨이 요구를 대신한다. 트리트먼트 칸은 링크만이라 총 2364자(E4급). 특이사항의 `자별점`은 E4(08-20)와 같은 오타·같은 문구.
+
+[왜 S급으로 제작해야하는지?]
+비글루에서 US시장 광고성과 우수 작품 리메이크로 성과 기대◎
+1일 Spend 3천불 이상 & D+0 30%, 3일연속
+“The Lost Wolfless Mate” 에서 Dragon으로 소재변경으로 보기에는 다르지만 검증된 플롯
+Paywall강화
+Wolfless에서는 여주의 위기에 남주등장으로 Paywall → 아기도 같이 위기에 빠지는 구조로 Paywall강화
+Dragon소재 및 “아기” 서사 강화를 인한 시각적 자극강화
+“The Lost Wolfless Mate” 광고에서 가장 성과 우수했던 섹슈얼씬 추가
+
+[시장성이 있는지?]
+비글루 미국 시청층 성과 우수작 플롯
+요즘 AI숏폼에서 유효하게 보이는 “아기” 서사를 최대한 극대화
+Pregnant With Dragon King's Eggs (용왕의 쌍둥이를 품었다) , DRAMABOX <Deny me, Dragon King>　등
+현재 비글루 US에서 성과 확인된 “Dragon”소재로 진행
+미국 시장에서 검증된 키워드
+Dragon
+Billionaire CEO romance
+Hidden Identity
+
+[크리에이티브에 변별력이 있는지?]
+- - 
+Dragon으로 변신하는 모습등 AI로 구현시 임팩트 ◎
+섹슈얼씬이 광고성과 우수하였으며 비슷한 섹슈얼씬을 연출로 영상미를 구축
+“아기”의 위기랑 귀여운 장면들로 인한 시청지속 (AI작품중 아기가 나오는 작품이 비교적 잘되는 경향)
+
+**특이사항 その他**
+
+레퍼런스작 와의 자별점
+기본 플롯은 그대로 가져가되 소재 및 Paywall 변경
+설정 병견을 인해 다양한 로케이션 및 상황을 활용한 섹슈얼씬 추가
+
+### 7-C. 시즌2 + 로컬라이징 방향성 — Reborn as a Genius Baby 2 (E13 · 담당 Amber Kim)
+
+> 근거 = 시즌1 인기 + 동일 PD·감독·에셋. 변별력 칸이 "원작에서 뭘 바꿨나" ①~④ 목록이고, ④ 실존 명칭 제거는 AI 제작 리스크를 사실로 적은 유일한 실물. 줄거리 칸에 1~10화 트리트먼트+부제를 넣은 것(F3/G19)은 반면.
+
+[왜 S급으로 제작해야하는지?/ 시장성이 있는지 ]
+인기작 <Reborn as a Genius Baby>의 시즌2
+(*동일한 제작피디(Bonnie) & 시즌 1 감독 / 에셋 동일하게 세팅 되면 좋을 것 같습니다)
+[로컬라이징 방향성]
+
+① 회장 독살 사건과 의료 음모 
+
+-시즌을 여는 독살 사건은 KR 실사 원작과 동일하게 유지.
+
+-독극물의 경우 실존 약물 디곡신 에피소드 → 실제로 미국에서 디곡신 연쇄살인 실화가 유명함. 주사 삼촌(주사 이모) 설정 등 역시 미국에서 유명했던 ‘닥터 필 굿’ 소재로 활용.
+
+② 불꽃보이즈 → 무명 보이 인디 밴드 ‘원웨이' (원 디렉션 오마주 → '원 웨이’)
+
+- K-POP 그룹은 2010년대 미국 배경에서 성립하지 않아 해체 직전의 미국 무명 보이 밴드 원웨이로 전환.
+
+-연말 가요대상 + 새해 카운트 다운 시상식 → 글로벌 차트 1위 ‘올해의 아티스트상’
+
+③ 오징어게임 연상 에피소드
+
+-<경찰과 도둑>이라는 이름으로 오마주 → <Cops and Robbers>
+
+-미국 무명감독 ‘스티븐 골드버그’로 지어 ‘스필버그’가 연상되는 코믹 오마주 (무명인데, 이름만 ‘거장’감독인…)
+
+-여배우 에피소드도 ‘벨라 왓슨’ 처럼 엠마 왓슨과 비슷하게 오마주. 
+
+- 극장 대신 OTT 공개를 밀어붙이는 전개는 극중 연대가 넷플릭스 여명기(2010~11)라 "모두가 비웃지만 딜런만 옳았다"는 아이러니가 더 강해져 실사작과 동일 유지.
+
+④ 실존 명칭 제거 원칙 적용 (AI 제작 대응)
+
+빌보드·그래미, 넷플릭스 등 실존 브랜드는 대사에서 전부 빼고 '전미 차트', '제일 큰 시상식' 같은 일반 명칭으로 통일. AI 영상 생성 시 대본 속 실명이 로고·트로피 같은 시각 자산으로 재현되는 리스크를 차단하기 위해, 실존 사례는 참고만 하고 극중 고유명사는 전부 가상의 이름(스타라인, 크라운 엔터, 글리터걸즈)으로 설정
+
+### 7-D. CD2 영문 양식 — Claimed by the Black Don (E14) · Forbidden Love with the Merman King (E15) (담당 wayne.ren)
+
+> 별개 서식(Title / Assigned CM / Basic Info / IP Pitch / Main Characters / Episode Treatment / Script / GLC Feedback & Post-Feedback Direction). Basic Info 안에 CORE EXPECTATIONS(Primary/Secondary 질문)·MALE↔FEMALE 슬라이더·Format이 있고, 트리트먼트는 HOOK/SPIKE/CLIFF 3단 + `========== PAYWALL ==========` 뒤 유료 전체 요약 문단. 우리 양식이 아니므로 참고만.
+
+**E14 — Format 칸의 S급 요구 (포맷형 · 표준 §4-2 ⓑ 변종)**
+
+Format: AI 2.5D 
+
+Honestly, this is a major reason I want to upgrade this to S. There’s something fascinating about the forbidden attraction around interracial romance, even in more traditionally conservative parts of the U.S. Data shows that ironically a significant interest in searches around “ebony” and “interracial adult content” come from the midwest.
+
+I think 2.5D delivers that fantasy while creating enough distance. Animation has always been good at transcending racial lines in the U.S., from anime, Studio Ghibli, to KPop Demon Hunters. This format is only available at S-level and is a key tool to unlocking more racial casting to start.
+
+**E14 — PITCH**
+
+PITCH
+
+Age-gap "Daddy" mafia romance is one of the highest-converting trope stacks.
+
+Diverse Audience Demand
+
+Vigloo’s own racial identity survey of 1,140 users (credit to Charlie) shows White and Black women make up the strong majority of our audience. While the show’s casting will primarily target White female viewers, a strong, attractive African American male lead could also help broaden its appeal among Black women.
+
+Pew Research also shows strong mobile and digital video engagement among Black and Hispanic audiences. We’re already seeing potential in the vertical space: Screentime (all black cast) reached over 200M views on PineDrama, while Countdown King (WFBW) held the #1 spot on DramaWave for several days.
+
+If successful, this could open the door to reskinning proven hits with different interracial pairings, allowing us to reach broader audiences without reinventing the underlying story engine.
+
+**E15 — PITCH (THE HOOK + WHY THIS IS URGENT TO PRODUCE NOW)**
+
+PITCH
+
+THE HOOK: In a world where Mercreatures and humans have warred for a century, human ESMAY is saved from drowning by MERMAN KING AIDEN, and their one forbidden night together is discovered by Princess KATRINA, who forges a prophecy showing Esmay murdering Aiden and gets her cast out on pain of death. Nine months later Esmay returns with their half-human, half-mermaid daughter BRIANNE — dying, and in desperate need of the one healer who can save her — while making certain the father never finds out she's his. Katrina, still needing Aiden without an heir to secure her own claim to the throne, will kill both mother and child to make sure that never changes.
+
+WHY THIS IS URGENT TO PRODUCE NOW:
+Romantasy (fantasy romance) is the fastest-growing crossover audience moving from BookTok into vertical, and this stacks a proven vertical converter (secret baby/forbidden royal) on top of it.
+The "she's not here for revenge, she's here to save her kid" reframe gives the frustration engine a moral hook that separates it from stock secret-baby-billionaire fare.
+A full mercreature world — shapeshifting, a telepathic infant heir, royal court politics — gives Marketing a visually distinct trailer-moment supply that doesn't look like the rest of the mafia/CEO slate.
+
+### 7-E. 실사팀 양식 — 시장성 숫자 최다 · 나의 토깽이 아가씨(가제) (E16 · 담당 Skye Gwon)
+
+> 시장성 블록만 옮긴다 — 숫자 5종(D0 ROAS · 인기지수 · 소설 독자 수 · 플랫폼 뷰 2건)으로 전 17엔트리 최다. 같은 엔트리의 "왜 제작" 블록은 *"높은 적합성을 가짐"·"활용 가능"* 자기평가고, 인물 4명·트리트먼트 10화 전부 대사 0.
+
+시장성이 있는지?
+같은 IP의 리메이크 성공 케이스가 비글루 내에서 증명됨. ‘위태롭고 달콤한 우리 (Dangerously Sweet)’ 해당 작품은 런칭 초기, D0 ROAS 40% 이상을 기록하며 우수한 성과를 보임.
+원작 《悦后即焚》은 短剧百科에서 인기지수 5,061만을 기록한 작품으로, 이미 영상화 단계에서 대중성을 입증한 IP.
+영상 원작뿐 아니라 원작 소설 독자 수 약 25.58만 명을 기록하며 소설 단계부터 탄탄한 팬덤과 인지도를 확보한 작품. 즉, 원천 IP 자체의 서사와 캐릭터에 대한 선호도가 이미 검증되어 있다는 점에서 리메이크 제작 리스크가 낮음.
+특히 하나의 플랫폼에서만 소비된 작품이 아니라 중국 원작 흥행 → 글로벌 플랫폼 다중 유통 → DramaWave <그 밤에서 도망칠 수 없는 그녀> 11.3M, DramaBox <나의 토깽이 아가씨> 4.1M, ☆4.6으로, 시장성이 이미 검증된 IP.
+
+### 7-F. ❌ 대본 장면을 근거로 세운 논리 — 신부탈출기(가제) (E17 · 담당 Yulia Kim)
+
+> 표준 §3-0 위반 표본 2호. "8화 엔딩이 … 결제 전환을 유도하기에 충분한 분노 축적"은 8화를 읽고 다르게 느낀 위원에게 통째로 거짓이 된다. 경어체(`기능합니다`·`극대화했습니다`)와 같이 나온다. 시장성 칸의 숫자 4종은 강하다 — 그것만으로 섰으면 됐다.
+
+왜 제작해야 하는지?
+명확한 악역과 참교육 구조
+이복동생 미나(언니를 결박해 팔아넘기는 동생), 아리부·아리모(딸을 상품처럼 취급하는 부모), 경호원들(폭력을 집행하는 하수인)까지 가해 축이 뚜렷하고, 특히 자신들이 위협하고 있는 시골 노인이 실은 한명그룹 회장이라는 사실을 전혀 모르고 폭력을 휘두르는 장면은 참교육 페이오프가 극대화되는 지점
+페이월 직전 클리프행어의 완성도
+8화 엔딩이 정확히 '무료 회차 마지막 = 최고조 분노 지점'. 조부모를 향해 곡괭이가 높이 들리는 절체절명의 순간, 태진이 급정거하며 등장해 "그쯤 하는게 좋을거야"라는 싸늘한 한마디로 컷 — 결제 전환을 유도하기에 충분한 분노 축적과 반전 등장 구조를 이미 갖추고 있음
+관전 포인트
+태진의 위장 신분(운전기사 행세)이 언제, 어떻게 밝혀질지가 이야기 전체의 서사적 긴장을 끌고 가는 핵심 동력이며, 조부모의 정체(회장 부부)가 가족 갈등과 참교육 서사를 동시에 완성시키는 이중 장치로 기능합니다.
+시장성이 있는지?
+<신부탈출기> 데이터 
+- - 
+dramabox 6.3M
+DataEye의 일일 단편 드라마 인기 차트 최고 13위 기록
+'숨겨진 정체' + '가족 갈등' + '초고속 결혼' 구조는 릴숏·드라마박스 메가 IP에서 반복적으로 검증된 공식
+릴숏 대표 흥행작 <The Double Life of My Billionaire Husband>는 TIME 보도 기준 4.19억 뷰를 돌파했으며, '숨은 신분 + 조건부 결혼' 구조가 유사
+릴숏 <초고속 결혼과 대표님의 총애 >역시 장기간 상위권을 유지 3.4M을 기록
+드라마박스의 <용감한 배신>, <귀향>, <하룻밤의 행운> 등도 '숨겨진 정체 + 가족애 + 참교육' 구조로 메가 IP
+'재벌 + 참교육 + 숨겨진 정체' 조합의 IP는 릴숏·드라마박스에서 신작으로 꾸준히 출시되고 있어, 장르 자체의 반복 소비력이 확인됨
+크리에이티브에 변별력이 있는지?
+클래식 숏드의 강점을 가져가면서 한국판 워싱 과정에서 두 가지 지점을 전략적으로 강화
+원작에서는 남주의 '불임' 설정이 중반 이후 지아의 대사를 통해 간접적으로 언급되는 수준이었다면, 한국판은 이를 1화 오프닝으로 최전방 배치했습니다. 태진이 비뇨기과 대기실에 앉아있고, 주변 인물들이 "고자설"을 수군거리는 장면으로 극을 열면서, 시청자가 초반부터 강한 호기심과 오해 포인트를 갖고 몰입하도록 후킹을 극대화했습니다.
+'비서할래 와이프할래' 류 작품에서 반응이 좋았던 '정체를 몰라보고 회장을 모욕하는 악녀' 소재를 본작에도 적극 활용했습니다. 아리부가 시골 텃밭의 노인이 실은 한명그룹 회장인 줄 모른 채 곡괭이를 들고 위협하는 장면이 원작에도 존재하는데, 이 지점을 페이월 직전 클리프행어이자 참교육의 도화선으로 삼아 극대화함으로써, 검증된 소재를 본작의 구조에 맞게 재배치한 것이 이번 로컬라이징의 핵심 변별력입니다.
+
+**E17 클리프 8건 (라벨 = `▶ 클리프행어:` · 전부 "…에서 컷" 꼬리)**
+
+- ▶ 클리프행어: 놀란 태진이 웨딩드레스 차림에 손이 묶인 채 자신의 무릎에 올라탄 낯선 여자를 보며 "당신 뭐야?!" — 두 사람의 첫 만남에서 컷.
+- ▶ 클리프행어: 아리가 "여기서 내려주기만 하면 뭐든 다 하겠다"고 하자, 태진이 씩 웃으며 "그럼, 나랑 결혼해 지금" — 아리의 놀란 얼굴에서 컷.
+- ▶ 클리프행어: 신나서 소리치던 아리를 향해 태진이 차를 거칠게 급정거시키고, 말없이 그녀를 응시한다 — 정체를 알 수 없는 태진의 표정에서 컷.
+- ▶ 클리프행어: 앞유리 너머 도착지를 확인한 아리가 "여긴…?!"이라며 경악하는 얼굴에서 컷.
+- ▶ 클리프행어: 놀란 아리가 눈을 가리는 사이, 태진이 그대로 아리를 침대에 눕히고 그 위로 올라탄다 — 두 사람의 실루엣에서 컷.
+- ▶ 클리프행어: 밭을 매던 아리와 눈이 마주친 미나가 "뭐야, 윤아리?!"라며 가족들을 향해 손을 흔들어 부르는 활짝 핀 표정에서 컷.
+- ▶ 클리프행어: 멀리서 새참을 이고 오던 할머니가 이 광경을 목격하고 놀라 쟁반을 떨어뜨리며 "저게 다 무슨 일이야?!" — 다급한 외침에서 컷.
+- ▶ 클리프행어(=Paywall 컷): 차에서 내린 태진이 싸늘한 얼굴로 아리부를 향해 걸어가며 "그쯤 하는게 좋을거야." — 태진의 차가운 표정에서 컷. (유료 결제 유도 지점)
+
+### 7-G. 실사팀 `제작 적절성　制作費` 칸 실물 2건 (AI 양식엔 없는 칸 · 표준 §8 TBD 1)
+
+**E16**
+
+총 제작비:　総製作費：실제작비 1.7억 (IP 구매 비용, VAT 별도)
+Tier: 1
+예상 제작 기간: 8주
+예상 릴리즈 일정(월): 11월 중순
+
+**E17**
+
+총 제작비:　総製作費：실제작비 최대 1.8억 (IP 구매 비용, VAT 별도)
+Tier: 1
+예상 제작 기간: 7주
+예상 릴리즈 일정(월): 10월 말
