@@ -59,7 +59,7 @@ CONFLUENCE_LABELS = {
 SECTION_ORDER = ["title", "cm", "basic", "pitch", "characters", "plot", "treatment"]
 
 EP_HEAD_RE = re.compile(r'^\s*(제?\s?\d{1,3}\s*화|EP\.?\s?\d{1,3})\s*$')
-CLIFF_RE = re.compile(r'^\s*(?:\*\*)?(클리프|엔딩)(?:\*\*)?\s*[:：]\s*(.+)$')
+CLIFF_RE = re.compile(r'^\s*(?:\*\*)?(클리프|엔딩(?:\s*훅)?)(?:\*\*)?\s*[:：]\s*(.+)$')  # `엔딩 훅:` = 사용자 09-03 실물(표준 §8 TBD 7)
 BOLD_LINE_RE = re.compile(r'^\s*(?:\*\*(.+?)\*\*|###+\s+(.+?))\s*$')
 CHAR_HEAD_RE = re.compile(r'^\s*(?:\*\*)?([^\s*].{0,60}?)(?:\*\*)?\s*$')
 
