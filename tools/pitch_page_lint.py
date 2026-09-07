@@ -3,8 +3,8 @@
 """
 pitch_page_lint.py — 사내 "피칭 페이지"(S급 제작 결정 미팅 원고) 기계 게이트
 
-규격 근거 = 실물 10개 엔트리 전수 실측(scratchpad pitchdeck census, 2026-09-01).
-코퍼스 사본 = config/pitch_page_corpus/deck_2026-08-{13,20,27}.txt (원본 = 사내 Confluence
+규격 근거 = 실물 10개 엔트리 전수 실측(scratchpad pitchdeck census, 2026-09-01) + 09-03 미팅 7엔트리 추가(2026-09-07 · E11~E17 — 이 중 CD2 영문 양식 2건·실사팀 양식 2건은 라벨이 달라 대부분 SKIP).
+코퍼스 사본 = config/pitch_page_corpus/deck_2026-08-{13,20,27}.txt + deck_2026-09-03.txt (원본 = 사내 Confluence
 미팅 문서 MHTML→txt 추출본. --stats 실측·검증 전용 — 실제 원고 검사에는 안 쓰인다).
 
 입력 = 마크다운 원고. 섹션은 `## ` 헤더로 구분된다고 가정하고, 표준 7섹션명(부분 일치)을 인식한다:
@@ -27,7 +27,7 @@ sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8", errors="repla
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 CORPUS_DIR = os.path.join(HERE, "..", "config", "pitch_page_corpus")
-CORPUS_FILES = ["deck_2026-08-13.txt", "deck_2026-08-20.txt", "deck_2026-08-27.txt"]
+CORPUS_FILES = ["deck_2026-08-13.txt", "deck_2026-08-20.txt", "deck_2026-08-27.txt", "deck_2026-09-03.txt"]
 
 # ── 게이트 임계값 (전부 상수로 분리 — 나중에 조정 가능) ──────────────────────────
 MIN_FIELD_CHARS = 30          # F1
@@ -860,7 +860,7 @@ def load_corpus_entries():
 
 def run_stats():
     entries = load_corpus_entries()
-    print(f"코퍼스 엔트리 수: {len(entries)} (기대 10 — deck 3종 합산)\n")
+    print(f"코퍼스 엔트리 수: {len(entries)} (기대 17 — deck 4종 합산 · 08-13/08-20/08-27 = E1~E10 · 09-03 = E11~E17)\n")
 
     rows = []
     all_results = []
@@ -917,7 +917,7 @@ def run_stats():
         lens = [char_count(t) for t in e1_eps.values()]
         print(f"  E1 회차 {len(e1_eps)}개 · 평균 {statistics.mean(lens):.0f}자 · 범위 {min(lens)}~{max(lens)}자")
 
-    print("\n전체 게이트 판정 분포 (10 엔트리 × 20 게이트)")
+    print(f"\n전체 게이트 판정 분포 ({len(all_results)} 엔트리 × 20 게이트)")
     per_gate_fail = Counter()
     per_gate_skip = Counter()
     overall_counts = Counter()
@@ -932,8 +932,8 @@ def run_stats():
             if status == "SKIP":
                 per_gate_skip[gid] += 1
     print(f"\n엔트리 판정 분포: " + " · ".join(f"{k} {v}건" for k, v in overall_counts.items()))
-    print("게이트별 FAIL 빈도(10건 중): " + " ".join(f"{g}={per_gate_fail.get(g,0)}" for g in GATE_ORDER))
-    print("게이트별 SKIP 빈도(10건 중): " + " ".join(f"{g}={per_gate_skip.get(g,0)}" for g in GATE_ORDER))
+    print(f"게이트별 FAIL 빈도({len(all_results)}건 중): " + " ".join(f"{g}={per_gate_fail.get(g,0)}" for g in GATE_ORDER))
+    print(f"게이트별 SKIP 빈도({len(all_results)}건 중): " + " ".join(f"{g}={per_gate_skip.get(g,0)}" for g in GATE_ORDER))
 
 
 def main():
