@@ -72,6 +72,7 @@
 - [no-appearance-rating-in-proposal](feedback_no_appearance_rating_in_proposal.md) — 기획안에서 빼는 건 생김새 스펙뿐.
 - [rechecked-episodes-are-new-manuscript](feedback_rechecked_episodes_are_new_manuscript.md) — 회수본은 기검수 회차도 처음 보는 원고로 · diff부터.
 - [selling-point-sheet-format-is-the-spec](feedback_selling_point_sheet_format_is_the_spec.md) — CD1 시트 = `[EN_AI] Selling Point_Template.xlsx` 서식이 규격 · 빌더로만.
+- **[writer-feedback-no-padding](feedback_writer_feedback_no_padding.md)** — 🚨(2026-09-10) 작가 피드백 다듬기 = 사용자 핀트 그대로·항목 안 늘림·판정 1~2문장+대안 한 줄·컷/결제 강의 0·수정 불필요한 소소 지적 0·워싱은 이야기 바뀌는 설정만.
 - [writer-comment-standard](feedback_writer_comment_standard.md) — 작가 코멘트 = `30_writer_feedback_standard` · AI 헛다리 필터.
 - [pushback-user-contradiction](feedback_pushback_user_contradiction.md) — 확정 엔진·앞선 지시·원작과 충돌하면 반박 짚고 집행(진성 충돌만).
 - [writer-reference-draft-mode-learn-loop](feedback_writer_reference_draft_mode_learn_loop.md) · [transplant-intensity-not-actions](feedback_transplant_intensity_not_actions.md)(세계 치환 = 강도는 원작 이상·행위는 재발명) · [adaptation-conservative-no-forced-rewrites](feedback_adaptation_conservative_no_forced_rewrites.md)(verbatim 계승 · 억지 변경 금지)
