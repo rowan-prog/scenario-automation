@@ -17,6 +17,7 @@
 - [logline-catalog-slot-corpus](feedback_logline_catalog_slot_corpus.md) — 로그라인은 하나(러프 기획안 = T1 페이지). ⚠️ 여기 45~70자 규격은 09-02 폐기 — 시행착오 기록(엔진 한 줄 = 사용자 문장 · 반려 시 모델 실물부터).
 - [three-readers-rewind-zero-gate](feedback_three_readers_rewind_zero_gate.md) — 독자 3종(꼼꼼/대충/이해 못 함) · 되감기 0은 룰이 아니라 게이트 = `/plain-gate`(haiku) · skill 10종.
 - [fix-by-deleting-not-explaining](feedback_fix_by_deleting_not_explaining.md) — 이해 안 되는 자리 = 설명 덧대지 말고 없앤다("니 논문 써서 재미 없는 거야").
+- **[adaptation-rename-entire-cast](feedback_adaptation_rename_entire_cast.md)** — 🚨(2026-09-10) 각색 인명 치환 = 원작 이름 하나도 안 남긴다(성·조연·유료·아이·조직명). 게이트 = 우리 인물명을 원작 원문에 grep → 0회. 29번 사고(Reed 등 8명 = 우리 기획안이 원작 그대로).
 - [names-must-survive-ai-dubbing](feedback_names_must_survive_ai_dubbing.md) — 인명·사명 4검사(흔한가/발음 경로 하나/동음 상용어 없나/첫소리 갈리나).
 - [proposal-prose-five-checks](feedback_proposal_prose_five_checks.md) — 기획 프로즈 5검사(초등 어휘·은유 동사 0·누가 누구에게·능력 한 줄·출처 발명 0) + 교정마다 반대편 벽으로 튀지 말 것(모델 옆에 놓고 맞춘다).
 - **[proposal-form-fields-are-one-liners](feedback_proposal_form_fields_are_one_liners.md)** — 🚨(2026-09-04) 기획안 표에서 문장으로 쓰는 칸 = 로그라인·줄거리·캐릭터·트리트먼트뿐. 나머지(사이다훅·세계관·필수·금기) = 한 줄 목록 · 트리트먼트 재탕·수필 마무리·설계 설명·부연 = 삭제 대상. **금기 = 트리트먼트에 이미 있으면 빼고, 공백·표기·원작 오염·문체만 적는다.**
