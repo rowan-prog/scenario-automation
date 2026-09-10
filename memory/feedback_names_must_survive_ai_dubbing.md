@@ -17,3 +17,5 @@ metadata:
 **+ 한 단어가 여러 뜻으로 도는 이름 금지**(「쇼」 = 회사·성·저택·사촌 4가지 → 16회 노출로 문서가 통째로 복잡해졌다).
 
 관련: [[proposal-prose-five-checks]] [[ai-dub-tone-independent-dialogue]] [[character-name-diversity]] [[tts-literal-ear]]
+
+**2026-09-10 재발 (29번 개명 라운드):** 원작 이름을 빼는 데만 집중해 4검사를 안 돌리고 Megan Foster(②메건/미건 · ③foster 동사)·Nolan Pierce(③pierce — 이 파일에 예시로 적혀 있던 것)·Eddie Salazar(②강세 두 갈래)를 골랐다. 사용자: "절대 원칙인데?" → Nicole Hartman · Gordon Hastings · Leo Vargas로 교체. **이름을 하나라도 정할 땐 이 파일 4검사를 표로 찍고 나서 낸다 — 예외 없음.**
