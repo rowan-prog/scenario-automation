@@ -1,12 +1,18 @@
 ---
 name: adaptation-rename-entire-cast
-description: 각색·인명 치환 작품은 원작 인물 이름(성·이름·조연·유료 인물·아이까지) 하나도 남기지 말 것 — 2026-09-10 29번 사고
+description: 🚨 절대 규칙 — 원작·레퍼런스·역대본 인물 이름은 어떤 모드에서도 하나도 남기지 않는다 · 사용자 지시 없어도 매번 짚는다 · 기계 게이트 tools/name_leak_check.py PASS 없이 발송 금지 (29번 사고 2회 · 2026-09-10/14)
 metadata:
   type: feedback
 ---
 
-"인명 치환"이라고 써 놓고 원작 이름을 남기면 안 된다. 성(姓) 하나, 조연 하나, 유료 구간 인물, 아이 이름까지 전부다.
+원작·레퍼런스·역대본의 인물 이름(성·이름·조연·유료 인물·아이·조직명·회사명·중문 음차)은 **어떤 모드(verbatim 계승·세계 치환·인명 치환·히트작 골격 이식)에서도 하나도 남기지 않는다.** 사용자가 따로 지시 안 해도 내가 먼저 짚고, 사용자가 실수로 「유지」라고 말해도 다시 짚는다.
 
-**Why:** 2026-09-10 29번(마지막 날이 보이는 남자) 작가 1차 대본에서 사용자가 "Jack Reed면 Zion Reed 원작 성씨 따왔잖아"라고 격노. 대조해 보니 Reed·Chloe·Lance Cromwell·Mike·Lucas·Charles Waldorf·Joseph Quinn·Tyson 전부 원작 Countdown King 이름이었고, 출처는 작가가 아니라 **우리 러프 기획안 v6**(CLAUDE.md엔 "인명 치환"이라 적혀 있었음). 작가는 우리 걸 복사했을 뿐.
+**Why:** 29번(마지막 날이 보이는 남자) 사고 2회. ①2026-09-10 사용자가 작가 1차 대본에서 "Jack Reed면 Zion Reed 원작 성씨 따왔잖아" — 출처는 작가가 아니라 우리 러프 기획안(CLAUDE.md엔 "인명 치환"이라 적혀 있었음). 그때 텍스트 5종만 고치고 **docx 4종(기획안·트리트먼트·작가본 번역본·한중 대조본)은 안 고쳤고, 유료 구간 인물 4명(빈센트·피터·리디아·앤서니 웨인)은 원작 이름인 줄도 몰랐고, 바꾼 이름 뒤 조사(데릭는·니콜가·프레스턴가)는 전부 깨져 있었다.** ②2026-09-14 외부 AI(Astra)가 대본 검토 중 빌런 이름이 레퍼런스 그대로임을 잡아냄. 사용자: 「'다시는' 이런 실수가 안 나도록 하라. 너한테 이제 기획안도, 각색도 못 맡기겠네.」 / 「이건 '절대적'임. '이름'은 반드시, 내가 따로 지시 안 해도, 실수로라도 유지라고 말을 해도 다시 계속 짚어야 함. 절대, 절대, 절대, 레퍼런스 대본, 원작 대본, 역대본 이름을 유지해선 안 된다.」
 
-**How to apply:** 각색 기획안 게이트에 원작 EN/CN 텍스트 전수 grep 추가 — 우리 인물명(영문·한글·중문) 각각을 원작 원문에서 `\b이름\b`로 검색해 0회여야 통과. 성과 이름을 따로 검색한다(Reed처럼 성만 남는 사고). 유료 트리트먼트 인물·아이·조직명(Cromwell Group·Waldorf)까지 대상. 새 이름은 [[names-must-survive-ai-dubbing]] 4검사 + 첫소리 전원 상이. 관련 = [[dubbing-safe-character-names]] [[world-swap-acts-must-translate]]
+**How to apply:**
+1. 원작이 있는 작품은 산출물(러프·기획안·트리트먼트·피칭 페이지·대본·번역본·**docx 전부**)을 내보내기 전에 `python tools/name_leak_check.py --ref <원작 파일|폴더> --ours <우리 파일들>` → PASS가 없으면 발송·등재·빌드 금지. CLAUDE.md 룰 10 · skill 7종(rough-proposal·platform-proposal·adapt·proposal-review·adaptation-review·script-review·pitch-page)에 게이트로 박혀 있다.
+2. 검사기는 EN(화자 줄·TITLE CARD·소문자형 없는 대문자 단어)·CN(가운뎃점 이름)·KR(화자 줄) 자동 추출. **한글 음차는 자동으로 못 잡는다** — 원작이 영문이면 화자 목록을 뽑아 우리 문서에서 음차(빈센트·피터·리디아…)를 손으로 grep한다. 성과 이름을 따로 검색(Reed처럼 성만 남는 사고).
+3. 무료 구간뿐 아니라 **유료 트리트먼트 인물·아이·조직명(Cromwell Group)**까지. 치환표에 없는 인물이 원작에서 왔는지 매번 의심한다.
+4. 이름을 바꿨으면 텍스트 + docx 전부에 적용하고 **조사 재검사**(받침 유무가 바뀌면 이/가·을/를·은/는·과/와·이다/다가 전부 뒤집힌다). 반쯤 고친 상태로 "적용 완료"라고 쓰지 않는다.
+5. 작가가 보낸 원본 docx를 `reference/` 폴더에 두지 않는다(검사기가 원작으로 읽어 오염된다 — 29번에서 실제로 발생).
+6. 새 이름은 [[names-must-survive-ai-dubbing]] 4검사 + 첫소리 전원 상이. 관련 = [[dubbing-safe-character-names]] [[world-swap-acts-must-translate]] [[paywall-equals-last-free-episode]]
