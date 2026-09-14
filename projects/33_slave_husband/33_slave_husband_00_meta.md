@@ -28,4 +28,4 @@
 - 결말 미확정(위).
 
 ## 이력
-- 2026-09-14 워싱 v1 = `33_slave_husband_p0_rough.md` + docx `밤마다 나를 탐하는 노예 남편_무료회차 트리트먼트_워싱 v1.docx`(빌더 `_build_docx.py`). 게이트 = logline_lint 3후보 길이 PASS(인명 WARN은 조사 오탐) · 작업어 grep 0 · `name_leak_check.py`(ref 거지 아폴론) PASS · plain-reader 되감기 = 아래 갱신.
+- 2026-09-14 워싱 v1 = `33_slave_husband_p0_rough.md` + docx `밤마다 나를 탐하는 노예 남편_무료회차 트리트먼트_워싱 v1.docx`(빌더 `_build_docx.py`). 게이트 = logline_lint 3후보 길이 PASS(인명 WARN은 조사 오탐) · 작업어 grep 0 · `name_leak_check.py`(ref 거지 아폴론) PASS · plain-reader(haiku) 되감기 = 못 함 5 신고 → 4건 문장 수정(로그라인 B형 첫 문장 두 갈래 · 이유 문장 주어 2건 · 소문 주체) · 1건 유지(말안장 문양 = 주체 불필요).
