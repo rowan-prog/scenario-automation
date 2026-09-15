@@ -133,7 +133,9 @@ phase_0 (아이디어) → phase_1 (러프 청사진) → phase_2 (피칭) → �
 
 | `33_slave_husband` | 밤마다 나를 탐하는 노예 남편 / Claimed by the Midnight Beast (외부 작가 진행작) | **최종안 v2 (2026-09-15) = T1 페이지 + 대본 전체 피드백.** 여성향 히든 아이덴티티·노예 남편·계약 결혼 · 중세 서양풍 · 북미/글로벌 여성 20-40 · EN · 총 50화 · 무료 6. 원 대본 = `33_slave_husband_writer_script_v1.docx/.md`(50화 · 22화 표제 중복·19화 혼입). **메인 축(사용자 확정) = "내가 산 남편" — 낮엔 아리아가 주인·밤엔 그 남자가 아리아를 갖는다·그가 가족보다 높은 대공. 계모 욕망은 뺏으려는 손 중 하나(메인 아님). 판 = 농막·노예시장·백작가.** 산출 = `33_slave_husband_p0_rough_v2.md`(무료 6화 = 원 1~15화 재배치·6화 끝 수조 투신 순간·아리아는 유료까지 정체 모름) + `33_slave_husband_writer_feedback_v1.md`(북부 시집살이 22~35 삭제·에단 알고 숨김·몸 희생 수조 1회·대사 교체 8) + docx 2종. Codex 개발안·피드백 = `_codex_01/_02.md`(방향 채택·1화 과적/해방 문서/부관은 기각). v1 워싱본(작가 트리트먼트 두 버전 기반)은 보존·캐논 아님. 캐논·이력 = `33_slave_husband_00_meta.md`. 잔여 = 사용자 검토 → 작가 발송 |
 
-새 작품 번호 = **33**.
+| `34_storm_dragon_bride` | I Bought the Dragon Lord for One Night (가제) / 원작 《One Night with the Dragon Lord》 각색 | **FINAL v1 (2026-09-15) = `07_final/34_storm_dragon_bride_FINAL_v1_CN&EN.md` + `.docx`** — 사내 히트작 53화 껍데기 교체(모드 ① verbatim + 이름·지명·용어·색·공간 한 줄). 여성향 다크 판타지 로맨스 · EN 발화 · 중국 제작(지문 CN·대사 EN 중문 병기 = 원작 형식 그대로) · 53화 · 무료 1~8. 치환 = Astrid/Soren/Garrick/Bianca/Ingrid/Magnus · Stormhold(북해 절벽) · Ravenmoor · Wailing Wood · Golden Isles · Oathstone · First Spark · 용의 불 검붉음→남빛 번개(검정·붉음 = 왕의 저주·독). 대사 482줄 중 79줄 최소 워싱(opus 2기) · 지문 18줄(sonnet). 게이트 = name_leak_check PASS · 잔재 0 · 53화 · 대사 줄수 482 유지. 청사진 = `_01_adaptation_blueprint.md` · 변경 목록 = `_v1_changelog.md` · 이력 = `_00_meta.md`. 잔여 = 사용자 검토 · 제목 확정 |
+
+새 작품 번호 = **35**.
 
 > **현재본 단일 진실:** `07_final/[작품]_FINAL_v{최신N}.md`. 메타·CLAUDE.md 모순 시 → 파일 시스템 우선·메타 즉시 갱신. CLAUDE.md 작품 행 = 현재 상태 + 포인터만(이력 누적 금지).
 
