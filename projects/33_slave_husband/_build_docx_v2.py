@@ -29,5 +29,5 @@ def build(src, out):
         add(re.sub(r"\*\*(.+?)\*\*", r"\1", line.strip()))
     doc.save(out); print("saved", out)
 
-build("33_slave_husband_p0_rough_v3.md", "밤마다 나를 탐하는 노예 남편_로그라인·무료회차 트리트먼트_v3.docx")
+build("33_slave_husband_p0_rough_v4.md", "밤마다 나를 탐하는 노예 남편_로그라인·무료회차 트리트먼트_v4.docx")
 build("33_slave_husband_writer_feedback_v1.md", "밤마다 나를 탐하는 노예 남편_대본 전체 피드백_v1.docx")
