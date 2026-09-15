@@ -11,6 +11,8 @@
 
 - 2026-09-15 **FINAL v1** = `07_final/34_storm_dragon_bride_FINAL_v1_CN&EN.md` + `.docx`. 결과: 대사 482줄 중 79줄 워싱(A 40·B 39 — 메인이 2줄 손봄: L609 "get away from me" · L757 "hold back the poison") · 지문 18줄(메인이 L1625 "港口礁石"로 수정) · 기계 치환 약 2,100건. 게이트: `name_leak_check.py` PASS(오탐 Cut만 allow) · 잔재 grep 0 · 한국어 0 · 53화 · 대사 줄수 원작과 동일. 변경 목록 = `34_storm_dragon_bride_v1_changelog.md`.
 
+- 2026-09-15 사용자 반려 "Astrid 장난하냐. 영어권 이름으로 해라" → 전원 교체: Nora(诺拉)/Damon(达蒙)/Garrick 유지/Vivian(薇薇安)/Sabrina(萨布丽娜)/King Edmund(埃德蒙). md·docx·청사진·변경목록 전역 치환, name_leak PASS 재확인.
+
 ## 제목 후보 (미확정)
 1. I Bought the Dragon Lord for One Night (가제·문서 헤더)
 2. The Stranger I Bought Was the Dragon Lord

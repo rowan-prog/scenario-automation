@@ -13,12 +13,12 @@
 
 | 원작 | 우리 | CN |
 |---|---|---|
-| Isolde 伊索尔德 | **Astrid** | 阿丝翠 |
-| Vael 维尔 | **Soren** | 索伦 |
+| Isolde 伊索尔德 | **Nora** | 诺拉 |
+| Vael 维尔 | **Damon** | 达蒙 |
 | Hadren 哈德伦 | **Garrick** | 加里克 |
-| Chloe 克洛伊 (妹妹/表妹 혼용) | **Bianca** (계모 쪽 여동생 = 왕의 친딸) | 比安卡 · 继妹 |
-| Elara 艾拉拉 | **Ingrid** | 英格丽 |
-| King Aldric 阿尔德里克 | **King Magnus** | 马格努斯 |
+| Chloe 克洛伊 (妹妹/表妹 혼용) | **Vivian** (계모 쪽 여동생 = 왕의 친딸) | 薇薇安 · 继妹 |
+| Elara 艾拉拉 | **Sabrina** | 萨布丽娜 |
+| King Aldric 阿尔德里克 | **King Edmund** | 埃德蒙 |
 | 母亲 · 侍卫 · 死士 · 长老甲/乙 · 医师 · 将领 | 그대로(무명 역할) | — |
 | 人类王国 | **Ravenmoor** | 鸦泽王国 |
 | Dragon Castle 龙堡 / 黑色城堡 | **Stormhold** (북해 절벽 위의 성) | 风暴堡 |
@@ -36,10 +36,10 @@
 | 暗金色竖瞳 · 猩红竖瞳(저주) | 그대로 | — |
 | 黑红色毒纹 · 咒纹 · 黑日의 黑芒 | 그대로 (검정·붉음 = 왕의 것) | — |
 
-색 규칙 = 파랑·은색은 소렌 자신의 힘, 검정·검붉음은 왕의 저주와 독. 원작에선 둘 다 검붉어서 구분이 없었다.
+색 규칙 = 파랑·은색은 데이먼 자신의 힘, 검정·검붉음은 왕의 저주와 독. 원작에선 둘 다 검붉어서 구분이 없었다.
 
 ## 4. 이름 기준 (사용자 2026-09-15)
-세계관에 맞는 판타지풍 · AI가 이름으로 읽음 · 읽는 법이 하나뿐(Astrid·Soren·Garrick·Bianca·Ingrid·Magnus 전부 통과) · 원작 이름 잔존 0 (`tools/name_leak_check.py` PASS 필수).
+**영어권 이름만**(북유럽·이탈리아풍 "판타지 이름" 금지 — 2026-09-15 사용자 교정, 1차 Astrid/Soren/Bianca/Ingrid/Magnus 반려) · AI가 이름으로 읽음 · 읽는 법이 하나뿐(Nora·Damon·Garrick·Vivian·Sabrina·Edmund 전부 통과) · 원작 이름 잔존 0 (`tools/name_leak_check.py` PASS 필수).
 
 ## 5. 작업 방식 (토큰 최소)
 1. 기계 치환(python) — 이름·지명·용어·색. 지문 본문은 손 안 댐.
