@@ -13,6 +13,8 @@
 
 - 2026-09-15 사용자 반려 "Astrid 장난하냐. 영어권 이름으로 해라" → 전원 교체: Nora(诺拉)/Damon(达蒙)/Garrick 유지/Vivian(薇薇安)/Sabrina(萨布丽娜)/King Edmund(埃德蒙). md·docx·청사진·변경목록 전역 치환, name_leak PASS 재확인.
 
+- 2026-09-15 사용자 지시 "작품개요 첫페이지에 요약적으로(타이틀·로그라인·무료회차·총회차·세계관·주요인물) 그러고 나서 대본" → opus 1기(정본 50_t1 Part 0·A + 대본 전량 정독)가 EN+CN 개요 작성, 메인이 저주 출처 한 문장 추가 → docx 첫 페이지 개요 + 페이지 나눔 + 대본. 중문 제목 후보 = 我买下的男人，是龙族领主 / 一夜买下龙主.
+
 ## 제목 후보 (미확정)
 1. I Bought the Dragon Lord for One Night (가제·문서 헤더)
 2. The Stranger I Bought Was the Dragon Lord

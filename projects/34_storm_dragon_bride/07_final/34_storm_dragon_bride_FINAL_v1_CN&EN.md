@@ -1,6 +1,51 @@
 I Bought the Dragon Lord for One Night
+（中文标题：我买下的男人，是龙族领主　／　备选：一夜买下龙主）
 
+OVERVIEW / 作品概要
 
+Logline
+An outcast princess, sent to the dragon lord in her stepsister's place so her dying mother keeps her medicine, buys a stranger for her last free night, learns the man she bought is the dragon lord himself, and stays at his side to use his army against the king who poisoned her, until she gives up her revenge to save him and is crowned his queen.
+被赶出王室的公主，为了保住母亲的续命药，代替继妹嫁给龙族领主，却在婚前最后一夜买下一个陌生男人，事后才知道那个男人就是龙族领主本人，于是留在他身边，想借他的军队向下毒害她的国王复仇，最终却放下复仇救下他，戴上龙后的王冠。
+
+Episodes
+Free episodes 1 to 8. Total 53 episodes.
+免费剧集：第1集至第8集。全剧共53集。
+
+World
+Ravenmoor is a human kingdom, and the man on its throne married into the royal family and took the crown for himself.
+Stormhold is the dragon citadel on the cliffs above the northern sea, where the snow and the storms never stop.
+The Dragon Lord of Stormhold has carried a curse since he was a child, and when it rises he turns into a dragon he cannot control. The king of Ravenmoor laid that curse on him as a child, so that one day he could hold the dragons through their lord.
+The king's other hold on people is Royal Venom, a poison he puts into their blood so that he can give them pain or stop it whenever he wants.
+Inside Stormhold stands the Oathstone, a stone that lights up only for two people who truly love each other.
+鸦泽是人类的王国，坐在王座上的那个男人是入赘进王室、夺走王冠的人。
+风暴堡是龙族的城堡，建在北方大海的悬崖上，那里常年风雪不停。
+风暴堡的龙族领主从小就带着诅咒，诅咒一发作，他就会变成自己控制不住的巨龙。这道诅咒是鸦泽国王在他小时候亲手种下的，为的是有朝一日隔着龙主攥住整个龙族。
+国王攥住人的另一样东西是王室血脉之毒，下进血里，他想让谁痛就让谁痛，想停就停。
+风暴堡里还立着一块誓约石，只有真心相爱的两个人去碰，它才会亮起来。
+
+Main Characters
+Nora — Outcast princess of Ravenmoor, Nora, is sent to Stormhold as a substitute bride in her stepsister's place, because the king holds her dying mother's medicine. She wants her mother alive and the king brought down, so she stays close to the Dragon Lord and works to turn his power against her own kingdom.
+鸦泽的弃女公主诺拉，因为母亲的续命药攥在国王手里，只能代替继妹嫁进风暴堡。她想让母亲活下来，也想扳倒国王，于是留在龙族领主身边，想把他的力量掉转过来对付自己的王国。
+
+Damon — Dragon Lord of Stormhold, Damon, rules the dragons and has carried a curse since he was a child, and Nora's touch is the only thing that quiets it. He finds out early that she is not the bride named in the pact and that she is using him, and he gives her his castle, his army and his crown anyway.
+风暴堡的龙族领主达蒙统治着龙族，从小就带着诅咒，而唯一能让诅咒平息的，就是诺拉的触碰。他很早就知道她不是婚契上写的那个新娘，也知道她在利用自己，却照样把城堡、军队和王冠都交给了她。
+
+Garrick — Nora's former fiance, Garrick, pushed her toward the dragon to save his own skin, and then took up with her stepsister. He comes to Stormhold with a story about her mother, to lure Nora out of the castle and hand her back to the king.
+诺拉的前未婚夫加里克，为了自保把她推给龙族，转头又和她的继妹搅在一起。他拿着关于她母亲的说辞找到风暴堡，想把诺拉骗出城堡，重新送回国王手里。
+
+Vivian — The king's daughter and Nora's younger stepsister, Vivian, is the bride named in the dragon marriage pact, and she cried her way out of it so that Nora would go in her place. Once she sees the Dragon Lord's face she wants that seat back, and she walks into his great hall with the pact to have Nora thrown out as a fake.
+国王的女儿、诺拉的继妹薇薇安，才是龙族婚契上写着的新娘，她哭着把这门亲事推给了诺拉。等她看清龙族领主的脸，又想把那个位置抢回来，于是拿着婚契走进大殿，要把诺拉当成冒牌货赶出去。
+
+Sabrina — A woman of the dragon court, Sabrina, wants the Dragon Lord for herself and treats Nora as a human toy who has no business in the castle. She leads guards into Nora's bridal chamber to have her named a cheat, and later brings Vivian into the great hall to stop the crowning.
+龙族宫廷里的女人萨布丽娜，一心想要龙族领主，把诺拉当成不配待在城堡里的人类玩物。她带着卫兵闯进诺拉的婚房，想把她坐实成偷情的女人，后来又把薇薇安带进大殿，要拦下加冕。
+
+King Edmund — King of Ravenmoor, Edmund, married into the royal family and took the crown, and he holds people instead of fighting them. He puts Royal Venom into Nora's blood and orders her to make herself the Dragon Lord's weakness, so that he can hold the dragons through her.
+鸦泽的国王埃德蒙，是入赘王室、夺走王冠的人，他不靠打，只靠攥住人。他把王室血脉之毒下进诺拉的血里，命令她去做龙族领主的软肋，好让他隔着诺拉攥住整个龙族。
+
+Nora's Mother — Nora's mother carries the royal blood of Ravenmoor, and she is dying in the palace with her medicine in the king's hands. She begs to the last for her daughter not to be sent to the dragon, and after Nora leaves, the king locks her away and uses her to keep Nora obeying.
+诺拉的母亲身上流着鸦泽真正的王室血脉，如今病重躺在王宫里，续命药握在国王手里。她到最后一刻都在求他们别把女儿送去给龙，诺拉走后，国王把她关了起来，用她逼诺拉听话。
+
+SCRIPT / 剧本
 
 第1集
 1-1 港口客栈客房 夜 内
@@ -1699,7 +1744,6 @@ Cut to
 △伴随着龙印光芒的闪烁，微弱的幼龙心跳声与海浪的节奏重合。
 △ 【镜头运动】镜头转为360度环绕慢镜头，海风肆意扬起诺拉轻薄的白色裙摆与达蒙的短发。
 △ 【定格】画面在红金色的微光、湛蓝的海水、以及诺拉和达蒙的拥吻迎着刺眼的阳光渐渐泛白淡出。
-
 
 
 
