@@ -5,6 +5,7 @@
 ## 🥇 매 작업 진입 시 (always)
 
 - **[t1-page-exemplars-whole-learning](feedback_t1_page_exemplars_whole_learning.md)** — 🚨(2026-09-02) 로그라인·트리트먼트·러프 기획안 모델 = 현장 호평 T1 페이지 3편 `config/50_t1_page_exemplars.md`(전 작업공간). **제1원리 = 무료 8~10화 전체가 한 편의 유기적인 글, EP은 자른 자리 — 문장은 앞 문장에서, 화는 앞 화 마지막 순간에서 · 끄는 문장 = 앞뒤에 걸린 스토리 문장(독립 카피 ✗) · 판정 = 헤더 지우고 읽어도 한 편인가.** 겉모양 = 정본 2형 로그라인 110~175자·셀링 2~4 라벨·꺾이는 자리 7유형·페이지 1:1.
+- **[free-run-sells-the-title-not-family-politics](feedback_free_run_sells_the_title_not_family_politics.md)** — 🚨(2026-09-15) 무료 회차 = 제목의 원초 욕망을 화마다 한 칸 · 가족 정치·자해 모함·자백·재판·코러스 = 연극 = 유료 · 원 대본 좋은 대사 ≠ 그 무대 장면 · 1화 첫 컷 = 마지막 무료 끝 · 문장 = 묘사 0 요약체.
 - **[paywall-equals-last-free-episode](feedback_paywall_equals_last_free_episode.md)** — 🚨(2026-09-10) 페이월 = 마지막 무료회차 그 자체(무료 1~8 = 8화 엔딩이 결제 컷). "마지막 무료+1"로 세면 틀림 · 작가본이 더 길면 그 뒤는 유료.
 - [no-je-pronoun-use-jagi](feedback_no_je_pronoun_use_jagi.md) — (2026-09-08) 한국어 산출물에서 '제 몸·제 아내' 같은 '제' 재귀 표현 금지 · '자기 몸'으로. 우회 표현('그녀 이름으로 돌리고')도 직접 말한다.
 - **[full-sentences-no-telegraphic](feedback_full_sentences_no_telegraphic.md)** — 🚨(2026-09-10) 모든 한국어 출력 = 주어·동사 있는 온전한 문장. "A는 B 한마디로"·화살표·뒤 잘라먹기 압축 금지. 채팅 답장도 같다.
