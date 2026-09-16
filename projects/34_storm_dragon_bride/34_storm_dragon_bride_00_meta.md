@@ -15,6 +15,8 @@
 
 - 2026-09-15 사용자 지시 "작품개요 첫페이지에 요약적으로(타이틀·로그라인·무료회차·총회차·세계관·주요인물) 그러고 나서 대본" → opus 1기(정본 50_t1 Part 0·A + 대본 전량 정독)가 EN+CN 개요 작성, 메인이 저주 출처 한 문장 추가 → docx 첫 페이지 개요 + 페이지 나눔 + 대본. 중문 제목 후보 = 我买下的男人，是龙族领主 / 一夜买下龙主.
 
+- 2026-09-16 **Codex 작업본 인입 = FINAL v3** (사용자: "이게 최종고" + "너의 34번 프로젝트에 옮겨놔"). 원본 = `C:/Users/Rowan/Documents/Codex/scenario-automation-codex/projects/33_storm_dragon_bride/adaptation/I Bought the Dragon Lord for One Night_다듬은대본_v003.docx`(원본은 그대로 두고 복사). 정본 = `07_final/34_storm_dragon_bride_FINAL_v3_CN&KO&EN.docx` + 추출본 `.md`(3,696문단 / 5,863줄 / 영어 대사 486줄). v1·v2 대비 달라진 것 = ①**3개 국어 병기**(중문 지문 + 한국어 + 영어 — v1/v2는 CN&EN) ②**인명 재교체: Nora→Ophelia(奥菲莉娅) · Damon→Dorian(多里安)** ③장면 7곳 수정(11·16·35·40·42·45·51화 — 전후 대조 = `34_storm_dragon_bride_v3_changes.md`). Codex v001·v002 + STATUS = `_work_codex/`.
+
 ## 제목 후보 (미확정)
 1. I Bought the Dragon Lord for One Night (가제·문서 헤더)
 2. The Stranger I Bought Was the Dragon Lord
