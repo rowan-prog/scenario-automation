@@ -268,4 +268,5 @@ v3 = 트리트먼트 1~8화 + 셀링 포인트 6개 **문장 전량 재작성**(
 - 비즈니스 칸(제작비·납품·릴리즈·샘플 납품일·비용) = 빈칸. 샘플 범위만 1~8화.
 - **원작 이름 잔존 2건 발견 → 사용자 확정 교체:** 할아버지 개럿(Garrett) = 원작 Garret Ashford → **월터 콜(Walter Cole)** / 수습생 테스(Tess) = 원작 Tessa Rosevale → **루시(Lucy)**. p0·meta 캐논·spec·docx 전부 적용, 조사(은→는·이→가·을→를) 재검사. 성씨 전수 대조 = 우리(콜·블레이크·베넷·쇼) vs 원작(Ashford·Starborne·Thornewood·Ravencrest·Holloway·Rosevale·Dewbrook) 겹침 0, 한글 음차 0. `name_leak_check` PASS(원작 제목 단어 Baby·Daddy·Elf·Prince만 허용 — 레퍼런스 칸). ⚠️ 플랫폼 등재 T1 페이지(1·2·3·7화)는 아직 개럿 — 사용자 갱신 필요. `config/50_t1_page_exemplars.md` Part A는 당시 페이지 verbatim 기록이라 손대지 않음.
 - **정식대본 오기 수정:** 장면 제목 5곳 `아마커스 아카데미` → `아케인 아카데미`(원작 Arcane Academy · 같은 파일 다른 자리 표기와 통일). 치환표도 같이.
+- **같은 날 한중 병기본 추가(사용자 지시):** `Vigloo AI Drama Proposal_I'M CARRYING THE WOLF HEIR'S TRIPLETS_KR_CN.docx`(spec = `30_wolf_heir_triplets_p1_proposal_spec_kr_cn.txt`). 한국어 전용본은 그대로 둠. 번역 = opus 1기(고정 용어표: 米拉·科尔 · 马库斯·布莱克 · 戴安娜·布莱克 · 沃尔特 · 克莱尔·贝内特 · 理查德·贝内特 · 伊森 · 凡妮莎 · 托比 · 亚瑟·肖 · 无狼者 · 狼群 · 阿尔法 · 狼后 · 贝塔 · 伴侣印记 · 纯血 · 古籍修复室 · 月光俱乐部). 제목 CN = 我怀了狼族继承人的三胞胎 · 장르 CN = 现代狼人爱情 (女频). 게이트 = 구간·줄 구조 일치 · CN 줄 한글 0 · 한국어 부분 = KR 전용본과 동일 · name_leak PASS.
 
