@@ -1257,17 +1257,21 @@ OPHELIA: (whispering) Not yet.
 도리안 (V.O.): 저주가... 타는 감각이 사라지고 있어...
 DORIAN (V.O.): The curse... the burning is fading...
 
-△奥菲莉娅掰开多里安攥着破碎床单的手，把它放在自己的腰上。
-△오필리아가 찢어진 시트를 움켜쥔 도리안의 손을 떼어 내 자기 허리 위에 올려놓는다.
-△Ophelia PRIES Dorian's hand off the torn sheets and PLACES it on her own waist.
-
-奥菲莉娅: 现在。
-오필리아: 지금.
-OPHELIA: Now.
-
-△多里安的大手猛地一把扣住她的腰。奥菲莉娅的身体在他掌中狠狠一颤。
-△도리안의 손이 단번에 오필리아의 허리를 움켜쥔다. 오필리아의 몸이 그 손안에서 크게 움찔한다.
-△Dorian's hand GRABS Ophelia's waist in one move. Ophelia's body JOLTS hard in his grip.
+△多里安的双手未经允许，猛地从破碎的床单上挣脱。他暗金色的竖瞳骤然亮起。
+△도리안의 두 손이 허락도 없이 찢어진 시트에서 뜯겨 나온다. 도리안의 어두운 금빛 세로 동공이 번쩍인다.
+△Dorian's hands RIP free of the torn sheets without permission. Dorian's dark-gold slit pupils FLARE.
+△多里安一把掐住奥菲莉娅的胯骨，自下而上狠狠顶撞。
+△도리안이 두 손으로 오필리아의 골반을 움켜쥐고 밑에서 거칠게 치받는다.
+△Dorian SEIZES Ophelia's hips and BUCKS up hard beneath her.
+△多里安把奥菲莉娅猛地拽向自己，一口咬住她的肩头。
+△도리안이 오필리아를 자기 쪽으로 확 끌어내려 그녀의 어깨를 문다.
+△Dorian YANKS Ophelia down to him and BITES her shoulder.
+△掌控节奏的奥菲莉娅瞬间失控，尖声哭喊出来。
+△리듬을 쥐고 있던 오필리아가 한순간에 통제를 잃고 날카로운 울음을 터뜨린다.
+△Ophelia loses control of the rhythm in an instant, a sharp cry BREAKING out of her.
+△奥菲莉娅没有推开他，反而一把揪住多里安的头发，将他更狠地按向自己。她喘不上气，嘴角却扬了起来。
+△오필리아는 도리안을 밀어내지 않고, 그의 머리채를 움켜쥐어 오히려 자기 쪽으로 더 끌어당긴다. 숨도 제대로 못 쉬면서 오필리아의 입꼬리가 올라간다.
+△Ophelia doesn't push Dorian away — Ophelia FISTS Dorian's hair and DRAGS him harder against her. Ophelia can't breathe, but the corner of Ophelia's mouth CURLS up.
 
 多里安: 操……想要什么，全都拿走……
 도리안: 젠장... 원하는 건 뭐든 가져가...
