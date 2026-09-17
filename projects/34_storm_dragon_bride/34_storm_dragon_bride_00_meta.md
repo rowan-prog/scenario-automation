@@ -47,6 +47,8 @@
 
 - 2026-09-17 **FINAL v13** = `07_final/34_storm_dragon_bride_FINAL_v13_CN&KO&EN.docx` + `.md` = v12 + **36화 V.O. 한 줄**(무릎 찧기 뒤 살기 클로즈업 · "Kneel? Fine. But I'm remembering every single face." · 계획 정보 0). 광고 계획 v2의 나머지 2건(1화 프레임·51화 표지)은 원작에 이미 있어 미수정. 4화 칼날 비트 = 사용자 "맥락상 강하면 놔둬도 됨" → 유지, 광고 소재에서만 제외. **보강 라운드 종료.** 변경 목록 = `34_storm_dragon_bride_v13_changes.md`.
 
+- 2026-09-17 **FINAL v14** = `07_final/34_storm_dragon_bride_FINAL_v14_CN&KO&EN.docx` + `.md`. 외부 AI 5차 리뷰("큰 재수정 불필요") 4건 전부 원문 대조 후 채택 = **원작 확정 오류 2**(7화 영어만 오필리아 현장 부재 위반 → "We've sent you our princess" / 46→47화 국왕 낙하 위치 불일치 → 46화 "절벽 가장자리 제단 바닥 위 허공"으로 3개 국어 수정) + **영어 2**(36화 V.O. "I won't forget a single face" / 26화 내 v4 과구체화 "rip his own heart open" → "destroy his heart"). 6줄. 게이트 = 줄 수 유지 · name_leak PASS. 변경 목록 = `34_storm_dragon_bride_v14_changes.md`.
+
 ## 제목 후보 (미확정)
 1. I Bought the Dragon Lord for One Night (가제·문서 헤더)
 2. The Stranger I Bought Was the Dragon Lord
