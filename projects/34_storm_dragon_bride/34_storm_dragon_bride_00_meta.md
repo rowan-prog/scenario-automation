@@ -35,6 +35,8 @@
 
 - 2026-09-16 **FINAL v10** = `07_final/34_storm_dragon_bride_FINAL_v10_CN&KO&EN.docx` + `.md`. 외부 AI 3차 리뷰("9차본이 더 낫다 · 41→42화 감정 연결 좋아짐 · 보강은 그만하고 표현 3곳만 정리") 반영 = ①4화 칼날 = 찌르기가 아니라 **이미 베인 목에 더 세게 눌러 붙이기**(사용자 확인 · 중·한·영 3줄) ②10화 "목덜미 맨 윗등뼈"→"목덜미" ③23화 영어 지문 두 문장으로 분리. 게이트 = 줄 수 유지 · 바뀐 줄 7 · name_leak PASS. **보강 라운드 종료 — 이후는 사용자 콜드리드.** 변경 목록 = `34_storm_dragon_bride_v10_changes.md`.
 
+- 2026-09-17 **FINAL v11** = `07_final/34_storm_dragon_bride_FINAL_v11_CN&KO&EN.docx` + `.md`. ①24화 사용자 지정 삭제 2(돌바닥 긁는 손 클로즈업 · 손깍지로 돌바닥 고정) → 35→33줄 ②**비늘 상한 = 목·턱선** — 2·3·24·34·37·41·42·45·46화 9곳 27줄에서 "뺨·옆얼굴·얼굴 절반"을 목/턱선/쇄골으로 내림(사용자: "괴물이나 거부감 느끼는 외모로 안 가게, 없애지 말고 거기까지 안 올라오게"). 51·52화 얼굴 비늘은 결말 장치라 유지, 41화 저주 문양 얼굴은 비늘 아님·유지. 게이트 = 의도 밖 손실 0 · name_leak PASS. 변경 목록 = `34_storm_dragon_bride_v11_changes.md`.
+
 ## 제목 후보 (미확정)
 1. I Bought the Dragon Lord for One Night (가제·문서 헤더)
 2. The Stranger I Bought Was the Dragon Lord
