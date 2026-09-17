@@ -1,0 +1,210 @@
+# v15 변경 목록 (2026-09-17) — 대사 65줄 + 한국어 1줄
+
+정본 = `07_final/34_storm_dragon_bride_FINAL_v15_CN&KO&EN.docx` (v14 기준)
+
+절차 = 내 전수 짚기(`_dialogue_audit_v1.md` 🔴10·🟡78) + 사용자 기준(문학적·비직관·김 → 명확 / 흔한 비유 OK / 원작보다 좋게 / **꼴리는 대사 워싱 금지** / Beg me↔Beg you 연결 유지) + 외부 AI 12건 → 대상 65 확정(브리프 `_dialogue_fix_brief.md`) → opus 1기 작성 → 메인 중문 대조 후 5줄 수정(612·748·1082·4636·4838 — 유닛이 뜻을 바꾸거나 발명한 것) → 반영.
+
+**뺀 것(워싱 안 함)** = "please me"·"my Lord"(원작 유혹 톤)·"our bitch"·"take it all"·"A dragon protects its treasure with its life"·"You're just the dish I ordered for my last meal"·"Say my name again…"(귓가 대사)·"get you off"(앞절 유지).
+
+게이트: 줄 수 유지 · Beg me↔Beg you 연결 ○ · Tonight is mine 유지 · fuck/slut/bitch 수위 유지 · Eyes on me 1회 · name_leak PASS.
+
+## 전후
+
+- L31
+  - 전: `DORIAN: They feed you to that monster in the morning, Princess. And tonight you climb into my bed to feed me? Are you really that hungry for it?`
+  - 후: `DORIAN: Tomorrow they feed you to that monster, Princess. Tonight you crawl into my bed to feed me? You're that hungry?`
+- L39
+  - 전: `DORIAN: Go ahead, cry. Beg for it. Tell me how badly you want it, and maybe I'll fuck you gently.`
+  - 후: `DORIAN: Cry for me. Beg me. Tell me how badly you want it. Then maybe I'll fuck you gently.`
+- L62
+  - 전: `MOTHER: (weak, sobbing) No... the pact with the dragons was for Vivian... not for my girl...`
+  - 후: `MOTHER: (weak, sobbing) No... the dragon pact was for Vivian... not my daughter...`
+- L78
+  - 전: `MOTHER: Every bride he's taken, he's ripped apart on her wedding night! You're sending my girl straight to her grave!`
+  - 후: `MOTHER: He tears every bride apart on her wedding night! You're sending my daughter to die!`
+- L110
+  - 전: `OPHELIA: But tonight, these gates stay open for me. Until sunrise, my body and my freedom belong to me. Get in my way, and the kingdom loses its offering.`
+  - 후: `OPHELIA: But tonight, I walk out of this palace. Until dawn, I do what I want. Don't stop me — you need me alive tomorrow.`
+- L155
+  - 전: `OPHELIA: (breathless, eyes wild with possessive hunger) Come morning, I belong to my kingdom, and to my grave. But tonight...`
+  - 후: `OPHELIA: (breathless, eyes wild with possessive hunger) Tomorrow, they're sending me to die. But tonight...`
+- L299
+  - 전: `SABRINA: Well, look who crawled in. The throwaway princess her own father sold off for a little peace and quiet.`
+  - 후: `SABRINA: Well, look who crawled in. The throwaway princess. Her own father sold her so we wouldn't burn his kingdom.`
+- L307
+  - 전: `SABRINA: A weak little human with a mother rotting away back home. You really think you're a bride? You're just something for the Lord to play with.`
+  - 후: `SABRINA: A weak little human with a half-dead mother back home. You think you're a bride? You're the Lord's toy.`
+- L331
+  - 전: `SABRINA: You arrogant slut! Tonight you're the first one dragged to his bed. I'm going to enjoy hearing you scream!`
+  - 후: `SABRINA: You arrogant slut! They drag you to his bed first tonight, and I can't wait to hear you scream!`
+- L353
+  - 전: `OPHELIA: You can't even keep your own women in line. No wonder you had to send for a bride with real royal blood.`
+  - 후: `OPHELIA: A king who can't control his own harem. No wonder you sent for a royal bride.`
+- L400
+  - 전: `DORIAN: Up here. Beside me. That's where my mate sits while they kneel.`
+  - 후: `DORIAN: Up here. Beside me. That's where my mate sits while the court kneels.`
+- L436
+  - 전: `GUARD: My Lord, the woman in your chamber isn't the princess you were promised. She's a stand-in... the human king's cast-off daughter, Ophelia.`
+  - 후: `GUARD: My Lord, the woman in your chamber isn't the princess you were promised. They sent a substitute — the human king's cast-off daughter, Ophelia.`
+- L448
+  - 전: `DORIAN: At the inn, the curse almost turned me into the dragon. Her touch stopped it. Interesting. Let's find out what this little wildcat is really after.`
+  - 후: `DORIAN: At the inn, the curse almost made me shift. Her touch stopped it. Let's find out what this little wildcat really wants.`
+- L502
+  - 전: `OPHELIA: All you need is a body to get you off. Why would it matter to you if I feel anything?`
+  - 후: `OPHELIA: All you need is a body to get you off. What do you care if I have a heart?`
+- L518
+  - 전: `OPHELIA: (flat, expressionless) Is this over? I can fake the sounds, if that's what you want.`
+  - 후: `OPHELIA: (flat, expressionless) Are you done? I can make the sounds, if that's what you want.`
+- L541
+  - 전: `DORIAN (V.O.): (smug) Hah. She hates the dragon in me, but this human face she can't say no to? Fine. Watch me bring her to her knees again.`
+  - 후: `DORIAN (V.O.): (smug) Hah. She hates the dragon, but she can't say no to this human face. Fine. I'll bring her to her knees again.`
+- L552
+  - 전: `OPHELIA: Come any closer and I'll dig that heart out of your chest.`
+  - 후: `OPHELIA: Come one step closer and I'll carve out your heart.`
+- L579
+  - 전: `OPHELIA: First, I'm the Lady of Stormhold. Wife on paper or not, I know my place. No other man touches this bed.`
+  - 후: `OPHELIA: First, I'm the Lady of Stormhold. Marriage on paper or not, this castle answers to me. No other man gets into my bed.`
+- L587
+  - 전: `OPHELIA: Second, you were just a tool I picked for the night. I've already had that body of yours. You're just another horny animal, same as the rest.`
+  - 후: `OPHELIA: Second, last night you were a tool I picked. I've had that body already. You're just another animal in heat.`
+- L595
+  - 전: `OPHELIA: And last, you broke into my wedding chamber uninvited. As his wife, I have every right to order your execution right now.`
+  - 후: `OPHELIA: And last, you broke into my wedding chamber. As the Lord's wife, I can have you executed right now.`
+- L612
+  - 전: `DORIAN: If you killed me... would it break your heart?`
+  - 후: `DORIAN: Kill me. Then tell me it won't break your heart.`
+- L623
+  - 전: `DORIAN: That knife doesn't hurt, Princess. You going cold on me does.`
+  - 후: `DORIAN: The knife doesn't hurt me, Princess. You do — when you go cold on me.`
+- L673
+  - 전: `OPHELIA: This man got into my room in the middle of the night, and not one guard caught it? I've got every reason to think you all set me up!`
+  - 후: `OPHELIA: A man got into my room in the middle of the night and not one guard saw him. You people set me up.`
+- L748
+  - 전: `DORIAN: Now... let's get back to our game...`
+  - 후: `DORIAN: Now... where were we?`
+- L770
+  - 전: `OPHELIA: The great and powerful Dragon Lord, cowering in human skin?`
+  - 후: `OPHELIA: The great Dragon Lord, hiding in human skin?`
+- L782
+  - 전: `DORIAN: (rasping, inhuman) As you wish, Princess. But be careful now.`
+  - 후: `DORIAN: (rasping, inhuman) As you wish, Princess. Careful what you ask for.`
+- L817
+  - 전: `DORIAN: My castle, Princess. Nobody takes orders from you here.`
+  - 후: `DORIAN: You don't give me orders, Princess.`
+- L828
+  - 전: `OPHELIA: Eyes on me. If you want a repeat of that night, I call the shots.`
+  - 후: `OPHELIA: Eyes on me. If you want that night again, I set the pace.`
+- L878
+  - 전: `OPHELIA: I need to know exactly what my kingdom intends to do with me.`
+  - 후: `OPHELIA: I want to hear what my kingdom plans to do with me.`
+- L890
+  - 전: `DORIAN: (eyeing Ophelia's bare body) Go ahead, get dressed... give me the pleasure of tearing it all off you.`
+  - 후: `DORIAN: (eyeing Ophelia's bare body) Put those clothes back on... and I'll tear them off you.`
+- L912
+  - 전: `GARRICK: My Lord, the pact is fulfilled. We've sent you our princess... so the Dragon Clan owes us the three northern mines, as agreed.`
+  - 후: `GARRICK: My Lord, we kept our side of the pact. We sent you our princess. Now hand over the three northern mines.`
+- L940
+  - 전: `VIVIAN: My Lord, Ophelia's nothing but a cut-rate stand-in! I'm your real bride.`
+  - 후: `VIVIAN: My Lord, Ophelia is a cheap substitute! I'm your real bride.`
+- L968
+  - 전: `DORIAN (V.O.): You're looking right at the man who supposedly 'ruined' her.`
+  - 후: `DORIAN (V.O.): The stranger who ruined her is standing right in front of you.`
+- L980
+  - 전: `DORIAN: Tell me. Say I take this 'true' bride of yours... then what happens to the fake one?`
+  - 후: `DORIAN: Tell me. If I take this 'true' bride... what happens to the fake one?`
+- L988
+  - 전: `GARRICK: We'll bring her home to face the kingdom's justice. Her crimes won't go unpunished.`
+  - 후: `GARRICK: We'll drag her home and hang her for what she's done.`
+- L1047
+  - 전: `OPHELIA: (glaring coldly) Out with it. What does he want from me?`
+  - 후: `OPHELIA: (glaring coldly) Out with it. What does the King want from me?`
+- L1082
+  - 전: `ASSASSIN: This is Royal Venom in your veins. Cross the King and you'll beg to die.`
+  - 후: `ASSASSIN: That's Royal Venom burning in your blood. Cross the King and you'll beg to die.`
+- L1107
+  - 전: `DORIAN: Eyes on me... where did they hurt you?`
+  - 후: `DORIAN: Look at me... where are you hurt?`
+- L1246
+  - 전: `오필리아 (V.O.): 내 가족을 배신해? 좋아. 이미 내게 독을 먹였으니, 너희도 편하게 끝나진 못해!`
+  - 후: `오필리아 (V.O.): 내 가족이 날 배신했어. 너희가 내 몸에 독을 넣었지... 그 값은 전부 치르게 만들 거야.`
+- L1247
+  - 전: `OPHELIA (V.O.): Betray my family...? Fine. You already poisoned me. So none of you gets off easy either!`
+  - 후: `OPHELIA (V.O.): My own family betrayed me. You poisoned me... and I'll make you all suffer for it.`
+- L1312
+  - 전: `OPHELIA (V.O.): He's giving me his entire world... If he finds out I'm only here to use him, this dress will become my shroud.`
+  - 후: `OPHELIA (V.O.): He's giving me his whole world... If he finds out I'm only using him, I'll be buried in this dress.`
+- L1525
+  - 전: `DORIAN: Ophelia, I lay my castle and my life at your feet.`
+  - 후: `DORIAN: Ophelia. I give you my castle and my life.`
+- L1666
+  - 전: `OPHELIA (V.O.): Toying with a man's heart is harder than taking down a kingdom. And a lord like him? Worse.`
+  - 후: `OPHELIA (V.O.): Taking down a kingdom would be easier than fooling this man.`
+- L1704
+  - 전: `VIVIAN: My Lord... I am... the wife named in your marriage contract!`
+  - 후: `VIVIAN: My Lord... I'm the wife in that contract!`
+- L1747
+  - 전: `DORIAN: (glaring down at Vivian) She insulted Ophelia. I'd kill her for that. But not at my own wedding. Drag her out of the city. She never sets foot on dragon land again!`
+  - 후: `DORIAN: (glaring down at Vivian) She insulted Ophelia. I won't spill blood at my own wedding — throw her out of the city. She never sets foot on dragon land again!`
+- L1837
+  - 전: `DORIAN: See? I told you. We belong together.`
+  - 후: `DORIAN: See? I told you. You're mine.`
+- L1911
+  - 전: `ELDER A: (anguished) My Lord! If the Oathstone rejects her, it'll tear your heart apart!`
+  - 후: `ELDER A: (anguished) My Lord! If the Oathstone rejects her, the backlash will blow your heart apart in your chest!`
+- L2020
+  - 전: `OPHELIA: (trembling) Please, let them help you. Just be okay.`
+  - 후: `OPHELIA: (trembling) Take the treatment. Please... just live.`
+- L2678
+  - 전: `DORIAN: You're not strong enough for this. Are you sure you know what you're asking?`
+  - 후: `DORIAN: You're still too weak. Do you know what you're doing?`
+- L2768
+  - 전: `DORIAN: (low) Don't cry and beg me to stop.`
+  - 후: `DORIAN: (low) Don't cry and beg me to stop later.`
+- L3540
+  - 전: `OPHELIA (V.O.): Is the curse fading?`
+  - 후: `OPHELIA (V.O.): Is the poison fading?`
+- L3610
+  - 전: `KING: If they want to play, I'll put that bitch through something worse than death. I'll make her beg to die, and I won't let her.`
+  - 후: `KING: If they want to play, I'll have that bitch tortured until she prays for death. And I won't let her die.`
+- L3641
+  - 전: `OPHELIA (V.O.): Why doesn't it hurt as much? Is the curse getting weaker?`
+  - 후: `OPHELIA (V.O.): Why does it hurt less? Is the poison getting weaker?`
+- L3887
+  - 전: `OPHELIA: It was never getting weaker...`
+  - 후: `OPHELIA: The poison was never getting weaker...`
+- L4071
+  - 전: `OPHELIA: I'm here to atone for my sins... I have nothing left. I just want to save my mother.`
+  - 후: `OPHELIA: I came to pay for what I did... I have nothing left. I just want to save my mother.`
+- L4122
+  - 전: `KING: Want to know why I keep her locked up? Her body is what keeps the Royal Venom alive in you.`
+  - 후: `KING: I keep her alive for a reason. Her body feeds the Royal Venom in your blood.`
+- L4636
+  - 전: `MOTHER: You won't control their fate anymore...`
+  - 후: `MOTHER: You'll never own their lives again... not my daughter, not him.`
+- L4780
+  - 전: `DORIAN: (hoarse) If the bond deepens, you will be the first one I tear apart.`
+  - 후: `DORIAN: (hoarse) If this bond gets any stronger, you're the first one I tear apart.`
+- L4838
+  - 전: `DORIAN: (coldly, eyes lifting) Say it.`
+  - 후: `DORIAN: (coldly, eyes lifting) Spit it out.`
+- L4854
+  - 전: `GENERAL B: (urgent) And if you die, the clan has no one! You have to kill—`
+  - 후: `GENERAL B: (urgent) And if you die, the clan has no leader! You have to kill the King before—`
+- L4924
+  - 전: `DORIAN: (a roar held back) Every second, Ophelia! Every breath! He's in my head, tearing at my fire, my claws, my will!`
+  - 후: `DORIAN: (a roar held back) Every second, Ophelia! Every breath! He's inside my head, taking my fire, my claws... my own body!`
+- L4991
+  - 전: `DORIAN: (a low chuckle) This human body won't kill me.`
+  - 후: `DORIAN: (a low chuckle) Being human won't kill me.`
+- L5002
+  - 전: `OPHELIA (V.O.): What if it's only guilt, or just fear? What if I say I love you... and it's still not enough?`
+  - 후: `OPHELIA (V.O.): What if all I feel is guilt, or just fear? What if I say I love him... and it's still not enough?`
+- L5308
+  - 전: `KING: (spreading his arms) I knew human strength could never match the Dragon Clan. So why not just control the Dragon Lord myself?!`
+  - 후: `KING: (spreading his arms) I knew no human army could beat the dragons. So I took a different road. I put the Dragon Lord on my leash.`
+- L5799
+  - 전: `DORIAN: What if the monster is all that's real... and the man was never there?`
+  - 후: `DORIAN: What if I'm just a monster... a dragon, not a man?`
+- L5864
+  - 전: `DORIAN: You called me back to myself, my Queen.`
+  - 후: `DORIAN: You brought me back, my Queen.`

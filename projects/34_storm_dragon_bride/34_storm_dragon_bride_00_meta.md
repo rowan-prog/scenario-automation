@@ -49,6 +49,9 @@
 
 - 2026-09-17 **FINAL v14** = `07_final/34_storm_dragon_bride_FINAL_v14_CN&KO&EN.docx` + `.md`. 외부 AI 5차 리뷰("큰 재수정 불필요") 4건 전부 원문 대조 후 채택 = **원작 확정 오류 2**(7화 영어만 오필리아 현장 부재 위반 → "We've sent you our princess" / 46→47화 국왕 낙하 위치 불일치 → 46화 "절벽 가장자리 제단 바닥 위 허공"으로 3개 국어 수정) + **영어 2**(36화 V.O. "I won't forget a single face" / 26화 내 v4 과구체화 "rip his own heart open" → "destroy his heart"). 6줄. 게이트 = 줄 수 유지 · name_leak PASS. 변경 목록 = `34_storm_dragon_bride_v14_changes.md`.
 
+- 2026-09-17 **FINAL v15** = `07_final/34_storm_dragon_bride_FINAL_v15_CN&KO&EN.docx` + `.md`. **대사 65줄 재작성 + 한국어 1줄**(9화 V.O. 배신 방향). 사용자 잣대 = "문학적·비직관·너무 김 → 명확 / 흔한 비유 OK / 원작과 같으면 안 되고 더 좋게 / 성적으로 꼴리는 대사를 포르노라며 워싱 금지 / Beg me↔Beg you 연결 유지". 절차 = 내 전수 짚기(🔴10·🟡78) → 외부 AI 12건 종합 → 대상 65(🔴10 + 외부 채택 6 + 🟡 뜻·지시어·후퇴 49 · 캐릭터 말투·유혹 톤·격언은 제외) → opus 작성 → 메인 중문 대조 5줄 교정(612 心疼=네 마음 / 748 游戏继续에 scream 발명 제거 / 1082 자객 '방금 넣었다' 발명 제거 / 4636 他们=딸과 도리안 / 4838 说). 무료런 파는 지점 6곳(L39·110·155·579·782·890) 전부 교정. 변경 목록 = `34_storm_dragon_bride_v15_changes.md`.
+  - 교훈: **영어를 매끄럽게 하면 절이 늘고 온도가 내려간다.** 내 v4 영어 라운드가 만든 🔴 4(L110·579·1747·1911)·🟡 14가 그 증거 — 'I know my place'는 군림을 복종으로 뒤집었다. 다듬기 방향은 '더 자연스럽게'가 아니라 **'더 짧게·명령형으로·대상은 사람으로'**.
+
 ## 제목 후보 (미확정)
 1. I Bought the Dragon Lord for One Night (가제·문서 헤더)
 2. The Stranger I Bought Was the Dragon Lord
