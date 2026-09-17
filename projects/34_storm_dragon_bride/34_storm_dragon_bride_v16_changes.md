@@ -1,0 +1,304 @@
+# v16 변경 목록 (2026-09-17) — 세계 재설계: 불꽃의 용왕국
+
+정본 = `07_final/34_storm_dragon_bride_FINAL_v16_CN&KO&EN.docx` (v15 기준 · 95줄)
+
+사용자 결정 = 원작 "설산의 어두운 용왕국"의 반대 = **눈·냉기 ↔ 불꽃·열기**. 화려함은 부유함이 아니라 군주의 힘과 궁전의 규모("풍요? 거기 왜 팔려나가는 걸 두려워해"). **사건 불변, 공간만.** 기준 = 청사진 §6.
+
+## 바뀐 것
+- **스톰홀드** = 붉은 암벽 협곡 위의 성 · 성문 따라 용의 불꽃 · 뜨거운 바람 · 붉은 돌기둥·청동 문·화로 (2·3·7·12·25·27화 지문 9곳)
+- **여관** = "항구" 제거, 뇌우·비 유지 (1·3·51·52화 + 헤더 4)
+- **국경 절벽·동굴** = 바닷가 → 바위산, 얼음 절벽을 녹여 동굴을 *만드는* 것 → 얼음으로 막힌 입구를 녹여 *들어가는* 것 (21·24화 + 헤더 5) · 눈보라는 유지
+- **6화 처벌** "눈밭에서 얼게" → "밖에 세워 둬. 얼어 죽든 말든" (추운 밤 유지, 설국 조건만 제거)
+- **27화 골든 아일스** "눈보라 없고 햇살뿐" → **"군단도 없고 왕도 없어"** (대비 축을 날씨→의무로 · 48·50·53화 회수 유지)
+- 3화 테라스 "차가운 달" → "달" (메인) · 2화 "검은 성문" → "청동 성문" (유닛 추가 후보 채택)
+
+## 안 바꾼 것
+18~21화 통곡의 숲 눈밭·눈보라(국경 · 인간 쪽으로 가는 방향 · 사건 묶임) · 35화 설원 이별(추운 왕국으로 가는 뒷모습) · 인간 왕국 36~41·46~49화 눈·얼음 전부 · 맹세석 서리·어머니 얼음관(장치) · 검은 웨딩드레스·검붉은 휘장(다크 럭셔리) · 42화 수조 검은 돌 · 53화 골든 아일스 바다.
+
+## 전후
+
+- L5
+  - 전: `1-1 港口客栈客房 夜 内`
+  - 후: `1-1 客栈客房 夜 内`
+- L6
+  - 전: `1-1 항구 여관 객실 / 실내 / 밤`
+  - 후: `1-1 여관 객실 / 실내 / 밤`
+- L7
+  - 전: `1-1 Harbor Inn Room / INT / NIGHT`
+  - 후: `1-1 Inn Room / INT / NIGHT`
+- L13
+  - 전: `△幽暗破旧的港口客栈客房。窗外雷暴肆虐，海浪拍岸的轰鸣隐隐传来。`
+  - 후: `△幽暗破旧的客栈客房。窗外雷暴肆虐，雨点砸在窗棂上。`
+- L14
+  - 전: `△어둡고 낡은 항구 여관 객실. 창밖엔 뇌우가 몰아치고, 파도 부서지는 소리가 멀리서 들린다.`
+  - 후: `△어둡고 낡은 여관 객실. 창밖엔 뇌우가 몰아치고, 빗방울이 창틀을 때린다.`
+- L15
+  - 전: `△A dark, run-down harbor inn room. A thunderstorm RAGES outside. Waves CRASH against the shore in the distance.`
+  - 후: `△A dark, run-down inn room. A thunderstorm RAGES outside. Rain BEATS against the window frame.`
+- L122
+  - 전: `1-3 港口客栈客房 夜 内`
+  - 후: `1-3 客栈客房 夜 内`
+- L123
+  - 전: `1-3 항구 여관 객실 / 실내 / 밤`
+  - 후: `1-3 여관 객실 / 실내 / 밤`
+- L124
+  - 전: `1-3 Harbor Inn Room / INT / NIGHT`
+  - 후: `1-3 Inn Room / INT / NIGHT`
+- L241
+  - 전: `△高耸的风暴堡大门外，狂风吹动马车的布帘。奥菲莉娅走下马车，血色长裙拖在黑色的岩地上。`
+  - 후: `△赤色岩壁峡谷之上，高耸的风暴堡大门外。城墙与城门沿线燃烧着龙焰，滚烫的热风吹动马车的布帘。奥菲莉娅走下马车，血色长裙拖在赤红的岩地上。`
+- L242
+  - 전: `△우뚝 솟은 스톰홀드 성문 밖. 거센 바람이 마차의 커튼을 흔든다. 오필리아가 마차에서 내리고, 핏빛 드레스가 검은 바위 땅을 끈다.`
+  - 후: `△붉은 암벽 협곡 위에 솟은 스톰홀드 성문 밖. 성벽과 성문을 따라 용의 불꽃이 타오르고, 뜨거운 바람이 마차의 커튼을 흔든다. 오필리아가 마차에서 내리고, 핏빛 드레스가 붉은 바위 땅을 끈다.`
+- L243
+  - 전: `△Outside the towering gates of Stormhold, fierce wind WHIPS the carriage curtains. Ophelia STEPS DOWN from the carriage, her blood-red dress trailing across the black rock ground.`
+  - 후: `△Outside the towering gates of Stormhold, high above a red rock canyon. Dragon fire BURNS along the walls and the gates, and hot wind WHIPS the carriage curtains. Ophelia STEPS DOWN from the carriage, her blood-red dress trailing across the red rock ground.`
+- L290
+  - 전: `△奥菲莉娅步入黑色大理石回廊。`
+  - 후: `△奥菲莉娅步入红石廊柱的回廊。两侧火盆的火光在柱身上跳动。`
+- L291
+  - 전: `△오필리아가 검은 대리석 회랑으로 들어선다.`
+  - 후: `△오필리아가 붉은 돌기둥이 늘어선 회랑으로 들어선다. 양옆 화로의 불빛이 기둥 위에서 흔들린다.`
+- L292
+  - 전: `△Ophelia STEPS into the black marble corridor.`
+  - 후: `△Ophelia STEPS into a corridor lined with red stone pillars. Firelight from the braziers on either side FLICKERS across them.`
+- L427
+  - 전: `△夜风呼啸，冷月高悬，远处是翻涌的怒海。多里安负手立于高高的露台边缘。`
+  - 후: `△夜风呼啸，明月高悬，远处峡谷深处火光摇曳，热气蒸腾。多里安负手立于高高的露台边缘。`
+- L428
+  - 전: `△밤바람이 울부짖고 차가운 달이 높이 떠 있다. 멀리 성난 바다가 들끓는다. 도리안은 두 손을 뒤로 모은 채 높은 테라스 끝에 서 있다.`
+  - 후: `△밤바람이 울부짖고 달이 높이 떠 있다. 멀리 협곡 깊은 곳에서 불빛이 흔들리고 열기가 피어오른다. 도리안은 두 손을 뒤로 모은 채 높은 테라스 끝에 서 있다.`
+- L429
+  - 전: `△Night wind HOWLS. A cold moon hangs high above. In the distance, an angry sea CHURNS. Dorian STANDS at the edge of the high terrace, hands clasped behind his back.`
+  - 후: `△Night wind HOWLS. The moon hangs high above. Far below, firelight FLICKERS deep in the canyon and heat RISES off the rock. Dorian STANDS at the edge of the high terrace, hands clasped behind his back.`
+- L526
+  - 전: `△奥菲莉娅光着脚走到高大的落地窗前，眺望着窗外北方的黑夜与悬崖下汹涌的海浪。`
+  - 후: `△奥菲莉娅光着脚走到高大的落地窗前，眺望着窗外北方的黑夜与崖下峡谷里明灭的火光。`
+- L527
+  - 전: `△오필리아는 맨발로 커다란 통유리창 앞으로 가, 창밖 북쪽의 밤과 절벽 아래 거친 파도를 바라본다.`
+  - 후: `△오필리아는 맨발로 커다란 통유리창 앞으로 가, 창밖 북쪽의 밤과 절벽 아래 협곡에서 명멸하는 불빛을 바라본다.`
+- L528
+  - 전: `△Barefoot, Ophelia WALKS to the tall floor-to-ceiling window, gazing out at the northern night and the churning waves below the cliffs.`
+  - 후: `△Barefoot, Ophelia WALKS to the tall floor-to-ceiling window, gazing out at the northern night and the firelight flickering in the canyon below the cliffs.`
+- L865
+  - 전: `多里安（冲着门外怒吼）: 让他们在雪地里给我冻到天亮！`
+  - 후: `多里安（冲着门外怒吼）: 让他们在外面给我站到天亮，冻死活该！`
+- L866
+  - 전: `도리안: (문밖을 향해 고함치며) 새벽까지 눈밭에서 얼게 내버려 둬!`
+  - 후: `도리안: (문밖을 향해 고함치며) 새벽까지 밖에 세워 둬. 얼어 죽든 말든!`
+- L867
+  - 전: `DORIAN: (roaring at the door) Let them freeze out there in the snow till morning!`
+  - 후: `DORIAN: (roaring at the door) Leave them standing outside till dawn. Let them freeze!`
+- L1014
+  - 전: `△奥菲莉娅披上了一件单薄的丝绸外袍，静静地站在窗前，看着窗外的暴风雪与崖下翻涌的海浪。`
+  - 후: `△奥菲莉娅披上了一件单薄的丝绸外袍，静静地站在窗前，看着窗外峡谷的夜色与城墙上燃烧的龙焰。`
+- L1015
+  - 전: `△오필리아는 얇은 비단 겉옷을 걸치고 창가에 조용히 선다. 창밖의 눈보라와 절벽 아래 파도를 바라본다.`
+  - 후: `△오필리아는 얇은 비단 겉옷을 걸치고 창가에 조용히 선다. 창밖 협곡의 밤과 성벽 위에서 타오르는 용의 불꽃을 바라본다.`
+- L1016
+  - 전: `△Ophelia THROWS ON a thin silk robe and stands quietly at the window, watching the storm outside and the waves churning below the cliffs.`
+  - 후: `△Ophelia THROWS ON a thin silk robe and stands quietly at the window, watching the canyon night outside and the dragon fire burning along the castle walls.`
+- L1484
+  - 전: `△宏大、暗黑奢华的风暴堡大殿。大殿两侧燃烧着幽蓝色的雷火，红色的玫瑰花瓣铺满了通往王座的黑色大理石地毯。`
+  - 후: `△宏大、暗黑奢华的风暴堡大殿。高高的穹顶下立着粗大的红石柱，青铜大门两侧的巨型火盆熊熊燃烧。大殿两侧燃烧着幽蓝色的雷火，红色的玫瑰花瓣铺满了红石地面上通往王座的长毯。`
+- L1485
+  - 전: `△웅장하고 어둡게 사치스러운 스톰홀드 대전. 양옆에는 그윽한 푸른 번개 불꽃이 타오르고, 붉은 장미 꽃잎이 왕좌로 향하는 검은 대리석 융단을 가득 덮고 있다.`
+  - 후: `△웅장하고 어둡게 사치스러운 스톰홀드 대전. 높은 천장 아래 굵은 붉은 돌기둥이 서 있고, 청동 문 양옆의 거대한 화로가 활활 타오른다. 양옆에는 그윽한 푸른 번개 불꽃이 타오르고, 붉은 장미 꽃잎이 붉은 돌바닥 위로 왕좌까지 이어진 융단을 가득 덮고 있다.`
+- L1486
+  - 전: `△A vast, dark, opulent hall in Stormhold. Ghostly blue storm-fire BURNS along both walls. Red rose petals cover the black marble carpet leading to the throne.`
+  - 후: `△A vast, dark, opulent hall in Stormhold. Thick red stone pillars rise under the high ceiling, and huge braziers BLAZE on either side of the bronze doors. Ghostly blue storm-fire BURNS along both walls. Red rose petals cover the carpet that runs across the red stone floor to the throne.`
+- L1541
+  - 전: `△砰——！！大殿大门被猛地推开，狂风夹杂着雪花瞬间涌入大殿，吹得两旁的雷火剧烈摇晃。`
+  - 후: `△砰——！！大殿大门被猛地推开，狂风瞬间涌入大殿，吹得两旁的雷火剧烈摇晃。`
+- L1542
+  - 전: `△쾅! 대전 문이 갑자기 밀려 열리고, 거센 바람과 눈발이 순식간에 대전으로 들이닥친다. 양옆의 불꽃이 격하게 흔들린다.`
+  - 후: `△쾅! 대전 문이 갑자기 밀려 열리고, 거센 바람이 순식간에 대전으로 들이닥친다. 양옆의 불꽃이 격하게 흔들린다.`
+- L1543
+  - 전: `△BANG! The great doors FLY open. Wind and snow SURGE into the hall, and the storm-fire along both walls WHIPS wildly.`
+  - 후: `△BANG! The great doors FLY open. Wind SURGES into the hall, and the storm-fire along both walls WHIPS wildly.`
+- L2432
+  - 전: `21-2 海崖 夜 外`
+  - 후: `21-2 山崖 夜 外`
+- L2433
+  - 전: `21-2 바닷가 절벽 / 실외 / 밤`
+  - 후: `21-2 바위산 절벽 / 실외 / 밤`
+- L2434
+  - 전: `21-2 Sea Cliffs / EXT / NIGHT`
+  - 후: `21-2 Mountain Cliffs / EXT / NIGHT`
+- L2440
+  - 전: `△风雪肆虐的海边雪崖之巅，崖下隐隐传来海浪拍礁的轰鸣。`
+  - 후: `△风雪肆虐的山崖之巅，崖下陡峭的岩壁没入黑暗。`
+- L2441
+  - 전: `△눈보라가 사납게 몰아치는 바닷가 설벽 꼭대기. 절벽 아래에서 파도가 바위를 치는 굉음이 희미하게 들려온다.`
+  - 후: `△눈보라가 사납게 몰아치는 바위산 절벽 꼭대기. 절벽 아래로 깎아지른 바위 비탈이 어둠 속에 잠겨 있다.`
+- L2442
+  - 전: `△Atop a snow-swept sea cliff battered by wind and snow, the distant roar of waves crashing against rock ECHOES up from below.`
+  - 후: `△Atop a mountain cliff battered by wind and snow. Below, the sheer rock face DROPS away into darkness.`
+- L2446
+  - 전: `△多里安抱着奥菲莉娅走到一面巨大的冰雪峭壁前。他喘着粗气，抬起一只手，猛地凝聚起一丝靛蓝雷火。`
+  - 후: `△多里安抱着奥菲莉娅走到一处被厚冰封死的洞口前。他喘着粗气，抬起一只手，猛地凝聚起一丝靛蓝雷火。`
+- L2447
+  - 전: `△도리안이 오필리아를 안은 채 거대한 얼음 절벽 앞까지 걸어간다. 도리안은 거칠게 숨을 몰아쉬며 한 손을 들어 남빛 번개 불꽃을 한 줄기 모은다.`
+  - 후: `△도리안이 오필리아를 안은 채 두꺼운 얼음으로 막힌 동굴 입구 앞까지 걸어간다. 도리안은 거칠게 숨을 몰아쉬며 한 손을 들어 남빛 번개 불꽃을 한 줄기 모은다.`
+- L2448
+  - 전: `△Carrying Ophelia, Dorian WALKS to a massive ice cliff face. Breathing hard, Dorian RAISES one hand and GATHERS a thread of indigo lightning fire.`
+  - 후: `△Carrying Ophelia, Dorian WALKS to a cave mouth sealed shut with thick ice. Breathing hard, Dorian RAISES one hand and GATHERS a thread of indigo lightning fire.`
+- L2449
+  - 전: `△一道狂暴的靛蓝雷火喷涌而出，在冰雪峭壁上融化出了一个山洞。`
+  - 후: `△一道狂暴的靛蓝雷火喷涌而出，封住洞口的坚冰瞬间融开，露出黑洞洞的洞口。`
+- L2450
+  - 전: `△사나운 남빛 번개 불꽃이 분출되어, 얼음 절벽을 녹여 동굴 하나를 만든다.`
+  - 후: `△사나운 남빛 번개 불꽃이 분출되어, 입구를 막고 있던 두꺼운 얼음을 순식간에 녹인다. 검은 동굴 입구가 드러난다.`
+- L2451
+  - 전: `△A violent bolt of indigo lightning fire ERUPTS and MELTS a cave into the ice cliff.`
+  - 후: `△A violent bolt of indigo lightning fire ERUPTS and MELTS the thick ice sealing the entrance. The dark mouth of the cave is revealed.`
+- L2453
+  - 전: `21-3 海崖洞穴 夜 内`
+  - 후: `21-3 山崖洞穴 夜 内`
+- L2454
+  - 전: `21-3 바닷가 절벽 동굴 / 실내 / 밤`
+  - 후: `21-3 산 절벽 동굴 / 실내 / 밤`
+- L2455
+  - 전: `21-3 Sea Cliff Cave / INT / NIGHT`
+  - 후: `21-3 Cliff Cave / INT / NIGHT`
+- L2478
+  - 전: `△镜头拉远：洞外的风雪与海浪声依旧呼啸，而洞内，两人紧紧相拥的身影定格。`
+  - 후: `△镜头拉远：洞外的风雪依旧呼啸，而洞内，两人紧紧相拥的身影定格。`
+- L2479
+  - 전: `△카메라가 멀어진다. 동굴 밖에서는 눈보라와 파도 소리가 여전히 울부짖고, 동굴 안에는 꼭 끌어안은 두 사람의 모습이 고정된다.`
+  - 후: `△카메라가 멀어진다. 동굴 밖에서는 눈보라가 여전히 울부짖고, 동굴 안에는 꼭 끌어안은 두 사람의 모습이 고정된다.`
+- L2480
+  - 전: `△CAMERA PULLS BACK — Outside, the wind, snow, and crashing waves still howl. Inside, the two of them remain locked in a tight embrace, frozen in place.`
+  - 후: `△CAMERA PULLS BACK — Outside, the wind and snow still howl. Inside, the two of them remain locked in a tight embrace, frozen in place.`
+- L2485
+  - 전: `22-1 海崖洞穴 日 内`
+  - 후: `22-1 山崖洞穴 日 内`
+- L2486
+  - 전: `22-1 바닷가 절벽 동굴 / 실내 / 낮`
+  - 후: `22-1 산 절벽 동굴 / 실내 / 낮`
+- L2487
+  - 전: `22-1 Sea Cliff Cave / INT / DAY`
+  - 후: `22-1 Cliff Cave / INT / DAY`
+- L2602
+  - 전: `23-1 海崖洞穴 日 内`
+  - 후: `23-1 山崖洞穴 日 内`
+- L2603
+  - 전: `23-1 바닷가 절벽 동굴 / 실내 / 낮`
+  - 후: `23-1 산 절벽 동굴 / 실내 / 낮`
+- L2604
+  - 전: `23-1 Sea Cliff Cave / INT / DAY`
+  - 후: `23-1 Cliff Cave / INT / DAY`
+- L2715
+  - 전: `24-1 海崖洞穴 日 内`
+  - 후: `24-1 山崖洞穴 日 内`
+- L2716
+  - 전: `24-1 바닷가 절벽 동굴 / 실내 / 낮`
+  - 후: `24-1 산 절벽 동굴 / 실내 / 낮`
+- L2717
+  - 전: `24-1 Sea Cliff Cave / INT / DAY`
+  - 후: `24-1 Cliff Cave / INT / DAY`
+- L2840
+  - 전: `△海崖洞穴外，风雪与海浪声依旧肆虐。洞内，奥菲莉娅的身影笼罩着多里安，风雪的呼啸声和肉体的碰撞声交织。`
+  - 후: `△山崖洞穴外，风雪依旧肆虐。洞内，奥菲莉娅的身影笼罩着多里安，风雪的呼啸声和肉体的碰撞声交织。`
+- L2841
+  - 전: `△바닷가 절벽 동굴 밖에는 여전히 눈보라와 파도 소리가 사납게 몰아친다. 동굴 안에서는 오필리아의 몸이 도리안을 덮고, 눈보라의 울음과 살이 부딪치는 소리가 뒤섞인다.`
+  - 후: `△산 절벽 동굴 밖에는 여전히 눈보라가 사납게 몰아친다. 동굴 안에서는 오필리아의 몸이 도리안을 덮고, 눈보라의 울음과 살이 부딪치는 소리가 뒤섞인다.`
+- L2842
+  - 전: `△Outside the sea cliff cave, the wind, snow, and waves still rage. Inside, Ophelia's body COVERS Dorian, the howl of the storm tangled with the sound of flesh against flesh.`
+  - 후: `△Outside the cliff cave, the wind and snow still rage. Inside, Ophelia's body COVERS Dorian, the howl of the storm tangled with the sound of flesh against flesh.`
+- L2855
+  - 전: `△【大远景航拍镜头】苍茫辽阔的风暴堡点将校场上，黑色悬崖之下怒海翻涌，狂风卷起靛蓝色的龙族战旗。数十万全副武装、煞气冲天的风暴龙精锐大军整齐列阵，黑压压的一片，天空盘旋着巨大的巨龙虚影，发出震耳欲聋的狂暴龙啸。`
+  - 후: `△【大远景航拍镜头】苍茫辽阔的风暴堡点将校场上，赤色峡谷深处热浪翻腾，狂风卷起靛蓝色的龙族战旗。数十万全副武装、煞气冲天的风暴龙精锐大军整齐列阵，黑压压的一片，天空盘旋着巨大的巨龙虚影，发出震耳欲聋的狂暴龙啸。`
+- L2856
+  - 전: `△【광각 항공 촬영】끝없이 넓은 스톰홀드 소집 훈련장. 검은 절벽 아래로 성난 바다가 들끓고, 광풍이 남빛 용족 전기를 휘날린다. 수십만의 완전 무장한 폭풍룡 정예군이 살기를 내뿜으며 흐트러짐 없이 늘어서 있다. 하늘에는 거대한 용의 그림자가 선회하며 귀를 찢는 사나운 포효를 울린다.`
+  - 후: `△【광각 항공 촬영】끝없이 넓은 스톰홀드 소집 훈련장. 붉은 협곡 깊은 곳에서 열기가 들끓어 오르고, 광풍이 남빛 용족 전기를 휘날린다. 수십만의 완전 무장한 폭풍룡 정예군이 살기를 내뿜으며 흐트러짐 없이 늘어서 있다. 하늘에는 거대한 용의 그림자가 선회하며 귀를 찢는 사나운 포효를 울린다.`
+- L2857
+  - 전: `△EXTREME WIDE AERIAL SHOT — The vast Stormhold parade ground stretches below. Beneath the black cliffs, the furious sea churns, and a fierce wind whips the indigo banners of the Dragon Clan. Hundreds of thousands of fully armed, bloodthirsty Storm Dragon soldiers stand in perfect formation, a dark, endless mass. Overhead, a massive dragon's shadow CIRCLES the sky, letting out a deafening, savage ROAR.`
+  - 후: `△EXTREME WIDE AERIAL SHOT — The vast Stormhold parade ground stretches below. Heat BOILS up from deep in the red canyon, and a fierce wind whips the indigo banners of the Dragon Clan. Hundreds of thousands of fully armed, bloodthirsty Storm Dragon soldiers stand in perfect formation, a dark, endless mass. Overhead, a massive dragon's shadow CIRCLES the sky, letting out a deafening, savage ROAR.`
+- L3083
+  - 전: `△风暴堡最高的露天看台上，脚下是黑色悬崖与翻涌的怒海，多里安从身后拿出一件奢华的披风，细心地裹在奥菲莉娅身上，从背后紧紧地环抱住她。`
+  - 후: `△风暴堡最高的露天看台上，脚下是赤色峡谷与谷底摇曳的火光，多里安从身后拿出一件奢华的披风，细心地裹在奥菲莉娅身上，从背后紧紧地环抱住她。`
+- L3084
+  - 전: `△스톰홀드의 가장 높은 야외 전망대. 발아래로 검은 절벽과 사나운 바다가 뒤집히고, 도리안은 뒤에서 호화로운 망토를 꺼내 오필리아를 정성스레 감싼 뒤 그녀를 등 뒤에서 꼭 끌어안는다.`
+  - 후: `△스톰홀드의 가장 높은 야외 전망대. 발아래로 붉은 협곡과 골짜기 바닥에서 흔들리는 불빛이 펼쳐지고, 도리안은 뒤에서 호화로운 망토를 꺼내 오필리아를 정성스레 감싼 뒤 그녀를 등 뒤에서 꼭 끌어안는다.`
+- L3085
+  - 전: `△On Stormhold's highest open-air lookout, black cliffs and a raging sea churning far below, Dorian produces a lavish cloak from behind, wraps it carefully around Ophelia, and pulls Ophelia into a tight embrace from behind.`
+  - 후: `△On Stormhold's highest open-air lookout, the red canyon and the firelight flickering on its floor far below, Dorian produces a lavish cloak from behind, wraps it carefully around Ophelia, and pulls Ophelia into a tight embrace from behind.`
+- L3106
+  - 전: `多里安: 等一切结束，我带你去金屿群岛。那里没有风雪，只有永恒的阳光。我们可以永远呆在那里……只有你和我。`
+  - 후: `多里安: 等一切结束，我带你去金屿群岛。那里没有军团，也没有国王。我们可以永远呆在那里……只有你和我。`
+- L3107
+  - 전: `도리안: 모든 게 끝나면 널 골든 아일스로 데려갈게. 거긴 눈보라도 없고 끝없는 햇살뿐이야. 거기서 영원히 지내자... 너랑 나, 둘이서만.`
+  - 후: `도리안: 모든 게 끝나면 널 골든 아일스로 데려갈게. 거긴 군단도 없고 왕도 없어. 거기서 영원히 지내자... 너랑 나, 둘이서만.`
+- L3108
+  - 전: `DORIAN: When this is over, I'll take you to the Golden Isles. No snow there, only endless sun. We can stay forever... just you and me.`
+  - 후: `DORIAN: When this is over, I'll take you to the Golden Isles. No legions there, no kings. We can stay forever... just you and me.`
+- L3999
+  - 전: `△风雪交加的海岸雪原上，奥菲莉娅娇小的身影在厚厚的积雪中艰难跋涉，渐渐远去。`
+  - 후: `△风雪交加的雪原上，奥菲莉娅娇小的身影在厚厚的积雪中艰难跋涉，渐渐远去。`
+- L4000
+  - 전: `△눈보라가 몰아치는 해안 설원. 오필리아의 작은 모습이 두꺼운 눈을 힘겹게 헤치며 점점 멀어진다.`
+  - 후: `△눈보라가 몰아치는 설원. 오필리아의 작은 모습이 두꺼운 눈을 힘겹게 헤치며 점점 멀어진다.`
+- L4001
+  - 전: `△On the windswept, snow-covered coast, Ophelia's small figure TRUDGES through the deep snow, growing smaller in the distance.`
+  - 후: `△On the windswept, snow-covered plain, Ophelia's small figure TRUDGES through the deep snow, growing smaller in the distance.`
+- L5710
+  - 전: `△场景渐渐清晰，变成了他们初次相见的港口客栈客房。`
+  - 후: `△场景渐渐清晰，变成了他们初次相见的客栈客房。`
+- L5711
+  - 전: `△장면은 점점 선명해지며, 두 사람이 처음 만났던 항구 여관 객실로 변한다.`
+  - 후: `△장면은 점점 선명해지며, 두 사람이 처음 만났던 여관 객실로 변한다.`
+- L5712
+  - 전: `△The scene SHARPENS into focus, becoming the harbor inn room where Ophelia and Dorian first met.`
+  - 후: `△The scene SHARPENS into focus, becoming the inn room where Ophelia and Dorian first met.`
+- L5714
+  - 전: `51-2 破旧港口客栈客房（幻境） 夜 内`
+  - 후: `51-2 破旧客栈客房（幻境） 夜 内`
+- L5715
+  - 전: `51-2 낡은 항구 여관 객실(환상) / 실내 / 밤`
+  - 후: `51-2 낡은 여관 객실(환상) / 실내 / 밤`
+- L5716
+  - 전: `51-2 Run-down Harbor Inn Room (Vision) / INT / NIGHT`
+  - 후: `51-2 Run-down Inn Room (Vision) / INT / NIGHT`
+- L5722
+  - 전: `△窗外狂暴的雷暴肆虐，海浪拍击港口礁石的轰鸣隐约传来，惨白的闪电劈开夜空，照亮了屋内多里安压抑的身影。`
+  - 후: `△窗外狂暴的雷暴肆虐，雨点砸在窗棂上，惨白的闪电劈开夜空，照亮了屋内多里安压抑的身影。`
+- L5723
+  - 전: `△창밖에서는 난폭한 뇌우가 몰아치고, 파도가 항구의 암초를 때리는 굉음이 희미하게 들린다. 창백한 번개가 밤하늘을 가르며 방 안에 있는 도리안의 억눌린 모습을 비춘다.`
+  - 후: `△창밖에서는 난폭한 뇌우가 몰아치고, 빗방울이 창틀을 때린다. 창백한 번개가 밤하늘을 가르며 방 안에 있는 도리안의 억눌린 모습을 비춘다.`
+- L5724
+  - 전: `△Outside, a violent storm RAGES. Waves POUND the harbor rocks in the distance, a low roar. Pale lightning SPLITS the night sky, lighting Dorian's tense silhouette inside the room.`
+  - 후: `△Outside, a violent storm RAGES. Rain BEATS against the window frame. Pale lightning SPLITS the night sky, lighting Dorian's tense silhouette inside the room.`
+- L5758
+  - 전: `52-1 破旧港口客栈客房（幻境） 夜 内`
+  - 후: `52-1 破旧客栈客房（幻境） 夜 内`
+- L5759
+  - 전: `52-1 낡은 항구 여관 객실(환상) / 실내 / 밤`
+  - 후: `52-1 낡은 여관 객실(환상) / 실내 / 밤`
+- L5760
+  - 전: `52-1 Run-down Harbor Inn Room (Vision) / INT / NIGHT`
+  - 후: `52-1 Run-down Inn Room (Vision) / INT / NIGHT`
+- L5815
+  - 전: `△【特效】港口客栈客房突然发出一声清脆的咔嚓声。整个空间如同被打碎的镜子一般，瞬间布满裂痕，随后在巨大的轰鸣声中破碎。`
+  - 후: `△【特效】客栈客房突然发出一声清脆的咔嚓声。整个空间如同被打碎的镜子一般，瞬间布满裂痕，随后在巨大的轰鸣声中破碎。`
+- L5816
+  - 전: `△【특수효과】항구 여관 객실에서 갑자기 맑은 쩍 소리가 난다. 공간 전체는 부서진 거울처럼 순식간에 균열로 뒤덮이고, 이어 거대한 굉음 속에서 산산이 부서진다.`
+  - 후: `△【특수효과】여관 객실에서 갑자기 맑은 쩍 소리가 난다. 공간 전체는 부서진 거울처럼 순식간에 균열로 뒤덮이고, 이어 거대한 굉음 속에서 산산이 부서진다.`
+- L5817
+  - 전: `△SPECIAL EFFECT — The harbor inn room suddenly gives a sharp CRACK. The entire space SPIDERWEBS with cracks like a shattered mirror, then SHATTERS completely in a deafening roar.`
+  - 후: `△SPECIAL EFFECT — The inn room suddenly gives a sharp CRACK. The entire space SPIDERWEBS with cracks like a shattered mirror, then SHATTERS completely in a deafening roar.`
+- L446
+  - 전: `多里安: 在港口客栈，我差点因为诅咒失控龙化的时候，她的触碰竟然缓解了它。有点意思。我倒要看看，这只小野猫想玩什么把戏。`
+  - 후: `多里安: 在客栈，我差点因为诅咒失控龙化的时候，她的触碰竟然缓解了它。有点意思。我倒要看看，这只小野猫想玩什么把戏。`
+- L447
+  - 전: `도리안: 항구 여관에서 저주 때문에 용으로 변할 뻔했을 때, 저 여자 손길이 저주를 잠재웠지. 흥미롭군. 이 작은 들고양이가 무슨 수작을 부리는지 보자고.`
+  - 후: `도리안: 여관에서 저주 때문에 용으로 변할 뻔했을 때, 저 여자 손길이 저주를 잠재웠지. 흥미롭군. 이 작은 들고양이가 무슨 수작을 부리는지 보자고.`
+- L274
+  - 전: `△沉重的黑色城门缓缓推开。奥菲莉娅没有回头，独自迈过高高的门槛，步入城堡。`
+  - 후: `△沉重的青铜城门缓缓推开。奥菲莉娅没有回头，独自迈过高高的门槛，步入城堡。`
+- L275
+  - 전: `△무거운 검은 성문이 천천히 열린다. 오필리아는 뒤돌아보지 않고 홀로 높은 문턱을 넘어 성 안으로 들어간다.`
+  - 후: `△무거운 청동 성문이 천천히 열린다. 오필리아는 뒤돌아보지 않고 홀로 높은 문턱을 넘어 성 안으로 들어간다.`
+- L276
+  - 전: `△The heavy black gates SWING open slowly. Without looking back, Ophelia STEPS alone over the high threshold and into the castle.`
+  - 후: `△The heavy bronze gates SWING open slowly. Without looking back, Ophelia STEPS alone over the high threshold and into the castle.`
