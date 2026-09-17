@@ -70,6 +70,8 @@
 
 - 2026-09-17 **FINAL v23** = `07_final/34_storm_dragon_bride_FINAL_v23_CN&KO&EN.docx` + `.md`. 17화 오필리아 혼잣말 영어 "Take the treatment. Please... just live."(치료 지시처럼 들림) → "Let the treatment work. Please... just stay alive." · 한국어 "치료 잘 받아. 제발... 살아만 있어 줘." (중문·원작 영어 기준). 2줄. 외부 AI v22 검토 = 감정 보강 유지 · 앞뒤 충돌 0 · 14화 사브리나 욕망은 은근한 채 유지(추가 0). 변경 목록 = `34_storm_dragon_bride_v23_changes.md`.
 
+- 2026-09-17 **v23 콜드리드 2기(sonnet·opus · 사전 지식 0)** — 무료 8화 이탈 지점 0 · 8화 끝 결제 예/예 · 점수 sonnet 9·8·7·8·7·7·8·9 / opus 9·8·7·7·6·5·8·9. 수정 제안 전부 기각(원작 사건 불변·9화 원작 그대로·사연 금지·영어 4줄은 중문·원작 영어와 일치·sonnet L1338 오독). **수정 0건.** 조연 둘(비비안·사브리나)은 사용자 결정대로 사연 없이 감정만.
+
 ## 제목 후보 (미확정)
 1. I Bought the Dragon Lord for One Night (가제·문서 헤더)
 2. The Stranger I Bought Was the Dragon Lord
