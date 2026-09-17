@@ -64,6 +64,8 @@
 
 - 2026-09-17 **FINAL v20** = `07_final/34_storm_dragon_bride_FINAL_v20_CN&KO&EN.docx` + `.md`. 24화 발 비트 사용자 문장으로: "파고들어" → "발뒤꿈치를 허리 뒤에 얹어, 그를 자기 쪽으로 세게 끌어당긴다". 3줄.
 
+- 2026-09-17 **FINAL v21** = `07_final/34_storm_dragon_bride_FINAL_v21_CN&KO&EN.docx` + `.md`. 24화 발 비트에서 반응 구절(다리 근육·코로 소리) 삭제 — 바로 다음 원작 줄 "숨이 가빠지고 옷을 벗긴다"가 이미 반응. 동작 한 문장만. 3줄 · 3개 국어 동기화.
+
 ## 제목 후보 (미확정)
 1. I Bought the Dragon Lord for One Night (가제·문서 헤더)
 2. The Stranger I Bought Was the Dragon Lord
