@@ -66,6 +66,8 @@
 
 - 2026-09-17 **FINAL v21** = `07_final/34_storm_dragon_bride_FINAL_v21_CN&KO&EN.docx` + `.md`. 24화 발 비트에서 반응 구절(다리 근육·코로 소리) 삭제 — 바로 다음 원작 줄 "숨이 가빠지고 옷을 벗긴다"가 이미 반응. 동작 한 문장만. 3줄 · 3개 국어 동기화.
 
+- 2026-09-17 **FINAL v22** = `07_final/34_storm_dragon_bride_FINAL_v22_CN&KO&EN.docx` + `.md`. 원작 작가 코멘트(초반 여성 캐릭터 감정선 부족) → 감정선 보강 10곳(계획 `34_storm_dragon_bride_emotion_plan.md` v2 · 외부 AI 재검토로 8화 안도는 독 가라앉기 전·14화 마주 쥠은 선언 뒤로 이동). 오필리아 = 2화 성문 V.O.(어머니 약) · 8화 도리안 팔에 힘 맡김 · 14화 손 마주 쥠 / 비비안 = 2화 웃음 굳음 · 13화 손수건 전 진짜 불쾌 · 14화 끌려가며 오필리아와 눈 마주침 / 사브리나 = 2화 후보들 시선 의식 · 14화 시선 도리안→오필리아 · 17화 회상 피 보고 질림 먼저 / 3화 대사 "왜요? 울면서 빌기라도 할 줄 알았어요?"(1화 Cry for me 회수). 사건·대사 턴 불변 · 감정 라벨 0 · 신규 V.O. 1. +24줄. 변경 목록 = `34_storm_dragon_bride_v22_changes.md`.
+
 ## 제목 후보 (미확정)
 1. I Bought the Dragon Lord for One Night (가제·문서 헤더)
 2. The Stranger I Bought Was the Dragon Lord
