@@ -62,6 +62,8 @@
 
 - 2026-09-17 **FINAL v19** = `07_final/34_storm_dragon_bride_FINAL_v19_CN&KO&EN.docx` + `.md`. 24화 발 동작 1비트 — "허벅지를 타고 내려가 → 허리 뒤에 건다"의 이동 경로 삭제, 최종 자세 하나로(발뒤꿈치가 허리 뒤를 파고들어 그를 세게 끌어당김). 3줄. 변경 목록 = `34_storm_dragon_bride_v19_changes.md`.
 
+- 2026-09-17 **FINAL v20** = `07_final/34_storm_dragon_bride_FINAL_v20_CN&KO&EN.docx` + `.md`. 24화 발 비트 사용자 문장으로: "파고들어" → "발뒤꿈치를 허리 뒤에 얹어, 그를 자기 쪽으로 세게 끌어당긴다". 3줄.
+
 ## 제목 후보 (미확정)
 1. I Bought the Dragon Lord for One Night (가제·문서 헤더)
 2. The Stranger I Bought Was the Dragon Lord
