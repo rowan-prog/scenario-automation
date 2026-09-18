@@ -74,5 +74,7 @@
 
 - 2026-09-18 **FINAL v24** = `07_final/34_storm_dragon_bride_FINAL_v24_CN&KO&EN.docx` + `.md`. 과검수로 약해진 대사 2 복구(6화 "쓰러져 죽든 말든!" · 7화 가릭 EN "She'll suffer for her crimes.") + 2화 성문 불꽃 남빛 번개로 색 지정 + 18화 첫 지문 "협곡 너머 외곽 산지" + 대사 속 설정어 정리(10화 stormfire→my fire · 25화 폭풍룡 군단→스톰홀드의 전사들). **"일반 불 뿜는 용" 제안 기각** — 색 분리(독·저주 검정·붉음 / 도리안 남빛 / 성 붉은 암벽)가 AI 실사 화면 구분의 근거 · 제안자 철회. 교훈 = 인물의 협박·위로를 설정 설명으로 읽고 논리 맞추면 대사가 죽는다(v18 7·30화). 16줄. 변경 목록 = `34_storm_dragon_bride_v24_changes.md`.
 
+- 2026-09-18 **FINAL v25 = 마무리본** = `07_final/34_storm_dragon_bride_FINAL_v25_CN&KO&EN.docx` + `.md`. 전수 검수 2기(opus fresh-eyes 1~53화 정독 · sonnet 클래스 grep) → CRITICAL 0 · HIGH 5 중 4는 원작 원문 동일로 기각, 1(30화 접촉점 한·영 오역) 채택 · MED에서 세 언어 어긋남·색 드리프트·표기 오류 30줄 채택. 주요 회수선(반지·독 자국 위치·맹세석·드레스/왕관·골든 아일스·어머니·비늘 얼굴 4화) 전부 일관 판정. 변경 목록 = `34_storm_dragon_bride_v25_changes.md`.
+
 ## 제목 (2026-09-18 확정)
 **My One-Night Dragon Lord** — 사용자 확정. 잣대 = '샀다'가 아니라 원나잇 상대가 곧 드래곤 로드라는 사건 · 직접 성어 0 · 문장형이 아니라 명사구(히트작 제목 결 = 《One Night with the Dragon Lord》《Road of Lust》《Countdown King》처럼 구 하나). 기각 = I Bought the Dragon Lord for One Night(거래가 본질 아님) · The Stranger I Bought Was the Dragon Lord(같은 이유) · 문장형 후보 전부(주술목 완성 문장은 타이틀 결이 아님 — 사용자 교정). 차점 = Last Night's Stranger, Today's Dragon Lord · Sacrificed to My One-Night Stranger. docx는 본문 헤더 없이 시작하므로 문서 속성 제목에만 기록.

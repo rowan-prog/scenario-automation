@@ -1,0 +1,113 @@
+# v25 변경 목록 (2026-09-18) — 마무리 전수 검수(opus fresh-eyes + sonnet 클래스 스윕) 반영 · 30줄
+
+정본 = `07_final/34_storm_dragon_bride_FINAL_v25_CN&KO&EN.docx` (v24 기준) · 사건 변경 0
+
+## 채택
+- 30화 독 이전 접촉점: 중문 `多里安点在奥菲莉娅的指尖`(도리안의 손끝)을 한·영이 "오필리아의 손끝"으로 오역 → 정정
+- 비늘 색: 은백/银白/silver-white 3곳(6·51·52화) → 은청/银蓝/silver-blue (9화는 원작 그대로 제외)
+- 12화 대전 불꽃: "그윽한 푸른 번개 불꽃/storm-fire" → 남빛 번개 불꽃/indigo lightning-fire
+- 5화: 한·영에만 있던 "배를 가르기 전에" 중문 추가 · "왕관 신부" 중문 추가
+- 27화 차 시간: 한·영을 중문·원작 영어("I told them not to ruin our afternoon tea") 기준으로
+- 2화 반지: 영어에 index finger
+- 45화 인물 목록에 장군 · 30화 장로 단수 · 한국어 표기 4(가릭이다 · 장군 A가/A는/B를 · 치유사들)
+- 외부 AI 재독: 53화 영어 표식 `dragon-shaped birthmark` → `mark in the shape of a dragon fetus`(중·한 = 용 태아 문양 · 새로 생기는 표식이라 birthmark 아님) · 42화 한국어 "물이 …허벅지를 잠긴다" → "물에 …허벅지가 차례로 잠긴다"
+- sonnet 스윕: 44화 인물 목록 중문 끝 쉼표 제거(하드 불일치 1건). 그 외 구조 계수·화자 태그 230건·이름 표기·색 73건·반지·언어 혼입 전부 0건
+
+## 원작 사항으로 기각(HIGH 4 · MED 4)
+11→12화 대전 재입장 · 5→6화 드레스 찢김 뒤 옷차림 · 34→35화 방 이름 헤더 · 46화 맹세석 조각 탁자 · 2화 대연회장 헤더 · 43화 将领 무번호 태그 · 44화 검은 태양 선언급 · 44화 인간 형태 대가 미회수 — 전부 원작 원문 동일. 성 안 "빙점·냉기·눈처럼 하얀" = 살기·피부 비유 · "차가운 돌바닥" = 유지.
+
+## 전후
+
+- H2 30화 L3479
+  - 전: `△오필리아의 몸에서 빽빽하게 퍼져 날뛰던 검붉은 독벌레들이 도리안이 오필리아의 손끝에 댄 곳을 타고 미친 듯 도리안의 팔 위로 기어올라 그의 몸속으로 밀려든다.`
+  - 후: `△오필리아의 몸에서 빽빽하게 퍼져 날뛰던 검붉은 독벌레들이 도리안이 오필리아에게 댄 손끝을 타고 미친 듯 도리안의 팔 위로 기어올라 그의 몸속으로 밀려든다.`
+- H2 30화 L3480
+  - 전: `△The dense swarm of writhing black-red poison worms covering Ophelia surges from where Dorian touched Ophelia's fingertip, crawling wildly up Dorian's arm and pouring into Dorian's body.`
+  - 후: `△The dense swarm of writhing black-red poison worms covering Ophelia surges from Dorian's fingertip pressed to Ophelia, crawling wildly up Dorian's arm and pouring into Dorian's body.`
+- M4 비늘 색 L786
+  - 전: `△多里安喉咙里溢出一声低沉的轻笑，银白坚硬的龙鳞顺着他的下腹蔓延，靛蓝龙息在鳞片缝隙间隐隐燃烧。`
+  - 후: `△多里安喉咙里溢出一声低沉的轻笑，银蓝坚硬的龙鳞顺着他的下腹蔓延，靛蓝龙息在鳞片缝隙间隐隐燃烧。`
+- M4 비늘 색 L5279
+  - 전: `△烟尘散去，多里安缓缓站起身。他的脖颈浮现出银白的鳞，暗金色的竖瞳中燃烧着杀意。`
+  - 후: `△烟尘散去，多里安缓缓站起身。他的脖颈浮现出银蓝的鳞，暗金色的竖瞳中燃烧着杀意。`
+- M4 비늘 색 L5345
+  - 전: `△银白坚硬的龙鳞粗暴地撕裂多里安的皮肤，锋利的骨刺从脊背突刺而出。`
+  - 후: `△银蓝坚硬的龙鳞粗暴地撕裂多里安的皮肤，锋利的骨刺从脊背突刺而出。`
+- M4 비늘 색 L787
+  - 전: `△도리안의 목에서 낮은 웃음이 흘러나온다. 은백색 용비늘이 아랫배를 타고 번지고, 비늘 사이로 남빛 용의 숨결이 은은히 타오른다.`
+  - 후: `△도리안의 목에서 낮은 웃음이 흘러나온다. 은청색 용비늘이 아랫배를 타고 번지고, 비늘 사이로 남빛 용의 숨결이 은은히 타오른다.`
+- M4 비늘 색 L5280
+  - 전: `△먼지가 걷히고 도리안이 천천히 일어선다. 그의 목에는 은백색 비늘이 떠 있고, 짙은 금빛 세로 동공에는 살의가 타오른다.`
+  - 후: `△먼지가 걷히고 도리안이 천천히 일어선다. 그의 목에는 은청색 비늘이 떠 있고, 짙은 금빛 세로 동공에는 살의가 타오른다.`
+- M4 비늘 색 L5346
+  - 전: `△은백색의 단단한 용비늘이 도리안의 피부를 거칠게 찢고 솟아난다. 날카로운 뼈 가시가 등뼈에서 튀어나온다.`
+  - 후: `△은청색의 단단한 용비늘이 도리안의 피부를 거칠게 찢고 솟아난다. 날카로운 뼈 가시가 등뼈에서 튀어나온다.`
+- M4 비늘 색 L788
+  - 전: `△A low CHUCKLE escapes Dorian's throat. Silver-white dragon scales spread down his abdomen, indigo dragon-fire smoldering between the scales.`
+  - 후: `△A low CHUCKLE escapes Dorian's throat. Silver-blue dragon scales spread down his abdomen, indigo dragon-fire smoldering between the scales.`
+- M4 비늘 색 L5281
+  - 전: `△The smoke and dust CLEAR. Dorian slowly rises to his feet. Silver-white scales SPREAD up Dorian's neck, killing intent BURNING in Dorian's dark gold slit pupils.`
+  - 후: `△The smoke and dust CLEAR. Dorian slowly rises to his feet. Silver-blue scales SPREAD up Dorian's neck, killing intent BURNING in Dorian's dark gold slit pupils.`
+- M4 비늘 색 L5347
+  - 전: `△Hard silver-white dragon scales TEAR through Dorian's skin. Sharp bone spikes ERUPT from his spine.`
+  - 후: `△Hard silver-blue dragon scales TEAR through Dorian's skin. Sharp bone spikes ERUPT from his spine.`
+- M5 12화 L1497
+  - 전: `△宏大、暗黑奢华的风暴堡大殿。高高的穹顶下立着粗大的红石柱，青铜大门两侧的巨型火盆熊熊燃烧。大殿两侧燃烧着幽蓝色的雷火，红色的玫瑰花瓣铺满了红石地面上通往王座的长毯。`
+  - 후: `△宏大、暗黑奢华的风暴堡大殿。高高的穹顶下立着粗大的红石柱，青铜大门两侧的巨型火盆熊熊燃烧。大殿两侧燃烧着靛蓝的雷火，红色的玫瑰花瓣铺满了红石地面上通往王座的长毯。`
+- M5 12화 L1498
+  - 전: `△웅장하고 어둡게 사치스러운 스톰홀드 대전. 높은 천장 아래 굵은 붉은 돌기둥이 서 있고, 청동 문 양옆의 거대한 화로가 활활 타오른다. 양옆에는 그윽한 푸른 번개 불꽃이 타오르고, 붉은 장미 꽃잎이 붉은 돌바닥 위로 왕좌까지 이어진 융단을 가득 덮고 있다.`
+  - 후: `△웅장하고 어둡게 사치스러운 스톰홀드 대전. 높은 천장 아래 굵은 붉은 돌기둥이 서 있고, 청동 문 양옆의 거대한 화로가 활활 타오른다. 양옆에는 남빛 번개 불꽃이 타오르고, 붉은 장미 꽃잎이 붉은 돌바닥 위로 왕좌까지 이어진 융단을 가득 덮고 있다.`
+- M5 12화 L1499
+  - 전: `△A vast, dark, opulent hall in Stormhold. Thick red stone pillars rise under the high ceiling, and huge braziers BLAZE on either side of the bronze doors. Ghostly blue storm-fire BURNS along both walls. Red rose petals cover the carpet that runs across the red stone floor to the throne.`
+  - 후: `△A vast, dark, opulent hall in Stormhold. Thick red stone pillars rise under the high ceiling, and huge braziers BLAZE on either side of the bronze doors. Indigo lightning-fire BURNS along both walls. Red rose petals cover the carpet that runs across the red stone floor to the throne.`
+- M6 5화 L736
+  - 전: `多里安（暴怒，龙啸声震耳欲聋）: 该死！你竟敢打扰我和公主的新婚之夜，给我滚出去！`
+  - 후: `多里安（暴怒，龙啸声震耳欲聋）: 该死！你竟敢打扰我和公主的新婚之夜，不想被开膛就给我滚出去！`
+- M7 5화 L697
+  - 전: `奥菲莉娅: 他就在这里。你们随时可以处死他。但我是领主的新娘，你们无权审判我！`
+  - 후: `奥菲莉娅: 他就在这里。你们随时可以处死他。但我是领主的王冠新娘，你们无权审判我！`
+- M9 27화 L3043
+  - 전: `도리안: 아무것도 아니야. 분수 모르는 짐승 몇 마리가 설쳤을 뿐이지. 우리 차 시간을 망칠 엄두는 못 낼 거야.`
+  - 후: `도리안: 아무것도 아니야. 분수 모르는 짐승 몇 마리가 설쳤을 뿐이지. 우리 차 시간 망치지 말라고 일러 뒀어.`
+- M9 27화 L3044
+  - 전: `DORIAN: Nothing. A few mindless brutes forgot their place. They know better than to ruin our afternoon tea.`
+  - 후: `DORIAN: Nothing. A few mindless brutes forgot their place. I told them not to ruin our afternoon tea.`
+- M10 2화 L246
+  - 전: `△Garrick STRIDES over, GRABBING Ophelia's left hand and RIPPING the royal ring off Ophelia's finger. He wipes the ring on his sleeve as if it were dirty, then pockets it.`
+  - 후: `△Garrick STRIDES over, GRABBING Ophelia's left hand and RIPPING the royal ring off Ophelia's index finger. He wipes the ring on his sleeve as if it were dirty, then pockets it.`
+- M12 45화 L5087
+  - 전: `人物：奥菲莉娅，多里安，长老，国王`
+  - 후: `人物：奥菲莉娅，多里安，长老，国王，将领`
+- M12 45화 L5088
+  - 전: `인물：오필리아, 도리안, 장로, 국왕`
+  - 후: `인물：오필리아, 도리안, 장로, 국왕, 장군`
+- M12 45화 L5089
+  - 전: `CAST：OPHELIA, DORIAN, ELDER, KING`
+  - 후: `CAST：OPHELIA, DORIAN, ELDER, KING, GENERAL`
+- M13 30화 L3419
+  - 전: `△도리안은 벌떡 일어나 치유사와 장로들을 향해 소리친다.`
+  - 후: `△도리안은 벌떡 일어나 치유사와 장로를 향해 소리친다.`
+- M14 27화 L3250
+  - 전: `△대전 아래에는 인간 왕국의 사절단이 서 있다. 선두는 가릭다.`
+  - 후: `△대전 아래에는 인간 왕국의 사절단이 서 있다. 선두는 가릭이다.`
+- M15 43화 L4878
+  - 전: `△장군 A이 충동적인 동료를 붙잡고 도리안을 똑바로 바라본다.`
+  - 후: `△장군 A가 충동적인 동료를 붙잡고 도리안을 똑바로 바라본다.`
+- M15 43화 L4902
+  - 전: `△장군 A은 고개를 숙여 명을 받고, 무언가 더 말하려는 장군 B을 끌고 나간다.`
+  - 후: `△장군 A는 고개를 숙여 명을 받고, 무언가 더 말하려는 장군 B을 끌고 나간다.`
+- M15 43화 L4902
+  - 전: `△장군 A은 고개를 숙여 명을 받고, 무언가 더 말하려는 장군 B을 끌고 나간다.`
+  - 후: `△장군 A은 고개를 숙여 명을 받고, 무언가 더 말하려는 장군 B를 끌고 나간다.`
+- M16 30화 L3427
+  - 전: `△의사들은 겁에 질려 바닥에 무릎을 꿇고 떤다.`
+  - 후: `△치유사들은 겁에 질려 바닥에 무릎을 꿇고 떤다.`
+- 53화 EN 용 태아 L5986
+  - 전: `△SLOW PUSH IN — Beneath the pale skin of Ophelia's palm, resting lightly on Dorian's shoulder, a thread of red-gold light QUIETLY KINDLES. The light FLOWS and WEAVES like gossamer, tracing out a small, delicate dragon-shaped birthmark.`
+  - 후: `△SLOW PUSH IN — Beneath the pale skin of Ophelia's palm, resting lightly on Dorian's shoulder, a thread of red-gold light QUIETLY KINDLES. The light FLOWS and WEAVES like gossamer, tracing out a small, delicate mark in the shape of a dragon fetus.`
+- 42화 KO L4737
+  - 전: `△물이 차례로 오필리아의 종아리와 무릎, 이어 허벅지를 잠긴다. 검은 비단 겉옷은 완전히 젖어 몸에 반투명하게 달라붙고, 매끈한 몸의 곡선을 드러낸다.`
+  - 후: `△물에 오필리아의 종아리와 무릎, 이어 허벅지가 차례로 잠긴다. 검은 비단 겉옷은 완전히 젖어 몸에 반투명하게 달라붙고, 매끈한 몸의 곡선을 드러낸다.`
+- 44화 인물 목록 CN 쉼표 L4970
+  - 전: `人物：奥菲莉娅，多里安，长老，`
+  - 후: `人物：奥菲莉娅，多里安，长老`
