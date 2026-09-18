@@ -80,7 +80,9 @@
 
 - 2026-09-18 **FINAL v27** = `07_final/34_storm_dragon_bride_FINAL_v27_CN&KO&EN.docx` + `.md`. 사용자 지적(1화 "난 이 궁을 걸어 나간다" = 암시적) → v26이 흐린 영어를 정본 삼아 한·중을 끌어내린 3곳 정정: 1화 세 언어 "새벽까지 내 몸은 내 거고, 내가 원하는 남자한테 줄 거야" · 14화 엄벌·성스러운 날 복원(영어도 원작대로) · 21화 "Just stay by my side. Forever." 명령형 복원. **원칙: 영어가 원작보다 흐리면 영어부터 고친다.** 9줄. 변경 목록 = `34_storm_dragon_bride_v27_changes.md`.
 
-- 2026-09-18 **LOCK — 사용자 "마무리 인정".** 정본 = `07_final/34_storm_dragon_bride_FINAL_v27_CN&KO&EN.docx`(v25 LOCK 직후 3언어 동기화 v26 → 흐린 영어 정정 v27). 제목 My One-Night Dragon Lord. 이후 수정은 §4-1 수술 파이프라인으로 v26+.
+- 2026-09-18 **FINAL v28** = `07_final/34_storm_dragon_bride_FINAL_v28_CN&KO&EN.docx` + `.md`. 1화 오필리아 대사 3줄 — "걸어 나간다"(I walk out 직역·정보 없음) 삭제, 원작 "오늘 밤 왕궁 문은 내게 열어 둬"로 복귀 + "새벽까지 내 몸은 내 거고, 내가 원하는 남자한테 줄 거야". 변경 목록 = `34_storm_dragon_bride_v28_changes.md`.
+
+- 2026-09-18 **LOCK — 사용자 "마무리 인정".** 정본 = `07_final/34_storm_dragon_bride_FINAL_v28_CN&KO&EN.docx`(v25 LOCK 직후 3언어 동기화 v26 → 흐린 영어 정정 v27). 제목 My One-Night Dragon Lord. 이후 수정은 §4-1 수술 파이프라인으로 v26+.
 
 ## 제목 (2026-09-18 확정)
 **My One-Night Dragon Lord** — 사용자 확정. 잣대 = '샀다'가 아니라 원나잇 상대가 곧 드래곤 로드라는 사건 · 직접 성어 0 · 문장형이 아니라 명사구(히트작 제목 결 = 《One Night with the Dragon Lord》《Road of Lust》《Countdown King》처럼 구 하나). 기각 = I Bought the Dragon Lord for One Night(거래가 본질 아님) · The Stranger I Bought Was the Dragon Lord(같은 이유) · 문장형 후보 전부(주술목 완성 문장은 타이틀 결이 아님 — 사용자 교정). 차점 = Last Night's Stranger, Today's Dragon Lord · Sacrificed to My One-Night Stranger. docx는 본문 헤더 없이 시작하므로 문서 속성 제목에만 기록.
