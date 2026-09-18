@@ -86,7 +86,9 @@
 
 - 2026-09-18 **FINAL v30** = `07_final/34_storm_dragon_bride_FINAL_v30_CN&KO&EN.docx` + `.md`. 1화 오필리아 대사 사용자 확정("하지만 오늘 밤은 날 막지 마. 나가서 남자를 살 거야. 내가 원하는 남자랑 실컷 잘 거야. 막아? 그럼 난 죽어. 너희는 제물을 잃는 거고." / EN "…I'm going to fuck whoever I want. Stop me? Then I die, and you lose your offering."). v27~v29는 같은 줄에서 직역·선언문 톤을 못 벗은 시행착오 — 교훈: 대사는 사람이 그 자리에서 내뱉는 말로, 원작 영어 문장 구조를 따라가지 말 것. 변경 목록 = `34_storm_dragon_bride_v30_changes.md`.
 
-- 2026-09-18 **LOCK — 사용자 "마무리 인정".** 정본 = `07_final/34_storm_dragon_bride_FINAL_v30_CN&KO&EN.docx`(v25 LOCK 직후 3언어 동기화 v26 → 흐린 영어 정정 v27). 제목 My One-Night Dragon Lord. 이후 수정은 §4-1 수술 파이프라인으로 v26+.
+- 2026-09-18 **FINAL v31 = v27 완복 (사용자 지시)** = `07_final/34_storm_dragon_bride_FINAL_v31_CN&KO&EN.docx` + `.md` (v27과 바이트 동일). v28~v30(1화 대사 시행착오)은 폐기 — 파일은 보존하되 캐논 아님. 사용자: "Just stay by my side. Forever. 이런 개좋은 문장을 바꿨던 것도 문제" → v27에서 복원된 21화 그 줄 확정. **이 라운드 교훈 = 승인 없이 연속 수정(v27~v30) 금지 · 사용자가 대사의 '실상'을 풀어 준 문장을 대사로 박지 말 것 · 이미 좋은 영어 문장은 건드리지 않는다.**
+
+- 2026-09-18 **LOCK — 사용자 "마무리 인정".** 정본 = `07_final/34_storm_dragon_bride_FINAL_v31_CN&KO&EN.docx`(= v27 완복 · v25 LOCK 직후 3언어 동기화 v26 → 흐린 영어 정정 v27). 제목 My One-Night Dragon Lord. 이후 수정은 §4-1 수술 파이프라인으로 v26+.
 
 ## 제목 (2026-09-18 확정)
 **My One-Night Dragon Lord** — 사용자 확정. 잣대 = '샀다'가 아니라 원나잇 상대가 곧 드래곤 로드라는 사건 · 직접 성어 0 · 문장형이 아니라 명사구(히트작 제목 결 = 《One Night with the Dragon Lord》《Road of Lust》《Countdown King》처럼 구 하나). 기각 = I Bought the Dragon Lord for One Night(거래가 본질 아님) · The Stranger I Bought Was the Dragon Lord(같은 이유) · 문장형 후보 전부(주술목 완성 문장은 타이틀 결이 아님 — 사용자 교정). 차점 = Last Night's Stranger, Today's Dragon Lord · Sacrificed to My One-Night Stranger. docx는 본문 헤더 없이 시작하므로 문서 속성 제목에만 기록.
