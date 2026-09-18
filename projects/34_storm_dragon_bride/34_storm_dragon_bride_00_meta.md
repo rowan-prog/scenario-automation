@@ -76,7 +76,9 @@
 
 - 2026-09-18 **FINAL v25 = 마무리본** = `07_final/34_storm_dragon_bride_FINAL_v25_CN&KO&EN.docx` + `.md`. 전수 검수 2기(opus fresh-eyes 1~53화 정독 · sonnet 클래스 grep) → CRITICAL 0 · HIGH 5 중 4는 원작 원문 동일로 기각, 1(30화 접촉점 한·영 오역) 채택 · MED에서 세 언어 어긋남·색 드리프트·표기 오류 30줄 채택. 주요 회수선(반지·독 자국 위치·맹세석·드레스/왕관·골든 아일스·어머니·비늘 얼굴 4화) 전부 일관 판정. 변경 목록 = `34_storm_dragon_bride_v25_changes.md`.
 
-- 2026-09-18 **LOCK — 사용자 "마무리 인정".** 정본 = `07_final/34_storm_dragon_bride_FINAL_v25_CN&KO&EN.docx`. 제목 My One-Night Dragon Lord. 이후 수정은 §4-1 수술 파이프라인으로 v26+.
+- 2026-09-18 **FINAL v26** = `07_final/34_storm_dragon_bride_FINAL_v26_CN&KO&EN.docx` + `.md`. 사용자 지적(영어 대사 수정의 한·중 미환류) → 기준 확정: **대사 = 영어 정본, 지문 = 원작 줄 중문 기준·세션 신규 지문은 3언어 동시 작성분 그대로.** sonnet 4기 전편 뜻 대조(대사 483·지문 916세트) + 메인 직독(영어만 바뀐 94줄) → 31곳 48줄 동기화(대사 28 · 지문 색 3 · 영어 1 = envoys). v25 LOCK 표기는 v26으로 이월. 변경 목록 = `34_storm_dragon_bride_v26_changes.md`.
+
+- 2026-09-18 **LOCK — 사용자 "마무리 인정".** 정본 = `07_final/34_storm_dragon_bride_FINAL_v26_CN&KO&EN.docx`(v25 LOCK 직후 3언어 동기화 v26). 제목 My One-Night Dragon Lord. 이후 수정은 §4-1 수술 파이프라인으로 v26+.
 
 ## 제목 (2026-09-18 확정)
 **My One-Night Dragon Lord** — 사용자 확정. 잣대 = '샀다'가 아니라 원나잇 상대가 곧 드래곤 로드라는 사건 · 직접 성어 0 · 문장형이 아니라 명사구(히트작 제목 결 = 《One Night with the Dragon Lord》《Road of Lust》《Countdown King》처럼 구 하나). 기각 = I Bought the Dragon Lord for One Night(거래가 본질 아님) · The Stranger I Bought Was the Dragon Lord(같은 이유) · 문장형 후보 전부(주술목 완성 문장은 타이틀 결이 아님 — 사용자 교정). 차점 = Last Night's Stranger, Today's Dragon Lord · Sacrificed to My One-Night Stranger. docx는 본문 헤더 없이 시작하므로 문서 속성 제목에만 기록.
