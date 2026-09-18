@@ -1,0 +1,119 @@
+# v32 변경 목록 (2026-09-18) — 대사 전수 검수 v3(내 audit v2 + Codex 통합 판정) 반영 · 24곳 37줄
+
+정본 = `07_final/34_storm_dragon_bride_FINAL_v32_CN&KO&EN.docx` (v31 기준) · 사건 변경 0 · 근거 = `34_storm_dragon_bride_dialogue_audit_v3_merged.md`
+
+규칙: 영어를 고치면 한·중도 같은 뜻으로(이미 같은 뜻이면 유지). 한·중 동반 수정 = 2화 사브리나·2화 찌꺼기·17화·29화·30화·32화·38화·40화·44화.
+
+## 전후
+
+- 2화 사브리나 L339
+  - 전: `萨布丽娜: 你这个傲慢的贱人！今晚你就会第一个被送到他的床上，我等着听你的悲鸣！`
+  - 후: `萨布丽娜: 你这个傲慢的贱人！今晚你就会第一个被拖上他的床，我等着听你的悲鸣！`
+- 2화 사브리나 L340
+  - 전: `사브리나: 이 오만한 년! 오늘 밤 네가 제일 먼저 그자의 침대로 보내질 거야. 네 비명 소리가 벌써부터 기다려지는군!`
+  - 후: `사브리나: 이 오만한 년! 오늘 밤 그자의 침대로 제일 먼저 끌려갈 건 너야. 네 비명 소리가 벌써부터 기다려지는군!`
+- 2화 사브리나 L341
+  - 전: `SABRINA: You arrogant slut! They drag you to his bed first tonight, and I can't wait to hear you scream!`
+  - 후: `SABRINA: You arrogant slut! You'll be the first they drag into his bed tonight, and I can't wait to hear you scream!`
+- 2화 후궁 L363
+  - 전: `OPHELIA: A king who can't control his own harem. No wonder you sent for a royal bride.`
+  - 후: `OPHELIA: A king who can't control his own harem. No wonder you need a royal bride.`
+- 2화 찌꺼기 L267
+  - 전: `奥菲莉娅: 一个用未婚妻换取苟活的懦夫，和一个只配捡破烂的婊子。你们俩还真是绝配。`
+  - 후: `奥菲莉娅: 一个用未婚妻换取苟活的懦夫，和一个只配捡我丢下的破烂的婊子。你们俩还真是绝配。`
+- 2화 찌꺼기 L268
+  - 전: `오필리아: 약혼녀를 팔아 제 목숨만 건진 겁쟁이랑, 그 자식이 흘린 찌꺼기나 주워 먹는 창녀. 너희 둘 참 잘 어울린다.`
+  - 후: `오필리아: 약혼녀를 팔아 제 목숨만 건진 겁쟁이랑, 내가 버린 쓰레기나 주워 먹는 창녀. 너희 둘 참 잘 어울린다.`
+- 2화 찌꺼기 L269
+  - 전: `OPHELIA: A coward who sold his fiancee to save his own skin. And a whore eating his leftovers. You two deserve each other.`
+  - 후: `OPHELIA: A coward who sold his fiancee to save his own skin. And a whore who picks up my trash. You two deserve each other.`
+- 3화 들고양이 L458
+  - 전: `DORIAN: At the inn, the curse almost made me shift. Her touch stopped it. Let's find out what this little wildcat really wants.`
+  - 후: `DORIAN: At the inn, the curse almost made me shift. Her touch stopped it. Interesting. Let's see what game this little wildcat is playing.`
+- 3화 신음 L528
+  - 전: `OPHELIA: (flat, expressionless) Are you done? I can make the sounds, if that's what you want.`
+  - 후: `OPHELIA: (flat, expressionless) Are you done? I can moan for you, if that's what you need.`
+- 3화 죽은 눈 L520
+  - 전: `DORIAN (V.O.): Shallow little thing. She threw herself at some pretty-faced stranger, but one look at my real face and she goes cold.`
+  - 후: `DORIAN (V.O.): Shallow little thing. She threw herself at some pretty-faced stranger, but one look at my real face and she gives me those dead eyes.`
+- 6화 착하게 L896
+  - 전: `DORIAN: Behave. Stay in this bed until I get back.`
+  - 후: `DORIAN: Be a good girl. Lie here and wait for me.`
+- 17화 치료 L2042
+  - 전: `奥菲莉娅（声音发颤）: 求你好好接受治疗，千万不要有事。`
+  - 후: `奥菲莉娅（声音发颤）: 求你快点好起来。千万要活着。`
+- 17화 치료 L2043
+  - 전: `오필리아: (떨리는 목소리) 치료 잘 받아. 제발... 살아만 있어 줘.`
+  - 후: `오필리아: (떨리는 목소리) 제발... 나아 줘. 살아만 있어 줘.`
+- 17화 치료 L2044
+  - 전: `OPHELIA: (trembling) Let the treatment work. Please... just stay alive.`
+  - 후: `OPHELIA: (trembling) Please... get better. Just stay alive.`
+- 21화 날 봐 L2403
+  - 전: `DORIAN: (trembling, terrified) Ophelia! Stay with me! Open your eyes!`
+  - 후: `DORIAN: (trembling, terrified) Ophelia! Wake up! Look at me!`
+- 24화 마지막 L2845
+  - 전: `OPHELIA (V.O.): Forgive me, Dorian... after this, I swear I'll never use you again.`
+  - 후: `OPHELIA (V.O.): Please forgive me, Dorian... this is the last time I'll use you.`
+- 25화 준비 L2915
+  - 전: `DORIAN (V.O.): Silly girl, every bit of this was built for you.`
+  - 후: `DORIAN (V.O.): Silly girl. I had all this prepared for you.`
+- 29화 방법 L3368
+  - 전: `도리안: (냉소하며) 내 왕후는 내가 지킨다! 인간 쓰레기들이 날 협박할 자격은 없어!`
+  - 후: `도리안: (냉소하며) 내 왕후를 지킬 방법은 내게 있어! 인간 쓰레기들이 날 협박할 자격은 없어!`
+- 29화 방법 L3369
+  - 전: `DORIAN: (sneering) My Queen is mine to protect! Human filth doesn't get to threaten me!`
+  - 후: `DORIAN: (sneering) I have my own way to protect my Queen! Human filth doesn't get to threaten me!`
+- 30화 피해 L3434
+  - 전: `장로 A: 군주님... 아주 오래된 금지된 주술이 하나 있습니다. 목숨을 나누는 계약이죠. 두 분이 고통을 반씩 나눠 지게 됩니다.`
+  - 후: `장로 A: 군주님... 아주 오래된 금지된 주술이 하나 있습니다. 목숨을 나누는 계약이죠. 그녀가 받는 피해를 두 분이 나눠 지게 됩니다.`
+- 30화 피해 L3435
+  - 전: `ELDER A: My Lord... there is one ancient forbidden spell: the Life Bond. Her pain gets split between the two of you.`
+  - 후: `ELDER A: My Lord... there is one ancient forbidden spell: the Life Bond. Any harm she suffers will be shared between you.`
+- 31화 통증 L3550
+  - 전: `OPHELIA (V.O.): Wait... is the pain actually fading?`
+  - 후: `OPHELIA (V.O.): The pain... it's almost gone?`
+- 32화 국왕 L3631
+  - 전: `KING: If they want to play, I'll have that bitch tortured until she prays for death. And I won't let her die.`
+  - 후: `KING: They want to play? Then I'll make that bitch beg for death, and I won't let her die.`
+- 32화 날 봐 L3678
+  - 전: `오필리아: 도리안?! 정신 차려! 무슨 일이 벌어지는 거야?!`
+  - 후: `오필리아: 도리안! 왜 그래? 날 봐!`
+- 32화 날 봐 L3679
+  - 전: `OPHELIA: Dorian?! Stay with me! What's happening to you?!`
+  - 후: `OPHELIA: Dorian! What's happening to you? Look at me!`
+- 38화 처분 L4408
+  - 전: `多里安（视线缓缓扫过高台上的国王）: 你想怎么做？`
+  - 후: `多里安（视线缓缓扫过高台上的国王）: 你想让我怎么处置他？`
+- 38화 처분 L4409
+  - 전: `도리안: (시선을 높은 단 위의 국왕에게 천천히 돌리며) 어떻게 하고 싶어?`
+  - 후: `도리안: (시선을 높은 단 위의 국왕에게 천천히 돌리며) 저자를 어떻게 해 줄까?`
+- 38화 처분 L4410
+  - 전: `DORIAN: (gaze sliding slowly to the King on the dais) What's it going to be?`
+  - 후: `DORIAN: (gaze sliding slowly to the King on the dais) What do you want me to do with him?`
+- 39화 고백 L4437
+  - 전: `OPHELIA: That's right! I used Dorian on purpose! I wanted his strength to make them pay for what they did to my mother!`
+  - 후: `OPHELIA: That's right! I went to Dorian to use him! I wanted his power to make them pay for what they did to my mother!`
+- 40화 유언 L4585
+  - 전: `어머니: (오필리아를 보며) 오필리아, 너는 늘 용감한 아이였어. 후회에 잡아먹히지 마. 도리안과 함께 살아.`
+  - 후: `어머니: (오필리아를 보며) 오필리아, 내 용감한 딸. 후회에 잡아먹히지 마. 도리안과 함께 살아.`
+- 40화 유언 L4586
+  - 전: `MOTHER: (looking at Ophelia) You were always the brave one, Ophelia. Don't let regret eat you alive. Go live your life with him.`
+  - 후: `MOTHER: (looking at Ophelia) Ophelia, my brave girl. Don't let regret eat you alive. Go live your life with him.`
+- 43화 use it L4917
+  - 전: `DORIAN: If I lose myself, use it against me...`
+  - 후: `DORIAN: If I lose myself, use it...`
+- 43화 뜯김 L4945
+  - 전: `DORIAN: (a roar held back) Every second, Ophelia! Every breath! He's inside my head, taking my fire, my claws... my will!`
+  - 후: `DORIAN: (a roar held back) Every second, Ophelia! Every breath! He's inside my head, tearing at my fire, my claws... my will!`
+- 44화 장로 L5030
+  - 전: `장로: 마음이 말하는 것을 믿으십시오.`
+  - 후: `장로: 마음을 따르십시오.`
+- 44화 장로 L5031
+  - 전: `ELDER: Do what your heart actually wants.`
+  - 후: `ELDER: Follow your heart.`
+- 51화 어디 L5679
+  - 전: `OPHELIA: (voice trembling) It's pitch black in here... Dorian, where'd you go?`
+  - 후: `OPHELIA: (voice trembling) It's pitch black in here... Dorian, where are you?`
+- 53화 그땐 L5967
+  - 전: `OPHELIA: You said you'd bring me here one day... I never believed it.`
+  - 후: `OPHELIA: You said you'd bring me here one day... I didn't believe you then.`
