@@ -1,6 +1,6 @@
 # 34_storm_dragon_bride — meta
 
-- 작품: **I Bought the Dragon Lord for One Night** (가제) / 원작 = 사내 히트작 《One Night with the Dragon Lord》 53화
+- 작품: **My One-Night Dragon Lord** (2026-09-18 확정 · 구 가제 I Bought the Dragon Lord for One Night) / 원작 = 사내 히트작 《One Night with the Dragon Lord》 53화
 - 장르·타깃: 여성향 다크 판타지 로맨스 · 북미/글로벌 여성 · EN 발화(AI 더빙) · 중국 제작
 - 총 53화 · 무료 1~8화 · paid vertical
 - 모드: ① verbatim 계승 + 껍데기 교체(이름·지명·용어·용의 색·공간 한 줄) — 청사진 = `34_storm_dragon_bride_01_adaptation_blueprint.md`
@@ -72,7 +72,5 @@
 
 - 2026-09-17 **v23 콜드리드 2기(sonnet·opus · 사전 지식 0)** — 무료 8화 이탈 지점 0 · 8화 끝 결제 예/예 · 점수 sonnet 9·8·7·8·7·7·8·9 / opus 9·8·7·7·6·5·8·9. 수정 제안 전부 기각(원작 사건 불변·9화 원작 그대로·사연 금지·영어 4줄은 중문·원작 영어와 일치·sonnet L1338 오독). **수정 0건.** 조연 둘(비비안·사브리나)은 사용자 결정대로 사연 없이 감정만.
 
-## 제목 후보 (미확정)
-1. I Bought the Dragon Lord for One Night (가제·문서 헤더)
-2. The Stranger I Bought Was the Dragon Lord
-3. One Night Before the Dragon
+## 제목 (2026-09-18 확정)
+**My One-Night Dragon Lord** — 사용자 확정. 잣대 = '샀다'가 아니라 원나잇 상대가 곧 드래곤 로드라는 사건 · 직접 성어 0 · 문장형이 아니라 명사구(히트작 제목 결 = 《One Night with the Dragon Lord》《Road of Lust》《Countdown King》처럼 구 하나). 기각 = I Bought the Dragon Lord for One Night(거래가 본질 아님) · The Stranger I Bought Was the Dragon Lord(같은 이유) · 문장형 후보 전부(주술목 완성 문장은 타이틀 결이 아님 — 사용자 교정). 차점 = Last Night's Stranger, Today's Dragon Lord · Sacrificed to My One-Night Stranger. docx는 본문 헤더 없이 시작하므로 문서 속성 제목에만 기록.

@@ -1,4 +1,4 @@
-# 34 · I Bought the Dragon Lord for One Night — 각색 청사진 (2026-09-15)
+# 34 · My One-Night Dragon Lord (구 가제 I Bought the Dragon Lord for One Night) — 각색 청사진 (2026-09-15)
 
 ## 1. 원작
 - `config/vertical_drama_hit_scripts/One Night with the Dragon Lord_FINAL_CN&EN.docx` (53화 완본 · CN 지문 + EN 대사(중문 병기)) — 사내 히트작. 사본 = `reference/`.
