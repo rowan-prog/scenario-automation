@@ -28,3 +28,6 @@ metadata:
 - 본문 = `config/20_review_standard.md` §2 (Track B 오류 게이트) + `~/.claude/agents/fresh-eyes-auditor.md`.
 
 관련: [[vertical-revenge-impostor-believed-engine]] [[vertical-regret-man]] [[human-first-action-not-explanation]] [[external-ai-evaluation-individual-validity]]
+
+
+**2026-09-18 추가 사례 (34 storm_dragon_bride v18):** 인물의 협박·위로를 설정 설명으로 읽고 뒤 회차와 논리를 맞추면 대사가 죽는다 — 7화 가릭 "hang her"를 19화 지하 감옥 계획과 충돌한다고 "answer for"로 낮춤(악역의 지금 협박이 나중 처분과 같을 필요 없음) · 30화 도리안 "It's in me now"를 독 배분 비율 설명으로 읽어 고침(위로는 계량이 아님). 세계 정합으로 한 단어를 빼면(6화 "얼어 죽든 말든" → "세워 둬") 그 자리에 같은 강도의 잔인함을 다시 채운다. 검수 판정 전에 "이 줄은 설정 진술인가, 인물의 말인가"부터 묻는다.

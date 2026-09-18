@@ -72,5 +72,7 @@
 
 - 2026-09-17 **v23 콜드리드 2기(sonnet·opus · 사전 지식 0)** — 무료 8화 이탈 지점 0 · 8화 끝 결제 예/예 · 점수 sonnet 9·8·7·8·7·7·8·9 / opus 9·8·7·7·6·5·8·9. 수정 제안 전부 기각(원작 사건 불변·9화 원작 그대로·사연 금지·영어 4줄은 중문·원작 영어와 일치·sonnet L1338 오독). **수정 0건.** 조연 둘(비비안·사브리나)은 사용자 결정대로 사연 없이 감정만.
 
+- 2026-09-18 **FINAL v24** = `07_final/34_storm_dragon_bride_FINAL_v24_CN&KO&EN.docx` + `.md`. 과검수로 약해진 대사 2 복구(6화 "쓰러져 죽든 말든!" · 7화 가릭 EN "She'll suffer for her crimes.") + 2화 성문 불꽃 남빛 번개로 색 지정 + 18화 첫 지문 "협곡 너머 외곽 산지" + 대사 속 설정어 정리(10화 stormfire→my fire · 25화 폭풍룡 군단→스톰홀드의 전사들). **"일반 불 뿜는 용" 제안 기각** — 색 분리(독·저주 검정·붉음 / 도리안 남빛 / 성 붉은 암벽)가 AI 실사 화면 구분의 근거 · 제안자 철회. 교훈 = 인물의 협박·위로를 설정 설명으로 읽고 논리 맞추면 대사가 죽는다(v18 7·30화). 16줄. 변경 목록 = `34_storm_dragon_bride_v24_changes.md`.
+
 ## 제목 (2026-09-18 확정)
 **My One-Night Dragon Lord** — 사용자 확정. 잣대 = '샀다'가 아니라 원나잇 상대가 곧 드래곤 로드라는 사건 · 직접 성어 0 · 문장형이 아니라 명사구(히트작 제목 결 = 《One Night with the Dragon Lord》《Road of Lust》《Countdown King》처럼 구 하나). 기각 = I Bought the Dragon Lord for One Night(거래가 본질 아님) · The Stranger I Bought Was the Dragon Lord(같은 이유) · 문장형 후보 전부(주술목 완성 문장은 타이틀 결이 아님 — 사용자 교정). 차점 = Last Night's Stranger, Today's Dragon Lord · Sacrificed to My One-Night Stranger. docx는 본문 헤더 없이 시작하므로 문서 속성 제목에만 기록.
