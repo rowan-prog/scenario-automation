@@ -78,3 +78,20 @@
 
 ## 집계
 62 → 채택 49 + 메인안 9 = **58줄 교체**(EN 58 · KO 58 · CN 58 + 7화 회상 지문 3) · 기각 4. 1~3화 = 33줄 전부 교체.
+
+## D. 외부 AI 후보(공격 각도 = 돈·지위·자존심) 합침 (2026-09-21) — A/B의 해당 줄을 아래로 교체
+| L | 화 | 최종 EN |
+|---|---|---|
+| 70 | 1 가릭 | Vivian is worth protecting. You aren't worth a damn. If he needs a bride to tear apart, he can have you. |
+| 94 | 1 비비안 | You're so much braver than I am, Sister. You wouldn't make me face that thing alone... would you? |
+| (Beg you 줄) | 1 오필리아 | Beg you? I paid for you. You should be asking what I want. |
+| 269 | 2 오필리아 | You sold me to save your own skin. And you think you've won a prize, you whore? |
+| 330 | 2 오필리아 | Silk won't make you royalty. You're a pack of desperate sluts waiting to be picked. I'm his bride. Lower your eyes. |
+| 520 | 3 도리안 V.O. | She couldn't keep her hands off a pretty face. But these scales? Now she looks bored. |
+| 528 | 3 오필리아 | Would it help if I moaned? I can pretend. |
+| 958 | 7 비비안 | The night before she came here, she slipped out of the palace and didn't come back till sunrise. She spent it in another man's bed. And you're going to put a crown on that whore? |
+| 978 | 7 도리안 V.O. | Another man's bed. You're looking right at him. |
+| 982 | 7 도리안 | Another man's bed? Go on. Say his name. |
+| 1061 | 8 자객 | Get him into your bed. Make him need you. Then make him do what the King wants. |
+기각 = 4화 칼 대사(외부 8번 · 우선순위 낮음 · Codex 검토 유지 결론).
+최종 = 59줄 교체 + 7화 회상 지문 3줄. 승인 대기.
