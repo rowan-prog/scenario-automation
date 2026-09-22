@@ -104,7 +104,11 @@
 
 - 2026-09-22 **FINAL v39** = `07_final/34_storm_dragon_bride_FINAL_v39_CN&KO&EN.docx` + `.md`. 52화 재회 포옹·키스 지문 4세트(+12줄) — 사용자 요청(노출 0·베드씬 아님·눈물·게걸스러운 갈구·길게·남들 앞 X). 광장(39화) 안은 사용자 기각 → 52-2 침실 채택. 변경 목록 = `34_storm_dragon_bride_v39_changes.md`.
 
-- 2026-09-18 **LOCK — 사용자 "마무리 인정".** 정본 = `07_final/34_storm_dragon_bride_FINAL_v39_CN&KO&EN.docx`(52화 키스 v39 · 세계 정합 v38 · 5화 정체 인지 V.O. v37 · 콜드리드 3곳 v36 · 사후 스윕 v35 · 9~53화 B2 차별화 v34 · 1~8화 원작 자국 지우기 v33 · 대사 검수 v3 반영 · = v27 완복 · v25 LOCK 직후 3언어 동기화 v26 → 흐린 영어 정정 v27). 제목 My One-Night Dragon Lord. 이후 수정은 §4-1 수술 파이프라인으로 v26+.
+- 2026-09-18 **LOCK — 사용자 "마무리 인정".** 정본 = `07_final/34_storm_dragon_bride_FINAL_v41_CN&KO&EN.docx`(52화 암전 v41 · 52화 키스 대사 v40 · 52화 키스 v39 · 세계 정합 v38 · 5화 정체 인지 V.O. v37 · 콜드리드 3곳 v36 · 사후 스윕 v35 · 9~53화 B2 차별화 v34 · 1~8화 원작 자국 지우기 v33 · 대사 검수 v3 반영 · = v27 완복 · v25 LOCK 직후 3언어 동기화 v26 → 흐린 영어 정정 v27). 제목 My One-Night Dragon Lord. 이후 수정은 §4-1 수술 파이프라인으로 v26+.
+
+- 2026-09-22 **FINAL v40** = `07_final/34_storm_dragon_bride_FINAL_v40_CN&KO&EN.docx` + `.md`. 52화 키스 사이 대사 `죽은 줄 알았어... / I thought I'd lost you... / 我以为你死了……` + 지문 2(입술 한 올 떨어짐·이마 맞댄 채·그의 손은 뺨 / 도리안 입가 짧게 올라감) + 3세트 첫 문장 중복 제거. +11줄. 변경 목록 = `34_storm_dragon_bride_v40_changes.md`.
+
+- 2026-09-22 **FINAL v41** = `07_final/34_storm_dragon_bride_FINAL_v41_CN&KO&EN.docx` + `.md`. 52화 마무리 = 키스가 끊기지 않은 채 【암전】(3줄). 변경 목록 = `34_storm_dragon_bride_v41_changes.md`.
 
 - 2026-09-22 **환류 규칙 확정(사용자):** 지문 = 중문 정본 / 대사 = 영어 정본. v39 52화 키스 지문 4세트는 중문 기준으로 한·영 대조 완료(불일치 0). 메모리 [[trilingual-sync-direction]].
 
