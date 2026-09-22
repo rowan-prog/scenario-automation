@@ -95,3 +95,18 @@
 | 1061 | 8 자객 | Get him into your bed. Make him need you. Then make him do what the King wants. |
 기각 = 4화 칼 대사(외부 8번 · 우선순위 낮음 · Codex 검토 유지 결론).
 최종 = 59줄 교체 + 7화 회상 지문 3줄. 승인 대기.
+
+## E. 외부 재검토(2026-09-22) 반영 — D가 A·B를 덮고, E가 다시 덮는다
+| L | 화 | 최종 EN | 왜 |
+|---|---|---|---|
+| 258 | 2 비비안 | Poor you. He tears his brides open before the night is over. Don't worry, I'll ask them to send your bones home. | "finish a bride" 해독 필요 → 찢는다를 직접 |
+| 379 | 2 도리안 | Everyone here is on the floor except you. Let's see how long you stay upright once I start taking you apart. | 침대 제압으로 약해진 것 → 찢어발김 복구 |
+| 424 | 2 사브리나 V.O. | Sit up there, bitch. Nobody leaves that bed in one piece. | "달라져 나온다" 막연 → 온전히 못 나온다 |
+| 650 | 4 사브리나 | Take them! The whore's in the Lord's own bed with another man. Drag them both out, now! | whore 복구 |
+| 597 | 4 오필리아 | Second, I wanted your body last night, and I've had it. That's all you were ever going to be. | 돌려 말한 영어 → 직접 |
+| 738 | 5 도리안 | You kicked in that door on my wedding night. Get out, or I'll rip you open. | "open all of you" 어색 |
+| 551 | 3 도리안 V.O. | So it's the scales she can't stand. Fine. Let's see her resist this face. | that face/this one 혼동 제거 |
+| 496 | 3 도리안 V.O. | Last night she bit my lip open. Now she won't even move. Same woman? | **B의 기각 철회** — 1화에 입술 물기·피 비트 있음(메인 사실 오류) |
+| 1156 | 8 오필리아 | (현재 유지) I need you... inside me... right now. | 자세·거칠기 주문으로 바뀌어 직진성 손실 |
+| 869 | 6 경비병 | (현재 유지) My Lord! Envoys from the human kingdom are here, asking to see you! | 대전 위치를 새로 박을 이유 없음 |
+최종 = 57줄 교체 + 7화 회상 지문 3줄. 한·중은 반영 시 유닛이 같은 뜻으로 작성 → 메인 대조.
