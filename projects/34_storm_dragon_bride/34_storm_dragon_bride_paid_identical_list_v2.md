@@ -1,4 +1,4 @@
-# B안 대상 재선정 v2 — 최종 91줄 (v32 · 같은 화·같은 화자 짝 · 유사도≥0.9 · 8단어 이상 · 보호선 줄번호 제외)
+# B안 대상 재선정 v2 — 최종 90줄 (v32 · 같은 화·같은 화자 짝 · 유사도≥0.9 · 8단어 이상 · 보호선 줄번호 제외)
 
 원작 영어본 = `reference/One Night with the Dragon Lord_source_CN&EN.txt`(2026-09-15 인입 · 사내 히트작 CN&EN 대본). 짝은 같은 화·같은 화자 안에서만.
 
@@ -65,10 +65,6 @@ EN: I know you want to use me. Love me or not, I will still make you mine.
 L1836 EP15 DORIAN (0.95 · 10단어)
 EN: Don't be afraid. It's just a stupid stone. Touch it.
 원작EN: Don't be afraid. It's just a stupid stone. Just touch it.
-
-L1861 EP15 DORIAN (0.91 · 9단어)
-EN: See? I told you. We belong to each other.
-원작EN: See? I told you. We belong together.
 
 L1896 EP16 OPHELIA (0.92 · 17단어)
 EN: Did the Oathstone glow because of Dorian's feelings for me? Now that he's let go... I'm finished...
@@ -222,7 +218,7 @@ L3424 EP30 DORIAN (1.00 · 11단어)
 EN: Do something! I didn't keep you alive to watch her die!
 원작EN: Do something! I didn't keep you alive to watch her die!
 
-L3447 EP30 ELDER A (0.92 · 31단어)
+L3447 EP30 [의미 보존·발화만 · chest 유지] ELDER A (0.92 · 31단어)
 EN: (shaking his head) But it's extremely dangerous! You must cut open your chest and bind her poison to your own life force. With your heart still healing... this could kill you!
 원작EN: But it's extremely dangerous! You must cut open your heart and bind her poison to your own life force. With your heart core still healing... this could kill you!
 

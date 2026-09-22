@@ -7,17 +7,17 @@
 
 ## 대상 (재선정 · 목록 = `34_storm_dragon_bride_paid_identical_list_v2.md`)
 - 원작 영어본 = `reference/One Night with the Dragon Lord_source_CN&EN.txt` (2026-09-15 인입 사내 CN&EN 대본). 짝은 **같은 화 · 같은 화자** 안에서만.
-- 유사도 0.9 이상(사실상 그대로) **+ 8단어 이상** → 96줄 → 기계가 못 잡은 보호선 5줄 수동 제외(45화 고백·42화 치유의 샘 2·35화 이별 2) → **91줄**. 유사도는 후보 탐색 기준일 뿐, 확정은 문맥 판정.
+- 유사도 0.9 이상(사실상 그대로) **+ 8단어 이상** → 96줄 → 기계가 못 잡은 보호선 5줄 수동 제외(45화 고백·42화 치유의 샘 2·35화 이별 2) → 91줄 → 이미 손본 줄 제외(15화 `We belong to each other.` — v26에서 중문 我们属于彼此에 맞춘 줄) → **90줄**. 30화 장로 설명(`You must cut open your chest…`)은 후보로 두되 **의미 보존·발화만**(chest→heart 복귀 금지 · 생명 연결 방식·위험성 불변). 유사도는 후보 탐색 기준일 뿐, 확정은 문맥 판정.
 - 기능 대사(`Where does it hurt?` `You asked for this.` `Let's go home, Dorian.` 류)는 8단어 미만이라 처음부터 밖. 8단어 이상이어도 평범한 기능 대사면 집필자·메인이 "유지"로 남긴다.
 - **우선 구간 4(연속 응수 단위로 판단)**: 14화 비비안 연속 도발 · 25화 도리안 군대 연설 · 29화 왕후 선언→협박 · 38화 국왕·비비안 자백 강요 문답. 이 구간은 줄 단위가 아니라 문답 묶음으로 넘긴다.
 - 53화 `still want to use me` ↔ `Yes. I'll use you…`는 문답 묶음으로 보호(둘 다 불변).
 
-## 보호선 (줄번호로 고정 — 목록 v2의 "보호선으로 제외" 절 + 수동 5)
+## 보호선 (**회차 + 화자 + 현재 대사 전문**으로 확인 — 줄번호는 v32 기준 참고용. v33 반영 뒤 줄이 밀리므로 반영 스크립트는 반드시 전문 일치로 앵커 — 목록 v2의 "보호선으로 제외" 절 + 수동 5)
 30화 `I'm carrying it now` · 36화 `Kneel? Fine.` · 21화 `use me…` / `Just stay by my side. Forever.` · 35화 `Are you insane?!…` + 이별 2줄 · 39화 `So what? It was my choice!` · 42화 치유의 샘 전 구간 · 43화 `use it…` · 45화 고백 3연 + `I promised I'd protect you.` · 49화 `Stop dying for me…` / `Blood is the only way…` / `That's your law. Not ours.` · 52화 `Then I'll love a dragon.` · 53화 `This time, together.` / `bring me here one day` / use me 문답 · 골든 아일스 3회 · Codex "유지" 8줄(19·24·28·36·38·42·49·50화) · 9화 비트·주도권 불변.
 
 ## 회수 검사 (구분)
-- **verbatim 유지** = 진짜 회상 인용: 35↔37화 `As long as you're still breathing…`, 27↔53화 `bring me here` (53화가 27화 문구를 그대로 부름).
-- **의미 회수(글자 자유)** = 43↔48화 `use it…`/`kill you`(다른 화자가 되짚음 — 인칭·시제 변화 정상), 27·48·50화 골든 아일스 약속(장소명만 고정).
+- **verbatim 유지** = 진짜 회상 인용: **35↔37화 `As long as you're still breathing…` 하나뿐.**
+- **의미 회수(글자 자유)** = 27→53화 골든 아일스 약속(27화 `I'll take you to the Golden Isles` → 53화 `You said you'd bring me here one day` — 화자·시점이 달라 문구가 다른 게 정상 · 약속 내용만 이어지면 됨) · 43↔48화 `use it…`/`kill you` · 27·48·50화 골든 아일스(장소명만 고정).
 
 ## 집필 지시 (바뀜)
 - 집필자(script-surgeon opus 3기: 9~23 / 24~38 / 39~53)에게 **줄마다 직전 발언 · 직후 응답 · 관련 행동 지문**을 같이 준다. 협박 대상·거짓말·유혹 되받기는 한 줄로 판단 금지.
@@ -31,7 +31,10 @@
 4. 승인분만 v34 반영(1~8화 v33 뒤) → 게이트(줄 수·손실 0·존재·name_leak) → sonnet 스윕(세 언어 뜻 · verbatim 쌍 2개만).
 
 ## 예상
-91줄 + 구간 4 중 실제 교체 = 40~60줄 정도(나머지 "유지"). 5기 · 50~70만 토큰.
+교체 줄 수는 목표가 아니다. 25줄이어도 충분하면 거기서 멈춘다. 기능 대사(10화 `The guests and the elders…` · 22화 `I'll take you home` · 31화 `You should be resting` 류)는 유지가 정답일 수 있음.
+
+## 우선 구간 4의 보존 기능
+14화 = 비비안이 오필리아의 것(아버지·약혼자·군주)을 차례로 빼앗았다는 과시 / 25화 = 군대 앞에서 오필리아에게 명령권을 주는 선언(사랑 고백 아님) / 29화 = 도리안의 분노 + 가릭의 처분권을 오필리아에게 남기는 태도 / 38화 = 어머니 목숨을 빌미로 자기 입으로 굴욕 자백을 시키는 압박(욕설만 더하고 인질 협박이 흐려지면 오수정).
 
 ## 순서
 1~8화 G → v33 (승인 시) → B2 1단계(3기 병렬) → 표 → 승인 → v34.
