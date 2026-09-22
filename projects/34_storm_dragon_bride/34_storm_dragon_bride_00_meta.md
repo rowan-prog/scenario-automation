@@ -76,7 +76,7 @@
 
 - 2026-09-18 **FINAL v25 = 마무리본** = `07_final/34_storm_dragon_bride_FINAL_v25_CN&KO&EN.docx` + `.md`. 전수 검수 2기(opus fresh-eyes 1~53화 정독 · sonnet 클래스 grep) → CRITICAL 0 · HIGH 5 중 4는 원작 원문 동일로 기각, 1(30화 접촉점 한·영 오역) 채택 · MED에서 세 언어 어긋남·색 드리프트·표기 오류 30줄 채택. 주요 회수선(반지·독 자국 위치·맹세석·드레스/왕관·골든 아일스·어머니·비늘 얼굴 4화) 전부 일관 판정. 변경 목록 = `34_storm_dragon_bride_v25_changes.md`.
 
-- 2026-09-18 **FINAL v26** = `07_final/34_storm_dragon_bride_FINAL_v26_CN&KO&EN.docx` + `.md`. 사용자 지적(영어 대사 수정의 한·중 미환류) → 기준 확정: **대사 = 영어 정본, 지문 = 원작 줄 중문 기준·세션 신규 지문은 3언어 동시 작성분 그대로.** sonnet 4기 전편 뜻 대조(대사 483·지문 916세트) + 메인 직독(영어만 바뀐 94줄) → 31곳 48줄 동기화(대사 28 · 지문 색 3 · 영어 1 = envoys). v25 LOCK 표기는 v26으로 이월. 변경 목록 = `34_storm_dragon_bride_v26_changes.md`.
+- 2026-09-18 **FINAL v26** = `07_final/34_storm_dragon_bride_FINAL_v26_CN&KO&EN.docx` + `.md`. 사용자 지적(영어 대사 수정의 한·중 미환류) → 기준 확정: **대사 = 영어 정본, 지문 = 중문 정본(2026-09-22 사용자 확정 — 신규 지문 예외 없음).** sonnet 4기 전편 뜻 대조(대사 483·지문 916세트) + 메인 직독(영어만 바뀐 94줄) → 31곳 48줄 동기화(대사 28 · 지문 색 3 · 영어 1 = envoys). v25 LOCK 표기는 v26으로 이월. 변경 목록 = `34_storm_dragon_bride_v26_changes.md`.
 
 - 2026-09-18 **FINAL v27** = `07_final/34_storm_dragon_bride_FINAL_v27_CN&KO&EN.docx` + `.md`. 사용자 지적(1화 "난 이 궁을 걸어 나간다" = 암시적) → v26이 흐린 영어를 정본 삼아 한·중을 끌어내린 3곳 정정: 1화 세 언어 "새벽까지 내 몸은 내 거고, 내가 원하는 남자한테 줄 거야" · 14화 엄벌·성스러운 날 복원(영어도 원작대로) · 21화 "Just stay by my side. Forever." 명령형 복원. **원칙: 영어가 원작보다 흐리면 영어부터 고친다.** 9줄. 변경 목록 = `34_storm_dragon_bride_v27_changes.md`.
 
@@ -105,6 +105,8 @@
 - 2026-09-22 **FINAL v39** = `07_final/34_storm_dragon_bride_FINAL_v39_CN&KO&EN.docx` + `.md`. 52화 재회 포옹·키스 지문 4세트(+12줄) — 사용자 요청(노출 0·베드씬 아님·눈물·게걸스러운 갈구·길게·남들 앞 X). 광장(39화) 안은 사용자 기각 → 52-2 침실 채택. 변경 목록 = `34_storm_dragon_bride_v39_changes.md`.
 
 - 2026-09-18 **LOCK — 사용자 "마무리 인정".** 정본 = `07_final/34_storm_dragon_bride_FINAL_v39_CN&KO&EN.docx`(52화 키스 v39 · 세계 정합 v38 · 5화 정체 인지 V.O. v37 · 콜드리드 3곳 v36 · 사후 스윕 v35 · 9~53화 B2 차별화 v34 · 1~8화 원작 자국 지우기 v33 · 대사 검수 v3 반영 · = v27 완복 · v25 LOCK 직후 3언어 동기화 v26 → 흐린 영어 정정 v27). 제목 My One-Night Dragon Lord. 이후 수정은 §4-1 수술 파이프라인으로 v26+.
+
+- 2026-09-22 **환류 규칙 확정(사용자):** 지문 = 중문 정본 / 대사 = 영어 정본. v39 52화 키스 지문 4세트는 중문 기준으로 한·영 대조 완료(불일치 0). 메모리 [[trilingual-sync-direction]].
 
 ## 제목 (2026-09-18 확정)
 **My One-Night Dragon Lord** — 사용자 확정. 잣대 = '샀다'가 아니라 원나잇 상대가 곧 드래곤 로드라는 사건 · 직접 성어 0 · 문장형이 아니라 명사구(히트작 제목 결 = 《One Night with the Dragon Lord》《Road of Lust》《Countdown King》처럼 구 하나). 기각 = I Bought the Dragon Lord for One Night(거래가 본질 아님) · The Stranger I Bought Was the Dragon Lord(같은 이유) · 문장형 후보 전부(주술목 완성 문장은 타이틀 결이 아님 — 사용자 교정). 차점 = Last Night's Stranger, Today's Dragon Lord · Sacrificed to My One-Night Stranger. docx는 본문 헤더 없이 시작하므로 문서 속성 제목에만 기록.
