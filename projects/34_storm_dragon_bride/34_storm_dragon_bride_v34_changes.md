@@ -1,0 +1,731 @@
+# v34 변경 목록 (2026-09-22) — 9~53화 원작 겹침 대사 차별화(B2) · 82곳 241줄
+
+정본 = `07_final/34_storm_dragon_bride_FINAL_v34_CN&KO&EN.docx` (v33 기준) · 계획 = `_paid_rewrite_plan_B2.md` · 표 = `_paid_rewrite_table.md` · 사건·비트·화자 톤 불변 · 보호선 침범 0
+
+같은 화·같은 화자 짝으로 원작 영어와 사실상 같은 90줄 후보 → 유닛 3기(문맥 포함) → 메인 판정 → fresh-eyes 사전 검사(30화 맹세문 분담형·31화 "사라졌다" 철회·25화 "나부터 보지 마라" 삭제·44화 Shh·23화 유지) → 사용자 승인. 우선 구간 4(14·25·29·38화)는 문답 묶음. 유지 8.
+
+## 전후
+
+- L1219
+  - 전: `OPHELIA: Hands on the bed. Don't touch me without my permission.`
+  - 후: `OPHELIA: Hands stay on the bed. You don't touch me unless I say so.`
+- L1266
+  - 전: `奥菲莉娅（OS）: 我要用这头巨龙的獠牙，让你们所有人，血债血偿！`
+  - 후: `奥菲莉娅（OS）: 这头巨龙的獠牙现在是我的了。你们每一个都要血债血偿！`
+- L1267
+  - 전: `오필리아 (V.O.): 이 용의 송곳니로 너희 모두에게 피로 대가를 치르게 하겠어!`
+  - 후: `오필리아 (V.O.): 이 용의 송곳니는 이제 내 거야. 너희 모두 피로 갚게 될 거다!`
+- L1268
+  - 전: `OPHELIA (V.O.): I will use this dragon's fangs to make every one of you pay in blood!`
+  - 후: `OPHELIA (V.O.): This dragon's fangs are mine now. Every one of you pays in blood!`
+- L1478
+  - 전: `奥菲莉娅: 这可是新婚夜的特权。等我。`
+  - 후: `奥菲莉娅: 新婚夜之前不行。你给我等着。`
+- L1479
+  - 전: `오필리아: 그건 신혼 첫날밤의 특권이야. 기다려.`
+  - 후: `오필리아: 첫날밤 전엔 안 돼. 기다려.`
+- L1480
+  - 전: `OPHELIA: That's for our wedding night. Wait for me.`
+  - 후: `OPHELIA: Not until our wedding night. You'll wait.`
+- L1508
+  - 전: `장로 A: 인간이라고? 우리 군주님이 미쳤나?`
+  - 후: `장로 A: 인간이라고? 군주님이 돌아 버리셨군.`
+- L1509
+  - 전: `ELDER A: A human? Has our Lord lost his mind?`
+  - 후: `ELDER A: A human? Our Lord's gone insane.`
+- L1519
+  - 전: `多里安: 再说一遍，我就拔了你的舌头。`
+  - 후: `多里安: 再多一个字，我就把你的舌头扯下来。`
+- L1520
+  - 전: `도리안: 한 번만 더 지껄여 봐. 혀를 뽑아 버릴 테니.`
+  - 후: `도리안: 한마디만 더 해. 혀를 뽑아 버린다.`
+- L1521
+  - 전: `DORIAN: Say that again, and I'll cut out your tongue.`
+  - 후: `DORIAN: One more word and I rip your tongue out.`
+- L1536
+  - 전: `多里安: 奥菲莉娅。我将我的城堡，以及我的生命，全都交给你。`
+  - 후: `多里安: 奥菲莉娅。我的城堡是你的，我的命也是你的。`
+- L1537
+  - 전: `도리안: 오필리아. 내 성과 내 목숨을 너에게 바친다.`
+  - 후: `도리안: 오필리아. 내 성도 네 것이고, 내 목숨도 네 것이다.`
+- L1538
+  - 전: `DORIAN: Ophelia. I give you my castle and my life.`
+  - 후: `DORIAN: Ophelia. My castle is yours. My life is yours.`
+- L1600
+  - 전: `萨布丽娜: 领主大人！您被骗了！她根本不是契约新娘！她是个冒牌货！`
+  - 후: `萨布丽娜: 领主大人！那女人是个冒牌货！她根本就不是契约新娘，您被骗了！`
+- L1601
+  - 전: `사브리나: 군주님! 속으셨어요! 저 여자는 계약 신부가 아니에요! 가짜예요!`
+  - 후: `사브리나: 군주님! 저 여자는 가짜예요! 계약 신부였던 적도 없어요. 속으신 거라고요!`
+- L1602
+  - 전: `SABRINA: My Lord! You've been tricked! She's not the contract bride! She's a fake!`
+  - 후: `SABRINA: My Lord! That woman is a fake! She was never the contract bride — you've been tricked!`
+- L1636
+  - 전: `长老甲（暴怒）: 一个人类竟敢欺骗我们龙族！`
+  - 후: `长老甲（暴怒）: 一个人类把我们龙族当傻子耍！`
+- L1637
+  - 전: `장로 A: (격노) 인간 주제에 감히 우리 용족을 속여!`
+  - 후: `장로 A: (격노) 인간 따위가 우리 용족을 바보로 만들었어!`
+- L1638
+  - 전: `ELDER A: (furious) How dare a human trick the Dragon Clan!`
+  - 후: `ELDER A: (furious) This human played the Dragon Clan for fools!`
+- L1640
+  - 전: `长老乙: 这是肮脏的侮辱！必须把她活活烧死！`
+  - 후: `长老乙: 她往我们龙族脸上吐了口水！把她活活烧死！`
+- L1641
+  - 전: `장로 B: 이건 더러운 모욕이다! 저 여자를 산 채로 태워야 해!`
+  - 후: `장로 B: 저 여자가 용족에 침을 뱉었다! 산 채로 태워라!`
+- L1642
+  - 전: `ELDER B: This is a filthy insult! She must be burned alive!`
+  - 후: `ELDER B: She spat on our clan! Burn her alive!`
+- L1688
+  - 전: `薇薇安: 姐姐，你这辈子都比不过我。你的父亲，你的未婚夫，还有现在的多里安大人，他们的爱都只会给我一个。`
+  - 후: `薇薇安: 姐姐，你一次都赢不了我。你父亲选了我，你未婚夫选了我，多里安大人也会选我。`
+- L1689
+  - 전: `비비안: 언니, 넌 평생 나를 못 이겨. 아버지, 약혼자, 그리고 이제 도리안 님까지... 사랑은 전부 내 거야.`
+  - 후: `비비안: 언니, 넌 한 번도 못 이겼어. 아버지도 나를 골랐고, 약혼자도 나를 골랐어. 도리안 님도 나를 고를 거야.`
+- L1690
+  - 전: `VIVIAN: Sister, you'll never beat me. Your father, your fiance, and now Lord Dorian... all their love will be mine.`
+  - 후: `VIVIAN: Sister, you never win. Your father picked me. Your fiance picked me. Lord Dorian will pick me too.`
+- L1710
+  - 전: `多里安: 戏弄龙族领主，你们还真是好大的胆子！`
+  - 후: `多里安: 你当着龙族领主的面撒谎。那就给我憋死在这儿。`
+- L1711
+  - 전: `도리안: 감히 용족 군주를 우롱하다니. 간도 크군!`
+  - 후: `도리안: 용족 군주 면전에서 거짓말을 해? 그대로 숨 막혀 봐.`
+- L1712
+  - 전: `DORIAN: You dare deceive the Dragon Lord? You have some nerve.`
+  - 후: `DORIAN: You lied to a Dragon Lord's face. Choke on it.`
+- L1759
+  - 전: `OPHELIA (V.O.): He knew all along that I wasn't the contract bride?`
+  - 후: `OPHELIA (V.O.): He knew I wasn't the contract bride? This whole time?`
+- L1826
+  - 전: `多里安（OS）: 我知道你想利用我，就算你不爱我，我也不在乎。我也要让你成为我的！`
+  - 후: `多里安（OS）: 我知道你在利用我。我不在乎。反正你会是我的。`
+- L1827
+  - 전: `도리안 (V.O.): 네가 날 이용하려는 걸 알아. 날 사랑하든 말든, 널 내 것으로 만들 거야.`
+  - 후: `도리안 (V.O.): 네가 날 이용하는 거 알아. 상관없어. 어차피 넌 내 것이 돼.`
+- L1828
+  - 전: `DORIAN (V.O.): I know you want to use me. Love me or not, I will still make you mine.`
+  - 후: `DORIAN (V.O.): I know you're using me. I don't care. You'll be mine either way.`
+- L1834
+  - 전: `多里安: 别怕。一块破石头而已。摸一下就好。`
+  - 후: `多里安: 别怕。就是块石头。把手放上去。`
+- L1835
+  - 전: `도리안: 겁내지 마. 그냥 돌덩이일 뿐이야. 손 대 봐.`
+  - 후: `도리안: 겁내지 마. 그냥 돌멩이야. 손 올려 봐.`
+- L1836
+  - 전: `DORIAN: Don't be afraid. It's just a stupid stone. Touch it.`
+  - 후: `DORIAN: Don't be afraid. It's a rock. Put your hand on it.`
+- L1894
+  - 전: `奥菲莉娅（OS）: 誓约石之前发光是因为多里安对我的感情吗？现在他的手移走了，我完了……`
+  - 후: `奥菲莉娅（OS）: 点亮誓约石的是他的心意，不是我的……他一松手，我就死定了。`
+- L1895
+  - 전: `오필리아 (V.O.): 아까 맹세석이 빛난 건 도리안이 날 사랑해서였나? 도리안이 손을 놓으니... 난 끝났어...`
+  - 후: `오필리아 (V.O.): 맹세석을 빛낸 건 내 마음이 아니라 도리안의 마음이었어... 손을 놓는 순간 난 죽은 목숨이야...`
+- L1896
+  - 전: `OPHELIA (V.O.): Did the Oathstone glow because of Dorian's feelings for me? Now that he's let go... I'm finished...`
+  - 후: `OPHELIA (V.O.): It was his feelings lighting that stone, not mine... He let go, and now I'm dead...`
+- L1898
+  - 전: `长老乙: 看看啊！圣石拒绝了她！她根本不爱你，领主大人！`
+  - 후: `长老乙: 领主大人，您看！石头把她推开了！她心里一点情分都没有！`
+- L1899
+  - 전: `장로 B: 보십시오! 성석이 저 여자를 거부했습니다! 저 여자는 군주님을 전혀 사랑하지 않습니다!`
+  - 후: `장로 B: 보십시오, 군주님! 성석이 저 여자를 내쳤습니다! 저 여자 안엔 사랑이 한 톨도 없어요!`
+- L1900
+  - 전: `ELDER B: Look! The sacred stone rejected her! She doesn't love you at all, my Lord!`
+  - 후: `ELDER B: Look, my Lord! The stone turned her away! There's no love in her at all!`
+- L1910
+  - 전: `多里安（OS）: 就算她现在还不爱我……我也绝不允许任何人伤害她。`
+  - 후: `多里安（OS）: 她还不爱我。无所谓。谁也别想碰她。`
+- L1911
+  - 전: `도리안 (V.O.): 아직 날 사랑하지 않더라도... 누구도 오필리아를 해치게 두지 않겠어.`
+  - 후: `도리안 (V.O.): 아직 날 사랑하지 않아. 상관없어. 누구도 오필리아에게 손 못 댄다.`
+- L1912
+  - 전: `DORIAN (V.O.): Even if she doesn't love me yet... I will never let anyone hurt her.`
+  - 후: `DORIAN (V.O.): She doesn't love me yet. Fine. No one touches her.`
+- L1918
+  - 전: `多里安: 闭嘴！奥菲莉娅是人类，血脉脆弱。人类的血脉和龙族血誓有冲突，与她的真心毫无关系！`
+  - 후: `多里安: 都给我闭嘴！她是人类。人类的血承不住龙族的血誓。这跟她的心意没有关系！`
+- L1919
+  - 전: `도리안: 닥쳐! 오필리아는 인간이다. 혈통이 너무 약해 용족의 피의 맹세와 맞지 않는 것뿐이야. 오필리아의 진심과는 아무 상관 없어!`
+  - 후: `도리안: 닥쳐! 오필리아는 인간이야. 인간의 피로는 용족의 피의 맹세를 감당 못 해. 오필리아 마음과는 아무 상관 없어!`
+- L1920
+  - 전: `DORIAN: Shut up! Ophelia is human. Her bloodline is too weak for a dragon blood oath. This has nothing to do with her heart!`
+  - 후: `DORIAN: Shut your mouths! She's human. Human blood can't carry a dragon's oath. Her heart has nothing to do with it!`
+- L1949
+  - 전: `奥菲莉娅（OS）: 我不只是他的床伴吗？他为什么要做到这种地步？`
+  - 후: `奥菲莉娅（OS）: 我不过是他上过的女人。他为什么要做到这个地步？`
+- L1950
+  - 전: `오필리아 (V.O.): 난 그냥 도리안이랑 잔 여자였잖아. 그런데 왜 이렇게까지 하는 거지?`
+  - 후: `오필리아 (V.O.): 난 도리안이 침대에 들인 여자일 뿐인데. 왜 이렇게까지 하는 거야?`
+- L1951
+  - 전: `OPHELIA (V.O.): Wasn't I just someone he slept with? Why would he go this far?`
+  - 후: `OPHELIA (V.O.): I'm just a woman he took to bed. Why is he doing all this for me?`
+- L1977
+  - 전: `多里安: 拿着这个……无论你遇到什么危险……只要召唤我……我会回到你身边……`
+  - 후: `多里安: 拿着它……有危险就用它叫我……我会来……`
+- L1978
+  - 전: `도리안: 이걸 받아... 위험해지면 언제든 날 불러... 네게 돌아갈게...`
+  - 후: `도리안: 이거 가지고 있어... 위험하면 이걸로 날 불러... 갈게...`
+- L1979
+  - 전: `DORIAN: Take this... Whenever you're in danger, summon me... I'll come back to you...`
+  - 후: `DORIAN: Keep it... Call me with it when you're in danger... I'll come...`
+- L2046
+  - 전: `奥菲莉娅（OS）: 我都已经中了毒注定要死了……为什么还要这么在意他？我是不是疯了？`
+  - 후: `奥菲莉娅（OS）: 我中了毒，反正是要死的人。那为什么还这么在意他？我是不是疯了？`
+- L2047
+  - 전: `오필리아 (V.O.): 난 이미 독에 중독돼 죽을 운명인데... 왜 아직도 도리안을 이렇게 걱정하지? 내가 미쳤나?`
+  - 후: `오필리아 (V.O.): 난 독에 당했고 어차피 죽어. 그런데 왜 도리안이 이렇게까지 신경 쓰이지? 내가 돌았나?`
+- L2048
+  - 전: `OPHELIA (V.O.): I'm already poisoned and dying... so why do I still care about him this much? Am I insane?`
+  - 후: `OPHELIA (V.O.): I'm poisoned. I'm dying anyway. So why does he matter this much to me? Have I lost my mind?`
+- L2079
+  - 전: `加里克: 奥菲莉娅，你母亲托我给你带句话。看看这个！`
+  - 후: `加里克: 你母亲派我来找你，奥菲莉娅。她让我把这个拿给你看。`
+- L2080
+  - 전: `가릭: 오필리아, 네 어머니가 네게 전할 말이 있어서 날 보냈어. 이걸 봐.`
+  - 후: `가릭: 네 어머니가 날 보냈어, 오필리아. 이걸 보여 주라고 했어.`
+- L2081
+  - 전: `GARRICK: Ophelia, your mother asked me to bring you a message. Look at this.`
+  - 후: `GARRICK: Your mother sent me to you, Ophelia. She said to show you this.`
+- L2090
+  - 전: `加里克: 国王把她关在了地牢里。她让我来找你……她说现在只有你能救她了！`
+  - 후: `加里克: 国王把她扔进了地牢。她求我来找你。能把她弄出来的只有你！`
+- L2091
+  - 전: `가릭: 국왕이 네 어머니를 지하 감옥에 가뒀어. 널 찾아오라고 했어... 너 아니면 아무도 어머니를 구할 수 없다고 했어!`
+  - 후: `가릭: 국왕이 네 어머니를 지하 감옥에 처넣었어. 널 찾아 달라고 빌더라. 어머니를 꺼낼 수 있는 건 너뿐이야!`
+- L2092
+  - 전: `GARRICK: The King locked her up in the dungeon. She told me to find you... she said you're the only one who can save her now!`
+  - 후: `GARRICK: The King threw her in the dungeon. She begged me to find you. You're the only one who can get her out!`
+- L2121
+  - 전: `加里克: 奥菲莉娅，你听我说，多里安只是一头在利用你的野兽——`
+  - 후: `加里克: 奥菲莉娅，听我说。在那头野兽眼里你只是一块肉——`
+- L2122
+  - 전: `가릭: 오필리아, 내 말 들어. 도리안은 널 이용하는 짐승일 뿐이야—`
+  - 후: `가릭: 오필리아, 내 말 들어. 넌 그 짐승한테 고깃덩이일 뿐이야—`
+- L2123
+  - 전: `GARRICK: Ophelia, listen to me, Dorian is just a beast using you—`
+  - 후: `GARRICK: Ophelia, listen to me. You're just meat to that beast—`
+- L2129
+  - 전: `奥菲莉娅: 别废话了！我妈在哪？现在就带我去！快点！`
+  - 후: `奥菲莉娅: 闭嘴！我妈在哪？现在就带我去。快！`
+- L2130
+  - 전: `오필리아: 헛소리 그만해! 우리 엄마 어디 있어? 지금 당장 데려가! 빨리!`
+  - 후: `오필리아: 닥쳐! 우리 엄마 어디 있어? 당장 데려가. 지금!`
+- L2131
+  - 전: `OPHELIA: Stop talking! Where is my mother? Take me to her right now! Hurry!`
+  - 후: `OPHELIA: Shut up! Where's my mother? Take me to her. Now!`
+- L2196
+  - 전: `奥菲莉娅: 你真以为我会相信你那些劣质的谎言？`
+  - 후: `奥菲莉娅: 你以为我把你那些烂谎话都当真了？`
+- L2197
+  - 전: `오필리아: 네 싸구려 거짓말을 내가 믿을 거라 생각했어?`
+  - 후: `오필리아: 네 그 싸구려 거짓말을 내가 곧이곧대로 믿었을 것 같아?`
+- L2198
+  - 전: `OPHELIA: Did you really think I believed your cheap lies?`
+  - 후: `OPHELIA: You thought I swallowed those cheap lies of yours?`
+- L2259
+  - 전: `加里克: 你会为此付出代价的。我会把你永远关在最暗的地牢里。薇薇安会取代你成为龙族王后！`
+  - 후: `加里克: 你会付出代价。我会把你扔进最深的洞里烂掉。龙族王后的位置归薇薇安！`
+- L2260
+  - 전: `가릭: 대가를 치르게 해 주지. 널 영원히 가장 어두운 지하 감옥에 가둘 거야. 비비안이 널 대신해 용족 왕후가 될 거다!`
+  - 후: `가릭: 대가를 치르게 해 주지. 내가 찾을 수 있는 가장 깊은 구덩이에서 썩게 될 거다. 그리고 용족 왕후 자리는 비비안이 가져간다!`
+- L2261
+  - 전: `GARRICK: You'll pay for this. I'll lock you in the darkest dungeon forever. Vivian will take your place as the Dragon Queen!`
+  - 후: `GARRICK: You'll pay for this. You'll rot in the deepest hole I can find. And Vivian takes your crown!`
+- L2267
+  - 전: `奥菲莉娅: 你真以为薇薇安能取代我吗？`
+  - 후: `奥菲莉娅: 薇薇安？你觉得她能顶我的位置？`
+- L2268
+  - 전: `오필리아: 비비안이 정말 날 대신할 수 있다고 생각해?`
+  - 후: `오필리아: 비비안? 그 애가 내 자리를 채울 것 같아?`
+- L2269
+  - 전: `OPHELIA: Do you really think Vivian can replace me?`
+  - 후: `OPHELIA: Vivian? You think she can take my place?`
+- L2345
+  - 전: `加里克（面目狰狞）: 杀了他！谁能拿下龙族领主的人头，就能封爵！`
+  - 후: `加里克（面目狰狞）: 杀了他！谁把龙族领主的人头拿给我，我就封他做贵族！`
+- L2346
+  - 전: `가릭: (흉악하게) 죽여라! 용족 군주의 목을 베는 자는 귀족으로 봉해 주겠다!`
+  - 후: `가릭: (흉악하게) 죽여라! 용족 군주의 목을 가져오는 자에겐 내가 작위를 내리겠다!`
+- L2347
+  - 전: `GARRICK: (snarling) Kill him! Whoever cuts off the Dragon Lord's head will be made a noble!`
+  - 후: `GARRICK: (snarling) Kill him! Bring me the Dragon Lord's head and I'll make you a noble!`
+- L2581
+  - 전: `奥菲莉娅（OS）: 如果我现在继续撺掇他去打国王，只会让他陷入更大的危险。而且他可能会起疑。`
+  - 후: `奥菲莉娅（OS）: 现在再撺掇他去打国王，只会把他往死路上推。而且他会开始怀疑我为什么这么急。`
+- L2582
+  - 전: `오필리아 (V.O.): 지금 계속 도리안을 부추겨서 국왕을 치게 하면 더 위험해질 뿐이야. 도리안이 눈치챌 수도 있고.`
+  - 후: `오필리아 (V.O.): 지금 국왕을 치라고 부추기면 도리안만 죽게 만들 뿐이야. 게다가 왜 이렇게 서두르는지 의심하기 시작할 거고.`
+- L2583
+  - 전: `OPHELIA (V.O.): If I keep pushing him to attack the King now, it'll only put him in more danger. And he might suspect something.`
+  - 후: `OPHELIA (V.O.): Push him at the King now and I only get him killed. And he'll start wondering why I'm pushing.`
+- L2700
+  - 전: `多里安: 你还很虚弱……你知道你在做什么吗？`
+  - 후: `多里安: 你连坐都坐不稳。你知道自己在要什么吗？`
+- L2701
+  - 전: `도리안: 넌 아직 약해… 네가 뭘 하는지 알아?`
+  - 후: `도리안: 몸도 제대로 못 가누면서. 지금 뭘 조르는지는 알아?`
+- L2702
+  - 전: `DORIAN: You're still too weak. Do you know what you're doing?`
+  - 후: `DORIAN: You can barely sit up. Do you know what you're asking for?`
+- L2708
+  - 전: `奥菲莉娅: 你的触碰……让我感觉到我还活着，领主大人。留下来陪我。`
+  - 후: `奥菲莉娅: 只有你的手让我还活着，领主大人。别走。`
+- L2709
+  - 전: `오필리아: 당신의 손길이… 내가 살아 있는 기분이 들게 해요, 군주님. 나와 함께 있어 줘요.`
+  - 후: `오필리아: 당신 손길만이 나를 살아 있게 해요, 군주님. 가지 말아요.`
+- L2710
+  - 전: `OPHELIA: Your touch... makes me feel alive, my Lord. Stay with me.`
+  - 후: `OPHELIA: Only your hands are keeping me alive, my Lord. Don't leave me.`
+- L2843
+  - 전: `奥菲莉娅（VO）: 请原谅我多里安......这是我最后一次利用你。`
+  - 후: `奥菲莉娅（VO）: 对不起，多里安……就再这一次。以后再也不会了。`
+- L2844
+  - 전: `오필리아 (V.O.): 용서해, 도리안… 이번이 널 이용하는 마지막이야.`
+  - 후: `오필리아 (V.O.): 미안해, 도리안... 이번 한 번만 더. 그다음엔 다신 안 해.`
+- L2845
+  - 전: `OPHELIA (V.O.): Please forgive me, Dorian... this is the last time I'll use you.`
+  - 후: `OPHELIA (V.O.): I'm sorry, Dorian... Just this once more. Then never again.`
+- L2886
+  - 전: `奥菲莉娅（OS）: 有了这支恐怖的军队，我轻易就能踏平国王的城堡，为母亲报仇……`
+  - 후: `奥菲莉娅（OS）: 有这样一支军队……我能踏平国王的城堡，让他为我母亲偿命。`
+- L2887
+  - 전: `오필리아 (V.O.): 이 무시무시한 군대가 있으면, 국왕의 성을 쉽게 무너뜨리고 어머니의 원수를 갚을 수 있어…`
+  - 후: `오필리아 (V.O.): 이런 군대라면... 국왕의 성을 무너뜨리고, 어머니 값을 치르게 할 수 있어.`
+- L2888
+  - 전: `OPHELIA (V.O.): With this terrifying army, I can easily tear down the King's castle and get revenge for my mother...`
+  - 후: `OPHELIA (V.O.): An army like this... I could level the King's castle and make him pay for my mother.`
+- L2902
+  - 전: `奥菲莉娅（OS）: 他才刚刚恢复，我竟然满脑子想的还是怎么利用他当我的武器？`
+  - 후: `奥菲莉娅（OS）: 他才刚能站起来，我眼里却还只看得见一件武器？`
+- L2903
+  - 전: `오필리아 (V.O.): 도리안은 겨우 회복했는데, 난 아직도 도리안을 내 무기로 이용할 생각만 하고 있어?`
+  - 후: `오필리아 (V.O.): 도리안은 겨우 몸을 일으켰는데, 내 눈엔 아직도 무기로만 보여?`
+- L2904
+  - 전: `OPHELIA (V.O.): He just recovered, and I'm still thinking about how to use him as a weapon?`
+  - 후: `OPHELIA (V.O.): He's barely back on his feet, and all I see is a weapon?`
+- L2932
+  - 전: `多里安: 见她如见我！从今天起，她的命令就是我的命令！她的敌人就是你们的敌人！`
+  - 후: `多里安: 她的命令，你们当作我的命令来领！她指谁，你们就杀谁！`
+- L2933
+  - 전: `도리안: 오필리아의 말이 곧 내 말이다! 오늘부터 오필리아의 명령은 내 명령이다! 오필리아의 적은 너희의 적이다!`
+  - 후: `도리안: 오필리아의 명령을 내 명령처럼 받아라! 오필리아가 누굴 가리키면, 죽여라!`
+- L2934
+  - 전: `DORIAN: Her word is my word! From today on, her command is my command. Her enemies are your enemies!`
+  - 후: `DORIAN: You take her orders the way you take mine! She points at a man, you kill him!`
+- L2951
+  - 전: `多里安: 我的王后，利用我的军队。只要能让你开心。`
+  - 후: `多里安: 军队是你的，我的王后。你不需要给我理由。`
+- L2952
+  - 전: `도리안: 내 왕후, 내 군대를 이용해. 네 바람이라면 그걸로 충분해.`
+  - 후: `도리안: 군대는 네 거야, 내 왕후. 나한테 이유 댈 필요 없어.`
+- L2953
+  - 전: `DORIAN: My Queen, use my army. Your wish is all the reason I need.`
+  - 후: `DORIAN: The army is yours, my Queen. You don't have to give me a reason.`
+- L2959
+  - 전: `奥菲莉娅（OS）: 他给我的不仅仅是一支军队……他把他的整颗心和灵魂都给了我。`
+  - 후: `奥菲莉娅（OS）: 他给我的不只是军队……他把他自己整个给了我。`
+- L2960
+  - 전: `오필리아 (V.O.): 도리안이 내게 주는 건 군대 하나가 아니야… 자기 마음과 영혼 전부를 내게 주고 있어.`
+  - 후: `오필리아 (V.O.): 도리안은 군대만 준 게 아니야... 자기 자신을 통째로 줬어.`
+- L2961
+  - 전: `OPHELIA (V.O.): He's not just giving me an army... he's giving me his whole heart and soul.`
+  - 후: `OPHELIA (V.O.): He didn't just hand me an army... He handed me himself.`
+- L3023
+  - 전: `多里安: 不行。直到王后下达绝对的攻击命令之前，任何人都不准轻举妄动。`
+  - 후: `多里安: 不行。王后不开口，谁都不准动。`
+- L3024
+  - 전: `도리안: 안 된다. 왕후가 공격 명령을 내리기 전까지, 누구도 함부로 움직이지 마라.`
+  - 후: `도리안: 안 된다. 왕후가 말하기 전까진 아무도 움직이지 마라.`
+- L3025
+  - 전: `DORIAN: No. Until the Queen gives the order to attack, no one moves.`
+  - 후: `DORIAN: No. Nobody moves until the Queen says so.`
+- L3111
+  - 전: `多里安: 一切都准备好了，我的王后。你只需要点头。`
+  - 후: `多里安: 都准备好了，我的王后。我只等你点头。`
+- L3112
+  - 전: `도리안: 모든 준비는 끝났어, 내 왕후. 넌 고개만 끄덕이면 돼.`
+  - 후: `도리안: 전부 준비됐어, 내 왕후. 난 네가 고개만 끄덕이길 기다리고 있어.`
+- L3113
+  - 전: `DORIAN: Everything is ready, my Queen. You just need to nod.`
+  - 후: `DORIAN: It's all set, my Queen. I'm only waiting for your nod.`
+- L3147
+  - 전: `奥菲莉娅（OS泪水决堤）: 不……我不想再让他为了我的仇恨流一滴血。`
+  - 후: `奥菲莉娅（OS泪水决堤）: 不……他在为我的仇恨流血。一滴都不能再流了。`
+- L3148
+  - 전: `오필리아 (V.O.): (눈물이 터지며) 안 돼... 내 복수 때문에 도리안이 피를 한 방울이라도 더 흘리게 할 순 없어.`
+  - 후: `오필리아 (V.O.): (눈물이 터지며) 안 돼... 내 복수 때문에 도리안이 피를 흘리고 있어. 한 방울도 더는 안 돼.`
+- L3149
+  - 전: `OPHELIA (V.O.): (tearful) No... I don't want him spilling one more drop of blood because of my hatred.`
+  - 후: `OPHELIA (V.O.): (tearful) No... He's bleeding for my revenge. Not one more drop.`
+- L3267
+  - 전: `多里安: 交出解药，我或许能留你一具全尸。`
+  - 후: `多里安: 交出解药，他们至少还有东西可以埋。`
+- L3268
+  - 전: `도리안: 해독제를 내놔. 그러면 네 시체만은 온전하게 남겨 줄 수도 있어.`
+  - 후: `도리안: 해독제 내놔. 그러면 네 시체라도 묻을 게 남겠지.`
+- L3269
+  - 전: `DORIAN: Hand over the antidote, and I might let you die in one piece.`
+  - 후: `DORIAN: Give me the antidote, and they'll still have something to bury.`
+- L3279
+  - 전: `加里克: 国王的条件很简单！现在立刻休了这个冒牌货，正式迎娶薇薇安，并给予她作为王后应有的一切……`
+  - 후: `加里克: 国王的条件很简单！今天就把这个冒牌货赶出去，在长老们面前迎娶薇薇安，再把王后的冠冕戴到她头上……`
+- L3280
+  - 전: `가릭: 국왕의 조건은 간단합니다! 당장 이 가짜와 이혼하고, 비비안과 정식으로 혼인해서, 왕후로서 누릴 모든 것을 비비안에게 주십시오...`
+  - 후: `가릭: 국왕의 조건은 간단합니다! 오늘 당장 저 가짜를 내쫓고, 장로들 앞에서 비비안과 혼인하고, 비비안 머리에 왕관을 씌우십시오...`
+- L3281
+  - 전: `GARRICK: The King's condition is simple! Divorce this impostor immediately, formally marry Vivian, and give her everything she deserves as Queen...`
+  - 후: `GARRICK: The King's terms are simple! Throw the impostor out today, wed Vivian in front of your elders, and put the crown on her head...`
+- L3303
+  - 전: `加里克: 我们等着听她咽气的消息吧。`
+  - 후: `加里克: 那我们就等她断气的消息吧。`
+- L3304
+  - 전: `가릭: 그럼 오필리아가 숨이 끊어졌다는 소식이나 기다리죠.`
+  - 후: `가릭: 그럼 오필리아의 숨이 멎었다는 소식이나 기다리죠.`
+- L3305
+  - 전: `GARRICK: Then we'll just wait to hear she's dead.`
+  - 후: `GARRICK: Then we'll wait for word that she's stopped breathing.`
+- L3319
+  - 전: `加里克: 果然，您还是舍不得她。`
+  - 후: `加里克: 果然。那个女人拽着您的领子呢，领主大人。`
+- L3320
+  - 전: `가릭: 역시, 오필리아를 못 놓으시는군요.`
+  - 후: `가릭: 역시 그러실 줄 알았습니다. 저 여자한테 목덜미가 잡히셨군요, 군주님.`
+- L3321
+  - 전: `GARRICK: Of course. You just can't let her go, can you?`
+  - 후: `GARRICK: I knew it. That woman has you by the collar, my Lord.`
+- L3359
+  - 전: `多里安: 回去告诉那个老东西！我的王后只有一个！她的名字叫奥菲莉娅！`
+  - 후: `多里安: 把那堆灰刮起来，带回去给你的国王！我的王后只有一个，她叫奥菲莉娅！`
+- L3360
+  - 전: `도리안: 돌아가서 그 늙은 개자식에게 전해. 내 왕후는 단 한 명, 이름은 오필리아다!`
+  - 후: `도리안: 그 재를 긁어모아 네 왕에게 가져가! 내 왕후는 오필리아 하나뿐이다!`
+- L3361
+  - 전: `DORIAN: Go back and tell that old bastard I have one Queen. Her name is Ophelia!`
+  - 후: `DORIAN: Scrape up that ash and carry it to your King! The only Queen I have is Ophelia!`
+- L3375
+  - 전: `多里安: 我今天不杀你，仅仅是因为奥菲莉娅还没下达处死你的命令。`
+  - 후: `多里安: 我现在就想杀了你。但下这道命令的人是奥菲莉娅，不是我。`
+- L3376
+  - 전: `도리안: 네가 아직 숨 쉬는 건 오필리아가 아직 네 처형을 명하지 않았기 때문이야.`
+  - 후: `도리안: 당장 죽이고 싶어. 하지만 그 명령은 내 게 아니라 오필리아 거야.`
+- L3377
+  - 전: `DORIAN: The only reason you're still breathing is that Ophelia hasn't ordered your execution yet.`
+  - 후: `DORIAN: I'd kill you right now. But that order belongs to Ophelia, not me.`
+- L3379
+  - 전: `多里安: 滚回去告诉那个老东西，洗干净脖子等着！`
+  - 후: `多里安: 现在爬回去告诉那个老东西，把脖子洗干净。我会亲手割下来！`
+- L3380
+  - 전: `도리안: 꺼져서 그 늙은 개자식에게 전해. 목을 내놓고 내 칼을 기다리라고!`
+  - 후: `도리안: 이제 기어서 돌아가 그 늙은 개자식에게 전해. 목이나 깨끗이 씻어 두라고. 내 손으로 직접 자를 테니까!`
+- L3381
+  - 전: `DORIAN: Crawl back and tell that old bastard to bare his neck and wait for my blade!`
+  - 후: `DORIAN: Now crawl home and tell that old bastard to keep his neck clean. I'll be cutting it myself!`
+- L3394
+  - 전: `多里安（OS）: 奥菲莉娅。哪怕放干我每一滴龙血……我也要把你从地狱里拉回来！`
+  - 후: `多里安（OS）: 奥菲莉娅。要是这就是代价，我把身上的血放干也认……我一定把你从地狱里拖回来！`
+- L3395
+  - 전: `도리안 (V.O.): 오필리아. 내 용족의 피를 마지막 한 방울까지 다 뽑아야 한다 해도... 널 지옥에서 끌어낼 거야!`
+  - 후: `도리안 (V.O.): 오필리아. 그게 대가라면 내 몸의 핏줄을 전부 비우겠어... 널 지옥에서 끌어내고 만다!`
+- L3396
+  - 전: `DORIAN (V.O.): Ophelia. Even if I have to drain every drop of my dragon blood... I will pull you back from hell!`
+  - 후: `DORIAN (V.O.): Ophelia. I'll empty every vein in my body if that's the price... I'm dragging you back from hell!`
+- L3422
+  - 전: `多里安: 做点什么！我留着你们的命不是为了看着她死的！`
+  - 후: `多里安: 做点什么！我留着你们是干什么用的，站在那儿看着她死吗？！`
+- L3423
+  - 전: `도리안: 뭐라도 해! 오필리아가 죽는 걸 구경하라고 너희를 살려 둔 게 아니야!`
+  - 후: `도리안: 뭐라도 해! 내가 너희를 왜 두는데, 거기 서서 오필리아 죽는 거 구경하라고?!`
+- L3424
+  - 전: `DORIAN: Do something! I didn't keep you alive to watch her die!`
+  - 후: `DORIAN: Do something! **What do I keep you for** — to stand there and watch her die?!(메인: feed→keep)`
+- L3445
+  - 전: `长老甲（连连摇头）: 但这极其危险！您必须割破心口，将她的毒强行绑定在您的命脉上。以您现在还未痊愈的心脉……这可能会杀了您的！`
+  - 후: `长老甲（连连摇头）: 可这危险得超乎想象！您必须割开胸口，把她的毒绑在您自己的命脉上。您的心脉还是裂的……这很可能会要了您的命！`
+- L3446
+  - 전: `장로 A: (연신 고개를 저으며) 하지만 너무 위험합니다! 가슴을 갈라 왕후님의 독을 군주님 목숨에 묶어야 합니다. 아직 심장이 다 낫지 않았는데... 목숨을 잃으실 수도 있습니다!`
+  - 후: `장로 A: (연신 고개를 저으며) 하지만 위험이 상상을 넘습니다! 가슴을 갈라 왕후님의 독을 군주님 목숨에 묶어야 합니다. 심장은 아직 찢어진 채입니다... 이러면 목숨을 잃으실 겁니다!`
+- L3447
+  - 전: `ELDER A: (shaking his head) But it's extremely dangerous! You must cut open your chest and bind her poison to your own life force. With your heart still healing... this could kill you!`
+  - 후: `ELDER A: (shaking his head) But the risk is beyond anything! You have to cut your chest open and tie her poison to your own life force. Your heart is still torn... this will likely kill you!`
+- L3449
+  - 전: `多里安: 我的命本来就是她的。告诉我咒语。现在！`
+  - 후: `多里安: 我这条命早就是她的了。把这个仪式教给我，老家伙。现在！`
+- L3450
+  - 전: `도리안: 내 목숨은 원래 오필리아 거야. 주문을 말해. 당장!`
+  - 후: `도리안: 내 목숨은 이미 오필리아 거야. 주술을 가르쳐, 노인. 당장!`
+- L3451
+  - 전: `DORIAN: My life is hers anyway. Tell me the spell. Now!`
+  - 후: `DORIAN: She owns my life already. Teach me the ritual, old man. Now!`
+- L3471
+  - 전: `多里安: 以我的血与灵魂起誓！我的生命与她绑定！她的痛即我的痛，她的死即我的死！`
+  - 후: `多里安: 以我的血与我的灵魂起誓！撕裂她的，也要撕裂我！她倒下，我就跟着倒下！`
+- L3472
+  - 전: `도리안: 내 피와 영혼으로 맹세한다! 내 목숨을 오필리아와 묶는다! 오필리아의 고통은 곧 내 고통, 오필리아의 죽음은 곧 내 죽음이다!`
+  - 후: `도리안: 내 피와 내 영혼으로 맹세한다! 오필리아를 찢는 것은 나도 찢는다! 오필리아가 쓰러지면 나도 같이 쓰러진다!`
+- L3473
+  - 전: `DORIAN: By my blood and soul! I bind my life to hers! Her pain is my pain, her death is my death!`
+  - 후: `DORIAN: By my blood and my soul! What tears at her tears at me! If she falls, I fall with her!`
+- L3587
+  - 전: `多里安: 傻女孩。别怕，你已经被治好了。`
+  - 후: `多里安: 傻女孩。别盯着看了。它在变淡，仅此而已。`
+- L3588
+  - 전: `도리안: 바보 같긴. 겁내지 마. 이제 다 나았어.`
+  - 후: `도리안: 바보 같긴. 그만 들여다봐. 옅어지고 있잖아, 그뿐이야.`
+- L3589
+  - 전: `DORIAN: Silly girl. Don't be afraid. You're healed now.`
+  - 후: `DORIAN: Silly girl. Stop staring at it. It's fading, that's all.`
+- L3613
+  - 전: `加里克: 陛下！龙族领主简直是个疯子！他烧毁了联姻国书，羞辱了我们王国，还把我们像垃圾一样扔了出来！`
+  - 후: `加里克: 陛下！那头畜生疯了！他在我手里把国书烧成了灰，还让人把我们像垃圾一样拖了出去！`
+- L3614
+  - 전: `가릭: 폐하! 용족 군주는 미쳤습니다. 혼인 국서를 불태우고 우리 왕국을 모욕한 뒤, 우릴 쓰레기처럼 내던졌습니다!`
+  - 후: `가릭: 폐하! 그 짐승은 제정신이 아닙니다! 제 손안에서 국서를 재로 태우고, 우릴 쓰레기처럼 끌어내게 했습니다!`
+- L3615
+  - 전: `GARRICK: Your Majesty! The Dragon Lord is insane. He burned the marriage treaty, humiliated our kingdom, and threw us out like trash!`
+  - 후: `GARRICK: Your Majesty! That beast is out of his mind! He burned the treaty to ash in my hands and had us dragged out like garbage!`
+- L3689
+  - 전: `多里安: 只是……旧伤突然复发了。我需要……出去透透气。你呆在这里，好好休息。`
+  - 후: `多里安: 没什么……旧伤而已。我走走就好。你留在床上。`
+- L3690
+  - 전: `도리안: 그냥... 오래된 상처가 도진 거야. 바람 좀 쐬야겠어. 여기서 쉬고 있어.`
+  - 후: `도리안: 아무것도 아니야... 오래된 상처야. 걷다 보면 가라앉아. 넌 침대에 있어.`
+- L3691
+  - 전: `DORIAN: It's just... an old wound acting up. I need some air. Stay here and rest.`
+  - 후: `DORIAN: It's nothing... an old wound. I'll walk it off. Stay in bed.`
+- L3730
+  - 전: `奥菲莉娅（OS担忧）: 他整整一天都没有来看我了……他那惨白的脸色，他到底怎么了？`
+  - 후: `奥菲莉娅（OS担忧）: 整整一天他都没靠近我……他的脸上一点血色都没有。他出事了。`
+- L3731
+  - 전: `오필리아 (V.O.): (걱정하며) 하루 종일 날 보러 오지 않았어... 그렇게 창백한 얼굴이었는데. 대체 무슨 일이지?`
+  - 후: `오필리아 (V.O.): (걱정하며) 하루가 다 가도록 내 곁에 오지 않았어... 얼굴엔 핏기가 하나도 없었고. 도리안한테 무슨 일이 있어.`
+- L3732
+  - 전: `OPHELIA (V.O.): (worried) He hasn't come to see me all day... He looked so pale. What's wrong with him?`
+  - 후: `OPHELIA (V.O.): (worried) A whole day and he hasn't come near me... His face had no color left. Something is wrong with him.`
+- L3875
+  - 전: `奥菲莉娅: 多里安……你的胸口……你怎么会有和我一模一样的痕迹？！`
+  - 후: `奥菲莉娅: 多里安……你的胸口……那是我的毒纹。为什么会在你身上？！`
+- L3876
+  - 전: `오필리아: 도리안... 가슴에 그거... 왜 나랑 똑같은 자국이 있어?!`
+  - 후: `오필리아: 도리안... 가슴에... 그건 내 자국이잖아. 왜 그게 너한테 있어?!`
+- L3877
+  - 전: `OPHELIA: Dorian... your chest... that mark... Why do you have the same mark as me?!`
+  - 후: `OPHELIA: Dorian... your chest... That's my mark. Why is it on you?!`
+- L3980
+  - 전: `多里安: 巨龙会用生命保护它的珍宝。`
+  - 후: `多里安: 我是龙。龙会死在自己的珍宝上面。`
+- L3981
+  - 전: `도리안: 용은 목숨을 걸고 자신의 보물을 지켜.`
+  - 후: `도리안: 난 용이야. 용은 자기 보물 위에서 죽어.`
+- L3982
+  - 전: `DORIAN: A dragon protects its treasure with its life.`
+  - 후: `DORIAN: I'm a dragon. We die on top of our treasure.`
+- L4078
+  - 전: `薇薇安: 姐姐，那个怪物终于厌倦了你那张脸了吗？`
+  - 후: `薇薇安: 姐姐，怎么了？那个怪物终于把你这张脸看清楚了？`
+- L4079
+  - 전: `비비안: 언니, 그 괴물이 드디어 언니 그 얼굴에 질린 거야?`
+  - 후: `비비안: 언니, 왜 이래? 그 괴물이 드디어 언니 얼굴을 제대로 본 거야?`
+- L4080
+  - 전: `VIVIAN: Sister, did the monster finally get sick of that face of yours?`
+  - 후: `VIVIAN: Sister, what happened? Did the monster finally take a good look at your face?`
+- L4157
+  - 전: `国王: 我知道你有他的戒指。召唤他。让他走进我的屠龙阵。`
+  - 후: `国王: 你手上戴的那枚戒指是他的。叫他来。我要那头畜生自己走进我的屠龙阵。`
+- L4158
+  - 전: `국왕: 네가 용족 군주의 반지를 가진 걸 안다. 그놈을 불러. 제 발로 내 용 잡는 함정에 걸어 들어오게.`
+  - 후: `국왕: 네 손가락에 낀 그 반지, 그놈 거지. 불러라. 그 짐승이 제 발로 내 용 잡는 함정에 걸어 들어오게 하란 말이다.`
+- L4159
+  - 전: `KING: I know you have the Dragon Lord's ring. Summon him. Let him walk into my dragon-slaying trap.`
+  - 후: `KING: That ring on your finger is his. Call him. I want that beast walking into my dragon-slaying trap on his own feet.`
+- L4216
+  - 전: `奥菲莉娅（OS）: 但现在不行。我绝不会让他为了我送死！`
+  - 후: `奥菲莉娅（OS）: 但现在不行。我不会让他替我去死！`
+- L4217
+  - 전: `오필리아 (V.O.): 하지만 이제는 아니야. 나 때문에 도리안이 죽게 두지 않아!`
+  - 후: `오필리아 (V.O.): 이제는 아니야. 나 대신 죽게는 못 둬!`
+- L4218
+  - 전: `OPHELIA (V.O.): But not anymore. I won't let him die for me!`
+  - 후: `OPHELIA (V.O.): Not anymore. He doesn't get to die in my place!`
+- L4275
+  - 전: `多里安（OS）: 她刺穿了自己的手来阻止召唤。`
+  - 후: `多里安（OS）: 她把那枚戒指往自己掌心里按，就为了不让我过去。`
+- L4276
+  - 전: `도리안 (V.O.): 소환을 막으려고 자기 손을 찌르고 있어.`
+  - 후: `도리안 (V.O.): 내가 못 오게 하려고 반지를 제 손바닥에 박아 넣고 있어.`
+- L4277
+  - 전: `DORIAN (V.O.): She's stabbing her own hand to stop the summoning.`
+  - 후: `DORIAN (V.O.): She's driving that ring into her own palm so I can't come.`
+- L4291
+  - 전: `多里安（OS）: 但我会站在这里……站在她一抬头就能看到我的地方。`
+  - 후: `多里安（OS）: 但我不会离开这座山崖……她一抬头，第一个看见的就是我。`
+- L4292
+  - 전: `도리안 (V.O.): 하지만 여기 서 있을 거야... 오필리아가 고개를 드는 순간 날 볼 수 있는 곳에.`
+  - 후: `도리안 (V.O.): 하지만 난 이 절벽에서 안 움직여... 오필리아가 고개를 드는 순간, 제일 먼저 보이는 건 나야.`
+- L4293
+  - 전: `DORIAN (V.O.): But I'll stand right here... where she can see me the moment she looks up.`
+  - 후: `DORIAN (V.O.): But I'm not moving from this cliff... The moment she looks up, I'll be the first thing she sees.`
+- L4324
+  - 전: `国王（指着奥菲莉娅）: 向世人承认你的罪行！告诉他们你是如何背叛人类王国，抛弃尊严去给龙族当一个荡妇的！`
+  - 후: `国王（指着奥菲莉娅）: 大声说出来，让在场每一个人都听见！说你卖了自己的王国，对着一头畜生张开了腿！`
+- L4325
+  - 전: `국왕: (오필리아를 가리키며) 세상 앞에 네 죄를 고백해라! 인간 왕국을 어떻게 배신하고, 존엄을 버리고 용족에게 몸을 팔았는지 말해라!`
+  - 후: `국왕: (오필리아를 가리키며) 다 들리게 큰 소리로 말해라! 네 왕국을 팔아넘기고 짐승에게 다리를 벌렸다고 말해!`
+- L4326
+  - 전: `KING: (pointing at Ophelia) Confess your sins to the world! Tell them how you betrayed the human kingdom, threw away your dignity, and whored yourself out to the dragons!`
+  - 후: `KING: (pointing at Ophelia) Say it out loud, where every one of them can hear! Say you sold out your own kingdom and spread your legs for a beast!`
+- L4344
+  - 전: `奥菲莉娅（OS）: 只要母亲能活下去……我的尊严算得了什么。`
+  - 후: `奥菲莉娅（OS）: 只要能让母亲继续喘气……他们爱怎么骂我都行。`
+- L4345
+  - 전: `오필리아 (V.O.): 엄마만 살아난다면... 내 존엄 따위 아무것도 아니야.`
+  - 후: `오필리아 (V.O.): 엄마가 숨만 쉴 수 있다면... 날 뭐라고 부르든 상관없어.`
+- L4346
+  - 전: `OPHELIA (V.O.): As long as my mother survives... my dignity means nothing.`
+  - 후: `OPHELIA (V.O.): If it keeps my mother breathing... they can call me anything they want.`
+- L4355
+  - 전: `多里安（VO）: 奥菲莉娅。别为了救任何人，把自己说成卑贱。`
+  - 후: `多里安（VO）: 奥菲莉娅。别说。就算是为了救她，也别说。`
+- L4356
+  - 전: `도리안 (V.O.): 오필리아. 누굴 살리려고 자신을 더러운 존재라고 부르지 마.`
+  - 후: `도리안 (V.O.): 오필리아. 말하지 마. 어머니를 살리기 위해서라도 하지 마.`
+- L4357
+  - 전: `DORIAN (V.O.): Ophelia. Don't call yourself filth to save anyone.`
+  - 후: `DORIAN (V.O.): Ophelia. Don't say it. Not even to save her.`
+- L4451
+  - 전: `奥菲莉娅: 他什么都知道！我直到现在才明白……他给我的爱是他心甘情愿给我的。`
+  - 후: `奥菲莉娅: 他什么都知道。可他还是选了我。我到现在才明白。`
+- L4452
+  - 전: `오필리아: 도리안은 전부 알고 있었어. 그런데도 날 사랑하기로 한 거야. 이제야 알겠어.`
+  - 후: `오필리아: 도리안은 전부 알고 있었어. 그런데도 날 택한 거야. 난 이제야 그걸 알았어.`
+- L4453
+  - 전: `OPHELIA: He knew everything... and he chose to love me anyway. I only see that now.`
+  - 후: `OPHELIA: He knew all of it. And he still chose me. I'm only seeing that now.`
+- L4511
+  - 전: `国王（愤怒）: 够了！一个人类婊子和一头被诅咒的野兽。你们以为几句告白就能改变什么？`
+  - 후: `国王（愤怒）: 够了这套！你是个人类婊子，他是头被诅咒的野兽。几句漂亮话改变不了这个。`
+- L4512
+  - 전: `국왕: (분노) 그만해! 인간 창녀와 저주받은 짐승 따위가. 고백 몇 마디로 뭐가 바뀔 거라 생각하나?`
+  - 후: `국왕: (분노) 집어치워! 넌 인간 창녀고, 저놈은 저주받은 짐승이다. 그럴듯한 말 몇 마디로 그게 달라지진 않아.`
+- L4513
+  - 전: `KING: (furious) Enough! A human whore and a cursed beast. You think a few confessions can change anything?`
+  - 후: `KING: (furious) Enough of this! You're a human whore. He's a cursed beast. A few pretty speeches don't change that.`
+- L4632
+  - 전: `国王: 哈哈哈！我还在想她怎么还活着！你竟然把她的毒绑在了自己身上！`
+  - 후: `国王: 哈哈哈！原来她还喘着气是因为这个！你把她的毒绑在了自己的命上！`
+- L4633
+  - 전: `국왕: 하하하! 저 여자가 어떻게 아직 살아 있나 했더니! 그 여자의 독을 네 몸에 묶어 둔 거였군!`
+  - 후: `국왕: 하하하! 저 여자가 아직 숨 쉬는 이유가 그거였군! 그 여자의 독을 네 목숨에 묶어 둔 거야!`
+- L4634
+  - 전: `KING: Hahaha! I was wondering how she was still alive! So you bound her poison to yourself!`
+  - 후: `KING: Hahaha! So that's how the girl's still breathing! You tied her poison to your own life!`
+- L4865
+  - 전: `将领: 他说龙族无论如何都完了。您活着，黑日会让您变成他的傀儡。`
+  - 후: `将领: 国王到处在说，龙族横竖都完了。您活着，黑日就把您变成一具傀儡。`
+- L4866
+  - 전: `장군: 국왕은 용족이 어느 쪽이든 끝장이라고 말합니다. 군주님이 살아 계시면 검은 태양이 군주님을 자신의 꼭두각시로 만들 거라고요.`
+  - 후: `장군: 국왕이 용족은 어느 쪽이든 끝났다고 떠들고 다닙니다. 군주님이 살아 계시면, 검은 태양이 군주님을 꼭두각시로 만든다고요.`
+- L4867
+  - 전: `GENERAL: The King says the Dragon Clan is finished either way. If you live, the Black Sun will turn you into his puppet.`
+  - 후: `GENERAL: The King's telling everyone the clan is doomed either way. If you live, the Black Sun makes a puppet out of you.`
+- L5002
+  - 전: `长老（叹息）: 他只能以人类形态活下去。虚弱，接近凡人。`
+  - 후: `长老（叹息）: 他能活。可只能以人的身子活。虚弱，跟凡人没什么两样。`
+- L5003
+  - 전: `장로: (한숨 쉬며) 군주님은 인간의 모습으로만 살 수 있습니다. 힘을 잃고, 거의 평범한 인간이 되시지요.`
+  - 후: `장로: (한숨 쉬며) 살아남으시긴 합니다. 다만 인간의 몸으로만요. 힘을 잃고, 평범한 인간과 다를 게 없어집니다.`
+- L5004
+  - 전: `ELDER: (sighing) He can only survive in human form. Weak, almost mortal.`
+  - 후: `ELDER: (sighing) He'd live. But only as a human. Weak. Barely more than mortal.`
+- L5072
+  - 전: `多里安: 没关系，我知道你只是暂时没想明白.`
+  - 후: `多里安: 嘘。你现在不必知道答案。`
+- L5073
+  - 전: `도리안: 괜찮아. 아직 답을 찾지 못했을 뿐이라는 걸 알아.`
+  - 후: `도리안: 쉿. 지금 답을 몰라도 돼.`
+- L5074
+  - 전: `DORIAN: It's all right. I know you just haven't found your answer yet.`
+  - 후: `DORIAN: Shh. You don't have to know the answer yet.`
+- L5125
+  - 전: `长老（焦急）: 王后！就是现在！领主还有救！`
+  - 후: `长老（焦急）: 王后！现在就用！领主还能救回来！`
+- L5126
+  - 전: `장로: (다급하게) 왕후님! 지금입니다. 군주님은 아직 구할 수 있습니다!`
+  - 후: `장로: (다급하게) 왕후님! 지금 쓰세요! 아직 군주님을 구할 수 있습니다!`
+- L5127
+  - 전: `ELDER: (frantic) My Queen! Now is the time. The Lord can still be saved!`
+  - 후: `ELDER: (frantic) My Queen! Use it now! We can still save him!`
+- L5235
+  - 전: `将领: 那是死局，去了你会死的！`
+  - 후: `将领: 那是个死地，去了就回不来！`
+- L5236
+  - 전: `장군: 그곳은 사지입니다. 가시면 돌아오지 못하십니다!`
+  - 후: `장군: 유지(그곳은 사지입니다. 가시면 돌아오지 못하십니다!)`
+- L5237
+  - 전: `GENERAL: That's a death trap. If you go, you'll die!`
+  - 후: `GENERAL: That place is a **killing ground**. You won't come back!(메인: slaughter→killing ground)`
+- L5323
+  - 전: `国王: 惊讶吗？你的诅咒是我亲手下的！`
+  - 후: `国王: 惊讶吗？你胸口那道诅咒，是我亲手种下去的！`
+- L5324
+  - 전: `국왕: 놀랐나? 네게 내린 저주는 내 손으로 건 거다!`
+  - 후: `국왕: 놀랐나? 네 가슴의 그 저주, 내가 직접 심은 거다!`
+- L5325
+  - 전: `KING: Surprised? I laid that curse on you with my own hands!`
+  - 후: `KING: Surprised? That curse in your chest — I put it there myself!`
+- L5338
+  - 전: `多里安（OS）: 不……我宁愿把自己的灵魂撕碎！`
+  - 후: `多里安（OS）: 不……我宁可把自己的灵魂撕成碎片，也不做他的东西！`
+- L5339
+  - 전: `도리안 (V.O.): 안 돼... 차라리 내 영혼을 산산이 찢어놓겠어!`
+  - 후: `도리안 (V.O.): 안 돼... 저놈 것이 되느니 내 영혼을 갈기갈기 찢어버리겠어!`
+- L5340
+  - 전: `DORIAN (V.O.): No... I'd rather tear my own soul to pieces!`
+  - 후: `DORIAN (V.O.): No... I'll rip my own soul apart before he owns me!`
+- L5465
+  - 전: `奥菲莉娅: 你说过如果你失控，就让我杀了你。`
+  - 후: `奥菲莉娅: 你让我在你失去自我的时候杀了你。`
+- L5466
+  - 전: `오필리아: 통제력을 잃으면 날더러 죽이라고 했잖아.`
+  - 후: `오필리아: 네가 너 자신을 잃으면 죽이라고 했잖아.`
+- L5467
+  - 전: `OPHELIA: You said if you lost control, I should kill you.`
+  - 후: `OPHELIA: You told me to kill you if you ever lost yourself.`
+- L5476
+  - 전: `国王（疯狂大喊）: 动手！刺进他的心脏！你还在等什么？！`
+  - 후: `国王（疯狂大喊）: 动手！捅穿他的心脏！你杵在那儿干什么？！`
+- L5477
+  - 전: `국왕: (미친 듯 고함) 해! 심장에 박아 넣어! 뭘 기다리는 거야?!`
+  - 후: `국왕: (미친 듯 고함) 해! 심장에 꽂아 넣어! 왜 멍하니 서 있어?!`
+- L5478
+  - 전: `KING: (screaming) Do it! Drive it into his heart! What are you waiting for?!`
+  - 후: `KING: (screaming) Do it! Put it through his heart! Why are you just standing there?!`
+- L5611
+  - 전: `长老甲（老泪纵横）: 诅咒破除了……但国王抽干了他一半的龙心。他快不行了……`
+  - 후: `长老甲（老泪纵横）: 诅咒破除了……可国王从他身上生生挖走了一半龙心。他撑不了多久了……`
+- L5612
+  - 전: `장로 A: (눈물을 쏟으며) 저주는 풀렸습니다... 하지만 국왕이 군주님의 용의 심장을 절반이나 빼앗아 갔습니다. 군주님이 죽어 가고 계십니다...`
+  - 후: `장로 A: (눈물을 쏟으며) 저주는 풀렸습니다... 하지만 국왕이 군주님의 용의 심장을 절반이나 뜯어 갔습니다. 오래 못 버티십니다...`
+- L5613
+  - 전: `ELDER A: (tearful) The curse is broken... but the King drained half of his dragon heart. He's dying...`
+  - 후: `ELDER A: (tearful) The curse is broken... but the King tore half the dragon heart out of him. He won't last long...`
+- L5724
+  - 전: `奥菲莉娅（OS）: 他被迫像个怪物一样活在黑暗里。`
+  - 후: `奥菲莉娅（OS）: 他只能活在黑暗里。像个怪物。都是他们逼的。`
+- L5725
+  - 전: `오필리아 (V.O.): 도리안은 어둠 속에서 괴물처럼 살아야 했어.`
+  - 후: `오필리아 (V.O.): 도리안은 어둠 속에서 살아야 했어. 괴물처럼. 저들 때문에.`
+- L5726
+  - 전: `OPHELIA (V.O.): He was forced to live like a monster in the dark.`
+  - 후: `OPHELIA (V.O.): He had to live in the dark. Like a monster. Because of them.`
+- L5799
+  - 전: `多里安: 如果没有复仇……你还会选择我吗？`
+  - 후: `多里安: 假如根本没有复仇。你还会选我吗？`
+- L5800
+  - 전: `도리안: 복수 때문이 아니라면... 그래도 날 선택할 거야?`
+  - 후: `도리안: 복수 같은 게 아예 없었다고 해봐. 그래도 날 골랐을까?`
+- L5801
+  - 전: `DORIAN: If it weren't for revenge... would you still choose me?`
+  - 후: `DORIAN: Say there was no revenge. Would you still have picked me?`

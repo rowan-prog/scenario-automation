@@ -92,7 +92,9 @@
 
 - 2026-09-22 **FINAL v33** = `07_final/34_storm_dragon_bride_FINAL_v33_CN&KO&EN.docx` + `.md`. 1~8화 대사 원작 자국 지우기 57곳(1~3화 전부 34 · 4~8화 23) + 7화 회상 지문(Eyes here) + 11화 지문(귀→입술 동작 연결). 계획 `_ep1_8_rewrite_plan.md` A~G(외부 AI 2회·Codex·fresh-eyes 반영 · 잔혹함 복구·어색한 영어·없는 행동 기각 철회 2건). 공격 각도 = 돈·지위·자존심. 177줄. 변경 목록 = `34_storm_dragon_bride_v33_changes.md`. 다음 = 9~53화 B2(`_paid_rewrite_plan_B2.md` · 90줄 후보 · 승인 후 v34).
 
-- 2026-09-18 **LOCK — 사용자 "마무리 인정".** 정본 = `07_final/34_storm_dragon_bride_FINAL_v33_CN&KO&EN.docx`(1~8화 원작 자국 지우기 v33 · 대사 검수 v3 반영 · = v27 완복 · v25 LOCK 직후 3언어 동기화 v26 → 흐린 영어 정정 v27). 제목 My One-Night Dragon Lord. 이후 수정은 §4-1 수술 파이프라인으로 v26+.
+- 2026-09-22 **FINAL v34** = `07_final/34_storm_dragon_bride_FINAL_v34_CN&KO&EN.docx` + `.md`. 9~53화 원작 겹침 대사 차별화 B2 — 82곳 241줄(교체 82 · 유지 8). 대상 선정 = 같은 화·화자 짝 유사도 0.9↑·8단어↑·보호선 줄번호 제외(외부 검토 6항 반영). 우선 구간 14·25·29·38화 문답 묶음(명령권 이양·처분권·인질 자백 기능 보존). fresh-eyes 사전 검사 5건 수정. 변경 목록 = `34_storm_dragon_bride_v34_changes.md`.
+
+- 2026-09-18 **LOCK — 사용자 "마무리 인정".** 정본 = `07_final/34_storm_dragon_bride_FINAL_v34_CN&KO&EN.docx`(9~53화 B2 차별화 v34 · 1~8화 원작 자국 지우기 v33 · 대사 검수 v3 반영 · = v27 완복 · v25 LOCK 직후 3언어 동기화 v26 → 흐린 영어 정정 v27). 제목 My One-Night Dragon Lord. 이후 수정은 §4-1 수술 파이프라인으로 v26+.
 
 ## 제목 (2026-09-18 확정)
 **My One-Night Dragon Lord** — 사용자 확정. 잣대 = '샀다'가 아니라 원나잇 상대가 곧 드래곤 로드라는 사건 · 직접 성어 0 · 문장형이 아니라 명사구(히트작 제목 결 = 《One Night with the Dragon Lord》《Road of Lust》《Countdown King》처럼 구 하나). 기각 = I Bought the Dragon Lord for One Night(거래가 본질 아님) · The Stranger I Bought Was the Dragon Lord(같은 이유) · 문장형 후보 전부(주술목 완성 문장은 타이틀 결이 아님 — 사용자 교정). 차점 = Last Night's Stranger, Today's Dragon Lord · Sacrificed to My One-Night Stranger. docx는 본문 헤더 없이 시작하므로 문서 속성 제목에만 기록.
