@@ -21,3 +21,5 @@ metadata:
 - 압축이 낳은 결함은 **받침 문장 한 줄로만** 복구하고 해설은 붙이지 않는다(사실만).
 
 관련: [[proposal-prose-five-checks]] [[rough-proposal-is-a-pitch-doc]] [[no-abstract-evasive-writing]] [[three-readers-rewind-zero-gate]] [[token-diet-70-percent]]
+
+**2026-09-22 추가 (34 storm_dragon_bride 52화 키스):** 연결 오류를 잡을 때 **핵심 동작(사용자가 찍은 그림)을 앞뒤에 맞춰 깎지 말고, 앞뒤를 핵심에 맞춰 고친다.** 예: "이마 맞댄 채 그의 두 손이 뺨"이 핵심이면 앞 키스에서 그의 손 위치를 얼굴로 바꾸는 것이지, 핵심 줄에 "손이 올라온다"를 덧붙여 연결하는 게 아니다. 연결은 중요하지만 핵심 동작을 살리는 게 그만큼 중요하다.
