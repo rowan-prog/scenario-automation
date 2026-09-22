@@ -104,7 +104,7 @@
 
 - 2026-09-22 **FINAL v39** = `07_final/34_storm_dragon_bride_FINAL_v39_CN&KO&EN.docx` + `.md`. 52화 재회 포옹·키스 지문 4세트(+12줄) — 사용자 요청(노출 0·베드씬 아님·눈물·게걸스러운 갈구·길게·남들 앞 X). 광장(39화) 안은 사용자 기각 → 52-2 침실 채택. 변경 목록 = `34_storm_dragon_bride_v39_changes.md`.
 
-- 2026-09-18 **LOCK — 사용자 "마무리 인정".** 정본 = `07_final/34_storm_dragon_bride_FINAL_v47_CN&KO&EN.docx`(52화 암전 v47 · 52화 암전 최종 v46 · 52화 짐승미 v45 · 52화 압축 v44 · 52화 암전 v43 · 52화 자세 v42 · 52화 암전 v41 · 52화 키스 대사 v40 · 52화 키스 v39 · 세계 정합 v38 · 5화 정체 인지 V.O. v37 · 콜드리드 3곳 v36 · 사후 스윕 v35 · 9~53화 B2 차별화 v34 · 1~8화 원작 자국 지우기 v33 · 대사 검수 v3 반영 · = v27 완복 · v25 LOCK 직후 3언어 동기화 v26 → 흐린 영어 정정 v27). 제목 My One-Night Dragon Lord. 이후 수정은 §4-1 수술 파이프라인으로 v26+.
+- 2026-09-18 **LOCK — 사용자 "마무리 인정".** 정본 = `07_final/34_storm_dragon_bride_FINAL_v48_CN&KO&EN.docx`(Codex v47 검토 v48 · 52화 암전 v47 · 52화 암전 최종 v46 · 52화 짐승미 v45 · 52화 압축 v44 · 52화 암전 v43 · 52화 자세 v42 · 52화 암전 v41 · 52화 키스 대사 v40 · 52화 키스 v39 · 세계 정합 v38 · 5화 정체 인지 V.O. v37 · 콜드리드 3곳 v36 · 사후 스윕 v35 · 9~53화 B2 차별화 v34 · 1~8화 원작 자국 지우기 v33 · 대사 검수 v3 반영 · = v27 완복 · v25 LOCK 직후 3언어 동기화 v26 → 흐린 영어 정정 v27). 제목 My One-Night Dragon Lord. 이후 수정은 §4-1 수술 파이프라인으로 v26+.
 
 - 2026-09-22 **FINAL v40** = `07_final/34_storm_dragon_bride_FINAL_v40_CN&KO&EN.docx` + `.md`. 52화 키스 사이 대사 `죽은 줄 알았어... / I thought I'd lost you... / 我以为你死了……` + 지문 2(입술 한 올 떨어짐·이마 맞댄 채·그의 손은 뺨 / 도리안 입가 짧게 올라감) + 3세트 첫 문장 중복 제거. +11줄. 변경 목록 = `34_storm_dragon_bride_v40_changes.md`.
 
@@ -121,6 +121,8 @@
 - 2026-09-22 **FINAL v46** = `07_final/34_storm_dragon_bride_FINAL_v46_CN&KO&EN.docx` + `.md`. 52화 암전 컷 최종형 — 끌어 눕힘·으르렁·허리·눈물+입꼬리·"뜨거운 키스를 이어 간다"·【암전】(과한 명시 제거). 3줄. 변경 목록 = `34_storm_dragon_bride_v46_changes.md`.
 
 - 2026-09-22 **FINAL v47** = `07_final/34_storm_dragon_bride_FINAL_v47_CN&KO&EN.docx` + `.md`. 52화 암전 컷 부연(으르렁·허리) 삭제. 3줄. **교훈: 지문에 부연 묘사 덧붙이지 말 것 — 동작·표정 사실만.** 변경 목록 = `34_storm_dragon_bride_v47_changes.md`.
+
+- 2026-09-22 **FINAL v48** = `07_final/34_storm_dragon_bride_FINAL_v48_CN&KO&EN.docx` + `.md`. Codex v47 검토(492 대사 대조) 반영 — 영어 4줄·한국어 1줄 손질 + 52화 키스 지문 손 주체 오류(도리안 뒷머리·허리 → 다음 줄 "도리안 두 손이 뺨"을 동작으로 연결). 9줄. 기각 = 27화 문답·33화 회상. 변경 목록 = `34_storm_dragon_bride_v48_changes.md`.
 
 - 2026-09-22 **환류 규칙 확정(사용자):** 지문 = 중문 정본 / 대사 = 영어 정본. v39 52화 키스 지문 4세트는 중문 기준으로 한·영 대조 완료(불일치 0). 메모리 [[trilingual-sync-direction]].
 
