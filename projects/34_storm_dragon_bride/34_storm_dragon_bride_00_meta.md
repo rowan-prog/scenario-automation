@@ -94,7 +94,9 @@
 
 - 2026-09-22 **FINAL v34** = `07_final/34_storm_dragon_bride_FINAL_v34_CN&KO&EN.docx` + `.md`. 9~53화 원작 겹침 대사 차별화 B2 — 82곳 241줄(교체 82 · 유지 8). 대상 선정 = 같은 화·화자 짝 유사도 0.9↑·8단어↑·보호선 줄번호 제외(외부 검토 6항 반영). 우선 구간 14·25·29·38화 문답 묶음(명령권 이양·처분권·인질 자백 기능 보존). fresh-eyes 사전 검사 5건 수정. 변경 목록 = `34_storm_dragon_bride_v34_changes.md`.
 
-- 2026-09-18 **LOCK — 사용자 "마무리 인정".** 정본 = `07_final/34_storm_dragon_bride_FINAL_v34_CN&KO&EN.docx`(9~53화 B2 차별화 v34 · 1~8화 원작 자국 지우기 v33 · 대사 검수 v3 반영 · = v27 완복 · v25 LOCK 직후 3언어 동기화 v26 → 흐린 영어 정정 v27). 제목 My One-Night Dragon Lord. 이후 수정은 §4-1 수술 파이프라인으로 v26+.
+- 2026-09-22 **FINAL v35** = `07_final/34_storm_dragon_bride_FINAL_v35_CN&KO&EN.docx` + `.md`. v34 사후 스윕(sonnet · 82세트 세 언어 · 태그 241줄 · 회수선 3항 · 중복) → 마크업 누출 3줄(빌드 스크립트 오류) + 뜻 불일치 3줄 정정. 6줄. 변경 목록 = `34_storm_dragon_bride_v35_changes.md`. **교훈: 표 셀의 굵게·메모를 본문으로 넘기는 파서는 셀 전체가 아니라 문장만 추출해야 하고, 빌드 뒤 `**`·메모 잔존 grep을 게이트에 넣는다(이번부터 assert).**
+
+- 2026-09-18 **LOCK — 사용자 "마무리 인정".** 정본 = `07_final/34_storm_dragon_bride_FINAL_v35_CN&KO&EN.docx`(사후 스윕 v35 · 9~53화 B2 차별화 v34 · 1~8화 원작 자국 지우기 v33 · 대사 검수 v3 반영 · = v27 완복 · v25 LOCK 직후 3언어 동기화 v26 → 흐린 영어 정정 v27). 제목 My One-Night Dragon Lord. 이후 수정은 §4-1 수술 파이프라인으로 v26+.
 
 ## 제목 (2026-09-18 확정)
 **My One-Night Dragon Lord** — 사용자 확정. 잣대 = '샀다'가 아니라 원나잇 상대가 곧 드래곤 로드라는 사건 · 직접 성어 0 · 문장형이 아니라 명사구(히트작 제목 결 = 《One Night with the Dragon Lord》《Road of Lust》《Countdown King》처럼 구 하나). 기각 = I Bought the Dragon Lord for One Night(거래가 본질 아님) · The Stranger I Bought Was the Dragon Lord(같은 이유) · 문장형 후보 전부(주술목 완성 문장은 타이틀 결이 아님 — 사용자 교정). 차점 = Last Night's Stranger, Today's Dragon Lord · Sacrificed to My One-Night Stranger. docx는 본문 헤더 없이 시작하므로 문서 속성 제목에만 기록.
