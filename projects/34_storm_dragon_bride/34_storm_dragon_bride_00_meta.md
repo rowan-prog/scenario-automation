@@ -100,7 +100,9 @@
 
 - 2026-09-22 **FINAL v37** = `07_final/34_storm_dragon_bride_FINAL_v37_CN&KO&EN.docx` + `.md`. 5화 정체 인지 반응 컷(지문 1 + V.O. "군주님...? 어젯밤 내가 돈 주고 산 남자가... 용족 군주였어." — 원작에 없던 자리 · 콜드리드 opus 1순위 · 사용자 승인) + 2화 "Lower your eyes." → "When you talk to me, look at the floor." 11줄(+8). 변경 목록 = `34_storm_dragon_bride_v37_changes.md`.
 
-- 2026-09-18 **LOCK — 사용자 "마무리 인정".** 정본 = `07_final/34_storm_dragon_bride_FINAL_v37_CN&KO&EN.docx`(5화 정체 인지 V.O. v37 · 콜드리드 3곳 v36 · 사후 스윕 v35 · 9~53화 B2 차별화 v34 · 1~8화 원작 자국 지우기 v33 · 대사 검수 v3 반영 · = v27 완복 · v25 LOCK 직후 3언어 동기화 v26 → 흐린 영어 정정 v27). 제목 My One-Night Dragon Lord. 이후 수정은 §4-1 수술 파이프라인으로 v26+.
+- 2026-09-22 **FINAL v38** = `07_final/34_storm_dragon_bride_FINAL_v38_CN&KO&EN.docx` + `.md`. 사용자 "공간 워싱 부정합은 매우 곤란" → 3겹 검사(기계 씬 스캔·opus 전편·sonnet 클래스). 결과 = 실제 세계 잔재 1건(2화 "차가운 돌바닥") + 언어 하나만 다른 단어 4(51화 차가운 비늘·14화 city·12화 storm-fire·53화 KO 골든 아일스) + 표기 통일 2(36화 헤더 레이븐무어·25화 연병장) = 14줄. 이동 경로 10개·지명·도리안 불 색·설산 잔재·장치 얼음 전부 정합. 변경 목록 = `34_storm_dragon_bride_v38_changes.md`.
+
+- 2026-09-18 **LOCK — 사용자 "마무리 인정".** 정본 = `07_final/34_storm_dragon_bride_FINAL_v38_CN&KO&EN.docx`(세계 정합 v38 · 5화 정체 인지 V.O. v37 · 콜드리드 3곳 v36 · 사후 스윕 v35 · 9~53화 B2 차별화 v34 · 1~8화 원작 자국 지우기 v33 · 대사 검수 v3 반영 · = v27 완복 · v25 LOCK 직후 3언어 동기화 v26 → 흐린 영어 정정 v27). 제목 My One-Night Dragon Lord. 이후 수정은 §4-1 수술 파이프라인으로 v26+.
 
 ## 제목 (2026-09-18 확정)
 **My One-Night Dragon Lord** — 사용자 확정. 잣대 = '샀다'가 아니라 원나잇 상대가 곧 드래곤 로드라는 사건 · 직접 성어 0 · 문장형이 아니라 명사구(히트작 제목 결 = 《One Night with the Dragon Lord》《Road of Lust》《Countdown King》처럼 구 하나). 기각 = I Bought the Dragon Lord for One Night(거래가 본질 아님) · The Stranger I Bought Was the Dragon Lord(같은 이유) · 문장형 후보 전부(주술목 완성 문장은 타이틀 결이 아님 — 사용자 교정). 차점 = Last Night's Stranger, Today's Dragon Lord · Sacrificed to My One-Night Stranger. docx는 본문 헤더 없이 시작하므로 문서 속성 제목에만 기록.
