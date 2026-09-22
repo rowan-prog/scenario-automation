@@ -51,6 +51,8 @@ def load_map():
     m={}
     for cn,kr in [("_merge_cn.txt","_merge_kr.txt"),("_merge2_newlines_cn.txt","_merge2_newlines_kr.txt")]:
         a=open(cn,encoding="utf-8").read().split("\n"); b=open(kr,encoding="utf-8").read().split("\n")
+        while a and not a[-1].strip(): a.pop()
+        while b and not b[-1].strip(): b.pop()
         assert len(a)==len(b),(cn,len(a),len(b))
         for x,y in zip(a,b): m.setdefault(x.strip(),y.strip())
     return m
