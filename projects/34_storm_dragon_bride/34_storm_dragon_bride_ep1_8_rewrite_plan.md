@@ -110,3 +110,18 @@
 | 1156 | 8 오필리아 | (현재 유지) I need you... inside me... right now. | 자세·거칠기 주문으로 바뀌어 직진성 손실 |
 | 869 | 6 경비병 | (현재 유지) My Lord! Envoys from the human kingdom are here, asking to see you! | 대전 위치를 새로 박을 이유 없음 |
 최종 = 57줄 교체 + 7화 회상 지문 3줄. 한·중은 반영 시 유닛이 같은 뜻으로 작성 → 메인 대조.
+
+## F. 사전 맥락 검사(fresh-eyes opus · 57줄) 반영 (2026-09-22) — F가 최종
+| L | 화 | 최종 EN | 왜 |
+|---|---|---|---|
+| 207 | 1 오필리아 | Quiet... and put that mouth to work. | 도리안이 말하고 있지 않은데 "Stop talking" — 신음에 붙는 말로 |
+| 504 | 3 도리안 | Look at me, Princess. Or is the monster too much for you? | 504·520·551이 "비늘 보고 굳었다"를 세 번 반복 → 504는 겁 각도로 분리(뒤 "왜요? 울면서 빌기라도" 응수도 그대로 받음) |
+| 982 | 7 도리안 | Say his name, then. I'm listening. | 직전 V.O.와 "Another man's bed"로 똑같이 시작 |
+| 827 | 6 도리안 | Stop? Nobody says that word to me. | 28줄 뒤 "In this room, my rules."와 동형 |
+| 1061 | 8 자객 | Get into his bed and stay there. Make him need you. Then he does what we tell him. | "국왕이 뭘 원하냐" 질문에 "국왕이 원하는 걸 하게 해라"로 되돌아감 |
+| 94 | 1 비비안 | You're so much braver than I am, Sister. You wouldn't send me to that thing... would you? | "혼자 마주하게"는 같이 가 달라로 들림 → 대신 가 달라 |
+| 269 | 2 오필리아 | You sold me to save your own skin. And you think he's a prize worth stealing, you whore? | "won a prize"의 대상 불명 → 가릭이 그 상 |
+| 399 | 2 도리안 V.O. | That bite mark is mine. The woman from the inn is standing in my hall. | **B 철회** — 쇄골의 물린 자국 지문(L393)·1화 도리안이 문 비트 있음(메인 사실 오류 2번째) |
+| 86 | 1 국왕 | Put it on, Ophelia. You go instead of Vivian. Say no, and your mother takes her last dose tonight. | **B 철회** — 국왕이 웨딩드레스를 병상에 던지는 지문(L80) 있음 |
+2화 "찢겨 나간다" 3화자 반복(258·379·424)은 원작에도 있는 엔진 모티프(모두가 신부는 찢긴다고 믿음) → 유지.
+캐논 대조 클린(계약서 이름·대리 제물·여관 남자·로열 베놈·4화까지 지식 락·7화 회상 인용·회수선). 최종 = 57줄 + 회상 지문 3줄.
