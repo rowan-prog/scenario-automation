@@ -90,7 +90,9 @@
 
 - 2026-09-18 **FINAL v32** = `07_final/34_storm_dragon_bride_FINAL_v32_CN&KO&EN.docx` + `.md`. 대사 전수 검수(opus 2기 490줄 + 원작 영어 짝표 → 내 audit v2 41곳 → Codex 통합 판정으로 20곳 철회·4곳 추가 → 최종 24곳 37줄 · `_dialogue_audit_v3_merged.md`). 원작 영어 복귀(3화 moan·6화 Be a good girl·21화 Look at me·24화 last time·31화 almost gone·43화 use it…) + 영어 개선(2화 my trash·3화 dead eyes·17화 get better·29화 my own way·30화 harm·38화 with him·39화 went to use him·40화 my brave girl·43화 tearing at·44화 Follow your heart·53화 then 등). 한·중 동반 9곳. 선택 5(9화 take whatever·25화 Treat her as you would me·39화 No one controls me·43화 how we end·4화 tool)는 미반영. 변경 목록 = `34_storm_dragon_bride_v32_changes.md`.
 
-- 2026-09-18 **LOCK — 사용자 "마무리 인정".** 정본 = `07_final/34_storm_dragon_bride_FINAL_v32_CN&KO&EN.docx`(대사 검수 v3 반영 · = v27 완복 · v25 LOCK 직후 3언어 동기화 v26 → 흐린 영어 정정 v27). 제목 My One-Night Dragon Lord. 이후 수정은 §4-1 수술 파이프라인으로 v26+.
+- 2026-09-22 **FINAL v33** = `07_final/34_storm_dragon_bride_FINAL_v33_CN&KO&EN.docx` + `.md`. 1~8화 대사 원작 자국 지우기 57곳(1~3화 전부 34 · 4~8화 23) + 7화 회상 지문(Eyes here) + 11화 지문(귀→입술 동작 연결). 계획 `_ep1_8_rewrite_plan.md` A~G(외부 AI 2회·Codex·fresh-eyes 반영 · 잔혹함 복구·어색한 영어·없는 행동 기각 철회 2건). 공격 각도 = 돈·지위·자존심. 177줄. 변경 목록 = `34_storm_dragon_bride_v33_changes.md`. 다음 = 9~53화 B2(`_paid_rewrite_plan_B2.md` · 90줄 후보 · 승인 후 v34).
+
+- 2026-09-18 **LOCK — 사용자 "마무리 인정".** 정본 = `07_final/34_storm_dragon_bride_FINAL_v33_CN&KO&EN.docx`(1~8화 원작 자국 지우기 v33 · 대사 검수 v3 반영 · = v27 완복 · v25 LOCK 직후 3언어 동기화 v26 → 흐린 영어 정정 v27). 제목 My One-Night Dragon Lord. 이후 수정은 §4-1 수술 파이프라인으로 v26+.
 
 ## 제목 (2026-09-18 확정)
 **My One-Night Dragon Lord** — 사용자 확정. 잣대 = '샀다'가 아니라 원나잇 상대가 곧 드래곤 로드라는 사건 · 직접 성어 0 · 문장형이 아니라 명사구(히트작 제목 결 = 《One Night with the Dragon Lord》《Road of Lust》《Countdown King》처럼 구 하나). 기각 = I Bought the Dragon Lord for One Night(거래가 본질 아님) · The Stranger I Bought Was the Dragon Lord(같은 이유) · 문장형 후보 전부(주술목 완성 문장은 타이틀 결이 아님 — 사용자 교정). 차점 = Last Night's Stranger, Today's Dragon Lord · Sacrificed to My One-Night Stranger. docx는 본문 헤더 없이 시작하므로 문서 속성 제목에만 기록.

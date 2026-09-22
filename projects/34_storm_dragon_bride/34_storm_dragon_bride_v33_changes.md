@@ -1,0 +1,539 @@
+# v33 변경 목록 (2026-09-22) — 1~8화 대사 원작 자국 지우기 · 대사 57곳 + 지문 2세트 · 177줄
+
+정본 = `07_final/34_storm_dragon_bride_FINAL_v33_CN&KO&EN.docx` (v32 기준) · 계획 = `34_storm_dragon_bride_ep1_8_rewrite_plan.md`(A→B→D→E→F→G, G 최종) · 사건·비트·화자 톤 불변 · 영어 정본, 한·중 동반
+
+사용자: "1~8화가 원작과 거의 동일한 대사·비유를 그대로 써서 곤란. 살짝 바꿔라. 더 네이티브·더 열감. 특히 1~3화." 외부 AI 2회 검토 + Codex 통합 판정 + fresh-eyes 사전 맥락 검사 반영. 공격 각도 = 돈 낸 관계·선택받은 지위·상대 자존심(1화 `Beg you? I paid for you.` 등). 1~3화 34줄 전부, 4~8화 23줄.
+
+## 전후
+
+- L29
+  - 전: `多里安: 明天就要去喂那个怪物了，公主殿下。今晚……却爬上我的床来喂饱我？你就这么饥渴吗？`
+  - 후: `多里安: 明早那条龙就要把你带走了，公主殿下。最后一晚你却爬上一个陌生男人的床？你就这么饥渴吗？`
+- L30
+  - 전: `도리안: 내일이면 놈들이 공주님을 그 괴물의 먹이로 바치겠지. 그런데 오늘 밤은... 내 침대로 기어들어와 나를 배불리려는 건가? 그렇게 굶주렸어?`
+  - 후: `도리안: 내일 아침이면 용이 공주님을 데려가겠지. 그런데 마지막 밤을 낯선 남자 침대에 기어들어와 보내? 그렇게 굶주렸어?`
+- L31
+  - 전: `DORIAN: Tomorrow they feed you to that monster, Princess. Tonight you crawl into my bed to feed me? You're that hungry?`
+  - 후: `DORIAN: Dragon gets you in the morning, Princess. And you spend your last night climbing into a stranger's bed? That starved?`
+- L60
+  - 전: `母亲（虚弱，哭诉）: 不……龙族的婚约……明明定下的是薇薇安……不是我的女儿……`
+  - 후: `母亲（虚弱，哭诉）: 那份婚约上写的是薇薇安的名字……不是我的女儿……不是我的女儿啊……`
+- L61
+  - 전: `어머니: (쇠약하게, 울먹이며) 안 돼... 용족과의 혼인 계약은... 비비안을 위한 거였어... 내 딸이 아니야...`
+  - 후: `어머니: (쇠약하게, 울먹이며) 그 계약서에 적힌 건 비비안 이름이었어... 내 딸이 아니야... 내 딸이 아니라고...`
+- L62
+  - 전: `MOTHER: (weak, sobbing) No... the dragon pact was for Vivian... not my daughter...`
+  - 후: `MOTHER: (weak, sobbing) They signed Vivian's name on that pact... not my girl... not my girl...`
+- L68
+  - 전: `加里克: 看看她，一无是处。薇薇安才是王国的明珠，既然有废石可以扔给怪物，为什么要浪费一颗宝石？`
+  - 후: `加里克: 薇薇安值得我们保护。你一文不值。他要一个能撕碎的新娘，那就拿你去。`
+- L69
+  - 전: `가릭: 저 꼴을 봐, 아무 쓸모도 없잖아. 비비안이야말로 왕국의 진짜 보석인데, 버릴 쓰레기가 있으면서 왜 보석을 괴물에게 낭비해?`
+  - 후: `가릭: 비비안은 지켜 줄 가치가 있지. 넌 아무 가치도 없고. 그자가 찢어발길 신부가 필요하다면 너를 가지면 돼.`
+- L70
+  - 전: `GARRICK: Take a good look at her. Worthless. Vivian's the real prize in this kingdom. Why feed a monster a jewel when we've got garbage lying around?`
+  - 후: `GARRICK: Vivian is worth protecting. You aren't worth a damn. If he needs a bride to tear apart, he can have you.`
+- L76
+  - 전: `母亲: 他会在新婚之夜撕碎每一任新娘！你这是逼我的女儿去送死！`
+  - 후: `母亲: 他会在新婚之夜把新娘撕碎！你明明知道！你明明知道，还是要把她送过去！`
+- L77
+  - 전: `어머니: 그자는 신혼 첫날밤마다 신부를 찢어발겨요! 내 딸을 죽음으로 떠미는 거예요!`
+  - 후: `어머니: 그자는 첫날밤에 신부를 찢어발겨요! 알면서! 알면서도 내 딸을 보내는 거잖아요!`
+- L78
+  - 전: `MOTHER: He tears every bride apart on her wedding night! You're sending my daughter to die!`
+  - 후: `MOTHER: He tears his brides apart on the wedding night! You know that! You know that and you're still sending her!`
+- L84
+  - 전: `国王: 代替你妹妹嫁给那个怪物，奥菲莉娅。如果你拒绝，今晚就停掉你母亲的药。`
+  - 후: `国王: 穿上，奥菲莉娅。你替薇薇安去。敢说不，今晚就是你母亲最后一副药。`
+- L85
+  - 전: `국왕: 네 동생 대신 그 괴물과 결혼해, 오필리아. 거절하면 오늘 밤부터 네 어머니 약은 끊긴다.`
+  - 후: `국왕: 입어, 오필리아. 비비안 대신 네가 간다. 싫다고 하면 오늘 밤이 네 어미 마지막 약이다.`
+- L86
+  - 전: `KING: Marry the beast in your sister's place, Ophelia. Refuse, and your mother loses her medicine tonight.`
+  - 후: `KING: Put it on, Ophelia. You go instead of Vivian. Say no, and your mother takes her last dose tonight.`
+- L92
+  - 전: `薇薇安: 姐姐，求求你……我太害怕了……你那么坚强，一定会替我去的对吗？`
+  - 후: `薇薇安: 姐姐比我勇敢多了。你不会把我送到那个东西那里去吧……对吧？`
+- L93
+  - 전: `비비안: 언니, 제발... 너무 무서워요... 언니는 강하잖아. 저 대신 가 줄 거죠?`
+  - 후: `비비안: 언니는 나보다 훨씬 용감하잖아요. 설마 나를 그 괴물한테 보내진 않을 거죠... 그렇죠?`
+- L94
+  - 전: `VIVIAN: Sister, please... I'm so scared... You've always been the strong one. You'll go in my place, right?`
+  - 후: `VIVIAN: You're so much braver than I am, Sister. You wouldn't send me to that thing... would you?`
+- L100
+  - 전: `奥菲莉娅: 我会嫁给那个野兽。`
+  - 후: `奥菲莉娅: 好。我去那条龙那里。`
+- L101
+  - 전: `오필리아: 그 짐승이랑 결혼할게.`
+  - 후: `오필리아: 알겠어. 내가 그 용한테 갈게.`
+- L102
+  - 전: `OPHELIA: I'll marry the beast.`
+  - 후: `OPHELIA: Fine. I'll go to the dragon.`
+- L136
+  - 전: `奥菲莉娅: 求你？你算什么东西。你只不过是我死前点的一道菜。`
+  - 후: `奥菲莉娅: 求你？我花钱买了你。该问我想要什么的人是你。`
+- L137
+  - 전: `오필리아: 빌라고? 네가 뭔데? 넌 내가 마지막 식사로 주문한 요리일 뿐이야.`
+  - 후: `오필리아: 빌라고? 내가 돈 주고 널 샀어. 내가 뭘 원하는지 묻는 쪽은 너야.`
+- L138
+  - 전: `OPHELIA: Beg you? Who the hell do you think you are? You're just the dish I ordered for my last meal.`
+  - 후: `OPHELIA: Beg you? I paid for you. You should be asking what I want.`
+- L153
+  - 전: `奥菲莉娅（呼吸急促，眼神狂热且充满占有欲）: 我的明天属于王国……也属于死亡。但是今晚……`
+  - 후: `奥菲莉娅（呼吸急促，眼神狂热且充满占有欲）: 明天我就是一个怪物的东西了。但是今晚……`
+- L154
+  - 전: `오필리아: (가쁜 숨, 광적이고 소유욕 가득한 눈빛) 내일의 나는 왕국의 것이고... 죽음의 것이야. 하지만 오늘 밤은...`
+  - 후: `오필리아: (가쁜 숨, 광적이고 소유욕 가득한 눈빛) 내일이면 난 괴물의 것이야. 하지만 오늘 밤은...`
+- L155
+  - 전: `OPHELIA: (breathless, eyes wild with possessive hunger) Tomorrow, they're sending me to die. But tonight...`
+  - 후: `OPHELIA: (breathless, eyes wild with possessive hunger) Tomorrow I belong to a monster. But tonight...`
+- L164
+  - 전: `奥菲莉娅（霸道）: 只属于我自己。`
+  - 후: `奥菲莉娅（霸道）: 今晚，你是我的。`
+- L165
+  - 전: `오필리아: (단호하게) 오늘 밤은 내 거야.`
+  - 후: `오필리아: (단호하게) 오늘 밤, 넌 내 거야.`
+- L166
+  - 전: `OPHELIA: (commanding) Tonight is mine.`
+  - 후: `OPHELIA: (commanding) Tonight, you're mine.`
+- L205
+  - 전: `奥菲莉娅: 闭嘴……好好伺候我。`
+  - 후: `奥菲莉娅: 闭嘴……把那张嘴用起来。`
+- L206
+  - 전: `오필리아: 닥치고... 제대로 모시기나 해.`
+  - 후: `오필리아: 닥치고... 그 입 제대로 써.`
+- L207
+  - 전: `OPHELIA: Shut up... and serve me.`
+  - 후: `OPHELIA: Quiet... and put that mouth to work.`
+- L222
+  - 전: `多里安（OS）: 诅咒……竟然平息了。他们到底……把怎样一个女人送上了我的床？`
+  - 후: `多里安（OS）: 诅咒停了。她一碰我，就这么停了。他们到底把谁送上了我的床？`
+- L223
+  - 전: `도리안 (V.O.): 저주가... 잠잠해졌어. 대체 어떤 여자를 내 침대로 보낸 거지?`
+  - 후: `도리안 (V.O.): 저주가 멈췄어. 저 여자가 날 만지니까 그냥 멈췄어. 대체 누굴 내 침대에 들여보낸 거지?`
+- L224
+  - 전: `DORIAN (V.O.): The curse... it's quiet. What kind of woman did they send to my bed?`
+  - 후: `DORIAN (V.O.): The curse stopped. She touched me and it just stopped. Who did they put in my bed?`
+- L248
+  - 전: `加里克: 你被剥夺了皇室头衔。从现在起，你只是一个用来送死的祭品。`
+  - 후: `加里克: 戒指留在王国。你不留。迈过那道门，你就不是公主了，你是我们付出去的东西。`
+- L249
+  - 전: `가릭: 넌 이제 왕족이 아니야. 지금부터 넌 죽으러 가는 제물일 뿐이지.`
+  - 후: `가릭: 반지는 왕국에 남는다. 넌 아니고. 저 문을 넘어가면 넌 공주가 아니야. 우리가 치른 값이지.`
+- L250
+  - 전: `GARRICK: Your title's gone. As of now, you're just a body we're sending off to die.`
+  - 후: `GARRICK: The ring stays with the kingdom. You don't. Past those gates you're not a princess — you're what we paid.`
+- L256
+  - 전: `薇薇安: 可怜的奥菲莉娅。龙族领主只会把肮脏的祭品撕成碎片。我会记得派人来替你收尸的。`
+  - 후: `薇薇安: 真可怜。他会在天亮之前把新娘开膛。放心，我会让他们把你的骨头送回来的。`
+- L257
+  - 전: `비비안: 불쌍한 오필리아. 용족 군주는 더러운 제물을 갈기갈기 찢어 버리거든. 네 시체나 거두러 사람을 보내 줄게.`
+  - 후: `비비안: 가엾어라. 그분은 밤이 끝나기도 전에 신부를 갈라 놓는대. 걱정 마, 네 뼈는 집으로 보내 달라고 부탁해 줄게.`
+- L258
+  - 전: `VIVIAN: Poor thing. The Dragon Lord tears dirty offerings to shreds. I'll have someone come scrape up what's left of you.`
+  - 후: `VIVIAN: Poor you. He tears his brides open before the night is over. Don't worry, I'll ask them to send your bones home.`
+- L267
+  - 전: `奥菲莉娅: 一个用未婚妻换取苟活的懦夫，和一个只配捡我丢下的破烂的婊子。你们俩还真是绝配。`
+  - 후: `奥菲莉娅: 你为了保住自己的命把我卖了。而你觉得这种货色值得抢，是吗，婊子？`
+- L268
+  - 전: `오필리아: 약혼녀를 팔아 제 목숨만 건진 겁쟁이랑, 내가 버린 쓰레기나 주워 먹는 창녀. 너희 둘 참 잘 어울린다.`
+  - 후: `오필리아: 넌 제 목숨 하나 건지겠다고 날 팔았어. 그리고 넌 저런 걸 빼앗아 놓고 상이라도 탄 줄 알아, 이 창녀야?`
+- L269
+  - 전: `OPHELIA: A coward who sold his fiancee to save his own skin. And a whore who picks up my trash. You two deserve each other.`
+  - 후: `OPHELIA: You sold me to save your own skin. And you think he's a prize worth stealing, you whore?`
+- L312
+  - 전: `萨布丽娜: 一个脆弱无能的人类，家里还有一个快死的老妈。你以为你是来当新娘的？你只是王的玩物罢了。`
+  - 후: `萨布丽娜: 人类，一碰就碎，还有个快死的老妈，你连回去看一眼都做不到。没人会娶你，小可怜。他用完你，房间由我们来收拾。`
+- L313
+  - 전: `사브리나: 약해 빠진 쓸모없는 인간에, 집에는 반쯤 죽은 엄마까지 있지. 네가 신부가 되러 왔다고 생각해? 넌 용족 군주의 장난감일 뿐이야.`
+  - 후: `사브리나: 인간이고, 부서지기 쉽고, 죽어 가는 어미한테 돌아가지도 못하지. 아무도 너랑 결혼 안 해, 아가씨. 그분이 널 쓰고 나면 우리가 방을 치우는 거야.`
+- L314
+  - 전: `SABRINA: A weak little human with a half-dead mother back home. You think you're a bride? You're the Lord's toy.`
+  - 후: `SABRINA: Human. Breakable. A dying mother you can't even go home to. Nobody's marrying you, sweetheart. He uses you, then we clean the room.`
+- L320
+  - 전: `奥菲莉娅: 玩具，也许吧。但我流着皇室的血，我走进这扇门是因为我有资格站在这里。`
+  - 후: `奥菲莉娅: 他也许会用我。可我是以国王女儿的身份走进这扇门的。你们谁能这么说？`
+- L321
+  - 전: `오필리아: 장난감? 그럴 수도 있지. 하지만 내 피에는 왕실의 피가 흐르고, 난 여기 있을 자격이 있으니까 저 문으로 들어온 거야.`
+  - 후: `오필리아: 쓰다 버릴 수도 있겠지. 하지만 난 국왕의 딸로 저 문을 걸어 들어왔어. 너희 중에 그렇게 말할 수 있는 사람 있어?`
+- L322
+  - 전: `OPHELIA: A toy, maybe. But my blood is royal, and I walked through that door because I belong here.`
+  - 후: `OPHELIA: Maybe he'll use me. But I walked in as the King's daughter. Which of you can say that?`
+- L328
+  - 전: `奥菲莉娅: 看看你们。穿着廉价的丝绸，像发情的野狗一样乞求一个怪物的注意。我才是名正言顺的王冠新娘。跟我说话，记得低头。`
+  - 후: `奥菲莉娅: 穿丝绸也变不成皇室。你们不过是一群等着被挑走的骚货。他的新娘是我。把眼睛放低。`
+- L329
+  - 전: `오필리아: 너희 꼴을 봐. 싸구려 비단이나 걸치고, 발정 난 들개처럼 괴물의 관심을 구걸하잖아. 정식 왕관 신부는 나야. 나한테 말할 땐 고개를 숙여.`
+  - 후: `오필리아: 비단 걸친다고 왕족 되는 거 아니야. 너희는 간택되기만 기다리는 안달 난 창녀들이고. 그분의 신부는 나야. 눈 내리깔아.`
+- L330
+  - 전: `OPHELIA: Look at all of you. Cheap silk, begging for a monster's attention like bitches in heat. I'm the true Crowned Bride here. Keep your eyes on the floor when you talk to me.`
+  - 후: `OPHELIA: Silk won't make you royalty. You're a pack of desperate sluts waiting to be picked. I'm his bride. Lower your eyes.`
+- L339
+  - 전: `萨布丽娜: 你这个傲慢的贱人！今晚你就会第一个被拖上他的床，我等着听你的悲鸣！`
+  - 후: `萨布丽娜: 你这个傲慢的小贱人！行，今晚你先进去。我就在那扇门外听着。`
+- L340
+  - 전: `사브리나: 이 오만한 년! 오늘 밤 그자의 침대로 제일 먼저 끌려갈 건 너야. 네 비명 소리가 벌써부터 기다려지는군!`
+  - 후: `사브리나: 이 오만한 년! 그래, 오늘 밤 네가 먼저 들어가. 난 그 문 바로 밖에서 듣고 있을 테니까.`
+- L341
+  - 전: `SABRINA: You arrogant slut! You'll be the first they drag into his bed tonight, and I can't wait to hear you scream!`
+  - 후: `SABRINA: You arrogant little bitch! Fine, you go in first tonight. I'll be right outside that door, listening.`
+- L347
+  - 전: `多里安: 一个人类新娘，竟敢在我城堡发号施令。`
+  - 후: `多里安: 谁教这个人类在我的地盘上发号施令的？`
+- L348
+  - 전: `도리안: 인간 신부가 내 성에서 명령을 내려?`
+  - 후: `도리안: 누가 인간한테 내 집에서 명령하는 법을 가르쳤지?`
+- L349
+  - 전: `DORIAN: A human bride, barking orders under my roof?`
+  - 후: `DORIAN: Who taught the human to give orders in my house?`
+- L361
+  - 전: `奥菲莉娅: 身为王，却无法平息自己的后宫，难怪你需要一个正统王室的新娘。`
+  - 후: `奥菲莉娅: 你连自己的女人都管不住。难怪你得往那张床上弄一个皇室血脉。`
+- L362
+  - 전: `오필리아: 왕이라는 자가 제 후궁조차 다스리지 못하니, 정통 왕실 신부가 필요할 수밖에 없겠지.`
+  - 후: `오필리아: 제 여자들 하나 단속 못 하는군. 왕실 피를 그 침대에 들여야 했던 이유가 있었어.`
+- L363
+  - 전: `OPHELIA: A king who can't control his own harem. No wonder you need a royal bride.`
+  - 후: `OPHELIA: You can't even make your own women behave. No wonder you needed royal blood in that bed.`
+- L369
+  - 전: `多里安: 薇薇安……人类国王那颗珍贵的明珠。`
+  - 후: `多里安: 薇薇安。人类国王答应给我的那个女儿。`
+- L370
+  - 전: `도리안: 비비안... 인간 국왕의 귀한 보석.`
+  - 후: `도리안: 비비안. 인간 국왕이 나한테 주기로 한 딸.`
+- L371
+  - 전: `DORIAN: Vivian... the human king's prized little gem.`
+  - 후: `DORIAN: Vivian. The daughter the human king promised me.`
+- L377
+  - 전: `多里安: 还站得住？我倒要看看，等我把你撕成碎片的时候，你还能不能保持这份傲慢。`
+  - 후: `多里安: 这里除了你，所有人都趴在地上。等我开始一块一块拆了你，看你还能站多久。`
+- L378
+  - 전: `도리안: 아직도 서 있나? 내가 널 찢어발길 때도 그 오만함을 유지할 수 있는지 보지.`
+  - 후: `도리안: 여기서 너 빼고 전부 바닥에 엎드렸군. 내가 널 하나씩 뜯어내기 시작하면 얼마나 오래 서 있는지 보지.`
+- L379
+  - 전: `DORIAN: Still on your feet? Let's find out how far that arrogance gets you once I rip you apart.`
+  - 후: `DORIAN: Everyone here is on the floor except you. Let's see how long you stay upright once I start taking you apart.`
+- L397
+  - 전: `多里安（OS）: 怎么会是她？！昨晚那个女人？！`
+  - 후: `多里安（OS）: 那个咬痕是我留下的。客栈里那个女人，正站在我的大殿上。`
+- L398
+  - 전: `도리안 (V.O.): 잠깐... 저 여자라고? 어젯밤 그 여자?!`
+  - 후: `도리안 (V.O.): 저 물린 자국, 내가 낸 거야. 여관의 그 여자가 내 대전에 서 있어.`
+- L399
+  - 전: `DORIAN (V.O.): Hold on. Her? She's the one from the inn?!`
+  - 후: `DORIAN (V.O.): That bite mark is mine. The woman from the inn is standing in my hall.`
+- L422
+  - 전: `萨布丽娜（OS）: 婊子，今晚等着在他的床上被撕碎吧。`
+  - 후: `萨布丽娜（OS）: 你就坐在上面吧，贱人。没有人能完整地从那张床上下来。`
+- L423
+  - 전: `사브리나 (V.O.): 이 년. 오늘 밤 그자의 침대에서 찢겨 나갈 테니 기다려.`
+  - 후: `사브리나 (V.O.): 거기 앉아 있어라, 이 년. 그 침대에서 멀쩡히 내려온 년은 없어.`
+- L424
+  - 전: `SABRINA (V.O.): Slut. Tonight, he rips you apart in that bed. Just you wait.`
+  - 후: `SABRINA (V.O.): Sit up there, bitch. Nobody leaves that bed in one piece.`
+- L444
+  - 전: `侍卫: 领主大人，此刻在您房里的新娘不是约定好的公主，而是替嫁的弃女，奥菲莉娅。`
+  - 후: `侍卫: 领主大人。他们送来的不是婚约上的那位公主。此刻在您房里的是奥菲莉娅，人类国王丢弃的女儿。`
+- L445
+  - 전: `경비병: 군주님, 군주님의 침실에 있는 신부는 약속된 공주가 아닙니다. 대리로 온 인간 국왕의 버림받은 딸, 오필리아입니다.`
+  - 후: `경비병: 군주님. 계약서의 그 공주를 보낸 게 아닙니다. 군주님 침실에 있는 여자는 인간 국왕이 내다 버린 딸, 오필리아입니다.`
+- L446
+  - 전: `GUARD: My Lord, the woman in your chamber isn't the princess you were promised. They sent a substitute — the human king's cast-off daughter, Ophelia.`
+  - 후: `GUARD: My Lord. They didn't send the princess from the pact. The one in your chamber is Ophelia, the daughter the human king threw away.`
+- L452
+  - 전: `多里安: 在婚前最后一夜跑去买春，却连自己睡的是龙族领主都不知道的女人……`
+  - 후: `多里安: 婚前一晚跑出去给自己买了个男人。到现在还不知道自己上的是谁的床。`
+- L453
+  - 전: `도리안: 결혼 전 마지막 밤에 남자를 사러 나갔으면서, 자기가 용족 군주와 잔 줄은 꿈에도 몰랐던 바로 그 여자라...`
+  - 후: `도리안: 결혼 전날 밤에 나가서 남자를 사 왔다 이거지. 그런데 자기가 누구 침대에 있었는지는 아직도 몰라.`
+- L454
+  - 전: `DORIAN: She paid for sex the night before her wedding... and never knew the man she bought was me.`
+  - 후: `DORIAN: So she went out and bought herself a man the night before the wedding. And she still doesn't know whose bed she was in.`
+- L456
+  - 전: `多里安: 在客栈，我差点因为诅咒失控龙化的时候，她的触碰竟然缓解了它。有点意思。我倒要看看，这只小野猫想玩什么把戏。`
+  - 후: `多里安: 在那个房间里鳞片冒了出来，她的手一碰又压了回去。从来没人做到过。她到底想玩什么？`
+- L457
+  - 전: `도리안: 여관에서 저주 때문에 용으로 변할 뻔했을 때, 저 여자 손길이 저주를 잠재웠지. 흥미롭군. 이 작은 들고양이가 무슨 수작을 부리는지 보자고.`
+  - 후: `도리안: 그 방에서 비늘이 올라왔는데, 저 여자 손이 그걸 도로 집어넣었어. 그런 사람은 지금까지 없었지. 저 여자, 무슨 속셈이지?`
+- L458
+  - 전: `DORIAN: At the inn, the curse almost made me shift. Her touch stopped it. Interesting. Let's see what game this little wildcat is playing.`
+  - 후: `DORIAN: The scales came out in that room, and her hand put them back. No one has ever done that. So what's her game?`
+- L494
+  - 전: `多里安（OS）: 她怎么回事？昨晚在我身下明明像只野猫，现在却像具尸体？`
+  - 후: `多里安（OS）: 昨晚她把我的嘴唇咬破了。现在连动都不动。是同一个女人？`
+- L495
+  - 전: `도리안 (V.O.): 왜 저러지? 어젯밤 내 아래에서는 들고양이 같더니, 지금은 시체처럼 누워 있어?`
+  - 후: `도리안 (V.O.): 어젯밤엔 내 입술을 물어뜯었어. 지금은 꼼짝도 안 해. 같은 여자 맞아?`
+- L496
+  - 전: `DORIAN (V.O.): What happened to her? Last night she was a wildcat beneath me, and now she's lying there like a corpse?`
+  - 후: `DORIAN (V.O.): Last night she bit my lip open. Now she won't even move. Same woman?`
+- L502
+  - 전: `多里安: 怎么了？高贵的公主殿下，是被怪物吓得连动都不敢动了吗？`
+  - 후: `多里安: 看着我，公主殿下。还是说，这个怪物你受不住？`
+- L503
+  - 전: `도리안: 왜 그러지? 고귀한 공주님은 괴물이 무서워서 움직일 수도 없나?`
+  - 후: `도리안: 날 봐, 공주님. 아니면 괴물이 감당이 안 되나?`
+- L504
+  - 전: `DORIAN: What's wrong, Princess? Too frightened of a monster to even move?`
+  - 후: `DORIAN: Look at me, Princess. Or is the monster too much for you?`
+- L518
+  - 전: `多里安（OS）: 只看外表的肤浅女人！对着长着漂亮脸蛋的陌生人主动投怀送抱，对着我这副模样就摆出死鱼眼！`
+  - 후: `多里安（OS）: 对着一张漂亮脸蛋她的手就停不下来。轮到这身鳞片？她一脸无聊。`
+- L519
+  - 전: `도리안 (V.O.): 겉모습만 보는 얕은 여자군. 잘생긴 낯을 한 낯선 남자에게는 먼저 안겨 들더니, 내 이 모습 앞에서는 죽은 눈을 해?`
+  - 후: `도리안 (V.O.): 잘생긴 얼굴한테는 손을 못 떼더니. 이 비늘 앞에서는? 지루하다는 얼굴이군.`
+- L520
+  - 전: `DORIAN (V.O.): Shallow little thing. She threw herself at some pretty-faced stranger, but one look at my real face and she gives me those dead eyes.`
+  - 후: `DORIAN (V.O.): She couldn't keep her hands off a pretty face. But these scales? Now she looks bored.`
+- L526
+  - 전: `奥菲莉娅（淡然，没有表情）: 不继续了吗？如果你需要，我也可以叫出声。`
+  - 후: `奥菲莉娅（淡然，没有表情）: 要我叫出声吗？我可以装。`
+- L527
+  - 전: `오필리아: (담담하게, 무표정으로) 안 할 건가요? 신음 소리가 필요하면 낼 수도 있어요.`
+  - 후: `오필리아: (담담하게, 무표정으로) 신음 소리라도 내 드릴까요? 연기는 할 수 있어요.`
+- L528
+  - 전: `OPHELIA: (flat, expressionless) Are you done? I can moan for you, if that's what you need.`
+  - 후: `OPHELIA: (flat, expressionless) Would it help if I moaned? I can pretend.`
+- L549
+  - 전: `多里安（得意OS）: 呵。厌恶龙形态如同怪物的我，却对我这副人类皮囊毫无抵抗力吗？肤浅的女人，看我怎么让你再次乖乖臣服。`
+  - 후: `多里安（得意OS）: 原来她受不了的是鳞片。好啊。我倒要看看这张脸她怎么扛。`
+- L550
+  - 전: `도리안 (V.O.): (득의양양하게) 하. 괴물 같은 내 용의 모습은 싫어하면서 이 인간의 껍데기는 거부 못 하겠다고? 좋아. 다시 복종하게 만들어 주지.`
+  - 후: `도리안 (V.O.): (득의양양하게) 못 견디는 건 비늘이었군. 좋아. 이 얼굴은 어떻게 버티는지 보자.`
+- L551
+  - 전: `DORIAN (V.O.): (smug) Hah. She hates the dragon, but she can't say no to this human face. Fine. I'll bring her to her knees again.`
+  - 후: `DORIAN (V.O.): (smug) So it's the scales she can't stand. Fine. Let's see her resist this face.`
+- L560
+  - 전: `奥菲莉娅: 再往前走一步，我就把你的心挖出来。`
+  - 후: `奥菲莉娅: 再走一步，这把刀就从你胸口穿过去。`
+- L561
+  - 전: `오필리아: 한 걸음만 더 와. 네 심장을 도려낼 테니까.`
+  - 후: `오필리아: 한 걸음만 더 와. 이게 네 가슴을 뚫고 나갈 거야.`
+- L562
+  - 전: `OPHELIA: Come one step closer and I'll carve out your heart.`
+  - 후: `OPHELIA: One more step and this goes through your chest.`
+- L579
+  - 전: `多里安: 你以为一把小刀就能把我赶走？`
+  - 후: `多里安: 你就挑了这么一把刀来拦我？`
+- L580
+  - 전: `도리안: 조그만 칼 하나로 날 쫓아낼 수 있다고 생각해?`
+  - 후: `도리안: 날 막겠다고 고른 칼이 그거야?`
+- L581
+  - 전: `DORIAN: You really think that toy knife scares me off?`
+  - 후: `DORIAN: That's the blade you picked to stop me?`
+- L595
+  - 전: `奥菲莉娅: 其次，昨晚你只是我选择的工具。除了试过你强壮的肉体，你在我眼中跟其他发情的雄性没有任何区别。`
+  - 후: `奥菲莉娅: 其次，昨晚我要的是你的身体，我已经拿到了。你从头到尾就只是这个。`
+- L596
+  - 전: `오필리아: 둘째, 어젯밤 넌 내가 고른 도구였을 뿐이야. 그 튼튼한 몸은 이미 써 봤고. 넌 발정 난 다른 수컷들이랑 다를 게 없어.`
+  - 후: `오필리아: 둘째, 어젯밤엔 네 몸이 필요했고, 이미 가졌어. 넌 그 이상이 될 일이 없어.`
+- L597
+  - 전: `OPHELIA: Second, last night you were a tool I picked. I've had that body already. You're just another animal in heat.`
+  - 후: `OPHELIA: Second, I wanted your body last night, and I've had it. That's all you were ever going to be.`
+- L603
+  - 전: `奥菲莉娅: 最后，你擅闯我的婚房。我现在就可以以领主妻子的身份，直接处死你。`
+  - 후: `奥菲莉娅: 第三，没有人放你进这个房间。我是领主的妻子。我现在就能让你死在站着的地方。`
+- L604
+  - 전: `오필리아: 마지막으로, 넌 내 신방에 멋대로 들어왔어. 군주의 아내로서 지금 당장 널 처형할 수도 있어.`
+  - 후: `오필리아: 그리고 셋째, 이 방에 널 들인 사람은 아무도 없어. 난 군주의 아내야. 선 자리에서 널 죽일 수 있어.`
+- L605
+  - 전: `OPHELIA: And last, you broke into my wedding chamber. As the Lord's wife, I can have you executed right now.`
+  - 후: `OPHELIA: And third, no one let you into this room. I'm the Lord's wife. I can have you killed where you stand.`
+- L648
+  - 전: `萨布丽娜: 给我拿下！我就知道这个贱人在背叛领主！把这对奸夫淫妇抓起来！`
+  - 후: `萨布丽娜: 拿下！这个婊子在领主的床上跟别的男人搅在一起。把他们两个现在就拖出去！`
+- L649
+  - 전: `사브리나: 잡아! 저 년이 군주님 몰래 바람피우는 줄 알았어! 저 년이랑 샛서방 놈 끌고 가!`
+  - 후: `사브리나: 잡아! 저 년이 군주님 침대에서 딴 남자랑 있어. 둘 다 당장 끌어내!`
+- L650
+  - 전: `SABRINA: Grab them! I knew it — she's been cheating on the Lord! Drag that whore and her lover out of here!`
+  - 후: `SABRINA: Take them! The whore's in the Lord's own bed with another man. Drag them both out, now!`
+- L673
+  - 전: `多里安（戏谑OS）: 这个女人嘴硬心软，还不得乖乖想办法保护我。`
+  - 후: `多里安（戏谑OS）: 嘴这么毒，却还是舍不得让他们砍我。来吧，公主殿下。救我。`
+- L674
+  - 전: `도리안 (V.O.): (희롱하듯) 말은 독해도 속은 물러. 어떻게 날 지키는지 보자고.`
+  - 후: `도리안 (V.O.): (희롱하듯) 입은 그렇게 험하면서, 내가 베이는 건 안 두고 보는군. 어디 해 봐, 공주님. 날 구해 보라고.`
+- L675
+  - 전: `DORIAN (V.O.): (teasing) Sharp mouth, soft heart underneath. Let's see just how far you'll go to cover for me.`
+  - 후: `DORIAN (V.O.): (teasing) All that mouth, and she still won't let them cut me. Go on, Princess. Save me.`
+- L689
+  - 전: `萨布丽娜: 这里戒备森严！分明是你自己把奸夫放进来的！`
+  - 후: `萨布丽娜: 没人能越过我的守卫！那扇门是你自己打开的！`
+- L690
+  - 전: `사브리나: 여긴 경비가 삼엄해! 네가 샛서방을 몰래 들인 게 틀림없어!`
+  - 후: `사브리나: 내 병사들을 뚫고 들어올 놈은 없어! 네가 직접 그 문을 열어 준 거야!`
+- L691
+  - 전: `SABRINA: This place is crawling with guards! You must have let your secret lover in!`
+  - 후: `SABRINA: Nobody gets past my guards! You opened that door yourself!`
+- L697
+  - 전: `奥菲莉娅: 他就在这里。你们随时可以处死他。但我是领主的王冠新娘，你们无权审判我！`
+  - 후: `奥菲莉娅: 喏，人给你们。要割喉就割。但这座城堡里没有人有资格审判领主的王冠新娘！`
+- L698
+  - 전: `오필리아: 여기 있잖아. 언제든 처형해. 하지만 난 군주의 왕관 신부야. 너희한테 날 심판할 권리는 없어!`
+  - 후: `오필리아: 여기. 데려가. 목을 따러 왔으면 따. 하지만 이 성에서 군주의 왕관 신부를 심판할 수 있는 자는 없어!`
+- L699
+  - 전: `OPHELIA: He's standing right there. Execute him if you like. But I am the Lord's Crowned Bride, and none of you gets to judge me!`
+  - 후: `OPHELIA: Here. Take him. Cut his throat if that's what you came for. But no one in this castle puts the Lord's Crowned Bride on trial!`
+- L708
+  - 전: `萨布丽娜: 我倒要看看你放了一个什么样的野男人进来！`
+  - 후: `萨布丽娜: 火把。我要看看她宁可选他也不选领主的那张脸。`
+- L709
+  - 전: `사브리나: 네가 이 방으로 몰래 들인 남자가 대체 어떤 놈인지 보자!`
+  - 후: `사브리나: 횃불. 저 년이 군주님 대신 고른 얼굴을 봐야겠어.`
+- L710
+  - 전: `SABRINA: Show me exactly what kind of man you snuck in here!`
+  - 후: `SABRINA: Torch. I want to see the face she chose over the Lord.`
+- L736
+  - 전: `多里安（暴怒，龙啸声震耳欲聋）: 该死！你竟敢打扰我和公主的新婚之夜，不想被开膛就给我滚出去！`
+  - 후: `多里安（暴怒，龙啸声震耳欲聋）: 我的新婚之夜，你们踹开了那扇门。滚出去，不然我把你们开膛。`
+- L737
+  - 전: `도리안: (격노, 귀를 찢는 용의 포효) 이 자식들! 감히 공주와의 신혼 첫날밤을 방해해? 배를 가르기 전에 꺼져!`
+  - 후: `도리안: (격노, 귀를 찢는 용의 포효) 내 첫날밤에 그 문을 걷어차? 꺼져, 안 그러면 배를 갈라 주지.`
+- L738
+  - 전: `DORIAN: (furious, a deafening dragon roar) Damn you all! You dare barge in on my wedding night with the princess?! Get out before I gut you!`
+  - 후: `DORIAN: (furious, a deafening dragon roar) You kicked in that door on my wedding night. Get out, or I'll rip you open.`
+- L778
+  - 전: `奥菲莉娅: 所以，伟大的巨龙领主只能躲在人类的皮囊里？`
+  - 후: `奥菲莉娅: 整个王国怕的就是这张脸？`
+- L779
+  - 전: `오필리아: 그래서, 위대한 용족 군주가 인간 가죽 뒤에 숨어 있었던 거야?`
+  - 후: `오필리아: 온 왕국이 무서워하는 얼굴이 이거야?`
+- L780
+  - 전: `OPHELIA: The great Dragon Lord, hiding in human skin?`
+  - 후: `OPHELIA: This is the face the whole kingdom is terrified of?`
+- L790
+  - 전: `多里安（嗓音沙哑，带着非人的回音）: 如你所愿，公主殿下。但你要小心了。`
+  - 후: `多里安（嗓音沙哑，带着非人的回音）: 好啊，公主殿下。只是别中途叫我停下。`
+- L791
+  - 전: `도리안: (쉰 목소리, 인간이 아닌 울림) 바라는 대로 해 주지. 조심하는 게 좋을 거야, 공주님.`
+  - 후: `도리안: (쉰 목소리, 인간이 아닌 울림) 좋아, 공주님. 대신 중간에 멈추라는 말은 하지 마.`
+- L792
+  - 전: `DORIAN: (rasping, inhuman) As you wish, Princess. Careful what you ask for.`
+  - 후: `DORIAN: (rasping, inhuman) All right, Princess. Just don't ask me to stop halfway.`
+- L825
+  - 전: `多里安: 听着，这里可不是你说了算的地方。公主`
+  - 후: `多里安: 停下？没人敢对我说这两个字。`
+- L826
+  - 전: `도리안: 여기서 명령하는 건 네가 아니야, 공주님.`
+  - 후: `도리안: 멈춰? 나한테 그런 말 하는 놈은 없어.`
+- L827
+  - 전: `DORIAN: You don't give me orders, Princess.`
+  - 후: `DORIAN: Stop? Nobody says that word to me.`
+- L836
+  - 전: `奥菲莉娅: 看着我。如果你怀念那晚的感觉，节奏由我来定。`
+  - 후: `奥菲莉娅: 看这里。还想要客栈那一晚？那我不开口，你就不许动。`
+- L837
+  - 전: `오필리아: 날 봐. 그날 밤 그 느낌을 원한다면, 속도는 내가 정해.`
+  - 후: `오필리아: 여기 봐. 여관에서의 그 밤을 또 원해? 그럼 내가 말할 때까지 움직이지 마.`
+- L838
+  - 전: `OPHELIA: Eyes on me. If you want that night again, I set the pace.`
+  - 후: `OPHELIA: Eyes here. You want the inn again? Then you don't move until I say.`
+- L886
+  - 전: `奥菲莉娅: 我想听听，我的王国打算怎么处置我。`
+  - 후: `奥菲莉娅: 去吧。他们来说我什么，我都要听。`
+- L887
+  - 전: `오필리아: 내 왕국이 날 어떻게 하려는지 듣고 싶어.`
+  - 후: `오필리아: 가. 저들이 나에 대해 무슨 말을 하러 왔든, 난 그걸 듣고 싶어.`
+- L888
+  - 전: `OPHELIA: I want to hear what my kingdom plans to do with me.`
+  - 후: `OPHELIA: Go. Whatever they came to say about me, I want to hear it.`
+- L894
+  - 전: `多里安: 乖乖躺在这等我。`
+  - 후: `多里安: 就待在那儿。就这个样子别动。我很快回来。`
+- L895
+  - 전: `도리안: 착하게 누워서 날 기다려.`
+  - 후: `도리안: 거기 그대로 있어. 딱 그 모습 그대로. 금방 올 테니까.`
+- L896
+  - 전: `DORIAN: Be a good girl. Lie here and wait for me.`
+  - 후: `DORIAN: Stay right there. Exactly like that. I won't be long.`
+- L898
+  - 전: `多里安（目光扫过奥菲莉娅赤裸的身体）: 敢把衣服穿好……我就把它撕碎。`
+  - 후: `多里安（目光扫过奥菲莉娅赤裸的身体）: 等我回来，你身上要是还挂着什么……我就用牙给你咬下来。`
+- L899
+  - 전: `도리안: (오필리아의 벗은 몸을 훑으며) 그 옷 다시 입어 봐... 내가 찢어 버릴 테니까.`
+  - 후: `도리안: (오필리아의 벗은 몸을 훑으며) 내가 돌아왔을 때 몸에 뭐라도 걸쳐져 있으면... 이로 벗겨 줄 거야.`
+- L900
+  - 전: `DORIAN: (eyeing Ophelia's bare body) Put those clothes back on... and I'll tear them off you.`
+  - 후: `DORIAN: (eyeing Ophelia's bare body) If there's anything on you when I walk back in... I'll take it off with my teeth.`
+- L920
+  - 전: `加里克: 领主大人，既然我们履行了契约献上了公主……我们希望龙族能割让北部三座矿山。`
+  - 후: `加里克: 领主大人。公主已经进了您的城堡，我们这一半做完了。北部那三座矿山现在归我们。`
+- L921
+  - 전: `가릭: 군주님, 저희가 계약을 지켜 공주를 바쳤으니... 용족은 북부의 광산 세 곳을 넘겨주시길 청합니다.`
+  - 후: `가릭: 군주님. 공주는 이 성에 들어와 있습니다. 저희 몫은 그걸로 끝났습니다. 이제 북부의 광산 세 곳은 저희 겁니다.`
+- L922
+  - 전: `GARRICK: My Lord, we kept our side of the pact. We sent you our princess. Now hand over the three northern mines.`
+  - 후: `GARRICK: My Lord. The princess is in your castle. That was our half. The three mines in the north are ours now.`
+- L948
+  - 전: `薇薇安: 领主大人，奥菲莉娅只是个廉价的替代品！真正的新娘是我。`
+  - 후: `薇薇安: 领主大人，他们把错的女儿送给了您！婚约上写的名字是我的。`
+- L949
+  - 전: `비비안: 군주님, 오필리아는 싸구려 대리 신부일 뿐이에요! 진짜 신부는 저예요.`
+  - 후: `비비안: 군주님, 저들이 엉뚱한 딸을 드린 거예요! 그 계약서에 적힌 이름은 제 이름이에요.`
+- L950
+  - 전: `VIVIAN: My Lord, Ophelia is a cheap substitute! I'm your real bride.`
+  - 후: `VIVIAN: My Lord, they gave you the wrong daughter! The name in that pact is mine.`
+- L956
+  - 전: `薇薇安: 她在婚前夜私自离宫彻夜未归。谁知道她爬上了哪个陌生男人的床？她很不干净。她根本配不上成为您的王后。`
+  - 후: `薇薇安: 她来这里的前一晚偷偷溜出王宫，直到天亮才回来。那一夜她是在别的男人床上过的。您要给这样一个婊子戴上王冠吗？`
+- L957
+  - 전: `비비안: 오필리아는 결혼 전날 밤 몰래 궁을 빠져나가 밤새 돌아오지 않았어요. 어느 낯선 남자의 침대로 기어들어 갔는지 누가 알겠어요? 저 여자는 더러워요. 군주님의 왕후가 될 자격이 없어요.`
+  - 후: `비비안: 저 여자는 여기 오기 전날 밤 궁을 몰래 빠져나가 해 뜰 때까지 안 돌아왔어요. 딴 남자 침대에서 밤을 보낸 거예요. 그런 년한테 왕관을 씌우시겠어요?`
+- L958
+  - 전: `VIVIAN: She slipped out of the palace the night before her own wedding and never came back till morning. Who knows whose bed she crawled into? She's used goods. She has no business being your Queen.`
+  - 후: `VIVIAN: The night before she came here, she slipped out of the palace and didn't come back till sunrise. She spent it in another man's bed. And you're going to put a crown on that whore?`
+- L968
+  - 전: `△奥菲莉娅跨坐在多里安身上，用命令的口吻让他"Stop"和"Look at me"的火辣画面。`
+  - 후: `△奥菲莉娅跨坐在多里安身上，用命令的口吻对他说"停下"和"看这里"的火辣画面。`
+- L969
+  - 전: `△오필리아가 도리안 위에 올라타 명령하듯 "멈춰"와 "날 봐"라고 말하던 뜨거운 장면.`
+  - 후: `△오필리아가 도리안 위에 올라타 명령하듯 "멈춰"와 "여기 봐"라고 말하던 뜨거운 장면.`
+- L970
+  - 전: `△A flash of Ophelia straddling Dorian, commanding "Stop" and "Look at me."`
+  - 후: `△A flash of Ophelia straddling Dorian, commanding "Stop" and "Eyes here."`
+- L976
+  - 전: `多里安（OS）: 那个把她弄得不干净的陌生男人，就在你们眼前。`
+  - 후: `多里安（OS）: 别的男人的床。那个男人就在你眼前。`
+- L977
+  - 전: `도리안 (V.O.): 저 여자를 '더럽힌' 낯선 남자는 바로 네 눈앞에 서 있다.`
+  - 후: `도리안 (V.O.): 딴 남자의 침대라. 그 남자를 지금 눈앞에 두고 있군.`
+- L978
+  - 전: `DORIAN (V.O.): The stranger who ruined her is standing right in front of you.`
+  - 후: `DORIAN (V.O.): Another man's bed. You're looking right at him.`
+- L980
+  - 전: `多里安: 陌生男人的床？真有趣。`
+  - 후: `多里安: 那就说出他的名字。我听着。`
+- L981
+  - 전: `도리안: 낯선 남자의 침대? 흥미롭군.`
+  - 후: `도리안: 그럼 그 남자 이름을 말해 봐. 듣고 있어.`
+- L982
+  - 전: `DORIAN: Some stranger's bed? Now that's interesting.`
+  - 후: `DORIAN: Say his name, then. I'm listening.`
+- L988
+  - 전: `多里安: 告诉我。如果我接受了这位"真正的"新娘……你们打算怎么处置那个冒牌货？`
+  - 후: `多里安: 回答我。我改留下这一个……那另一个去哪儿？`
+- L989
+  - 전: `도리안: 말해 봐. 내가 이 "진짜" 신부를 받아들인다면... 가짜는 어떻게 할 생각이지?`
+  - 후: `도리안: 이건 대답해 봐. 내가 이 여자를 대신 데리고 있는다면... 다른 여자는 어디로 가지?`
+- L990
+  - 전: `DORIAN: Tell me. If I take this 'true' bride... what happens to the fake one?`
+  - 후: `DORIAN: Answer me this. I keep this one instead... where does the other one go?`
+- L1059
+  - 전: `死士（收起匕首，逼近一步）: 国王要你去勾引龙族领主。成为他的软肋，替我们控制他。`
+  - 후: `死士（收起匕首，逼近一步）: 爬上他的床，然后待在上面。让他离不开你。到那时候，我们说什么他就做什么。`
+- L1060
+  - 전: `자객: (단검을 거두고 한 걸음 다가서며) 국왕은 네가 용족 군주를 유혹하길 원한다. 군주의 약점이 돼서, 우리 대신 군주를 조종해.`
+  - 후: `자객: (단검을 거두고 한 걸음 다가서며) 그자의 침대에 들어가서 눌러앉아. 널 필요로 하게 만들어. 그럼 그자는 우리가 시키는 대로 한다.`
+- L1061
+  - 전: `ASSASSIN: (sheathing the dagger, stepping closer) The King's orders. Seduce the Dragon Lord. Become his weakness, and control him for us.`
+  - 후: `ASSASSIN: (sheathing the dagger, stepping closer) Get into his bed and stay there. Make him need you. Then he does what we tell him.`
+- L1453
+  - 전: `△多里安把嘴贴在奥菲莉娅的耳边，热气全喷在她耳廓上。`
+  - 후: `△多里安的嘴唇擦过奥菲莉娅的耳廓，热气全喷在上面，随后一路蹭下来，顺着她的下颌移向她的唇。`
+- L1454
+  - 전: `△도리안이 오필리아의 귀에 입을 붙인다. 뜨거운 숨이 오필리아의 귓바퀴에 그대로 쏟아진다.`
+  - 후: `△도리안의 입술이 오필리아의 귓바퀴를 스친다. 뜨거운 숨이 그대로 쏟아지고, 도리안의 입술은 오필리아의 턱선을 따라 내려와 그녀의 입술 쪽으로 향한다.`
+- L1455
+  - 전: `△Dorian PRESSES his mouth to Ophelia's ear, his hot breath spilling over it.`
+  - 후: `△Dorian's lips GRAZE Ophelia's ear, his hot breath spilling over it, then slide down along her jaw toward her mouth.`
