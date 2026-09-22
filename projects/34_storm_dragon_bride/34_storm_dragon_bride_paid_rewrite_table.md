@@ -1,6 +1,6 @@
 # 9~53화 B2 재작성 표 — 승인용 (2026-09-22 · v33 기준 · 대본 미수정)
 
-계획 = `_paid_rewrite_plan_B2.md`. 유닛 3기(9~23 / 24~38 / 39~53) 90건 → 교체 84 · 유지 6 → 메인 판정: 교체 83(메인 손질 3) · 유지 7. 줄번호는 v33 기준(1~8화 변경은 줄 수 불변이라 v32와 동일). 반영 시 앵커 = 화자+현재 EN 전문. KO/CN "유지" = 현재 한·중이 이미 새 영어와 같은 뜻.
+계획 = `_paid_rewrite_plan_B2.md`. 유닛 3기(9~23 / 24~38 / 39~53) 90건 → 교체 84 · 유지 6 → 메인 판정 + fresh-eyes 사전 검사(83줄 · 보호선 침범 0 · 캐논 클린): 교체 82 · 유지 8. 줄번호는 v33 기준(1~8화 변경은 줄 수 불변이라 v32와 동일). 반영 시 앵커 = 화자+현재 EN 전문. KO/CN "유지" = 현재 한·중이 이미 새 영어와 같은 뜻.
 
 ## 9~23화 (교체 33 · 유지 3)
 | L | 화 | 현재 EN | → 새 EN | KO | CN |
@@ -38,7 +38,7 @@
 | 2347 | 20 가릭 | Kill him! Whoever cuts off the Dragon Lord's head will be made a noble! | Kill him! Bring me the Dragon Lord's head and I'll make you a noble! | (흉악하게) 죽여라! 용족 군주의 목을 가져오는 자에겐 내가 작위를 내리겠다! | (面目狰狞) 杀了他！谁把龙族领主的人头拿给我，我就封他做贵族！ |
 | 2583 | 22 오필리아 V.O. | If I keep pushing him to attack the King now, it'll only put him in more danger. And he might suspect something. | Push him at the King now and I only get him killed. And he'll start wondering why I'm pushing. | 지금 국왕을 치라고 부추기면 도리안만 죽게 만들 뿐이야. 게다가 왜 이렇게 서두르는지 의심하기 시작할 거고. | 现在再撺掇他去打国王，只会把他往死路上推。而且他会开始怀疑我为什么这么急。 |
 | 2610 | 22 도리안 | Once we've recovered a little, I'll take you home. | 유지(기능 대사) | — | — |
-| 2680 | 23 오필리아 V.O. | I have to use his blood to hold back the poison first. | His blood keeps the poison down. I need more of it. | 도리안의 피가 독을 눌러 줘. 더 받아 내야 해. | 他的血能压住毒。我得再要一些。 |
+| 2680 | 23 오필리아 V.O. | I have to use his blood to hold back the poison first. | **유지**(사전 검사: 12줄 앞 V.O. "his dragon blood is keeping the poison down!"과 같은 말 재진술) | — | — |
 | 2702 | 23 도리안 | You're still too weak. Do you know what you're doing? | You can barely sit up. Do you know what you're asking for? | 몸도 제대로 못 가누면서. 지금 뭘 조르는지는 알아? | 你连坐都坐不稳。你知道自己在要什么吗？ |
 | 2710 | 23 오필리아 | Your touch... makes me feel alive, my Lord. Stay with me. | Only your hands are keeping me alive, my Lord. Don't leave me. | 당신 손길만이 나를 살아 있게 해요, 군주님. 가지 말아요. | 只有你的手让我还活着，领主大人。别走。 |
 
@@ -48,7 +48,7 @@
 | 2845 | 24 오필리아 V.O. | Please forgive me, Dorian... this is the last time I'll use you. | **I'm sorry, Dorian... Just this once more. Then never again.**(메인 — 유닛안은 v26에서 뺀 "I'll never use you again" 복귀라 형태 변경) | 미안해, 도리안... 이번 한 번만 더. 그다음엔 다신 안 해. | 对不起，多里安……就再这一次。以后再也不会了。 |
 | 2888 | 25 오필리아 V.O. | With this terrifying army, I can easily tear down the King's castle and get revenge for my mother... | An army like this... I could level the King's castle and make him pay for my mother. | 이런 군대라면... 국왕의 성을 무너뜨리고, 어머니 값을 치르게 할 수 있어. | 有这样一支军队……我能踏平国王的城堡，让他为我母亲偿命。 |
 | 2904 | 25 오필리아 V.O. | He just recovered, and I'm still thinking about how to use him as a weapon? | He's barely back on his feet, and all I see is a weapon? | 도리안은 겨우 몸을 일으켰는데, 내 눈엔 아직도 무기로만 보여? | 他才刚能站起来，我眼里却还只看得见一件武器？ |
-| 2934 | 25 도리안 ★ | Her word is my word! From today on, her command is my command. Her enemies are your enemies! | You take her orders the way you take mine! She points at a man, you kill him! Don't look to me first! | 오필리아의 명령을 내 명령처럼 받아라! 오필리아가 누굴 가리키면, 죽여라! 나부터 쳐다보지 마라! | 她的命令，你们当作我的命令来领！她指谁，你们就杀谁！不许先看我！ |
+| 2934 | 25 도리안 ★ | Her word is my word! From today on, her command is my command. Her enemies are your enemies! | **You take her orders the way you take mine! She points at a man, you kill him!**(사전 검사: "나부터 쳐다보지 마라"를 다음 화 첫 장면에서 장군이 도리안 귀에 속삭이며 그대로 위반 → 삭제) | 오필리아의 명령을 내 명령처럼 받아라! 오필리아가 누굴 가리키면, 죽여라! | 她的命令，你们当作我的命令来领！她指谁，你们就杀谁！ |
 | 2953 | 25 도리안 ★ | My Queen, use my army. Your wish is all the reason I need. | The army is yours, my Queen. You don't have to give me a reason. | 군대는 네 거야, 내 왕후. 나한테 이유 댈 필요 없어. | 军队是你的，我的王后。你不需要给我理由。 |
 | 2961 | 25 오필리아 V.O. ★ | He's not just giving me an army... he's giving me his whole heart and soul. | He didn't just hand me an army... He handed me himself. | 도리안은 군대만 준 게 아니야... 자기 자신을 통째로 줬어. | 他给我的不只是军队……他把他自己整个给了我。 |
 | 3025 | 26 도리안 | No. Until the Queen gives the order to attack, no one moves. | No. Nobody moves until the Queen says so. | 안 된다. 왕후가 말하기 전까진 아무도 움직이지 마라. | 不行。王后不开口，谁都不准动。 |
@@ -65,9 +65,9 @@
 | 3424 | 30 도리안 | Do something! I didn't keep you alive to watch her die! | Do something! **What do I keep you for** — to stand there and watch her die?!(메인: feed→keep) | 뭐라도 해! 내가 너희를 왜 두는데, 거기 서서 오필리아 죽는 거 구경하라고?! | 做点什么！我留着你们是干什么用的，站在那儿看着她死吗？！ |
 | 3447 | 30 장로 A(발화만) | But it's extremely dangerous! You must cut open your chest and bind her poison to your own life force. With your heart still healing... this could kill you! | But the risk is beyond anything! You have to cut your chest open and tie her poison to your own life force. Your heart is still torn... this will likely kill you! | (연신 고개를 저으며) 하지만 위험이 상상을 넘습니다! 가슴을 갈라 왕후님의 독을 군주님 목숨에 묶어야 합니다. 심장은 아직 찢어진 채입니다... 이러면 목숨을 잃으실 겁니다! | (连连摇头) 可这危险得超乎想象！您必须割开胸口，把她的毒绑在您自己的命脉上。您的心脉还是裂的……这很可能会要了您的命！ |
 | 3451 | 30 도리안 | My life is hers anyway. Tell me the spell. Now! | She owns my life already. Teach me the ritual, old man. Now! | 내 목숨은 이미 오필리아 거야. 주술을 가르쳐, 노인. 당장! | 我这条命早就是她的了。把这个仪式教给我，老家伙。现在！ |
-| 3473 | 30 도리안 | By my blood and soul! I bind my life to hers! Her pain is my pain, her death is my death! | By my blood and my soul! I take her poison into my body! If she falls, I fall with her! | 내 피와 내 영혼으로 맹세한다! 오필리아의 독을 내 몸으로 받는다! 오필리아가 쓰러지면 나도 같이 쓰러진다! | 以我的血与我的灵魂起誓！我把她的毒接进我的身体！她倒下，我就跟着倒下！ |
+| 3473 | 30 도리안 | By my blood and soul! I bind my life to hers! Her pain is my pain, her death is my death! | **By my blood and my soul! What tears at her tears at me! If she falls, I fall with her!**(사전 검사: 유닛안 "독을 통째로 가져간다"는 반씩 나눔 규격·32화 재발작과 충돌 → 분담형) | 내 피와 내 영혼으로 맹세한다! 오필리아를 찢는 것은 나도 찢는다! 오필리아가 쓰러지면 나도 같이 쓰러진다! | 以我的血与我的灵魂起誓！撕裂她的，也要撕裂我！她倒下，我就跟着倒下！ |
 | 3569 | 31 도리안 | What are you looking at? You should be resting in bed. | 유지(기능 대사) | — | — |
-| 3589 | 31 도리안 | Silly girl. Don't be afraid. You're healed now. | Silly girl. It's over. The poison is gone. | 바보 같긴. 다 끝났어. 독은 사라졌어. | 傻女孩。都过去了。毒已经没了。 |
+| 3589 | 31 도리안 | Silly girl. Don't be afraid. You're healed now. | **Silly girl. Stop staring at it. It's fading, that's all.**(사전 검사: "사라졌다"는 거울 속 옅어진 독맥·32화 재발작과 정면충돌) | 바보 같긴. 그만 들여다봐. 옅어지고 있잖아, 그뿐이야. | 傻女孩。别盯着看了。它在变淡，仅此而已。 |
 | 3615 | 32 가릭 | Your Majesty! The Dragon Lord is insane. He burned the marriage treaty, humiliated our kingdom, and threw us out like trash! | Your Majesty! That beast is out of his mind! He burned the treaty to ash in my hands and had us dragged out like garbage! | 폐하! 그 짐승은 제정신이 아닙니다! 제 손안에서 국서를 재로 태우고, 우릴 쓰레기처럼 끌어내게 했습니다! | 陛下！那头畜生疯了！他在我手里把国书烧成了灰，还让人把我们像垃圾一样拖了出去！ |
 | 3691 | 32 도리안 | It's just... an old wound acting up. I need some air. Stay here and rest. | It's nothing... an old wound. I'll walk it off. Stay in bed. | 아무것도 아니야... 오래된 상처야. 걷다 보면 가라앉아. 넌 침대에 있어. | 没什么……旧伤而已。我走走就好。你留在床上。 |
 | 3732 | 33 오필리아 V.O. | He hasn't come to see me all day... He looked so pale. What's wrong with him? | A whole day and he hasn't come near me... His face had no color left. Something is wrong with him. | (걱정하며) 하루가 다 가도록 내 곁에 오지 않았어... 얼굴엔 핏기가 하나도 없었고. 도리안한테 무슨 일이 있어. | (OS担忧) 整整一天他都没靠近我……他的脸上一点血色都没有。他出事了。 |
@@ -91,7 +91,7 @@
 | 4634 | 41 국왕 | Hahaha! I was wondering how she was still alive! So you bound her poison to yourself! | Hahaha! So that's how the girl's still breathing! You tied her poison to your own life! | 하하하! 저 여자가 아직 숨 쉬는 이유가 그거였군! 그 여자의 독을 네 목숨에 묶어 둔 거야! | 哈哈哈！原来她还喘着气是因为这个！你把她的毒绑在了自己的命上！ |
 | 4867 | 43 장군 | The King says the Dragon Clan is finished either way. If you live, the Black Sun will turn you into his puppet. | The King's telling everyone the clan is doomed either way. If you live, the Black Sun makes a puppet out of you. | 국왕이 용족은 어느 쪽이든 끝났다고 떠들고 다닙니다. 군주님이 살아 계시면, 검은 태양이 군주님을 꼭두각시로 만든다고요. | 国王到处在说，龙族横竖都完了。您活着，黑日就把您变成一具傀儡。 |
 | 5004 | 44 장로 | He can only survive in human form. Weak, almost mortal. | He'd live. But only as a human. Weak. Barely more than mortal. | (한숨 쉬며) 살아남으시긴 합니다. 다만 인간의 몸으로만요. 힘을 잃고, 평범한 인간과 다를 게 없어집니다. | (叹息) 他能活。可只能以人的身子活。虚弱，跟凡人没什么两样。 |
-| 5074 | 44 도리안 | It's all right. I know you just haven't found your answer yet. | Don't. You don't have to know the answer yet. | 됐어. 지금 답을 몰라도 돼. | 别想了。你现在不必知道答案。 |
+| 5074 | 44 도리안 | It's all right. I know you just haven't found your answer yet. | **Shh. You don't have to know the answer yet.**(사전 검사: "Don't."가 직전 화자 장로를 향한 제지로 먼저 들림) | 쉿. 지금 답을 몰라도 돼. | 嘘。你现在不必知道答案。 |
 | 5108 | 45 국왕 V.O. | Wake up, my dragon. Burn for your king. | 유지(주술 명령 8단어) | — | — |
 | 5127 | 45 장로 | My Queen! Now is the time. The Lord can still be saved! | My Queen! Use it now! We can still save him! | (다급하게) 왕후님! 지금 쓰세요! 아직 군주님을 구할 수 있습니다! | (焦急) 王后！现在就用！领主还能救回来！ |
 | 5237 | 46 장군 | That's a death trap. If you go, you'll die! | That place is a **killing ground**. You won't come back!(메인: slaughter→killing ground) | 유지(그곳은 사지입니다. 가시면 돌아오지 못하십니다!) | 那是个死地，去了就回不来！ |
@@ -104,4 +104,4 @@
 | 5801 | 52 도리안 | If it weren't for revenge... would you still choose me? | Say there was no revenge. Would you still have picked me? | 복수 같은 게 아예 없었다고 해봐. 그래도 날 골랐을까? | 假如根本没有复仇。你还会选我吗？ |
 | 5809 | 52 오필리아 | Yes. I would choose you a thousand times. | 유지(최대 감정 응답 · 다음 보호선과 한 쌍) | — | — |
 
-★ = 우선 구간(14·25·29·38화 문답 묶음). 집계 = 교체 83 · 유지 7. 보호선 침범 0(유닛 3기 각자 확인 + 메인 확인).
+★ = 우선 구간(14·25·29·38화 문답 묶음). 집계 = 교체 82 · 유지 8(사전 검사로 23화 1건 유지 전환 · 30·31·25·44화 4건 메인 수정 · 28화 collar 3회는 직후 멱살 잡는 동작의 되돌려주기라 유지). 보호선 침범 0(유닛 3기 각자 확인 + 메인 확인).
