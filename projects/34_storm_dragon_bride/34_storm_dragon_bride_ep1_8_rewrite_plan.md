@@ -125,3 +125,11 @@
 | 86 | 1 국왕 | Put it on, Ophelia. You go instead of Vivian. Say no, and your mother takes her last dose tonight. | **B 철회** — 국왕이 웨딩드레스를 병상에 던지는 지문(L80) 있음 |
 2화 "찢겨 나간다" 3화자 반복(258·379·424)은 원작에도 있는 엔진 모티프(모두가 신부는 찢긴다고 믿음) → 유지.
 캐논 대조 클린(계약서 이름·대리 제물·여관 남자·로열 베놈·4화까지 지식 락·7화 회상 인용·회수선). 최종 = 57줄 + 회상 지문 3줄.
+
+## G. 외부 재검토 2차(2026-09-22 · E 기준) 반영 — G가 최종
+①207·②94·기각 근거 2(399·86)는 F에서 이미 처리. 새로 받은 것:
+| L | 화 | 최종 EN | 왜 |
+|---|---|---|---|
+| 363 | 2 오필리아 | You can't even make your own women behave. No wonder you needed royal blood in that bed. | "계약으로 아내를 구했군"은 연애 능력 조롱으로 약해짐 → 왕실 지위를 무기로 통치 능력 비웃기 복구 |
+| 78 | 1 어머니 | He tears his brides apart on the wedding night! You know that! You know that and you're still sending her! | "살아 나온 신부 없음"으로 일반화된 잔혹함 → 찢어 죽인다 복구, 뒤 비난은 유지 |
+최종 = 57줄 + 7화 회상 지문 3줄 + 11화 지문 3줄(귀→입술로 내려오는 동작). 승인 대기.
