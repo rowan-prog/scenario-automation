@@ -132,3 +132,5 @@
 
 ## 제목 (2026-09-18 확정)
 **My One-Night Dragon Lord** — 사용자 확정. 잣대 = '샀다'가 아니라 원나잇 상대가 곧 드래곤 로드라는 사건 · 직접 성어 0 · 문장형이 아니라 명사구(히트작 제목 결 = 《One Night with the Dragon Lord》《Road of Lust》《Countdown King》처럼 구 하나). 기각 = I Bought the Dragon Lord for One Night(거래가 본질 아님) · The Stranger I Bought Was the Dragon Lord(같은 이유) · 문장형 후보 전부(주술목 완성 문장은 타이틀 결이 아님 — 사용자 교정). 차점 = Last Night's Stranger, Today's Dragon Lord · Sacrificed to My One-Night Stranger. docx는 본문 헤더 없이 시작하므로 문서 속성 제목에만 기록.
+
+- 2026-09-23 **FINAL v51** = `07_final/34_storm_dragon_bride_FINAL_v51_CN&KO&EN.docx` + `.md`. 1화 오필리아 "今晚是我的。你也是。/ 오늘 밤은 내 거야. 그리고 너도. / Tonight's mine. And so are you."(사용자 제안 · KO만 짧게 다듬음) + 문서 첫 줄 타이틀 My One-Night Dragon Lord 삽입. 변경 목록 = `34_storm_dragon_bride_v51_changes.md`.
