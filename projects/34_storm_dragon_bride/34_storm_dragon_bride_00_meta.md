@@ -142,3 +142,5 @@
 - 2026-09-23 **FINAL v53** = `07_final/My One-Night Dragon Lord_FINAL_v53_CN&KO&EN.docx` + `.md`. 분량 압축 — 없어도 앞뒤 안 바뀌는 지문 43세트 129줄 삭제(2.1%), 대사·수위·클리프 0. opus 6기 후보 46 → Fable 맥락 대조 43 채택·3 기각. 변경 목록 = `34_storm_dragon_bride_v53_changes.md`.
 
 - 2026-09-23 **FINAL v54** = `07_final/My One-Night Dragon Lord_FINAL_v54_CN&KO&EN.docx` + `.md`. Codex v53 제작 재검토 반영 25줄 — 영어 대사 2(22화 V.O. · 46화 국왕 「Is that... all you've got?」) · 중문 지문 문장 교정 13 · 27화 눈 색 冰蓝 통일 · 50화 오필리아 눈 通红. 기각 = 27화 `Your revenge.` 추가 · 50화 장로 심장 대사. 변경 목록 = `34_storm_dragon_bride_v54_changes.md`.
+
+- 2026-09-23 **FINAL v55** = `07_final/My One-Night Dragon Lord_FINAL_v55_CN&KO&EN.docx` + `.md`. 광고 소재용 나체·탈의 완화 25세트(찢어 벗김→깃·어깨끈·옷자락 흐트러짐, 몸 노출 문장 삭제, "입은 채" 명시 0 — 사용자 교정) + 50화 장로 심장 대사 = 손상 표현(Codex 후속 의견). 베드씬·접촉 비트 전부 유지. 변경 목록 = `34_storm_dragon_bride_v55_changes.md`.
