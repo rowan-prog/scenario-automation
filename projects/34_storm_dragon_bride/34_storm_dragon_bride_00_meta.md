@@ -156,3 +156,5 @@
 - 2026-09-23 **FINAL v60** = `07_final/My One-Night Dragon Lord_FINAL_v60_CN&KO&EN.docx` + `.md`. 외부 v59 재검토 반영 영어 대사 5곳(1화 비비안 → 국왕에게 · 19화 Who dares · 22화 cure · 24화 Kill whoever · 48화 Get lost) + 1·22화 한·중 동기화. 50화 구성 불변. 변경 목록 = `34_storm_dragon_bride_v60_changes.md`.
 
 - 2026-09-23 **FINAL v61** = `07_final/My One-Night Dragon Lord_FINAL_v61_CN&KO&EN.docx` + `.md`. 사용자 "원작 그대로는 아니되 개구려졌다" → v33·v34 원작 자국 지우기로 약해진 대사 20곳 복구(보석/쓰레기 비유·폭로 순서·먹이 말장난·놀람·유혹 열감·맹세문 등). 1화 도리안 V.O. = "What the hell is she?!"(사용자). 변경 목록 = `34_storm_dragon_bride_v61_changes.md`.
+
+- 2026-09-23 **러닝타임 판단 = v61 그대로 확정(사용자).** 원작 완성본 67분 42초(감독 타이트 연출). v61 vs 원작 = 영어 대사 4,932 vs 4,948단어 · 지문 동작 882 vs 874 · 중문 지문 3.13만 vs 2.93만 자(묘사 밀도 차이, 동작 수는 거의 같음) → 같은 템포 기준 약 68분 · 70분까지 여유 약 2분. 지문 추가 압축 안 함. **이후 수정 시 동작 수·대사 단어 수를 늘리지 말 것**(70분 상한).
