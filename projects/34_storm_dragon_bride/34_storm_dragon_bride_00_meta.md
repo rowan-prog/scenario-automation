@@ -152,3 +152,5 @@
 - 2026-09-23 **FINAL v58** = `07_final/My One-Night Dragon Lord_FINAL_v58_CN&KO&EN.docx` + `.md`. 전수 검사(sonnet 3기 · 대사 492/지문 882 · 원작 이름 PASS) + Codex v57 fresh-eye 5건(1·3·29화 영어 대사 · 35-2 헤딩 · 45화 조각 손) + 17화 反手 오역 + 재귀 '제' 18곳. 33줄. 변경 목록 = `34_storm_dragon_bride_v58_changes.md`.
 
 - 2026-09-23 **FINAL v59 = 총 50화** = `07_final/My One-Night Dragon Lord_FINAL_v59_CN&KO&EN.docx` + `.md`. 무료 1~8 불변 · 본문 삭제 0 · 끊는 자리만 이동해 약한 엔딩 4개(옛 21·25·26·49) 제거: 21=옛21+22 / 24=옛25+26앞(「What's wrong?」에서 절단) / 25=옛26뒤+27 / 47=옛49+50. 번호 대조표 = `34_storm_dragon_bride_v59_changes.md`.
+
+- 2026-09-23 **FINAL v60** = `07_final/My One-Night Dragon Lord_FINAL_v60_CN&KO&EN.docx` + `.md`. 외부 v59 재검토 반영 영어 대사 5곳(1화 비비안 → 국왕에게 · 19화 Who dares · 22화 cure · 24화 Kill whoever · 48화 Get lost) + 1·22화 한·중 동기화. 50화 구성 불변. 변경 목록 = `34_storm_dragon_bride_v60_changes.md`.
