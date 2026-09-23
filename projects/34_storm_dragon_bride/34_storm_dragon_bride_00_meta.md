@@ -146,3 +146,5 @@
 - 2026-09-23 **FINAL v55** = `07_final/My One-Night Dragon Lord_FINAL_v55_CN&KO&EN.docx` + `.md`. 광고 소재용 나체·탈의 완화 25세트(찢어 벗김→깃·어깨끈·옷자락 흐트러짐, 몸 노출 문장 삭제, "입은 채" 명시 0 — 사용자 교정) + 50화 장로 심장 대사 = 손상 표현(Codex 후속 의견). 베드씬·접촉 비트 전부 유지. 변경 목록 = `34_storm_dragon_bride_v55_changes.md`.
 
 - 2026-09-23 **FINAL v56** = `07_final/My One-Night Dragon Lord_FINAL_v56_CN&KO&EN.docx` + `.md` = v54 + 50화 심장 대사(3줄)만. **v55 탈의 완화는 사용자 원복 지시로 전량 되돌림**(노출 유지). v55 = 폐기본 보관. 변경 목록 = `34_storm_dragon_bride_v56_changes.md`.
+
+- 2026-09-23 **FINAL v57** = `07_final/My One-Night Dragon Lord_FINAL_v57_CN&KO&EN.docx` + `.md`. Codex v56 검토 반영 — 6화 첫 장면 의상을 5화 파손 상태(찢긴 잔여 천)와 맞춤 2세트 6줄. 그 외 지적 없음·확정 오류 0. 변경 목록 = `34_storm_dragon_bride_v57_changes.md`.
