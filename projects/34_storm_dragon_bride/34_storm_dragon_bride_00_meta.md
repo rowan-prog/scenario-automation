@@ -160,3 +160,5 @@
 - 2026-09-23 **러닝타임 판단 = v61 그대로 확정(사용자).** 원작 완성본 67분 42초(감독 타이트 연출). v61 vs 원작 = 영어 대사 4,932 vs 4,948단어 · 지문 동작 882 vs 874 · 중문 지문 3.13만 vs 2.93만 자(묘사 밀도 차이, 동작 수는 거의 같음) → 같은 템포 기준 약 68분 · 70분까지 여유 약 2분. 지문 추가 압축 안 함. **이후 수정 시 동작 수·대사 단어 수를 늘리지 말 것**(70분 상한).
 
 - 2026-09-23 **FINAL v62** = `07_final/My One-Night Dragon Lord_FINAL_v62_CN&KO&EN.docx` + `.md`. 사용자 "영어 대사 개판"(1화 비비안 my sister 3인칭) → 원어민 귀 opus 2기 전수 점검 45곳 채택(지칭·화면 불일치·번역투) + 한·중 동기화. 22화 V.O.는 화면(닿은 자리로 용의 숨)에 맞춰 blood→touch/body로 정정(v60 cure 철회). 영어 대사 −64단어. 변경 목록 = `34_storm_dragon_bride_v62_changes.md`.
+
+- 2026-09-23 **제목 확정 = I Bought the Dragon Lord for One Night**(사용자 · My One-Night Dragon Lord 대체). **FINAL v63** = `07_final/I Bought the Dragon Lord for One Night_FINAL_v63_CN&KO&EN.docx` + `.md` = v62 + 첫 줄 제목·docx 문서 제목만. 이후 파일명 = 새 제목. 작품 개요 = `34_storm_dragon_bride_작품개요.md` + `I Bought the Dragon Lord for One Night_작품개요.docx`(한·중).
