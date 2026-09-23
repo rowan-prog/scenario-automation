@@ -140,3 +140,5 @@
 - 2026-09-23 **FINAL v52** = `07_final/My One-Night Dragon Lord_FINAL_v52_CN&KO&EN.docx` + `.md`. 저주·독·마법 컬러링 전면 치환(3개 국어 357줄): 도리안 눈·반지 暗金→冰蓝/ice-blue · 국왕 저주·독·법진·黑日·지하실 불꽃·독혈 → 紫/보라(黑日→紫日/Violet Sun) · 오필리아 혈통·맹세석·혼약서·초뢰·태아 문양 红金/金/冰蓝→翠绿/emerald. 유지 = 자연 충혈·의상·장식·햇빛·단검 白光. 청사진 §색 규칙 갱신 필요. 변경 목록 = `34_storm_dragon_bride_v52_changes.md`.
 
 - 2026-09-23 **FINAL v53** = `07_final/My One-Night Dragon Lord_FINAL_v53_CN&KO&EN.docx` + `.md`. 분량 압축 — 없어도 앞뒤 안 바뀌는 지문 43세트 129줄 삭제(2.1%), 대사·수위·클리프 0. opus 6기 후보 46 → Fable 맥락 대조 43 채택·3 기각. 변경 목록 = `34_storm_dragon_bride_v53_changes.md`.
+
+- 2026-09-23 **FINAL v54** = `07_final/My One-Night Dragon Lord_FINAL_v54_CN&KO&EN.docx` + `.md`. Codex v53 제작 재검토 반영 25줄 — 영어 대사 2(22화 V.O. · 46화 국왕 「Is that... all you've got?」) · 중문 지문 문장 교정 13 · 27화 눈 색 冰蓝 통일 · 50화 오필리아 눈 通红. 기각 = 27화 `Your revenge.` 추가 · 50화 장로 심장 대사. 변경 목록 = `34_storm_dragon_bride_v54_changes.md`.
