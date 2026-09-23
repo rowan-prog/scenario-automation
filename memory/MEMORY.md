@@ -81,6 +81,7 @@
 - **[writer-feedback-no-padding](feedback_writer_feedback_no_padding.md)** — 🚨(2026-09-10) 작가 피드백 다듬기 = 사용자 핀트 그대로·항목 안 늘림·판정 1~2문장+대안 한 줄·컷/결제 강의 0·수정 불필요한 소소 지적 0·워싱은 이야기 바뀌는 설정만.
 - [writer-comment-standard](feedback_writer_comment_standard.md) — 작가 코멘트 = `30_writer_feedback_standard` · AI 헛다리 필터.
 - [pushback-user-contradiction](feedback_pushback_user_contradiction.md) — 확정 엔진·앞선 지시·원작과 충돌하면 반박 짚고 집행(진성 충돌만).
+- **[differentiate-wording-keep-function](feedback_differentiate_wording_keep_function.md)** — 🚨(2026-09-23) 원작 대사 차별화 = 문구만 바꾸고 기능(비유·회수·폭로 순서·세기·놀람)은 살린다 · 밋밋해지면 실패(34번 v33·v34 → v61 20곳 복구).
 - [writer-reference-draft-mode-learn-loop](feedback_writer_reference_draft_mode_learn_loop.md) · [transplant-intensity-not-actions](feedback_transplant_intensity_not_actions.md)(세계 치환 = 강도는 원작 이상·행위는 재발명) · [adaptation-conservative-no-forced-rewrites](feedback_adaptation_conservative_no_forced_rewrites.md)(verbatim 계승 · 억지 변경 금지)
 - [version-anchor-commit](feedback_version_anchor_commit.md) · [bulk-script-verify-strict](feedback_bulk_script_verify_strict.md) · [docx-conversion-drops-table-textbox-text](feedback_docx_conversion_drops_table_textbox_text.md) · [speaker-tag-roster-mismatch](feedback_speaker_tag_roster_mismatch.md) · [external-korean-script-review-belt](feedback_external_korean_script_review_belt.md) · [script-file-zero-meta](feedback_script_file_zero_meta.md)
 - **[path-discipline](feedback_path_discipline.md) — 사용자에게 경로는 언제나 절대경로.**

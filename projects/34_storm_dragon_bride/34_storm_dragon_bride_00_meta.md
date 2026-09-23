@@ -154,3 +154,5 @@
 - 2026-09-23 **FINAL v59 = 총 50화** = `07_final/My One-Night Dragon Lord_FINAL_v59_CN&KO&EN.docx` + `.md`. 무료 1~8 불변 · 본문 삭제 0 · 끊는 자리만 이동해 약한 엔딩 4개(옛 21·25·26·49) 제거: 21=옛21+22 / 24=옛25+26앞(「What's wrong?」에서 절단) / 25=옛26뒤+27 / 47=옛49+50. 번호 대조표 = `34_storm_dragon_bride_v59_changes.md`.
 
 - 2026-09-23 **FINAL v60** = `07_final/My One-Night Dragon Lord_FINAL_v60_CN&KO&EN.docx` + `.md`. 외부 v59 재검토 반영 영어 대사 5곳(1화 비비안 → 국왕에게 · 19화 Who dares · 22화 cure · 24화 Kill whoever · 48화 Get lost) + 1·22화 한·중 동기화. 50화 구성 불변. 변경 목록 = `34_storm_dragon_bride_v60_changes.md`.
+
+- 2026-09-23 **FINAL v61** = `07_final/My One-Night Dragon Lord_FINAL_v61_CN&KO&EN.docx` + `.md`. 사용자 "원작 그대로는 아니되 개구려졌다" → v33·v34 원작 자국 지우기로 약해진 대사 20곳 복구(보석/쓰레기 비유·폭로 순서·먹이 말장난·놀람·유혹 열감·맹세문 등). 1화 도리안 V.O. = "What the hell is she?!"(사용자). 변경 목록 = `34_storm_dragon_bride_v61_changes.md`.
