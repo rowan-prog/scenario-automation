@@ -1,801 +1,801 @@
 {
- "tab": "I Chose a Slave, But He Parts",
- "status": "complete",
- "title": "I Chose a Slave, But He Parts the Sea / 내 남편은 거지 모세",
- "overview": {
-  "title": {
-   "kr": "I Chose a Slave, But He Parts the Sea / 내 남편은 거지 모세",
-   "en": null
-  },
-  "program_id": {
-   "kr": "US000PB6S01",
-   "en": null
-  },
-  "pm": {
-   "kr": "Rowan Lee",
-   "en": null
-  },
-  "drive": {
-   "kr": "",
-   "en": null
-  },
-  "release": {
-   "kr": "",
-   "en": null
-  },
-  "format": {
-   "kr": "AI 실사",
-   "en": "AI 실사 / AI Live Action"
-  },
-  "language": {
-   "kr": "EN",
-   "en": "English / USA"
-  },
-  "eps": {
-   "kr": "50(7)",
-   "en": null
-  },
-  "logline": {
-   "kr": "동생에게 죽고 삼 년 전으로 회귀한 그녀, 조용히 살려고 고른 거지 남편이 하필 예언자 모세였다!",
-   "en": "Killed by her sister and reborn three years back, she picks a slave for a husband—only he's the Prophet Moses!"
-  },
-  "synopsis": {
-   "kr": "대왕비로 책봉되던 날 이복동생 델릴라의 단검에 죽은 다말은, 배필을 정하는 새 의식의 아침으로 회귀한다. 함께 회귀한 델릴라가 파라오를 채가자, 다말은 비둘기를 노예 구역으로 날려 누더기를 걸친 거지와 혼인한다. 그리고 그 남자가 바다를 갈랐다. 남편은 예언자 모세였고, 왕국에 내린 열 가지 재앙은 모두 누군가 다말을 건드린 뒤에 시작된 것이었다.",
-   "en": "Murdered by her own sister the day she is crowned Great Royal Wife, Tamar is reborn three years earlier at the ceremony that chooses her husband—and Delilah is reborn too, and takes Pharaoh. So Tamar sends her dove to the slaves' quarter and weds a slave in rags, only for him to part the sea. Her husband is the Prophet Moses, and every plague on the kingdom falls after someone hurts her."
-  },
-  "genre": {
-   "kr": "회귀 · 복수 · 히든 아이덴티티 · 신데렐라 로맨스",
-   "en": "Rebirth · Revenge · Hidden Identity · Cinderella Romance"
-  },
-  "differentiator": {
-   "kr": "가족이 비웃는 앞에서 스스로 거지를 남편으로 고른 여자가, 혼례 날 그 거지가 바다를 갈라 자기를 데리러 오는 것을 본다.",
-   "en": "A woman picks a beggar for a husband while her family laughs at her, and on her wedding day she watches that beggar part the sea to come for her."
-  },
-  "emotion": {
-   "kr": "나를 비웃던 가족과 왕 앞에서 내가 고른 거지가 바다를 가르는 것. 나를 때린 손, 나를 무릎 꿇린 발에 개구리와 이와 우박이 되돌아오는 것. 내 자리를 훔친 동생이 진흙 속에서 내 발치까지 기어와 우는 것.",
-   "en": "The beggar you chose parting the sea in front of the family and the king who laughed at you. Frogs, lice and hail coming back down on the hand that hit you and the foot that made you kneel. The sister who stole your place crawling through the mud to your feet, crying."
-  },
-  "highlight": {
-   "kr": "굴욕 컷과 그 직후의 재앙이 대본에 짝으로 있다. 발 씻기 뒤에 이, 라반 구타 뒤에 우박, 낙인 직전에 모래폭풍, 얼굴을 불에 밀어 넣는 보복까지. 바다 가르기는 7화, 그리고 46~47화의 바다 가르기와 도하까지 두 번 있고, 7화 쪽은 지참금 굴욕 바로 뒤에 붙어 있다. 개구리와 이가 델릴라 몸에 들러붙는 컷은 우스꽝스럽게 찍혀 있다. 델릴라가 무너지는 장면은 34·35·49화에 세 번 따로 있다.",
-   "en": "Every humiliation cut has its plague right behind it in the script: the foot-washing and then the lice, Laban beaten and then the hail, the branding iron and then the sandstorm, and faces shoved toward the fire as payback. The sea parts twice, in EP7 and again in EP46-47 with the crossing, and the EP7 one sits right after the dowry humiliation. The frogs and lice crawling over Delilah are shot for laughs. Delilah's fall happens three separate times, in EP34, EP35 and EP49."
-  },
-  "target": {
-   "kr": "여성향, 20~40대. 회귀 복수물, 거지 남편의 정체 반전, 히든 아이덴티티 로맨스를 보는 층.",
-   "en": "Female-skewing, 20s-40s. Viewers of rebirth-revenge, beggar-husband identity-reveal and hidden-identity romance titles."
-  },
-  "other": {
-   "kr": "NetShort <Swapped to a Beggar But He is Apollo>(48화)를 모세와 출애굽 세계로 옮긴 각색. 노출과 정사는 9화 첫날밤 한 번(남주 상의 탈의, 드레스 흘러내림, 키스까지). 그 밖의 키스는 10화(이마)·23·40·50화.",
-   "en": "An adaptation of NetShort's <Swapped to a Beggar But He is Apollo> (48 EP) moved into a Moses / Exodus world. One bedroom scene, the EP9 wedding night (ML shirtless, dress slipping off, kiss). Other kisses in EP10 (forehead), EP23, EP40 and EP50."
-  }
- },
- "episodes": [
-  {
-   "ep": 1,
-   "tier": 3,
-   "keywords": [
-    "대왕비암살",
-    "자매동반회귀"
-   ],
-   "scene": "델릴라가 다말의 등에 단검을 박아 넣는다. 칼끝이 가슴을 뚫고 나온다. \"We are not sisters anymore.\"",
-   "treatment": "대왕비 책봉식에서 두루마리를 받아 든 다말의 등에 델릴라가 단검을 박아 넣는다. 델릴라는 3년 전 같은 날 새 날리기 의식에서 자신은 거지와 엮였는데 다말만 파라오를 얻었다며 울부짖고, 불기둥이 델릴라까지 집어삼켜 두 사람이 나란히 숨을 거둔다. 다말이 3년 전 새 날리기 의식 날 아침으로 돌아와 눈을 뜨고, 델릴라가 먼저 황금 새장의 매를 잡아 파라오에게 날려 보내는 것을 보며 델릴라도 같은 날로 돌아왔음을 알아챈다. 매가 파라오의 어깨에 앉고 가족들이 환호한다."
-  },
-  {
-   "ep": 2,
-   "tier": 0,
-   "keywords": [
-    "배필가로채기",
-    "노예구역행"
-   ],
-   "scene": null,
-   "treatment": "가족들이 델릴라의 혼사를 축하하며 다말을 비웃는 사이, 델릴라는 공사장 노예 무리 속에서 돌을 깨는 모세를 발견하고 낯빛이 굳는다. 네페라는 다말에게도 파라오 가문에 걸맞은 배필을 고르라고 다그치고, 델릴라는 언니의 비둘기가 대단한 분에게 닿을 거라며 비꼰다. 다말이 아무도 없는 구역을 향해 비둘기를 날리자, 비둘기가 황금빛 모래에 싸여 노예 구역으로 날아간다. 라반이 머리카락을 쥐어 잡고 그쪽은 노예들이 일하는 곳이라고 소리친다."
-  },
-  {
-   "ep": 3,
-   "tier": 0,
-   "keywords": [
-    "거지신랑반전",
-    "어깨손톱"
-   ],
-   "scene": null,
-   "treatment": "비둘기가 소란을 무시하고 모세에게 날아가 그가 세워둔 지팡이 위에 앉는다. 모세는 대언자로서 받은 지팡이를 지키려 비둘기를 조심스레 들어올리고, 비둘기가 그의 어깨에 앉는다. 델릴라는 노예가 다말의 새를 받았다며 통쾌해하고, 다말의 어깨에 손톱을 박아 넣으며 노예 구역을 가리킨다. 다말이 델릴라가 가리킨 곳을 보자, 비둘기를 어깨에 얹은 모세가 고개를 들어 다말을 올려다본다."
-  },
-  {
-   "ep": 4,
-   "tier": 0,
-   "keywords": [
-    "혼인수락선언",
-    "가족경악"
-   ],
-   "scene": null,
-   "treatment": "가족들이 노예에게 새를 뺏겼다며 경악하고, 라반은 다말을 다그치며 델릴라의 행운을 칭찬한다. 군중은 맹세를 어기면 가문 전체가 저주받는다고 수군대고, 다말은 파랗게 질려 발코니를 뛰쳐나간다. 네페라가 붙잡으라 소리치고 델릴라가 뒤를 쫓는 사이, 다말은 광장 계단 아래에서 모세와 마주 선다. 가족들 앞에서 다말이 신의 뜻이 두려워서가 아니라 자신이 이 남자를 골랐다며 혼인을 받아들인다."
-  },
-  {
-   "ep": 5,
-   "tier": 0,
-   "keywords": [
-    "공개혼인선언",
-    "대리석붕괴"
-   ],
-   "scene": null,
-   "treatment": "모세와 아론이 놀라는 사이 다말이 자신을 소개하고 군중 앞에서 모세와 혼인하겠다고 선언한다. 라반과 네페라가 모세의 가난을 이유로 다말을 뜯어말리지만, 다말은 비단과 황금이 사람을 귀하게 만들지 않는다며 물러서지 않는다. 라반은 다말을 가문에서 내치겠다고 선언하고 군중을 향해 돌아선다. 다말이 모세를 향해 돌아서는 순간, 신전 증축 공사장의 비계가 무너지며 대리석이 두 사람 위로 쏟아진다."
-  },
-  {
-   "ep": 6,
-   "tier": 0,
-   "keywords": [
-    "지팡이돌풍",
-    "구출"
-   ],
-   "scene": null,
-   "treatment": "모세가 다말을 끌어안아 감싸고 지팡이로 땅을 내리찍자 돌풍이 일어 대리석의 궤도를 꺾는다. 군중은 갑작스러운 바람을 목격하고 수군대지만, 모세는 아무 일 없었다는 듯 태연하다. 다말은 모세가 지팡이를 내려친 순간 돌풍이 일었음을 알아채지만, 그가 감추고 싶어 하는 힘이라 여기고 모른 척한다. 다말은 사흘 뒤 죽음의 바다 앞 제단에서 혼례를 올리자 약속하고 자리를 뜬다."
-  },
-  {
-   "ep": 7,
-   "tier": 3,
-   "keywords": [
-    "지참금굴욕",
-    "바다가르기",
-    "컷오프"
-   ],
-   "scene": "귀족들이 도망간 신랑이라 비웃는 사이, 모세가 지팡이를 들자 붉은 바다가 두 쪽으로 갈라진다. \"I have come for my bride, as I promised.\"",
-   "treatment": "델릴라의 혼례에서 전령관이 순금 장신구와 금화 아흔아홉 상자를 공개하고, 다말은 작은 천 주머니 하나만 쥔 채 조롱을 견딘다. 해가 중천에 떠도 모세가 오지 않자 파라오와 귀족들이 다말을 비웃고, 절망한 다말 위로 폭풍우가 몰아친다. 병사들의 조롱 속에서 흙바람을 뚫고 걸어온 모세가 지팡이를 바다로 들자, 붉은 바다가 좌우로 갈라지며 거대한 물벽이 솟구친다. 파라오와 델릴라가 뒤로 자빠지고 사람들이 무릎 꿇는 가운데, 모세가 다말만을 향해 손을 내민다."
-  },
-  {
-   "ep": 8,
-   "tier": 0,
-   "keywords": [
-    "기적부정",
-    "신부안아들기"
-   ],
-   "scene": null,
-   "treatment": "모세가 여전히 노예 차림으로 걸어 들어오자 뒤의 바다가 원래대로 닫힌다. 델릴라는 폭풍이 우연히 바다를 갈랐을 뿐이라 소리치고, 라반도 속았다며 분노한다. 라반이 누더기 차림으로 온 모세를 모욕하자 다말이 그 앞을 막아서며 재물이 아니라 서약이 혼인이라 반박한다. 대신관이 모세에게서 범상치 않은 기운을 느끼는 사이, 모세는 델릴라를 무시한 채 다말을 안아 들고 자신의 집으로 향한다."
-  },
-  {
-   "ep": 9,
-   "tier": 2,
-   "keywords": [
-    "첫날밤",
-    "노출",
-    "키스"
-   ],
-   "scene": "상의를 벗은 모세가 다말의 허리띠 매듭을 풀자 드레스가 어깨 아래로 흘러내린다. 다말이 그의 맨가슴에 손을 얹는다. \"Turn your head away. The light is too bright.\"",
-   "treatment": "아론의 주례로 다말과 모세가 허름한 돌집에서 혼례를 올리고, 모세는 태어날 때부터 지녀온 황금 펜던트를 다말에게 건넨다. 밤이 되자 모세가 다말의 드레스 매듭을 풀고, 두 사람은 촛불 아래서 입을 맞추며 하나가 된다. 다음 날 아침 다말이 어머니께 띠를 바치러 가족들에게 다녀오겠다 하자 모세가 함께 가겠다고 나선다. 집을 나선 두 사람 앞에 사막 저편에서 온 이민족 장로들이 나타나 무릎을 꿇는다."
-  },
-  {
-   "ep": 10,
-   "tier": 1,
-   "keywords": [
-    "대언자변신",
-    "정체숨김"
-   ],
-   "scene": "모세가 지팡이를 내리찍자 누더기가 예복으로 변하고 두 눈이 황금빛으로 물든다. 모래기둥에 싸여 하늘로 솟는다.",
-   "treatment": "장로들이 모세를 대언자라 부르며 무릎 꿇자, 모세는 다말에게 양치기 시절 동료라 둘러대고 아론과 함께 자리를 만든다. 다말이 혼자 가족들에게 향하는 사이, 모세는 표정을 굳히고 아론에게 목숨을 걸고 다말을 지키라 명한다. 모세가 지팡이를 내리찍자 누더기가 대언자의 찬란한 예복으로 변하고 두 눈이 황금빛으로 물들며 모래기둥에 싸여 하늘로 솟아오른다. 라반의 저택 앞에 도착한 다말은 델릴라와 파라오 앞에서 다시 혼자 왔냐는 조롱을 듣는다."
-  },
-  {
-   "ep": 11,
-   "tier": 0,
-   "keywords": [
-    "파라오희롱",
-    "선물조롱"
-   ],
-   "scene": null,
-   "treatment": "델릴라와 파라오가 함께 다말 앞에 나타나 남편을 조롱하고, 파라오가 다말의 턱을 잡아 올리며 수작을 건다. 다말이 손을 뿌리치자 가족들은 그녀가 빈손으로 왔다며 몰아세우고, 정성껏 짠 비단 띠마저 바닥에 내던지며 비웃는다. 모두가 웃는 사이 한 시종이 다급히 뛰어와 라반 앞에 멈춰 선다."
-  },
-  {
-   "ep": 12,
-   "tier": 0,
-   "keywords": [
-    "성소예물반전",
-    "맨발굴욕예고"
-   ],
-   "scene": null,
-   "treatment": "성소에서 다말 앞으로 보물 상자가 도착하자 가족들이 충격에 빠지고, 델릴라가 성소 수행원에게 금화를 쥐여주며 입을 막는다. 라반은 다말을 가문의 수치라 부르며 쫓아내지만, 자존심이 상해 다시 불러 세운다. 델릴라가 나서서 떠나려면 맨발로 광장을 걸으며 가문을 욕보였다 외치라는 대가를 요구한다."
-  },
-  {
-   "ep": 13,
-   "tier": 1,
-   "keywords": [
-    "뺨때림",
-    "펜던트문양탄로"
-   ],
-   "scene": "라반이 다말의 뺨을 때려 쓰러뜨린다. 목에서 끊어진 펜던트가 바닥에 구르고, 예물 상자와 같은 문양이 드러난다.",
-   "treatment": "라반과 델릴라, 파라오가 번갈아 다말을 가난한 남편과 엮어 모욕하자 다말은 자신이 아버지에게 재산일 뿐이었다고 말한다. 격분한 라반이 다말의 뺨을 때려 쓰러뜨리고, 그 충격에 목에 걸린 펜던트가 끊어져 바닥에 떨어진다. 펜던트의 문양이 마당에 쌓인 상자들의 문양과 같다는 것을 라반이 알아채고, 수풀 뒤에 숨어 지켜보던 아론이 겁에 질린 채 지켜본다."
-  },
-  {
-   "ep": 14,
-   "tier": 0,
-   "keywords": [
-    "가문이름포기",
-    "불의길예고"
-   ],
-   "scene": null,
-   "treatment": "델릴라가 펜던트를 돌려주는 조건으로 다말에게 가문 이름을 영원히 버리라고 요구하고, 라반은 지금부터 자기 딸은 델릴라 하나뿐이라고 선언한다. 다말이 신목 앞에서 가문과의 인연을 끊겠다고 맹세하지만 델릴라는 약속을 어기고 떠나는 자가 치러야 할 법도가 남았다고 말한다. 델릴라가 하인들에게 제단의 기름 먹인 장작을 가져오라 명령한다."
-  },
-  {
-   "ep": 15,
-   "tier": 3,
-   "keywords": [
-    "맨발불의길",
-    "모세각성"
-   ],
-   "scene": "다말이 신발을 벗고 불타는 장작길에 맨발로 들어선다. 델릴라는 불길 위에서 펜던트를 흔든다. \"walk the sacred path of fire barefoot.\"",
-   "treatment": "델릴라가 불길 위에서 펜던트를 흔들며 다말에게 맨발로 불의 길을 걸으라 조롱하고, 다말은 델릴라가 펜던트를 불에 던지는 시늉을 하자 걷겠다고 답한다. 신발을 벗은 다말이 불타는 장작길 위로 발을 내딛고, 살이 타는 고통 속에서도 끝까지 걸어 펜던트를 향해 나아간다. 같은 시각 성소에서 기도하던 모세는 아론에게 다말이 위험하다는 말을 듣고 지팡이로 옷을 신성한 예복으로 바꾼 뒤 모래폭풍을 일으켜 하늘로 솟아오른다."
-  },
-  {
-   "ep": 16,
-   "tier": 3,
-   "keywords": [
-    "얼굴낙인위협",
-    "모래폭풍등장"
-   ],
-   "scene": "델릴라가 시뻘겋게 달군 낙인을 다말의 얼굴에 내리찍으려는 순간, 모래폭풍이 낙인을 쳐내 돌기둥에 박는다. \"Get away from her!\"",
-   "treatment": "다말이 피투성이 손으로 바닥을 기어 펜던트를 되찾자, 델릴라는 화로에서 달군 태양 문양 낙인을 꺼내 다말의 얼굴에 가져다 댄다. 델릴라가 이 낙인이 언니의 아름다움을 빼앗을 거라고 조롱하고 파라오가 태워버리라 외치는 순간, 하늘에서 천둥 같은 목소리가 울리며 거대한 모래폭풍이 저택을 덮친다. 낙인이 델릴라의 손에서 날아가 돌기둥에 박히고, 황금 장신구를 두른 모세가 모래폭풍 속에서 걸어 나온다."
-  },
-  {
-   "ep": 17,
-   "tier": 0,
-   "keywords": [
-    "델릴라걷어차기",
-    "병사포위"
-   ],
-   "scene": null,
-   "treatment": "모세가 델릴라를 걷어차 쓰러뜨리고 피투성이가 된 다말을 품에 안아 일으킨 뒤 손에 입을 맞춘다. 라반과 네페라는 노예인 줄 알았던 모세가 성소 병사들을 거느린 것을 보고 경악하고, 델릴라는 아론이 옛 동료들을 데려와 속이는 것이라 우긴다. 다말이 정신을 잃으려 하자 모세가 화상 입은 발을 발견하고, 누가 아내를 이렇게 만들었냐며 살기를 드러내고, 성소 병사들에게 가족을 잡으라 명령한다."
-  },
-  {
-   "ep": 18,
-   "tier": 3,
-   "keywords": [
-    "얼굴불길보복",
-    "델릴라애원"
-   ],
-   "scene": "병사들이 델릴라와 파라오를 불길 앞으로 끌고 간다. \"Spare me! Anything but my face! Please, I'll do whatever you say!\" 병사들이 두 사람의 얼굴을 불길 가까이로 밀어 넣는다.",
-   "treatment": "모세가 성소 병사들에게 델릴라와 파라오, 라반과 네페라의 얼굴을 신성한 불길 가까이 가져가라 명령하며 다말이 흘린 눈물 한 방울까지 열 배로 갚게 하겠다고 말한다. 델릴라와 파라오가 불길 앞으로 끌려가 얼굴만은 안 된다며 애원하고 몸부림치자, 병사들이 두 사람의 얼굴을 불길 가까이로 밀어 넣는다. 바로 그 순간 저택 정문이 열리며 갑옷을 입은 파라오의 병사들이 들어온다."
-  },
-  {
-   "ep": 19,
-   "tier": 0,
-   "keywords": [
-    "지팡이뱀대결",
-    "처형명령"
-   ],
-   "scene": null,
-   "treatment": "파라오의 마술사들이 지팡이를 뱀으로 바꿔 모세를 위협하지만, 모세가 자신의 지팡이를 내려놓자 그것이 거대한 뱀이 되어 마술사들의 뱀을 모두 삼켜버린다. 마술사들과 라반, 네페라가 그 권능에 경악하는 가운데 델릴라는 파라오에게 자비를 베풀지 말라 부추긴다. 용기를 얻은 파라오가 병사의 단검을 빼앗아 모세를 겨누며 왕국의 정의를 묻는 모세의 말에 병사들에게 반역자를 모조리 죽이라 명령한다."
-  },
-  {
-   "ep": 20,
-   "tier": 0,
-   "keywords": [
-    "다말자기희생",
-    "황금눈각성",
-    "델릴라검습격"
-   ],
-   "scene": null,
-   "treatment": "다말이 모세를 위험에서 지키려 스스로 몸을 일으켜 파라오 앞으로 절뚝이며 걸어가 자신을 잡고 남편에게 자비를 베풀어달라 애원하지만, 힘이 다해 쓰러진다. 모세가 쓰러지는 다말을 품에 안고 창백한 얼굴을 확인한 순간 두 눈이 황금빛으로 타오르며 모래폭풍이 저택을 뒤흔들고, 파라오의 병사들이 길을 열어 모세와 다말을 그냥 보낸다. 델릴라는 두 사람이 사랑하는 모습에 질투로 일그러진 채 전부 불태우겠다 중얼거리다 병사의 검을 빼앗아 들고 달려든다."
-  },
-  {
-   "ep": 21,
-   "tier": 2,
-   "keywords": [
-    "검녹아내림",
-    "피의우물"
-   ],
-   "scene": "델릴라가 기절한 다말의 심장에 검을 내리찍는다. 칼날이 허공에서 멈춰 시뻘겋게 녹아 흘러내리고, 저택의 우물마다 피가 솟는다.",
-   "treatment": "델릴라가 검으로 모세의 어깨를 찌르지만, 모세는 펜던트를 다말에게 넘긴 채로도 상처만 입을 뿐 쓰러지지 않는다. 델릴라가 의식을 잃은 다말의 심장을 노리고 칼을 내리찍지만, 칼날이 허공에서 멈춰 녹아내리고 델릴라는 손에 화상을 입는다. 사람들이 비명을 지르는 사이, 라반 저택의 우물이란 우물이 전부 피로 뒤덮인다."
-  },
-  {
-   "ep": 22,
-   "tier": 0,
-   "keywords": [
-    "피의우물확산",
-    "델릴라화상"
-   ],
-   "scene": null,
-   "treatment": "라반의 저택 모든 우물에서 피만 솟아 라반과 사람들이 혼란에 빠지고, 델릴라는 화상 입은 손을 식히려 깨끗한 물에 손을 넣지만 그 물마저 붉게 변한다. 델릴라는 모세의 술수라며 발악하고, 파라오는 델릴라를 안심시키며 병사들에게 노예를 찾으라 명령한다. 병사가 모세는 이미 왕도를 벗어났다고 보고하자, 델릴라는 반드시 대가를 치르게 하겠다고 다짐한다."
-  },
-  {
-   "ep": 23,
-   "tier": 2,
-   "keywords": [
-    "정체고백",
-    "키스",
-    "왕궁담판"
-   ],
-   "scene": "정체를 고백한 모세가 다말과 입을 맞춘다. 이어 사슬 없이 왕궁에 걸어 들어가 파라오 앞에 선다. \"This is not a request.\"",
-   "treatment": "다말이 눈을 뜨자 모세가 자신이 신의 대언자임을 고백하고, 두 사람은 애틋하게 입맞춘다. 모세는 사슬 없이 왕궁으로 걸어 들어가 파라오에게 노예 해방을 요구하며 이것은 부탁이 아니라고 말한다. 파라오는 그를 오만방자하다 나무라고, 모세는 다말에게 저지른 죄부터 갚게 해주겠다고 선언한다."
-  },
-  {
-   "ep": 24,
-   "tier": 2,
-   "keywords": [
-    "개구리재앙",
-    "파라오약속파기"
-   ],
-   "scene": "장신구인 줄 알고 집은 것이 개구리다. 침상과 옷장, 화장대가 개구리로 뒤덮이고 델릴라가 비명을 지르며 침상 위로 뛰어오른다.",
-   "treatment": "델릴라가 화려한 장신구에 취해 웃다가, 장신구인 줄 알고 집어 든 것이 개구리라는 것을 알고 비명을 지르며 침상 위로 올라간다. 파라오는 개구리를 없애주면 노예를 풀어주겠다 약속하지만, 모세가 재앙을 거두자마자 약속을 깬다. 다말은 성소 봉사관에서 일을 시작하지만 하녀 우두머리 케네트가 그녀 발치에 더러운 빨랫감을 내던지며 텃세를 부린다."
-  },
-  {
-   "ep": 25,
-   "tier": 0,
-   "keywords": [
-    "도둑누명",
-    "손결박",
-    "종기재앙"
-   ],
-   "scene": null,
-   "treatment": "케네트가 화를 내며 다말을 밀치고, 넘어지며 펜던트 줄이 끊어져 바닥에 구른다. 케네트는 펜던트를 훔쳤다며 다말의 손을 밧줄로 묶고 마당 한가운데 세워 둔다. 다말은 모세의 아내임을 밝히지 않은 채 감독관의 조언을 떠올리며 침묵을 지키고, 그날 밤 케네트의 뺨에 종기가 돋아난다."
-  },
-  {
-   "ep": 26,
-   "tier": 0,
-   "keywords": [
-    "케네트무릎",
-    "인질소환"
-   ],
-   "scene": null,
-   "treatment": "케네트가 종기의 고통에 못 이겨 다말 앞에 무릎 꿇고 용서를 빌고, 다말은 원망 없이 약초를 찧어 상처를 치료해준다. 그 사이 감독이 케네트 몸에서 떨어진 황금 펜던트를 발견해 압수하고, 다말을 사람이 적은 물독 마당으로 보낸다. 그때 왕국의 사자가 성소에 들어와 라반이 지하 감옥에 갇혔다며 다말을 데려가겠다고 선언한다."
-  },
-  {
-   "ep": 27,
-   "tier": 0,
-   "keywords": [
-    "라반인질",
-    "다말결박"
-   ],
-   "scene": null,
-   "treatment": "다말은 모세를 뒤로하고 왕국의 사자를 따라나서며 반드시 돌아오겠다고 약속한다. 왕궁에서 피투성이가 된 라반을 마주한 다말은 파라오에게 남편의 위치를 대라는 요구를 거부하고, 파라오는 다말이 왕궁에 머무는 한 모세가 스스로 찾아올 거라며 병사들에게 그녀를 붙잡게 한다. 다말은 왕궁 밖으로 한 발짝도 나가지 못한 채 갇힌다."
-  },
-  {
-   "ep": 28,
-   "tier": 3,
-   "keywords": [
-    "발씻기굴욕",
-    "이재앙"
-   ],
-   "scene": "델릴라가 무릎 꿇은 다말에게 발을 내민다. \"Go on, wash my feet.\" 다말이 발을 씻기고 하녀들이 웃는다. 새벽, 델릴라의 팔에 이가 들러붙는다.",
-   "treatment": "델릴라가 지하 감옥에 갇힌 다말을 찾아와 조롱하고, 하녀들이 다말을 무릎 꿇리자 다말은 아버지를 살리기 위해 델릴라의 발을 씻긴다. 하녀들은 그 모습을 보며 비웃고, 델릴라는 오랫동안 꿈꿔온 순간이라며 만족스러워한다. 새벽이 되자 왕궁 전체에 흙먼지가 이로 변해 퍼지고, 델릴라의 몸에 이가 들러붙어 비명을 지른다."
-  },
-  {
-   "ep": 29,
-   "tier": 0,
-   "keywords": [
-    "변신잠입",
-    "아버지택함"
-   ],
-   "scene": null,
-   "treatment": "이 재앙에 왕국 최고의 술사들도 손을 놓고, 파라오는 분노한다. 지하 감옥에서 낯선 얼굴로 변신한 모세가 다말에게 손을 내밀며 성소로 돌아가자고 청하지만, 다말은 아버지를 두고 갈 수 없다며 거절한다. 모세는 그대의 뜻을 존중하겠다며 돌아서 사라졌다가, 아무도 없는 곳에서 원래 얼굴로 돌아와 다말을 자신의 방식대로 지키겠다고 다짐한다."
-  },
-  {
-   "ep": 30,
-   "tier": 3,
-   "keywords": [
-    "선택적우박",
-    "델릴라피격"
-   ],
-   "scene": "라반을 때린 근위대장의 머리에 거대한 우박이 떨어져 피를 흘리며 쓰러진다. 이어 델릴라의 머리 위로 우박이 떨어진다. 다른 사람은 안 맞는다.",
-   "treatment": "광장에서 근위대장이 쇠사슬에 묶인 라반을 무릎 꿇리고 때리자 다말이 몸부림치며 막아서지만, 파라오는 침묵하면 아비를 버리는 것이라 다그친다. 다말이 굴복하지 않겠다 외치자 하늘에서 거대한 우박이 쏟아지고, 라반을 때린 근위대장과 다말을 조롱한 델릴라만 정확히 맞아 쓰러진다. 군중이 신이 다말의 편이라 웅성거리자 파라오는 다말을 다시 지하 감옥에 가두라 명하고, 네페라가 다말에게 복수를 다짐한다."
-  },
-  {
-   "ep": 31,
-   "tier": 0,
-   "keywords": [
-    "계모뺨때림",
-    "가축몰살"
-   ],
-   "scene": null,
-   "treatment": "병사들이 다말을 지하 감옥으로 끌고 가던 중, 네페라가 가로막고 다말의 뺨을 때린다. 다말이 발의 상처 때문에 계단에서 굴러떨어져 이마가 찢어지고, 네페라는 치료를 막으며 다시는 나타나지 말라고 말한다. 새벽, 라반의 저택 외양간에서 가축들이 전부 다말과 같은 자리에 상처를 입은 채 죽어 있다. 네페라는 우연이라 되뇌며 두려움에 떤다."
-  },
-  {
-   "ep": 32,
-   "tier": 0,
-   "keywords": [
-    "파라오문책",
-    "거울파괴"
-   ],
-   "scene": null,
-   "treatment": "파라오가 잇단 재앙의 원인으로 델릴라를 지목하고 처분을 예고한다. 델릴라는 자신이 기억하는 미래와 다르게 모든 것이 무너지고 있다며 분노하고, 원인이 다말과 그 노예 남편이라 확신한다. 델릴라가 손에 쥔 보석을 거울에 던져 깨뜨린다. 델릴라는 깨진 조각을 집어 들며 다말을 죽이면 모든 것이 제자리로 돌아올 거라 결심한다."
-  },
-  {
-   "ep": 33,
-   "tier": 2,
-   "keywords": [
-    "목에칼",
-    "재앙정체탄로"
-   ],
-   "scene": "델릴라가 거울 조각을 다말의 목에 겨눈다. 다말이 눈을 뜨고 말한다. \"Go ahead, stab me.\" 델릴라의 손이 멈추고 조각이 바닥에 떨어진다.",
-   "treatment": "델릴라가 몰래 감옥에 들어가 거울 조각을 다말의 목에 겨눈다. 다말이 두려움 없이 찌르라고 말하자 델릴라의 손이 멈추고, 재앙이 전부 다말을 건드린 뒤에 일어났다는 사실을 깨닫는다. 다말도 그동안 자신을 지켜준 것이 모세라는 것을 알아차리고 눈물짓는다. 그때 병사가 들어와 두 사람에게 내일 아침 왕궁 앞으로 나오라고 명령한다."
-  },
-  {
-   "ep": 34,
-   "tier": 3,
-   "keywords": [
-    "왕관거절",
-    "델릴라추방",
-    "태양암전"
-   ],
-   "scene": "파라오가 다말에게 대왕비 관을 내밀고 델릴라는 근위병에게 끌려 나간다. \"You are supposed to love me!!\" 쨍쨍하던 해가 검게 물든다.",
-   "treatment": "파라오가 델릴라 대신 다말에게 대왕비의 관을 내밀지만 다말은 그 관 때문에 한 번 죽었다며 거절한다. 델릴라가 근위병에게 붙잡혀 끌려 나가고, 파라오는 아버지의 석방과 노예 해방을 조건으로 다말을 회유하지만 다말은 모세와의 맹세가 더 귀하다고 답한다. 파라오가 모세의 신이 태양을 가릴 수 있냐고 비웃는 순간, 쨍쨍하던 해가 서서히 검게 물든다. 모세의 목소리가 하늘을 울리며 사흘간 해가 없을 거라 선언한다."
-  },
-  {
-   "ep": 35,
-   "tier": 0,
-   "keywords": [
-    "사흘암흑",
-    "델릴라거지전락"
-   ],
-   "scene": null,
-   "treatment": "해가 사라지자 신관들이 태양신에게 불을 올리지만 신성한 불마저 꺼지고, 파라오의 얼굴에 처음으로 두려움이 스친다. 대왕비 자리에서 쫓겨난 델릴라는 거지 행색으로 거리를 헤매다 백성에게 침 뱉음을 당하고 절규한다. 어둠 속에서 다말은 손끝에 닿은 온기를 모세의 신이라 착각하고 남편을 지켜 달라 기도하며 눈물짓는다. 그 손이 다말의 손을 단단히 감싸는 순간, 파라오가 다말의 어깨를 잡아채 지하 감옥으로 끌고 간다."
-  },
-  {
-   "ep": 36,
-   "tier": 3,
-   "keywords": [
-    "처형직전구출",
-    "노예해방요구"
-   ],
-   "scene": "칼이 다말과 라반의 목에 닿기 직전 모래바람이 칼을 쳐낸다. 모래 사이로 걸어온 모세가 파라오 앞에 선다. \"Let my people go.\"",
-   "treatment": "사흘 만에 해가 돌아오고, 근위병들이 쇠사슬에 묶인 라반을 광장으로 끌어낸다. 다말이 무릎 꿇고 아버지를 살려 달라 빌지만 파라오는 모세를 넘기고 대왕비가 되라는 조건을 걸고, 다말이 거절하자 라반과 다말 모두를 처형하라고 명한다. 칼이 두 사람의 목에 닿기 직전 모래바람이 날아와 칼을 쳐내고, 모래바람 사이로 걸어 나온 모세가 파라오 앞에 서서 노예 해방을 요구한다."
-  },
-  {
-   "ep": 37,
-   "tier": 0,
-   "keywords": [
-    "장자재앙경고",
-    "피표식"
-   ],
-   "scene": null,
-   "treatment": "파라오가 모세의 요구를 비웃자 모세는 오늘 밤 이 땅의 모든 맏이가 죽을 것이라 경고하며, 피로 문설주에 표를 하면 살아남을 거라 말한다. 사람들이 동요하며 하나둘 광장을 빠져나가고, 다말은 두려움을 떨치고 라반과 네페라를 이민족 구역으로 데려간다. 네페라는 다말이 데려온 자가 혼란을 일으켰다며 원망하지만 결국 다말을 따른다. 다말은 두 사람을 남겨두고 아직 남은 일이 있다며 다시 저택으로 향한다."
-  },
-  {
-   "ep": 38,
-   "tier": 0,
-   "keywords": [
-    "혈서표식",
-    "왕자죽음",
-    "파라오항복"
-   ],
-   "scene": null,
-   "treatment": "다말이 텅 빈 저택으로 돌아와 문 앞에서 날카로운 돌로 자신의 손바닥을 그어 피로 문설주에 표식을 그린다. 자정, 모래 줄기가 왕도의 거리를 흐르며 표식 없는 집마다 스며들고 비명이 터져 나온다. 파라오는 자신의 문에 표를 하지 않았다며 자신했지만, 왕자가 숨을 쉬지 않는다는 소식에 아이를 품에 안고 무너진다. 파라오는 눈물을 흘리며 모세에게 백성을 전부 데리고 땅을 떠나라고 말한다."
-  },
-  {
-   "ep": 39,
-   "tier": 0,
-   "keywords": [
-    "라반네페라짐꾼",
-    "출애굽행렬"
-   ],
-   "scene": null,
-   "treatment": "동이 트기 전 왕도의 성문이 열리고 수많은 백성이 짐을 지고 몰려나온다. 다말은 노역에 지쳐 행렬 밖으로 밀려난 라반과 네페라를 발견하지만, 이민족 장로들은 짐승 하나도 버리지 말라던 모세의 말을 들어 두 사람을 받아들이되 가장 무거운 짐을 지워 행렬 맨 뒤로 보낸다. 백성들은 다말을 알아보고 하나둘 길을 비키며 우러러본다. 한 아이가 다말에게 대언자의 아내라면 맨 앞에서 걸어야 하지 않냐며 어서 가라고 말한다."
-  },
-  {
-   "ep": 40,
-   "tier": 2,
-   "keywords": [
-    "미리암정체",
-    "손치유",
-    "키스"
-   ],
-   "scene": "다말이 달려가 안기고, 모세가 다말의 손바닥 상처를 어루만지자 상처가 낫는다. 두 사람이 입을 맞춘다.",
-   "treatment": "감독관 미리암이 다말에게 펜던트를 돌려주며 왕국의 학살령 때 갓난 동생을 갈대 바구니에 띄워 보낸 이야기를 들려주고, 다말은 그 아이가 모세이며 지하 감옥에서 느낀 온기의 주인도 모세였음을 알게 된다. 멀리서 모세가 다말을 부르고, 다말이 달려가 안기자 모세가 손바닥의 상처를 어루만져 낫게 하고 두 사람이 조심스럽게 키스한다. 그 시각 텅 빈 왕궁에서는 거지꼴이 된 델릴라가 파라오 앞에 무릎 꿇고, 왕의 권위에 도전한 자들에게 대가를 치르게 하라고 부추긴다."
-  },
-  {
-   "ep": 41,
-   "tier": 0,
-   "keywords": [
-    "불기둥",
-    "회상"
-   ],
-   "scene": null,
-   "treatment": "백성들이 사막을 행렬 지어 걷는 가운데, 다말은 대리석이 쏟아지던 날 자신들을 구한 바람을 떠올리며 그것이 신의 힘이었음을 깨닫는다. 밤이 되자 모래기둥이 사라지고 거대한 불기둥이 솟아올라 백성들의 길을 밝히고, 다말과 모세는 서로에게 기대어 그 광경을 지켜본다. 텅 빈 왕도에서 델릴라는 노예들이 왕의 재산을 통째로 훔쳐 달아났다며 파라오를 부추기고, 파라오는 왕국에 남은 마지막 군마를 전차에 매어 추격을 명령한다."
-  },
-  {
-   "ep": 42,
-   "tier": 0,
-   "keywords": [
-    "파라오추격",
-    "전차발각"
-   ],
-   "scene": null,
-   "treatment": "파라오와 델릴라가 탄 왕실 전차들이 왕궁 문을 열고 사막으로 쏟아져 나온다. 사막을 걷던 모세와 다말은 서로에게 다정한 마음을 고백하다가, 모세가 무언가를 알아채고 뒤를 돌아본다. 지평선 너머 흙먼지가 점점 커지고 말발굽 소리가 들려오자, 다말은 파라오가 자신들을 쫓아왔음을 깨닫는다."
-  },
-  {
-   "ep": 43,
-   "tier": 0,
-   "keywords": [
-    "흉터고백",
-    "붉은바다막힘"
-   ],
-   "scene": null,
-   "treatment": "파라오의 군대가 다가오자 백성들은 겁에 질려 항복을 이야기하며 동요한다. 다말은 신발을 벗어 다리의 흉터를 드러내고 자신도 두려움을 안고 있다고 고백하며 사람들을 설득한다. 백성들은 마음을 돌려 다시 걷기 시작하지만, 언덕을 넘자 끝이 보이지 않는 붉은 바다가 앞을 가로막고 있다."
-  },
-  {
-   "ep": 44,
-   "tier": 0,
-   "keywords": [
-    "백성원망",
-    "델릴라발견"
-   ],
-   "scene": null,
-   "treatment": "붉은 바다 앞에 갇힌 백성 하나가 모세의 멱살을 잡고 원망을 쏟아내자, 다말이 나서서 사람들을 진정시킨다. 뒤쫓아온 왕실군이 행렬 후미까지 따라붙고, 전차 위의 델릴라가 군중 사이에서 다말을 발견한다. 델릴라는 차갑게 웃으며 다말을 찾아냈다고 말한다."
-  },
-  {
-   "ep": 45,
-   "tier": 0,
-   "keywords": [
-    "모래기둥방벽",
-    "델릴라협박"
-   ],
-   "scene": null,
-   "treatment": "모래기둥이 백성들과 왕실군 사이를 가로막아 병사들의 진격을 막는다. 델릴라는 다말에게 다정한 목소리로 돌아오라 회유하지만 다말은 그 속셈을 꿰뚫어 보고 거절한다. 모래기둥이 델릴라의 팔에 상처를 입히자, 델릴라는 울분에 차 다말이 돌아오면 가장 잔혹한 죽음을 맞게 될 거라고 소리친다."
-  },
-  {
-   "ep": 46,
-   "tier": 0,
-   "keywords": [
-    "횃불소멸",
-    "바다갈라짐시작"
-   ],
-   "scene": null,
-   "treatment": "파라오는 병사들을 독려해 사기를 끌어올리지만, 날이 밝아오자 다말은 초조해진다. 신비한 바람이 불어와 왕실군의 횃불을 전부 꺼뜨리고, 모세는 신이 자신들을 버리지 않았음을 확신한다. 모세가 바다 앞에서 지팡이를 들어 올리자 바닷물이 갈라지기 시작한다."
-  },
-  {
-   "ep": 47,
-   "tier": 2,
-   "keywords": [
-    "바다도하",
-    "전차추격"
-   ],
-   "scene": "갈라진 바다 사이 마른 길로 백성들이 걸어 들어간다. 마지막 수레가 바닷길에 들어서자 모래기둥이 사라지고 왕실 전차들이 뒤따라 쏟아져 들어온다.",
-   "treatment": "갈라진 바다 사이로 길이 드러나고, 백성들은 놀라움과 기쁨 속에 마른땅을 밟으며 건너기 시작한다. 모세는 행렬의 맨 뒤를 지키며 모두가 지나갈 때까지 물벽을 지킨다. 마지막 짐수레가 바닷길에 들어서고 모세가 뒤따르자 모래기둥이 사라지고, 왕실 전차들이 마른 바다 밑바닥으로 쫓아 들어온다. 파라오는 한 사람도 놓치지 말라고 병사들에게 명령한다."
-  },
-  {
-   "ep": 48,
-   "tier": 0,
-   "keywords": [
-    "전차침몰",
-    "델릴라육탄추격"
-   ],
-   "scene": null,
-   "treatment": "진흙탕에 빠진 왕실 전차들이 부서지는 사이, 델릴라는 전차에서 뛰어내려 다말을 향해 필사적으로 쫓아간다. 다말은 마지막으로 바다를 건너고, 모세는 다말을 품에 안아 뒤로 돌아선다. 델릴라와 파라오의 군대를 마주한 모세가 지팡이를 천천히 들어 올리자 물벽이 떨리기 시작한다."
-  },
-  {
-   "ep": 49,
-   "tier": 3,
-   "keywords": [
-    "왕실군수장",
-    "팔찌박탈"
-   ],
-   "scene": "델릴라가 부서진 전차 잔해를 타고 다말의 발치까지 기어온다. 다말이 그 손목에서 대왕비 팔찌를 빼내 웅덩이에 던진다. \"Just kill me!\"",
-   "treatment": "무너진 물벽이 왕실군을 집어삼키고, 파라오는 간신히 건너편 기슭으로 떠밀려 나온다. 파라오가 왕비 자리와 가족의 목숨을 미끼로 돌아오라 회유하지만 다말은 차갑게 거절한다. 델릴라가 잔해를 타고 기어와 애원하자 다말은 그녀의 손목에서 대왕비의 팔찌를 빼앗아 웅덩이에 던지고, 죽지 말고 죄값을 치르며 살라고 말한다. 홀로 남은 파라오는 모든 것을 잃었음을 깨닫는다."
-  },
-  {
-   "ep": 50,
-   "tier": 2,
-   "keywords": [
-    "아내공개선언",
-    "키스엔딩"
-   ],
-   "scene": "백성들 앞에서 모세가 다말의 손을 잡는다. \"Tamar is my wife.\" 밤, 두 사람이 광야를 보며 입을 맞춘다.",
-   "treatment": "미리암이 백성들과 노래하며 자유를 기념하고, 다말에게 소고를 건네며 그녀를 자신들의 사람으로 받아들인다. 모세는 다말의 손을 잡고 백성들 앞에서 그녀가 자신의 아내임을 선언한다. 밤이 되자 두 사람은 아직 아무것도 없는 광야를 바라보며 함께 집을 짓자고 약속하고, 서로를 마주 보며 입을 맞춘다."
-  }
- ],
- "cast": [
-  {
-   "name": "다말 (Tamar) / FL",
-   "kr": "라반 가문의 큰딸. 전생에 파라오의 아내로 살다 대왕비로 책봉되던 날 이복동생의 단검에 죽었고, 3년 전 배필을 정하는 새 의식 아침으로 돌아왔다. 이번에는 가족이 보는 앞에서 비둘기를 노예 구역으로 날려 거지를 남편으로 고른다. 뺨을 맞고, 맨발로 불 위를 걷고, 동생의 발을 씻기고, 목에 칼이 닿는 자리에서도 남편을 부르지 않는다. 그리고 그 뒤에 왕궁에 재앙이 떨어진다. 이 작품에서 팔리는 그림은 전부 이 인물에게서 나온다.",
-   "en": "Eldest daughter of the house of Laban. In her last life she was Pharaoh's wife and was stabbed by her half-sister the day she was crowned Great Royal Wife, then woke up three years earlier on the morning of the bird ceremony that picks a husband. This time she sends her dove to the slaves' quarter in front of her whole family and marries a beggar. She gets slapped, walks barefoot over fire, washes her sister's feet and takes a blade to her throat without ever calling for him. And after each one, a plague hits the palace. Every sellable image in this title comes from her.",
-   "cn": "拉班家的长女。前世身为法老之妻，在被册封为大王妃的当天死于异母妹妹的匕首之下，随后回到三年前择偶鸟祭的清晨。这一世她当着全家人的面把鸽子放向奴隶区，选了一个乞丐做丈夫。她被打耳光、赤脚走火路、给妹妹洗脚、被刀抵住喉咙，也从不呼喊丈夫。而在那之后，灾祸便降临王宫。本作所有能卖的画面，全部来自这个人物。"
-  },
-  {
-   "name": "모세 (Moses) / ML",
-   "kr": "노예 구역에서 돌을 깨는 거지. 실제로는 신의 대언자로, 자기 백성 곁에 있으려고 신분을 숨겼다. 다말이 날린 비둘기가 그의 지팡이에 앉는다. 다말이 괴롭힘을 당하면 재앙을 내려 갚고, 아내에게는 대언자라는 사실을 23화에서야 말한다. 혼례 날 붉은 바다를 갈라 다말을 데려가고(EP7), 마지막에 다시 바다를 갈라 백성을 건너게 한 뒤 왕의 군대 위로 바다를 닫는다(EP47~49).",
-   "en": "A beggar breaking stone in the slaves' quarter. In truth the Prophet of the Lord, hiding his rank to stay beside his people. Tamar's dove lands on his staff. When Tamar is hurt he answers with a plague, and he only tells his wife what he is in EP23. On the wedding day he parts the Crimson Sea to take her home (EP7), and in the end he parts it again for his people and closes it over the king's army (EP47-49).",
-   "cn": "在奴隶区敲石头的乞丐，实为神的代言人，为了留在自己的百姓身边而隐藏身份。塔玛放出的鸽子落在了他的手杖上。塔玛受到欺凌，他便降下灾祸偿还；直到第23集才告诉妻子自己是谁。婚礼当天他分开红海带走塔玛（第7集），最后再次分开大海让百姓渡过，再让海水合拢吞没王军（第47~49集）。"
-  },
-  {
-   "name": "델릴라 (Delilah) / Villain",
-   "kr": "다말의 이복동생. 전생에서 거지와 엮여 밑바닥에서 썩다가 언니를 죽였고, 같은 날로 함께 회귀해 이번에는 파라오를 먼저 채간다. 언니를 진흙에 처박는 것이 목표다. 펜던트를 미끼로 언니를 맨발로 불 위를 걷게 하고 달군 낙인을 얼굴에 대며(EP15~16), 감옥에서 무릎 꿇려 발을 씻긴다(EP28). 그때마다 개구리와 이가 몸에 들러붙고 우박에 맞는다. EP34에서 파라오가 다말에게 대왕비 관을 내밀자 근위병에게 끌려 나가고, EP49에서 바다에 휩쓸린 뒤 진흙 속에서 다말의 발치까지 기어오지만 다말이 그 손목의 대왕비 팔찌를 빼내 웅덩이에 던진다. 죽지 못하고 살아서 대가를 치른다.",
-   "en": "Tamar's half-sister. In her last life she was chained to a beggar, rotted at the bottom and killed her sister. Reborn on the same day, this time she grabs Pharaoh first. Her goal is to grind her sister into the mud. She uses the pendant to make her sister walk barefoot over fire and holds a red-hot brand to her face (EP15-16), then makes her kneel and wash her feet in the dungeon (EP28). Each time, frogs and lice crawl over her and hail hits her. In EP34 Pharaoh offers the crown to Tamar and the guards drag Delilah out; in EP49, washed up by the sea, she crawls through the mud to Tamar's feet, and Tamar rips the Great Royal Wife's bracelet off her wrist and throws it in a puddle. She is not allowed to die. She lives and pays.",
-   "cn": "塔玛的异母妹妹。前世与乞丐绑在一起烂在底层，最终杀了姐姐；同一天一起重生后，这次她先抢走了法老。她的目标是把姐姐踩进泥里。她用吊坠逼姐姐赤脚走火路、把烧红的烙铁按向她的脸（第15~16集），又在地牢里逼她跪下洗脚（第28集）。每一次，青蛙和虱子都爬满她的身体，冰雹砸中她。第34集法老把大王妃的王冠递给塔玛，她被卫兵拖出王宫；第49集她被海水冲上岸，在泥里爬到塔玛脚边，塔玛从她手腕上扯下大王妃手镯扔进水洼。她不被允许去死，只能活着偿还。"
-  },
-  {
-   "name": "파라오 (Pharaoh) / Villain",
-   "kr": "신의 피를 이었다고 주장하는 왕국의 통치자. 전생에 다말의 남편이었고, 이번 생에서는 델릴라의 매를 받는다. 다말의 얼굴에 낙인을 찍으라고 부추기고(EP16), 노예 해방을 약속하고는 개구리가 사라지자마자 말을 바꾸며, 다말과 라반의 처형을 명한다(EP36). 왕자가 장자 재앙으로 숨을 거두자 아이를 안고 무너져 백성을 보내준다(EP38). 군대를 끌고 바다까지 쫓아왔다가 EP49에서 물벽이 닫히며 군대를 전부 잃고, 홀로 진흙 기슭에 떠밀려 올라와 대왕비 자리를 미끼로 다말을 부르지만 거절당한다.",
-   "en": "Ruler of the kingdom, claiming the blood of the gods. In Tamar's last life he was her husband; this time Delilah's hawk lands on him. He eggs on the branding of Tamar's face (EP16), promises to free the slaves and breaks his word the moment the frogs are gone, and orders Tamar and Laban executed (EP36). When the prince dies in the plague of the firstborn he breaks down holding the boy and lets the people go (EP38). He chases them to the sea with his army and loses all of it when the walls of water close in EP49, then washes up alone on the mud and offers Tamar the queen's throne to come back. She refuses.",
-   "cn": "自称拥有神之血统的王国统治者。前世他是塔玛的丈夫，这一世接住了德莉拉的鹰。他怂恿给塔玛的脸烙印（第16集），答应释放奴隶却在青蛙一消失就翻脸，又下令处死塔玛和拉班（第36集）。王子死于长子之灾后，他抱着孩子崩溃，放百姓离开（第38集）。他率军追到海边，第49集水墙合拢，全军尽失，独自被冲上泥滩，以大王妃之位引诱塔玛回来，被拒绝。"
-  },
-  {
-   "name": "라반 (Laban) / Sub-villain",
-   "kr": "다말과 델릴라의 아버지. 딸은 가문의 영광을 사 오는 물건이다. 비둘기가 노예 구역으로 날아가자(EP2) 다말을 쓸모없는 것이라 부르고(EP4), 혼인하는 순간 가문과 남남이라고 선언한다(EP5). 다말의 뺨을 때려 쓰러뜨리고(EP13), 델릴라가 언니를 불 위로 걷게 할 때 침묵으로 편든다. 파라오에게 붙잡혀 지하 감옥에 갇히고 광장에서 무릎 꿇려 맞는다(EP30). 처형 직전 모세에게 구해진 뒤(EP36), 해방 행렬 맨 끝에서 가장 무거운 짐을 지고 걸으며 다말에게 네 아비가 아니냐고 매달린다(EP39).",
-   "en": "Father of Tamar and Delilah. A daughter, to him, is a thing that buys glory for the house. When the dove flies to the slaves' quarter (EP2) he calls Tamar useless (EP4) and declares her nothing to the family the moment she marries (EP5). He slaps her to the ground (EP13) and sides with Delilah in silence while she makes her sister walk on fire. Pharaoh throws him in the dungeon and has him beaten on his knees in the square (EP30). Saved by Moses seconds before execution (EP36), he ends up at the tail of the freed people's column carrying the heaviest load, begging Tamar to remember he is still her father (EP39).",
-   "cn": "塔玛和德莉拉的父亲。在他眼里女儿是为家族换取荣耀的物件。鸽子飞向奴隶区后（第2集）他骂塔玛没用（第4集），宣布她一旦成婚就与家族再无关系（第5集）。他一巴掌把塔玛打倒在地（第13集），德莉拉逼姐姐走火路时他以沉默站在小女儿一边。后被法老关进地牢，在广场上跪着挨打（第30集）。处刑前一刻被摩西所救（第36集），最后在解放队伍的末尾背着最重的行李，哀求塔玛别忘了他还是她的父亲（第39集）。"
-  },
-  {
-   "name": "미리암 (Miriam) / Sub",
-   "kr": "모세의 친누이이자 성소의 감독관. 왕국의 학살령 때 갓난 동생을 갈대 바구니에 띄워 살린 사람이다. EP40에서 다말에게 펜던트를 돌려주며 그 이야기를 들려주고, 다말은 그 아이가 모세라는 것을 안다. EP50에서 다말에게 소고를 쥐여 주며 이미 우리 사람이라고 말한다.",
-   "en": "Moses' elder sister and an overseer at the Sanctuary. She is the one who floated her newborn brother down the river in a reed basket during the kingdom's massacre. In EP40 she gives Tamar back the pendant and tells her that story, and Tamar realizes the baby was Moses. In EP50 she presses a hand drum into Tamar's hands and tells her she is already one of them.",
-   "cn": "摩西的亲姐姐，也是圣所的监工。王国屠杀令时，是她把刚出生的弟弟放进芦苇篮漂走救下。第40集她把吊坠还给塔玛并讲出这段往事，塔玛明白那个婴儿就是摩西。第50集她把手鼓塞进塔玛手里，说她早已是自己人。"
-  }
- ],
- "reference_label": "Reference",
- "reference": [
-  {
-   "title": "NetShort <Swapped to a Beggar But He is Apollo>",
-   "scenes": "화관을 던져 배필을 정하는 의식에서 언니가 거지를 얻는 자리. 혼례 날 지참금으로 망신을 당하던 신부 앞에 거지 신랑 아폴론이 신의 권능을 드러내며 나타나는 자리. 아내는 남편의 정체를 모르는 채 굴욕을 당하고, 그때마다 남편의 힘이 상대에게 떨어지는 되갚음 루프. 같이 회귀한 동생이 끝까지 언니를 밟으려다 무너지는 자매 구도. 이 뼈대를 그대로 두고 화관을 비둘기로, 아폴론을 예언자 모세로, 신의 권능을 재앙과 바다 가르기로 바꿨다.",
-   "ad": "미확인."
-  }
- ],
- "mkt_ideas": [
-  {
-   "axis": "여주를 건드린 자에게 재앙이 돌아온다 - 굴욕·되갚음",
-   "rows": [
-    {
-     "ep": "EP16",
-     "kr": "피투성이 손으로 바닥을 기어 펜던트를 되찾은 다말의 턱을 델릴라가 잡고, 시뻘겋게 달군 태양 낙인을 얼굴에 가져다 댄다. 파라오가 소리친다. \"Burn her! Make that traitor suffer!\" 낙인이 내려오는 순간 모래폭풍이 낙인을 쳐내 돌기둥에 박는다. \"Get away from her!\"",
-     "en": "Tamar crawls across the floor with bloodied hands and gets her pendant back. Delilah grabs her jaw and brings a red-hot sun-shaped brand to her face while Pharaoh shouts, \"Burn her! Make that traitor suffer!\" As the brand comes down, a sandstorm knocks it out of Delilah's hand and buries it in a stone pillar. \"Get away from her!\"",
-     "cn": "塔玛用血淋淋的双手爬过地面捡回吊坠，德莉拉掐住她的下巴，把烧红的太阳烙铁按向她的脸，法老在旁大喊“烧她！让那个叛徒受苦！”烙铁落下的瞬间，沙暴把烙铁打飞，深深钉进石柱。“离她远点！”"
+  "tab": "I Chose a Slave, But He Parts",
+  "status": "complete",
+  "title": "I Chose a Slave, But He Parts the Sea / 내 남편은 거지 모세",
+  "overview": {
+    "title": {
+      "kr": "I Chose a Slave, But He Parts the Sea / 내 남편은 거지 모세",
+      "en": null
     },
-    {
-     "ep": "EP18",
-     "kr": "모세가 명령한다. \"Hold their faces close to the sacred fire.\" 병사들이 델릴라와 파라오를 다말이 걸었던 불길 앞으로 끌고 간다. 델릴라가 비명을 지른다. \"Spare me! Anything but my face! Please, I'll do whatever you say!\" 병사들이 두 사람의 얼굴을 불길 가까이로 밀어 넣는다.",
-     "en": "Moses gives the order: \"Hold their faces close to the sacred fire.\" The soldiers drag Delilah and Pharaoh to the same flames Tamar walked through. Delilah screams, \"Spare me! Anything but my face! Please, I'll do whatever you say!\" Then the soldiers shove both faces toward the fire.",
-     "cn": "摩西下令：“把他们的脸按到圣火前。”士兵把德莉拉和法老拖到塔玛走过的那条火路前。德莉拉尖叫：“饶了我！别毁我的脸！求你，你说什么我都照做！”随后士兵把两人的脸推向火焰。"
+    "program_id": {
+      "kr": "US000PB6S01",
+      "en": null
     },
-    {
-     "ep": "EP24",
-     "kr": "델릴라가 거울 앞에서 장신구를 대보며 웃다가 다음 장신구를 집는다. 개구리다. 침상, 옷장, 화장대가 개구리로 뒤덮이고 델릴라가 비명을 지르며 침상 위로 뛰어올라 다리를 타고 오르는 개구리를 쳐낸다. 하녀들은 줍는 척하며 웃음을 참는다.",
-     "en": "Delilah tries on jewels in front of the mirror, laughing, and picks up the next piece. It is a frog. The bed, the wardrobe and the dressing table swarm with frogs, and Delilah screams, climbs onto the bed and swats at the ones crawling up her legs while the maids pretend to gather them and bite back laughter.",
-     "cn": "德莉拉在镜前试戴首饰笑着，伸手拿下一件——是一只青蛙。床上、衣柜、梳妆台全被青蛙占满，德莉拉尖叫着跳上床，拍打往腿上爬的青蛙，侍女们假装捡青蛙，憋着笑。"
+    "pm": {
+      "kr": "Rowan Lee",
+      "en": null
     },
-    {
-     "ep": "EP28",
-     "kr": "하녀들이 다말의 어깨를 눌러 무릎 꿇리고, 델릴라가 발을 내민다. \"Go on, wash my feet. These are the feet of the woman who will be Great Royal Wife of this Kingdom.\" 다말이 젖은 천으로 델릴라의 발을 씻기고 하녀들이 웃는다. 새벽, 델릴라가 소매를 걷자 이가 팔을 물어뜯고 있고, 이가 비명 지르는 얼굴을 뒤덮는다.",
-     "en": "The maids force Tamar to her knees and Delilah holds out a foot. \"Go on, wash my feet. These are the feet of the woman who will be Great Royal Wife of this Kingdom.\" Tamar washes Delilah's feet with a wet cloth while the maids laugh. At dawn Delilah pulls up her sleeve, lice are biting into her arm, and they swarm over her screaming face.",
-     "cn": "侍女按住塔玛的肩膀让她跪下，德莉拉伸出脚：“来，给我洗脚。这是未来大王妃的脚。”塔玛用湿布为德莉拉洗脚，侍女们哄笑。黎明时德莉拉撩起袖子，虱子正咬着她的手臂，随即爬满她尖叫的脸。"
+    "drive": {
+      "kr": "",
+      "en": null
     },
-    {
-     "ep": "EP30",
-     "kr": "광장에서 근위대장이 쇠사슬에 묶인 라반을 무릎 꿇리고 때린다. 다말이 외친다. \"You will never get what you want!\" 먹구름이 몰려오고 거대한 우박이 쏟아지는데, 라반을 때린 근위대장의 머리만 맞아 피를 흘리며 쓰러진다. 델릴라가 신이 저 여자 편일 리 없다고 소리치는 순간 델릴라의 머리 위로 우박이 떨어진다.",
-     "en": "In the square the Captain of the Guard forces the chained Laban to his knees and beats him. Tamar shouts, \"You will never get what you want!\" Black clouds roll in and huge hail pours down, but only the captain who beat Laban is hit, collapsing with blood running from his head. The moment Delilah screams that the gods would never take that woman's side, a hailstone drops on her head.",
-     "cn": "广场上，卫队长把戴着镣铐的拉班按跪在地上殴打。塔玛喊道：“你永远得不到你想要的！”乌云压来，巨大的冰雹倾泻而下，却只砸中打拉班的卫队长，他头破血流倒地。德莉拉刚喊出神不可能站在那女人那边，冰雹就落在她头上。"
+    "release": {
+      "kr": "",
+      "en": null
     },
-    {
-     "ep": "EP49",
-     "kr": "물벽이 무너져 왕의 군대를 삼킨다. 델릴라가 부서진 전차 잔해를 타고 진흙투성이로 다말의 발치까지 기어온다. 다말이 델릴라의 손목에서 대왕비의 팔찌를 빼낸다. \"Give it back! That's the Great Royal Wife's bracelet!\" 다말이 팔찌를 웅덩이에 던지고 귓가에 말한다. \"Live, and pay the price.\"",
-     "en": "The walls of water collapse and swallow the king's army. Delilah crawls over the wreckage of a chariot, caked in mud, to Tamar's feet. Tamar rips the Great Royal Wife's bracelet off her wrist. \"Give it back! That's the Great Royal Wife's bracelet!\" Tamar throws it into a puddle and bends to her ear: \"Live, and pay the price.\"",
-     "cn": "水墙崩塌，吞没王军。德莉拉爬过破碎的战车残骸，满身泥浆地爬到塔玛脚边。塔玛从她手腕上扯下大王妃手镯。“还给我！那是大王妃的手镯！”塔玛把手镯扔进水洼，俯身在她耳边说：“活着，付出代价。”"
+    "format": {
+      "kr": "AI 실사",
+      "en": "AI 실사 / AI Live Action"
+    },
+    "language": {
+      "kr": "EN",
+      "en": "English / USA"
+    },
+    "eps": {
+      "kr": "50(7)",
+      "en": null
+    },
+    "logline": {
+      "kr": "동생에게 죽고 삼 년 전으로 회귀한 그녀, 조용히 살려고 고른 거지 남편이 하필 예언자 모세였다!",
+      "en": "Killed by her sister and reborn three years back, she picks a slave for a husband—only he's the Prophet Moses!"
+    },
+    "synopsis": {
+      "kr": "대왕비로 책봉되던 날 이복동생 델릴라의 단검에 죽은 다말은, 배필을 정하는 새 의식의 아침으로 회귀한다. 함께 회귀한 델릴라가 파라오를 채가자, 다말은 비둘기를 노예 구역으로 날려 누더기를 걸친 거지와 혼인한다. 그리고 그 남자가 바다를 갈랐다. 남편은 예언자 모세였고, 왕국에 내린 열 가지 재앙은 모두 누군가 다말을 건드린 뒤에 시작된 것이었다.",
+      "en": "Murdered by her own sister the day she is crowned Great Royal Wife, Tamar is reborn three years earlier at the ceremony that chooses her husband—and Delilah is reborn too, and takes Pharaoh. So Tamar sends her dove to the slaves' quarter and weds a slave in rags, only for him to part the sea. Her husband is the Prophet Moses, and every plague on the kingdom falls after someone hurts her."
+    },
+    "genre": {
+      "kr": "회귀 · 복수 · 히든 아이덴티티 · 신데렐라 로맨스",
+      "en": "Rebirth · Revenge · Hidden Identity · Cinderella Romance"
+    },
+    "differentiator": {
+      "kr": "가족이 비웃는 앞에서 스스로 거지를 남편으로 고른 여자가, 혼례 날 그 거지가 바다를 갈라 자기를 데리러 오는 것을 본다.",
+      "en": "A woman picks a beggar for a husband while her family laughs at her, and on her wedding day she watches that beggar part the sea to come for her."
+    },
+    "emotion": {
+      "kr": "나를 비웃던 가족과 왕 앞에서 내가 고른 거지가 바다를 가르는 것. 나를 때린 손, 나를 무릎 꿇린 발에 개구리와 이와 우박이 되돌아오는 것. 내 자리를 훔친 동생이 진흙 속에서 내 발치까지 기어와 우는 것.",
+      "en": "The beggar you chose parting the sea in front of the family and the king who laughed at you. Frogs, lice and hail coming back down on the hand that hit you and the foot that made you kneel. The sister who stole your place crawling through the mud to your feet, crying."
+    },
+    "highlight": {
+      "kr": "굴욕 컷과 그 직후의 재앙이 대본에 짝으로 있다. 발 씻기 뒤에 이, 라반 구타 뒤에 우박, 낙인 직전에 모래폭풍, 얼굴을 불에 밀어 넣는 보복까지. 바다 가르기는 7화, 그리고 46~47화의 바다 가르기와 도하까지 두 번 있고, 7화 쪽은 지참금 굴욕 바로 뒤에 붙어 있다. 개구리와 이가 델릴라 몸에 들러붙는 컷은 우스꽝스럽게 찍혀 있다. 델릴라가 무너지는 장면은 34·35·49화에 세 번 따로 있다.",
+      "en": "Every humiliation cut has its plague right behind it in the script: the foot-washing and then the lice, Laban beaten and then the hail, the sandstorm right before the branding iron lands, and faces shoved toward the fire as payback. The sea parts twice, in EP7 and again in EP46-47 with the crossing, and the EP7 one sits right after the dowry humiliation. The frogs and lice crawling over Delilah are shot for laughs. Delilah's fall happens three separate times, in EP34, EP35 and EP49."
+    },
+    "target": {
+      "kr": "여성향, 20~40대. 회귀 복수물, 거지 남편의 정체 반전, 히든 아이덴티티 로맨스를 보는 층.",
+      "en": "Female-skewing, 20s-40s. Viewers of rebirth-revenge, beggar-husband identity-reveal and hidden-identity romance titles."
+    },
+    "other": {
+      "kr": "NetShort <Swapped to a Beggar But He is Apollo>(48화)를 모세와 출애굽 세계로 옮긴 각색. 노출과 정사는 9화 첫날밤 한 번(남주 상의 탈의, 드레스 흘러내림, 키스까지). 그 밖의 키스는 10화(이마)·23·40·50화.",
+      "en": "An adaptation of NetShort's <Swapped to a Beggar But He is Apollo> (48 EP) moved into a Moses / Exodus world. One bedroom scene, the EP9 wedding night (ML shirtless, dress slipping off, kiss). Other kisses in EP10 (forehead), EP23, EP40 and EP50."
     }
-   ]
   },
-  {
-   "axis": "내가 고른 거지가 바다를 가른다 - 기적 스펙터클",
-   "rows": [
+  "episodes": [
     {
-     "ep": "EP7",
-     "kr": "전령관이 델릴라의 지참금 금화 아흔아홉 상자를 열고, 다말은 천 주머니 하나를 쥐고 서 있다. 해가 중천인데 신랑은 없다. 델릴라가 웃는다. \"That man ran away, obviously.\" 폭풍이 치고, 흙바람을 뚫고 온 모세가 지팡이를 들자 붉은 바다가 두 쪽으로 갈라져 물벽이 솟는다. 파라오와 델릴라가 뒤로 자빠진다. \"I have come for my bride, as I promised.\" (무료회차 엔딩)",
-     "en": "The herald opens ninety-nine chests of gold for Delilah's dowry while Tamar stands holding one cloth pouch. The sun is high and there is no groom. Delilah laughs: \"That man ran away, obviously.\" A storm breaks, Moses walks in through the dust and raises his staff, and the Crimson Sea splits in two with walls of water rising on both sides. Pharaoh and Delilah fall backward. \"I have come for my bride, as I promised.\" (last free episode ending)",
-     "cn": "传令官打开德莉拉嫁妆的九十九箱金币，塔玛只攥着一只布袋站着。日上中天，新郎不见踪影。德莉拉笑道：“那男人肯定跑了。”风暴骤起，摩西穿过沙尘走来举起手杖，红海一分为二，水墙两侧耸立。法老和德莉拉向后跌倒。“我依约来迎我的新娘。”（免费集结尾）"
+      "ep": 1,
+      "tier": 3,
+      "keywords": [
+        "대왕비암살",
+        "자매동반회귀"
+      ],
+      "scene": "델릴라가 다말의 등에 단검을 박아 넣는다. 칼끝이 가슴을 뚫고 나온다. \"We are not sisters anymore.\"",
+      "treatment": "대왕비 책봉식에서 두루마리를 받아 든 다말의 등에 델릴라가 단검을 박아 넣는다. 델릴라는 3년 전 같은 날 새 날리기 의식에서 자신은 거지와 엮였는데 다말만 파라오를 얻었다며 울부짖고, 불기둥이 델릴라까지 집어삼켜 두 사람이 나란히 숨을 거둔다. 다말이 3년 전 새 날리기 의식 날 아침으로 돌아와 눈을 뜨고, 이번 생의 파라오는 자기가 갖겠다는 델릴라의 귓속말을 듣고 델릴라도 같은 날로 돌아왔음을 알아챈다. 델릴라가 먼저 황금 새장의 매를 잡아 파라오에게 날려 보내고, 매가 파라오의 어깨에 앉자 가족들이 환호한다."
     },
     {
-     "ep": "EP15",
-     "kr": "성소에서 기도하던 모세가 다말이 위험하다는 말을 듣고 지팡이로 바닥을 친다. 누더기가 깨끗해지고 목걸이와 팔찌, 장식띠가 빛을 내며 나타난다. \"Summon the brave warriors of the Sanctuary!\" 모세가 모래폭풍을 타고 하늘로 솟아 왕도를 내려다본다.",
-     "en": "Praying in the Sanctuary, Moses hears that Tamar is in danger and slams his staff into the floor. The rags turn clean and a glowing necklace, bracelets and jeweled sash appear on him. \"Summon the brave warriors of the Sanctuary!\" He rides a sandstorm up into the sky and looks down on the Royal City.",
-     "cn": "在圣所祈祷的摩西听说塔玛有危险，手杖砸向地面。破衣瞬间变洁净，发光的项链、手镯、宝石腰带显现。“召集圣所的勇士！”他乘沙暴升空，俯瞰王都。"
+      "ep": 2,
+      "tier": 0,
+      "keywords": [
+        "배필가로채기",
+        "노예구역행"
+      ],
+      "scene": null,
+      "treatment": "가족들이 델릴라의 혼사를 축하하며 다말을 비웃는 사이, 델릴라는 공사장 노예 무리 속에서 돌을 깨는 모세를 발견하고 낯빛이 굳는다. 네페라는 다말에게도 파라오 가문에 걸맞은 배필을 고르라고 다그치고, 델릴라는 언니의 비둘기가 대단한 분에게 닿을 거라며 비꼰다. 다말이 아무도 없는 구역을 향해 비둘기를 날리자, 비둘기 주위로 황금빛 모래가 반짝이다 사라지고, 비둘기는 노예 구역으로 날아간다. 라반이 머리카락을 쥐어 잡고 그쪽은 노예들이 일하는 곳이라고 소리친다."
     },
     {
-     "ep": "EP34",
-     "kr": "파라오가 델릴라 대신 다말에게 대왕비의 관을 내밀고, 다말이 거절한다. \"That crown already killed me once.\" 파라오가 하늘을 보며 비웃는다. \"Can your god blot out that sun and drown this kingdom's sky in darkness?\" 쨍쨍하던 대낮의 해가 서서히 검게 물들고, 하늘에서 모세의 목소리가 울린다. \"For three days there will be no sun over this land.\"",
-     "en": "Pharaoh holds the Great Royal Wife's crown out to Tamar instead of Delilah, and Tamar refuses: \"That crown already killed me once.\" Pharaoh looks up and sneers, \"Can your god blot out that sun and drown this kingdom's sky in darkness?\" The blazing midday sun slowly turns black, and Moses' voice rings from the sky: \"For three days there will be no sun over this land.\"",
-     "cn": "法老越过德莉拉把大王妃的王冠递给塔玛，塔玛拒绝：“那顶王冠已经杀过我一次。”法老仰头冷笑：“你的神能遮住那轮太阳，让王国的天空陷入黑暗吗？”正午烈日缓缓变黑，摩西的声音自天而降：“三天之内，这片土地上不会有太阳。”"
+      "ep": 3,
+      "tier": 0,
+      "keywords": [
+        "거지신랑반전",
+        "어깨손톱"
+      ],
+      "scene": null,
+      "treatment": "비둘기가 소란을 무시하고 모세에게 날아가 그가 세워둔 지팡이 위에 앉는다. 모세는 대언자로서 받은 지팡이를 지키려 비둘기를 조심스레 들어올리고, 비둘기가 그의 어깨에 앉는다. 델릴라는 노예가 다말의 새를 받았다며 통쾌해하고, 다말의 어깨에 손톱을 박아 넣으며 노예 구역을 가리킨다. 다말이 델릴라가 가리킨 곳을 보자, 비둘기를 어깨에 얹은 모세가 고개를 들어 다말을 올려다본다."
     },
     {
-     "ep": "EP36",
-     "kr": "근위병의 칼이 무릎 꿇은 다말과 라반의 목을 치려는 순간, 광장 입구에서 모래바람이 날아와 칼을 쳐낸다. 모래바람이 군중 사이를 한 줄기 길처럼 가르고, 그 너머에서 모세가 걸어 나와 파라오 앞에 선다. \"Let my people go.\"",
-     "en": "As the guard's blade swings at the necks of the kneeling Tamar and Laban, a sandstorm flies in from the square's entrance and knocks the blade away. The sand cuts a single road through the crowd, and Moses walks out of it to stand before Pharaoh. \"Let my people go.\"",
-     "cn": "卫兵的刀砍向跪着的塔玛和拉班的脖颈的一瞬，广场入口卷来沙暴，把刀打飞。沙暴在人群中劈出一条路，摩西从中走出，站到法老面前。“让我的百姓走。”"
+      "ep": 4,
+      "tier": 0,
+      "keywords": [
+        "혼인수락선언",
+        "가족경악"
+      ],
+      "scene": null,
+      "treatment": "가족들이 노예에게 새를 뺏겼다며 경악하고, 라반은 다말을 쓸모없는 것이라 다그치고, 네페라는 델릴라라도 신의 피를 이은 가문과 맺어져 다행이라며 라반을 달랜다. 군중은 맹세를 어기면 가문 전체가 저주받는다고 수군대고, 다말은 파랗게 질려 발코니를 뛰쳐나간다. 네페라가 붙잡으라 소리치고 델릴라가 뒤를 쫓는 사이, 다말은 광장 계단 아래에서 모세와 마주 선다. 가족들 앞에서 다말이 신의 뜻이 두려워서가 아니라 자신이 이 남자를 골랐다며 혼인을 받아들인다."
     },
     {
-     "ep": "EP47",
-     "kr": "갈라진 바다 사이로 마른 길이 드러나고 백성들이 물벽 사이를 걸어 건넌다. 모세는 맨 뒤에서 물벽을 지킨다. 마지막 짐수레가 바닷길에 들어서고 모세가 뒤따르자 모래기둥이 사라지고, 파라오의 전차들이 바다 밑바닥으로 쫓아 들어온다.",
-     "en": "A dry road opens between the parted waters and the people walk across between the walls of water while Moses holds the rear. As the last cart enters the road and Moses follows, the pillar of sand vanishes and Pharaoh's chariots pour down onto the seabed after them.",
-     "cn": "分开的海水之间露出干路，百姓在水墙之间走过，摩西殿后守着水墙。最后一辆货车驶入海路、摩西跟上的那一刻，沙柱消失，法老的战车紧追着冲进海底。"
+      "ep": 5,
+      "tier": 0,
+      "keywords": [
+        "공개혼인선언",
+        "대리석붕괴"
+      ],
+      "scene": null,
+      "treatment": "모세와 아론이 놀라는 사이 다말이 자신을 소개하고 군중 앞에서 모세와 혼인하겠다고 선언한다. 라반과 네페라가 모세의 가난을 이유로 다말을 뜯어말리지만, 다말은 비단과 황금이 사람을 귀하게 만들지 않는다며 물러서지 않는다. 라반은 다말을 가문에서 내치겠다고 선언하고 군중을 향해 돌아선다. 다말이 모세를 향해 돌아서는 순간, 신전 증축 공사장의 비계가 무너지며 대리석이 두 사람 위로 쏟아진다."
+    },
+    {
+      "ep": 6,
+      "tier": 0,
+      "keywords": [
+        "지팡이돌풍",
+        "구출"
+      ],
+      "scene": null,
+      "treatment": "모세가 다말을 끌어안아 감싸고 지팡이로 땅을 내리찍자 돌풍이 일어 대리석의 궤도를 꺾는다. 군중은 갑작스러운 바람을 목격하고 수군대지만, 모세는 아무 일 없었다는 듯 태연하다. 다말은 모세가 지팡이를 내려친 순간 돌풍이 일었음을 알아채지만, 그가 감추고 싶어 하는 힘이라 여기고 모른 척한다. 다말은 사흘 뒤 죽음의 바다 앞 제단에서 혼례를 올리자 약속하고 자리를 뜬다."
+    },
+    {
+      "ep": 7,
+      "tier": 3,
+      "keywords": [
+        "지참금굴욕",
+        "바다가르기",
+        "컷오프"
+      ],
+      "scene": "귀족들이 도망간 신랑이라 비웃는 사이, 모세가 지팡이를 들자 붉은 바다가 두 쪽으로 갈라진다. \"I have come for my bride, as I promised.\"",
+      "treatment": "델릴라의 혼례에서 전령관이 순금 장신구와 금화 아흔아홉 상자를 공개하고, 다말은 작은 천 주머니 하나만 쥔 채 조롱을 견딘다. 해가 중천에 떠도 모세가 오지 않자 파라오와 귀족들이 다말을 비웃고, 절망한 다말 위로 폭풍우가 몰아친다. 병사들의 조롱 속에서 흙바람을 뚫고 걸어온 모세가 지팡이를 바다로 들자, 붉은 바다가 좌우로 갈라지며 거대한 물벽이 솟구친다. 파라오와 델릴라가 뒤로 자빠지고 사람들이 무릎 꿇는 가운데, 모세가 다말만을 향해 손을 내민다."
+    },
+    {
+      "ep": 8,
+      "tier": 0,
+      "keywords": [
+        "기적부정",
+        "신부안아들기"
+      ],
+      "scene": null,
+      "treatment": "모세가 여전히 노예 차림으로 걸어 들어오자 뒤의 바다가 원래대로 닫힌다. 델릴라는 폭풍이 우연히 바다를 갈랐을 뿐이라 소리치고, 라반도 속았다며 분노한다. 라반이 누더기 차림으로 온 모세를 모욕하자 다말이 그 앞을 막아서며 재물이 아니라 서약이 혼인이라 반박한다. 대신관이 모세에게서 범상치 않은 기운을 느끼는 사이, 모세는 델릴라를 무시한 채 다말을 안아 들고 자신의 집으로 향한다."
+    },
+    {
+      "ep": 9,
+      "tier": 2,
+      "keywords": [
+        "첫날밤",
+        "노출",
+        "키스"
+      ],
+      "scene": "상의를 벗은 모세가 다말의 허리띠 매듭을 풀자 드레스가 어깨 아래로 흘러내린다. 다말이 그의 맨가슴에 손을 얹는다. \"Turn your head away. The light is too bright.\"",
+      "treatment": "아론의 주례로 다말과 모세가 허름한 돌집에서 혼례를 올리고, 모세는 태어날 때부터 지녀온 황금 펜던트를 다말에게 건넨다. 밤이 되자 모세가 다말의 드레스 매듭을 풀고, 두 사람은 촛불 아래서 입을 맞추며 하나가 된다. 다음 날 아침 다말이 어머니께 띠를 바치러 가족들에게 다녀오겠다 하자 모세가 함께 가겠다고 나선다. 집을 나선 두 사람 앞에 사막 저편에서 온 이민족 장로들이 나타나 무릎을 꿇는다."
+    },
+    {
+      "ep": 10,
+      "tier": 1,
+      "keywords": [
+        "대언자변신",
+        "정체숨김"
+      ],
+      "scene": "모세가 지팡이를 내리찍자 누더기가 예복으로 변하고 두 눈이 황금빛으로 물든다. 모래기둥에 싸여 하늘로 솟는다.",
+      "treatment": "장로들이 모세를 대언자라 부르며 무릎 꿇자, 모세는 다말에게 양치기 시절 동료라 둘러대고 아론과 함께 자리를 만든다. 다말이 혼자 가족들에게 향하는 사이, 모세는 표정을 굳히고 아론에게 목숨을 걸고 다말을 지키라 명한다. 모세가 지팡이를 내리찍자 누더기가 대언자의 찬란한 예복으로 변하고 두 눈이 황금빛으로 물들며 모래기둥에 싸여 하늘로 솟아오른다. 라반의 저택 앞에 도착한 다말은 델릴라와 파라오 앞에서 다시 혼자 왔냐는 조롱을 듣는다."
+    },
+    {
+      "ep": 11,
+      "tier": 0,
+      "keywords": [
+        "파라오희롱",
+        "선물조롱"
+      ],
+      "scene": null,
+      "treatment": "델릴라와 파라오가 혼자 온 다말의 남편을 조롱하고, 파라오가 다말의 턱을 잡아 올리며 수작을 건다. 다말이 손을 뿌리치자 가족들은 그녀가 빈손으로 왔다며 몰아세우고, 정성껏 짠 비단 띠마저 바닥에 내던지며 비웃는다. 모두가 웃는 사이 한 시종이 다급히 뛰어와 라반 앞에 멈춰 선다."
+    },
+    {
+      "ep": 12,
+      "tier": 0,
+      "keywords": [
+        "성소예물반전",
+        "맨발굴욕예고"
+      ],
+      "scene": null,
+      "treatment": "성소에서 다말 앞으로 보물 상자가 도착하자 가족들이 충격에 빠지고, 델릴라가 성소 수행원에게 금화를 쥐여주며 입을 막는다. 라반은 다말을 가문의 수치라 부르며 쫓아내지만, 자존심이 상해 다시 불러 세운다. 델릴라가 나서서 떠나려면 맨발로 광장을 걸으며 가문을 욕보였다 외치라는 대가를 요구한다."
+    },
+    {
+      "ep": 13,
+      "tier": 1,
+      "keywords": [
+        "뺨때림",
+        "펜던트문양탄로"
+      ],
+      "scene": "라반이 다말의 뺨을 때려 쓰러뜨린다. 목에서 끊어진 펜던트가 바닥에 구르고, 예물 상자와 같은 문양이 드러난다.",
+      "treatment": "라반과 델릴라, 파라오가 번갈아 다말을 가난한 남편과 엮어 모욕하자 다말은 자신이 아버지에게 재산일 뿐이었다고 말한다. 격분한 라반이 다말의 뺨을 때려 쓰러뜨리고, 그 충격에 목에 걸린 펜던트가 끊어져 바닥에 떨어진다. 펜던트의 문양이 마당에 쌓인 상자들의 문양과 같다는 것을 라반이 알아채고, 수풀 뒤에 숨어 지켜보던 아론이 겁에 질린 채 지켜본다."
+    },
+    {
+      "ep": 14,
+      "tier": 0,
+      "keywords": [
+        "가문이름포기",
+        "불의길예고"
+      ],
+      "scene": null,
+      "treatment": "델릴라가 펜던트를 돌려주는 조건으로 다말에게 가문 이름을 영원히 버리라고 요구하고, 라반은 지금부터 자기 딸은 델릴라 하나뿐이라고 선언한다. 다말이 신목 앞에서 가문과의 인연을 끊겠다고 맹세하지만 델릴라는 약속을 어기고 떠나는 자가 치러야 할 법도가 남았다고 말한다. 델릴라가 하인들에게 제단의 기름 먹인 장작을 가져오라 명령한다."
+    },
+    {
+      "ep": 15,
+      "tier": 3,
+      "keywords": [
+        "맨발불의길",
+        "모세각성"
+      ],
+      "scene": "다말이 신발을 벗고 불타는 장작길에 맨발로 들어선다. 델릴라는 불길 위에서 펜던트를 흔든다. \"walk the sacred path of fire barefoot.\"",
+      "treatment": "델릴라가 불길 위에서 펜던트를 흔들며 다말에게 맨발로 불의 길을 걸으라 조롱하고, 다말은 델릴라가 펜던트를 불에 던지는 시늉을 하자 걷겠다고 답한다. 신발을 벗은 다말이 불타는 장작길 위로 발을 내딛고, 살이 타는 고통 속에서도 끝까지 걸어 펜던트를 향해 나아간다. 같은 시각 성소에서 기도하던 모세는 아론에게 다말이 위험하다는 말을 듣고 지팡이로 옷을 신성한 예복으로 바꾼 뒤 모래폭풍을 일으켜 하늘로 솟아오른다."
+    },
+    {
+      "ep": 16,
+      "tier": 3,
+      "keywords": [
+        "얼굴낙인위협",
+        "모래폭풍등장"
+      ],
+      "scene": "델릴라가 시뻘겋게 달군 낙인을 다말의 얼굴에 내리찍으려는 순간, 모래폭풍이 낙인을 쳐내 돌기둥에 박는다. \"Get away from her!\"",
+      "treatment": "다말이 피투성이 손으로 바닥을 기어 펜던트를 되찾자, 델릴라는 화로에서 달군 태양 문양 낙인을 꺼내 다말의 얼굴에 가져다 댄다. 델릴라가 이 낙인이 언니의 아름다움을 빼앗을 거라고 조롱하고 파라오가 태워버리라 외치는 순간, 하늘에서 천둥 같은 목소리가 울리며 거대한 모래폭풍이 저택을 덮친다. 낙인이 델릴라의 손에서 날아가 돌기둥에 박히고, 황금 장신구를 두른 모세가 모래폭풍 속에서 걸어 나온다."
+    },
+    {
+      "ep": 17,
+      "tier": 0,
+      "keywords": [
+        "델릴라걷어차기",
+        "병사포위"
+      ],
+      "scene": null,
+      "treatment": "모세가 델릴라를 걷어차 쓰러뜨리고 피투성이가 된 다말을 품에 안아 일으킨 뒤 손에 입을 맞춘다. 라반과 네페라는 노예인 줄 알았던 모세가 성소 병사들을 거느린 것을 보고 경악하고, 델릴라는 아론이 옛 동료들을 데려와 속이는 것이라 우긴다. 다말이 정신을 잃으려 하자 모세가 화상 입은 발을 발견하고, 누가 아내를 이렇게 만들었냐며 살기를 드러내고, 성소 병사들에게 가족을 잡으라 명령한다."
+    },
+    {
+      "ep": 18,
+      "tier": 3,
+      "keywords": [
+        "얼굴불길보복",
+        "델릴라애원"
+      ],
+      "scene": "병사들이 델릴라와 파라오를 불길 앞으로 끌고 간다. \"Spare me! Anything but my face! Please, I'll do whatever you say!\" 병사들이 두 사람의 얼굴을 불길 가까이로 밀어 넣는다.",
+      "treatment": "모세가 성소 병사들에게 델릴라와 파라오, 라반과 네페라의 얼굴을 신성한 불길 가까이 가져가라 명령하며 다말이 흘린 눈물 한 방울까지 열 배로 갚게 하겠다고 말한다. 델릴라와 파라오가 불길 앞으로 끌려가 얼굴만은 안 된다며 애원하고 몸부림치자, 병사들이 두 사람의 얼굴을 불길 가까이로 밀어 넣는다. 바로 그 순간 저택 정문이 열리며 갑옷을 입은 파라오의 병사들이 들어온다."
+    },
+    {
+      "ep": 19,
+      "tier": 0,
+      "keywords": [
+        "지팡이뱀대결",
+        "처형명령"
+      ],
+      "scene": null,
+      "treatment": "파라오의 마술사들이 지팡이를 뱀으로 바꿔 모세를 위협하지만, 모세가 자신의 지팡이를 내려놓자 그것이 거대한 뱀이 되어 마술사들의 뱀을 모두 삼켜버린다. 마술사들과 라반, 네페라가 그 권능에 경악하는 가운데 델릴라는 파라오에게 자비를 베풀지 말라 부추긴다. 용기를 얻은 파라오가 병사의 단검을 빼앗아 모세를 겨누며 왕국의 정의를 묻는 모세의 말에 병사들에게 반역자를 모조리 죽이라 명령한다."
+    },
+    {
+      "ep": 20,
+      "tier": 0,
+      "keywords": [
+        "다말자기희생",
+        "황금눈각성",
+        "델릴라검습격"
+      ],
+      "scene": null,
+      "treatment": "다말이 모세를 위험에서 지키려 스스로 몸을 일으켜 파라오 앞으로 절뚝이며 걸어가 자신을 잡고 남편에게 자비를 베풀어달라 애원하지만, 힘이 다해 쓰러진다. 모세가 쓰러지는 다말을 품에 안고 창백한 얼굴을 확인한 순간 두 눈이 황금빛으로 타오르며 모래폭풍이 저택을 뒤흔들고, 파라오의 병사들이 길을 열어 모세와 다말을 그냥 보낸다. 델릴라는 두 사람이 사랑하는 모습에 질투로 일그러진 채 전부 불태우겠다 중얼거리다 병사의 검을 빼앗아 들고 달려든다."
+    },
+    {
+      "ep": 21,
+      "tier": 2,
+      "keywords": [
+        "검녹아내림",
+        "피의우물"
+      ],
+      "scene": "델릴라가 기절한 다말의 심장에 검을 내리찍는다. 칼날이 허공에서 멈춰 시뻘겋게 녹아 흘러내리고, 저택의 우물마다 피가 솟는다.",
+      "treatment": "델릴라가 검으로 모세의 어깨를 찌르지만, 모세는 펜던트를 다말에게 넘긴 채로도 상처만 입을 뿐 쓰러지지 않는다. 델릴라가 의식을 잃은 다말의 심장을 노리고 칼을 내리찍지만, 칼날이 허공에서 멈춰 녹아내리고 델릴라는 손에 화상을 입는다. 사람들이 비명을 지르는 사이, 라반 저택의 우물이란 우물이 전부 피로 뒤덮인다."
+    },
+    {
+      "ep": 22,
+      "tier": 0,
+      "keywords": [
+        "피의우물확산",
+        "델릴라화상"
+      ],
+      "scene": null,
+      "treatment": "라반의 저택 모든 우물에서 피만 솟아 라반과 사람들이 혼란에 빠지고, 델릴라는 화상 입은 손을 식히려 깨끗한 물에 손을 넣지만 그 물마저 붉게 변한다. 델릴라는 모세의 술수라며 발악하고, 파라오는 델릴라를 안심시키며 병사들에게 노예를 찾으라 명령한다. 병사가 모세는 이미 왕도를 벗어났다고 보고하자, 델릴라는 반드시 대가를 치르게 하겠다고 다짐한다."
+    },
+    {
+      "ep": 23,
+      "tier": 2,
+      "keywords": [
+        "정체고백",
+        "키스",
+        "왕궁담판"
+      ],
+      "scene": "정체를 고백한 모세가 다말과 입을 맞춘다. 이어 사슬 없이 왕궁에 걸어 들어가 파라오 앞에 선다. \"This is not a request.\"",
+      "treatment": "다말이 눈을 뜨자 모세가 자신이 신의 대언자임을 고백하고, 두 사람은 애틋하게 입맞춘다. 모세는 사슬 없이 왕궁으로 걸어 들어가 파라오에게 노예 해방을 요구하며 이것은 부탁이 아니라고 말한다. 파라오는 그를 오만방자하다 나무라고, 모세는 다말에게 저지른 죄부터 갚게 해주겠다고 선언한다."
+    },
+    {
+      "ep": 24,
+      "tier": 2,
+      "keywords": [
+        "개구리재앙",
+        "파라오약속파기"
+      ],
+      "scene": "장신구인 줄 알고 집은 것이 개구리다. 침상과 옷장, 화장대가 개구리로 뒤덮이고 델릴라가 비명을 지르며 침상 위로 뛰어오른다.",
+      "treatment": "델릴라가 화려한 장신구에 취해 웃다가, 장신구인 줄 알고 집어 든 것이 개구리라는 것을 알고 비명을 지르며 침상 위로 올라간다. 파라오는 개구리를 없애주면 노예를 풀어주겠다 약속하지만, 모세가 재앙을 거두자마자 약속을 깬다. 다말은 성소 봉사관에서 일을 시작하지만 하녀 우두머리 케네트가 그녀 발치에 더러운 빨랫감을 내던지며 텃세를 부린다."
+    },
+    {
+      "ep": 25,
+      "tier": 0,
+      "keywords": [
+        "도둑누명",
+        "손결박",
+        "종기재앙"
+      ],
+      "scene": null,
+      "treatment": "케네트가 화를 내며 다말을 밀치고, 넘어지며 펜던트 줄이 끊어져 바닥에 구른다. 케네트는 펜던트를 훔쳤다며 다말의 손을 밧줄로 묶고 마당 한가운데 세워 둔다. 다말은 모세의 아내임을 밝히지 않은 채 감독관의 조언을 떠올리며 침묵을 지키고, 그날 밤 케네트의 뺨에 종기가 돋아난다."
+    },
+    {
+      "ep": 26,
+      "tier": 0,
+      "keywords": [
+        "케네트무릎",
+        "인질소환"
+      ],
+      "scene": null,
+      "treatment": "케네트가 종기의 고통에 못 이겨 다말 앞에 무릎 꿇고 용서를 빌고, 다말은 원망 없이 약초를 찧어 상처를 치료해준다. 그 사이 감독이 케네트 몸에서 떨어진 황금 펜던트를 발견해 압수하고, 다말을 사람이 적은 물독 마당으로 보낸다. 그때 왕국의 사자가 성소에 들어와 라반이 지하 감옥에 갇혔다며 다말을 데려가겠다고 선언한다."
+    },
+    {
+      "ep": 27,
+      "tier": 0,
+      "keywords": [
+        "라반인질",
+        "다말결박"
+      ],
+      "scene": null,
+      "treatment": "다말은 모세를 뒤로하고 왕국의 사자를 따라나서며 반드시 돌아오겠다고 약속한다. 왕궁에서 피투성이가 된 라반을 마주한 다말은 파라오에게 남편의 위치를 대라는 요구를 거부하고, 파라오는 다말이 왕궁에 머무는 한 모세가 스스로 찾아올 거라며 병사들에게 그녀를 붙잡게 한다. 다말은 왕궁 밖으로 한 발짝도 나가지 못한 채 갇힌다."
+    },
+    {
+      "ep": 28,
+      "tier": 3,
+      "keywords": [
+        "발씻기굴욕",
+        "이재앙"
+      ],
+      "scene": "델릴라가 무릎 꿇은 다말에게 발을 내민다. \"Go on, wash my feet.\" 다말이 발을 씻기고 하녀들이 웃는다. 새벽, 델릴라의 팔에 이가 들러붙는다.",
+      "treatment": "델릴라가 지하 감옥에 갇힌 다말을 찾아와 조롱하고, 하녀들이 다말을 무릎 꿇리자 다말은 아버지를 살리기 위해 델릴라의 발을 씻긴다. 하녀들은 그 모습을 보며 비웃고, 델릴라는 오랫동안 꿈꿔온 순간이라며 만족스러워한다. 새벽이 되자 왕궁 전체에 흙먼지가 이로 변해 퍼지고, 델릴라의 몸에 이가 들러붙어 비명을 지른다."
+    },
+    {
+      "ep": 29,
+      "tier": 0,
+      "keywords": [
+        "변신잠입",
+        "아버지택함"
+      ],
+      "scene": null,
+      "treatment": "이 재앙에 왕국 최고의 술사들도 손을 놓고, 파라오는 분노한다. 지하 감옥에서 낯선 얼굴로 변신한 모세가 다말에게 손을 내밀며 성소로 돌아가자고 청하지만, 다말은 아버지를 두고 갈 수 없다며 거절한다. 모세는 그대의 뜻을 존중하겠다며 돌아서 사라졌다가, 아무도 없는 곳에서 원래 얼굴로 돌아와 다말을 자신의 방식대로 지키겠다고 다짐한다."
+    },
+    {
+      "ep": 30,
+      "tier": 3,
+      "keywords": [
+        "선택적우박",
+        "델릴라피격"
+      ],
+      "scene": "라반을 때린 근위대장의 머리에 거대한 우박이 떨어져 피를 흘리며 쓰러진다. 이어 델릴라의 머리 위로 우박이 떨어진다. 다른 사람은 안 맞는다.",
+      "treatment": "광장에서 근위대장이 쇠사슬에 묶인 라반을 무릎 꿇리고 때리자 병사들에게 붙들린 다말이 울며 몸부림치지만, 파라오는 침묵하면 아비를 버리는 것이라 다그친다. 다말이 굴복하지 않겠다 외치자 하늘에서 거대한 우박이 쏟아지고, 라반을 때린 근위대장과 다말을 조롱한 델릴라만 정확히 맞아 쓰러진다. 군중이 신이 다말의 편이라 웅성거리자 파라오는 다말을 다시 지하 감옥에 가두라 명하고, 네페라가 다말에게 복수를 다짐한다."
+    },
+    {
+      "ep": 31,
+      "tier": 0,
+      "keywords": [
+        "계모뺨때림",
+        "가축몰살"
+      ],
+      "scene": null,
+      "treatment": "병사들이 다말을 지하 감옥으로 끌고 가던 중, 네페라가 가로막고 다말의 뺨을 때린다. 다말이 발의 상처 때문에 계단에서 굴러떨어져 이마를 계단 모서리에 부딪혀 피가 흐르고, 네페라는 치료를 막으며 다시는 나타나지 말라고 말한다. 새벽, 라반의 저택 외양간에서 가축들이 전부 다말과 같은 자리에 상처를 입은 채 죽어 있다. 네페라는 우연이라 되뇌며 두려움에 떤다."
+    },
+    {
+      "ep": 32,
+      "tier": 0,
+      "keywords": [
+        "파라오문책",
+        "거울파괴"
+      ],
+      "scene": null,
+      "treatment": "파라오가 잇단 재앙의 원인으로 델릴라를 지목하고 처분을 예고한다. 델릴라는 자신이 기억하는 미래와 다르게 모든 것이 무너지고 있다며 분노하고, 원인이 다말과 그 노예 남편이라 확신한다. 델릴라가 손에 쥔 보석을 거울에 던져 깨뜨린다. 델릴라는 깨진 조각을 집어 들며 다말을 죽이면 모든 것이 제자리로 돌아올 거라 결심한다."
+    },
+    {
+      "ep": 33,
+      "tier": 2,
+      "keywords": [
+        "목에칼",
+        "재앙정체탄로"
+      ],
+      "scene": "델릴라가 거울 조각을 다말의 목에 겨눈다. 다말이 눈을 뜨고 말한다. \"Go ahead, stab me.\" 델릴라의 손이 멈추고 조각이 바닥에 떨어진다.",
+      "treatment": "델릴라가 몰래 감옥에 들어가 거울 조각을 다말의 목에 겨눈다. 다말이 두려움 없이 찌르라고 말하자 델릴라의 손이 멈추고, 재앙이 전부 다말을 건드린 뒤에 일어났다는 사실을 깨닫는다. 다말도 그동안 자신을 지켜준 것이 모세라는 것을 알아차리고 눈물짓는다. 그때 병사가 들어와 두 사람에게 내일 아침 왕궁 앞으로 나오라고 명령한다."
+    },
+    {
+      "ep": 34,
+      "tier": 3,
+      "keywords": [
+        "왕관거절",
+        "델릴라추방",
+        "태양암전"
+      ],
+      "scene": "파라오가 다말에게 대왕비 관을 내밀고 델릴라는 근위병에게 끌려 나간다. \"You are supposed to love me!!\" 쨍쨍하던 해가 검게 물든다.",
+      "treatment": "파라오가 델릴라 대신 다말에게 대왕비의 관을 내밀지만 다말은 그 관 때문에 한 번 죽었다며 거절한다. 델릴라가 근위병에게 붙잡혀 끌려 나가고, 파라오는 아버지의 석방과 노예 해방을 조건으로 다말을 회유하지만 다말은 모세와의 맹세가 더 귀하다고 답한다. 파라오가 모세의 신이 태양을 가릴 수 있냐고 비웃는 순간, 쨍쨍하던 해가 서서히 검게 물든다. 모세의 목소리가 하늘을 울리며 사흘간 해가 없을 거라 선언한다."
+    },
+    {
+      "ep": 35,
+      "tier": 0,
+      "keywords": [
+        "사흘암흑",
+        "델릴라거지전락"
+      ],
+      "scene": null,
+      "treatment": "해가 사라지자 신관들이 태양신에게 불을 올리지만 신성한 불마저 꺼지고, 파라오의 얼굴에 처음으로 두려움이 스친다. 대왕비 자리에서 쫓겨난 델릴라는 거지 행색으로 거리를 헤매다 백성에게 침 뱉음을 당하고 절규한다. 어둠 속에서 다말은 손끝에 닿은 온기를 모세의 신이라 착각하고 남편을 지켜 달라 기도하며 눈물짓는다. 그 손이 다말의 손을 단단히 감싸는 순간, 파라오가 다말의 어깨를 잡아채 지하 감옥으로 끌고 간다."
+    },
+    {
+      "ep": 36,
+      "tier": 3,
+      "keywords": [
+        "처형직전구출",
+        "노예해방요구"
+      ],
+      "scene": "칼이 다말과 라반의 목에 닿기 직전 모래바람이 칼을 쳐낸다. 모래 사이로 걸어온 모세가 파라오 앞에 선다. \"Let my people go.\"",
+      "treatment": "사흘 만에 해가 돌아오고, 근위병들이 쇠사슬에 묶인 라반을 광장으로 끌어낸다. 다말이 무릎 꿇고 아버지를 살려 달라 빌지만 파라오는 모세를 넘기고 대왕비가 되라는 조건을 걸고, 다말이 거절하자 라반과 다말 모두를 처형하라고 명한다. 칼이 두 사람의 목에 닿기 직전 모래바람이 날아와 칼을 쳐내고, 모래바람 사이로 걸어 나온 모세가 파라오 앞에 서서 노예 해방을 요구한다."
+    },
+    {
+      "ep": 37,
+      "tier": 0,
+      "keywords": [
+        "장자재앙경고",
+        "피표식"
+      ],
+      "scene": null,
+      "treatment": "파라오가 모세의 요구를 비웃자 모세는 오늘 밤 이 땅의 모든 맏이가 죽을 것이라 경고하며, 피로 문설주에 표를 하면 살아남을 거라 말한다. 사람들이 동요하며 하나둘 광장을 빠져나가고, 다말은 두려움을 떨치고 라반과 네페라를 이민족 구역으로 데려간다. 네페라는 다말이 데려온 자가 혼란을 일으켰다며 원망하지만 결국 다말을 따른다. 다말은 두 사람을 남겨두고 아직 남은 일이 있다며 다시 저택으로 향한다."
+    },
+    {
+      "ep": 38,
+      "tier": 0,
+      "keywords": [
+        "혈서표식",
+        "왕자죽음",
+        "파라오항복"
+      ],
+      "scene": null,
+      "treatment": "다말이 텅 빈 저택으로 돌아와 문 앞에서 날카로운 돌로 자신의 손바닥을 그어 피로 문설주에 표식을 그린다. 자정, 모래 줄기가 왕도의 거리를 흐르며 표식 없는 집마다 스며들고 비명이 터져 나온다. 파라오는 자신의 문에 표를 하지 않았다며 자신했지만, 왕자가 숨을 쉬지 않는다는 소식에 아이를 품에 안고 무너진다. 파라오는 눈물을 흘리며 모세에게 백성을 전부 데리고 땅을 떠나라고 말한다."
+    },
+    {
+      "ep": 39,
+      "tier": 0,
+      "keywords": [
+        "라반네페라짐꾼",
+        "출애굽행렬"
+      ],
+      "scene": null,
+      "treatment": "동이 트기 전 왕도의 성문이 열리고 수많은 백성이 짐을 지고 몰려나온다. 다말은 노역에 지쳐 행렬 밖으로 밀려난 라반과 네페라를 발견하지만, 이민족 장로들은 짐승 하나도 버리지 말라던 모세의 말을 들어 두 사람을 받아들이되 가장 무거운 짐을 지워 행렬 맨 뒤로 보낸다. 백성들은 다말을 알아보고 하나둘 길을 비키며 우러러본다. 한 아이가 다말에게 대언자의 아내라면 맨 앞에서 걸어야 하지 않냐며 어서 가라고 말한다."
+    },
+    {
+      "ep": 40,
+      "tier": 2,
+      "keywords": [
+        "미리암정체",
+        "손치유",
+        "키스"
+      ],
+      "scene": "다말이 달려가 안기고, 모세가 다말의 손바닥 상처를 어루만지자 상처가 낫는다. 두 사람이 입을 맞춘다.",
+      "treatment": "감독관 미리암이 다말에게 펜던트를 돌려주며 왕국의 학살령 때 갓난 동생을 갈대 바구니에 띄워 보낸 이야기를 들려주고, 다말은 그 아이가 모세이며 지하 감옥에서 느낀 온기의 주인도 모세였음을 알게 된다. 멀리서 모세가 다말을 부르고, 다말이 달려가 안기자 모세가 손바닥의 상처를 어루만져 낫게 하고 두 사람이 조심스럽게 키스한다. 그 시각 텅 빈 왕궁에서는 거지꼴이 된 델릴라가 파라오 앞에 무릎 꿇고, 왕의 권위에 도전한 자들에게 대가를 치르게 하라고 부추긴다."
+    },
+    {
+      "ep": 41,
+      "tier": 0,
+      "keywords": [
+        "불기둥",
+        "회상"
+      ],
+      "scene": null,
+      "treatment": "백성들이 사막을 행렬 지어 걷는 가운데, 다말은 대리석이 쏟아지던 날 자신들을 구한 바람을 떠올리며 그것이 신의 힘이었음을 깨닫는다. 밤이 되자 모래기둥이 사라지고 거대한 불기둥이 솟아올라 백성들의 길을 밝히고, 다말과 모세는 서로에게 기대어 백성들을 바라본다. 텅 빈 왕도에서 델릴라는 노예들이 왕의 재산을 통째로 훔쳐 달아났다며 파라오를 부추기고, 파라오는 왕국에 남은 마지막 군마를 전차에 매어 추격을 명령한다."
+    },
+    {
+      "ep": 42,
+      "tier": 0,
+      "keywords": [
+        "파라오추격",
+        "전차발각"
+      ],
+      "scene": null,
+      "treatment": "파라오와 델릴라가 탄 왕실 전차들이 왕궁 문을 열고 사막으로 쏟아져 나온다. 사막을 걷던 모세가 다말에게 다정한 마음을 고백하다가 무언가를 알아채고 뒤를 돌아본다. 지평선 너머 흙먼지가 점점 커지고 말발굽 소리가 들려오자, 다말은 파라오가 자신들을 쫓아왔음을 깨닫는다."
+    },
+    {
+      "ep": 43,
+      "tier": 0,
+      "keywords": [
+        "흉터고백",
+        "붉은바다막힘"
+      ],
+      "scene": null,
+      "treatment": "파라오의 군대가 다가오자 백성들은 겁에 질려 항복을 이야기하며 동요한다. 다말은 신발을 벗어 다리의 흉터를 드러내고 자신도 두려움을 안고 있다고 고백하며 사람들을 설득한다. 백성들은 마음을 돌려 다시 걷기 시작하지만, 언덕을 넘자 끝이 보이지 않는 붉은 바다가 앞을 가로막고 있다."
+    },
+    {
+      "ep": 44,
+      "tier": 0,
+      "keywords": [
+        "백성원망",
+        "델릴라발견"
+      ],
+      "scene": null,
+      "treatment": "붉은 바다 앞에 갇힌 백성 하나가 모세의 멱살을 잡고 원망을 쏟아내자, 다말이 나서서 사람들을 진정시킨다. 뒤쫓아온 왕실군이 행렬 후미까지 따라붙고, 전차 위의 델릴라가 군중 사이에서 다말을 발견한다. 델릴라는 차갑게 웃으며 다말을 찾아냈다고 말한다."
+    },
+    {
+      "ep": 45,
+      "tier": 0,
+      "keywords": [
+        "모래기둥방벽",
+        "델릴라협박"
+      ],
+      "scene": null,
+      "treatment": "모래기둥이 백성들과 왕실군 사이를 가로막아 병사들의 진격을 막는다. 델릴라는 다말에게 다정한 목소리로 돌아오라 회유하지만 다말은 그 속셈을 꿰뚫어 보고 거절한다. 모래기둥이 델릴라의 팔에 상처를 입히자, 델릴라는 울분에 차 다말이 돌아오면 가장 잔혹한 죽음을 맞게 될 거라고 소리친다."
+    },
+    {
+      "ep": 46,
+      "tier": 0,
+      "keywords": [
+        "횃불소멸",
+        "바다갈라짐시작"
+      ],
+      "scene": null,
+      "treatment": "파라오는 병사들을 독려해 사기를 끌어올리지만, 날이 밝아오자 다말은 초조해진다. 신비한 바람이 불어와 왕실군의 횃불을 전부 꺼뜨리고, 모세는 신이 자신들을 버리지 않았음을 확신한다. 모세가 바다 앞에서 지팡이를 들어 올리자 바닷물이 갈라지기 시작한다."
+    },
+    {
+      "ep": 47,
+      "tier": 2,
+      "keywords": [
+        "바다도하",
+        "전차추격"
+      ],
+      "scene": "갈라진 바다 사이 마른 길로 백성들이 걸어 들어간다. 마지막 수레가 바닷길에 들어서자 모래기둥이 사라지고 왕실 전차들이 뒤따라 쏟아져 들어온다.",
+      "treatment": "갈라진 바다 사이로 길이 드러나고, 백성들은 놀라움과 기쁨 속에 마른땅을 밟으며 건너기 시작한다. 모세는 행렬의 맨 뒤를 지키며 모두가 지나갈 때까지 물벽을 지킨다. 마지막 짐수레가 바닷길에 들어서고 모세가 뒤따르자 모래기둥이 사라지고, 왕실 전차들이 마른 바다 밑바닥으로 쫓아 들어온다. 파라오는 한 사람도 놓치지 말라고 병사들에게 명령한다."
+    },
+    {
+      "ep": 48,
+      "tier": 0,
+      "keywords": [
+        "전차침몰",
+        "델릴라육탄추격"
+      ],
+      "scene": null,
+      "treatment": "진흙탕에 빠진 왕실 전차들이 부서지는 사이, 델릴라는 전차에서 뛰어내려 다말을 향해 필사적으로 쫓아간다. 다말은 마지막으로 바다를 건너고, 모세는 다말을 품에 안아 뒤로 돌아선다. 델릴라와 파라오의 군대를 마주한 모세가 지팡이를 천천히 들어 올리자 물벽이 떨리기 시작한다."
+    },
+    {
+      "ep": 49,
+      "tier": 3,
+      "keywords": [
+        "왕실군수장",
+        "팔찌박탈"
+      ],
+      "scene": "델릴라가 부서진 전차 잔해를 타고 다말의 발치까지 기어온다. 다말이 그 손목에서 대왕비 팔찌를 빼내 웅덩이에 던진다. 델릴라가 울부짖는다. \"Just kill me!\"",
+      "treatment": "무너진 물벽이 왕실군을 집어삼키고, 파라오는 간신히 건너편 기슭으로 떠밀려 나온다. 파라오가 왕비 자리와 가족의 목숨을 미끼로 돌아오라 회유하지만 다말은 차갑게 거절한다. 델릴라가 잔해를 타고 다말의 발치까지 기어오자 다말은 그녀의 손목에서 대왕비의 팔찌를 빼앗아 웅덩이에 던지고, 델릴라가 차라리 죽이라고 울부짖자 죽지 말고 살아서 죗값을 치르라고 말한다. 홀로 남은 파라오는 모든 것을 잃었음을 깨닫는다."
+    },
+    {
+      "ep": 50,
+      "tier": 2,
+      "keywords": [
+        "아내공개선언",
+        "키스엔딩"
+      ],
+      "scene": "백성들 앞에서 모세가 다말의 손을 잡는다. \"Tamar is my wife.\" 밤, 두 사람이 광야를 보며 입을 맞춘다.",
+      "treatment": "미리암이 백성들과 노래하며 자유를 기념하고, 다말에게 소고를 건네며 그녀를 자신들의 사람으로 받아들인다. 모세는 다말의 손을 잡고 백성들 앞에서 그녀가 자신의 아내임을 선언한다. 밤이 되자 두 사람은 아직 아무것도 없는 광야를 바라보며 함께 집을 짓자고 약속하고, 서로를 마주 보며 입을 맞춘다."
     }
-   ]
-  },
-  {
-   "axis": "거지 남편과의 첫날밤 - 노출·키스",
-   "rows": [
+  ],
+  "cast": [
     {
-     "ep": "EP9",
-     "kr": "촛불 켜진 돌집. 상의를 벗은 모세가 다말의 드레스 허리띠 매듭을 본다. \"I want to undo it myself…\" 매듭이 풀리고 드레스가 어깨 아래로 흘러내린다. 다말이 그의 맨가슴에 손을 얹는다. \"Turn your head away. The light is too bright.\" 모세가 그 손을 감싸 쥔다. \"I want to see all of you, Tamar, including the moment you become mine.\" 입을 맞추며 침대로 쓰러지고, 촛불 너머로 두 실루엣이 하나로 겹친다.",
-     "en": "A candlelit stone house. Moses, stripped to the waist, looks at the knot at the waist of Tamar's dress. \"I want to undo it myself…\" The knot comes loose and the dress slips off her shoulders. Tamar lays a hand on his bare chest: \"Turn your head away. The light is too bright.\" He folds her hand in his: \"I want to see all of you, Tamar, including the moment you become mine.\" They fall onto the bed kissing, and beyond the candle the two silhouettes merge into one.",
-     "cn": "烛光石屋。赤裸上身的摩西看着塔玛裙腰的结：“我想亲手解开……”结松开，裙子从她肩上滑落。塔玛把手按在他赤裸的胸口：“把头转过去，光太亮了。”他握住她的手：“我想看你的全部，塔玛，包括你成为我的人的那一刻。”两人吻着倒在床上，烛光后两道剪影合而为一。"
+      "name": "다말 (Tamar) / FL",
+      "kr": "라반 가문의 큰딸. 전생에 파라오의 아내로 살다 대왕비로 책봉되던 날 이복동생의 단검에 죽었고, 3년 전 배필을 정하는 새 의식 아침으로 돌아왔다. 이번에는 가족이 보는 앞에서 비둘기를 노예 구역으로 날려 거지를 남편으로 고른다. 뺨을 맞고, 맨발로 불 위를 걷고, 동생의 발을 씻기고, 목에 칼이 닿는 자리에서도 남편을 부르지 않는다. 그리고 다말을 괴롭힌 사람들에게 재앙이 하나씩 떨어진다. 이 작품에서 팔리는 그림은 전부 이 인물에게서 나온다.",
+      "en": "Eldest daughter of the house of Laban. In her last life she was Pharaoh's wife and was stabbed by her half-sister the day she was crowned Great Royal Wife, then woke up three years earlier on the morning of the bird ceremony that picks a husband. This time she sends her dove to the slaves' quarter in front of her whole family and marries a beggar. She gets slapped, walks barefoot over fire, washes her sister's feet and takes a blade to her throat without ever calling for him. And one by one, plagues fall on the people who hurt her. Every sellable image in this title comes from her.",
+      "cn": "拉班家的长女。前世身为法老之妻，在被册封为大王妃的当天死于异母妹妹的匕首之下，随后回到三年前择偶鸟祭的清晨。这一世她当着全家人的面把鸽子放向奴隶区，选了一个乞丐做丈夫。她被打耳光、赤脚走火路、给妹妹洗脚、被刀抵住喉咙，也从不呼喊丈夫。而欺负她的人，一个接一个遭了灾祸。本作所有能卖的画面，全部来自这个人物。"
     },
     {
-     "ep": "EP23",
-     "kr": "눈을 뜬 다말에게 모세가 자신이 신의 대언자라고 고백한다. 다말이 모세의 뺨을 만지고 두 사람이 애틋하게 키스한다.",
-     "en": "When Tamar wakes, Moses confesses that he is the Prophet of the Lord. Tamar touches his cheek and the two kiss, aching and slow.",
-     "cn": "塔玛醒来，摩西坦白自己是神的代言人。塔玛抚上他的脸颊，两人深情地接吻。"
+      "name": "모세 (Moses) / ML",
+      "kr": "노예 구역에서 돌을 깨는 거지. 실제로는 신의 대언자로, 자기 백성 곁에 있으려고 신분을 숨겼다. 다말이 날린 비둘기가 그의 지팡이에 앉는다. 다말이 괴롭힘을 당하면 재앙을 내려 갚고, 아내에게는 대언자라는 사실을 23화에서야 말한다. 혼례 날 붉은 바다를 갈라 다말을 데려가고(EP7), 마지막에 다시 바다를 갈라 백성을 건너게 한 뒤 왕의 군대 위로 바다를 닫는다(EP47~49).",
+      "en": "A beggar breaking stone in the slaves' quarter. In truth the Prophet of the Lord, hiding his rank to stay beside his people. Tamar's dove lands on his staff. When Tamar is hurt he answers with a plague, and he only tells his wife what he is in EP23. On the wedding day he parts the Crimson Sea to take her home (EP7), and in the end he parts it again for his people and closes it over the king's army (EP47-49).",
+      "cn": "在奴隶区敲石头的乞丐，实为神的代言人，为了留在自己的百姓身边而隐藏身份。塔玛放出的鸽子落在了他的手杖上。塔玛受到欺凌，他便降下灾祸偿还；直到第23集才告诉妻子自己是谁。婚礼当天他分开红海带走塔玛（第7集），最后再次分开大海让百姓渡过，再让海水合拢吞没王军（第47~49集）。"
     },
     {
-     "ep": "EP40",
-     "kr": "멀리서 모세가 다말을 부르고, 다말이 달려가 안긴다. 모세가 다말의 손바닥 상처를 어루만지자 상처가 그 자리에서 낫는다. 두 사람이 조심스럽게 입을 맞춘다.",
-     "en": "Moses calls Tamar from a distance and she runs into his arms. He strokes the wound on her palm and it heals under his touch. They kiss, carefully.",
-     "cn": "摩西在远处唤塔玛，她奔过去扑进他怀里。摩西抚过她掌心的伤口，伤口当场愈合。两人小心翼翼地接吻。"
+      "name": "델릴라 (Delilah) / Villain",
+      "kr": "다말의 이복동생. 전생에서 거지와 엮여 밑바닥에서 썩다가 언니를 죽였고, 같은 날로 함께 회귀해 이번에는 파라오를 먼저 채간다. 언니를 진흙에 처박는 것이 목표다. 펜던트를 미끼로 언니를 맨발로 불 위를 걷게 하고 달군 낙인을 얼굴에 내리찍으려 하고(EP15~16), 감옥에서 무릎 꿇려 발을 씻긴다(EP28). 개구리가 방을 뒤덮고(EP24), 발을 씻긴 새벽에는 이가 몸에 들러붙고(EP28), 광장에서는 우박에 맞는다(EP30). EP34에서 파라오가 다말에게 대왕비 관을 내밀자 근위병에게 끌려 나가고, EP49에서 바다에 휩쓸린 뒤 진흙 속에서 다말의 발치까지 기어오지만 다말이 그 손목의 대왕비 팔찌를 빼내 웅덩이에 던진다. 죽지 못하고 살아서 대가를 치른다.",
+      "en": "Tamar's half-sister. In her last life she was chained to a beggar, rotted at the bottom and killed her sister. Reborn on the same day, this time she grabs Pharaoh first. Her goal is to grind her sister into the mud. She uses the pendant to make her sister walk barefoot over fire and tries to bring a red-hot brand down on her face (EP15-16), then makes her kneel and wash her feet in the dungeon (EP28). Frogs swarm her room (EP24), lice crawl over her the dawn after the foot-washing (EP28), and hail hits her in the square (EP30). In EP34 Pharaoh offers the crown to Tamar and the guards drag Delilah out; in EP49, washed up by the sea, she crawls through the mud to Tamar's feet, and Tamar rips the Great Royal Wife's bracelet off her wrist and throws it in a puddle. She is not allowed to die. She lives and pays.",
+      "cn": "塔玛的异母妹妹。前世与乞丐绑在一起烂在底层，最终杀了姐姐；同一天一起重生后，这次她先抢走了法老。她的目标是把姐姐踩进泥里。她用吊坠逼姐姐赤脚走火路、举起烧红的烙铁要往她脸上按（第15~16集），又在地牢里逼她跪下洗脚（第28集）。青蛙爬满她的房间（第24集），洗脚后的黎明虱子爬满她全身（第28集），在广场上又被冰雹砸中（第30集）。第34集法老把大王妃的王冠递给塔玛，她被卫兵拖出王宫；第49集她被海水冲上岸，在泥里爬到塔玛脚边，塔玛从她手腕上扯下大王妃手镯扔进水洼。她不被允许去死，只能活着偿还。"
     },
     {
-     "ep": "EP50",
-     "kr": "백성들 앞에서 모세가 다말의 손을 잡는다. \"I declare it here, before all of you. Tamar is my wife.\" 밤, 아무것도 없는 광야를 보며 두 사람이 집을 짓자고 약속하고 입을 맞춘다.",
-     "en": "In front of the people Moses takes Tamar's hand. \"I declare it here, before all of you. Tamar is my wife.\" That night, looking out at the empty wilderness, they promise to build a house together and kiss.",
-     "cn": "在百姓面前，摩西握住塔玛的手：“我在此向你们所有人宣告，塔玛是我的妻子。”夜里，两人望着一无所有的旷野，约定一起盖房子，然后接吻。"
+      "name": "파라오 (Pharaoh) / Villain",
+      "kr": "신의 피를 이었다고 주장하는 왕국의 통치자. 전생에 다말의 남편이었고, 이번 생에서는 델릴라의 매를 받는다. 다말의 얼굴에 낙인을 찍으라고 부추기고(EP16), 노예 해방을 약속하고는 개구리가 사라지자마자 말을 바꾸며, 다말과 라반의 처형을 명한다(EP36). 왕자가 장자 재앙으로 숨을 거두자 아이를 안고 무너져 백성을 보내준다(EP38). 군대를 끌고 바다까지 쫓아왔다가 EP49에서 물벽이 닫히며 군대를 전부 잃고, 홀로 진흙 기슭에 떠밀려 올라와 대왕비 자리를 미끼로 다말을 부르지만 거절당한다.",
+      "en": "Ruler of the kingdom, claiming the blood of the gods. In Tamar's last life he was her husband; this time Delilah's hawk lands on him. He eggs on the branding of Tamar's face (EP16), promises to free the slaves and breaks his word the moment the frogs are gone, and orders Tamar and Laban executed (EP36). When the prince dies in the plague of the firstborn he breaks down holding the boy and lets the people go (EP38). He chases them to the sea with his army and loses all of it when the walls of water close in EP49, then washes up alone on the mud and offers Tamar the queen's throne to come back. She refuses.",
+      "cn": "自称拥有神之血统的王国统治者。前世他是塔玛的丈夫，这一世接住了德莉拉的鹰。他怂恿给塔玛的脸烙印（第16集），答应释放奴隶却在青蛙一消失就翻脸，又下令处死塔玛和拉班（第36集）。王子死于长子之灾后，他抱着孩子崩溃，放百姓离开（第38集）。他率军追到海边，第49集水墙合拢，全军尽失，独自被冲上泥滩，以大王妃之位引诱塔玛回来，被拒绝。"
+    },
+    {
+      "name": "라반 (Laban) / Sub-villain",
+      "kr": "다말과 델릴라의 아버지. 딸은 가문의 영광을 사 오는 물건이다. 비둘기가 노예 구역으로 날아가자(EP2) 다말을 쓸모없는 것이라 부르고(EP4), 혼인하는 순간 가문과 남남이라고 선언한다(EP5). 침묵으로 델릴라 편을 들고 다말의 뺨을 때려 쓰러뜨린다(EP13). 파라오에게 붙잡혀 지하 감옥에 갇히고(EP26), 광장에서 무릎 꿇려 맞는다(EP30). 처형 직전 모세에게 구해진 뒤(EP36), 해방 행렬 맨 끝에서 가장 무거운 짐을 지고 걸으며 다말에게 네 아비가 아니냐고 매달린다(EP39).",
+      "en": "Father of Tamar and Delilah. A daughter, to him, is a thing that buys glory for the house. When the dove flies to the slaves' quarter (EP2) he calls Tamar useless (EP4) and declares her nothing to the family the moment she marries (EP5). He sides with Delilah in silence and slaps Tamar to the ground (EP13). Pharaoh throws him in the dungeon (EP26) and has him beaten on his knees in the square (EP30). Saved by Moses seconds before execution (EP36), he ends up at the tail of the freed people's column carrying the heaviest load, begging Tamar to remember he is still her father (EP39).",
+      "cn": "塔玛和德莉拉的父亲。在他眼里女儿是为家族换取荣耀的物件。鸽子飞向奴隶区后（第2集）他骂塔玛没用（第4集），宣布她一旦成婚就与家族再无关系（第5集）。他以沉默站在小女儿一边，又一巴掌把塔玛打倒在地（第13集）。后被法老关进地牢（第26集），在广场上跪着挨打（第30集）。处刑前一刻被摩西所救（第36集），最后在解放队伍的末尾背着最重的行李，哀求塔玛别忘了他还是她的父亲（第39集）。"
+    },
+    {
+      "name": "미리암 (Miriam) / Sub",
+      "kr": "모세의 친누이이자 성소의 감독관. 왕국의 학살령 때 갓난 동생을 갈대 바구니에 띄워 살린 사람이다. EP40에서 다말에게 펜던트를 돌려주며 그 이야기를 들려주고, 다말은 그 아이가 모세라는 것을 안다. EP50에서 다말에게 소고를 쥐여 주며 이미 우리 사람이라고 말한다.",
+      "en": "Moses' elder sister and an overseer at the Sanctuary. She is the one who floated her newborn brother down the river in a reed basket during the kingdom's massacre. In EP40 she gives Tamar back the pendant and tells her that story, and Tamar realizes the baby was Moses. In EP50 she presses a hand drum into Tamar's hands and tells her she is already one of them.",
+      "cn": "摩西的亲姐姐，也是圣所的监工。王国屠杀令时，是她把刚出生的弟弟放进芦苇篮漂走救下。第40集她把吊坠还给塔玛并讲出这段往事，塔玛明白那个婴儿就是摩西。第50集她把手鼓塞进塔玛手里，说她早已是自己人。"
     }
-   ]
-  }
- ],
- "fakes": [
-  {
-   "kind": "ai",
-   "no": 1,
-   "title": "온 가족이 비웃는 앞에서 거지를 남편으로 고른 여자, 그 거지가 바다를 갈랐다",
-   "spec": "22초 · 4컷",
-   "cuts": [
+  ],
+  "reference_label": "Reference",
+  "reference": [
     {
-     "label": "컷1 · 0-5초",
-     "kr": "△ 저택 발코니. 광장에 귀족 남자들이 새를 받겠다고 손을 뻗고 있다. 동생이 매를 날려 왕의 어깨에 앉히고, 가족이 환호한다. 언니는 비둘기를 들고 반대편, 돌을 깨는 노예들 쪽으로 날린다. 아버지가 머리를 쥐어뜯는다.\n 나레이션VO: 동생에게 죽고 삼 년 전으로 돌아온 그녀는, 이번 생에는 왕 대신 거지를 골랐다.",
-     "en": "△ Estate balcony. Down in the square, noble sons reach up to catch a bird. The younger sister sends her hawk to the king's shoulder and the family cheers. The elder sister lifts her dove and sends it the other way, toward the slaves breaking stone. Her father tears at his hair.\n VO (Narrator): Killed by her sister and sent back three years, this time she chose a beggar over the king.",
-     "cn": "△ 宅邸阳台。广场上贵族子弟纷纷伸手想接住鸟。妹妹放出鹰落在国王肩上，全家欢呼。姐姐举起鸽子，朝相反方向——正在敲石头的奴隶那边放飞。父亲抓着头发。\n 旁白VO：被妹妹杀死、回到三年前的她，这一世没选国王，选了一个乞丐。"
-    },
-    {
-     "label": "컷2 · 5-11초",
-     "kr": "△ 혼례 날 광장. 동생 앞에 금화 상자 아흔아홉 개가 열리고, 언니 손에는 천 주머니 하나. 해가 중천인데 신랑 자리가 비어 있다. 귀부인들이 손으로 입을 가리고 웃고, 동생이 언니 귀에 대고 말한다.\n 델릴라: \"거지도 널 안 데려가네, 언니.\"\n 나레이션VO: 신랑은 오지 않았다. 온 왕도가 그녀를 비웃었다.",
-     "en": "△ The wedding square. Ninety-nine chests of gold open in front of the sister; the elder holds one cloth pouch. The sun is high and the groom's place is empty. Noblewomen laugh behind their hands, and the sister leans into her ear.\n DELILAH: \"Even a beggar won't take you, sister.\"\n VO (Narrator): The groom never came. The whole city laughed at her.",
-     "cn": "△ 婚礼广场。妹妹面前打开九十九箱金币，姐姐手里只有一只布袋。日上中天，新郎的位置空着。贵妇们掩嘴而笑，妹妹凑到姐姐耳边。\n 德莉拉：“连乞丐都不要你，姐姐。”\n 旁白VO：新郎没有来。整个王都都在嘲笑她。"
-    },
-    {
-     "label": "컷3 · 11-17초",
-     "kr": "△ 하늘이 잿빛으로 변하고 폭풍이 친다. 흙바람 속에서 누더기 차림의 남자가 걸어온다. 병사들이 창으로 막자 남자가 말없이 지팡이를 바다로 든다. 붉은 바다가 두 쪽으로 갈라지고 수십 미터 물벽이 솟는다. 왕과 동생이 뒤로 자빠지고 귀족들이 무릎을 꿇는다.\n 모세: \"약속대로 나의 신부를 맞이하러 왔다.\"",
-     "en": "△ The sky goes ash gray and a storm breaks. A man in rags walks in through the dust. Soldiers block him with spears; he says nothing and raises his staff toward the sea. The Crimson Sea splits in two and walls of water tower on both sides. The king and the sister fall backward; the nobles drop to their knees.\n MOSES: \"I have come for my bride, as I promised.\"",
-     "cn": "△ 天空转为灰暗，风暴骤起。一个衣衫褴褛的男人穿过沙尘走来。士兵用长矛拦住，他一言不发，举杖指向大海。红海一分为二，数十米高的水墙耸立两侧。国王和妹妹向后跌倒，贵族纷纷跪下。\n 摩西：“我依约来迎我的新娘。”"
-    },
-    {
-     "label": "컷4 · 17-22초",
-     "kr": "△ 갈라진 바다 한가운데, 남자가 오직 그녀에게만 손을 내민다. 그녀가 천 주머니를 버리고 그 손을 잡는다. 뒤에서 왕이 진흙에 무릎 꿇은 채 대왕비의 관을 내밀지만, 그녀는 돌아보지 않는다.\n 【화면 자막】 그녀가 고른 거지는, 예언자 모세였다",
-     "en": "△ In the middle of the parted sea, the man holds out his hand to her and no one else. She drops the pouch and takes it. Behind her the king kneels in the mud holding out the Great Royal Wife's crown, and she does not look back.\n 【ON SCREEN】 The beggar she chose was the Prophet Moses.",
-     "cn": "△ 分开的海中央，男人只向她一人伸出手。她扔掉布袋握住那只手。身后国王跪在泥里捧出大王妃的王冠，她头也不回。\n 【画面字幕】她选的那个乞丐，是先知摩西。"
+      "title": "NetShort <Swapped to a Beggar But He is Apollo>",
+      "scenes": "화관을 던져 배필을 정하는 의식에서 언니가 거지를 얻는 자리. 혼례 날 지참금으로 망신을 당하던 신부 앞에 거지 신랑 아폴론이 신의 권능을 드러내며 나타나는 자리. 아내는 남편의 정체를 모르는 채 굴욕을 당하고, 그때마다 남편의 힘이 상대에게 떨어지는 되갚음 루프. 같이 회귀한 동생이 끝까지 언니를 밟으려다 무너지는 자매 구도. 이 뼈대를 그대로 두고 화관을 비둘기로, 아폴론을 예언자 모세로, 신의 권능을 재앙과 바다 가르기로 바꿨다.",
+      "ad": "미확인."
     }
-   ]
-  },
-  {
-   "kind": "reuse",
-   "no": 1,
-   "title": "거지 남편이 도망친 뒤 지옥을 사는 여자",
-   "spec": "4컷 · EP7·15·28·36",
-   "truth": "모세는 도망친 적이 없다. 7화에서 바다를 갈라 다말을 데려갔고, 15·28화의 굴욕은 그 뒤 다말이 가족과 왕궁에 붙잡혀 당하는 일이며, 그때마다 모세의 재앙이 상대에게 떨어진다. 36화 등장은 처형 직전 구출이다.",
-   "cuts": [
+  ],
+  "mkt_ideas": [
     {
-     "label": "컷1 · EP7",
-     "kr": "△ 혼례 광장. 다말이 천 주머니 하나를 쥐고 비어 있는 신랑 자리를 돌아본다. 델릴라가 웃는다.\n 델릴라: \"That man ran away, obviously. No slave takes in a woman with no blessing and no power.\"\n △ 파라오와 라반, 귀족들이 다말을 보며 웃는다.\n 나레이션VO: 혼례 날, 그녀가 고른 거지 남편은 오지 않았다.",
-     "en": "△ The wedding square. Tamar holds one cloth pouch and looks back at the empty groom's place. Delilah laughs.\n DELILAH: \"That man ran away, obviously. No slave takes in a woman with no blessing and no power.\"\n △ Pharaoh, Laban and the nobles laugh at Tamar.\n VO (Narrator): On her wedding day, the beggar she chose never came.",
-     "cn": "△ 婚礼广场。塔玛攥着一只布袋，回头看空着的新郎位置。德莉拉笑了。\n 德莉拉：“那男人肯定跑了。没有祝福没有权势的女人，连奴隶都不要。”\n △ 法老、拉班和贵族们看着塔玛大笑。\n 旁白VO：婚礼当天，她选的乞丐丈夫没有来。"
+      "axis": "여주를 건드린 자에게 재앙이 돌아온다 - 굴욕·되갚음",
+      "rows": [
+        {
+          "ep": "EP16",
+          "kr": "피투성이 손으로 바닥을 기어 펜던트를 되찾은 다말의 턱을 델릴라가 잡고, 시뻘겋게 달군 태양 낙인을 얼굴에 가져다 댄다. 파라오가 소리친다. \"Burn her! Make that traitor suffer!\" 낙인이 내려오는 순간 모래폭풍이 낙인을 쳐내 돌기둥에 박는다. \"Get away from her!\"",
+          "en": "Tamar crawls across the floor with bloodied hands and gets her pendant back. Delilah grabs her jaw and brings a red-hot sun-shaped brand to her face while Pharaoh shouts, \"Burn her! Make that traitor suffer!\" As the brand comes down, a sandstorm knocks it out of Delilah's hand and buries it in a stone pillar. \"Get away from her!\"",
+          "cn": "塔玛用血淋淋的双手爬过地面捡回吊坠，德莉拉掐住她的下巴，把烧红的太阳烙铁按向她的脸，法老在旁大喊“烧她！让那个叛徒受苦！”烙铁落下的瞬间，沙暴把烙铁打飞，深深钉进石柱。“离她远点！”"
+        },
+        {
+          "ep": "EP18",
+          "kr": "모세가 명령한다. \"Hold their faces close to the sacred fire.\" 병사들이 델릴라와 파라오를 다말이 걸었던 불길 앞으로 끌고 간다. 델릴라가 비명을 지른다. \"Spare me! Anything but my face! Please, I'll do whatever you say!\" 병사들이 두 사람의 얼굴을 불길 가까이로 밀어 넣는다.",
+          "en": "Moses gives the order: \"Hold their faces close to the sacred fire.\" The soldiers drag Delilah and Pharaoh to the same flames Tamar walked through. Delilah screams, \"Spare me! Anything but my face! Please, I'll do whatever you say!\" Then the soldiers shove both faces toward the fire.",
+          "cn": "摩西下令：“把他们的脸按到圣火前。”士兵把德莉拉和法老拖到塔玛走过的那条火路前。德莉拉尖叫：“饶了我！别毁我的脸！求你，你说什么我都照做！”随后士兵把两人的脸推向火焰。"
+        },
+        {
+          "ep": "EP24",
+          "kr": "델릴라가 거울 앞에서 장신구를 대보며 웃다가 다음 장신구를 집는다. 개구리다. 침상, 옷장, 화장대가 개구리로 뒤덮이고 델릴라가 비명을 지르며 침상 위로 뛰어올라 다리를 타고 오르는 개구리를 쳐낸다. 하녀들은 줍는 척하며 웃음을 참는다.",
+          "en": "Delilah tries on jewels in front of the mirror, laughing, and picks up the next piece. It is a frog. The bed, the wardrobe and the dressing table swarm with frogs, and Delilah screams, climbs onto the bed and swats at the ones crawling up her legs while the maids pretend to gather them and bite back laughter.",
+          "cn": "德莉拉在镜前试戴首饰笑着，伸手拿下一件——是一只青蛙。床上、衣柜、梳妆台全被青蛙占满，德莉拉尖叫着跳上床，拍打往腿上爬的青蛙，侍女们假装捡青蛙，憋着笑。"
+        },
+        {
+          "ep": "EP28",
+          "kr": "하녀들이 다말의 어깨를 눌러 무릎 꿇리고, 델릴라가 발을 내민다. \"Go on, wash my feet. These are the feet of the woman who will be Great Royal Wife of this Kingdom.\" 다말이 젖은 천으로 델릴라의 발을 씻기고 하녀들이 웃는다. 새벽, 델릴라가 소매를 걷자 이가 팔을 물어뜯고 있고, 이가 비명 지르는 얼굴을 뒤덮는다.",
+          "en": "The maids force Tamar to her knees and Delilah holds out a foot. \"Go on, wash my feet. These are the feet of the woman who will be Great Royal Wife of this Kingdom.\" Tamar washes Delilah's feet with a wet cloth while the maids laugh. At dawn Delilah pulls up her sleeve, lice are biting into her arm, and they swarm over her screaming face.",
+          "cn": "侍女按住塔玛的肩膀让她跪下，德莉拉伸出脚：“来，给我洗脚。这是未来大王妃的脚。”塔玛用湿布为德莉拉洗脚，侍女们哄笑。黎明时德莉拉撩起袖子，虱子正咬着她的手臂，随即爬满她尖叫的脸。"
+        },
+        {
+          "ep": "EP30",
+          "kr": "광장에서 근위대장이 쇠사슬에 묶인 라반을 무릎 꿇리고 때린다. 다말이 외친다. \"You will never get what you want!\" 먹구름이 몰려오고 거대한 우박이 쏟아지는데, 라반을 때린 근위대장의 머리만 맞아 피를 흘리며 쓰러진다. 델릴라가 신이 저 여자 편일 리 없다고 소리치는 순간 델릴라의 머리 위로 우박이 떨어진다.",
+          "en": "In the square the Captain of the Guard forces the chained Laban to his knees and beats him. Tamar shouts, \"You will never get what you want!\" Black clouds roll in and huge hail pours down, but only the captain who beat Laban is hit, collapsing with blood running from his head. The moment Delilah screams that the gods would never take that woman's side, a hailstone drops on her head.",
+          "cn": "广场上，卫队长把戴着镣铐的拉班按跪在地上殴打。塔玛喊道：“你永远得不到你想要的！”乌云压来，巨大的冰雹倾泻而下，却只砸中打拉班的卫队长，他头破血流倒地。德莉拉刚喊出神不可能站在那女人那边，冰雹就落在她头上。"
+        },
+        {
+          "ep": "EP49",
+          "kr": "물벽이 무너져 왕의 군대를 삼킨다. 델릴라가 부서진 전차 잔해를 타고 진흙투성이로 다말의 발치까지 기어온다. 다말이 델릴라의 손목에서 대왕비의 팔찌를 빼낸다. 델릴라가 소리친다. \"Give it back! That's the Great Royal Wife's bracelet!\" 다말은 말없이 팔찌를 웅덩이에 던진다. 델릴라가 차라리 죽이라고 울부짖자, 다말이 몸을 일으키며 말한다. \"Live, and pay the price.\"",
+          "en": "The walls of water collapse and swallow the king's army. Delilah crawls over the wreckage of a chariot, caked in mud, to Tamar's feet. Tamar rips the Great Royal Wife's bracelet off her wrist, and Delilah screams, \"Give it back! That's the Great Royal Wife's bracelet!\" Tamar throws it into a puddle without a word. Delilah shrieks at her to just kill her, and Tamar straightens up: \"Live, and pay the price.\"",
+          "cn": "水墙崩塌，吞没王军。德莉拉爬过破碎的战车残骸，满身泥浆地爬到塔玛脚边。塔玛从她手腕上扯下大王妃手镯，德莉拉尖叫：“还给我！那是大王妃的手镯！”塔玛一言不发地把手镯扔进水洼。德莉拉嘶喊着让她干脆杀了自己，塔玛直起身说：“活着，付出代价。”"
+        }
+      ]
     },
     {
-     "label": "컷2 · EP15",
-     "kr": "△ 안뜰에 기름 먹인 장작길이 불타오른다. 델릴라가 불길 위에서 펜던트를 흔든다.\n 델릴라: \"If you want it that badly, sister, walk the sacred path of fire barefoot.\"\n △ 다말이 신발을 벗고 불길 위로 첫발을 내딛는다. 불꽃이 발을 휘감고 얼굴이 고통으로 일그러진다.\n 나레이션VO: 버림받은 여자는 동생 앞에서 불 위를 걸었다.",
-     "en": "△ A road of oil-soaked wood burns across the courtyard. Delilah dangles the pendant over the flames.\n DELILAH: \"If you want it that badly, sister, walk the sacred path of fire barefoot.\"\n △ Tamar takes off her shoes and sets her first foot onto the flames. Fire wraps around her feet and her face twists in agony.\n VO (Narrator): The abandoned wife walked through fire in front of her sister.",
-     "cn": "△ 院子里浸油的柴路熊熊燃烧。德莉拉在火焰上方晃着吊坠。\n 德莉拉：“真那么想要的话，姐姐，就赤脚走过这条圣火之路。”\n △ 塔玛脱下鞋，第一只脚踏上火焰。火舌缠住她的脚，脸因剧痛而扭曲。\n 旁白VO：被抛弃的女人在妹妹面前走过了火路。"
+      "axis": "내가 고른 거지가 바다를 가른다 - 기적 스펙터클",
+      "rows": [
+        {
+          "ep": "EP7",
+          "kr": "전령관이 델릴라의 지참금 금화 아흔아홉 상자를 열고, 다말은 천 주머니 하나를 쥐고 서 있다. 해가 중천인데 신랑은 없다. 델릴라가 웃는다. \"That man ran away, obviously.\" 폭풍이 치고, 흙바람을 뚫고 온 모세가 지팡이를 들자 붉은 바다가 두 쪽으로 갈라져 물벽이 솟는다. 파라오와 델릴라가 뒤로 자빠진다. \"I have come for my bride, as I promised.\" (무료회차 엔딩)",
+          "en": "The herald opens ninety-nine chests of gold for Delilah's dowry while Tamar stands holding one cloth pouch. The sun is high and there is no groom. Delilah laughs: \"That man ran away, obviously.\" A storm breaks, Moses walks in through the dust and raises his staff, and the Crimson Sea splits in two with walls of water rising on both sides. Pharaoh and Delilah fall backward. \"I have come for my bride, as I promised.\" (last free episode ending)",
+          "cn": "传令官打开德莉拉嫁妆的九十九箱金币，塔玛只攥着一只布袋站着。日上中天，新郎不见踪影。德莉拉笑道：“那男人肯定跑了。”风暴骤起，摩西穿过沙尘走来举起手杖，红海一分为二，水墙两侧耸立。法老和德莉拉向后跌倒。“我依约来迎我的新娘。”（免费集结尾）"
+        },
+        {
+          "ep": "EP15",
+          "kr": "성소에서 기도하던 모세가 다말이 위험하다는 말을 듣고 지팡이로 바닥을 친다. 누더기가 깨끗해지고 목걸이와 팔찌, 장식띠가 빛을 내며 나타난다. \"Summon the brave warriors of the Sanctuary!\" 모세가 모래폭풍을 타고 하늘로 솟아 왕도를 내려다본다.",
+          "en": "Praying in the Sanctuary, Moses hears that Tamar is in danger and slams his staff into the floor. The rags turn clean and a glowing necklace, bracelets and jeweled sash appear on him. \"Summon the brave warriors of the Sanctuary!\" He rides a sandstorm up into the sky and looks down on the Royal City.",
+          "cn": "在圣所祈祷的摩西听说塔玛有危险，手杖砸向地面。破衣瞬间变洁净，发光的项链、手镯、宝石腰带显现。“召集圣所的勇士！”他乘沙暴升空，俯瞰王都。"
+        },
+        {
+          "ep": "EP34",
+          "kr": "파라오가 델릴라 대신 다말에게 대왕비의 관을 내밀고, 다말이 거절한다. \"That crown already killed me once.\" 파라오가 하늘을 보며 비웃는다. \"Can your god blot out that sun and drown this kingdom's sky in darkness?\" 쨍쨍하던 대낮의 해가 서서히 검게 물들고, 하늘에서 모세의 목소리가 울린다. \"For three days there will be no sun over this land.\"",
+          "en": "Pharaoh holds the Great Royal Wife's crown out to Tamar instead of Delilah, and Tamar refuses: \"That crown already killed me once.\" Pharaoh looks up and sneers, \"Can your god blot out that sun and drown this kingdom's sky in darkness?\" The blazing midday sun slowly turns black, and Moses' voice rings from the sky: \"For three days there will be no sun over this land.\"",
+          "cn": "法老越过德莉拉把大王妃的王冠递给塔玛，塔玛拒绝：“那顶王冠已经杀过我一次。”法老仰头冷笑：“你的神能遮住那轮太阳，让王国的天空陷入黑暗吗？”正午烈日缓缓变黑，摩西的声音自天而降：“三天之内，这片土地上不会有太阳。”"
+        },
+        {
+          "ep": "EP36",
+          "kr": "근위병의 칼이 무릎 꿇은 다말과 라반의 목을 치려는 순간, 광장 입구에서 모래바람이 날아와 칼을 쳐낸다. 모래바람이 군중 사이를 한 줄기 길처럼 가르고, 그 너머에서 모세가 걸어 나와 파라오 앞에 선다. \"Let my people go.\"",
+          "en": "As the guard's blade swings at the necks of the kneeling Tamar and Laban, a sandstorm flies in from the square's entrance and knocks the blade away. The sand cuts a single road through the crowd, and Moses walks out of it to stand before Pharaoh. \"Let my people go.\"",
+          "cn": "卫兵的刀砍向跪着的塔玛和拉班的脖颈的一瞬，广场入口卷来沙暴，把刀打飞。沙暴在人群中劈出一条路，摩西从中走出，站到法老面前。“让我的百姓走。”"
+        },
+        {
+          "ep": "EP47",
+          "kr": "갈라진 바다 사이로 마른 길이 드러나고 백성들이 물벽 사이를 걸어 건넌다. 모세는 맨 뒤에서 물벽을 지킨다. 마지막 짐수레가 바닷길에 들어서고 모세가 뒤따르자 모래기둥이 사라지고, 파라오의 전차들이 바다 밑바닥으로 쫓아 들어온다.",
+          "en": "A dry road opens between the parted waters and the people walk across between the walls of water while Moses holds the rear. As the last cart enters the road and Moses follows, the pillar of sand vanishes and Pharaoh's chariots pour down onto the seabed after them.",
+          "cn": "分开的海水之间露出干路，百姓在水墙之间走过，摩西殿后守着水墙。最后一辆货车驶入海路、摩西跟上的那一刻，沙柱消失，法老的战车紧追着冲进海底。"
+        }
+      ]
     },
     {
-     "label": "컷3 · EP28",
-     "kr": "△ 지하 감옥. 하녀들이 다말의 어깨를 눌러 무릎 꿇리고 델릴라가 발을 내민다.\n 델릴라: \"Go on, wash my feet. These are the feet of the woman who will be Great Royal Wife of this Kingdom.\"\n △ 다말이 젖은 천을 들고 델릴라의 발을 씻긴다. 하녀들이 웃음을 터뜨린다.\n 하녀1: \"You look so used to this! I suppose that's what a beggar's wife does!\"\n 나레이션VO: 그리고 감옥에서, 동생의 발을 씻겼다.",
-     "en": "△ The dungeon. The maids force Tamar to her knees and Delilah holds out a foot.\n DELILAH: \"Go on, wash my feet. These are the feet of the woman who will be Great Royal Wife of this Kingdom.\"\n △ Tamar picks up a wet cloth and washes Delilah's feet. The maids burst out laughing.\n MAID 1: \"You look so used to this! I suppose that's what a beggar's wife does!\"\n VO (Narrator): And in the dungeon, she washed her sister's feet.",
-     "cn": "△ 地牢。侍女按住塔玛的肩膀让她跪下，德莉拉伸出脚。\n 德莉拉：“来，给我洗脚。这是未来大王妃的脚。”\n △ 塔玛拿起湿布为德莉拉洗脚。侍女们哄堂大笑。\n 侍女1：“看你多熟练！乞丐老婆就是干这个的吧！”\n 旁白VO：然后在地牢里，她给妹妹洗了脚。"
-    },
-    {
-     "label": "컷4 · EP36",
-     "kr": "△ 광장. 쇠사슬에 묶인 라반과 무릎 꿇은 다말의 목에 근위병의 칼이 떨어진다. 그 순간 모래바람이 날아와 칼을 쳐내고, 군중 사이를 한 줄기 길처럼 가른다. 모래 너머에서 모세가 걸어 나와 파라오 앞에 선다.\n 모세: \"Let my people go.\"\n 【화면 자막】 도망친 게 아니었다",
-     "en": "△ The square. The guard's blade drops toward the necks of the chained Laban and the kneeling Tamar. In that instant a sandstorm flies in, knocks the blade away and cuts a single road through the crowd. Moses walks out of the sand and stands before Pharaoh.\n MOSES: \"Let my people go.\"\n 【ON SCREEN】 He never ran.",
-     "cn": "△ 广场。卫兵的刀落向戴镣铐的拉班和跪着的塔玛的脖颈。就在这一瞬，沙暴卷来打飞长刀，在人群中劈出一条路。摩西从沙尘中走出，站到法老面前。\n 摩西：“让我的百姓走。”\n 【画面字幕】他从来没有逃。"
+      "axis": "거지 남편과의 첫날밤 - 노출·키스",
+      "rows": [
+        {
+          "ep": "EP9",
+          "kr": "촛불 켜진 돌집. 상의를 벗은 모세가 다말의 드레스 허리띠 매듭을 본다. \"I want to undo it myself…\" 매듭이 풀리고 드레스가 어깨 아래로 흘러내린다. 다말이 그의 맨가슴에 손을 얹는다. \"Turn your head away. The light is too bright.\" 모세가 그 손을 감싸 쥔다. \"I want to see all of you, Tamar, including the moment you become mine.\" 입을 맞추며 침대로 쓰러지고, 촛불 너머로 두 실루엣이 하나로 겹친다.",
+          "en": "A candlelit stone house. Moses, stripped to the waist, looks at the knot at the waist of Tamar's dress. \"I want to undo it myself…\" The knot comes loose and the dress slips off her shoulders. Tamar lays a hand on his bare chest: \"Turn your head away. The light is too bright.\" He folds her hand in his: \"I want to see all of you, Tamar, including the moment you become mine.\" They fall onto the bed kissing, and beyond the candle the two silhouettes merge into one.",
+          "cn": "烛光石屋。赤裸上身的摩西看着塔玛裙腰的结：“我想亲手解开……”结松开，裙子从她肩上滑落。塔玛把手按在他赤裸的胸口：“把头转过去，光太亮了。”他握住她的手：“我想看你的全部，塔玛，包括你成为我的人的那一刻。”两人吻着倒在床上，烛光后两道剪影合而为一。"
+        },
+        {
+          "ep": "EP23",
+          "kr": "눈을 뜬 다말에게 모세가 자신이 신의 대언자라고 고백한다. 다말이 모세의 뺨을 만지고 두 사람이 애틋하게 키스한다.",
+          "en": "When Tamar wakes, Moses confesses that he is the Prophet of the Lord. Tamar touches his cheek and the two kiss, aching and slow.",
+          "cn": "塔玛醒来，摩西坦白自己是神的代言人。塔玛抚上他的脸颊，两人深情地接吻。"
+        },
+        {
+          "ep": "EP40",
+          "kr": "멀리서 모세가 다말을 부르고, 다말이 달려가 안긴다. 모세가 다말의 손바닥 상처를 어루만지자 상처가 그 자리에서 낫는다. 두 사람이 조심스럽게 입을 맞춘다.",
+          "en": "Moses calls Tamar from a distance and she runs into his arms. He strokes the wound on her palm and it heals under his touch. They kiss, carefully.",
+          "cn": "摩西在远处唤塔玛，她奔过去扑进他怀里。摩西抚过她掌心的伤口，伤口当场愈合。两人小心翼翼地接吻。"
+        },
+        {
+          "ep": "EP50",
+          "kr": "백성들 앞에서 모세가 다말의 손을 잡는다. \"I declare it here, before all of you. Tamar is my wife.\" 밤, 아무것도 없는 광야를 보며 두 사람이 집을 짓자고 약속하고 입을 맞춘다.",
+          "en": "In front of the people Moses takes Tamar's hand. \"I declare it here, before all of you. Tamar is my wife.\" That night, looking out at the empty wilderness, they promise to build a house together and kiss.",
+          "cn": "在百姓面前，摩西握住塔玛的手：“我在此向你们所有人宣告，塔玛是我的妻子。”夜里，两人望着一无所有的旷野，约定一起盖房子，然后接吻。"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ],
+  "fakes": [
+    {
+      "kind": "ai",
+      "no": 1,
+      "title": "온 가족이 비웃는 앞에서 거지를 남편으로 고른 여자, 그 거지가 바다를 갈랐다",
+      "spec": "22초 · 4컷",
+      "cuts": [
+        {
+          "label": "컷1 · 0-5초",
+          "kr": "△ 저택 발코니. 광장에 귀족 남자들이 새를 받겠다고 손을 뻗고 있다. 동생이 매를 날려 왕의 어깨에 앉히고, 가족이 환호한다. 언니는 비둘기를 들고 반대편, 돌을 깨는 노예들 쪽으로 날린다. 아버지가 머리를 쥐어뜯는다.\n 나레이션VO: 동생에게 죽고 삼 년 전으로 돌아온 그녀는, 이번 생에는 왕 대신 거지를 골랐다.",
+          "en": "△ Estate balcony. Down in the square, noble sons reach up to catch a bird. The younger sister sends her hawk to the king's shoulder and the family cheers. The elder sister lifts her dove and sends it the other way, toward the slaves breaking stone. Her father tears at his hair.\n VO (Narrator): Killed by her sister and sent back three years, this time she chose a beggar over the king.",
+          "cn": "△ 宅邸阳台。广场上贵族子弟纷纷伸手想接住鸟。妹妹放出鹰落在国王肩上，全家欢呼。姐姐举起鸽子，朝相反方向——正在敲石头的奴隶那边放飞。父亲抓着头发。\n 旁白VO：被妹妹杀死、回到三年前的她，这一世没选国王，选了一个乞丐。"
+        },
+        {
+          "label": "컷2 · 5-11초",
+          "kr": "△ 혼례 날 광장. 동생 앞에 금화 상자 아흔아홉 개가 열리고, 언니 손에는 천 주머니 하나. 해가 중천인데 신랑 자리가 비어 있다. 귀부인들이 손으로 입을 가리고 웃고, 동생이 언니 귀에 대고 말한다.\n 델릴라: \"거지도 널 안 데려가네, 언니.\"\n 나레이션VO: 신랑은 오지 않았다. 온 왕도가 그녀를 비웃었다.",
+          "en": "△ The wedding square. Ninety-nine chests of gold open in front of the sister; the elder holds one cloth pouch. The sun is high and the groom's place is empty. Noblewomen laugh behind their hands, and the sister leans into her ear.\n DELILAH: \"Even a beggar won't take you, sister.\"\n VO (Narrator): The groom never came. The whole city laughed at her.",
+          "cn": "△ 婚礼广场。妹妹面前打开九十九箱金币，姐姐手里只有一只布袋。日上中天，新郎的位置空着。贵妇们掩嘴而笑，妹妹凑到姐姐耳边。\n 德莉拉：“连乞丐都不要你，姐姐。”\n 旁白VO：新郎没有来。整个王都都在嘲笑她。"
+        },
+        {
+          "label": "컷3 · 11-17초",
+          "kr": "△ 하늘이 잿빛으로 변하고 폭풍이 친다. 흙바람 속에서 누더기 차림의 남자가 걸어온다. 병사들이 창으로 막자 남자가 말없이 지팡이를 바다로 든다. 붉은 바다가 두 쪽으로 갈라지고 수십 미터 물벽이 솟는다. 왕과 동생이 뒤로 자빠지고 귀족들이 무릎을 꿇는다.\n 모세: \"약속대로 나의 신부를 맞이하러 왔다.\"",
+          "en": "△ The sky goes ash gray and a storm breaks. A man in rags walks in through the dust. Soldiers block him with spears; he says nothing and raises his staff toward the sea. The Crimson Sea splits in two and walls of water tower on both sides. The king and the sister fall backward; the nobles drop to their knees.\n MOSES: \"I have come for my bride, as I promised.\"",
+          "cn": "△ 天空转为灰暗，风暴骤起。一个衣衫褴褛的男人穿过沙尘走来。士兵用长矛拦住，他一言不发，举杖指向大海。红海一分为二，数十米高的水墙耸立两侧。国王和妹妹向后跌倒，贵族纷纷跪下。\n 摩西：“我依约来迎我的新娘。”"
+        },
+        {
+          "label": "컷4 · 17-22초",
+          "kr": "△ 갈라진 바다 한가운데, 남자가 오직 그녀에게만 손을 내민다. 그녀가 천 주머니를 버리고 그 손을 잡는다. 뒤에서 왕이 진흙에 무릎 꿇은 채 대왕비의 관을 내밀지만, 그녀는 돌아보지 않는다.\n 【화면 자막】 그녀가 고른 거지는, 예언자 모세였다",
+          "en": "△ In the middle of the parted sea, the man holds out his hand to her and no one else. She drops the pouch and takes it. Behind her the king kneels in the mud holding out the Great Royal Wife's crown, and she does not look back.\n 【ON SCREEN】 The beggar she chose was the Prophet Moses.",
+          "cn": "△ 分开的海中央，男人只向她一人伸出手。她扔掉布袋握住那只手。身后国王跪在泥里捧出大王妃的王冠，她头也不回。\n 【画面字幕】她选的那个乞丐，是先知摩西。"
+        }
+      ]
+    },
+    {
+      "kind": "reuse",
+      "no": 1,
+      "title": "거지 남편이 도망친 뒤 지옥을 사는 여자",
+      "spec": "4컷 · EP7·15·28·36",
+      "truth": "모세는 도망친 적이 없다. 7화에서 바다를 갈라 다말을 데려갔고, 15·28화의 굴욕은 그 뒤 다말이 가족과 왕궁에 붙잡혀 당하는 일이다. 15화 뒤에는 모세가 직접 와서 델릴라를 걷어차고(17화), 28화 뒤에는 이가 델릴라에게 들러붙는다. 36화 등장은 처형 직전 구출이다.",
+      "cuts": [
+        {
+          "label": "컷1 · EP7",
+          "kr": "△ 혼례 광장. 다말이 천 주머니 하나를 쥐고 비어 있는 신랑 자리를 돌아본다. 델릴라가 웃는다.\n 델릴라: \"That man ran away, obviously. No slave takes in a woman with no blessing and no power.\"\n △ 파라오와 라반, 귀족들이 다말을 보며 웃는다.\n 나레이션VO: 혼례 날, 그녀가 고른 거지 남편은 오지 않았다.",
+          "en": "△ The wedding square. Tamar holds one cloth pouch and looks back at the empty groom's place. Delilah laughs.\n DELILAH: \"That man ran away, obviously. No slave takes in a woman with no blessing and no power.\"\n △ Pharaoh, Laban and the nobles laugh at Tamar.\n VO (Narrator): On her wedding day, the beggar she chose never came.",
+          "cn": "△ 婚礼广场。塔玛攥着一只布袋，回头看空着的新郎位置。德莉拉笑了。\n 德莉拉：“那男人肯定跑了。没有祝福没有权势的女人，连奴隶都不要。”\n △ 法老、拉班和贵族们看着塔玛大笑。\n 旁白VO：婚礼当天，她选的乞丐丈夫没有来。"
+        },
+        {
+          "label": "컷2 · EP15",
+          "kr": "△ 안뜰에 기름 먹인 장작길이 불타오른다. 델릴라가 불길 위에서 펜던트를 흔든다.\n 델릴라: \"If you want it that badly, sister, walk the sacred path of fire barefoot.\"\n △ 다말이 신발을 벗고 불길 위로 첫발을 내딛는다. 불꽃이 발을 휘감고 얼굴이 고통으로 일그러진다.\n 나레이션VO: 버림받은 여자는 동생 앞에서 불 위를 걸었다.",
+          "en": "△ A road of oil-soaked wood burns across the courtyard. Delilah dangles the pendant over the flames.\n DELILAH: \"If you want it that badly, sister, walk the sacred path of fire barefoot.\"\n △ Tamar takes off her shoes and sets her first foot onto the flames. Fire wraps around her feet and her face twists in agony.\n VO (Narrator): The abandoned wife walked through fire in front of her sister.",
+          "cn": "△ 院子里浸油的柴路熊熊燃烧。德莉拉在火焰上方晃着吊坠。\n 德莉拉：“真那么想要的话，姐姐，就赤脚走过这条圣火之路。”\n △ 塔玛脱下鞋，第一只脚踏上火焰。火舌缠住她的脚，脸因剧痛而扭曲。\n 旁白VO：被抛弃的女人在妹妹面前走过了火路。"
+        },
+        {
+          "label": "컷3 · EP28",
+          "kr": "△ 지하 감옥. 하녀들이 다말의 어깨를 눌러 무릎 꿇리고 델릴라가 발을 내민다.\n 델릴라: \"Go on, wash my feet. These are the feet of the woman who will be Great Royal Wife of this Kingdom.\"\n △ 다말이 젖은 천을 들고 델릴라의 발을 씻긴다. 하녀들이 웃음을 터뜨린다.\n 하녀1: \"You look so used to this! I suppose that's what a beggar's wife does!\"\n 나레이션VO: 그리고 감옥에서, 동생의 발을 씻겼다.",
+          "en": "△ The dungeon. The maids force Tamar to her knees and Delilah holds out a foot.\n DELILAH: \"Go on, wash my feet. These are the feet of the woman who will be Great Royal Wife of this Kingdom.\"\n △ Tamar picks up a wet cloth and washes Delilah's feet. The maids burst out laughing.\n MAID 1: \"You look so used to this! I suppose that's what a beggar's wife does!\"\n VO (Narrator): And in the dungeon, she washed her sister's feet.",
+          "cn": "△ 地牢。侍女按住塔玛的肩膀让她跪下，德莉拉伸出脚。\n 德莉拉：“来，给我洗脚。这是未来大王妃的脚。”\n △ 塔玛拿起湿布为德莉拉洗脚。侍女们哄堂大笑。\n 侍女1：“看你多熟练！乞丐老婆就是干这个的吧！”\n 旁白VO：然后在地牢里，她给妹妹洗了脚。"
+        },
+        {
+          "label": "컷4 · EP36",
+          "kr": "△ 광장. 쇠사슬에 묶인 라반과 무릎 꿇은 다말의 목에 근위병의 칼이 떨어진다. 그 순간 모래바람이 날아와 칼을 쳐내고, 군중 사이를 한 줄기 길처럼 가른다. 모래 너머에서 모세가 걸어 나와 파라오 앞에 선다.\n 모세: \"Let my people go.\"\n 【화면 자막】 도망친 게 아니었다",
+          "en": "△ The square. The guard's blade drops toward the necks of the chained Laban and the kneeling Tamar. In that instant a sandstorm flies in, knocks the blade away and cuts a single road through the crowd. Moses walks out of the sand and stands before Pharaoh.\n MOSES: \"Let my people go.\"\n 【ON SCREEN】 He never ran.",
+          "cn": "△ 广场。卫兵的刀落向戴镣铐的拉班和跪着的塔玛的脖颈。就在这一瞬，沙暴卷来打飞长刀，在人群中劈出一条路。摩西从沙尘中走出，站到法老面前。\n 摩西：“让我的百姓走。”\n 【画面字幕】他从来没有逃。"
+        }
+      ]
+    }
+  ]
 }
