@@ -134,3 +134,9 @@
 **My One-Night Dragon Lord** — 사용자 확정. 잣대 = '샀다'가 아니라 원나잇 상대가 곧 드래곤 로드라는 사건 · 직접 성어 0 · 문장형이 아니라 명사구(히트작 제목 결 = 《One Night with the Dragon Lord》《Road of Lust》《Countdown King》처럼 구 하나). 기각 = I Bought the Dragon Lord for One Night(거래가 본질 아님) · The Stranger I Bought Was the Dragon Lord(같은 이유) · 문장형 후보 전부(주술목 완성 문장은 타이틀 결이 아님 — 사용자 교정). 차점 = Last Night's Stranger, Today's Dragon Lord · Sacrificed to My One-Night Stranger. docx는 본문 헤더 없이 시작하므로 문서 속성 제목에만 기록.
 
 - 2026-09-23 **FINAL v51** = `07_final/34_storm_dragon_bride_FINAL_v51_CN&KO&EN.docx` + `.md`. 1화 오필리아 "今晚是我的。你也是。/ 오늘 밤은 내 거야. 그리고 너도. / Tonight's mine. And so are you."(사용자 제안 · KO만 짧게 다듬음) + 문서 첫 줄 타이틀 My One-Night Dragon Lord 삽입. 변경 목록 = `34_storm_dragon_bride_v51_changes.md`.
+
+- 2026-09-23 **파일명 = 작품 제목으로.** 이후 산출물 = `07_final/My One-Night Dragon Lord_FINAL_v{N}_CN&KO&EN.docx/.md` (프로젝트 폴더명 storm_dragon_bride는 유지, 파일명만 제목).
+
+- 2026-09-23 **FINAL v52** = `07_final/My One-Night Dragon Lord_FINAL_v52_CN&KO&EN.docx` + `.md`. 저주·독·마법 컬러링 전면 치환(3개 국어 357줄): 도리안 눈·반지 暗金→冰蓝/ice-blue · 국왕 저주·독·법진·黑日·지하실 불꽃·독혈 → 紫/보라(黑日→紫日/Violet Sun) · 오필리아 혈통·맹세석·혼약서·초뢰·태아 문양 红金/金/冰蓝→翠绿/emerald. 유지 = 자연 충혈·의상·장식·햇빛·단검 白光. 청사진 §색 규칙 갱신 필요. 변경 목록 = `34_storm_dragon_bride_v52_changes.md`.
+
+- 2026-09-23 **FINAL v53** = `07_final/My One-Night Dragon Lord_FINAL_v53_CN&KO&EN.docx` + `.md`. 분량 압축 — 없어도 앞뒤 안 바뀌는 지문 43세트 129줄 삭제(2.1%), 대사·수위·클리프 0. opus 6기 후보 46 → Fable 맥락 대조 43 채택·3 기각. 변경 목록 = `34_storm_dragon_bride_v53_changes.md`.
