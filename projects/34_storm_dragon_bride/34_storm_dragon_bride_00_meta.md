@@ -148,3 +148,5 @@
 - 2026-09-23 **FINAL v56** = `07_final/My One-Night Dragon Lord_FINAL_v56_CN&KO&EN.docx` + `.md` = v54 + 50화 심장 대사(3줄)만. **v55 탈의 완화는 사용자 원복 지시로 전량 되돌림**(노출 유지). v55 = 폐기본 보관. 변경 목록 = `34_storm_dragon_bride_v56_changes.md`.
 
 - 2026-09-23 **FINAL v57** = `07_final/My One-Night Dragon Lord_FINAL_v57_CN&KO&EN.docx` + `.md`. Codex v56 검토 반영 — 6화 첫 장면 의상을 5화 파손 상태(찢긴 잔여 천)와 맞춤 2세트 6줄. 그 외 지적 없음·확정 오류 0. 변경 목록 = `34_storm_dragon_bride_v57_changes.md`.
+
+- 2026-09-23 **FINAL v58** = `07_final/My One-Night Dragon Lord_FINAL_v58_CN&KO&EN.docx` + `.md`. 전수 검사(sonnet 3기 · 대사 492/지문 882 · 원작 이름 PASS) + Codex v57 fresh-eye 5건(1·3·29화 영어 대사 · 35-2 헤딩 · 45화 조각 손) + 17화 反手 오역 + 재귀 '제' 18곳. 33줄. 변경 목록 = `34_storm_dragon_bride_v58_changes.md`.
