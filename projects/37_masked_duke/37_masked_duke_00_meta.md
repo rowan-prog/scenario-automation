@@ -7,7 +7,8 @@
 ## 파일
 - 원고 = `37_masked_duke_writer_script_v1.docx` (원본 = `C:\Users\Rowan\Downloads\(E_김보형) 가면 뒤 괴물 대공님의 저주 (1).docx`) · 추출 = `_writer_script_v1.md`
 - 러프 기획안(사용자 · 수정 금지) = `37_masked_duke_p0_rough_user.md`
-- 미팅 안건 = `37_masked_duke_writer_meeting_v2.md` (v1 = 사용자 방향 반영 전 · 보존만)
+- **미팅 메모(사용자 참고용 한 장) = `37_masked_duke_meeting_memo.md`** ← 사용자가 쓰는 건 이것 (2026-10-01 "복잡하다, 정신없다")
+- 미팅 안건 상세 = `37_masked_duke_writer_meeting_v2.md` (v1 = 사용자 방향 반영 전 · 보존만)
 - 러닝타임 계산 = `_runtime_estimate.py`
 
 ## 캐논 (원고 + 기획안)
