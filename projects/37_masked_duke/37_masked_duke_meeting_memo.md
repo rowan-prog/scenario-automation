@@ -25,6 +25,6 @@
 - "치료할 때마다 수위 올라감"인데 5화에 이미 끝까지 감. 그다음 칸이 뭐임?
 - 카엘 계속 가?
 
-**이름**: Roselyn → Claire · Kael → Owen · Vivian → Sabrina (Killian이랑 소리 겹침). 나머지 그대로.
+**이름 (확정 · 전달만)**: Roselyn → Claire · Kael → Owen · Vivian → Sabrina. 나머지 그대로.
 
 **러닝타임**: 지금 원고 70~80분 (무료 10화 약 15분). 기준 안.
