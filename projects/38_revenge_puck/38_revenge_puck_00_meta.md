@@ -78,4 +78,5 @@
 - 15화 "직접 겪어본 입장에서… 아담, 거기 제대로 작동은 해?" = 블레이크(뒤의 "말조심해, 애시번"이 아담의 응수) · 엉덩이 때림 = 블레이크의 연기 · "저거 다 쇼야, 들어가서 아무것도 안 할 걸" = 문 밖까지 따라온 아담.
 
 ## 2026-10-06 상위 4 선정 — 이 작품은 세트 A (사용자 "ㅇㅋ")
-원작마다 하나 · 크리스마스 하나 · 테마 안 겹침 → 1 40B Rejected at Moon Academy(하이틴) · 2 41B Sold by My Brothers, Found by the Crown Prince(오빠들) · 3 39A The Elf King's Baby Brother Only Talks to Me(엘프) · 4 38A My Ex's Rival Is My Christmas Boyfriend(크리스마스 · 12월 안 출시 필요). 크리스마스는 현대 크리스마스가 북미 소구라 원래 현대물인 38이 맡음(41A 판타지 왕국 크리스마스는 근거 부족으로 기각).
+원작마다 하나 · 크리스마스 하나 · 테마 안 겹침 → 1 40B Rejected at Moon Academy(하이틴) · 2 41B Sold by My Brothers, Found by the Crown Prince(오빠들) · 3 39B The Dragon King's Baby Brother Only Talks to Me(용 유지 · 겨울 왕국 — 같은 날 39A에서 정정) · 4 38A My Ex's Rival Is My Christmas Boyfriend(크리스마스 · 12월 안 출시 필요). 크리스마스는 현대 크리스마스가 북미 소구라 원래 현대물인 38이 맡음(41A 판타지 왕국 크리스마스는 근거 부족으로 기각).
+- 같은 날 원작 '구조' 적합성 재판정(사용자: 외피는 원작 스토리 구조에 맞는 걸로): 억지 = 40B 하이틴 아카데미(신부 교환·새엄마 집안이 학교에 얹힘) · 41A 크리스마스(중세 왕국에 현대 크리스마스) → 둘 다 재작성. 38B 오빠들·39A 엘프·40A 엘프는 구조에 맞음(처음 억지 판정은 철회).
