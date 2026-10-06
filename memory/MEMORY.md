@@ -11,6 +11,7 @@
 - **[trilingual-sync-direction](feedback_trilingual_sync_direction.md)** — 🚨(2026-09-22) 3개 국어 병기 대본 = **지문은 중문 정본 · 대사는 영어 정본**. 환류·검사 모두 그 방향. 흐린 영어에 한·중을 내리지 말고 영어를 고친다.
 - **[trim-cuts-explanation-not-fun](feedback_trim_cuts_explanation_not_fun.md)** — 🚨(2026-10-06) 분량 줄이기 = 설명(되풀이·해설)을 깎고 재미 살(몸·동작·감정·아이러니)은 남긴다 · 줄인 뒤 메인이 이어 읽기 · 읽기 검사는 수정 끝난 뒤 · A·B 짝 파일 같이 · '쓴 사람만 아는 말'은 항목마다 장르·흐름으로 따로 판정(통째 넣기·통째 빼기 금지).
 - [ai-drama-fantasy-over-modern](feedback_ai_drama_fantasy_over_modern.md) — (2026-10-06) AI 제작이라 현대물보다 판타지가 먹힌다 · 어반 판타지보다 명백한 판타지 세계(왕국·궁·마차) 우선 · 기획 순위·세트 테마 가중치.
+- [hit-originals-rank-by-our-delta](feedback_hit_originals_rank_by_our_delta.md) — (2026-10-06) 히트 원작 리메이크 안끼리 '재미'로 순위 매기지 말 것 · 차이 = 내 기획 실수(고칠 목록)거나 제작 적합성·시기 · 세트 테마는 판타지 세계 안에서 푼다.
 - [no-je-pronoun-use-jagi](feedback_no_je_pronoun_use_jagi.md) — (2026-09-08) 한국어 산출물에서 '제 몸·제 아내' 같은 '제' 재귀 표현 금지 · '자기 몸'으로. 우회 표현('그녀 이름으로 돌리고')도 직접 말한다.
 - **[full-sentences-no-telegraphic](feedback_full_sentences_no_telegraphic.md)** — 🚨(2026-09-10) 모든 한국어 출력 = 주어·동사 있는 온전한 문장. "A는 B 한마디로"·화살표·뒤 잘라먹기 압축 금지. 채팅 답장도 같다.
 - [no-ai-korean-jargon](feedback_no_ai_korean_jargon.md) — 한국어 출력 시 AI jargon·작업어 금지·카톡 톤 (룰 5).
