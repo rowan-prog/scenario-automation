@@ -12,7 +12,7 @@
 - **[trim-cuts-explanation-not-fun](feedback_trim_cuts_explanation_not_fun.md)** — 🚨(2026-10-06) 분량 줄이기 = 설명(되풀이·해설)을 깎고 재미 살(몸·동작·감정·아이러니)은 남긴다 · 줄인 뒤 메인이 이어 읽기 · 읽기 검사는 수정 끝난 뒤 · A·B 짝 파일 같이 · '쓴 사람만 아는 말'은 항목마다 장르·흐름으로 따로 판정(통째 넣기·통째 빼기 금지).
 - [ai-drama-fantasy-over-modern](feedback_ai_drama_fantasy_over_modern.md) — (2026-10-06) AI 제작이라 현대물보다 판타지가 먹힌다 · 어반 판타지보다 명백한 판타지 세계(왕국·궁·마차) 우선 · 기획 순위·세트 테마 가중치.
 - [hit-originals-rank-by-our-delta](feedback_hit_originals_rank_by_our_delta.md) — (2026-10-06) 히트 원작 리메이크 안끼리 '재미'로 순위 매기지 말 것 · 차이 = 내 기획 실수(고칠 목록)거나 제작 적합성·시기 · 세트 테마는 판타지 세계 안에서 푼다.
-- **[find-the-originals-point](feedback_find_the_originals_point.md)** — 🚨(2026-10-06) 히트 원작 리메이크 = 먼저 '양산형 수천 개와 다른 포인트'(주인공의 예상 깨는 반응)를 찾아 로그라인·셀링 1번·「」 대사 척추로 · 간접 화법·눈물·애원으로 무르기 금지 · 센 1화는 묶지 않는다(40번 「죽고 싶어? 그럼 내가 도와줄게!」 실증).
+- **[find-the-originals-point](feedback_find_the_originals_point.md)** — 🚨(2026-10-06) 히트 원작 리메이크 = 먼저 '양산형 수천 개와 다른 포인트'(주인공의 예상 깨는 반응)를 찾아 로그라인·셀링 1번·「」 대사 척추로 · 간접 화법·눈물·애원으로 무르기 금지 · 센 1화는 묶지 않는다 · ⚠️ 살리는 건 기능이지 원작 대사·소품·모티프가 아니다("레퍼런스로 삼으랬지 표절하랬냐" — 40A 실증).
 - **[set-theme-from-original-genre](feedback_set_theme_from_original_genre.md)** — 🚨(2026-10-06) 리메이크 세트 외피는 원작 스토리 '구조'(처지·관계 축·판·클라이맥스 장치)에 맞는 걸로 · 테마 메뉴 2칸씩 채우기 금지(40B 하이틴·41A 크리스마스·39B 현대 실증).
 - [no-je-pronoun-use-jagi](feedback_no_je_pronoun_use_jagi.md) — (2026-09-08) 한국어 산출물에서 '제 몸·제 아내' 같은 '제' 재귀 표현 금지 · '자기 몸'으로. 우회 표현('그녀 이름으로 돌리고')도 직접 말한다.
 - **[full-sentences-no-telegraphic](feedback_full_sentences_no_telegraphic.md)** — 🚨(2026-09-10) 모든 한국어 출력 = 주어·동사 있는 온전한 문장. "A는 B 한마디로"·화살표·뒤 잘라먹기 압축 금지. 채팅 답장도 같다.
