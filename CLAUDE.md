@@ -144,7 +144,7 @@ phase_0 (아이디어) → phase_1 (러프 청사진) → phase_2 (피칭) → �
 | `38_revenge_puck` | DramaBox 《Revenge Puck》(56화·무료 1~15) 리메이크 러프 2세트 | **러프 기획안 A·B (2026-10-01 · T1 페이지 · 무료 15→9화)** = `38_revenge_puck_p0_rough_A.md`(크리스마스 — 크리스마스이브 우승컵·가짜 연애 기한) · `_B.md`(오빠들 — 친오빠 셋+의붓언니). 매핑·치환·이름 = meta. 잔여 = 사용자 선별 |
 | `39_baby_dragon` | NetShort 《I Spoke Baby Dragon and Won Everyone Over!》 리메이크 러프 2세트 | **러프 기획안 A·B (2026-10-01 · 무료 6화 1:1)** = `_p0_rough_A.md`(엘프 — 불사라 500년간 아기를 안 키워 본 엘프 궁정) · `_B.md`(크리스마스 현대 — 재벌가 막내·크리스마스이브 갈라). 잔여 = 사용자 선별 |
 | `40_silver_angel` | DramaWave 《The Silver Angel He Never Recognized》(54화·무료 1~13) 리메이크 러프 2세트 | **러프 기획안 A·B (2026-10-01 · 무료 13→9화)** = `_p0_rough_A.md`(엘프 — 은발=순혈·빛 없는 공주 · B형 로그라인) · `_B.md`(하이틴 — 늑대인간 문 아카데미). 잔여 = 사용자 선별 |
-| `41_fated_reunion` | 《Fated Reunion: My Daddy Is The Crown Prince》(48화 · 20화까지 보유 · 무료 1~14 · 플랫폼 DramaWave/DramaBox 미확정) 리메이크 러프 2세트 | **러프 기획안 A·B (2026-10-01 · 무료 14→9화)** = `_p0_rough_A.md`(크리스마스 판타지 — 크리스마스이브 만찬·율 장작불 시험) · `_B.md`(오빠들 — 여동생을 판 친오빠 셋). 잔여 = 플랫폼 확인 · 사용자 선별 |
+| `41_fated_reunion` | 《Fated Reunion: My Daddy Is The Crown Prince》(DramaWave · 48화 · 20화까지 보유 · 무료 1~14) 리메이크 러프 2세트 | **러프 기획안 A·B (2026-10-01 · 무료 14→9화)** = `_p0_rough_A.md`(크리스마스 판타지 — 크리스마스이브 만찬·율 장작불 시험) · `_B.md`(오빠들 — 여동생을 판 친오빠 셋). 원작 역대본 = `reference/`. 잔여 = 사용자 선별 |
 | `42_summer_luna` | 사내 대본 《The Summer I Turned Luna》(무료 1~12) 각색 러프 2세트 | **러프 기획안 A·B (2026-10-01 · 늑대인간 전량 제거 · 무료 12→8화 · 북미 여성 18-34 중립 근접)** = `_p0_rough_A.md`(겨울 — 원수 스키 리조트 집안) · `_B.md`(가을 — 원수 사과 과수원 집안·예일 조기 지원). 원본 = `The Summer I Turned Luna_Script.pdf`·`_source_EN.txt`. 잔여 = 사용자 선별 |
 
 새 작품 번호 = **43**.

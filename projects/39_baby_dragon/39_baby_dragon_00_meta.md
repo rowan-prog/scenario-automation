@@ -1,6 +1,6 @@
 # 39_baby_dragon — meta
 
-- 원작: 《I Spoke Baby Dragon and Won Everyone Over!》 무료 1~6화 (영어 대사본 = 세션 scratchpad `src/babydragon_free.md` · 역대본이라 화자 라벨 흔들림 → 앞뒤 인과로 판독)
+- 원작: 《I Spoke Baby Dragon and Won Everyone Over!》 무료 1~6화 (역대본 = `C:\Users\Rowan\scenario-automation\projects\39_baby_dragon\reference\I Spoke Baby Dragon and Won Everyone Over!.역대본_1-6화 무료.md` · 2026-10-06 Downloads에서 이동 · 역대본이라 화자 라벨 흔들림 → 앞뒤 인과로 판독)
 - 제작 총 45~50화 · 무료 6화(원작 1~6 = EP01~06, 1:1) · 북미/글로벌 여성 20-40 · AI실사 · EN
 - 산출 (2026-10-01 · 러프 = T1 페이지):
   - 세트 A 엘프 판타지 = `C:\Users\Rowan\scenario-automation\projects\39_baby_dragon\39_baby_dragon_p0_rough_A.md`

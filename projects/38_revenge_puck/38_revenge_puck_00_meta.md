@@ -1,7 +1,7 @@
 # 38_revenge_puck — meta
 
 - **원작**: 《Revenge Puck》 · 플랫폼 확인 중 · 총 56화 · 무료 1~15화 · 대학 아이스하키 가짜 연애 복수 로맨틱 코미디
-- **원작 무료 원문**(지문 걷은 대사본, 한국어): `C:\Users\Rowan\AppData\Local\Temp\claude\C--Users-Rowan\94d79039-22cf-4bf7-bb73-2809d78ed9e3\scratchpad\src\puck_free.md`
+- **원작 역대본**(1~15화 무료 + 이후 화 일부, 한국어) = `C:\Users\Rowan\scenario-automation\projects\38_revenge_puck\reference\Revenge Puck.역대본_1-15화 무료.md` (2026-10-06 Downloads에서 이동)
 - **제작**: 총 45~50화 · 무료 1~9화(원작 1~15화 압축) · 북미/글로벌 여성 20-40 · EN · AI실사 · 레퍼런스 칸 = `(플랫폼 확인 중) <Revenge Puck>`
 - **세트 A** = `C:\Users\Rowan\scenario-automation\projects\38_revenge_puck\38_revenge_puck_p0_rough_A.md` — 《My Ex's Rival Is My Christmas Boyfriend》: 크리스마스이브 우승컵이 걸린 홀리데이 시리즈에서 바람난 남친의 라이벌과 크리스마스이브까지만 하는 가짜 연애.
 - **세트 B** = `C:\Users\Rowan\scenario-automation\projects\38_revenge_puck\38_revenge_puck_p0_rough_B.md` — 《My Brothers Chose Her, So I Chose Their Rival》: 의붓언니와 바람난 남친 편을 든 친오빠 셋, 그 오빠들 팀의 라이벌 주장과 하는 가짜 연애.

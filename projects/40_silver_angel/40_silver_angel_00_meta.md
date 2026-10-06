@@ -1,6 +1,7 @@
 # 40_silver_angel — meta
 
 - 원작: 《The Silver Angel He Never Recognized》 (총 54화 · 무료 1~13화) · 원문 = 한국어 역대본(화자 라벨 뒤섞임 — 인과로 판독)
+- 원작 역대본 = `C:\Users\Rowan\scenario-automation\projects\40_silver_angel\reference\The Silver Angel He Never Recognized.역대본_역대본_1-13화 무료.md` (2026-10-06 Downloads에서 이동)
 - 제작: 총 45~50화 · 무료 9화 · 북미/글로벌 여성 20-40 · EN · AI실사
 - 산출(2026-10-01 · 러프 v1)
   - 세트 A 엘프 판타지 = `C:\Users\Rowan\scenario-automation\projects\40_silver_angel\40_silver_angel_p0_rough_A.md` (로그라인 B 오해형 175자)
