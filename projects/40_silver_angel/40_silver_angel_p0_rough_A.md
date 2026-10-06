@@ -1,4 +1,4 @@
-### [T1] The Blind King's Black-Haired Bride
+### [T1] Too Late, My Mate. I'm the Blind King's Queen
 
 **담당자** Rowan
 **상태 · 제작 등급** 제안중 A
