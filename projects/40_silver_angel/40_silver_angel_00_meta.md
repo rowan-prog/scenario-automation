@@ -73,3 +73,6 @@
 ## 2026-10-06 수정 (사용자: AI 제작이라 명백한 판타지 세계 우선 · "니가 알아서 해")
 - A 제목 The Silver Elf He Never Recognized → **He Chose the Wrong Princess** (원작 제목과 한 단어 차이였음).
 - B 현대 학교(차·조수석·기숙사·블라우스·숍) → 늑대인간 왕국의 성채 아카데미(마차·아카데미 탑·망토 끈·가게). 셀링 4 = "늑대인간 왕국의 성채 아카데미 치환". 화당 ≤550 유지(EP01 547). name_leak PASS(--allow 알파).
+
+## 2026-10-06 상위 4 선정 — 이 작품은 세트 B (사용자 "ㅇㅋ")
+원작마다 하나 · 크리스마스 하나 · 테마 안 겹침 → 1 40B Rejected at Moon Academy(하이틴) · 2 41B Sold by My Brothers, Found by the Crown Prince(오빠들) · 3 39A The Elf King's Baby Brother Only Talks to Me(엘프) · 4 38A My Ex's Rival Is My Christmas Boyfriend(크리스마스 · 12월 안 출시 필요). 크리스마스는 현대 크리스마스가 북미 소구라 원래 현대물인 38이 맡음(41A 판타지 왕국 크리스마스는 근거 부족으로 기각).

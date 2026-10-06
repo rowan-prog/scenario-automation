@@ -95,3 +95,6 @@
 ## 2026-10-06 수정 (사용자: AI 제작이라 명백한 판타지 세계 우선 · "니가 알아서 해")
 - A 제목 → **The Elf King's Baby Brother Only Talks to Me** (아기 = 왕의 막내 동생인데 왕의 아기로 읽혔음).
 - B 전면 재작성 = 현대 재벌가 → **겨울 용 왕국 · 동지 연회**, 제목 **The Dragon King's Baby Brother Only Talks to Me**. 여주 = 빙의 없는 토박이 인간 치유사(A와 구분). EP01~06 사건·끝 자리·「」 자리 1:1. 치환: 면허→치유사 증표 · 월세→방세 · 저택→얼음 용 왕궁 · 보모장→궁 유모장 · 비행기 사고→폭풍 · 갈라→동지 연회 · 수갑→쇠사슬 · 와인 창고→지하 얼음 창고 · 분유→눈사슴 젖/당나귀 젖 · 주치의→왕실 의원 · 트리 전구 화재→아기 용의 첫 불길 · 첫 크리스마스 사진→후계자 첫 초상화 · 오너먼트 꼭지→가보 장식의 은방울. 화당 547~549자 · 로그라인 171자 · name_leak PASS(Dragon·Nanny 일반어).
+
+## 2026-10-06 상위 4 선정 — 이 작품은 세트 A (사용자 "ㅇㅋ")
+원작마다 하나 · 크리스마스 하나 · 테마 안 겹침 → 1 40B Rejected at Moon Academy(하이틴) · 2 41B Sold by My Brothers, Found by the Crown Prince(오빠들) · 3 39A The Elf King's Baby Brother Only Talks to Me(엘프) · 4 38A My Ex's Rival Is My Christmas Boyfriend(크리스마스 · 12월 안 출시 필요). 크리스마스는 현대 크리스마스가 북미 소구라 원래 현대물인 38이 맡음(41A 판타지 왕국 크리스마스는 근거 부족으로 기각).
