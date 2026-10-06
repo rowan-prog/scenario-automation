@@ -1,4 +1,4 @@
-### [T1] The Elf King's Baby Only Talks to Me
+### [T1] The Elf King's Baby Brother Only Talks to Me
 
 **담당자** Rowan
 **상태 · 제작 등급** 제안중 A

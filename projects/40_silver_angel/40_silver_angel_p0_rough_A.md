@@ -1,4 +1,4 @@
-### [T1] The Silver Elf He Never Recognized
+### [T1] He Chose the Wrong Princess
 
 **담당자** Rowan
 **상태 · 제작 등급** 제안중 A
