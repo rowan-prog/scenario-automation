@@ -1,12 +1,12 @@
-### [T1] Nobody Believes I'm the Dragon Lord's Wife
+### [T1] One Night with the Dragon Lord: The Dragon Eggs
 
 **담당자** Rowan
-**상태 · 제작 등급** 제안중 A
+**상태 · 제작 등급** 팀 리드 확인 A급
 **제작 형태** AI실사
 **발화 언어** EN
-**타깃층** 북미/글로벌 여성 20-40
+**타깃층** 북미/글로벌 20-40
 **장르** 여성향
-**키워드** #Dragon Lord, Dragon Egg, Hidden Identity, Season 2
+**키워드** #Romantasy, Hidden Identity, Dragon Egg
 
 **로그라인**
 온 왕궁이 임신한 여자 하나를 용이 갖고 놀다 버린 년이라며 짓밟는데, 그 여자가 어느 밤 용의 알 두 개를 낳는다. 그 알들이 부화하며 쌍둥이가 나온다. 그 아이들은 드래곤 로드의 아이다.
@@ -68,4 +68,6 @@ EP08
 
 아침, 에드릭이 답을 들으러 내려와 이졸데 앞에서 알 하나를 들어 올린다. 그 순간 두 알이 동시에 안에서부터 갈라지고, 껍질을 깨고 나온 새끼 용 두 마리가 첫 숨에 뱉은 작은 불이 에드릭의 소매를 태운다.
 
-**레퍼런스 작품** 사내 <One Night with the Dragon Lord> 시즌1 (53화) · <The Lost Wolfless Mate>
+**레퍼런스 작품** Vigloo <One Night with the Dragon Lord> / <Pregnant with the Dragon King's Eggs> / <The Lost Wolfless Mate>
+
+**비고** 기존 작품이 오리지널. 시즌2도 오리지널로 제작해야 하여, 내부 히트작 참고하여 디벨롭.
