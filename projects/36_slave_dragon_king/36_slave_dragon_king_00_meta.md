@@ -66,3 +66,6 @@
 | 가짜의 첫 공격 | 빅터가 칼을 뽑음(핵 없음과 맞춤) / 7화 불 = 피 마법(원작 royal blood magic) |
 ③ 이름: Arthur/Kael/Slave/97번 → 오웬 · Daemon/Damon/Prince → 빅터 · Duke Valerius/King → 용왕 · Cecilia/Avril/Princess → 일레인 · Coal Miner → 얼 · Alluria → 왕비.
 ④ 의도된 변경: 사건·순서·대사는 원작 그대로, 약혼녀 비중만 확대(1화 처지 · 3화 시선 · 4화 두 번 나섬 · 5화 치유 · 6화 약속대로 함께 입장 · 7화 손목 잡기·난간) · 7화 관람석 여자 "끝내 버려요" 삭제(일레인과 충돌) · 7화 끝 오웬의 눈이 황금빛.
+
+## 2026-10-07 메인 점검
+- A 제목 Too Late, My Dragon Brothers(호격 = 대사형) → **The Slave Who Was Their Dragon Princess** · 셀링 2 = 팔찌 핏줄 장치 추가 · 왕세자 알렉산더 → 에드워드(40B 남주와 묶음 문서 안 겹침 · 아서는 원작 주인공 이름이라 기각). B 수정 0. name_leak PASS(제목 일반어 allow).
