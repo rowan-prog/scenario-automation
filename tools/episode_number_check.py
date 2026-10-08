@@ -129,6 +129,10 @@ def parse_episode_header(line):
     return None
 
 def parse_scene_header(line):
+    raw = line.translate(FW).strip()
+    m = re.match(r"^#([0-9]{1,3})(?![0-9])\s*\S", raw)  # "#1 INT. 세탁실" (# 뒤 띄어쓰기 없는 씬 번호)
+    if m:
+        return ("plain", None, int(m.group(1)), script_lang(raw[m.end() - 1:]))
     t = norm(line)
     if not t or len(t) > 160:
         return None
@@ -334,7 +338,28 @@ def main():
             if n in seen:
                 rep.E(f"EP{n} 씬이 {seen[n]}줄과 {ln}줄 두 군데로 갈라져 있음 — 사이에 다른 화가 끼었음")
             seen[n] = ln
+    # 화마다 1로 안 돌아가고 대본 전체로 이어 매긴 씬 번호(#1~#63 등)는 전체 이음으로 본다
+    global_keys = set()
+    for lg, style in {(lg, st) for (_, lg, st) in seqs}:
+        if style != "plain":
+            continue
+        blocks = sorted(k for (k, l2, s2) in seqs if l2 == lg and s2 == style)
+        if len(blocks) >= 3 and sum(1 for k in blocks if seqs[(k, lg, style)][0][0] == 1) <= 1:
+            global_keys.add((lg, style))
+            flat = [(s, ln, bounds[k][0]) for k in blocks for s, ln in seqs[(k, lg, style)]]
+            P(f"  {lg} 씬 번호 = 대본 전체로 이어 매김 ({flat[0][0]}~{flat[-1][0]})")
+            if flat[0][0] != 1:
+                rep.W(f"씬 번호가 1이 아니라 {flat[0][0]}부터 시작 ({flat[0][1]}줄)")
+            for (a1, l1, e1), (b1, l2, e2) in zip(flat, flat[1:]):
+                if b1 == a1:
+                    rep.W(f"씬 번호 {a1} 중복 ({e1}화 {l1}줄 · {e2}화 {l2}줄)")
+                elif b1 < a1:
+                    rep.W(f"씬 번호 거꾸로 {a1} → {b1} ({e2}화 {l2}줄)")
+                elif b1 > a1 + 1:
+                    rep.W(f"씬 번호 건너뜀 {a1} → {b1} ({e2}화 {l2}줄) — 씬이 빠졌거나 번호만 틀림")
     for (k, lg, style), seq in seqs.items():
+        if (lg, style) in global_keys:
+            continue
         ep = bounds[k][0]
         subs = [s for s, _ in seq]
         if subs[0] != 1:
