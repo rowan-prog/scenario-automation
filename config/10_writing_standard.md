@@ -408,7 +408,7 @@ LOCK에서 논리 오류가 다수 발견되는 것 = 집필 실패의 증거(SH
 
 ### E-4. 배치(5화) 탈고 직후
 - 직전 5화 raw 정독(연속성·voice·setup→payoff·중복 venue/gloat 추적).
-- 기계 게이트: `python tools/voice_lint.py <file> --full` + `python tools/continuity_lint.py <file>` + `python tools/pacing_lint.py <file>`(§C-2·C-3 — 단발 공간·시간점프·home-base drift·반복 클로징·리셋 오프닝 스트릭·주인공 부재) + `python tools/register_census.py <file>`(§D-5-0 — 인물별 레지스터/오프너 tic/무폭발) → 깨진 패턴 grep. 잡히면 그 자리에서 한 줄 수술(전면 재작성 X).
+- 기계 게이트: `python tools/episode_number_check.py <file> --expect <마지막 화>`(화 결번·중복·씬 번호 앞자리 — 화 합치기·나누기·삭제 뒤 필수 · 2026-10-08) + `python tools/voice_lint.py <file> --full` + `python tools/continuity_lint.py <file>` + `python tools/pacing_lint.py <file>`(§C-2·C-3 — 단발 공간·시간점프·home-base drift·반복 클로징·리셋 오프닝 스트릭·주인공 부재) + `python tools/register_census.py <file>`(§D-5-0 — 인물별 레지스터/오프너 tic/무폭발) → 깨진 패턴 grep. 잡히면 그 자리에서 한 줄 수술(전면 재작성 X).
 - **여기서 멈추지 않고 50화까지** (5화 배치 = 인라인 QA지 승인 체크포인트 아님).
 
 ### E-5. 수정 시 (집필 후 어느 단계든)
@@ -568,7 +568,7 @@ LOCK에서 논리 오류가 다수 발견되는 것 = 집필 실패의 증거(SH
 ## I. 산출·저장·자가 게이트
 
 1. **저장:** `projects/[작품]/05_episodes/[prefix]_ep[N].md` (배치 파일 가능) → 통합 시 `07_final/[작품]_FINAL_v{N}.md`. 메이저 변경 전 새 v{N+1} 분기(version-anchor). EP 본문 한국어 0자.
-2. **기계 게이트 (집필자 self-run·LLM 0):** `voice_lint.py --full` + `continuity_lint.py` + grep(빈 블록·이중 separator·고아 태그·금지어). 일괄 변환 후 = 깨진 패턴 grep 의무 + 사전 dry-run. **어휘 일소/교체 수술의 검증 = 문구가 아니라 어근(root) grep (2026-06-12):** "drop the mask" 문구 grep이 "get the mask back on" 변형을 통과시킨 사건 — 일소 대상 단어의 모든 활용형을 어근으로 걸러야 잔존 0이 증명된다.
+2. **기계 게이트 (집필자 self-run·LLM 0):** `episode_number_check.py --expect <마지막 화>`(화 결번·번호) + `voice_lint.py --full` + `continuity_lint.py` + grep(빈 블록·이중 separator·고아 태그·금지어). 일괄 변환 후 = 깨진 패턴 grep 의무 + 사전 dry-run. **어휘 일소/교체 수술의 검증 = 문구가 아니라 어근(root) grep (2026-06-12):** "drop the mask" 문구 grep이 "get the mask back on" 변형을 통과시킨 사건 — 일소 대상 단어의 모든 활용형을 어근으로 걸러야 잔존 0이 증명된다.
 3. **검증 보고서·테이블·자가 검수 풀이 = 본문 외 작성 금지** (메타 분량 = 본문 톤 침투의 근본 원인). 보고 = 경로 + 핵심 한 줄.
 4. meta 파일 갱신(이력은 meta가 단일 진실·CLAUDE.md 작품 행 = 현재 상태 + 포인터만).
 5. 청사진 환류: 본문이 더 강하면 해당 섹션 부분 업데이트 + 말미 1줄 로그(Hard Lock 변경 = 사용자 승인).

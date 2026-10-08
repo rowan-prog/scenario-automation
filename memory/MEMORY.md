@@ -87,6 +87,7 @@
 - **[writer-feedback-no-padding](feedback_writer_feedback_no_padding.md)** — 🚨(2026-09-10) 작가 피드백 다듬기 = 사용자 핀트 그대로·항목 안 늘림·판정 1~2문장+대안 한 줄·컷/결제 강의 0·수정 불필요한 소소 지적 0·워싱은 이야기 바뀌는 설정만.
 - **[original-writer-pitch-persuade-not-order](feedback_original_writer_pitch_persuade_not_order.md)** — (2026-10-07) 원작 작가에게 가는 리메이크 기획안 = 시키는 문서 ✗ "써 보고 싶다" ○ · 필수·금기 최소+이유 한 줄 · 중국 작가면 한중 병기 + 중문 원어민 점검.
 - [writer-comment-standard](feedback_writer_comment_standard.md) — 작가 코멘트 = `30_writer_feedback_standard` · AI 헛다리 필터.
+- **[episode-numbering-check](feedback_episode_numbering_check.md)** — 🚨(2026-10-08) 대본 검토 첫 단계 = 화 목록(결번·중복 표제·역순·씬 번호 앞자리·언어별 화 번호·개요↔본문·내용 혼입) · 기계 `tools/episode_number_check.py --expect N` · 결번은 docx 변환 손실부터 배제 · 보고 맨 앞에 결과.
 - **[approved-text-still-gets-fixed](feedback_approved_text_still_gets_fixed.md)** — (2026-10-07) 통과본·확정본도 틀린 표현·정합 오류는 고친다(제작 승인 ≠ 동결) · 원본과 파생 문서 같이 · 사건이 바뀌는 수정만 먼저 묻는다.
 - [pushback-user-contradiction](feedback_pushback_user_contradiction.md) — 확정 엔진·앞선 지시·원작과 충돌하면 반박 짚고 집행(진성 충돌만).
 - **[adaptation-fix-original-weakness](feedback_adaptation_fix_original_weakness.md)** — 🚨(2026-09-23) 히트작 각색 = 원작 약점부터 진단해 그 축을 보강(34번: 고수위 외 후킹 부재 → 관계·모욕·배신·굴욕·사이다 고쳐 쓰기) · 분량은 같이 다이어트.
