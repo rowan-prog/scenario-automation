@@ -122,3 +122,7 @@
 - A2 = `C:\Users\Rowan\scenario-automation\projects\39_baby_dragon\39_baby_dragon_p0_rough_A2.md` · **The Baby in My Arms Is the Elf King** — 한끗 = 아기가 저주로 아기 몸이 된 엘프 왕 에이드리언 본인(에밀리만 그의 어른 목소리를 들음) · 손목 은빛 덩굴 30줄 = 다음 보름달까지 남은 날 · 자정마다 1시간 어른 · 아그네스(저주) + 사촌 에드거(신규) · 6화 끝 = 뿌리 틈 어른 손.
 - 각 `_twist.md` = 원작 대비 노트(묶음 docx용). 원작 대사 워싱 · name_leak PASS(--allow Dragon,Nanny) · logline_lint FAIL 0.
 - 묶음 = `C:\Users\Rowan\scenario-automation\projects\리메이크 러프 기획안 8종_v1.docx`.
+## 2026-10-12 손보기 2차 (사용자: "재밌게·후킹·AI 문체 아니게" 점검 → "손봐. 정합성 오류(주체·객체 혼동·심각한 모순)까지")
+- 편마다 opus 손보기 1기(AI 문체 걷기 · 말버릇 상한 · 정합성 장부) → sonnet 독립 정합성 검수 → 메인이 원문 확인 후 진짜만 반영 → plain-reader 2차 → opus 콜드리드(1화·마지막 무료 화) → 콜드리드 지적 문장 수정. 말버릇(천자당): 그순간·그때 0~0.7 · 것이다 0 · 모른다 0~1.0(모범 0.8/0.8/0.4).
+- ⚠️ 작업 사고: PowerShell 단일 쌍 배열이 글자 단위로 풀려 5파일 글자 치환 → git 자동 커밋(2980dbf·dee9e0c)에서 복원 후 정확 일치 스크립트로 재적용. 이후 일괄 치환은 Python 정확 일치(횟수 1 확인)만.
+- 묶음 = `C:\Users\Rowan\scenario-automation\projects\리메이크 러프 기획안 8종_v2.docx`(v1 보존).

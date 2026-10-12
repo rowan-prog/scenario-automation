@@ -121,3 +121,7 @@
 - B2 = `C:\Users\Rowan\scenario-automation\projects\41_fated_reunion\41_fated_reunion_p0_rough_B2.md` · **My Brothers Sold My Daughter to the Palace** — 한끗 = 쌍둥이 · 오빠들이 딸을 막 아이를 잃은 헬렌에게 팔고 로즈에겐 죽었다고 함 → 찰리를 괴롭히는 사촌 공주 아이비(5) = 찰리의 쌍둥이 누나 · 맥스 삭제 · 피 안 멈추는 병 = 줄리언 어머니 쪽 핏줄이라 헬렌이 아이비 장갑으로 6년 숨김 · 9화 은검에서 그레고리가 아이비 장갑을 벗기려 함.
 - C2 = `C:\Users\Rowan\scenario-automation\projects\41_fated_reunion\41_fated_reunion_p0_rough_C2.md` · **I Hired the Wolf Prince to Be My Daddy** — 한끗 = 릴리가 생선 비늘 동전 12닢으로 왕세자를 아빠로 '고용' · '아빠 일' 목록(엄마 옆에서 자기·손 잡고 연회·머리 땋기·같이 밥·엄마 괴롭힌 아저씨 혼내기)이 화마다 사건을 끎 · 9화 릴리가 12닢을 국왕 발 앞에 쏟고 막아섬. 화당 630~780자(C 원래 분량대).
 - name_leak PASS(--allow 국왕,전하) · logline_lint FAIL 0 · 묶음 docx = `리메이크 러프 기획안 8종_v1.docx`.
+## 2026-10-12 손보기 2차 (사용자: "재밌게·후킹·AI 문체 아니게" 점검 → "손봐. 정합성 오류(주체·객체 혼동·심각한 모순)까지")
+- 편마다 opus 손보기 1기(AI 문체 걷기 · 말버릇 상한 · 정합성 장부) → sonnet 독립 정합성 검수 → 메인이 원문 확인 후 진짜만 반영 → plain-reader 2차 → opus 콜드리드(1화·마지막 무료 화) → 콜드리드 지적 문장 수정. 말버릇(천자당): 그순간·그때 0~0.7 · 것이다 0 · 모른다 0~1.0(모범 0.8/0.8/0.4).
+- ⚠️ 작업 사고: PowerShell 단일 쌍 배열이 글자 단위로 풀려 5파일 글자 치환 → git 자동 커밋(2980dbf·dee9e0c)에서 복원 후 정확 일치 스크립트로 재적용. 이후 일괄 치환은 Python 정확 일치(횟수 1 확인)만.
+- 묶음 = `C:\Users\Rowan\scenario-automation\projects\리메이크 러프 기획안 8종_v2.docx`(v1 보존).

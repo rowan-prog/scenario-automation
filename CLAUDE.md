@@ -149,7 +149,7 @@ phase_0 (아이디어) → phase_1 (러프 청사진) → phase_2 (피칭) → �
 | `43_elf_king_bred_me` | DramaWave 《Elf King Bred Me, Now He Hunts ME》(51화 · 일간 3위) 리메이크 러프 2안 | **러프 A·B (2026-10-12 · 무료 12→9화)** = `_p0_rough_A.md`(The Elf King Made Me Hatch My Own Stolen Egg — 귀족녀가 훔친 알을 품는 진짜 엄마) · `_B.md`(I Hid His Heir, Then Entered the Elf King's Bride Trials — 아들 숨긴 채 왕비 간택 참가) · 원작 대비 노트 `_twist.md` · 캐논·워싱 = meta |
 | `44_blind_heiress_dog` | NetShort 《Don't Let The Blind Heiress's Dog Die》(40화 · 랭킹 2위) 리메이크 러프 2안 | **러프 A·B (2026-10-12 · 무료 12→9화)** = `_p0_rough_A.md`(The Blind Heiress Sees Everything — 몰래 눈 뜨고 못 보는 척 · 현대 유지) · `_B.md`(The Blind Princess's Wolf Is a King — 판타지 · 안내 늑대 = 저주받은 늑대 왕) · 노트 `_twist.md` · meta |
 
-새 작품 번호 = **45**. · 2026-10-12 묶음 = `projects/리메이크 러프 기획안 8종_v1.docx`(39·41 디벨롭 + 43·44 신규 · 원작 대비 노트 포함).
+새 작품 번호 = **45**. · 2026-10-12 묶음 = `projects/리메이크 러프 기획안 8종_v2.docx`(손보기 2차 · v1 보존)(39·41 디벨롭 + 43·44 신규 · 원작 대비 노트 포함).
 
 > **현재본 단일 진실:** `07_final/[작품]_FINAL_v{최신N}.md`. 메타·CLAUDE.md 모순 시 → 파일 시스템 우선·메타 즉시 갱신. CLAUDE.md 작품 행 = 현재 상태 + 포인터만(이력 누적 금지).
 
