@@ -485,3 +485,9 @@ v8은 이해도 결함 9건을 **설명 문장을 덧대서** 막았다 = 논문
 - **파일 이동:** 작가 1차 원본 `A MAN WHO SEES YOUR LAST DAY(一卡).docx`가 `reference/`에 들어 있어 검사기가 원작으로 읽었다 → `29_sees_your_last_day_writer_free_v1_original_cn.docx`로 이동(git mv).
 - **게이트:** `python tools/name_leak_check.py --ref projects/29_sees_your_last_day/reference "C:/Users/Rowan/Downloads/Countdown King.역대본.md" --ours <9개 파일>` = **PASS**(원작 이름 EN 148·CN 24 대조). 메모리 [[adaptation-rename-entire-cast]] 절대 규칙으로 격상 · CLAUDE.md 룰 10 신설 · skill 7종에 게이트 삽입.
 - 리뷰 v4/v5·작가 피드백 v1·이 meta의 과거 항목은 이력이라 옛 이름 그대로 둠(작가 피드백의 개명표는 의도된 대조표).
+
+## 2026-10-12 — 작가 50화 완고(1008) 오류 검토 + 1012 수정 최종고
+- **입력:** `C:\Users\Rowan\Downloads\A MAN WHO SEES YOUR LAST DAY（50集1008）.docx`(중문 50화 · 인명 = 작가 최종고 기준 Jack Sullivan·Rachel Carter·Derek Vaughn·Megan Holloway·Owen/Arthur Carter·Beaumont 3인·Gavin Mercer·Caleb/Mitchell Hartwell·Martha) · Codex 검토 v002 + 재반박.
+- **검토:** 내 직독 + 구간 장부 3기 + 사실 원장 1기 → `_final_script_error_review_v1.md`(내 것) → Codex 대조 `_v2.md` → 반박 자료 `_fix_list_v3.md`(Codex 전달) → Codex 재반박 판정 후 `_fix_list_v4.md`(적용 내역).
+- **산출:** `마지막 날이 보이는 남자_1012 수정 최종고_중문 원문.docx` · `마지막 날이 보이는 남자_1012 수정 최종고_한국어 번역본(참고용).docx`(Codex 번역 기반) · 원문 바뀐 줄 52·지운 줄 2 · 화 목록 0 · name_leak PASS.
+- **다음:** 사용자가 드라이브에 올려 `C:\Users\Rowan\Documents\script-translator-share-0828`로 중/한/영 3단 로컬라이징(원본 = 중문 수정 최종고 · 한국어 칸 = 참고본 참조).
