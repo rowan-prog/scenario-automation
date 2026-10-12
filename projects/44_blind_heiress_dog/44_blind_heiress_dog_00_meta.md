@@ -1,0 +1,6 @@
+# 44_blind_heiress_dog — meta
+
+- 원작: NetShort 《Don't Let The Blind Heiress's Dog Die》(40화 · 사용자: NetShort 랭킹 2위). 역대본 = `C:\Users\Rowan\scenario-automation\projects\44_blind_heiress_dog\reference\Don't Let The Blind Heiress's Dog Die.역대본.md`(2026-10-12 Downloads에서 복사) · 1~12화 축약본 `reference\dog_1_5.txt` `dog_6_12.txt`. 화자 라벨 흔들림 심함(Victim/Blind/Injured Woman = 여주 · Villain/Antagonist/Blonde/Carter Woman·Vance = 정부 · 6화 Max = 개).
+- 원작 캐논(메인 정독 1~12화): 시각장애 상속녀가 결혼 3주년 서프라이즈로 공항 VIP 라운지 → 남편 정부·혼외 아들이 남편이 준 안내견을 레이저·커피·몽둥이 → "내 남편이 누군지 알아"(= 그녀 남편) · 블랙카드 글자 더듬기 → 상속녀라 밝혀도 "진짜 상속녀는 전용기에 경호원" → 남편 상장·50억 딜에 그녀 서명 필요 → 개가 차에 깔려 죽음 "못 봐서 아깝다" → 엔진·카트 → 비서실장이 시립병원에 가둠 → 병원 산소 끊기 → "리엄은 이미 결혼했어, 나랑" · 오빠·아버지 위성 추적.
+- 2026-10-12 러프 2안(무료 9화 · 원작 1~12): A = `44_blind_heiress_dog_p0_rough_A.md` **The Blind Heiress Sees Everything**(오드리 웰스·마크 포스터·티파니·타일러·베어·닉·월터·딘 · 현대 뉴욕 유지 · 한끗 = 몰래 각막 수술, 처음 본 게 남편과 정부의 키스 · 계속 못 보는 척 · 일주일 안 머리 충격 = 영구 실명) / B = `_p0_rough_B.md` **The Blind Princess's Wolf Is a King**(아멜리아·사이먼 공작·모니카·토비·로건·윌리엄 왕 · 판타지 항구 왕국 · 한끗 = 안내 늑대가 저주받은 늑대 왕, 자정마다 사람으로 침대 곁을 지켰지만 그녀만 모름 · 9화 눈물에 사람으로 일어섬).
+- 원작 대사 근접 줄 메인 워싱(A 15곳·B 7곳) · name_leak PASS(--allow Blind,Dog) · logline_lint PASS. 대비 노트 = 각 `_twist.md`.

@@ -1,0 +1,6 @@
+# 43_elf_king_bred_me — meta
+
+- 원작: DramaWave 《Elf King Bred Me, Now He Hunts ME》(51화 · 사용자: DramaWave 일간 3위). 역대본 = `C:\Users\Rowan\scenario-automation\projects\43_elf_king_bred_me\reference\Elf King Bred Me, Now He Hunts ME.역대본.md`(2026-10-12 Downloads에서 복사) · 1~12화 축약본 `reference\elf_1_5.txt` `elf_6_12.txt`(긴 지문 줄 제거). 화자 라벨 흔들림 심함(인간여자·여자 = 여주 / 할머니·마가렛·모후 = 왕의 어머니).
+- 원작 캐논(메인 정독 1~12화): 인간 노예 + 미약 취한 엘프왕 하룻밤 → 왕 흠모 귀족녀가 수명 100년 바쳐 예언 조작 → "다시 눈에 띄면 재로" 추방 → 10개월 뒤 숲에서 알로 출산(100년 만의 엘프 아기) → 혼혈 힘 폭주·봉인·기한 → 2년 뒤 복귀(오크 대사제 찾기) → 대비가 손주 그리워 차린 보육원에 친손주 맡김 · 칙령 "후계자 낳는 여자 = 왕비" → 츤데레 왕(하루 50번 묻기·몰래 길 일러 주기) · "남자 보러 온 건 맞는데 당신 아님" → 방의 아기 "설마?" → 젖·"보육원 아이" → 왕비 간택 무도회·아기 "아빠".
+- 2026-10-12 러프 2안(무료 9화 · 원작 1~12): A = `43_elf_king_bred_me_p0_rough_A.md` **The Elf King Made Me Hatch My Own Stolen Egg**(그레이스·루카스·캐롤라인·마사·노아 · 한끗 = 귀족녀가 알을 훔쳐 왕비 · 알은 엄마 손에서만 금빛 · 알 품는 하녀 · 위협 = 덩굴로 숨통) / B = `_p0_rough_B.md` **I Hid His Heir, Then Entered the Elf King's Bride Trials**(해나·가브리엘·사브리나·이디스·핀·브렌다·거스 · 한끗 = 아들 숨긴 채 왕비 간택 참가 · 세계수 관문 · 핀 덩굴 무늬 · 위협 = 태워 죽인다).
+- 원작 대사 근접 줄 메인 워싱(A 18곳·B 15곳 — 깨진 창문·50번 묻기·내 손주였으면·사람 잘못 보셨어요·이 손/이 다리·2년 후회 등) · name_leak PASS · logline_lint FAIL 0. 대비 노트 = 각 `_twist.md`.

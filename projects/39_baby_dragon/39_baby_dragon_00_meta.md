@@ -116,3 +116,9 @@
 
 ## 2026-10-07 메인 점검
 - B: 키워드 Christmas 삭제(동지 연회 ≠ 크리스마스) → #Nanny, Dragon, Cute Baby, Royalty · EP04 끝 「폭풍 치던 그 밤에도, 부모님 돌아오라고 밤새 북을 쳤어.」(북 공포 이유 명시). A 수정 0. name_leak PASS.
+
+## 2026-10-12 디벨롭 2안 (사용자: "39번, 41번은 기존 걸 디벨롭 · 레퍼런스 삼은 만큼 비슷하되 한끗 다른 아이디어 · 검색·히트작 목록 참고")
+- B2 = `C:\Users\Rowan\scenario-automation\projects\39_baby_dragon\39_baby_dragon_p0_rough_B2.md` · **Only I Can Hear What the Baby Dragon Saw** — B 세계·돈·손목 판돈 유지 + 한끗 = 아기 올리가 부모를 죽인 삼촌 고든 공작(신규 인물)을 본 유일한 목격자 · B의 달군 돌·짠 젖·반지 = 고든이 꾸민 일(마거릿은 옛 법이라 믿고 거듦) · 헨리는 케이티를 의심 · 6화 끝 = 얼음 기둥 속 케이티가 고든을 봄.
+- A2 = `C:\Users\Rowan\scenario-automation\projects\39_baby_dragon\39_baby_dragon_p0_rough_A2.md` · **The Baby in My Arms Is the Elf King** — 한끗 = 아기가 저주로 아기 몸이 된 엘프 왕 에이드리언 본인(에밀리만 그의 어른 목소리를 들음) · 손목 은빛 덩굴 30줄 = 다음 보름달까지 남은 날 · 자정마다 1시간 어른 · 아그네스(저주) + 사촌 에드거(신규) · 6화 끝 = 뿌리 틈 어른 손.
+- 각 `_twist.md` = 원작 대비 노트(묶음 docx용). 원작 대사 워싱 · name_leak PASS(--allow Dragon,Nanny) · logline_lint FAIL 0.
+- 묶음 = `C:\Users\Rowan\scenario-automation\projects\리메이크 러프 기획안 8종_v1.docx`.
