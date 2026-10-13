@@ -1,4 +1,4 @@
-### [T1] The Little Girl Who Bought Her Own Dad
+### [T1] The Little Girl Who Hired Her Own Dad
 
 **담당자** Rowan
 **상태 · 제작 등급** 제안중 A

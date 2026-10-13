@@ -5,7 +5,7 @@ metadata:
   node_type: memory
   type: feedback
   originSessionId: 17806859-7bf9-459e-813e-ab1905e37167
-  modified: 2026-10-13T07:42:26.026Z
+  modified: 2026-10-13T08:22:52.090Z
 ---
 
 영문 제목은 제목만 읽고 "누가 무엇을 하는 이야기"인지 바로 말할 수 있어야 하고, 사용자 말로 **"후킹, 내용 예상이 되고 매력적으로 느껴지고 직관적이고 쉽게"** 느껴져야 한다. 제목에는 우리가 원작에서 바꾼 한끗이 들어가야 한다(빠지면 "아빠가 알고 보니 왕족" 같은 흔한 약속만 남아 약하다).
@@ -15,6 +15,7 @@ metadata:
 **How to apply:**
 - 후보를 낼 때 모양을 섞는다: 명사구+관계절(A Man Who Sees Your Last Day) / 소유격 / My / 명령형(Don't Let …) / I 문장은 일부만.
 - Daddy는 아이 이야기여도 쓰지 않는다(영어권 성적 뜻). Dad는 된다.
+- 사람을 대상으로 한 Bought도 피한다(사용자: *"bought가 약간 좀 그래"* — 사람을 산다는 말이 무겁고, 로맨스 제목에선 하룻밤을 산다는 뜻으로 많이 쓴다 · 34 「I Bought the Dragon Lord for One Night」). 아이가 어른을 돈으로 쓰는 이야기면 Hired.
 - 장르 고유어를 쓴다: 늑대 = Alpha·Lycan·Luna, Wolf Prince ✗.
 - 원작 제목 꼴(단어 하나 바꾸기)과 남의 히트작 제목 조합(예: Elf Prince + Baby Daddy = 「The Elf Prince Is My Baby Daddy」)을 피한다. 같은 슬레이트 안 우리 작품끼리 핵심어가 겹치는지도 본다(30 Wolf Heir ↔ 41).
 - 관련: [[remake-follow-original-one-change]] [[remake-hankkeut-twist-sources]] [[t1-page-exemplars-whole-learning]]
