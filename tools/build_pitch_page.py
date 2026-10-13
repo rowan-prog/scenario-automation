@@ -164,7 +164,7 @@ def parse_treatment(sections):
             continue
         m = CLIFF_RE.match(s)
         if m:
-            cur[2] = m.group(2).strip()
+            cur[2] = (m.group(1).strip(), m.group(2).strip())
         else:
             cur[1].append(s)
     if cur:
@@ -294,9 +294,11 @@ def render(sections, confluence, lint_results):
             for t_ in lines:
                 doc.body(t_, space_after=3)
             if cliff:
+                # 원고에 쓴 라벨 그대로(`클리프:` 골드 / `엔딩 훅:` 사용자 E12 — 표준 §8 TBD 7)
+                cliff_label, cliff_text = cliff
                 p = doc.para(space_after=0)
-                doc.run(p, "클리프  ", size=10.5, bold=True, color=GREY)
-                doc.run(p, cliff, size=10.5, bold=(i == last))
+                doc.run(p, cliff_label + "  ", size=10.5, bold=True, color=GREY)
+                doc.run(p, cliff_text, size=10.5, bold=(i == last))
     return doc, kr, len(eps), len(chars)
 
 

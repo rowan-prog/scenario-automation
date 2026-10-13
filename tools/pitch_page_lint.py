@@ -778,6 +778,71 @@ def gate_U2(sections):
     return "PASS", "회차 부제 0"
 
 
+# ── D. 각색·리메이크 진술 (2026-10-13 · 표준 §3-6) ─────────────────────────────
+# 사용자 보완 지시: "레퍼런스 히트 광고소재를 어떻게 바꿀지" + "레퍼런스 작품을 무엇을 바꾸는데 한끗 차이로
+# 특별함을 더한것" + "내게 보고용이 아니라, 내가 쓴 것처럼 남에게 보여주는 피칭덱".
+# 이 두 게이트도 '세는 것'만 센다 — 한 끗이 좋은지는 판정하지 않는다.
+ADAPTATION_RE = re.compile(r'원작(?!료)|레퍼런스|리메이크|각색')
+HANKKUT_RE = re.compile(r'^\s*(?:\*\*)?한\s?끗(?:\*\*)?\s*[:：]')
+DELTA_HEAD_RE = re.compile(r'^\s*(?:\*\*)?([^:：\n]{2,28}?)(?:\*\*)?\s*[:：]\s*\S')
+AD_LINE_RE = re.compile(r'(원작|레퍼런스)\s*(히트\s*)?광고')
+AD_LINK_RE = re.compile(r'→|\d{1,2}\s*화|EP\s?\d|유료\s*구간')
+REPORT_TONE = ["좋을 듯", "좋을것 같", "좋을 것 같", "면 좋겠", "검토", "가능할", "해 볼", "해볼",
+               "추천", "로 보임", "것으로 보", "고려해 볼"]
+DELTA_HEAD_EXCLUDE = ("한 끗", "한끗", "원작 광고", "레퍼런스 광고", "우리 광고", "우리", "왜", "엔딩 훅",
+                      "클리프", "로그라인", "장르", "키워드", "회차", "타겟층", "레퍼런스")
+
+
+def _is_adaptation(sections):
+    return bool(ADAPTATION_RE.search(sec(sections, "basic") + "\n" + sec(sections, "pitch")))
+
+
+def gate_G20(sections):
+    text = sec(sections, "pitch")
+    if not text.strip():
+        return "SKIP", "피칭 사유 섹션을 찾지 못함"
+    if not _is_adaptation(sections):
+        return "SKIP", "레퍼런스·원작 표기 없음(오리지널로 판정)"
+    lines = text.splitlines()
+    hk = [l.strip() for l in lines if HANKKUT_RE.match(l)]
+    deltas = []
+    for l in lines:
+        m = DELTA_HEAD_RE.match(l)
+        if not m or HANKKUT_RE.match(l) or AD_LINE_RE.search(l[:12]):
+            continue
+        head = m.group(1).strip()
+        if head.startswith(DELTA_HEAD_EXCLUDE) or head.startswith('['):
+            continue
+        if re.search(r'에서\s?\S+로$|변형$|→|와\s?\S+$|과\s?\S+$', head):
+            deltas.append(head)
+    msgs = []
+    if len(hk) != 1:
+        msgs.append(f"'한 끗:' 줄 {len(hk)}개(기준 1)")
+    if not (2 <= len(deltas) <= 4):
+        msgs.append(f"델타 소제목 {len(deltas)}개(기준 2~4)")
+    if msgs:
+        return "WARN", " · ".join(msgs) + (f" — 델타: {', '.join(deltas[:5])}" if deltas else "")
+    return "PASS", f"한 끗 1 · 델타 {len(deltas)}개 — {', '.join(deltas)}"
+
+
+def gate_G21(sections):
+    text = sec(sections, "pitch")
+    if not text.strip():
+        return "SKIP", "피칭 사유 섹션을 찾지 못함"
+    if not _is_adaptation(sections):
+        return "SKIP", "레퍼런스·원작 표기 없음(오리지널로 판정)"
+    ad_lines = [l.strip() for l in text.splitlines() if AD_LINE_RE.search(l)]
+    if not ad_lines:
+        return "WARN", "레퍼런스 히트 광고 변환 줄 0 (레퍼런스 광고 자료가 없으면 무시)"
+    linked = [l for l in ad_lines if AD_LINK_RE.search(l)]
+    tone_hits = [w for w in REPORT_TONE if w in text]
+    if tone_hits:
+        return "FAIL", f"보고·제안체 {len(tone_hits)}종 — " + " ".join(tone_hits)
+    if not linked:
+        return "WARN", f"광고 줄 {len(ad_lines)}개 중 우리 화수·→ 연결 0"
+    return "PASS", f"광고 변환 줄 {len(linked)}/{len(ad_lines)} 연결 · 보고체 0"
+
+
 # ── 오케스트레이션 ────────────────────────────────────────────────────────────
 GATE_LABELS = {
     "F1": "필드 공란 0", "F2": "회차 수 일치", "F3": "필드 자리 뒤바뀜 0",
@@ -786,9 +851,10 @@ GATE_LABELS = {
     "G9": "개념 라벨 ≤3", "G10": "한자 0", "G11": "클리프 유형", "G12": "문장 길이",
     "G13": "로그라인", "G15": "어미 통일", "G16": "인명 정합",
     "U1": "\"페이월\" 단어 0", "U2": "회차 부제 0",
+    "G20": "한 끗+델타(각색)", "G21": "광고 변환(각색)",
 }
 GATE_ORDER = ["F1", "F2", "F3", "G1", "G2", "G3", "G4", "G5", "G6", "G7", "G8", "G9",
-              "G10", "G11", "G12", "G13", "G15", "G16", "U1", "U2"]
+              "G10", "G11", "G12", "G13", "G15", "G16", "U1", "U2", "G20", "G21"]
 GATE_FUNCS = {
     "F1": lambda s, t: gate_F1(s), "F2": lambda s, t: gate_F2(s), "F3": lambda s, t: gate_F3(s),
     "G1": lambda s, t: gate_G1(s), "G2": lambda s, t: gate_G2(s), "G3": lambda s, t: gate_G3(s),
@@ -797,6 +863,7 @@ GATE_FUNCS = {
     "G10": lambda s, t: gate_G10(s), "G11": lambda s, t: gate_G11(s), "G12": lambda s, t: gate_G12(s),
     "G13": lambda s, t: gate_G13(s), "G15": lambda s, t: gate_G15(s), "G16": lambda s, t: gate_G16(s),
     "U1": lambda s, t: gate_U1(s, t), "U2": lambda s, t: gate_U2(s),
+    "G20": lambda s, t: gate_G20(s), "G21": lambda s, t: gate_G21(s),
 }
 
 
@@ -917,7 +984,7 @@ def run_stats():
         lens = [char_count(t) for t in e1_eps.values()]
         print(f"  E1 회차 {len(e1_eps)}개 · 평균 {statistics.mean(lens):.0f}자 · 범위 {min(lens)}~{max(lens)}자")
 
-    print(f"\n전체 게이트 판정 분포 ({len(all_results)} 엔트리 × 20 게이트)")
+    print(f"\n전체 게이트 판정 분포 ({len(all_results)} 엔트리 × {len(GATE_ORDER)} 게이트)")
     per_gate_fail = Counter()
     per_gate_skip = Counter()
     overall_counts = Counter()
