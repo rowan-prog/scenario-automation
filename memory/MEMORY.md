@@ -15,7 +15,8 @@
 - **[find-the-originals-point](feedback_find_the_originals_point.md)** — 🚨(2026-10-06) 히트 원작 리메이크 = 먼저 '양산형 수천 개와 다른 포인트'(주인공의 예상 깨는 반응)를 찾아 로그라인·셀링 1번·「」 대사 척추로 · 간접 화법·눈물·애원으로 무르기 금지 · 센 1화는 묶지 않는다 · ⚠️ 살리는 건 기능이지 원작 대사·소품·모티프가 아니다("레퍼런스로 삼으랬지 표절하랬냐" — 40A 실증).
 - **[set-theme-from-original-genre](feedback_set_theme_from_original_genre.md)** — 🚨(2026-10-06) 리메이크 세트 외피는 원작 스토리 '구조'(처지·관계 축·판·클라이맥스 장치)에 맞는 걸로 · 테마 메뉴 2칸씩 채우기 금지(40B 하이틴·41A 크리스마스·39B 현대 실증).
 - **[remake-follow-original-one-change](feedback_remake_follow_original_one_change.md)** — 🚨(2026-10-13) 히트 원작 리메이크 러프 = 원작 흐름·끝 자리 그대로 + 한끗 하나 · 덧댄 설정·소품·규칙·인물 = "장황·비직관·재미없음"의 원인 · 이름 ≤5 · 화당 220~380자 · 흔한 소품은 원작대로(워싱은 이름·대사 문구만)
-- **[remake-hankkeut-twist-sources](feedback_remake_hankkeut_twist_sources.md)** — (2026-10-12) 리메이크 한끗 = 원작 감정을 곱절로 키우는 관계·처지 비틀기 하나(36A 호평 모범) · 근거는 검색 실물 + 사내 히트작 목록 · 지시서에 원작 예문 쓰면 유닛이 베낌 → 메인 워싱
+- **[remake-hankkeut-twist-sources](feedback_remake_hankkeut_twist_sources.md)** — (2026-10-12 · 10-13 호평 확인) 리메이크 한끗 = 검증된 서브 레퍼런스 하나를 찾아 원작 위에 살짝(41 C = Twin Matchmakers + 잘난 아들 덕보기 "아주 좋다") · 덧대는 자리 2~3곳 · 노트에 서브 레퍼런스 명기 · 지시서에 원작 예문 쓰면 유닛이 베낌 → 메인 워싱
+- **[title-forms-and-words](feedback_title_forms_and_words.md)** — (2026-10-13) 영문 제목 = 후킹·내용 예상·매력·직관·쉬움 + 한끗이 제목에 · I 문장만 내지 말 것(플랫폼 179개 중 6개) · Daddy 금지 · 장르 고유어(Wolf Prince ✗) · 원작·남의 히트작 제목 꼴 피하기
 - **[female-target-can-center-girl-child](feedback_female_target_can_center_girl_child.md)** — (2026-10-07) 아이물에서 "여성향으로" = 아들 → 딸, 딸 중심으로 굴러가게 · 어른 로맨스 키우기로 바로 가지 말 것(41 C 오독).
 - [no-je-pronoun-use-jagi](feedback_no_je_pronoun_use_jagi.md) — (2026-09-08) 한국어 산출물에서 '제 몸·제 아내' 같은 '제' 재귀 표현 금지 · '자기 몸'으로. 우회 표현('그녀 이름으로 돌리고')도 직접 말한다.
 - **[full-sentences-no-telegraphic](feedback_full_sentences_no_telegraphic.md)** — 🚨(2026-09-10) 모든 한국어 출력 = 주어·동사 있는 온전한 문장. "A는 B 한마디로"·화살표·뒤 잘라먹기 압축 금지. 채팅 답장도 같다.
