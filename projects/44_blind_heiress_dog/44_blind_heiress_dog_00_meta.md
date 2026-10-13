@@ -7,4 +7,8 @@
 ## 2026-10-12 손보기 2차 (사용자: "재밌게·후킹·AI 문체 아니게" 점검 → "손봐. 정합성 오류(주체·객체 혼동·심각한 모순)까지")
 - 편마다 opus 손보기 1기(AI 문체 걷기 · 말버릇 상한 · 정합성 장부) → sonnet 독립 정합성 검수 → 메인이 원문 확인 후 진짜만 반영 → plain-reader 2차 → opus 콜드리드(1화·마지막 무료 화) → 콜드리드 지적 문장 수정. 말버릇(천자당): 그순간·그때 0~0.7 · 것이다 0 · 모른다 0~1.0(모범 0.8/0.8/0.4).
 - ⚠️ 작업 사고: PowerShell 단일 쌍 배열이 글자 단위로 풀려 5파일 글자 치환 → git 자동 커밋(2980dbf·dee9e0c)에서 복원 후 정확 일치 스크립트로 재적용. 이후 일괄 치환은 Python 정확 일치(횟수 1 확인)만.
-- 묶음 = `C:\Users\Rowan\scenario-automation\projects\리메이크 러프 기획안 8종_v2.docx`(v1 보존).
+- 묶음 = `C:\Users\Rowan\scenario-automation\projects\리메이크 러프 기획안 8종_v2.docx`(v1 보존).## 2026-10-13 top3 정돈 — A2 (사용자: 8종 v2 "장황·이해 안 감·제목/동사/설정 비직관·재미없음 → 원작 쉽게 레퍼런스 삼은 top3만 정돈")
+- 산출 = `C:\Users\Rowan\scenario-automation\projects\44_blind_heiress_dog\44_blind_heiress_dog_p0_rough_A2.md` · **The Blind Heiress Sees Everything** · 노트 `_A2_twist.md` · 묶음 = `projects\리메이크 러프 기획안 top3.docx`. A·B 보존.
+- 원칙 = 원작 1~12 흐름 그대로(현대 뉴욕 유지) + 한끗 하나(몰래 눈 수술 · 계속 못 보는 척). "일주일 안 머리 충격 = 영구 실명" 규칙·머리 감싸기·화재경보·헬기·렌치·배수로·반지 두 개·닉/월터/딘 이름 삭제. 원작 「못 봐서 아깝다」 = 오드리는 다 봤다(한끗이 살리는 순간).
+- 원작 근접 줄 워싱(밥 흘린다·아이 싫다·가죽 북·500만 달러) · 「마크 포스터. 내 남편 이름이야」 화자 혼동·「약속이 쓰러져 있다」 비유 수정.
+- 게이트 = 화당 297~379자(A 447~676) · logline_lint WARN(트롭 어휘 0 · 모델 Last Day도 같음) · name_leak PASS(--allow Blind,Dog) · plain-reader 진짜 8건 수정.

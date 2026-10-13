@@ -7,4 +7,8 @@
 ## 2026-10-12 손보기 2차 (사용자: "재밌게·후킹·AI 문체 아니게" 점검 → "손봐. 정합성 오류(주체·객체 혼동·심각한 모순)까지")
 - 편마다 opus 손보기 1기(AI 문체 걷기 · 말버릇 상한 · 정합성 장부) → sonnet 독립 정합성 검수 → 메인이 원문 확인 후 진짜만 반영 → plain-reader 2차 → opus 콜드리드(1화·마지막 무료 화) → 콜드리드 지적 문장 수정. 말버릇(천자당): 그순간·그때 0~0.7 · 것이다 0 · 모른다 0~1.0(모범 0.8/0.8/0.4).
 - ⚠️ 작업 사고: PowerShell 단일 쌍 배열이 글자 단위로 풀려 5파일 글자 치환 → git 자동 커밋(2980dbf·dee9e0c)에서 복원 후 정확 일치 스크립트로 재적용. 이후 일괄 치환은 Python 정확 일치(횟수 1 확인)만.
-- 묶음 = `C:\Users\Rowan\scenario-automation\projects\리메이크 러프 기획안 8종_v2.docx`(v1 보존).
+- 묶음 = `C:\Users\Rowan\scenario-automation\projects\리메이크 러프 기획안 8종_v2.docx`(v1 보존).## 2026-10-13 top3 정돈 — B2 (사용자: 8종 v2 "장황·이해 안 감·제목/동사/설정 비직관·재미없음 → 원작 쉽게 레퍼런스 삼은 top3만 정돈")
+- 산출 = `C:\Users\Rowan\scenario-automation\projects\43_elf_king_bred_me\43_elf_king_bred_me_p0_rough_B2.md` · **Secret Son at the Elf King's Bride Contest** · 노트 `_B2_twist.md` · 묶음 = `projects\리메이크 러프 기획안 top3.docx`. B·A 보존.
+- 원칙 = 원작 1~12 흐름 그대로 + 한끗 하나(아들 살릴 수액 = 간택 마지막 관문까지 간 여자만 → 아들 숨긴 채 후보로). 관문 4 → 3(뿌리 꽃 · 우는 아기 · 무도회) · 묘목 관문·거스·브렌다·고양이족 이름 삭제.
+- 작성 유닛이 원작 대사를 다시 옮긴 5줄(손주였으면·남자 보러 온 건 맞아요·2년 후회·이 손 기억·처음이에요) 메인 워싱. 5화 「살려야 할 남자」 뒤에 "가브리엘은 그 남자가 두 살배기 자기 아들인 줄 모른다" 추가.
+- 게이트 = 화당 272~360자(B 370~704) · logline_lint PASS 3 · name_leak PASS · plain-reader 진짜 4건 수정.
