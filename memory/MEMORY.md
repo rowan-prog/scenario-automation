@@ -99,7 +99,7 @@
 - [version-anchor-commit](feedback_version_anchor_commit.md) · [bulk-script-verify-strict](feedback_bulk_script_verify_strict.md) · [docx-conversion-drops-table-textbox-text](feedback_docx_conversion_drops_table_textbox_text.md) · [speaker-tag-roster-mismatch](feedback_speaker_tag_roster_mismatch.md) · [external-korean-script-review-belt](feedback_external_korean_script_review_belt.md) · [script-file-zero-meta](feedback_script_file_zero_meta.md)
 - **[path-discipline](feedback_path_discipline.md) — 사용자에게 경로는 언제나 절대경로.**
 - [no-ask-autonomous](feedback_no_ask_autonomous.md) · [meta-trust-and-verify](feedback_meta_trust_and_verify.md) · [script-english-only](feedback_script_english_only.md) · [question-alarm](feedback_question_alarm.md) · [web-research-policy](feedback_web_research_policy.md) · [external-ai-input-handling](feedback_external_ai_input_handling.md) · [external-ai-evaluation-individual-validity](feedback_external_ai_evaluation_individual_validity.md)
-- [내 프로즈 디폴트 = 추상·완곡 세탁](my-prose-defaults-abstract-euphemistic.md) — 관념어·완곡 동사가 내 기본값. 판정 = 그 동사를 그림으로 그리면 맞는 그림인가.
+- [내 프로즈 디폴트 = 추상·완곡 세탁](my-prose-defaults-abstract-euphemistic.md) — 관념어·완곡 동사가 내 기본값. 판정 = 그 동사를 그림으로 그리면 맞는 그림인가. (10-13) "대사의 자리를 남주에게 줌"·"짓밟는 손을 바꿈" 번역투 금지 = 사람 주어 + 일상 동사 · 원작 대비는 불렛 원작/우리/이유.
 
 ## 작품 특수
 - [project-dist-package](project_dist_package.md) — 사내 배포 패키지 `tools/build_dist.py` · 인코딩 함정 2종.

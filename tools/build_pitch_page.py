@@ -260,6 +260,14 @@ def render(sections, confluence, lint_results):
             s = strip_md(line)
             if not s:
                 continue
+            # 불렛 델타 (2026-10-13 · 36번): `- **A에서 B로**` = 검정 볼드 머리 / `  - 원작: …` = 들여쓴 하위 줄
+            if re.match(r'^\s{2,}[-*]\s+', raw):
+                doc.body("· " + s, space_after=2, indent=14)
+                continue
+            if re.match(r'^[-*]\s+\*\*.+\*\*\s*$', raw):
+                p = doc.para(space_before=8, space_after=2, keep=True)
+                doc.run(p, s, bold=True)
+                continue
             is_sub = bool(BOLD_LINE_RE.match(line)) and not s.endswith(".")
             if is_sub:
                 doc.subhead(s)
