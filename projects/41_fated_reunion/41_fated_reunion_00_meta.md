@@ -130,3 +130,9 @@
 - 원칙 = 원작 1~14 흐름·끝 자리 그대로 + 한끗 하나(딸이 동전 열두 닢으로 왕세자를 아빠로 고용). 이름 5(엘라·세바스찬·릴리·나탈리·국왕) · 아버지·오빠·형·형수의 딸은 역할.
 - 지운 것 = 냄새 지우는 약초·냄새 폭발·아빠 일 목록 6줄·죽은 왕비 머리끈·달의 무녀·열병 증상 묘사. 3화 "왕가 핏줄에만 내려오는 병"은 세바스찬이 즉시 눈치채야 하는 구멍이라 "자기와 똑같은 열병"으로만.
 - 게이트 = 화당 260~390자(C2 521~691) · logline_lint PASS 3 · name_leak PASS(--allow 국왕,전하) · plain-reader 못 함 8·두 갈래 3 중 진짜 5건 수정(나머지 = 셀링 라벨·장르어).
+## 2026-10-13 C4 엘프판 (사용자: "I Hired the Wolf Prince to Be My Dad 이걸 울프 말고 엘프로 바꿔 … 더 디벨롭해. 타이틀도 후킹·내용 예상·매력·직관·쉽게")
+- 산출 = `C:\Users\Rowan\scenario-automation\projects\41_fated_reunion\41_fated_reunion_p0_rough_C4.md` · **The Little Girl Who Bought Her Own Dad** · 노트 `_C4_twist.md` · 묶음 = `projects\리메이크 러프 기획안 top3_v2.docx`. C3 보존.
+- 세계 = 늑대 왕국 → 엘프 왕국(원작은 사람 왕가라 원작 거리 변화 없음). 냄새로 알아보기 → 얼굴(원작 쪽으로 복귀 · 국왕 대사는 워싱 「세바스찬이 다섯 살로 돌아온 줄 알았다!」) · 늑대 털 망토 → 국왕의 낡은 망토 · 레드우드 팩 → 바다 건너 윈터 가문 · 신전의 불 = 엘프 왕가의 피는 안 태움.
+- 디벨롭 = 서브 레퍼런스(Twin Matchmakers: Billionaire Dad's Love Quest · 잘난 아들 덕보기 — 사용자 호평 "이런 식으로 서브 레퍼런스 하나 찾아 살짝") 세 자리만: 2화 「어시장에선 돈만 있으면 다 살 수 있어. 그러니까 아빠도 살 거야.」 / 3화 고용 조건 = 엄마한테 잘해 주기 / 7화 연회장 문 앞 손잡기 = 릴리의 사장님 명령.
+- 제목 = 문답 경과(I 문장 일색 지적 → Daddy 성적 암시 → Wolf Prince 장르어 아님 → Elf Prince+Dad는 남의 히트작 「The Elf Prince Is My Baby Daddy」와 겹침) 끝에 한끗(친아빠를 산 딸)을 담은 관계절 꼴.
+- 게이트 = 화당 262~378자(평균 339) · logline_lint PASS 3 · name_leak PASS · 작업어 0.
