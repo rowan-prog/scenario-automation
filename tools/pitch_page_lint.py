@@ -813,7 +813,7 @@ def gate_G20(sections):
         head = m.group(1).strip()
         if head.startswith(DELTA_HEAD_EXCLUDE) or head.startswith('['):
             continue
-        if re.search(r'에서\s?\S+로$|변형$|→|와\s?\S+$|과\s?\S+$', head):
+        if re.search(r'에서\s?.+로$|변형$|→|와\s?\S+$|과\s?\S+$', head):
             deltas.append(head)
     msgs = []
     if len(hk) != 1:
