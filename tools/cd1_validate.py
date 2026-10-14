@@ -536,6 +536,8 @@ TOTALIZING = ["이 작품의 전부", "가 전부다", "이 전부다", "핵심�
               "유일한 축", "전부라고 보면", "다름 아니라"]
 COINAGE = ["태워 본다", "태워본다", "화면의 대상", "전면에 세운다", "소구가 죽", "살아난다",
            "그대로 태워", "물건이 된다"]
+# [키워드]에 쓰면 읽는 사람이 못 푸는 줄임말 (2026-10-14 사용자: "여주주도는 뭐임? 이해 안감")
+KEYWORD_ABBREV = ["주도"]
 PREACHING = ["해야 한다", "해야한다", "쓸 것", "말 것", "하지 마라", "명심", "잊지 말", "유의할 것"]
 
 
@@ -543,6 +545,11 @@ def gate_prose(ws, bands, rep):
     """§0-1 반복 사고 6종 중 기계로 잡히는 것 — 총괄 선언 · 자작 조어 · 훈계 · CAST 회차 연표."""
     hits = []
     for loc, text in all_cells(ws):
+        if loc[0] == "G":
+            kw = next((l for l in text.split("\n") if l.startswith("[키워드]")), "")
+            for w in KEYWORD_ABBREV:
+                if w in kw:
+                    hits.append("{0}: 풀어 줘야 아는 키워드 '{1}'".format(loc, w))
         if not loc[0] in "BC":
             continue
         for w in TOTALIZING:

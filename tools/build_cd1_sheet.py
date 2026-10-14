@@ -418,7 +418,7 @@ EXAMPLE = {
     },
     "episodes": [
         {"ep": 1, "tier": 3, "sexual": True,
-         "keywords": ["정사신", "여주주도", "정체반전"],
+         "keywords": ["정사신", "정체반전"],
          "scene": "괴물에게 팔려가기 전날 밤, 이솔데가 남자의 입술을 물어뜯고 침대로 밀어 넘어뜨린 뒤 위에 올라앉아 셔츠를 찢는다. \"Shut up... and serve me.\"",
          "treatment": "폭풍우 치는 여관방. …"},
         {"ep": 2, "tier": 0, "keywords": ["간통누명", "위협"], "scene": None, "treatment": "…"}
