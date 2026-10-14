@@ -1,6 +1,6 @@
 # Don't Let The Blind Heiress's Dog Die — 원작 정식 대본 (KR · 40화)
 
-> NetShort <Don't Let The Blind Heiress's Dog Die> 영상을 받아쓴 역대본을 화자·장면 기준으로 정리한 참고용 대본이에요. 인물 이름은 원작 그대로예요.
+> NetShort <Don't Let The Blind Heiress's Dog Die> 영상 받아쓰기 대본을 화자·장면 기준으로 정리한 참고용 · 인물 이름 원작 그대로
 
 ## EP1 - S#1  낮 / 밖 / 뉴욕 JFK 공항 하차장
 등장인물: 클라라(VO)
