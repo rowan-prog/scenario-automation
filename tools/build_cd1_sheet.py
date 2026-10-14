@@ -17,6 +17,8 @@ import json
 import sys
 
 from openpyxl import Workbook, load_workbook
+from openpyxl.cell.rich_text import CellRichText, TextBlock
+from openpyxl.cell.text import InlineFont
 from openpyxl.styles import Alignment, Border, Font, PatternFill, Side
 
 # ---------------------------------------------------------------- 서식 상수 (템플릿 실측)
@@ -29,6 +31,10 @@ BORDER_RGB = "FFC9C9C9"
 
 TIER_FILL = {3: "FFEA9999", 2: "FFF9CB9C", 1: "FFFFE599"}
 TIER_STAR = {3: "★★★", 2: "★★", 1: "★"}
+
+# 섹슈얼 회차 = 별과 따로 "수위 확인하고 쓰시라" 표시 (표준 §3-4). 셀 색은 등급 그대로, 이 줄만 굵은 보라.
+CAUTION_MARK = "🔞 고수위 주의"
+CAUTION_RGB = "FF7030A0"
 
 COL_WIDTH = {"A": 33.13, "B": 35.13, "C": 38.13, "D": 42.38, "G": 16.5, "H": 51.5}
 # G=16.5 는 템플릿 원본값. 넓히면 팀 워크북에 붙였을 때 우리 탭만 어긋난다 (표준 §2-3).
@@ -164,6 +170,15 @@ def data(ws, row, col, value, center=False, fill=None, bold=False, guide=False):
     c.border = BOX
 
 
+def with_caution(text):
+    """G열 본문에 고수위 주의 줄이 있으면 그 줄만 굵은 보라로 — 나머지는 셀 기본 글꼴."""
+    if CAUTION_MARK not in text:
+        return text
+    head, tail = text.split(CAUTION_MARK, 1)
+    mark = TextBlock(InlineFont(rFont=FONT_NAME, b=True, color=CAUTION_RGB), CAUTION_MARK)
+    return CellRichText([p for p in (head, mark, tail) if p])
+
+
 # ---------------------------------------------------------------- 섹션 빌드
 
 def build_overview(ws, spec):
@@ -213,8 +228,13 @@ def build_episodic(ws, spec):
         # raw 모드 — 이미 확정된 G열 본문을 그대로 싣는다.
         # 기존 시트를 보완만 할 때 카드 서식을 우리 쪽으로 개조하지 않기 위한 통로다.
         if ep.get("g"):
+            g = ep["g"]
+            if ep.get("sexual") and CAUTION_MARK not in g:
+                first, _, rest = g.partition("\n")
+                g = (first + "\n" + CAUTION_MARK + "\n" + rest if first.startswith("★")
+                     else CAUTION_MARK + "\n" + g)
             data(ws, r, "F", ep.get("ep"), center=True, fill=fill)
-            data(ws, r, "G", ep["g"], fill=fill)
+            data(ws, r, "G", with_caution(g), fill=fill)
             data(ws, r, "H", ep.get("treatment"))
             continue
         kws = ep.get("keywords") or []
@@ -223,6 +243,8 @@ def build_episodic(ws, spec):
         lines = []
         if tier:
             lines.append(TIER_STAR[tier])
+        if ep.get("sexual"):
+            lines.append(CAUTION_MARK)
         lines.append("[키워드] " + " · ".join(kws))
         scene = (ep.get("scene") or "").strip()
         if tier and not scene:
@@ -234,7 +256,7 @@ def build_episodic(ws, spec):
                 warn.append("EP{0}: [장면] {1}자 (>{2})".format(ep.get("ep"), len(scene), SCENE_MAX_CHARS))
             lines.append("[장면] " + scene)
         data(ws, r, "F", ep.get("ep"), center=True, fill=fill)
-        data(ws, r, "G", "\n".join(lines), fill=fill)
+        data(ws, r, "G", with_caution("\n".join(lines)), fill=fill)
         data(ws, r, "H", ep.get("treatment"))
 
     # 템플릿에 미리 그려진 남는 행 정리
@@ -395,7 +417,7 @@ EXAMPLE = {
         "other": {"kr": "원작 없는 오리지널.", "en": "Original IP, no source novel."}
     },
     "episodes": [
-        {"ep": 1, "tier": 3,
+        {"ep": 1, "tier": 3, "sexual": True,
          "keywords": ["정사신", "여주주도", "정체반전"],
          "scene": "괴물에게 팔려가기 전날 밤, 이솔데가 남자의 입술을 물어뜯고 침대로 밀어 넘어뜨린 뒤 위에 올라앉아 셔츠를 찢는다. \"Shut up... and serve me.\"",
          "treatment": "폭풍우 치는 여관방. …"},

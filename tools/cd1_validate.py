@@ -79,6 +79,12 @@ TEMPLATE_GUIDE_MARKERS = [
 EP_LIST_PATTERN = re.compile(r"EP[.\s]?\d+\s*[·,]\s*(?:EP[.\s]?)?\d+")
 HANJA = re.compile(r"[一-鿿]")
 EN_QUOTE = re.compile(r'"([A-Za-z][^"]{8,})"')
+CAUTION_MARK = "🔞 고수위 주의"
+# [키워드]에 이게 있으면 섹슈얼 회차 — 별과 따로 고수위 주의 표시가 있어야 한다 (표준 §3-4).
+# '정체 노출'·'비밀 노출'류는 섹슈얼이 아니라 뺀다.
+SEXUAL_KEYWORD = re.compile(
+    r"정사|베드신|섹스|성관계|애무|섹슈얼|알몸|나체|전라|오럴|겁탈|강간|성폭행"
+    r"|(?<!정체)(?<!정체 )(?<!비밀)(?<!비밀 )(?<!신분)(?<!신분 )노출")
 FAKE_AI = "AI 신규 생성 페이크"
 FAKE_REUSE = "기존 장면 활용 페이크"
 
@@ -464,6 +470,21 @@ def gate_fill(cards, rep):
     rep.add("G16 등급 ↔ 색상 일치", not bad, "; ".join(bad[:6]))
 
 
+def gate_caution(cards, rep):
+    bad = []
+    for ep, c in cards.items():
+        lines = c["g"].split("\n")
+        kw = next((l for l in lines if l.startswith("[키워드]")), "")
+        if SEXUAL_KEYWORD.search(kw) and CAUTION_MARK not in lines:
+            bad.append("EP{0}: 섹슈얼 키워드인데 고수위 주의 없음".format(ep))
+        if CAUTION_MARK in lines:
+            starred = tier_of(c["g"]) or any(l.startswith("★") for l in lines)
+            if lines.index(CAUTION_MARK) != (1 if starred else 0):
+                bad.append("EP{0}: 고수위 주의 자리가 {1}번째 줄 (별 바로 아랫줄이어야 함)".format(
+                    ep, lines.index(CAUTION_MARK) + 1))
+    rep.add("G19 섹슈얼 회차 고수위 주의 표시", not bad, "; ".join(bad[:6]))
+
+
 def gate_format(ws, bands, cards, rep):
     bad = []
 
@@ -590,14 +611,16 @@ def main():
     gate_fill(cards, rep)
     gate_format(ws, bands, cards, rep)
     gate_prose(ws, bands, rep)
+    gate_caution(cards, rep)
 
     print(rep.render())
     print("")
-    print("집계: 회차 {0} · ★★★ {1} · ★★ {2} · ★ {3} · MKT 블록 {4} · Fake 블록 {5}".format(
+    print("집계: 회차 {0} · ★★★ {1} · ★★ {2} · ★ {3} · 고수위 주의 {4} · MKT 블록 {5} · Fake 블록 {6}".format(
         len(cards),
         sum(1 for c in cards.values() if tier_of(c["g"]) == 3),
         sum(1 for c in cards.values() if tier_of(c["g"]) == 2),
         sum(1 for c in cards.values() if tier_of(c["g"]) == 1),
+        sum(1 for c in cards.values() if CAUTION_MARK in c["g"].split("\n")),
         sum(1 for b in blocks if b["kind"] == "mkt"),
         sum(1 for b in blocks if b["kind"] in ("ai", "reuse", "fake_generic"))))
 
