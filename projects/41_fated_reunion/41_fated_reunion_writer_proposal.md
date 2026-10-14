@@ -5,7 +5,7 @@
 **타깃** 북미/글로벌 여성 20-40
 **발화 언어** 영어 (AI 더빙)
 **제작 형태** AI실사
-**회차** 총 45~50화 · 무료 1~9화 (원작 1~14화를 9화로)
+**회차** 총 50화 · 무료 1~9화 (원작 1~14화를 9화로)
 **메인 레퍼런스** DramaWave <Fated Reunion: My Daddy Is The Crown Prince> (48화) — 전편 시청 필수 · 원작 정식대본(한국어) 첨부
 **서브 레퍼런스** DramaBox <Twin Matchmakers: Billionaire Dad's Love Quest> · FlexTV <잘난 아들 덕 보기>
 

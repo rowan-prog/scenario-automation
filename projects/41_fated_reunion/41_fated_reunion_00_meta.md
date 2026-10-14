@@ -1,7 +1,7 @@
 # 41_fated_reunion — meta
 
 원작: 《Fated Reunion: My Daddy Is The Crown Prince》 (DramaWave · 2026-10-06 사용자 확정 · 약 50화 중 20화 보유 · 무료 1~14화). 원작 역대본 = `C:\Users\Rowan\scenario-automation\projects\41_fated_reunion\reference\Fated Reunion：My Daddy Is The Crown Prince.역대본_1-14화 무료.md` (2026-10-06 Downloads에서 이동).
-제작 총 45~50화 · 북미/글로벌 여성 20-40 · 무료 9화(원작 14화 압축).
+제작 총 50화(2026-10-14 사용자: 총 회차 기본 50화) · 북미/글로벌 여성 20-40 · 무료 9화(원작 14화 압축).
 
 ## 2026-10-01 러프 기획안(T1 페이지) 2세트
 - 세트 A 크리스마스 = `C:\Users\Rowan\scenario-automation\projects\41_fated_reunion\41_fated_reunion_p0_rough_A.md` (The Crown Prince's Christmas Son)
