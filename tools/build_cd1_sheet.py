@@ -327,7 +327,10 @@ def build_blocks(ws, spec, start):
         if blk.get("head"):                     # 확정된 밴드 문구를 그대로 싣는 통로
             head = blk["head"]
         elif kind == "ai":
-            head = "AI 신규 생성 페이크 {0} — {1} [{2}]".format(no, blk.get("title", ""), blk.get("spec", ""))
+            # variant = "설정 설명" — 판타지 등 설정이 복잡한 작품의 세계 규칙 설명형 (2026-10-15 사용자)
+            variant = (blk.get("variant") or "").strip()
+            head = "AI 신규 생성 페이크 {0}{1} — {2} [{3}]".format(
+                no, " · " + variant if variant else "", blk.get("title", ""), blk.get("spec", ""))
             if "초" not in str(blk.get("spec", "")):
                 warn.append("AI 페이크 {0}: 총 길이(초) 미표기".format(no))
         elif kind == "reuse":
@@ -438,6 +441,10 @@ EXAMPLE = {
         {"kind": "ai", "no": 1, "title": "남자들을 줄 세워 놓고 오늘 밤 잘 상대를 고르는 여자",
          "spec": "10초 · 3컷",
          "cuts": [{"label": "컷1 · 0-3초", "kr": "△ …", "en": "△ …", "cn": "△ …"}]},
+        {"kind": "ai", "no": 2, "variant": "설정 설명",
+         "title": "용의 군주의 저주를 멈추는 손은 팔려 온 신부의 손뿐",
+         "spec": "15초 · 3컷",
+         "cuts": [{"label": "컷1 · 0-5초", "kr": "△ … 나레이션VO: …", "en": "…", "cn": "…"}]},
         {"kind": "reuse", "no": 1, "title": "첫날밤마다 신부를 찢어 죽인다는 남자",
          "spec": "4컷 · EP1·5·8·34",
          "truth": "바엘은 이솔데에게 폭력을 쓰지 않는다. 태워 죽이는 대상은 전부 그녀를 해치러 온 자들이다.",
