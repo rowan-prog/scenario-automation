@@ -35,6 +35,7 @@ EP_ROW_START = 4
 STAR_RATIO_MAX = 0.40
 SCENE_MAX_CHARS = 130
 KEYWORD_MIN, KEYWORD_MAX = 2, 4
+FAKE_AI_MAX_SEC = 15          # AI 신규 생성 페이크 총 길이 상한 (2026-10-15 사용자)
 TREATMENT_MIN_SENT, TREATMENT_MAX_SENT = 2, 4
 MKT_BLOCK_MIN, MKT_BLOCK_MAX = 3, 5
 
@@ -449,14 +450,21 @@ def gate_fake(ws, blocks, script, rep):
                 reuse_bad.append("A{0}: EP{1} 대본에 없음".format(r, m.group(1)))
     rep.add("G14b 기존 장면 활용 출처", not reuse_bad, "; ".join(reuse_bad[:5]))
 
+    # 2026-10-15 사용자: AI 신규 생성 페이크는 최대 15초 · 보통 5~10초
     ai_bad = []
     for b in ai:
-        if not re.search(r"\[[^\]]*\d+\s*초", b["head"]):
+        m = re.search(r"\[[^\]]*?(\d+)\s*초", b["head"])
+        if not m:
             ai_bad.append("A{0}: 총 길이 미표기".format(b["row"]))
+        elif int(m.group(1)) > FAKE_AI_MAX_SEC:
+            ai_bad.append("A{0}: 총 {1}초 — 최대 {2}초".format(b["row"], m.group(1), FAKE_AI_MAX_SEC))
         for r in b["rows"]:
             lab = str(ws["A" + str(r)].value or "")
-            if not re.search(r"\d+\s*-\s*\d+\s*초", lab):
+            m = re.search(r"\d+\s*-\s*(\d+)\s*초", lab)
+            if not m:
                 ai_bad.append("A{0}: 컷 초 배분 없음".format(r))
+            elif int(m.group(1)) > FAKE_AI_MAX_SEC:
+                ai_bad.append("A{0}: 컷이 {1}초에 끝남 — 최대 {2}초".format(r, m.group(1), FAKE_AI_MAX_SEC))
     rep.add("G15 AI 신규 생성 길이", not ai_bad, "; ".join(ai_bad[:5]))
 
 
