@@ -1,4 +1,4 @@
-# Kiss the Monster Bride or Die — 비주얼 프롬프트 (GPT Image용 · 10장)
+﻿# Kiss the Monster Bride or Die — 비주얼 프롬프트 (GPT Image용 · 10장)
 
 ## 세계
 - 60년 전 사막 모래폭풍 속에 하룻밤 새 통째로 사라진 라스베이거스 블랙웰 카지노. 1960년대 라스베이거스 황금기 그대로 멈춰 있다.
@@ -43,6 +43,7 @@
 - 매디슨 두 장은 서큐버스가 된 뒤의 모습이다. 무료 1~8화의 매디슨은 그냥 사람 하객이라 남들 눈과 라이언 눈이 같다.
 
 ## 쓰는 법
+- **GPT에 통째로 붙여 넣을 파일은 따로 있다:** `C:\Users\Rowan\scenario-automation\projects\45_horror_game_hottie\45_horror_game_hottie_p0_visual_prompts_GPT.txt` (영어만 · 한 번 붙이면 1번부터 한 장씩 만들고 "next"로 다음 장). 이 파일은 설명용이다.
 - **코드 블록 하나 = 한 장이다.** 블록 하나를 통째로 복사해서 붙인다. 스타일은 블록 안에 다 들어 있다.
 - **한 장마다 새 채팅에서 돌린다.** 같은 채팅에서 이어 돌리면 앞에서 뽑은 그림(①)을 다시 그린다.
 - 크기는 가로 1536x1024로 뽑는다.
@@ -162,7 +163,7 @@ Her outfit, the same in both halves: a sparkly 1960s Las Vegas ring-girl outfit:
 
 Right half, her true human form: a gorgeous 20-year-old American college girl, the sorority queen bee and the hottest girl on campus, fully human. A natural, fresh-faced all-American beauty with no cosmetic-surgery look: soft round youthful cheeks, natural pink lips with no filler, light natural makeup, big bright blue eyes, a bubbly, slightly ditzy smile, long silky, bright classic golden-blonde hair (unmistakably blonde, not platinum, not ash), and a naturally curvy, athletic cheerleader figure.
 
-Left half, her succubus form: the same golden-blonde college girl, still stunning and youthful. Her whole body's skin is clearly, unmistakably pink, a rich rose-pink like flawless pink body paint on real skin in a big-budget fantasy film: obviously not a human skin tone, yet photoreal with natural skin texture, not cartoonish and not neon, popping against the silver sequins. Small curved glossy black horns rise from her platinum hair, black bat wings spread behind her shoulders, and a slender black tail ending in a heart shape curls around her leg. Her pupils are glowing pink hearts. Playful, glamorous and a little dumb.
+Left half, her succubus form: the same golden-blonde college girl, still stunning and youthful. Her whole body's skin is clearly, unmistakably pink, a rich rose-pink like flawless pink body paint on real skin in a big-budget fantasy film: obviously not a human skin tone, yet photoreal with natural skin texture, not cartoonish and not neon, popping against the silver sequins. Small curved glossy black horns rise from her golden-blonde hair, black bat wings spread behind her shoulders, and a slender black tail ending in a heart shape curls around her leg. Her pupils are glowing pink hearts. Playful, glamorous and a little dumb.
 ```
 
 ## ⑧ 매디슨 — 검은 수영복 라이프가드 · 호텔 수영장 (후반 · 서큐버스가 된 뒤)
@@ -178,7 +179,7 @@ Her outfit, the same in both halves: a retro black one-piece lifeguard swimsuit,
 
 Right half, her true human form: a gorgeous 20-year-old American college girl, the sorority queen bee and the hottest girl on campus, fully human. A natural, fresh-faced all-American beauty with no cosmetic-surgery look: soft round youthful cheeks, natural pink lips with no filler, light natural makeup, big bright blue eyes, a bubbly, slightly ditzy smile, long silky, bright classic golden-blonde hair (unmistakably blonde, not platinum, not ash), and a naturally curvy, athletic cheerleader figure.
 
-Left half, her succubus form: the same golden-blonde college girl, still stunning and youthful. Her whole body's skin is clearly, unmistakably pink, a rich rose-pink like flawless pink body paint on real skin in a big-budget fantasy film: obviously not a human skin tone, yet photoreal with natural skin texture, not cartoonish and not neon, popping against the black swimsuit. Small curved glossy black horns rise from her platinum hair, black bat wings spread behind her shoulders, and a slender black tail ending in a heart shape swishes over the water. Her pupils are glowing pink hearts. Playful, glamorous and a little dumb.
+Left half, her succubus form: the same golden-blonde college girl, still stunning and youthful. Her whole body's skin is clearly, unmistakably pink, a rich rose-pink like flawless pink body paint on real skin in a big-budget fantasy film: obviously not a human skin tone, yet photoreal with natural skin texture, not cartoonish and not neon, popping against the black swimsuit. Small curved glossy black horns rise from her golden-blonde hair, black bat wings spread behind her shoulders, and a slender black tail ending in a heart shape swishes over the water. Her pupils are glowing pink hearts. Playful, glamorous and a little dumb.
 ```
 
 ## ⑨ 단체 — 남들 눈 (넷 다 괴물 모습)
