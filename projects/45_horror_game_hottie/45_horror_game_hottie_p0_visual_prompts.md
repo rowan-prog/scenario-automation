@@ -10,7 +10,7 @@
 - **종족은 미국 남자 · 오타쿠에게 익숙한 몬스터걸로 가른다.** 아이비 = 죽음의 마녀(리치 여왕) · 들러리 = 좀비 · 늑대인간 · 매디슨 = 서큐버스.
 - **괴물 정도는 비중 따라 다르게 한다.**
   - 아이비 · 매디슨: 괴물 모습도 존나 예쁘고 쌔끈하게, 사람 몸매 그대로 간다.
-  - 매디슨 서큐버스 = 실사 피부결 그대로 은은한 장밋빛 핑크 피부 · 하트 동공 · 검은 뿔 · 박쥐 날개 · 하트 꼬리. 만화처럼 쨍한 핑크는 쓰지 않는다. 옷까지 핑크로 맞추면 장난감처럼 보이니 옷은 핑크를 피한다.
+  - 매디슨 서큐버스 = 누가 봐도 핑크인 장밋빛 피부(영화 특수분장처럼 실사 피부결 · 살색으로 빠지면 안 되고 만화처럼 쨍해도 안 됨) · 하트 동공 · 검은 뿔 · 박쥐 날개 · 하트 꼬리. 만화처럼 쨍한 핑크는 쓰지 않는다. 옷까지 핑크로 맞추면 장난감처럼 보이니 옷은 핑크를 피한다.
   - 매디슨 머리 = 누가 봐도 확실한 금발(쨍한 황금빛 블론드). 흐릿한 금발이나 플래티넘은 쓰지 않는다.
   - 들러리 둘: 몸 일부가 확실히 괴물이다.
   - 얼굴은 넷 다 예쁘게 둔다.
@@ -18,7 +18,7 @@
 - **피부색은 넷이 안 겹치게 간다.** 아이비는 시체처럼 하얀색, 좀비 들러리는 진하고 쨍한 자수정 보라, 매디슨은 핑크, 늑대 들러리는 적갈색 털이다. 색만이 아니라 톤까지 가른다. 아이비는 밝고 옅은 흰빛이고, 좀비는 진하고 짙은 보라다. 파스텔끼리 붙이지 않는다.
 - **아이비는 신부라 판이 바뀌어도 신부 옷으로 간다.** 본식은 웨딩드레스, 8화에 갈아입는 옷은 피로연용 검은 코르셋 드레스다. 쇼걸 같은 코스튬은 입히지 않는다.
 - **옷 색은 자기 피부 · 털 색과 겹치지 않게, 넷끼리도 겹치지 않게 간다.** 검정 · 흰색만 돌려 입히면 단조롭다.
-- **아이비 = 죽은 자를 부리는 죽음의 마녀(리치 여왕).** 판의 주인이라 위압감이 먼저 보여야 한다. 남들 눈엔 시체처럼 차갑게 하얀 피부이고, 어깨 · 쇄골 · 손이 유리처럼 비쳐 안의 금빛 뼈가 보인다. 가슴엔 심장 대신 보석이 빛나고, 머리엔 왕관이 박혀 자라 있고, 눈은 차가운 푸른 불꽃이다. 시체 느낌은 살리되 썩은 느낌은 쓰지 않는다. 초록 계통은 아예 안 쓴다. 좀비 들러리는 아이비가 직접 꿰맨 작품이고, 석상은 하객 영혼을 가둔 그릇이다.
+- **아이비 = 죽은 자를 부리는 죽음의 마녀(리치 여왕).** 판의 주인이라 위압감이 먼저 보여야 한다. 남들 눈엔 시체처럼 차갑게 하얀 피부이고, 어깨 · 쇄골 · 손이 유리처럼 비쳐 안의 금빛 뼈가 보인다. 가슴엔 심장 대신 보석이 빛나고, 머리엔 왕관이 박혀 자라 있고, 눈은 차가운 푸른 불꽃이다. 시체 느낌은 살리되 썩은 느낌은 쓰지 않는다. 초록 계통은 아예 안 쓴다. 좀비 들러리는 아이비가 직접 꿰맨 작품이고, 하객석에 앉아 박수 치는 시체들은 아이비가 되살린 탈락 신랑 후보들이다. 석상은 쓰지 않는다(메두사가 아니니까). 죽음은 피가 낭자하게 간다.
 - **의상은 판마다 바뀌는 코스튬이다.** 방향은 따로 적어 뒀다: `C:\Users\Rowan\scenario-automation\projects\45_horror_game_hottie\45_horror_game_hottie_paid_direction.md`
 - **라이언 눈 = 저주가 풀린 진짜 모습.** 완전한 사람이고 신비로운 미인이다. **남들 눈 = 괴물 모습.** 보통 사람은 질겁하지만 몬스터걸 취향 남자들한테는 분명히 끌리는 모습이다. 칙칙한 회색 · 탁한 색 · 썩은 느낌은 쓰지 않는다.
 - **히로인 한 장 = 한 화면에 두 모습을 반반으로 넣는다.** 왼쪽은 남들 눈이고 오른쪽은 라이언 눈이다. 같은 순간, 같은 옷, 같은 포즈이고 몸만 다르다. 잔인한 장면은 양쪽에 똑같이 보인다.
@@ -27,15 +27,15 @@
 
 | # | 누구 | 의상 · 상황 | 잔인한 장면 |
 |---|---|---|---|
-| ① | 아이비 | 웨딩드레스 · 1~4화 채플 결혼식 | 발밑에 방금 석상이 된 하객이 있다. 돌이 된 얼굴에서 눈알만 굴러간다. |
-| ② | 아이비 | 검은 코르셋 피로연 드레스 · 후반 룰렛 신랑 시험(8화 분장실에서 갈아입던 그 옷) | 룰렛 공이 멈추자 진 신랑 후보가 손끝부터 석상이 된다. |
+| ① | 아이비 | 웨딩드레스 · 1~4화 채플 결혼식 | 거짓 맹세한 신랑 후보가 가슴이 터져 쓰러져 있고, 아이비 손엔 그 남자의 심장이 들려 있다. 흰 드레스 자락에 피가 튀었다. |
+| ② | 아이비 | 검은 코르셋 피로연 드레스 · 후반 룰렛 신랑 시험(8화 분장실에서 갈아입던 그 옷) | 룰렛 공이 멈추자 진 신랑 후보가 눈코에서 피를 쏟으며 순식간에 말라비틀어진다. |
 | ③ | 좀비 들러리 | 메이드복 · 1화 채플 만찬 | 은쟁반을 열자 아까 나간 중년 남자의 금 손목시계가 구이 요리 위에서 째깍거린다. |
 | ④ | 좀비 들러리 | 간호사 · 후반 카지노 호텔 의무실 | 침대에 묶인 하객 입으로 바늘과 검은 실을 가져간다. 들러리 몸에 난 실밥과 같은 실이다. |
 | ⑤ | 늑대 들러리 | 칵테일 웨이트리스 · 2화 채플 만찬 | 우는 하객 입에 그 구이를 포크로 들이민다. 뒤에선 식탁이 쩍 갈라져 이빨 달린 아가리가 되고, 하객을 끌어당긴다. |
 | ⑥ | 늑대 들러리 | 바니걸 · 5~6화 연회장 부케 게임 | 문으로 달아난 젊은 남자 하객의 멱살을 한 손으로 잡고 질질 끌고 온다. 남들 눈엔 토끼 귀와 솜꼬리가 진짜 늑대 귀와 꼬리다. |
 | ⑦ | 매디슨 | 링걸 · 후반 카지노 격투장(서큐버스가 된 뒤) | 링 위에서 하객 둘이 억지로 주먹다짐을 한다. 매디슨은 그걸 배경으로 셀카를 찍는다. |
 | ⑧ | 매디슨 | 검은 수영복 라이프가드 · 후반 호텔 수영장(서큐버스가 된 뒤) | 물에 빠진 하객이 수영장 가장자리를 잡자 발로 그 손을 밀어내고, 호루라기를 불며 깔깔 웃는다. |
-| ⑨ | 넷 | 남들 눈 단체 · 연회 식탁 | 넷 다 괴물 모습이다. 시계 얹힌 구이, 넘치는 와인, 우는 석상 하객이 있다. |
+| ⑨ | 넷 | 남들 눈 단체 · 연회 식탁 | 넷 다 괴물 모습이다. 시계 얹힌 구이, 넘치는 와인, 되살아나 박수 치는 신랑 후보 시체들, 식탁보에 튄 피가 있다. |
 | ⑩ | 넷 | 라이언 눈 단체 · ⑨와 같은 구도 | 넷 다 사람 미녀다. 잔인한 장면은 ⑨와 똑같다. |
 
 - 매디슨 두 장은 서큐버스가 된 뒤의 모습이다. 무료 1~8화의 매디슨은 그냥 사람 하객이라 남들 눈과 라이언 눈이 같다.
@@ -45,6 +45,7 @@
 - **한 장마다 새 채팅에서 돌린다.** 같은 채팅에서 이어 돌리면 앞에서 뽑은 그림(①)을 다시 그린다.
 - 크기는 가로 1536x1024로 뽑는다.
 - 섹시하다는 단어와 잔인한 동작이 한 프롬프트에 같이 있으면 ChatGPT가 막는다. 그래서 프롬프트에는 섹시하다는 말을 빼고 의상과 포즈로만 보여 준다. 잔인한 장면도 직접 다치게 하는 순간 대신 바로 직전이나 바로 뒤로 쓴다.
+- 피가 들어간 컷(①②⑨⑩)이 막히면 피는 남기고 심장 · 시체를 먼저 뺀다(예: ①의 `holds his heart, glowing red` → `holds a glowing red light`).
 - 그래도 막히면 잔인한 문장을 한 번 더 낮춘다. 예를 들어 ③의 시계를 `a gold wristwatch lying on the silver platter`로만 남긴다.
 - 반반 그림이 한 번에 안 맞으면, 오른쪽 라이언 눈 모습만 먼저 한 장 뽑는다. 새 채팅에 그 이미지를 첨부하고 프롬프트 맨 앞에 `Use the attached image as the reference for this character's face, outfit, pose and scene.`를 넣어 반반으로 다시 뽑는다.
 
@@ -57,7 +58,7 @@ Photorealistic cinematic still from a live-action horror drama, horizontal 16:9 
 
 A side-by-side diptych in one horizontal frame, split down the middle by a thin clean line. Both halves show the same moment from the same camera angle: the same woman, same face, same gown, same pose, same background. Only her appearance changes. Left half: what the terrified wedding guests see, her cursed lich-queen form. Right half: what one man sees, her true human form.
 
-The scene: the altar of the casino's wedding chapel, white marble columns under a glowing pink neon heart. The bride stands on the altar steps and looks back over her shoulder into the camera with a faint, knowing smile. At her feet lies a wedding guest in a modern suit who has just turned into white marble, frozen mid-scream, his real human eyes still moving in his stone face, her long train sliding over him. Behind her, the chapel rows are filled with more marble statues of guests and a few living guests frozen in fear.
+The scene: the altar of the casino's wedding chapel, white marble columns under a glowing pink neon heart. The bride stands on the altar steps and looks back over her shoulder into the camera with a faint, knowing smile. At her feet, a groom candidate in a modern suit who lied in his vow lies sprawled on the steps, his shirt torn open over his chest, blood splashed across the white marble and the hem of her gown, and in her lace-covered hand she holds his heart, glowing red. Behind her, the chapel rows are filled with the corpses of earlier failed groom candidates in dusty tuxedos, raised from the dead and seated like guests, with a few living guests frozen in fear among them.
 
 Her gown, the same in both halves: an exquisite fitted mermaid wedding gown in ivory silk and French lace, flaring below the knee into a long cathedral train of silk organza. The sheer lace bodice is hand-embroidered with tiny pearls and crystal beads in a delicate filigree pattern, with a sweetheart neckline. Long sheer lace sleeves end in points over the backs of her hands. The back opens in a deep V framed by scalloped lace. A cathedral-length veil is held by a fine gold comb shaped like a small crown.
 
@@ -73,7 +74,7 @@ Photorealistic cinematic still from a live-action horror drama, horizontal 16:9 
 
 A side-by-side diptych in one horizontal frame, split down the middle by a thin clean line. Both halves show the same moment from the same camera angle: the same woman, same face, same dress, same pose, same background. Only her appearance changes. Left half: what the terrified wedding guests see, her cursed lich-queen form. Right half: what one man sees, her true human form.
 
-The scene: the casino floor at night, a vintage roulette table under a low gold lamp, slot machines and neon glowing behind. This is the bride's next groom test: frightened male wedding guests in modern suits sit around the table as groom candidates, betting their lives. She leans over the table with one hand on the wheel, smiling as she sends the ball spinning. Across the table, the candidate whose number just lost is turning into white marble from his fingertips up, frozen mid-scream, his chips still clutched in his stone hand. The other men stare at their own hands in terror.
+The scene: the casino floor at night, a vintage roulette table under a low gold lamp, slot machines and neon glowing behind. This is the bride's next groom test: frightened male wedding guests in modern suits sit around the table as groom candidates, betting their lives. She leans over the table with one hand on the wheel, smiling as she sends the ball spinning. Across the table, the candidate whose number just lost is shriveling into a dried-out husk in seconds as his life is drained into the spinning wheel, blood running from his nose and eyes onto the felt, his chips still clutched in his withered hand. The other men stare at their own hands in terror.
 
 Her dress, the same in both halves: the bride's second dress for the reception, the one she changed into backstage: a sleek black satin corset dress with fine black lace edging, fitted through the body with a long slit, sheer black lace gloves, a delicate diamond choker, and a short black birdcage veil pinned in her hair. Luxurious and refined, like a high-fashion bride at midnight, not a costume.
 
@@ -159,7 +160,7 @@ Her outfit, the same in both halves: a sparkly 1960s Las Vegas ring-girl outfit:
 
 Right half, her true human form: a gorgeous 20-year-old American college girl, the sorority queen bee and the hottest girl on campus, fully human. A natural, fresh-faced all-American beauty with no cosmetic-surgery look: soft round youthful cheeks, natural pink lips with no filler, light natural makeup, big bright blue eyes, a bubbly, slightly ditzy smile, long silky, bright classic golden-blonde hair (unmistakably blonde, not platinum, not ash), and a naturally curvy, athletic cheerleader figure.
 
-Left half, her succubus form: the same golden-blonde college girl, still stunning and youthful. Her skin has a soft, realistic rose-pink tone, photoreal like real human skin tinted pink, with natural texture and a healthy glow, not cartoonish and not neon, popping against the silver sequins. Small curved glossy black horns rise from her platinum hair, black bat wings spread behind her shoulders, and a slender black tail ending in a heart shape curls around her leg. Her pupils are glowing pink hearts. Playful, glamorous and a little dumb.
+Left half, her succubus form: the same golden-blonde college girl, still stunning and youthful. Her whole body's skin is clearly, unmistakably pink, a rich rose-pink like flawless pink body paint on real skin in a big-budget fantasy film: obviously not a human skin tone, yet photoreal with natural skin texture, not cartoonish and not neon, popping against the silver sequins. Small curved glossy black horns rise from her platinum hair, black bat wings spread behind her shoulders, and a slender black tail ending in a heart shape curls around her leg. Her pupils are glowing pink hearts. Playful, glamorous and a little dumb.
 ```
 
 ## ⑧ 매디슨 — 검은 수영복 라이프가드 · 호텔 수영장 (후반 · 서큐버스가 된 뒤)
@@ -175,7 +176,7 @@ Her outfit, the same in both halves: a retro black one-piece lifeguard swimsuit,
 
 Right half, her true human form: a gorgeous 20-year-old American college girl, the sorority queen bee and the hottest girl on campus, fully human. A natural, fresh-faced all-American beauty with no cosmetic-surgery look: soft round youthful cheeks, natural pink lips with no filler, light natural makeup, big bright blue eyes, a bubbly, slightly ditzy smile, long silky, bright classic golden-blonde hair (unmistakably blonde, not platinum, not ash), and a naturally curvy, athletic cheerleader figure.
 
-Left half, her succubus form: the same golden-blonde college girl, still stunning and youthful. Her skin has a soft, realistic rose-pink tone, photoreal like real human skin tinted pink, with natural texture and a healthy glow, not cartoonish and not neon, popping against the black swimsuit. Small curved glossy black horns rise from her platinum hair, black bat wings spread behind her shoulders, and a slender black tail ending in a heart shape swishes over the water. Her pupils are glowing pink hearts. Playful, glamorous and a little dumb.
+Left half, her succubus form: the same golden-blonde college girl, still stunning and youthful. Her whole body's skin is clearly, unmistakably pink, a rich rose-pink like flawless pink body paint on real skin in a big-budget fantasy film: obviously not a human skin tone, yet photoreal with natural skin texture, not cartoonish and not neon, popping against the black swimsuit. Small curved glossy black horns rise from her platinum hair, black bat wings spread behind her shoulders, and a slender black tail ending in a heart shape swishes over the water. Her pupils are glowing pink hearts. Playful, glamorous and a little dumb.
 ```
 
 ## ⑨ 단체 — 남들 눈 (넷 다 괴물 모습)
@@ -183,11 +184,11 @@ Left half, her succubus form: the same golden-blonde college girl, still stunnin
 ```
 Photorealistic cinematic still from a live-action horror drama, horizontal 16:9 frame, wide shot. Setting: the showroom of a lavish 1960s Las Vegas casino-hotel built like a Greek temple, frozen in time: white marble columns and statues, gold trim, red carpet, glowing hot pink and turquoise neon. Retro Vegas glamour turned eerie; not gothic, no candles, no fog. Shot on ARRI Alexa, 35mm lens, subtle film grain, soft flattering beauty lighting, flawless youthful skin. All characters are adults; the women are gorgeous young women around 19 to 21, each a natural, fresh-faced beauty with no cosmetic-surgery look and no lip filler. No text, no watermark.
 
-One single group shot, not a split image. Four cursed women stand together at a long wedding banquet table, as the terrified guests see them. Frightened guests in modern clothes sit at the table, and some chairs hold white marble statues of guests whose real eyes are crying. All four women look straight at the camera.
+One single group shot, not a split image. Four cursed women stand together at a long wedding banquet table, as the terrified guests see them. Frightened guests in modern clothes sit at the table, and some chairs hold the raised corpses of earlier failed groom candidates in dusty tuxedos, grinning and clapping. Blood is splashed across the white tablecloth. All four women look straight at the camera.
 Center, the queen of them all: the lich-queen bride in an ivory pearl-and-crystal lace mermaid wedding gown and veil, sitting on the edge of the table, smiling. Her skin is cold and deathly pale like a beautiful corpse; her shoulders, arms and hands are clear as crystal glass with gleaming gold bones inside; an icy-blue jewel glows in her chest where her heart should be; a crown of gold and bone grows from her head into her floating black hair; her eyes burn with cold blue soul fire. Commanding, mysterious and beautiful; no green anywhere.
 Left: the zombie girl in a black-and-white French maid uniform with a frilly lace apron and headband, rich, saturated amethyst-violet skin, neat black stitches at her throat, wrists and cheek, one milky white eye, deadpan, lifting a silver dome to show a glazed roast with a man's gold wristwatch lying on top.
 Right: the werewolf girl in a cobalt-blue 1960s cocktail-waitress dress, tall wolf ears, tawny-red fur on her shoulders and arms, furred wolf legs and clawed paws tearing through her fishnets, a bushy tail, pouring red wine into a sobbing guest's glass until it overflows across the table, grinning with long fangs.
-Far right: the golden-blonde college-girl succubus in a silver sequined ring-girl outfit, soft realistic rose-pink skin (photoreal, not cartoonish), small black horns, black bat wings spread, a heart-tipped tail, glowing pink heart-shaped pupils, giggling as she takes a selfie with a crying marble-statue guest.
+Far right: the golden-blonde college-girl succubus in a silver sequined ring-girl outfit, clearly rose-pink skin like photoreal body paint (obviously pink, not a human skin tone, not cartoonish), small black horns, black bat wings spread, a heart-tipped tail, glowing pink heart-shaped pupils, giggling as she takes a selfie with a grinning corpse groom candidate.
 Beautiful and monstrous at once.
 ```
 
@@ -196,11 +197,11 @@ Beautiful and monstrous at once.
 ```
 Photorealistic cinematic still from a live-action horror drama, horizontal 16:9 frame, wide shot. Setting: the showroom of a lavish 1960s Las Vegas casino-hotel built like a Greek temple, frozen in time: white marble columns and statues, gold trim, red carpet, glowing hot pink and turquoise neon. Retro Vegas glamour turned eerie; not gothic, no candles, no fog. Shot on ARRI Alexa, 35mm lens, subtle film grain, soft flattering beauty lighting, flawless youthful skin. All characters are adults; the women are gorgeous young women around 19 to 21, each a natural, fresh-faced beauty with no cosmetic-surgery look and no lip filler. No text, no watermark.
 
-One single group shot, not a split image. Four stunning women stand together at a long wedding banquet table, fully human, with no monster features at all. Frightened guests in modern clothes sit at the table, and some chairs hold white marble statues of guests whose real eyes are crying. All four women look straight at the camera.
+One single group shot, not a split image. Four stunning women stand together at a long wedding banquet table, fully human, with no monster features at all. Frightened guests in modern clothes sit at the table, and some chairs hold the raised corpses of earlier failed groom candidates in dusty tuxedos, grinning and clapping. Blood is splashed across the white tablecloth. All four women look straight at the camera.
 Center: the bride in an ivory pearl-and-crystal lace mermaid wedding gown with a long veil held by a gold crown-shaped comb, sitting on the edge of the table, smiling. About 21, a timeless ethereal beauty with a youthful face, long glossy jet-black hair, luminous fair skin, amber-gold eyes, rose lips.
 Left: a tall, slim young woman of about 20 in a black-and-white French maid uniform with a frilly lace apron and headband, sleek chestnut-brown hair pulled back tight, pale blue eyes, deadpan, lifting a silver dome to show a glazed roast with a man's gold wristwatch lying on top.
 Right: a petite young woman of about 20 in a cobalt-blue 1960s cocktail-waitress dress with a tiny lace apron and fishnets, long wild copper-red hair, green eyes, freckles, pouring red wine into a sobbing guest's glass until it overflows across the table, grinning.
-Far right: a 20-year-old golden-blonde college queen bee with unmistakably bright blonde hair, a natural fresh-faced all-American beauty with no cosmetic-surgery look and a naturally curvy figure, in a silver sequined ring-girl outfit, big bright blue eyes, a bubbly smile, giggling as she takes a selfie with a crying marble-statue guest.
+Far right: a 20-year-old golden-blonde college queen bee with unmistakably bright blonde hair, a natural fresh-faced all-American beauty with no cosmetic-surgery look and a naturally curvy figure, in a silver sequined ring-girl outfit, big bright blue eyes, a bubbly smile, giggling as she takes a selfie with a grinning corpse groom candidate.
 The eerie scene around them is the same as what the guests see; only the women look human and impossibly beautiful.
 ```
 
@@ -211,5 +212,5 @@ The eerie scene around them is the same as what the guests see; only the women l
 ```
 Photorealistic cinematic still from a live-action horror drama, horizontal 16:9 frame. Shot on ARRI Alexa, 50mm lens, shallow depth of field, subtle film grain. All characters are adults. No text, no watermark.
 
-An ordinary young American guy, 23, the kind of everyday dude male viewers can picture themselves as: not a model, not a romance-novel hunk, no stubble, no brooding mature look. Boyish face, messy brown hair, clean-shaven, average slim build. He wears a cheap rented black suit that is a little too big, a crooked tie, and white sneakers under his suit pants. He stands in the aisle of a 1960s Las Vegas wedding chapel inside a Greek-temple casino, with white marble columns and a glowing pink neon heart over the altar. One hand in his pocket, a shameless, goofy-cocky grin, eyes locked on someone off-frame toward the altar, openly checking her out. Behind him, out of focus, frightened modern-day wedding guests huddle in the rows of chairs, and white marble statues of people sit among them with real human eyes. He is the only man in the room who is enjoying this. Medium shot, slightly low angle.
+An ordinary young American guy, 23, the kind of everyday dude male viewers can picture themselves as: not a model, not a romance-novel hunk, no stubble, no brooding mature look. Boyish face, messy brown hair, clean-shaven, average slim build. He wears a cheap rented black suit that is a little too big, a crooked tie, and white sneakers under his suit pants. He stands in the aisle of a 1960s Las Vegas wedding chapel inside a Greek-temple casino, with white marble columns and a glowing pink neon heart over the altar. One hand in his pocket, a shameless, goofy-cocky grin, eyes locked on someone off-frame toward the altar, openly checking her out. Behind him, out of focus, frightened modern-day wedding guests huddle in the rows of chairs, and the dusty corpses of earlier groom candidates in tuxedos sit among them, clapping. He is the only man in the room who is enjoying this. Medium shot, slightly low angle.
 ```
