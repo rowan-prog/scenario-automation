@@ -388,6 +388,22 @@ def gate_overview(ws, bands, rep):
     rep.add("G11 Overview 회차 나열 없음", not bad, "; ".join(bad))
 
 
+def gate_program_id(ws, bands, rep):
+    """G20 — 프로그램 코드 칸이 비어 있지 않다 (2026-10-16 사용자: "각 프로그램 코드다 넣어라")."""
+    start = next((r for r, t in bands if t.strip() == "Title Overview"), None)
+    if start is None:
+        rep.add("G20 프로그램 코드 기입", False, "Title Overview 밴드 없음")
+        return
+    for r in range(start + 1, start + 17):
+        a = ws["A" + str(r)].value
+        if isinstance(a, str) and ("프로그램" in a or "Program" in a):
+            v = ws["B" + str(r)].value
+            ok = isinstance(v, str) and v.strip() != ""
+            rep.add("G20 프로그램 코드 기입", ok, "" if ok else "A{0} 프로그램 코드 칸이 비어 있음".format(r))
+            return
+    rep.add("G20 프로그램 코드 기입", False, "Overview에서 프로그램 코드 행을 못 찾음")
+
+
 def gate_cast(ws, bands, rep):
     start = next((r for r, t in bands if t.strip() == "CAST/CHARACTER"), None)
     if start is None:
@@ -620,6 +636,7 @@ def main():
     gate_length(cards, rep)
     gate_star_ratio(cards, rep)
     gate_overview(ws, bands, rep)
+    gate_program_id(ws, bands, rep)
     gate_cast(ws, bands, rep)
     gate_mkt(ws, blocks, script, rep)
     gate_fake(ws, blocks, script, rep)

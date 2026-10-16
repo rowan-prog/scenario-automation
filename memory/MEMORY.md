@@ -8,6 +8,7 @@
 - **[free-run-sells-the-title-not-family-politics](feedback_free_run_sells_the_title_not_family_politics.md)** — 🚨(2026-09-15) 무료 회차 = 제목의 원초 욕망을 화마다 한 칸 · 가족 정치·자해 모함·자백·재판·코러스 = 연극 = 유료 · 원 대본 좋은 대사 ≠ 그 무대 장면 · 1화 첫 컷 = 마지막 무료 끝 · 문장 = 묘사 0 요약체.
 - **[paywall-equals-last-free-episode](feedback_paywall_equals_last_free_episode.md)** — 🚨(2026-09-10) 페이월 = 마지막 무료회차 그 자체(무료 1~8 = 8화 엔딩이 결제 컷). "마지막 무료+1"로 세면 틀림 · 작가본이 더 길면 그 뒤는 유료.
 - **[selling-points-name-the-device](feedback_selling_points_name_the_device.md)** — 🚨(2026-09-23) 셀링 포인트 = 로그라인 되풀이·우회 문구 금지 · "무엇으로 시청자를 잡는가"를 장치 이름으로(정보 비대칭/소재 소구/감정 자극/역전 장치/시각 상품/IP 자산) · 사용자 실물 7개가 모델.
+- **[selling-point-pick-by-target-desire](feedback_selling_point_pick_by_target_desire.md)** — 🚨(2026-10-16) CD1 셀링포인트 = skill `/selling-point` · 별·MKT·페이크는 '타깃이 무엇을 상상하게 되나'로만(웃음·반전 ✗) · 벗지 않고 야한 컷·마지막 화 단독 상황 놓치지 말 것 · 캐논 설명 금지 · 고르기는 모델·깊이 섞고 감별은 오류만 · 사용자 설명을 범주어로 바꾸지 말 것.
 - **[trilingual-sync-direction](feedback_trilingual_sync_direction.md)** — 🚨(2026-09-22) 3개 국어 병기 대본 = **지문은 중문 정본 · 대사는 영어 정본**. 환류·검사 모두 그 방향. 흐린 영어에 한·중을 내리지 말고 영어를 고친다.
 - **[trim-cuts-explanation-not-fun](feedback_trim_cuts_explanation_not_fun.md)** — 🚨(2026-10-06) 분량 줄이기 = 설명(되풀이·해설)을 깎고 재미 살(몸·동작·감정·아이러니)은 남긴다 · 줄인 뒤 메인이 이어 읽기 · 읽기 검사는 수정 끝난 뒤 · A·B 짝 파일 같이 · '쓴 사람만 아는 말'은 항목마다 장르·흐름으로 따로 판정(통째 넣기·통째 빼기 금지).
 - [ai-drama-fantasy-over-modern](feedback_ai_drama_fantasy_over_modern.md) — (2026-10-06) AI 제작이라 현대물보다 판타지가 먹힌다 · 어반 판타지보다 명백한 판타지 세계(왕국·궁·마차) 우선 · 기획 순위·세트 테마 가중치.
@@ -103,6 +104,7 @@
 - [내 프로즈 디폴트 = 추상·완곡 세탁](my-prose-defaults-abstract-euphemistic.md) — 관념어·완곡 동사가 내 기본값. 판정 = 그 동사를 그림으로 그리면 맞는 그림인가. (10-13) "대사의 자리를 남주에게 줌"·"짓밟는 손을 바꿈" 번역투 금지 = 사람 주어 + 일상 동사 · 원작 대비는 불렛 원작/우리/이유.
 
 ## 작품 특수
+- [program-codes](reference_program_codes.md) — 작품별 프로그램 코드(CD1 필수 칸 · G20) · 16·18·24.
 - [project-dist-package](project_dist_package.md) — 사내 배포 패키지 `tools/build_dist.py` · 인코딩 함정 2종.
 - [project-locked-out-interactive-game](project_locked_out_interactive_game.md) — LOCKED OUT 인터랙티브 게임(Codex 폴더).
 - [project-she-stole-my-face-status](project_she_stole_my_face_status.md) — 정본 = CLAUDE.md 행 + meta.
