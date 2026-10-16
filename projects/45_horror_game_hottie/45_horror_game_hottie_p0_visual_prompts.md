@@ -16,6 +16,7 @@
   - 얼굴은 넷 다 예쁘게 둔다.
 - **넷 다 스무 살 언저리 젊은 미녀다.** 나이 들어 보이면 안 된다. 매디슨은 캠퍼스 최고 핫걸이자 퀸카인 19~20살 여대생이고, 몸매는 쭉빵이다. 성형 · 보톡스 · 필러 느낌 없는 생기 있는 미인으로 간다.
 - **피부색은 넷이 안 겹치게 간다.** 아이비는 시체처럼 하얀색에 검정 · 얼음 파랑, 좀비 들러리는 맑은 민트 그린, 매디슨은 핑크, 늑대 들러리는 적갈색 털이다. 색만이 아니라 톤까지 가른다(파랑 · 보라끼리도 겹친다).
+- **늑대 들러리 의상은 귀 · 꼬리가 달린 코스튬(고양이 귀 · 바니걸)으로 간다.** 남들 눈으로 화면이 넘어갈 때 머리띠 귀가 같은 자리에서 진짜 늑대 귀로, 달아 놓은 꼬리가 진짜 늑대 꼬리로 바뀌니 두 모습을 맞추기 쉽다.
 - **좀비 들러리 얼굴은 조금 더 기괴하게, 그래도 묘하게 예쁘게 간다.** 이마에서 한쪽 눈을 지나 턱까지 내려오는 꿰맨 자국(두 가지 초록 피부가 이어짐), 입꼬리를 살짝 웃는 모양으로 꿰맨 실, 관자놀이의 작은 은색 스테이플, 한쪽 흐린 눈.
 - **아이비는 신부라 판이 바뀌어도 신부 옷으로 간다.** 본식은 웨딩드레스, 8화에 갈아입는 옷은 피로연용 검은 코르셋 드레스다. 쇼걸 같은 코스튬은 입히지 않는다.
 - **옷 색은 자기 피부 · 털 색과 겹치지 않게, 넷끼리도 겹치지 않게 간다.** 검정 · 흰색만 돌려 입히면 단조롭다.
@@ -32,7 +33,7 @@
 | ② | 아이비 | 검은 코르셋 피로연 드레스 · 후반 룰렛 신랑 시험(8화 분장실에서 갈아입던 그 옷) | 룰렛 공이 멈추자 진 신랑 후보가 눈코에서 피를 쏟으며 순식간에 말라비틀어진다. |
 | ③ | 좀비 들러리 | 메이드복 · 1화 채플 만찬 | 은쟁반을 열자 아까 나간 중년 남자의 금 손목시계가 구이 요리 위에서 째깍거린다. |
 | ④ | 좀비 들러리 | 간호사 · 후반 카지노 호텔 의무실 | 침대에 묶인 하객 입으로 바늘과 검은 실을 가져간다. 들러리 몸에 난 실밥과 같은 실이다. |
-| ⑤ | 늑대 들러리 | 칵테일 웨이트리스 · 2화 채플 만찬 | 우는 하객 입에 그 구이를 포크로 들이민다. 뒤에선 식탁이 쩍 갈라져 이빨 달린 아가리가 되고, 하객을 끌어당긴다. |
+| ⑤ | 늑대 들러리 | 고양이 귀 칵테일 웨이트리스 · 2화 채플 만찬 | 우는 하객 입에 그 구이를 포크로 들이민다. 뒤에선 식탁이 쩍 갈라져 이빨 달린 아가리가 되고, 하객을 끌어당긴다. |
 | ⑥ | 늑대 들러리 | 바니걸 · 5~6화 연회장 부케 게임 | 문으로 달아난 젊은 남자 하객의 멱살을 한 손으로 잡고 질질 끌고 온다. 남들 눈엔 토끼 귀와 솜꼬리가 진짜 늑대 귀와 꼬리다. |
 | ⑦ | 매디슨 | 링걸 · 후반 카지노 격투장(서큐버스가 된 뒤) | 링 위에서 하객 둘이 억지로 주먹다짐을 한다. 매디슨은 그걸 배경으로 셀카를 찍는다. |
 | ⑧ | 매디슨 | 검은 수영복 라이프가드 · 후반 호텔 수영장(서큐버스가 된 뒤) | 물에 빠진 하객이 수영장 가장자리를 잡자 발로 그 손을 밀어내고, 호루라기를 불며 깔깔 웃는다. |
@@ -116,7 +117,7 @@ Right half, her true human form: a stunning young woman of about 20 with Western
 Left half, her zombie form: the same beautiful face and slim figure, a zombie girl stitched together from more than one body. Her skin is a clear, pale mint green, clean and smooth like porcelain with a faint glow, never muddy or grey. Neat black stitches, the same black thread she is holding, circle her throat, ring both wrists, and run from one corner of her mouth up across her cheek. Her face is a little grotesque yet strangely pretty, like a stitched-together doll: a neat black seam runs from her hairline down across one eye to her jaw, joining two slightly different shades of green skin, the corner of her mouth is stitched into a faint permanent half-smile, and two tiny silver staples sit at her temple. One eye is a clear icy blue, the other milky white with a faint glow. Blue-black lips. Not rotting, no gore: elegant and eerie.
 ```
 
-## ⑤ 늑대 들러리 — 칵테일 웨이트리스 · 채플 만찬 (2화)
+## ⑤ 늑대 들러리 — 고양이 귀 칵테일 웨이트리스 · 채플 만찬 (2화)
 
 ```
 Photorealistic cinematic still from a live-action horror drama, horizontal 16:9 frame. Setting: a lavish 1960s Las Vegas casino-hotel built like a Greek temple, frozen in time: white marble columns and statues, gold trim, red carpet, glowing hot pink and turquoise neon. Retro Vegas glamour turned eerie; not gothic, no candles, no fog. Shot on ARRI Alexa, 50mm lens, shallow depth of field, subtle film grain, soft flattering beauty lighting, flawless youthful skin. All characters are adults; the women are gorgeous young women around 19 to 21, each a natural, fresh-faced beauty with no cosmetic-surgery look and no lip filler. No text, no watermark.
@@ -125,11 +126,11 @@ A side-by-side diptych in one horizontal frame, split down the middle by a thin 
 
 The scene: the long wedding dinner table inside the casino's wedding chapel. She leans over a sobbing guest in a modern suit and holds a forkful of glazed roast up to his trembling lips with a sweet, teasing grin, a drink tray balanced on her other hand. Behind her, the far end of the dining table has cracked open into a huge mouth lined with teeth, dragging a screaming guest toward it by his jacket. Other guests scramble back from the table in panic.
 
-Her outfit, the same in both halves: a classic 1960s Las Vegas cocktail waitress uniform: a cobalt-blue satin mini dress with a flared skirt and white piping, a tiny white lace apron, black fishnet stockings, black heels, a small gold name pin and a cobalt-blue bow in her copper-red hair.
+Her outfit, the same in both halves: a 1960s Las Vegas cat-ear cocktail waitress uniform: a cobalt-blue satin mini dress with a flared skirt and white piping, a tiny white lace apron, a black cat-ear headband in her copper-red hair, a black velvet choker with a little gold bell, a long black cat tail pinned to the back of her skirt, black fishnet stockings and black heels.
 
 Right half, her true human form: a stunning young woman of about 20 with Western features and a fresh, youthful face, fully human. Petite and athletic, long wild copper-red hair, green eyes, light freckles, a wild, teasing grin.
 
-Left half, her werewolf form: the same pretty face, a werewolf girl with a beast's body. Tall furry wolf ears rise from her copper-red hair. Thick tawny-red fur grows over her shoulders and down her arms from the elbows to big clawed hands. Her legs are furred, backward-bending wolf legs tearing through her fishnets and ending in clawed paws instead of heels. A big bushy wolf tail sweeps out under her skirt. Her eyes glow bright amber and her grin shows long fangs.
+Left half, her werewolf form: the same pretty face, a werewolf girl with a beast's body. The cat-ear headband is gone: in exactly the same spot, tall furry wolf ears grow from her copper-red hair. Thick tawny-red fur grows over her shoulders and down her arms from the elbows to big clawed hands. Her legs are furred, backward-bending wolf legs tearing through her fishnets and ending in clawed paws instead of heels. The pinned-on cat tail is now a real big bushy wolf tail sweeping out from under her skirt. Her eyes glow bright amber and her grin shows long fangs.
 ```
 
 ## ⑥ 늑대 들러리 — 바니걸 · 연회장 부케 게임 (5~6화)
@@ -188,7 +189,7 @@ Photorealistic cinematic still from a live-action horror drama, horizontal 16:9 
 One single group shot, not a split image. Four cursed women stand together at a long wedding banquet table, as the terrified guests see them. Frightened guests in modern clothes sit at the table, and some chairs hold the raised corpses of earlier failed groom candidates in dusty tuxedos, grinning and clapping. Blood is splashed across the white tablecloth. All four women look straight at the camera.
 Center, the queen of them all: the lich-queen bride in an ivory pearl-and-crystal lace mermaid wedding gown and veil, sitting on the edge of the table, smiling. Her skin is flawless porcelain white and corpse-cold, with thin black veins spreading from her chest across her collarbone and neck like black lace, an icy-blue jewel set in her chest where her heart should be, black lips with the tip of a long slender black tongue touching her upper lip, a crown of gold and bone grown from her head into her floating black hair, and glowing ice-blue eyes; eerie and alluring at once.
 Left: the zombie girl in a black-and-white French maid uniform with a frilly lace apron and headband, clear pale mint-green skin, a stitched seam running down across one eye, neat black stitches at her throat, wrists and cheek, one milky white eye, deadpan, lifting a silver dome to show a glazed roast with a man's gold wristwatch lying on top.
-Right: the werewolf girl in a cobalt-blue 1960s cocktail-waitress dress, tall wolf ears, tawny-red fur on her shoulders and arms, furred wolf legs and clawed paws tearing through her fishnets, a bushy tail, pouring red wine into a sobbing guest's glass until it overflows across the table, grinning with long fangs.
+Right: the werewolf girl in a cobalt-blue 1960s cat-ear cocktail-waitress dress, her cat ears and pinned-on tail now real tall wolf ears and a real bushy wolf tail, tawny-red fur on her shoulders and arms, furred wolf legs and clawed paws tearing through her fishnets, a bushy tail, pouring red wine into a sobbing guest's glass until it overflows across the table, grinning with long fangs.
 Far right: the golden-blonde college-girl succubus in a silver sequined ring-girl outfit, clearly rose-pink skin like photoreal body paint (obviously pink, not a human skin tone, not cartoonish), small black horns, black bat wings spread, a heart-tipped tail, glowing pink heart-shaped pupils, giggling as she takes a selfie with a grinning corpse groom candidate.
 Beautiful and monstrous at once.
 ```
@@ -201,7 +202,7 @@ Photorealistic cinematic still from a live-action horror drama, horizontal 16:9 
 One single group shot, not a split image. Four stunning women stand together at a long wedding banquet table, fully human, with no monster features at all. Frightened guests in modern clothes sit at the table, and some chairs hold the raised corpses of earlier failed groom candidates in dusty tuxedos, grinning and clapping. Blood is splashed across the white tablecloth. All four women look straight at the camera.
 Center: the bride in an ivory pearl-and-crystal lace mermaid wedding gown with a long veil held by a gold crown-shaped comb, sitting on the edge of the table, smiling. About 21, a timeless ethereal beauty with a youthful face, long glossy jet-black hair, luminous fair skin, amber-gold eyes, rose lips.
 Left: a tall, slim young woman of about 20 in a black-and-white French maid uniform with a frilly lace apron and headband, sleek chestnut-brown hair pulled back tight, pale blue eyes, deadpan, lifting a silver dome to show a glazed roast with a man's gold wristwatch lying on top.
-Right: a petite young woman of about 20 in a cobalt-blue 1960s cocktail-waitress dress with a tiny lace apron and fishnets, long wild copper-red hair, green eyes, freckles, pouring red wine into a sobbing guest's glass until it overflows across the table, grinning.
+Right: a petite young woman of about 20 in a cobalt-blue 1960s cat-ear cocktail-waitress dress with a black cat-ear headband, a bell choker, a pinned-on black cat tail, a tiny lace apron and fishnets, long wild copper-red hair, green eyes, freckles, pouring red wine into a sobbing guest's glass until it overflows across the table, grinning.
 Far right: a 20-year-old golden-blonde college queen bee with unmistakably bright blonde hair, a natural fresh-faced all-American beauty with no cosmetic-surgery look and a naturally curvy figure, in a silver sequined ring-girl outfit, big bright blue eyes, a bubbly smile, giggling as she takes a selfie with a grinning corpse groom candidate.
 The eerie scene around them is the same as what the guests see; only the women look human and impossibly beautiful.
 ```
