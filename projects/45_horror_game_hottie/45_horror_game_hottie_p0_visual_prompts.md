@@ -10,11 +10,13 @@
 - **종족은 미국 남자 · 오타쿠에게 익숙한 몬스터걸로 가른다.** 아이비 = 죽음의 마녀(리치 여왕) · 들러리 = 좀비 · 늑대인간 · 매디슨 = 서큐버스.
 - **괴물 정도는 비중 따라 다르게 한다.**
   - 아이비 · 매디슨: 괴물 모습도 존나 예쁘고 쌔끈하게, 사람 몸매 그대로 간다.
-  - 매디슨 서큐버스 = 반짝이는 핑크 피부 · 하트 동공 · 검은 뿔 · 박쥐 날개 · 하트 꼬리. 옷까지 핑크로 맞추면 장난감처럼 보이니 옷은 핑크를 피한다.
+  - 매디슨 서큐버스 = 실사 피부결 그대로 은은한 장밋빛 핑크 피부 · 하트 동공 · 검은 뿔 · 박쥐 날개 · 하트 꼬리. 만화처럼 쨍한 핑크는 쓰지 않는다. 옷까지 핑크로 맞추면 장난감처럼 보이니 옷은 핑크를 피한다.
+  - 매디슨 머리 = 누가 봐도 확실한 금발(쨍한 황금빛 블론드). 흐릿한 금발이나 플래티넘은 쓰지 않는다.
   - 들러리 둘: 몸 일부가 확실히 괴물이다.
   - 얼굴은 넷 다 예쁘게 둔다.
 - **넷 다 스무 살 언저리 젊은 미녀다.** 나이 들어 보이면 안 된다. 매디슨은 캠퍼스 최고 핫걸이자 퀸카인 19~20살 여대생이고, 몸매는 쭉빵이다. 성형 · 보톡스 · 필러 느낌 없는 생기 있는 미인으로 간다.
-- **피부색은 넷이 안 겹치게 간다.** 아이비는 시체처럼 하얀색, 좀비 들러리는 보랏빛, 매디슨은 핑크, 늑대 들러리는 적갈색 털이다.
+- **피부색은 넷이 안 겹치게 간다.** 아이비는 시체처럼 하얀색, 좀비 들러리는 진하고 쨍한 자수정 보라, 매디슨은 핑크, 늑대 들러리는 적갈색 털이다. 색만이 아니라 톤까지 가른다. 아이비는 밝고 옅은 흰빛이고, 좀비는 진하고 짙은 보라다. 파스텔끼리 붙이지 않는다.
+- **아이비는 신부라 판이 바뀌어도 신부 옷으로 간다.** 본식은 웨딩드레스, 8화에 갈아입는 옷은 피로연용 검은 코르셋 드레스다. 쇼걸 같은 코스튬은 입히지 않는다.
 - **옷 색은 자기 피부 · 털 색과 겹치지 않게, 넷끼리도 겹치지 않게 간다.** 검정 · 흰색만 돌려 입히면 단조롭다.
 - **아이비 = 죽은 자를 부리는 죽음의 마녀(리치 여왕).** 판의 주인이라 위압감이 먼저 보여야 한다. 남들 눈엔 시체처럼 차갑게 하얀 피부이고, 어깨 · 쇄골 · 손이 유리처럼 비쳐 안의 금빛 뼈가 보인다. 가슴엔 심장 대신 보석이 빛나고, 머리엔 왕관이 박혀 자라 있고, 눈은 차가운 푸른 불꽃이다. 시체 느낌은 살리되 썩은 느낌은 쓰지 않는다. 초록 계통은 아예 안 쓴다. 좀비 들러리는 아이비가 직접 꿰맨 작품이고, 석상은 하객 영혼을 가둔 그릇이다.
 - **의상은 판마다 바뀌는 코스튬이다.** 방향은 따로 적어 뒀다: `C:\Users\Rowan\scenario-automation\projects\45_horror_game_hottie\45_horror_game_hottie_paid_direction.md`
@@ -26,7 +28,7 @@
 | # | 누구 | 의상 · 상황 | 잔인한 장면 |
 |---|---|---|---|
 | ① | 아이비 | 웨딩드레스 · 1~4화 채플 결혼식 | 발밑에 방금 석상이 된 하객이 있다. 돌이 된 얼굴에서 눈알만 굴러간다. |
-| ② | 아이비 | 검은 코르셋 쇼걸 · 후반 쇼 무대(8화 분장실에서 갈아입던 그 옷) | 등 뒤 마술 상자에 하객이 들어 있고, 진짜 톱이 상자 한가운데 박혀 있다. |
+| ② | 아이비 | 검은 코르셋 피로연 드레스 · 후반 룰렛 신랑 시험(8화 분장실에서 갈아입던 그 옷) | 룰렛 공이 멈추자 진 신랑 후보가 손끝부터 석상이 된다. |
 | ③ | 좀비 들러리 | 메이드복 · 1화 채플 만찬 | 은쟁반을 열자 아까 나간 중년 남자의 금 손목시계가 구이 요리 위에서 째깍거린다. |
 | ④ | 좀비 들러리 | 간호사 · 후반 카지노 호텔 의무실 | 침대에 묶인 하객 입으로 바늘과 검은 실을 가져간다. 들러리 몸에 난 실밥과 같은 실이다. |
 | ⑤ | 늑대 들러리 | 칵테일 웨이트리스 · 2화 채플 만찬 | 우는 하객 입에 그 구이를 포크로 들이민다. 뒤에선 식탁이 쩍 갈라져 이빨 달린 아가리가 되고, 하객을 끌어당긴다. |
@@ -64,20 +66,20 @@ Right half, her true human form: a breathtakingly beautiful young woman of about
 Left half, her lich-queen form: a queen of the dead and the most powerful witch in the room, with the same breathtaking face and figure, commanding and mysterious rather than hideous. Her skin is cold and deathly pale like a beautiful corpse, with a flawless youthful face and pale, cold lips. On her shoulders, collarbone, arms and hands the skin turns clear as crystal glass, revealing delicate bones of gleaming gold inside, with threads of soft light running through them like veins. Through the lace of her bodice, a jewel glows icy blue in the center of her chest where her heart should be. A crown of gold and pale bone grows out of her head, fused into her long black hair, which drifts slowly upward as if underwater. Her eyes burn with cold blue-white soul fire, and wisps of ghostly blue light curl around her fingers. A beautiful corpse, not rotting: the glass skin is smooth and luminous, the gold bones look like fine jewelry, and she is still the most beautiful woman in the room. Palette: corpse-pale porcelain, crystal, gold and icy blue against ivory; no green anywhere.
 ```
 
-## ② 아이비 — 검은 코르셋 쇼걸 · 쇼 무대 (8화에서 갈아입던 옷 · 후반)
+## ② 아이비 — 검은 코르셋 피로연 드레스 · 룰렛 신랑 시험 (8화에 갈아입은 옷 · 후반)
 
 ```
 Photorealistic cinematic still from a live-action horror drama, horizontal 16:9 frame. Setting: a lavish 1960s Las Vegas casino-hotel built like a Greek temple, frozen in time: white marble columns and statues, gold trim, red carpet, glowing hot pink and turquoise neon. Retro Vegas glamour turned eerie; not gothic, no candles, no fog. Shot on ARRI Alexa, 50mm lens, shallow depth of field, subtle film grain, soft flattering beauty lighting, flawless youthful skin. All characters are adults; the women are gorgeous young women around 19 to 21, each a natural, fresh-faced beauty with no cosmetic-surgery look and no lip filler. No text, no watermark.
 
-A side-by-side diptych in one horizontal frame, split down the middle by a thin clean line. Both halves show the same moment from the same camera angle: the same woman, same face, same costume, same pose, same background. Only her appearance changes. Left half: what the terrified wedding guests see, her cursed lich-queen form. Right half: what one man sees, her true human form.
+A side-by-side diptych in one horizontal frame, split down the middle by a thin clean line. Both halves show the same moment from the same camera angle: the same woman, same face, same dress, same pose, same background. Only her appearance changes. Left half: what the terrified wedding guests see, her cursed lich-queen form. Right half: what one man sees, her true human form.
 
-The scene: the main showroom stage of the casino, a curved staircase lined with glowing bulbs, a red velvet curtain, bright spotlights. She stands center stage as the headliner, one hand on her hip, a giant black ostrich-feather fan open behind her, smiling down at the audience. Behind her on the stage stands a magician's sawing box: a terrified wedding guest lies inside, his head sticking out of one end and his dress shoes out of the other, and a huge real saw is lodged in the middle of the box. In the front row, guests in modern clothes sit frozen in fear.
+The scene: the casino floor at night, a vintage roulette table under a low gold lamp, slot machines and neon glowing behind. This is the bride's next groom test: frightened male wedding guests in modern suits sit around the table as groom candidates, betting their lives. She leans over the table with one hand on the wheel, smiling as she sends the ball spinning. Across the table, the candidate whose number just lost is turning into white marble from his fingertips up, frozen mid-scream, his chips still clutched in his stone hand. The other men stare at their own hands in terror.
 
-Her costume, the same in both halves: a 1960s Las Vegas headliner's black satin corset gown covered in black crystals, with a high leg slit, black lace gloves, black crystal drop earrings, and a towering headdress of black ostrich feathers and black crystals.
+Her dress, the same in both halves: the bride's second dress for the reception, the one she changed into backstage: a sleek black satin corset dress with fine black lace edging, fitted through the body with a long slit, sheer black lace gloves, a delicate diamond choker, and a short black birdcage veil pinned in her hair. Luxurious and refined, like a high-fashion bride at midnight, not a costume.
 
-Right half, her true human form: a breathtakingly beautiful young woman of about 21 with Western features, fully human, a timeless ethereal beauty. Long glossy jet-black hair falling from under the headdress, luminous fair skin, rare amber-gold eyes, natural rose lips.
+Right half, her true human form: a breathtakingly beautiful young woman of about 21 with Western features, fully human, a timeless ethereal beauty. Long glossy jet-black hair pinned under the little veil, luminous fair skin with a warm rosy glow, rare amber-gold eyes, natural rose lips.
 
-Left half, her lich-queen form: a queen of the dead and the most powerful witch in the room, with the same breathtaking face and figure, commanding and mysterious rather than hideous. Her skin is cold and deathly pale like a beautiful corpse, with a flawless youthful face and pale, cold lips. On her shoulders, collarbone, arms and hands the skin turns clear as crystal glass, revealing delicate bones of gleaming gold inside, with threads of soft light running through them like veins. A jewel glows icy blue in the center of her chest where her heart should be. A crown of gold and pale bone grows out of her head and rises up through the black feathers of her headdress, and her long black hair drifts slowly upward as if underwater. Her eyes burn with cold blue-white soul fire under the spotlights, and wisps of ghostly blue light curl around her fingers. A beautiful corpse, not rotting: the glass skin is smooth and luminous, the gold bones look like fine jewelry. Palette: corpse-pale porcelain, crystal, gold and icy blue against black; no green anywhere.
+Left half, her lich-queen form: a queen of the dead and the most powerful witch in the room, with the same breathtaking face and figure, commanding and mysterious rather than hideous. Her skin is cold and deathly pale like a beautiful corpse, with a flawless youthful face and pale, cold lips. On her shoulders, collarbone, arms and hands the skin turns clear as crystal glass, revealing delicate bones of gleaming gold inside, with threads of soft light running through them like veins. Above the corset neckline, a jewel glows icy blue in the center of her chest where her heart should be. A crown of gold and pale bone grows out of her head and rises through the little birdcage veil, and her long black hair drifts slowly upward as if underwater. Her eyes burn with cold blue-white soul fire, and wisps of ghostly blue light curl around the fingers resting on the roulette wheel. A beautiful corpse, not rotting: the glass skin is smooth and luminous, the gold bones look like fine jewelry. Palette: corpse-pale porcelain, crystal, gold and icy blue against black satin; no green anywhere.
 ```
 
 ## ③ 좀비 들러리 — 메이드복 · 채플 만찬 은쟁반 (1화)
@@ -93,7 +95,7 @@ Her outfit, the same in both halves: a classic French maid uniform with 1960s La
 
 Right half, her true human form: a stunning young woman of about 20 with Western features and a fresh, youthful face, fully human. Tall and slim, sleek straight chestnut-brown hair pulled back tight, pale blue eyes, a calm, unreadable, deadpan face.
 
-Left half, her zombie form: the same beautiful face and slim figure, a zombie girl stitched together from more than one body. Her skin is a soft lavender-violet, clearly purple and not pale white, smooth like porcelain. Neat black stitches circle her throat above her open collar, ring both wrists at the edges of her gloves, and run from one corner of her mouth up across her cheek. One eye is a clear icy blue, the other milky white with a faint glow. Blue-black lips. Not rotting, no gore: elegant and eerie, like a high-fashion zombie.
+Left half, her zombie form: the same beautiful face and slim figure, a zombie girl stitched together from more than one body. Her skin is a rich, saturated amethyst violet, vivid and deep rather than pale or pastel, smooth like porcelain. Neat black stitches circle her throat above her open collar, ring both wrists at the edges of her gloves, and run from one corner of her mouth up across her cheek. One eye is a clear icy blue, the other milky white with a faint glow. Blue-black lips. Not rotting, no gore: elegant and eerie, like a high-fashion zombie.
 ```
 
 ## ④ 좀비 들러리 — 간호사 · 호텔 의무실 (후반)
@@ -109,7 +111,7 @@ Her outfit, the same in both halves: a fitted 1960s white nurse dress buttoned d
 
 Right half, her true human form: a stunning young woman of about 20 with Western features and a fresh, youthful face, fully human. Tall and slim, sleek straight chestnut-brown hair pulled back under the cap, pale blue eyes, a calm, unreadable, deadpan face.
 
-Left half, her zombie form: the same beautiful face and slim figure, a zombie girl stitched together from more than one body. Her skin is a soft lavender-violet, clearly purple and not pale white, smooth like porcelain. Neat black stitches, the same black thread she is holding, circle her throat, ring both wrists, and run from one corner of her mouth up across her cheek. One eye is a clear icy blue, the other milky white with a faint glow. Blue-black lips. Not rotting, no gore: elegant and eerie.
+Left half, her zombie form: the same beautiful face and slim figure, a zombie girl stitched together from more than one body. Her skin is a rich, saturated amethyst violet, vivid and deep rather than pale or pastel, smooth like porcelain. Neat black stitches, the same black thread she is holding, circle her throat, ring both wrists, and run from one corner of her mouth up across her cheek. One eye is a clear icy blue, the other milky white with a faint glow. Blue-black lips. Not rotting, no gore: elegant and eerie.
 ```
 
 ## ⑤ 늑대 들러리 — 칵테일 웨이트리스 · 채플 만찬 (2화)
@@ -155,9 +157,9 @@ The scene: the casino's old fight hall, a boxing ring under hot spotlights, the 
 
 Her outfit, the same in both halves: a sparkly 1960s Las Vegas ring-girl outfit: a silver sequined top, high-waisted silver sequined shorts, clear platform heels, diamond stud earrings, her phone in one hand.
 
-Right half, her true human form: a gorgeous 20-year-old American college girl, the sorority queen bee and the hottest girl on campus, fully human. A natural, fresh-faced all-American beauty with no cosmetic-surgery look: soft round youthful cheeks, natural pink lips with no filler, light natural makeup, big bright blue eyes, a bubbly, slightly ditzy smile, long silky bright platinum-blonde hair, and a naturally curvy, athletic cheerleader figure.
+Right half, her true human form: a gorgeous 20-year-old American college girl, the sorority queen bee and the hottest girl on campus, fully human. A natural, fresh-faced all-American beauty with no cosmetic-surgery look: soft round youthful cheeks, natural pink lips with no filler, light natural makeup, big bright blue eyes, a bubbly, slightly ditzy smile, long silky, bright classic golden-blonde hair (unmistakably blonde, not platinum, not ash), and a naturally curvy, athletic cheerleader figure.
 
-Left half, her succubus form: the same platinum-blonde college girl, still stunning and youthful. Her skin is glossy bubblegum pink, smooth and flawless, popping against the silver sequins. Small curved glossy black horns rise from her platinum hair, black bat wings spread behind her shoulders, and a slender black tail ending in a heart shape curls around her leg. Her pupils are glowing pink hearts. Playful, glamorous and a little dumb.
+Left half, her succubus form: the same golden-blonde college girl, still stunning and youthful. Her skin has a soft, realistic rose-pink tone, photoreal like real human skin tinted pink, with natural texture and a healthy glow, not cartoonish and not neon, popping against the silver sequins. Small curved glossy black horns rise from her platinum hair, black bat wings spread behind her shoulders, and a slender black tail ending in a heart shape curls around her leg. Her pupils are glowing pink hearts. Playful, glamorous and a little dumb.
 ```
 
 ## ⑧ 매디슨 — 검은 수영복 라이프가드 · 호텔 수영장 (후반 · 서큐버스가 된 뒤)
@@ -171,9 +173,9 @@ The scene: the casino-hotel's 1960s indoor swimming pool under a glass dome, glo
 
 Her outfit, the same in both halves: a retro black one-piece lifeguard swimsuit, a white whistle on a cord, white sunglasses pushed up into her hair, her hair in a high ponytail.
 
-Right half, her true human form: a gorgeous 20-year-old American college girl, the sorority queen bee and the hottest girl on campus, fully human. A natural, fresh-faced all-American beauty with no cosmetic-surgery look: soft round youthful cheeks, natural pink lips with no filler, light natural makeup, big bright blue eyes, a bubbly, slightly ditzy smile, long silky bright platinum-blonde hair, and a naturally curvy, athletic cheerleader figure.
+Right half, her true human form: a gorgeous 20-year-old American college girl, the sorority queen bee and the hottest girl on campus, fully human. A natural, fresh-faced all-American beauty with no cosmetic-surgery look: soft round youthful cheeks, natural pink lips with no filler, light natural makeup, big bright blue eyes, a bubbly, slightly ditzy smile, long silky, bright classic golden-blonde hair (unmistakably blonde, not platinum, not ash), and a naturally curvy, athletic cheerleader figure.
 
-Left half, her succubus form: the same platinum-blonde college girl, still stunning and youthful. Her skin is glossy bubblegum pink, smooth and flawless, popping against the black swimsuit. Small curved glossy black horns rise from her platinum hair, black bat wings spread behind her shoulders, and a slender black tail ending in a heart shape swishes over the water. Her pupils are glowing pink hearts. Playful, glamorous and a little dumb.
+Left half, her succubus form: the same golden-blonde college girl, still stunning and youthful. Her skin has a soft, realistic rose-pink tone, photoreal like real human skin tinted pink, with natural texture and a healthy glow, not cartoonish and not neon, popping against the black swimsuit. Small curved glossy black horns rise from her platinum hair, black bat wings spread behind her shoulders, and a slender black tail ending in a heart shape swishes over the water. Her pupils are glowing pink hearts. Playful, glamorous and a little dumb.
 ```
 
 ## ⑨ 단체 — 남들 눈 (넷 다 괴물 모습)
@@ -183,9 +185,9 @@ Photorealistic cinematic still from a live-action horror drama, horizontal 16:9 
 
 One single group shot, not a split image. Four cursed women stand together at a long wedding banquet table, as the terrified guests see them. Frightened guests in modern clothes sit at the table, and some chairs hold white marble statues of guests whose real eyes are crying. All four women look straight at the camera.
 Center, the queen of them all: the lich-queen bride in an ivory pearl-and-crystal lace mermaid wedding gown and veil, sitting on the edge of the table, smiling. Her skin is cold and deathly pale like a beautiful corpse; her shoulders, arms and hands are clear as crystal glass with gleaming gold bones inside; an icy-blue jewel glows in her chest where her heart should be; a crown of gold and bone grows from her head into her floating black hair; her eyes burn with cold blue soul fire. Commanding, mysterious and beautiful; no green anywhere.
-Left: the zombie girl in a black-and-white French maid uniform with a frilly lace apron and headband, soft lavender-violet skin, neat black stitches at her throat, wrists and cheek, one milky white eye, deadpan, lifting a silver dome to show a glazed roast with a man's gold wristwatch lying on top.
+Left: the zombie girl in a black-and-white French maid uniform with a frilly lace apron and headband, rich, saturated amethyst-violet skin, neat black stitches at her throat, wrists and cheek, one milky white eye, deadpan, lifting a silver dome to show a glazed roast with a man's gold wristwatch lying on top.
 Right: the werewolf girl in a cobalt-blue 1960s cocktail-waitress dress, tall wolf ears, tawny-red fur on her shoulders and arms, furred wolf legs and clawed paws tearing through her fishnets, a bushy tail, pouring red wine into a sobbing guest's glass until it overflows across the table, grinning with long fangs.
-Far right: the platinum-blonde college-girl succubus in a silver sequined ring-girl outfit, glossy bubblegum-pink skin, small black horns, black bat wings spread, a heart-tipped tail, glowing pink heart-shaped pupils, giggling as she takes a selfie with a crying marble-statue guest.
+Far right: the golden-blonde college-girl succubus in a silver sequined ring-girl outfit, soft realistic rose-pink skin (photoreal, not cartoonish), small black horns, black bat wings spread, a heart-tipped tail, glowing pink heart-shaped pupils, giggling as she takes a selfie with a crying marble-statue guest.
 Beautiful and monstrous at once.
 ```
 
@@ -198,7 +200,7 @@ One single group shot, not a split image. Four stunning women stand together at 
 Center: the bride in an ivory pearl-and-crystal lace mermaid wedding gown with a long veil held by a gold crown-shaped comb, sitting on the edge of the table, smiling. About 21, a timeless ethereal beauty with a youthful face, long glossy jet-black hair, luminous fair skin, amber-gold eyes, rose lips.
 Left: a tall, slim young woman of about 20 in a black-and-white French maid uniform with a frilly lace apron and headband, sleek chestnut-brown hair pulled back tight, pale blue eyes, deadpan, lifting a silver dome to show a glazed roast with a man's gold wristwatch lying on top.
 Right: a petite young woman of about 20 in a cobalt-blue 1960s cocktail-waitress dress with a tiny lace apron and fishnets, long wild copper-red hair, green eyes, freckles, pouring red wine into a sobbing guest's glass until it overflows across the table, grinning.
-Far right: a 20-year-old platinum-blonde college queen bee, a natural fresh-faced all-American beauty with no cosmetic-surgery look and a naturally curvy figure, in a silver sequined ring-girl outfit, big bright blue eyes, a bubbly smile, giggling as she takes a selfie with a crying marble-statue guest.
+Far right: a 20-year-old golden-blonde college queen bee with unmistakably bright blonde hair, a natural fresh-faced all-American beauty with no cosmetic-surgery look and a naturally curvy figure, in a silver sequined ring-girl outfit, big bright blue eyes, a bubbly smile, giggling as she takes a selfie with a crying marble-statue guest.
 The eerie scene around them is the same as what the guests see; only the women look human and impossibly beautiful.
 ```
 
