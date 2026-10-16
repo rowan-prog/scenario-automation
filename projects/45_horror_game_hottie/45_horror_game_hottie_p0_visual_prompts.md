@@ -13,6 +13,8 @@
   - 매디슨 서큐버스 = 반짝이는 핑크 피부 · 하트 동공 · 검은 뿔 · 박쥐 날개 · 하트 꼬리. 옷까지 핑크로 맞추면 장난감처럼 보이니 옷은 핑크를 피한다.
   - 들러리 둘: 몸 일부가 확실히 괴물이다.
   - 얼굴은 넷 다 예쁘게 둔다.
+- **피부색은 넷이 안 겹치게 간다.** 아이비는 시체처럼 하얀색, 좀비 들러리는 보랏빛, 매디슨은 핑크, 늑대 들러리는 적갈색 털이다.
+- **옷 색은 자기 피부 · 털 색과 겹치지 않게, 넷끼리도 겹치지 않게 간다.** 검정 · 흰색만 돌려 입히면 단조롭다.
 - **아이비 = 죽은 자를 부리는 죽음의 마녀(리치 여왕).** 판의 주인이라 위압감이 먼저 보여야 한다. 남들 눈엔 시체처럼 차갑게 하얀 피부이고, 어깨 · 쇄골 · 손이 유리처럼 비쳐 안의 금빛 뼈가 보인다. 가슴엔 심장 대신 보석이 빛나고, 머리엔 왕관이 박혀 자라 있고, 눈은 차가운 푸른 불꽃이다. 시체 느낌은 살리되 썩은 느낌은 쓰지 않는다. 초록 계통은 아예 안 쓴다. 좀비 들러리는 아이비가 직접 꿰맨 작품이고, 석상은 하객 영혼을 가둔 그릇이다.
 - **의상은 판마다 바뀌는 코스튬이다.** 방향은 따로 적어 뒀다: `C:\Users\Rowan\scenario-automation\projects\45_horror_game_hottie\45_horror_game_hottie_paid_direction.md`
 - **라이언 눈 = 저주가 풀린 진짜 모습.** 완전한 사람이고 신비로운 미인이다. **남들 눈 = 괴물 모습.** 보통 사람은 질겁하지만 몬스터걸 취향 남자들한테는 분명히 끌리는 모습이다. 칙칙한 회색 · 탁한 색 · 썩은 느낌은 쓰지 않는다.
@@ -24,7 +26,7 @@
 |---|---|---|---|
 | ① | 아이비 | 웨딩드레스 · 1~4화 채플 결혼식 | 발밑에 방금 석상이 된 하객이 있다. 돌이 된 얼굴에서 눈알만 굴러간다. |
 | ② | 아이비 | 검은 코르셋 쇼걸 · 후반 쇼 무대(8화 분장실에서 갈아입던 그 옷) | 등 뒤 마술 상자에 하객이 들어 있고, 진짜 톱이 상자 한가운데 박혀 있다. |
-| ③ | 좀비 들러리 | 집사복 · 1화 채플 만찬 | 은쟁반을 열자 아까 나간 중년 남자의 금 손목시계가 구이 요리 위에서 째깍거린다. |
+| ③ | 좀비 들러리 | 메이드복 · 1화 채플 만찬 | 은쟁반을 열자 아까 나간 중년 남자의 금 손목시계가 구이 요리 위에서 째깍거린다. |
 | ④ | 좀비 들러리 | 간호사 · 후반 카지노 호텔 의무실 | 침대에 묶인 하객 입으로 바늘과 검은 실을 가져간다. 들러리 몸에 난 실밥과 같은 실이다. |
 | ⑤ | 늑대 들러리 | 칵테일 웨이트리스 · 2화 채플 만찬 | 우는 하객 입에 그 구이를 포크로 들이민다. 뒤에선 식탁이 쩍 갈라져 이빨 달린 아가리가 되고, 하객을 끌어당긴다. |
 | ⑥ | 늑대 들러리 | 바니걸 · 5~6화 연회장 부케 게임 | 문으로 달아난 젊은 남자 하객의 멱살을 한 손으로 잡고 질질 끌고 온다. 남들 눈엔 토끼 귀와 솜꼬리가 진짜 늑대 귀와 꼬리다. |
@@ -58,7 +60,7 @@ Her gown, the same in both halves: an exquisite fitted mermaid wedding gown in i
 
 Right half, her true human form: a breathtakingly beautiful woman in her mid-twenties with Western features, fully human, a timeless ethereal beauty that looks lit from within. Long glossy jet-black hair down to her waist, luminous fair skin, rare amber-gold eyes, natural rose lips, slender and elegant.
 
-Left half, her lich-queen form: a queen of the dead and the most powerful witch in the room, with the same breathtaking face and figure, commanding and mysterious rather than hideous. Her skin is cold and deathly pale like a beautiful corpse, with faint violet shadows under her eyes and violet-tinged lips. On her shoulders, collarbone, arms and hands the skin turns clear as crystal glass, revealing delicate bones of gleaming gold inside, with threads of soft light running through them like veins. Through the lace of her bodice, a jewel glows deep violet in the center of her chest where her heart should be. A crown of gold and pale bone grows out of her head, fused into her long black hair, which drifts slowly upward as if underwater. Her eyes burn with cold blue-white soul fire, and wisps of ghostly blue light curl around her fingers. A beautiful corpse, not rotting: the glass skin is smooth and luminous, the gold bones look like fine jewelry, and she is still the most beautiful woman in the room. Palette: corpse-pale porcelain, crystal, gold, violet and icy blue against ivory; no green anywhere.
+Left half, her lich-queen form: a queen of the dead and the most powerful witch in the room, with the same breathtaking face and figure, commanding and mysterious rather than hideous. Her skin is cold and deathly pale like a beautiful corpse, with faint cold-blue shadows under her eyes and pale, cold lips. On her shoulders, collarbone, arms and hands the skin turns clear as crystal glass, revealing delicate bones of gleaming gold inside, with threads of soft light running through them like veins. Through the lace of her bodice, a jewel glows icy blue in the center of her chest where her heart should be. A crown of gold and pale bone grows out of her head, fused into her long black hair, which drifts slowly upward as if underwater. Her eyes burn with cold blue-white soul fire, and wisps of ghostly blue light curl around her fingers. A beautiful corpse, not rotting: the glass skin is smooth and luminous, the gold bones look like fine jewelry, and she is still the most beautiful woman in the room. Palette: corpse-pale porcelain, crystal, gold and icy blue against ivory; no green anywhere.
 ```
 
 ## ② 아이비 — 검은 코르셋 쇼걸 · 쇼 무대 (8화에서 갈아입던 옷 · 후반)
@@ -74,23 +76,23 @@ Her costume, the same in both halves: a 1960s Las Vegas headliner's black satin 
 
 Right half, her true human form: a breathtakingly beautiful woman in her mid-twenties with Western features, fully human, a timeless ethereal beauty. Long glossy jet-black hair falling from under the headdress, luminous fair skin, rare amber-gold eyes, natural rose lips.
 
-Left half, her lich-queen form: a queen of the dead and the most powerful witch in the room, with the same breathtaking face and figure, commanding and mysterious rather than hideous. Her skin is cold and deathly pale like a beautiful corpse, with faint violet shadows under her eyes and violet-tinged lips. On her shoulders, collarbone, arms and hands the skin turns clear as crystal glass, revealing delicate bones of gleaming gold inside, with threads of soft light running through them like veins. A jewel glows deep violet in the center of her chest where her heart should be. A crown of gold and pale bone grows out of her head and rises up through the black feathers of her headdress, and her long black hair drifts slowly upward as if underwater. Her eyes burn with cold blue-white soul fire under the spotlights, and wisps of ghostly blue light curl around her fingers. A beautiful corpse, not rotting: the glass skin is smooth and luminous, the gold bones look like fine jewelry. Palette: corpse-pale porcelain, crystal, gold, violet and icy blue against black; no green anywhere.
+Left half, her lich-queen form: a queen of the dead and the most powerful witch in the room, with the same breathtaking face and figure, commanding and mysterious rather than hideous. Her skin is cold and deathly pale like a beautiful corpse, with faint cold-blue shadows under her eyes and pale, cold lips. On her shoulders, collarbone, arms and hands the skin turns clear as crystal glass, revealing delicate bones of gleaming gold inside, with threads of soft light running through them like veins. A jewel glows icy blue in the center of her chest where her heart should be. A crown of gold and pale bone grows out of her head and rises up through the black feathers of her headdress, and her long black hair drifts slowly upward as if underwater. Her eyes burn with cold blue-white soul fire under the spotlights, and wisps of ghostly blue light curl around her fingers. A beautiful corpse, not rotting: the glass skin is smooth and luminous, the gold bones look like fine jewelry. Palette: corpse-pale porcelain, crystal, gold and icy blue against black; no green anywhere.
 ```
 
-## ③ 좀비 들러리 — 집사복 · 채플 만찬 은쟁반 (1화)
+## ③ 좀비 들러리 — 메이드복 · 채플 만찬 은쟁반 (1화)
 
 ```
 Photorealistic cinematic still from a live-action horror drama, horizontal 16:9 frame. Setting: a lavish 1960s Las Vegas casino-hotel built like a Greek temple, frozen in time: white marble columns and statues, gold trim, red carpet, glowing hot pink and turquoise neon. Retro Vegas glamour turned eerie; not gothic, no candles, no fog. Shot on ARRI Alexa, 50mm lens, shallow depth of field, subtle film grain, realistic skin texture. All characters are adults. No text, no watermark.
 
 A side-by-side diptych in one horizontal frame, split down the middle by a thin clean line. Both halves show the same moment from the same camera angle: the same woman, same face, same uniform, same pose, same background. Only her appearance changes. Left half: what the terrified wedding guests see, her cursed zombie form. Right half: what one man sees, her true human form.
 
-The scene: a long wedding dinner table inside the casino's wedding chapel, set with crystal glasses and gold table lamps. Frightened wedding guests in modern clothes sit at the table. At the head of the table she lifts a silver serving dome with perfect posture and a polite little bow, like the coldest butler in Las Vegas presenting the chef's special. On the platter sits a glazed roast, and on top of it lies a man's gold wristwatch, still ticking. The guest in front of her clamps a hand over his mouth in horror. Her face is perfectly deadpan.
+The scene: a long wedding dinner table inside the casino's wedding chapel, set with crystal glasses and gold table lamps. Frightened wedding guests in modern clothes sit at the table. At the head of the table she lifts a silver serving dome with perfect posture and a polite little bow, like the coldest maid in Las Vegas presenting the chef's special. On the platter sits a glazed roast, and on top of it lies a man's gold wristwatch, still ticking. The guest in front of her clamps a hand over his mouth in horror. Her face is perfectly deadpan.
 
-Her outfit, the same in both halves: a tailored women's butler uniform: a black tailcoat with long tails, a charcoal pinstripe waistcoat cinched at the waist, a crisp white wing-collar shirt open at the throat, slim black trousers, black heels, pristine white gloves and a silver pocket-watch chain.
+Her outfit, the same in both halves: a classic French maid uniform with 1960s Las Vegas flair: a fitted black satin mini dress with short puffed sleeves, a frilly white lace apron tied in a big bow at the back, a white lace headband with black ribbons, a black velvet choker with a small silver bell, white stockings, black Mary Jane heels and white lace gloves.
 
 Right half, her true human form: a stunning woman in her early twenties with Western features, fully human. Tall and slim, sleek straight chestnut-brown hair pulled back tight, pale blue eyes, a calm, unreadable, deadpan face.
 
-Left half, her zombie form: the same beautiful face and slim figure, a zombie girl stitched together from more than one body. Her skin is a pale lilac-blue, smooth like porcelain. Neat black stitches circle her throat above her open collar, ring both wrists at the edges of her gloves, and run from one corner of her mouth up across her cheek. One eye is a clear icy blue, the other milky white with a faint glow. Blue-black lips. Not rotting, no gore: elegant and eerie, like a high-fashion zombie.
+Left half, her zombie form: the same beautiful face and slim figure, a zombie girl stitched together from more than one body. Her skin is a soft lavender-violet, clearly purple and not pale white, smooth like porcelain. Neat black stitches circle her throat above her open collar, ring both wrists at the edges of her gloves, and run from one corner of her mouth up across her cheek. One eye is a clear icy blue, the other milky white with a faint glow. Blue-black lips. Not rotting, no gore: elegant and eerie, like a high-fashion zombie.
 ```
 
 ## ④ 좀비 들러리 — 간호사 · 호텔 의무실 (후반)
@@ -106,7 +108,7 @@ Her outfit, the same in both halves: a fitted 1960s white nurse dress buttoned d
 
 Right half, her true human form: a stunning woman in her early twenties with Western features, fully human. Tall and slim, sleek straight chestnut-brown hair pulled back under the cap, pale blue eyes, a calm, unreadable, deadpan face.
 
-Left half, her zombie form: the same beautiful face and slim figure, a zombie girl stitched together from more than one body. Her skin is a pale lilac-blue, smooth like porcelain. Neat black stitches, the same black thread she is holding, circle her throat, ring both wrists, and run from one corner of her mouth up across her cheek. One eye is a clear icy blue, the other milky white with a faint glow. Blue-black lips. Not rotting, no gore: elegant and eerie.
+Left half, her zombie form: the same beautiful face and slim figure, a zombie girl stitched together from more than one body. Her skin is a soft lavender-violet, clearly purple and not pale white, smooth like porcelain. Neat black stitches, the same black thread she is holding, circle her throat, ring both wrists, and run from one corner of her mouth up across her cheek. One eye is a clear icy blue, the other milky white with a faint glow. Blue-black lips. Not rotting, no gore: elegant and eerie.
 ```
 
 ## ⑤ 늑대 들러리 — 칵테일 웨이트리스 · 채플 만찬 (2화)
@@ -118,7 +120,7 @@ A side-by-side diptych in one horizontal frame, split down the middle by a thin 
 
 The scene: the long wedding dinner table inside the casino's wedding chapel. She leans over a sobbing guest in a modern suit and holds a forkful of glazed roast up to his trembling lips with a sweet, teasing grin, a drink tray balanced on her other hand. Behind her, the far end of the dining table has cracked open into a huge mouth lined with teeth, dragging a screaming guest toward it by his jacket. Other guests scramble back from the table in panic.
 
-Her outfit, the same in both halves: a classic 1960s Las Vegas cocktail waitress uniform: a crimson satin mini dress with a flared skirt, a tiny white lace apron, black fishnet stockings, black heels and a small gold name pin.
+Her outfit, the same in both halves: a classic 1960s Las Vegas cocktail waitress uniform: a cobalt-blue satin mini dress with a flared skirt and white piping, a tiny white lace apron, black fishnet stockings, black heels, a small gold name pin and a cobalt-blue bow in her copper-red hair.
 
 Right half, her true human form: a stunning woman in her early twenties with Western features, fully human. Petite and athletic, long wild copper-red hair, green eyes, light freckles, a wild, teasing grin.
 
@@ -134,7 +136,7 @@ A side-by-side diptych in one horizontal frame, split down the middle by a thin 
 
 The scene: the casino showroom set for a wedding banquet, a small stage hung with black roses for a bouquet-toss game. A young male guest in a suit tried to run for the revolving doors. She drags him back across the red carpet by his collar with one hand, effortlessly, while he claws at the carpet and shouts. In her other hand she holds a bouquet of black roses. She grins at the camera, having the time of her life.
 
-Her costume, the same in both halves: a classic 1960s casino bunny costume in black satin, with a black bunny-ear headband, a white collar with a black bow tie, white cuffs, black tights, black heels and a fluffy white cotton tail.
+Her costume, the same in both halves: a classic 1960s casino bunny costume in glossy white satin trimmed with gold, with a white bunny-ear headband, a white collar with a gold bow tie, white cuffs with gold cufflinks, pale tights, white heels and a fluffy white cotton tail.
 
 Right half, her true human form: a stunning woman in her early twenties with Western features, fully human. Petite and athletic, long wild copper-red hair, green eyes, light freckles, a wild, teasing grin.
 
@@ -179,9 +181,9 @@ Left half, her succubus form: the same platinum-blonde airhead, still stunning. 
 Photorealistic cinematic still from a live-action horror drama, horizontal 16:9 frame, wide shot. Setting: the showroom of a lavish 1960s Las Vegas casino-hotel built like a Greek temple, frozen in time: white marble columns and statues, gold trim, red carpet, glowing hot pink and turquoise neon. Retro Vegas glamour turned eerie; not gothic, no candles, no fog. Shot on ARRI Alexa, 35mm lens, subtle film grain, realistic skin texture. All characters are adults. No text, no watermark.
 
 One single group shot, not a split image. Four cursed women stand together at a long wedding banquet table, as the terrified guests see them. Frightened guests in modern clothes sit at the table, and some chairs hold white marble statues of guests whose real eyes are crying. All four women look straight at the camera.
-Center, the queen of them all: the lich-queen bride in an ivory pearl-and-crystal lace mermaid wedding gown and veil, sitting on the edge of the table, smiling. Her skin is cold and deathly pale like a beautiful corpse; her shoulders, arms and hands are clear as crystal glass with gleaming gold bones inside; a violet jewel glows in her chest where her heart should be; a crown of gold and bone grows from her head into her floating black hair; her eyes burn with cold blue soul fire. Commanding, mysterious and beautiful; no green anywhere.
-Left: the zombie girl in a black butler tailcoat and white gloves, pale lilac-blue skin, neat black stitches at her throat, wrists and cheek, one milky white eye, deadpan, lifting a silver dome to show a glazed roast with a man's gold wristwatch lying on top.
-Right: the werewolf girl in a crimson 1960s cocktail-waitress dress, tall wolf ears, tawny-red fur on her shoulders and arms, furred wolf legs and clawed paws tearing through her fishnets, a bushy tail, pouring red wine into a sobbing guest's glass until it overflows across the table, grinning with long fangs.
+Center, the queen of them all: the lich-queen bride in an ivory pearl-and-crystal lace mermaid wedding gown and veil, sitting on the edge of the table, smiling. Her skin is cold and deathly pale like a beautiful corpse; her shoulders, arms and hands are clear as crystal glass with gleaming gold bones inside; an icy-blue jewel glows in her chest where her heart should be; a crown of gold and bone grows from her head into her floating black hair; her eyes burn with cold blue soul fire. Commanding, mysterious and beautiful; no green anywhere.
+Left: the zombie girl in a black-and-white French maid uniform with a frilly lace apron and headband, soft lavender-violet skin, neat black stitches at her throat, wrists and cheek, one milky white eye, deadpan, lifting a silver dome to show a glazed roast with a man's gold wristwatch lying on top.
+Right: the werewolf girl in a cobalt-blue 1960s cocktail-waitress dress, tall wolf ears, tawny-red fur on her shoulders and arms, furred wolf legs and clawed paws tearing through her fishnets, a bushy tail, pouring red wine into a sobbing guest's glass until it overflows across the table, grinning with long fangs.
 Far right: the platinum-blonde succubus in a silver sequined ring-girl outfit, glossy bubblegum-pink skin, small black horns, black bat wings spread, a heart-tipped tail, glowing pink heart-shaped pupils, giggling as she takes a selfie with a crying marble-statue guest.
 Beautiful and monstrous at once.
 ```
@@ -193,8 +195,8 @@ Photorealistic cinematic still from a live-action horror drama, horizontal 16:9 
 
 One single group shot, not a split image. Four stunning women stand together at a long wedding banquet table, fully human, with no monster features at all. Frightened guests in modern clothes sit at the table, and some chairs hold white marble statues of guests whose real eyes are crying. All four women look straight at the camera.
 Center: the bride in an ivory pearl-and-crystal lace mermaid wedding gown with a long veil held by a gold crown-shaped comb, sitting on the edge of the table, smiling. Mid-twenties, a timeless ethereal beauty, long glossy jet-black hair, luminous fair skin, amber-gold eyes, rose lips.
-Left: a tall, slim woman in her early twenties in a tailored women's butler uniform (black tailcoat, pinstripe waistcoat, white shirt, white gloves), sleek chestnut-brown hair pulled back tight, pale blue eyes, deadpan, lifting a silver dome to show a glazed roast with a man's gold wristwatch lying on top.
-Right: a petite woman in her early twenties in a crimson 1960s cocktail-waitress dress with a tiny lace apron and fishnets, long wild copper-red hair, green eyes, freckles, pouring red wine into a sobbing guest's glass until it overflows across the table, grinning.
+Left: a tall, slim woman in her early twenties in a black-and-white French maid uniform with a frilly lace apron and headband, sleek chestnut-brown hair pulled back tight, pale blue eyes, deadpan, lifting a silver dome to show a glazed roast with a man's gold wristwatch lying on top.
+Right: a petite woman in her early twenties in a cobalt-blue 1960s cocktail-waitress dress with a tiny lace apron and fishnets, long wild copper-red hair, green eyes, freckles, pouring red wine into a sobbing guest's glass until it overflows across the table, grinning.
 Far right: a platinum-blonde airhead rich girl, about 25, in a silver sequined ring-girl outfit, huge blank blue eyes, glossy pink pout, giggling as she takes a selfie with a crying marble-statue guest.
 The eerie scene around them is the same as what the guests see; only the women look human and impossibly beautiful.
 ```
