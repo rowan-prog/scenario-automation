@@ -2,23 +2,26 @@
 
 ## 세계
 - 60년 전 사막 모래폭풍 속에 하룻밤 새 통째로 사라진 라스베이거스 블랙웰 카지노. 1960년대 라스베이거스 황금기 그대로 멈춰 있다.
-- 그리스 신전풍 카지노다. 흰 대리석 기둥과 석상, 금장식, 붉은 카펫, 슬롯머신, 핑크·청록 네온이 있다. 웨딩 채플과 쇼 무대(마술쇼 · 고고 댄스 케이지)도 카지노 안에 있다. 창밖은 네온에 물든 모래폭풍이다.
+- 그리스 신전풍 카지노다. 흰 대리석 기둥과 석상, 금장식, 붉은 카펫, 슬롯머신, 핑크·청록 네온이 있다. 웨딩 채플과 쇼 무대도 카지노 안에 있다. 창밖은 네온에 물든 모래폭풍이다.
 - 고딕 성 · 촛불 · 폭우 · 안개 · 돌벽 톤은 쓰지 않는다.
 
 ## 여자 넷 (사용자 2026-10-16)
-- **공략은 아이비 하나.** 들러리 둘은 아이비의 부하다. 둘 다 카지노 쇼에 서던 여자들이고, 아이비를 넘기면 딸려 오는 보너스 첩이다. 매디슨은 사람 퀸카인데, 유료에서 라이언이 아이비와 거래해 살려 주는 대가로 서큐버스가 된다.
+- **공략은 아이비 하나.** 들러리 둘은 아이비의 부하이고, 아이비를 넘기면 딸려 오는 보너스 첩이다. 매디슨은 사람 퀸카인데, 유료에서 라이언이 아이비와 거래해 살려 주는 대가로 서큐버스가 된다.
 - **종족은 미국 남자 · 오타쿠에게 익숙한 몬스터걸로 가른다. 익숙한 것보다 예쁜 게 먼저다.**
-- **괴물 정도는 비중 따라 다르게 한다 (사용자 2026-10-16).** 아이비 · 매디슨은 괴물 모습도 존나 쌔끈하고 죽여줘야 한다. 사람 몸매 실루엣은 그대로 두고 섹시함을 최대로 간다. 들러리 둘은 "색만 다른 사람"이면 안 되니 몸 일부가 확실히 괴물이다(여러 몸을 꿰매 붙인 몸 / 늑대 다리 · 발 · 털). 얼굴은 넷 다 예쁘게 둔다.
-- **의상은 캐릭터의 일 · 성격에서 나온다. 드레스는 신부 하나만 입는다.**
+- **괴물 정도는 비중 따라 다르게 한다.**
+  - 아이비 · 매디슨: 괴물 모습도 존나 쌔끈하고 죽여줘야 한다. 사람 몸매 그대로 섹시함을 최대로 간다.
+  - 들러리 둘: 몸 일부가 확실히 괴물이다.
+  - 얼굴은 넷 다 예쁘게 둔다.
+- **의상은 캐릭터마다 다르다. 웨딩드레스는 아이비만 입는다. 들러리 둘은 핼러윈 파티 대표 의상이다.**
 
 | | 진짜 모습 의상 (라이언 눈) | 괴물 모습 (하객들 눈) |
 |---|---|---|
-| 아이비 · 신부 · 메두사 | 등 파인 흰 실크 웨딩드레스 · 긴 베일 · 금 뱀 팔찌 (8화 검은 코르셋 드레스) | A안 = 금맥이 흐르는 살아 있는 흰 대리석 피부 · 흑금 뱀 머리 · 에메랄드 눈 / B안 = 금가루 반짝이는 에메랄드 피부 · 흑금 뱀 머리 · 금빛 눈 |
-| 좀비 들러리 · 쿨하고 무표정 | 카지노 마술쇼 조수: 은·검정 스팽글 레오타드 · 망사 스타킹 · 작은 실크해트 · 흰 장갑 | 라일락빛 피부 · 톱으로 반 갈렸다 꿰맨 허리 실밥 · 입가 · 팔 실밥 · 한쪽 흐린 눈 |
-| 늑대 들러리 · 거칠고 장난기 | 60년대 고고 케이지 댄서: 구릿빛 술 장식 크롭톱 · 핫팬츠 · 흰 고고 부츠 · 금 태그 달린 검은 초커 | 늑대 귀 · 털 · 꼬리 · 부츠를 찢고 나온 늑대 다리와 발 |
+| 아이비 · 신부 · 메두사 | 진주 · 크리스털 비늘 무늬 자수 레이스 머메이드 웨딩드레스 · 등 허리까지 파임 · 성당 길이 트레인과 베일 · 금 뱀 머리 장식 (8화 검은 코르셋 드레스) | 사람 살결에 초록빛이 번진 피부 · 관자놀이 · 눈가 · 쇄골에만 작은 비늘 · 뱀 머리카락 · 갈라진 뱀 혀 · 금빛 세로 동공 |
+| 좀비 들러리 · 쿨하고 무표정 | 섹시 간호사: 몸에 붙는 빈티지 흰 간호사 유니폼 · 빨간 십자 캡 · 흰 사이하이 스타킹과 가터 · 청진기 | 라일락빛 피부 · 자기 몸을 직접 꿰맨 실밥(입가 · 목 · 다른 사람 팔) · 한쪽 흐린 눈 |
+| 늑대 들러리 · 거칠고 장난기 | 섹시 빨간 망토: 빨간 후드 망토 · 검은 코르셋 · 짧은 플레어 스커트 · 사이하이 스타킹 · 검은 장미 바구니 | 후드를 뚫고 나온 늑대 귀 · 털 · 꼬리 · 늑대 다리와 발 (늑대가 빨간 망토를 입었다) |
 | 매디슨 · 멍청한 금발 퀸카 | 현대 핑크 인플루언서 하객: 쨍한 표백 금발 · 풍선껌 · 핫핑크 새틴 코르셋 톱 · 주름 미니스커트 · 흰 퍼 숄 · 큐빅 폰 | 분홍 피부 · 하트 눈동자 · 뿔 · 박쥐 날개 · 하트 꼬리 (유료) |
 
-- **라이언 눈 = 저주가 풀린 진짜 모습.** 완전한 사람이고 신비로운 미인이다. **하객들 눈 = 괴물 모습.** 보통 사람은 질겁하지만 몬스터걸 취향 남자들한테는 분명히 끌리는 몸 · 표정 · 포즈다. 칙칙한 회색 · 탁한 녹색 · 썩은 느낌은 쓰지 않는다.
+- **라이언 눈 = 저주가 풀린 진짜 모습.** 완전한 사람이고 신비로운 미인이다. **하객들 눈 = 괴물 모습.** 보통 사람은 질겁하지만 몬스터걸 취향 남자들한테는 분명히 끌리는 몸 · 표정 · 포즈다. 칙칙한 회색 · 탁한 색 · 썩은 느낌은 쓰지 않는다.
 - 두 모습은 같은 의상 · 같은 포즈로 뽑아 바로 비교한다.
 
 ## 쓰는 법
@@ -46,57 +49,51 @@ An ordinary young American guy, 23, the kind of everyday dude male viewers can p
 ## ② 아이비 그레이 — 진짜 모습 (라이언 눈 · EP01 채플 제단)
 
 ```
-A breathtakingly beautiful bride in her mid-twenties with Western features, fully human with no monster features: this is her true face from before she was cursed. A timeless, ethereal beauty that looks lit from within, like a goddess statue come to life. Long loose glossy jet-black hair down to her waist, luminous fair skin, rare amber-gold eyes, natural rose lips, elegant face, hourglass figure. She wears a flowing white silk wedding gown that drapes like liquid; the back is open all the way down to her waist. A long sheer veil trails behind her. A thin gold serpent armlet coils around her upper arm, the only hint of what she becomes. She stands at the altar of a Las Vegas casino wedding chapel, between white marble columns under a glowing pink neon heart, and looks back over her bare shoulder straight into the camera with a faint, knowing smile. Mysterious, seductive, unforgettable. Three-quarter view from behind.
+A breathtakingly beautiful bride in her mid-twenties with Western features, fully human with no monster features: this is her true face from before she was cursed. A timeless, ethereal beauty that looks lit from within. Long loose glossy jet-black hair down to her waist, luminous fair skin, rare amber-gold eyes, natural rose lips, elegant face, hourglass figure.
+Her wedding gown is exquisite and detailed: a fitted mermaid silhouette in ivory silk and French lace that hugs her bust, waist and hips, then flares below the knee into a long cathedral train of layered silk organza. The sheer illusion-lace bodice is hand-embroidered with tiny pearls and crystal beads in a delicate pattern that looks like shimmering scales, with a soft plunging sweetheart neckline. Long sheer lace sleeves end in points over the backs of her hands. The back is open all the way down to the small of her back, framed by a scalloped lace edge, with a row of tiny covered pearl buttons running down the skirt below it. A cathedral-length veil with a scalloped lace border trails behind her, held by a fine gold comb shaped like a coiled serpent.
+She stands at the altar of a Las Vegas casino wedding chapel, between white marble columns under a glowing pink neon heart, and looks back over her bare shoulder straight into the camera with a faint, knowing smile. Mysterious, seductive, unforgettable. Three-quarter view from behind, the train and veil spilling down the altar steps.
 ```
 
-60년대 글래머로 비교해 보고 싶으면 `Long loose glossy jet-black hair down to her waist` 부분을 `glossy jet-black hair in big soft 1960s waves, winged eyeliner, red lips`로 바꾼다.
-
-## ③ 아이비 — 괴물 모습 A: 살아 있는 대리석 메두사 (추천 · 하객들 눈)
+## ③ 아이비 그레이 — 괴물 모습 (하객들 눈 · 같은 자리 · 같은 포즈)
 
 ```
-The same bride, same breathtaking face, same hourglass figure, same white silk open-back gown and veil, same pose at the same neon-lit casino chapel altar, but cursed into a Medusa femme fatale, sleek and lethal. Her skin is no longer human: it is flawless polished white marble, cool and glowing, laced with fine veins of real gold, as if one of the casino's goddess statues had come alive. A dusting of tiny emerald scales glitters like jewelry along her cheekbones, her collarbones, the curve of her waist and down her bare spine. Instead of hair, a crown of glossy black snakes banded with gold rises around her head like a couture headdress, their tiny gold eyes all fixed on the viewer, one snake coiling lazily down over her bare shoulder. Her eyes glow vivid emerald with thin vertical slit pupils, lined in black. Her lips are glossy black-cherry, parted just enough to show the tip of a forked tongue. Gold serpent cuffs on her arms, gold-tipped claws. She looks back over her shoulder with a slow, half-lidded, predatory smile. To ordinary people she is a terrifying living statue with snakes for hair; to monster-girl fans she is the sexiest woman alive. High-fashion, glamorous, mysterious. Clean palette of white marble, gold, black and emerald; nothing grey, murky or rotting.
+The same bride, same breathtaking face, same hourglass figure, same pearl-and-crystal lace mermaid wedding gown with the open back, same veil and gold serpent comb, same pose at the same neon-lit casino chapel altar, but cursed into a Medusa, sleek and lethal. Her skin is still soft and human-looking, but a green flush spreads through it: her natural fair skin tone deepens into emerald green at her temples, along her neck and shoulders, down her spine and at her fingertips, like a glowing jewel-toned blush. Only a few small iridescent green scales appear as accents: at her temples, the outer corners of her eyes, and along her collarbone. Instead of hair, dozens of glossy snakes in emerald green and black, banded with gold, rise and coil around her head, tangled in her veil, one snake sliding down over her bare shoulder. Her eyes glow gold with thin vertical slit pupils. A slim forked snake tongue flicks out between her full berry-dark lips. To ordinary people she is a monster; to monster-girl fans she is the sexiest woman alive. Sleek, glamorous, mysterious. Clean palette of skin tone, emerald green, black and gold; nothing grey, murky or rotting.
 ```
 
-## ③-B 아이비 — 괴물 모습 B: 에메랄드 팜파탈 메두사 (비교용)
+## ④ 한 장 비교 — 남들 눈엔 괴물, 내 눈엔 미녀 (광고 컷 확인용)
 
 ```
-The same bride, same breathtaking face, same hourglass figure, same white silk open-back gown and veil, same pose at the same neon-lit casino chapel altar, but cursed into a Medusa femme fatale, sleek and lethal. Her skin is a deep, glossy emerald green with a fine shimmer of gold dust, smooth and flawless, like the green-skinned seductresses of classic American sci-fi. Delicate darker scales trace her cheekbones, collarbones, the curve of her hips and her bare spine like jeweled body paint. Instead of hair, a crown of glossy black snakes banded with gold rises around her head like a couture headdress, one snake coiling lazily down over her bare shoulder. Her eyes glow molten gold with thin vertical slit pupils, lined in black. Her lips are glossy dark plum, parted to show the tip of a forked tongue. Gold serpent cuffs on her arms, gold-tipped claws. She looks back over her shoulder with a slow, half-lidded, predatory smile. Terrifying to ordinary people, the sexiest woman alive to monster-girl fans. Clean palette of emerald, gold and black; nothing grey, murky or rotting.
-```
-
-## ④ 한 장 비교 — 남들 눈엔 괴물, 내 눈엔 미녀 (광고 컷 확인용 · ③ A 기준)
-
-```
-A vertical split image divided down the exact center of one bride's face and body. Same woman, same white silk wedding gown, same veil, same pose, facing the camera from the waist up in a neon-lit Las Vegas casino wedding chapel. Left half, what the guests see: flawless white marble skin laced with gold veins, tiny emerald scales glittering on her cheekbone and collarbone, a crown of glossy black-and-gold snakes instead of hair, a glowing emerald slit eye, glossy black-cherry lips with the tip of a forked tongue. Right half, what one man sees: luminous fair human skin, long glossy jet-black hair, an amber-gold eye, natural rose lips. Both halves share the same knowing, seductive smile. Symmetrical framing, the dividing line clean and sharp.
+A vertical split image divided down the exact center of one bride's face and body. Same woman, same pearl-and-crystal lace mermaid wedding gown, same veil, same pose, facing the camera from the waist up in a neon-lit Las Vegas casino wedding chapel. Left half, what the guests see: her skin flushed with emerald green at the temple, neck and shoulder, a few small iridescent green scales at the corner of her eye and collarbone, glossy emerald-and-black snakes instead of hair, a glowing gold slit eye, and a forked snake tongue flicking from her lips. Right half, what one man sees: luminous fair human skin, long glossy jet-black hair, an amber-gold eye, natural rose lips. Both halves share the same knowing, seductive smile. Symmetrical framing, the dividing line clean and sharp.
 ```
 
 ## ⑤ 아이비 — 검은 코르셋 드레스, 무대 뒤 분장실 (라이언 눈 · EP08 마지막 컷)
 
 ```
-POV from a doorway left ajar: a 1960s Las Vegas showgirl dressing room backstage, a vanity mirror framed with glowing round bulbs, feather headdresses and sequined costumes on racks. A beautiful, fully human woman with long glossy jet-black hair and amber-gold eyes stands with her back to the camera, changing into a black satin corset gown; the corset laces are half undone. She has swept her hair over one shoulder, baring the nape of her neck and her smooth, flawless pale back. She glances back over her shoulder toward the door, eyes half-lidded, lips slightly parted, as if she has been waiting for someone to come in. Alluring, intimate, not explicit. Framed from the waist up, focus on the nape of her neck.
+POV from a doorway left ajar: a 1960s Las Vegas showgirl dressing room backstage, a vanity mirror framed with glowing round bulbs, feather headdresses and sequined costumes on racks. A beautiful, fully human woman with long glossy jet-black hair and amber-gold eyes stands with her back to the camera, changing into a black satin corset gown with black lace trim; the corset laces are half undone. She has swept her hair over one shoulder, baring the nape of her neck and her smooth, flawless pale back. She glances back over her shoulder toward the door, eyes half-lidded, lips slightly parted, as if she has been waiting for someone to come in. Alluring, intimate, not explicit. Framed from the waist up, focus on the nape of her neck.
 ```
 
-## ⑥ 좀비 들러리 — 진짜 모습: 마술쇼 조수 (라이언 눈 · EP01 은쟁반)
+## ⑥ 좀비 들러리 — 진짜 모습: 섹시 간호사 (라이언 눈 · EP01 은쟁반)
 
 ```
-A stunning woman in her early twenties with Western features, fully human with no monster features: her true face from before the curse. She was the magician's assistant in the casino's magic show. Tall and slim with long straight chestnut-brown hair, pale blue eyes and a calm, unreadable, deadpan face. She wears a black-and-silver sequined magician's assistant leotard with a high-cut leg, sheer black fishnet stockings, silver heels, short white gloves and a small black silk top hat pinned at an angle. Beside a long buffet table in the casino showroom, she lifts a silver serving dome with a theatrical "ta-da" flourish, like revealing a magic trick, without the slightest smile. Cool, elegant, mysterious. Full figure.
+A stunning woman in her early twenties with Western features, fully human with no monster features: her true face from before the curse. Tall and slim with long straight chestnut-brown hair, pale blue eyes and a calm, unreadable, deadpan face. She wears a sexy Halloween-party nurse costume: a fitted vintage white nurse uniform with a short skirt and a row of buttons down the front, a little white nurse cap with a red cross, white thigh-high stockings with lace tops and garter clips, white heels, and a stethoscope around her neck. Beside a long buffet table in the casino showroom, she lifts a silver serving dome like a surgeon presenting a tray, without the slightest smile. Cool, clinical, alluring. Full figure.
 ```
 
 ## ⑦ 좀비 들러리 — 괴물 모습 (하객들 눈 · 같은 자리 · 같은 포즈)
 
 ```
-The same magician's assistant in the same black-and-silver sequined leotard, fishnets, white gloves and little top hat, same "ta-da" pose lifting the silver dome, but cursed into a zombie girl: the assistant from the saw-the-lady-in-half trick, who really was sawn in half and stitched back together. Her skin is a pale lilac-blue, cool and smooth like porcelain. A thick ring of neat black stitches circles her whole waist where her body was rejoined, showing through a sheer mesh panel of the leotard. More stitches run from one corner of her mouth up across her cheek, and her left arm is stitched on at the shoulder in a slightly paler shade, as if borrowed from another girl; that hand has lost its glove. One eye is a clear icy blue, the other milky white with a faint glow. Blue-black lips, grey nails, a perfectly deadpan stare. Not rotting or bloody: the stitched-together body is the monster, while her face stays pretty and her figure slim and curvy, like the cute zombie girls of anime. Horrifying to ordinary people, irresistible to monster-girl fans.
+The same nurse in the same fitted white nurse uniform, red-cross cap, thigh-high stockings and stethoscope, same pose lifting the silver dome, but cursed into a zombie girl who stitched her own body back together. Her skin is a pale lilac-blue, cool and smooth like porcelain. A neat line of black surgical stitches runs from one corner of her mouth up across her cheek, another circles her throat like a choker, and her left arm is stitched on at the shoulder in a slightly paler shade, as if borrowed from another girl. A curved suture needle and black thread are tucked into her breast pocket. One eye is a clear icy blue, the other milky white with a faint glow. Blue-black lips, grey nails, a few faded old stains on the white uniform, a perfectly deadpan stare. Not rotting or gory: the stitched-together body is the monster, while her face stays pretty and her figure slim and curvy, like the cute zombie girls of anime. Horrifying to ordinary people, irresistible to monster-girl fans.
 ```
 
-## ⑧ 늑대 들러리 — 진짜 모습: 고고 케이지 댄서 (라이언 눈 · EP01 연회장)
+## ⑧ 늑대 들러리 — 진짜 모습: 섹시 빨간 망토 (라이언 눈 · EP01 연회장)
 
 ```
-A stunning woman in her early twenties with Western features, fully human with no monster features: her true face from before the curse. She was the go-go dancer in a gilded cage above the casino floor. Petite and athletic with long wild copper-red hair, green eyes and light freckles. She wears a 1960s copper metallic fringe crop top and matching high-waisted hot pants, white patent go-go boots up to the knee, gold hoop earrings and a black velvet choker with a small gold tag. She hangs from the bars of the gilded go-go cage with one hand, hip cocked, a single black rose between her teeth, grinning down at the camera, wild and teasing. Neon and slot machines below. Full figure.
+A stunning woman in her early twenties with Western features, fully human with no monster features: her true face from before the curse. Petite and athletic with long wild copper-red hair, green eyes and light freckles. She wears a sexy Halloween-party Little Red Riding Hood costume: a hooded crimson velvet cape tied at the throat, a black lace-up corset over a white off-the-shoulder peasant blouse, a short flared red skirt, black thigh-high stockings and red heels, with a wicker basket of black roses on her arm. She perches on the edge of the casino buffet table, a single black rose between her teeth, grinning at the camera, wild and teasing. Full figure.
 ```
 
 ## ⑨ 늑대 들러리 — 괴물 모습 (하객들 눈 · 같은 자리 · 같은 포즈)
 
 ```
-The same go-go dancer in the same copper fringe crop top, hot pants and choker with the gold tag, hanging from the same gilded cage with the black rose between her teeth, but cursed into a werewolf girl with a beast's body. Her legs are digitigrade wolf legs covered in thick tawny-red fur, and big clawed paws have burst through her torn white go-go boots. Fur also covers her arms from the elbows down to large clawed hands, runs down her spine into a big bushy wolf tail, and frames her face like a mane. Tall wolf ears rise from her wild copper-red hair. Her eyes glow bright amber and her wide grin is full of long fangs. A beast's body and silhouette, ready to pounce, while her face stays pretty and her figure curvy. Horrifying to ordinary people, irresistible to monster-girl fans.
+The same Little Red Riding Hood in the same crimson hooded cape, black corset, short red skirt and basket of black roses, same pose on the buffet table with the black rose between her teeth, but she is the big bad wolf herself: cursed into a werewolf girl with a beast's body. Tall furry wolf ears push out through her red hood. Her legs are digitigrade wolf legs covered in thick tawny-red fur, with big clawed paws where her heels used to be and torn stockings hanging off them. Fur also covers her arms from the elbows down to large clawed hands, and a big bushy wolf tail sweeps out from under the cape. Her eyes glow bright amber and her wide grin is full of long fangs. A beast's body and silhouette, ready to pounce, while her face stays pretty and her figure curvy. Horrifying to ordinary people, irresistible to monster-girl fans.
 ```
 
 ## ⑩ 매디슨 — 사람 퀸카 (EP08 라이언 팔에 매달림)
@@ -116,5 +113,5 @@ The same airhead influencer in the same hot-pink satin corset top, pleated mini 
 제목 글자를 넣는 컷이라 공통 스타일 끝의 `No text, no watermark.`를 `No watermark.`로 바꿔 붙인다.
 
 ```
-Vertical movie poster key art for a horror harem drama. Center: the ordinary young guy, 23, boyish face, messy brown hair, in a cheap, slightly too-big black suit with a crooked tie, white sneakers and a black rose pinned to his lapel, grinning shamelessly at the camera like the luckiest guy alive. Around him, the women in their true human forms, each in her own look: the black-haired bride in a white silk open-back wedding gown and veil drapes her arms over his shoulders; on his left the deadpan chestnut-haired magician's assistant in a black-and-silver sequined leotard, fishnets and a little top hat; on his right the wild copper-haired go-go dancer in a copper fringe crop top, hot pants and white go-go boots; the airhead influencer with bright bleached platinum-yellow blonde hair in a hot-pink Barbiecore outfit clings to his arm, blowing a bubble of gum. Behind them, a wall of casino mirrors reflects the four women as monster girls: the Medusa bride with gold-veined white marble skin, glowing emerald eyes and a crown of black-and-gold snakes, the lilac-skinned zombie assistant with a ring of stitches around her waist, the wolf girl crouching on furred wolf legs and paws, and the bubblegum-pink succubus with horns and bat wings, while the man looks the same in the reflection. Further back under marble columns: a groom in a white tuxedo wearing a cracked white porcelain mask with only darkness behind the eye holes, and an officiant in a gold lamé suit whose head is a single flickering neon bulb. Through the casino doors, a sandstorm glows pink under a giant vintage neon sign. At the top, bold retro neon-style title text: "KISS THE MONSTER BRIDE OR DIE".
+Vertical movie poster key art for a horror harem drama. Center: the ordinary young guy, 23, boyish face, messy brown hair, in a cheap, slightly too-big black suit with a crooked tie, white sneakers and a black rose pinned to his lapel, grinning shamelessly at the camera like the luckiest guy alive. Around him, the women in their true human forms, each in her own look: the black-haired bride in an exquisite pearl-and-crystal lace mermaid wedding gown with an open back and a long veil drapes her arms over his shoulders; on his left the deadpan chestnut-haired bridesmaid in a sexy white Halloween nurse costume with a red-cross cap and stethoscope; on his right the wild copper-haired bridesmaid in a sexy Little Red Riding Hood costume with a crimson hooded cape and a basket of black roses; the airhead influencer with bright bleached platinum-yellow blonde hair in a hot-pink Barbiecore outfit clings to his arm, blowing a bubble of gum. Behind them, a wall of casino mirrors reflects the four women as monster girls: the Medusa bride with an emerald-flushed skin, a few green scales, a crown of emerald-and-black snakes and a forked tongue; the lilac-skinned zombie nurse stitched together from different bodies; the wolf girl in the red hood crouching on furred wolf legs and paws; and the bubblegum-pink succubus with horns and bat wings, while the man looks the same in the reflection. Further back under marble columns: a groom in a white tuxedo wearing a cracked white porcelain mask with only darkness behind the eye holes, and an officiant in a gold lamé suit whose head is a single flickering neon bulb. Through the casino doors, a sandstorm glows pink under a giant vintage neon sign. At the top, bold retro neon-style title text: "KISS THE MONSTER BRIDE OR DIE".
 ```
