@@ -9,7 +9,8 @@
 - **공략은 아이비 하나.** 들러리 둘은 아이비의 부하이고, 라이언이 아이비를 꼬시면 딸려 오는 보너스 첩이다. 매디슨은 사람 퀸카인데, 후반(유료)에 라이언이 아이비와 거래해 살려 주는 대가로 서큐버스가 된다.
 - **종족은 미국 남자 · 오타쿠에게 익숙한 몬스터걸로 가른다.** 아이비 = 죽음의 마녀(리치 여왕) · 들러리 = 좀비 · 늑대인간 · 매디슨 = 서큐버스.
 - **괴물 정도는 비중 따라 다르게 한다.**
-  - 아이비 · 매디슨: 괴물 모습도 존나 예쁘고 쌔끈하게, 사람 몸매 그대로 간다. 장난감 같은 피부색은 쓰지 않는다.
+  - 아이비 · 매디슨: 괴물 모습도 존나 예쁘고 쌔끈하게, 사람 몸매 그대로 간다.
+  - 매디슨 서큐버스 = 반짝이는 핑크 피부 · 하트 동공 · 검은 뿔 · 박쥐 날개 · 하트 꼬리. 옷까지 핑크로 맞추면 장난감처럼 보이니 옷은 핑크를 피한다.
   - 들러리 둘: 몸 일부가 확실히 괴물이다.
   - 얼굴은 넷 다 예쁘게 둔다.
 - **아이비 = 죽은 자를 부리는 죽음의 마녀(리치 여왕).** 판의 주인이라 위압감이 먼저 보여야 한다. 남들 눈엔 시체처럼 차갑게 하얀 피부이고, 어깨 · 쇄골 · 손이 유리처럼 비쳐 안의 금빛 뼈가 보인다. 가슴엔 심장 대신 보석이 빛나고, 머리엔 왕관이 박혀 자라 있고, 눈은 차가운 푸른 불꽃이다. 시체 느낌은 살리되 썩은 느낌은 쓰지 않는다. 초록 계통은 아예 안 쓴다. 좀비 들러리는 아이비가 직접 꿰맨 작품이고, 석상은 하객 영혼을 가둔 그릇이다.
@@ -28,7 +29,7 @@
 | ⑤ | 늑대 들러리 | 칵테일 웨이트리스 · 2화 채플 만찬 | 우는 하객 입에 그 구이를 포크로 들이민다. 뒤에선 식탁이 쩍 갈라져 이빨 달린 아가리가 되고, 하객을 끌어당긴다. |
 | ⑥ | 늑대 들러리 | 바니걸 · 5~6화 연회장 부케 게임 | 문으로 달아난 젊은 남자 하객의 멱살을 한 손으로 잡고 질질 끌고 온다. 남들 눈엔 토끼 귀와 솜꼬리가 진짜 늑대 귀와 꼬리다. |
 | ⑦ | 매디슨 | 링걸 · 후반 카지노 격투장(서큐버스가 된 뒤) | 링 위에서 하객 둘이 억지로 주먹다짐을 한다. 매디슨은 그걸 배경으로 셀카를 찍는다. |
-| ⑧ | 매디슨 | 빨간 수영복 라이프가드 · 후반 호텔 수영장(서큐버스가 된 뒤) | 물에 빠진 하객이 수영장 가장자리를 잡자 발로 그 손을 밀어내고, 호루라기를 불며 깔깔 웃는다. |
+| ⑧ | 매디슨 | 검은 수영복 라이프가드 · 후반 호텔 수영장(서큐버스가 된 뒤) | 물에 빠진 하객이 수영장 가장자리를 잡자 발로 그 손을 밀어내고, 호루라기를 불며 깔깔 웃는다. |
 | ⑨ | 넷 | 남들 눈 단체 · 연회 식탁 | 넷 다 괴물 모습이다. 시계 얹힌 구이, 넘치는 와인, 우는 석상 하객이 있다. |
 | ⑩ | 넷 | 라이언 눈 단체 · ⑨와 같은 구도 | 넷 다 사람 미녀다. 잔인한 장면은 ⑨와 똑같다. |
 
@@ -153,10 +154,10 @@ Her outfit, the same in both halves: a sparkly 1960s Las Vegas ring-girl outfit:
 
 Right half, her true human form: a gorgeous American woman about 25, an airhead rich-girl influencer, fully human. A big glossy blowout of bright, icy platinum blonde hair, huge blank blue eyes, thick lashes, glossy pink lips in a pout.
 
-Left half, her succubus form: the same platinum-blonde airhead, still stunning. Her skin stays flawless and human with a faint luminous glow. Small glossy black horns curve back from her platinum hair, sleek black bat wings fold behind her shoulders, and a thin black tail with a spade tip curls around her leg. Her eyes glow a soft magenta. Glamorous and a little dumb. No pink skin, nothing toy-like.
+Left half, her succubus form: the same platinum-blonde airhead, still stunning. Her skin is glossy bubblegum pink, smooth and flawless, popping against the silver sequins. Small curved glossy black horns rise from her platinum hair, black bat wings spread behind her shoulders, and a slender black tail ending in a heart shape curls around her leg. Her pupils are glowing pink hearts. Playful, glamorous and a little dumb.
 ```
 
-## ⑧ 매디슨 — 빨간 수영복 라이프가드 · 호텔 수영장 (후반 · 서큐버스가 된 뒤)
+## ⑧ 매디슨 — 검은 수영복 라이프가드 · 호텔 수영장 (후반 · 서큐버스가 된 뒤)
 
 ```
 Photorealistic cinematic still from a live-action horror drama, horizontal 16:9 frame. Setting: a lavish 1960s Las Vegas casino-hotel, frozen in time, glowing hot pink and turquoise neon; retro Vegas glamour turned eerie; not gothic, no candles, no fog. Shot on ARRI Alexa, 50mm lens, shallow depth of field, subtle film grain, realistic skin texture. All characters are adults. No text, no watermark.
@@ -165,11 +166,11 @@ A side-by-side diptych in one horizontal frame, split down the middle by a thin 
 
 The scene: the casino-hotel's 1960s indoor swimming pool under a glass dome, glowing turquoise water, pink neon palm trees, the sandstorm swirling outside the glass, white marble statues of swimmers standing around the pool. A panicked wedding guest in a soaked suit struggles in the deep water and grabs the pool edge; she sits on the edge and casually nudges his hand off with her foot, blowing her lifeguard whistle and giggling, her phone in her other hand.
 
-Her outfit, the same in both halves: a retro red one-piece lifeguard swimsuit, a white whistle on a cord, white sunglasses pushed up into her hair, her hair in a high ponytail.
+Her outfit, the same in both halves: a retro black one-piece lifeguard swimsuit, a white whistle on a cord, white sunglasses pushed up into her hair, her hair in a high ponytail.
 
 Right half, her true human form: a gorgeous American woman about 25, an airhead rich-girl influencer, fully human. Bright, icy platinum blonde hair, huge blank blue eyes, thick lashes, glossy pink lips in a pout.
 
-Left half, her succubus form: the same platinum-blonde airhead, still stunning. Her skin stays flawless and human with a faint luminous glow. Small glossy black horns curve back from her platinum hair, sleek black bat wings fold behind her shoulders, and a thin black tail with a spade tip swishes over the water. Her eyes glow a soft magenta. Glamorous and a little dumb. No pink skin, nothing toy-like.
+Left half, her succubus form: the same platinum-blonde airhead, still stunning. Her skin is glossy bubblegum pink, smooth and flawless, popping against the black swimsuit. Small curved glossy black horns rise from her platinum hair, black bat wings spread behind her shoulders, and a slender black tail ending in a heart shape swishes over the water. Her pupils are glowing pink hearts. Playful, glamorous and a little dumb.
 ```
 
 ## ⑨ 단체 — 남들 눈 (넷 다 괴물 모습)
@@ -181,7 +182,7 @@ One single group shot, not a split image. Four cursed women stand together at a 
 Center, the queen of them all: the lich-queen bride in an ivory pearl-and-crystal lace mermaid wedding gown and veil, sitting on the edge of the table, smiling. Her skin is cold and deathly pale like a beautiful corpse; her shoulders, arms and hands are clear as crystal glass with gleaming gold bones inside; a violet jewel glows in her chest where her heart should be; a crown of gold and bone grows from her head into her floating black hair; her eyes burn with cold blue soul fire. Commanding, mysterious and beautiful; no green anywhere.
 Left: the zombie girl in a black butler tailcoat and white gloves, pale lilac-blue skin, neat black stitches at her throat, wrists and cheek, one milky white eye, deadpan, lifting a silver dome to show a glazed roast with a man's gold wristwatch lying on top.
 Right: the werewolf girl in a crimson 1960s cocktail-waitress dress, tall wolf ears, tawny-red fur on her shoulders and arms, furred wolf legs and clawed paws tearing through her fishnets, a bushy tail, pouring red wine into a sobbing guest's glass until it overflows across the table, grinning with long fangs.
-Far right: the platinum-blonde succubus in a silver sequined ring-girl outfit, small black horns, black bat wings spread, a spade-tipped tail, glowing magenta eyes, giggling as she takes a selfie with a crying marble-statue guest.
+Far right: the platinum-blonde succubus in a silver sequined ring-girl outfit, glossy bubblegum-pink skin, small black horns, black bat wings spread, a heart-tipped tail, glowing pink heart-shaped pupils, giggling as she takes a selfie with a crying marble-statue guest.
 Beautiful and monstrous at once.
 ```
 
