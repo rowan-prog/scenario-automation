@@ -13,6 +13,7 @@
   - 매디슨 서큐버스 = 반짝이는 핑크 피부 · 하트 동공 · 검은 뿔 · 박쥐 날개 · 하트 꼬리. 옷까지 핑크로 맞추면 장난감처럼 보이니 옷은 핑크를 피한다.
   - 들러리 둘: 몸 일부가 확실히 괴물이다.
   - 얼굴은 넷 다 예쁘게 둔다.
+- **넷 다 스무 살 언저리 젊은 미녀다.** 나이 들어 보이면 안 된다. 매디슨은 캠퍼스 최고 핫걸이자 퀸카인 21살 여대생이고, 몸매는 쭉빵이다.
 - **피부색은 넷이 안 겹치게 간다.** 아이비는 시체처럼 하얀색, 좀비 들러리는 보랏빛, 매디슨은 핑크, 늑대 들러리는 적갈색 털이다.
 - **옷 색은 자기 피부 · 털 색과 겹치지 않게, 넷끼리도 겹치지 않게 간다.** 검정 · 흰색만 돌려 입히면 단조롭다.
 - **아이비 = 죽은 자를 부리는 죽음의 마녀(리치 여왕).** 판의 주인이라 위압감이 먼저 보여야 한다. 남들 눈엔 시체처럼 차갑게 하얀 피부이고, 어깨 · 쇄골 · 손이 유리처럼 비쳐 안의 금빛 뼈가 보인다. 가슴엔 심장 대신 보석이 빛나고, 머리엔 왕관이 박혀 자라 있고, 눈은 차가운 푸른 불꽃이다. 시체 느낌은 살리되 썩은 느낌은 쓰지 않는다. 초록 계통은 아예 안 쓴다. 좀비 들러리는 아이비가 직접 꿰맨 작품이고, 석상은 하객 영혼을 가둔 그릇이다.
@@ -50,7 +51,7 @@
 ## ① 아이비 — 웨딩드레스 · 채플 결혼식 (1~4화)
 
 ```
-Photorealistic cinematic still from a live-action horror drama, horizontal 16:9 frame. Setting: a lavish 1960s Las Vegas casino-hotel built like a Greek temple, frozen in time: white marble columns and statues, gold trim, red carpet, glowing hot pink and turquoise neon, a desert sandstorm glowing outside the windows. Retro Vegas glamour turned eerie; not gothic, no candles, no fog. Shot on ARRI Alexa, 50mm lens, shallow depth of field, subtle film grain, realistic skin texture. All characters are adults. No text, no watermark.
+Photorealistic cinematic still from a live-action horror drama, horizontal 16:9 frame. Setting: a lavish 1960s Las Vegas casino-hotel built like a Greek temple, frozen in time: white marble columns and statues, gold trim, red carpet, glowing hot pink and turquoise neon, a desert sandstorm glowing outside the windows. Retro Vegas glamour turned eerie; not gothic, no candles, no fog. Shot on ARRI Alexa, 50mm lens, shallow depth of field, subtle film grain, soft flattering beauty lighting, flawless youthful skin. All characters are adults; the women are gorgeous young women around 20 to 22. No text, no watermark.
 
 A side-by-side diptych in one horizontal frame, split down the middle by a thin clean line. Both halves show the same moment from the same camera angle: the same woman, same face, same gown, same pose, same background. Only her appearance changes. Left half: what the terrified wedding guests see, her cursed lich-queen form. Right half: what one man sees, her true human form.
 
@@ -58,15 +59,15 @@ The scene: the altar of the casino's wedding chapel, white marble columns under 
 
 Her gown, the same in both halves: an exquisite fitted mermaid wedding gown in ivory silk and French lace, flaring below the knee into a long cathedral train of silk organza. The sheer lace bodice is hand-embroidered with tiny pearls and crystal beads in a delicate filigree pattern, with a sweetheart neckline. Long sheer lace sleeves end in points over the backs of her hands. The back opens in a deep V framed by scalloped lace. A cathedral-length veil is held by a fine gold comb shaped like a small crown.
 
-Right half, her true human form: a breathtakingly beautiful woman in her mid-twenties with Western features, fully human, a timeless ethereal beauty that looks lit from within. Long glossy jet-black hair down to her waist, luminous fair skin, rare amber-gold eyes, natural rose lips, slender and elegant.
+Right half, her true human form: a breathtakingly beautiful young woman of about 21 with Western features, fully human, a timeless ethereal beauty that looks lit from within. Long glossy jet-black hair down to her waist, luminous fair skin, rare amber-gold eyes, natural rose lips, slender and elegant.
 
-Left half, her lich-queen form: a queen of the dead and the most powerful witch in the room, with the same breathtaking face and figure, commanding and mysterious rather than hideous. Her skin is cold and deathly pale like a beautiful corpse, with faint cold-blue shadows under her eyes and pale, cold lips. On her shoulders, collarbone, arms and hands the skin turns clear as crystal glass, revealing delicate bones of gleaming gold inside, with threads of soft light running through them like veins. Through the lace of her bodice, a jewel glows icy blue in the center of her chest where her heart should be. A crown of gold and pale bone grows out of her head, fused into her long black hair, which drifts slowly upward as if underwater. Her eyes burn with cold blue-white soul fire, and wisps of ghostly blue light curl around her fingers. A beautiful corpse, not rotting: the glass skin is smooth and luminous, the gold bones look like fine jewelry, and she is still the most beautiful woman in the room. Palette: corpse-pale porcelain, crystal, gold and icy blue against ivory; no green anywhere.
+Left half, her lich-queen form: a queen of the dead and the most powerful witch in the room, with the same breathtaking face and figure, commanding and mysterious rather than hideous. Her skin is cold and deathly pale like a beautiful corpse, with a flawless youthful face and pale, cold lips. On her shoulders, collarbone, arms and hands the skin turns clear as crystal glass, revealing delicate bones of gleaming gold inside, with threads of soft light running through them like veins. Through the lace of her bodice, a jewel glows icy blue in the center of her chest where her heart should be. A crown of gold and pale bone grows out of her head, fused into her long black hair, which drifts slowly upward as if underwater. Her eyes burn with cold blue-white soul fire, and wisps of ghostly blue light curl around her fingers. A beautiful corpse, not rotting: the glass skin is smooth and luminous, the gold bones look like fine jewelry, and she is still the most beautiful woman in the room. Palette: corpse-pale porcelain, crystal, gold and icy blue against ivory; no green anywhere.
 ```
 
 ## ② 아이비 — 검은 코르셋 쇼걸 · 쇼 무대 (8화에서 갈아입던 옷 · 후반)
 
 ```
-Photorealistic cinematic still from a live-action horror drama, horizontal 16:9 frame. Setting: a lavish 1960s Las Vegas casino-hotel built like a Greek temple, frozen in time: white marble columns and statues, gold trim, red carpet, glowing hot pink and turquoise neon. Retro Vegas glamour turned eerie; not gothic, no candles, no fog. Shot on ARRI Alexa, 50mm lens, shallow depth of field, subtle film grain, realistic skin texture. All characters are adults. No text, no watermark.
+Photorealistic cinematic still from a live-action horror drama, horizontal 16:9 frame. Setting: a lavish 1960s Las Vegas casino-hotel built like a Greek temple, frozen in time: white marble columns and statues, gold trim, red carpet, glowing hot pink and turquoise neon. Retro Vegas glamour turned eerie; not gothic, no candles, no fog. Shot on ARRI Alexa, 50mm lens, shallow depth of field, subtle film grain, soft flattering beauty lighting, flawless youthful skin. All characters are adults; the women are gorgeous young women around 20 to 22. No text, no watermark.
 
 A side-by-side diptych in one horizontal frame, split down the middle by a thin clean line. Both halves show the same moment from the same camera angle: the same woman, same face, same costume, same pose, same background. Only her appearance changes. Left half: what the terrified wedding guests see, her cursed lich-queen form. Right half: what one man sees, her true human form.
 
@@ -74,15 +75,15 @@ The scene: the main showroom stage of the casino, a curved staircase lined with 
 
 Her costume, the same in both halves: a 1960s Las Vegas headliner's black satin corset gown covered in black crystals, with a high leg slit, black lace gloves, black crystal drop earrings, and a towering headdress of black ostrich feathers and black crystals.
 
-Right half, her true human form: a breathtakingly beautiful woman in her mid-twenties with Western features, fully human, a timeless ethereal beauty. Long glossy jet-black hair falling from under the headdress, luminous fair skin, rare amber-gold eyes, natural rose lips.
+Right half, her true human form: a breathtakingly beautiful young woman of about 21 with Western features, fully human, a timeless ethereal beauty. Long glossy jet-black hair falling from under the headdress, luminous fair skin, rare amber-gold eyes, natural rose lips.
 
-Left half, her lich-queen form: a queen of the dead and the most powerful witch in the room, with the same breathtaking face and figure, commanding and mysterious rather than hideous. Her skin is cold and deathly pale like a beautiful corpse, with faint cold-blue shadows under her eyes and pale, cold lips. On her shoulders, collarbone, arms and hands the skin turns clear as crystal glass, revealing delicate bones of gleaming gold inside, with threads of soft light running through them like veins. A jewel glows icy blue in the center of her chest where her heart should be. A crown of gold and pale bone grows out of her head and rises up through the black feathers of her headdress, and her long black hair drifts slowly upward as if underwater. Her eyes burn with cold blue-white soul fire under the spotlights, and wisps of ghostly blue light curl around her fingers. A beautiful corpse, not rotting: the glass skin is smooth and luminous, the gold bones look like fine jewelry. Palette: corpse-pale porcelain, crystal, gold and icy blue against black; no green anywhere.
+Left half, her lich-queen form: a queen of the dead and the most powerful witch in the room, with the same breathtaking face and figure, commanding and mysterious rather than hideous. Her skin is cold and deathly pale like a beautiful corpse, with a flawless youthful face and pale, cold lips. On her shoulders, collarbone, arms and hands the skin turns clear as crystal glass, revealing delicate bones of gleaming gold inside, with threads of soft light running through them like veins. A jewel glows icy blue in the center of her chest where her heart should be. A crown of gold and pale bone grows out of her head and rises up through the black feathers of her headdress, and her long black hair drifts slowly upward as if underwater. Her eyes burn with cold blue-white soul fire under the spotlights, and wisps of ghostly blue light curl around her fingers. A beautiful corpse, not rotting: the glass skin is smooth and luminous, the gold bones look like fine jewelry. Palette: corpse-pale porcelain, crystal, gold and icy blue against black; no green anywhere.
 ```
 
 ## ③ 좀비 들러리 — 메이드복 · 채플 만찬 은쟁반 (1화)
 
 ```
-Photorealistic cinematic still from a live-action horror drama, horizontal 16:9 frame. Setting: a lavish 1960s Las Vegas casino-hotel built like a Greek temple, frozen in time: white marble columns and statues, gold trim, red carpet, glowing hot pink and turquoise neon. Retro Vegas glamour turned eerie; not gothic, no candles, no fog. Shot on ARRI Alexa, 50mm lens, shallow depth of field, subtle film grain, realistic skin texture. All characters are adults. No text, no watermark.
+Photorealistic cinematic still from a live-action horror drama, horizontal 16:9 frame. Setting: a lavish 1960s Las Vegas casino-hotel built like a Greek temple, frozen in time: white marble columns and statues, gold trim, red carpet, glowing hot pink and turquoise neon. Retro Vegas glamour turned eerie; not gothic, no candles, no fog. Shot on ARRI Alexa, 50mm lens, shallow depth of field, subtle film grain, soft flattering beauty lighting, flawless youthful skin. All characters are adults; the women are gorgeous young women around 20 to 22. No text, no watermark.
 
 A side-by-side diptych in one horizontal frame, split down the middle by a thin clean line. Both halves show the same moment from the same camera angle: the same woman, same face, same uniform, same pose, same background. Only her appearance changes. Left half: what the terrified wedding guests see, her cursed zombie form. Right half: what one man sees, her true human form.
 
@@ -90,7 +91,7 @@ The scene: a long wedding dinner table inside the casino's wedding chapel, set w
 
 Her outfit, the same in both halves: a classic French maid uniform with 1960s Las Vegas flair: a fitted black satin mini dress with short puffed sleeves, a frilly white lace apron tied in a big bow at the back, a white lace headband with black ribbons, a black velvet choker with a small silver bell, white stockings, black Mary Jane heels and white lace gloves.
 
-Right half, her true human form: a stunning woman in her early twenties with Western features, fully human. Tall and slim, sleek straight chestnut-brown hair pulled back tight, pale blue eyes, a calm, unreadable, deadpan face.
+Right half, her true human form: a stunning young woman of about 20 with Western features and a fresh, youthful face, fully human. Tall and slim, sleek straight chestnut-brown hair pulled back tight, pale blue eyes, a calm, unreadable, deadpan face.
 
 Left half, her zombie form: the same beautiful face and slim figure, a zombie girl stitched together from more than one body. Her skin is a soft lavender-violet, clearly purple and not pale white, smooth like porcelain. Neat black stitches circle her throat above her open collar, ring both wrists at the edges of her gloves, and run from one corner of her mouth up across her cheek. One eye is a clear icy blue, the other milky white with a faint glow. Blue-black lips. Not rotting, no gore: elegant and eerie, like a high-fashion zombie.
 ```
@@ -98,7 +99,7 @@ Left half, her zombie form: the same beautiful face and slim figure, a zombie gi
 ## ④ 좀비 들러리 — 간호사 · 호텔 의무실 (후반)
 
 ```
-Photorealistic cinematic still from a live-action horror drama, horizontal 16:9 frame. Setting: a lavish 1960s Las Vegas casino-hotel, frozen in time, retro Vegas glamour turned eerie; not gothic, no candles, no fog. Shot on ARRI Alexa, 50mm lens, shallow depth of field, subtle film grain, realistic skin texture. All characters are adults. No text, no watermark.
+Photorealistic cinematic still from a live-action horror drama, horizontal 16:9 frame. Setting: a lavish 1960s Las Vegas casino-hotel, frozen in time, retro Vegas glamour turned eerie; not gothic, no candles, no fog. Shot on ARRI Alexa, 50mm lens, shallow depth of field, subtle film grain, soft flattering beauty lighting, flawless youthful skin. All characters are adults; the women are gorgeous young women around 20 to 22. No text, no watermark.
 
 A side-by-side diptych in one horizontal frame, split down the middle by a thin clean line. Both halves show the same moment from the same camera angle: the same woman, same face, same uniform, same pose, same background. Only her appearance changes. Left half: what the terrified wedding guests see, her cursed zombie form. Right half: what one man sees, her true human form.
 
@@ -106,7 +107,7 @@ The scene: the casino-hotel's 1960s first-aid room, white tile walls, a chrome t
 
 Her outfit, the same in both halves: a fitted 1960s white nurse dress buttoned down the front with a belt at the waist, a white nurse cap with a small red cross, white stockings, white heels, and a spool of black thread clipped to her chest pocket.
 
-Right half, her true human form: a stunning woman in her early twenties with Western features, fully human. Tall and slim, sleek straight chestnut-brown hair pulled back under the cap, pale blue eyes, a calm, unreadable, deadpan face.
+Right half, her true human form: a stunning young woman of about 20 with Western features and a fresh, youthful face, fully human. Tall and slim, sleek straight chestnut-brown hair pulled back under the cap, pale blue eyes, a calm, unreadable, deadpan face.
 
 Left half, her zombie form: the same beautiful face and slim figure, a zombie girl stitched together from more than one body. Her skin is a soft lavender-violet, clearly purple and not pale white, smooth like porcelain. Neat black stitches, the same black thread she is holding, circle her throat, ring both wrists, and run from one corner of her mouth up across her cheek. One eye is a clear icy blue, the other milky white with a faint glow. Blue-black lips. Not rotting, no gore: elegant and eerie.
 ```
@@ -114,7 +115,7 @@ Left half, her zombie form: the same beautiful face and slim figure, a zombie gi
 ## ⑤ 늑대 들러리 — 칵테일 웨이트리스 · 채플 만찬 (2화)
 
 ```
-Photorealistic cinematic still from a live-action horror drama, horizontal 16:9 frame. Setting: a lavish 1960s Las Vegas casino-hotel built like a Greek temple, frozen in time: white marble columns and statues, gold trim, red carpet, glowing hot pink and turquoise neon. Retro Vegas glamour turned eerie; not gothic, no candles, no fog. Shot on ARRI Alexa, 50mm lens, shallow depth of field, subtle film grain, realistic skin texture. All characters are adults. No text, no watermark.
+Photorealistic cinematic still from a live-action horror drama, horizontal 16:9 frame. Setting: a lavish 1960s Las Vegas casino-hotel built like a Greek temple, frozen in time: white marble columns and statues, gold trim, red carpet, glowing hot pink and turquoise neon. Retro Vegas glamour turned eerie; not gothic, no candles, no fog. Shot on ARRI Alexa, 50mm lens, shallow depth of field, subtle film grain, soft flattering beauty lighting, flawless youthful skin. All characters are adults; the women are gorgeous young women around 20 to 22. No text, no watermark.
 
 A side-by-side diptych in one horizontal frame, split down the middle by a thin clean line. Both halves show the same moment from the same camera angle: the same woman, same face, same uniform, same pose, same background. Only her appearance changes. Left half: what the terrified wedding guests see, her cursed werewolf form. Right half: what one man sees, her true human form.
 
@@ -122,7 +123,7 @@ The scene: the long wedding dinner table inside the casino's wedding chapel. She
 
 Her outfit, the same in both halves: a classic 1960s Las Vegas cocktail waitress uniform: a cobalt-blue satin mini dress with a flared skirt and white piping, a tiny white lace apron, black fishnet stockings, black heels, a small gold name pin and a cobalt-blue bow in her copper-red hair.
 
-Right half, her true human form: a stunning woman in her early twenties with Western features, fully human. Petite and athletic, long wild copper-red hair, green eyes, light freckles, a wild, teasing grin.
+Right half, her true human form: a stunning young woman of about 20 with Western features and a fresh, youthful face, fully human. Petite and athletic, long wild copper-red hair, green eyes, light freckles, a wild, teasing grin.
 
 Left half, her werewolf form: the same pretty face, a werewolf girl with a beast's body. Tall furry wolf ears rise from her copper-red hair. Thick tawny-red fur grows over her shoulders and down her arms from the elbows to big clawed hands. Her legs are furred, backward-bending wolf legs tearing through her fishnets and ending in clawed paws instead of heels. A big bushy wolf tail sweeps out under her skirt. Her eyes glow bright amber and her grin shows long fangs.
 ```
@@ -130,7 +131,7 @@ Left half, her werewolf form: the same pretty face, a werewolf girl with a beast
 ## ⑥ 늑대 들러리 — 바니걸 · 연회장 부케 게임 (5~6화)
 
 ```
-Photorealistic cinematic still from a live-action horror drama, horizontal 16:9 frame. Setting: a lavish 1960s Las Vegas casino-hotel built like a Greek temple, frozen in time: white marble columns and statues, gold trim, red carpet, rows of vintage slot machines, glowing hot pink and turquoise neon. Retro Vegas glamour turned eerie; not gothic, no candles, no fog. Shot on ARRI Alexa, 50mm lens, shallow depth of field, subtle film grain, realistic skin texture. All characters are adults. No text, no watermark.
+Photorealistic cinematic still from a live-action horror drama, horizontal 16:9 frame. Setting: a lavish 1960s Las Vegas casino-hotel built like a Greek temple, frozen in time: white marble columns and statues, gold trim, red carpet, rows of vintage slot machines, glowing hot pink and turquoise neon. Retro Vegas glamour turned eerie; not gothic, no candles, no fog. Shot on ARRI Alexa, 50mm lens, shallow depth of field, subtle film grain, soft flattering beauty lighting, flawless youthful skin. All characters are adults; the women are gorgeous young women around 20 to 22. No text, no watermark.
 
 A side-by-side diptych in one horizontal frame, split down the middle by a thin clean line. Both halves show the same moment from the same camera angle: the same woman, same face, same costume, same pose, same background. Only her appearance changes. Left half: what the terrified wedding guests see, her cursed werewolf form. Right half: what one man sees, her true human form.
 
@@ -138,7 +139,7 @@ The scene: the casino showroom set for a wedding banquet, a small stage hung wit
 
 Her costume, the same in both halves: a classic 1960s casino bunny costume in glossy white satin trimmed with gold, with a white bunny-ear headband, a white collar with a gold bow tie, white cuffs with gold cufflinks, pale tights, white heels and a fluffy white cotton tail.
 
-Right half, her true human form: a stunning woman in her early twenties with Western features, fully human. Petite and athletic, long wild copper-red hair, green eyes, light freckles, a wild, teasing grin.
+Right half, her true human form: a stunning young woman of about 20 with Western features and a fresh, youthful face, fully human. Petite and athletic, long wild copper-red hair, green eyes, light freckles, a wild, teasing grin.
 
 Left half, her werewolf form: the same pretty face. The bunny ears are now tall, furry wolf ears growing from her head, and the cotton tail is now a big bushy wolf tail. Tawny-red fur grows over her shoulders and down her arms to the clawed hand gripping his collar. Her legs are furred, backward-bending wolf legs tearing through her tights and ending in clawed paws instead of heels. Her eyes glow bright amber and her grin shows long fangs.
 ```
@@ -146,7 +147,7 @@ Left half, her werewolf form: the same pretty face. The bunny ears are now tall,
 ## ⑦ 매디슨 — 링걸 · 카지노 격투장 (후반 · 서큐버스가 된 뒤)
 
 ```
-Photorealistic cinematic still from a live-action horror drama, horizontal 16:9 frame. Setting: a lavish 1960s Las Vegas casino-hotel, frozen in time, glowing hot pink and turquoise neon; retro Vegas glamour turned eerie; not gothic, no candles, no fog. Shot on ARRI Alexa, 50mm lens, shallow depth of field, subtle film grain, realistic skin texture. All characters are adults. No text, no watermark.
+Photorealistic cinematic still from a live-action horror drama, horizontal 16:9 frame. Setting: a lavish 1960s Las Vegas casino-hotel, frozen in time, glowing hot pink and turquoise neon; retro Vegas glamour turned eerie; not gothic, no candles, no fog. Shot on ARRI Alexa, 50mm lens, shallow depth of field, subtle film grain, soft flattering beauty lighting, flawless youthful skin. All characters are adults; the women are gorgeous young women around 20 to 22. No text, no watermark.
 
 A side-by-side diptych in one horizontal frame, split down the middle by a thin clean line. Both halves show the same moment from the same camera angle: the same woman, same face, same outfit, same pose, same background. Only her appearance changes. Left half: what the terrified wedding guests see, her cursed succubus form. Right half: what one man sees, her true human form.
 
@@ -154,15 +155,15 @@ The scene: the casino's old fight hall, a boxing ring under hot spotlights, the 
 
 Her outfit, the same in both halves: a sparkly 1960s Las Vegas ring-girl outfit: a silver sequined top, high-waisted silver sequined shorts, clear platform heels, diamond stud earrings, her phone in one hand.
 
-Right half, her true human form: a gorgeous American woman about 25, an airhead rich-girl influencer, fully human. A big glossy blowout of bright, icy platinum blonde hair, huge blank blue eyes, thick lashes, glossy pink lips in a pout.
+Right half, her true human form: a gorgeous 21-year-old American college girl, the sorority queen bee and the hottest girl on campus, a ditzy party girl, fully human. A youthful baby face, long silky bright platinum-blonde hair, big sparkling blue eyes, thick lashes, glossy pink lips in a playful pout, and a curvy figure with a tiny waist.
 
-Left half, her succubus form: the same platinum-blonde airhead, still stunning. Her skin is glossy bubblegum pink, smooth and flawless, popping against the silver sequins. Small curved glossy black horns rise from her platinum hair, black bat wings spread behind her shoulders, and a slender black tail ending in a heart shape curls around her leg. Her pupils are glowing pink hearts. Playful, glamorous and a little dumb.
+Left half, her succubus form: the same platinum-blonde college girl, still stunning and youthful. Her skin is glossy bubblegum pink, smooth and flawless, popping against the silver sequins. Small curved glossy black horns rise from her platinum hair, black bat wings spread behind her shoulders, and a slender black tail ending in a heart shape curls around her leg. Her pupils are glowing pink hearts. Playful, glamorous and a little dumb.
 ```
 
 ## ⑧ 매디슨 — 검은 수영복 라이프가드 · 호텔 수영장 (후반 · 서큐버스가 된 뒤)
 
 ```
-Photorealistic cinematic still from a live-action horror drama, horizontal 16:9 frame. Setting: a lavish 1960s Las Vegas casino-hotel, frozen in time, glowing hot pink and turquoise neon; retro Vegas glamour turned eerie; not gothic, no candles, no fog. Shot on ARRI Alexa, 50mm lens, shallow depth of field, subtle film grain, realistic skin texture. All characters are adults. No text, no watermark.
+Photorealistic cinematic still from a live-action horror drama, horizontal 16:9 frame. Setting: a lavish 1960s Las Vegas casino-hotel, frozen in time, glowing hot pink and turquoise neon; retro Vegas glamour turned eerie; not gothic, no candles, no fog. Shot on ARRI Alexa, 50mm lens, shallow depth of field, subtle film grain, soft flattering beauty lighting, flawless youthful skin. All characters are adults; the women are gorgeous young women around 20 to 22. No text, no watermark.
 
 A side-by-side diptych in one horizontal frame, split down the middle by a thin clean line. Both halves show the same moment from the same camera angle: the same woman, same face, same swimsuit, same pose, same background. Only her appearance changes. Left half: what the terrified wedding guests see, her cursed succubus form. Right half: what one man sees, her true human form.
 
@@ -170,34 +171,34 @@ The scene: the casino-hotel's 1960s indoor swimming pool under a glass dome, glo
 
 Her outfit, the same in both halves: a retro black one-piece lifeguard swimsuit, a white whistle on a cord, white sunglasses pushed up into her hair, her hair in a high ponytail.
 
-Right half, her true human form: a gorgeous American woman about 25, an airhead rich-girl influencer, fully human. Bright, icy platinum blonde hair, huge blank blue eyes, thick lashes, glossy pink lips in a pout.
+Right half, her true human form: a gorgeous 21-year-old American college girl, the sorority queen bee and the hottest girl on campus, a ditzy party girl, fully human. A youthful baby face, long silky bright platinum-blonde hair, big sparkling blue eyes, thick lashes, glossy pink lips in a playful pout, and a curvy figure with a tiny waist.
 
-Left half, her succubus form: the same platinum-blonde airhead, still stunning. Her skin is glossy bubblegum pink, smooth and flawless, popping against the black swimsuit. Small curved glossy black horns rise from her platinum hair, black bat wings spread behind her shoulders, and a slender black tail ending in a heart shape swishes over the water. Her pupils are glowing pink hearts. Playful, glamorous and a little dumb.
+Left half, her succubus form: the same platinum-blonde college girl, still stunning and youthful. Her skin is glossy bubblegum pink, smooth and flawless, popping against the black swimsuit. Small curved glossy black horns rise from her platinum hair, black bat wings spread behind her shoulders, and a slender black tail ending in a heart shape swishes over the water. Her pupils are glowing pink hearts. Playful, glamorous and a little dumb.
 ```
 
 ## ⑨ 단체 — 남들 눈 (넷 다 괴물 모습)
 
 ```
-Photorealistic cinematic still from a live-action horror drama, horizontal 16:9 frame, wide shot. Setting: the showroom of a lavish 1960s Las Vegas casino-hotel built like a Greek temple, frozen in time: white marble columns and statues, gold trim, red carpet, glowing hot pink and turquoise neon. Retro Vegas glamour turned eerie; not gothic, no candles, no fog. Shot on ARRI Alexa, 35mm lens, subtle film grain, realistic skin texture. All characters are adults. No text, no watermark.
+Photorealistic cinematic still from a live-action horror drama, horizontal 16:9 frame, wide shot. Setting: the showroom of a lavish 1960s Las Vegas casino-hotel built like a Greek temple, frozen in time: white marble columns and statues, gold trim, red carpet, glowing hot pink and turquoise neon. Retro Vegas glamour turned eerie; not gothic, no candles, no fog. Shot on ARRI Alexa, 35mm lens, subtle film grain, soft flattering beauty lighting, flawless youthful skin. All characters are adults; the women are gorgeous young women around 20 to 22. No text, no watermark.
 
 One single group shot, not a split image. Four cursed women stand together at a long wedding banquet table, as the terrified guests see them. Frightened guests in modern clothes sit at the table, and some chairs hold white marble statues of guests whose real eyes are crying. All four women look straight at the camera.
 Center, the queen of them all: the lich-queen bride in an ivory pearl-and-crystal lace mermaid wedding gown and veil, sitting on the edge of the table, smiling. Her skin is cold and deathly pale like a beautiful corpse; her shoulders, arms and hands are clear as crystal glass with gleaming gold bones inside; an icy-blue jewel glows in her chest where her heart should be; a crown of gold and bone grows from her head into her floating black hair; her eyes burn with cold blue soul fire. Commanding, mysterious and beautiful; no green anywhere.
 Left: the zombie girl in a black-and-white French maid uniform with a frilly lace apron and headband, soft lavender-violet skin, neat black stitches at her throat, wrists and cheek, one milky white eye, deadpan, lifting a silver dome to show a glazed roast with a man's gold wristwatch lying on top.
 Right: the werewolf girl in a cobalt-blue 1960s cocktail-waitress dress, tall wolf ears, tawny-red fur on her shoulders and arms, furred wolf legs and clawed paws tearing through her fishnets, a bushy tail, pouring red wine into a sobbing guest's glass until it overflows across the table, grinning with long fangs.
-Far right: the platinum-blonde succubus in a silver sequined ring-girl outfit, glossy bubblegum-pink skin, small black horns, black bat wings spread, a heart-tipped tail, glowing pink heart-shaped pupils, giggling as she takes a selfie with a crying marble-statue guest.
+Far right: the platinum-blonde college-girl succubus in a silver sequined ring-girl outfit, glossy bubblegum-pink skin, small black horns, black bat wings spread, a heart-tipped tail, glowing pink heart-shaped pupils, giggling as she takes a selfie with a crying marble-statue guest.
 Beautiful and monstrous at once.
 ```
 
 ## ⑩ 단체 — 라이언 눈 (넷 다 사람 미녀 · ⑨와 같은 구도)
 
 ```
-Photorealistic cinematic still from a live-action horror drama, horizontal 16:9 frame, wide shot. Setting: the showroom of a lavish 1960s Las Vegas casino-hotel built like a Greek temple, frozen in time: white marble columns and statues, gold trim, red carpet, glowing hot pink and turquoise neon. Retro Vegas glamour turned eerie; not gothic, no candles, no fog. Shot on ARRI Alexa, 35mm lens, subtle film grain, realistic skin texture. All characters are adults. No text, no watermark.
+Photorealistic cinematic still from a live-action horror drama, horizontal 16:9 frame, wide shot. Setting: the showroom of a lavish 1960s Las Vegas casino-hotel built like a Greek temple, frozen in time: white marble columns and statues, gold trim, red carpet, glowing hot pink and turquoise neon. Retro Vegas glamour turned eerie; not gothic, no candles, no fog. Shot on ARRI Alexa, 35mm lens, subtle film grain, soft flattering beauty lighting, flawless youthful skin. All characters are adults; the women are gorgeous young women around 20 to 22. No text, no watermark.
 
 One single group shot, not a split image. Four stunning women stand together at a long wedding banquet table, fully human, with no monster features at all. Frightened guests in modern clothes sit at the table, and some chairs hold white marble statues of guests whose real eyes are crying. All four women look straight at the camera.
-Center: the bride in an ivory pearl-and-crystal lace mermaid wedding gown with a long veil held by a gold crown-shaped comb, sitting on the edge of the table, smiling. Mid-twenties, a timeless ethereal beauty, long glossy jet-black hair, luminous fair skin, amber-gold eyes, rose lips.
-Left: a tall, slim woman in her early twenties in a black-and-white French maid uniform with a frilly lace apron and headband, sleek chestnut-brown hair pulled back tight, pale blue eyes, deadpan, lifting a silver dome to show a glazed roast with a man's gold wristwatch lying on top.
-Right: a petite woman in her early twenties in a cobalt-blue 1960s cocktail-waitress dress with a tiny lace apron and fishnets, long wild copper-red hair, green eyes, freckles, pouring red wine into a sobbing guest's glass until it overflows across the table, grinning.
-Far right: a platinum-blonde airhead rich girl, about 25, in a silver sequined ring-girl outfit, huge blank blue eyes, glossy pink pout, giggling as she takes a selfie with a crying marble-statue guest.
+Center: the bride in an ivory pearl-and-crystal lace mermaid wedding gown with a long veil held by a gold crown-shaped comb, sitting on the edge of the table, smiling. About 21, a timeless ethereal beauty with a youthful face, long glossy jet-black hair, luminous fair skin, amber-gold eyes, rose lips.
+Left: a tall, slim young woman of about 20 in a black-and-white French maid uniform with a frilly lace apron and headband, sleek chestnut-brown hair pulled back tight, pale blue eyes, deadpan, lifting a silver dome to show a glazed roast with a man's gold wristwatch lying on top.
+Right: a petite young woman of about 20 in a cobalt-blue 1960s cocktail-waitress dress with a tiny lace apron and fishnets, long wild copper-red hair, green eyes, freckles, pouring red wine into a sobbing guest's glass until it overflows across the table, grinning.
+Far right: a 21-year-old platinum-blonde college queen bee with a youthful baby face and a curvy figure, in a silver sequined ring-girl outfit, big sparkling blue eyes, glossy pink pout, giggling as she takes a selfie with a crying marble-statue guest.
 The eerie scene around them is the same as what the guests see; only the women look human and impossibly beautiful.
 ```
 
