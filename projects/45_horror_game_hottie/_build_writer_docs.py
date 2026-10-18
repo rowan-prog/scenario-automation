@@ -82,9 +82,10 @@ def add_image(d, path, caption):
     p.paragraph_format.space_before = Pt(6)
     p.paragraph_format.space_after = Pt(2)
     p.paragraph_format.keep_with_next = True
+    p.paragraph_format.line_spacing = 1.0
     run = p.add_run()
     if w >= h:
-        run.add_picture(path, width=Cm(15.5))
+        run.add_picture(path, width=Cm(14))
     else:
         run.add_picture(path, height=Cm(16.5))
     add(d, caption, size=8.5, color=LGRAY, after=8, align=WD_ALIGN_PARAGRAPH.CENTER)
