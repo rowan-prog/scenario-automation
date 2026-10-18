@@ -35,9 +35,9 @@ AI실사 (Live-action)
 
 AI真人 (Live-action)
 #FILL 10
-Bilibili 〈Horror Game: She's a Monster, I See a Hottie〉(51화)
+NetShort 〈Horror Game: She's a Monster, I See a Hottie〉(51화)
 
-Bilibili《Horror Game: She's a Monster, I See a Hottie》（51集）
+NetShort《Horror Game: She's a Monster, I See a Hottie》（51集）
 #FILL 12
 뻔뻔한 청년 라이언 헤일(Ryan Hale)은 신랑 이름 칸이 빈 청첩장을 받고 잠들었다가, 60년 전 모래폭풍 속에 통째로 사라진 라스베이거스(Las Vegas) 블랙웰 카지노(Blackwell Casino)의 결혼식장에서 눈을 뜬다. 신부 아이비 그레이(Ivy Gray)가 하객 남자들 가운데서 신랑을 고를 때까지 아무도 못 나간다. 하객들 눈엔 괴물인 죽음의 마녀(Death Witch) 아이비가 라이언 눈에만 미녀로 보이고, 라이언 눈앞에만 호감도를 100까지 채우면 탈출하는 신부 공략 시스템(Bride Conquest System)이 뜬다.
 
@@ -245,6 +245,6 @@ Bilibili《Horror Game: She's a Monster, I See a Hottie》（51集）
 한국어: 1~8화 무료회차
 中文: 第1~8集免费集
 #FILL 50
-레퍼런스 원작 〈Horror Game: She's a Monster, I See a Hottie〉 전편 (Bilibili · 51화) + 원작 정식대본 중문판 첨부 — Horror Game_ She's a Monster, I See a Hottie.原作剧本_CN.docx (원작 이름 그대로 둔 참고용)
+레퍼런스 원작 〈Horror Game: She's a Monster, I See a Hottie〉 전편 (NetShort · 51화) + 원작 정식대본 중문판 첨부 — Horror Game_ She's a Monster, I See a Hottie.原作剧本_CN.docx (원작 이름 그대로 둔 참고용)
 
-参考原作《Horror Game: She's a Monster, I See a Hottie》全集（Bilibili · 51集）+ 附原作整理剧本中文版 —— Horror Game_ She's a Monster, I See a Hottie.原作剧本_CN.docx（保留原作人物名，仅供参考）
+参考原作《Horror Game: She's a Monster, I See a Hottie》全集（NetShort · 51集）+ 附原作整理剧本中文版 —— Horror Game_ She's a Monster, I See a Hottie.原作剧本_CN.docx（保留原作人物名，仅供参考）

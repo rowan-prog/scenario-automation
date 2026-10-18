@@ -7,7 +7,7 @@
 **制作形式** AI真人
 **集数** 共50集 · 免费第1~8集（原作第1~8集）
 **时长** 全剧目标60分钟
-**主要参考作品** Bilibili <Horror Game: She's a Monster, I See a Hottie>（51集）— 附原作整理剧本（中文）
+**主要参考作品** NetShort <Horror Game: She's a Monster, I See a Hottie>（51集）— 附原作整理剧本（中文）
 
 ## 一句话梗概
 

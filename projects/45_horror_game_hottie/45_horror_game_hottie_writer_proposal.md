@@ -7,7 +7,7 @@
 **제작 형태** AI실사
 **회차** 총 50화 · 무료 1~8화 (원작 1~8화)
 **러닝타임** 전편 60분 목표
-**메인 레퍼런스** Bilibili <Horror Game: She's a Monster, I See a Hottie> (51화) — 원작 정식대본(중국어) 첨부
+**메인 레퍼런스** NetShort <Horror Game: She's a Monster, I See a Hottie> (51화) — 원작 정식대본(중국어) 첨부
 
 ## 로그라인
 
