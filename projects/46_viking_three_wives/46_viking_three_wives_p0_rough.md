@@ -1,4 +1,4 @@
-### [T1] The Weakest Man in Rome Married Them All
+### [T1] Rome's Rejected Beauties Are All My Wives
 
 **담당자** Rowan
 **상태 · 제작 등급** 제안중 A

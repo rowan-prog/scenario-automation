@@ -52,6 +52,20 @@ def insert_images(path, img_dir):
                 rr.font.size = Pt(8)
                 rr.font.color.rgb = RGBColor(0x70, 0x70, 0x70)
                 n += 1
+    # `!!`로 시작하는 문단 = 가장 강하게 요청하는 항목 → 굵은 빨강
+    for row in doc.tables[0].rows:
+        for cell in row.cells:
+            for p in cell.paragraphs:
+                if p.text.startswith('!!'):
+                    txt = p.text[2:]
+                    for r in list(p.runs):
+                        r._element.getparent().remove(r._element)
+                    rr = p.add_run(txt)
+                    rr.font.name = FONT
+                    rr._element.rPr.rFonts.set(qn('w:eastAsia'), FONT)
+                    rr.font.size = Pt(10)
+                    rr.font.bold = True
+                    rr.font.color.rgb = RGBColor(0xC0, 0x00, 0x00)
     doc.save(path)
     return n
 
