@@ -1,4 +1,4 @@
-### [T1] The Vampire King's Little Bat Wants Only Me
+### [T1] The Vampire King's Human Nanny
 
 **담당자** Rowan
 **상태 · 제작 등급** 제안중 A
