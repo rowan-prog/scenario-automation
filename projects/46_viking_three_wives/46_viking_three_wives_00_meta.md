@@ -42,3 +42,4 @@
 - 유료 31~50 결말 방향 정정: 끝 = 의원 몰락이 아니라 세 아내와의 행복(셋 다 호감도 100 · 1화 첫 장면의 그 밤으로 돌아옴). 의원 몰락·장부 폭로는 40화대 중반까지 끝내고 마지막 화들은 세 아내와의 시간으로.
 - 사용자: "원로원이라 쓰지 말고 권력자라고 워싱해. 대본작업은 그렇게 하게 될지라도 기획안에서 굳이?" → 러프 전체 원로원 0(원로원 의원의 아들 ×3 → 권력자의 아들 · 원로원 의원 부자 → 권력자 부자 · 9화 → 로마의 권력자). 캐논(대본용)은 원로원 의원 그대로 둬도 됨. 로그라인 175자.
 - 제목 교체(사용자: "them all이 누구야?") = Rome's Rejected Beauties Are All My Wives · 대안 = Barbarian, Slave, Widow: All My Wives / The Weakest Man in Rome Took Three Wives(Three Wives = 원작 '아내가 셋'에 가까워 후순위).
+- 사용자 제목 확정 = The Weakest Man in Rome Took Three Wives.
