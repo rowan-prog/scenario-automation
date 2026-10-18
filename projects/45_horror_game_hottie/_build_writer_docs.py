@@ -41,10 +41,12 @@ def shade(p, fill):
 
 
 def add(d, segs, size=10, bold=False, color=None, after=3, before=0,
-        page_break=False, align=None, fill=None):
+        page_break=False, align=None, fill=None, keep_next=False):
     p = d.add_paragraph()
     if page_break:
         p.paragraph_format.page_break_before = True
+    if keep_next:
+        p.paragraph_format.keep_with_next = True
     p.paragraph_format.space_after = Pt(after)
     p.paragraph_format.space_before = Pt(before)
     if align:
@@ -79,11 +81,12 @@ def add_image(d, path, caption):
     p.alignment = WD_ALIGN_PARAGRAPH.CENTER
     p.paragraph_format.space_before = Pt(6)
     p.paragraph_format.space_after = Pt(2)
+    p.paragraph_format.keep_with_next = True
     run = p.add_run()
     if w >= h:
-        run.add_picture(path, width=Cm(16.4))
+        run.add_picture(path, width=Cm(15.5))
     else:
-        run.add_picture(path, height=Cm(17.5))
+        run.add_picture(path, height=Cm(16.5))
     add(d, caption, size=8.5, color=LGRAY, after=8, align=WD_ALIGN_PARAGRAPH.CENTER)
 
 
@@ -99,13 +102,13 @@ def build_proposal(md, out, img_dir):
         elif s.startswith('# '):
             add(d, s[2:], size=16, bold=True, after=10)
         elif s.startswith('## '):
-            add(d, s[3:], size=12.5, bold=True, before=12, after=4)
+            add(d, s[3:], size=12.5, bold=True, before=12, after=4, keep_next=True)
         elif s.startswith('### '):
-            add(d, s[4:], size=11, bold=True, before=10, after=3)
+            add(d, s[4:], size=11, bold=True, after=3, page_break=True, keep_next=True)
         elif s.startswith('!! '):
             add(d, s[3:], size=10.5, bold=True, color=RED, after=2, fill='FDECEA')
         elif re.fullmatch(r'\*\*[^*]+\*\*', s) and len(s) < 20:
-            add(d, s.strip('*'), size=10.5, bold=True, before=6, after=2)
+            add(d, s.strip('*'), size=10.5, bold=True, before=6, after=2, keep_next=True)
         elif s.startswith('- '):
             add(d, md_segs('· ' + s[2:]))
         else:
@@ -128,7 +131,7 @@ def build_script(md, out):
         if s.startswith('# '):
             add(d, s[2:], size=15, bold=True, after=6)
         elif s.startswith('## '):
-            add(d, s[3:], size=11, bold=True, before=8, after=2)
+            add(d, s[3:], size=11, bold=True, before=8, after=2, keep_next=True)
         elif s.startswith('>'):
             add(d, s.lstrip('> '), size=9, color=LGRAY, after=2)
         elif s.startswith('人物：'):
