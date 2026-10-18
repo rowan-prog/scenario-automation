@@ -37,3 +37,4 @@
 - 게이트 = logline_lint 확정 WARN(인명 6 = 과부·로마·물자·아무·여전사·차지하 오탐) · 후보 2 PASS · name_leak PASS · 판타지 잔재 0 · 화당 313~589자.
 - v3 plain-reader 못 함 5 전부 수정(5화 "방법이 있다더니" → 먹을 걸 구해 오겠다던 에릭 · 6화 "자기 물건" → 세 여자를 자기 물건이라 부르며(악역 모욕 유지) · 8화 "남자 훔치는" → 꼬시는 · 9화 → 자기 여자들 · 10화 "즐겨 주겠다" → 하나씩 데리고 자 주겠다).
 - 사용자 지시: 셀링 1번에 로마 밈 근거 추가 = "How often do you think about the Roman Empire?" 밈만큼 북미·서구 남성에게 강하게 소구되는 시대.
+- 셀링 1번 밈 근거 한 줄 추가(사용자: 리서치해서 디테일하게) = 2023년 9월 틱톡 밈 · #RomanEmpire 13억 회(CBS 2023-09-22) · 입소스 영국 2023-09-20~21 성인 1,200명: 1년에 한 번 넘게 남 41% vs 여 16% · 매주 남 12% · 전혀 안 함 남 25% vs 여 47%. 출처 = https://www.cbsnews.com/news/the-roman-empire-tiktok-trend-why-are-people-asking-men-how-often-think/ · https://www.ipsos.com/en-uk/node/1006771 · 기원 = 스웨덴 인스타그램 사용자 Saskia Cort 스토리 → 로마 재연가 'Gaius Flavius' 릴스(2023-08)로 확산.
