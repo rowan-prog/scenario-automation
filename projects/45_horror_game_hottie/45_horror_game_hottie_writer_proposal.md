@@ -158,5 +158,5 @@
 ## 첨부
 
 - 캐릭터 이미지 11장 (위 본문 안)
-- 원작 정식대본(중국어 · 51화) — `Horror Game_ She's a Monster, I See a Hottie.원작 정식대본_CN.docx`
+- 원작 정식대본(중국어 · 51화) — `Horror Game_ She's a Monster, I See a Hottie.原作剧本_CN.docx`
 - 원작 영상 받아쓰기 대본을 화자 · 장면 기준으로 정리한 참고용 · 인물 이름 원작 그대로
