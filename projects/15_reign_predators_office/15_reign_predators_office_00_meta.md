@@ -2,6 +2,7 @@
 
 - 작품: 군림: 포식자의 오피스(가제) (KR 타이틀 사용자 확정 · 2026-07-22) / **EN 제목 = The Master Three Women Crave (2026-10-22 사용자 · 「The Master Three Women Craves」(수 일치 오류) → 「The Master Who Three Women Crave」 → 최종 Who 뺌)** · 구 잠정 REIGN: THE PREDATOR'S OFFICE
 - 2026-10-22 작가 대본 1~50화 인입(무료 1~10 · 유료 11~50 · 원본 = `C:\Users\Rowan\Downloads\군림_ 포식자의 오피스(가제)_기획안 및 대본_무료.docx` / `…_유료.docx`) → 검토 v1 = `06_reviews/15_reign_predators_office_review_v1.md` + docx(오류 = 이름 2·인원 빈칸·연결 5·설정 8 · 남성향 자극 점검 9 · 러닝타임 추정 54~61분 = 70분보다 짧음). Codex 재검토 v002(`C:\Users\Rowan\Documents\Codex\2026-10-20\…\outputs\군림_재검토_20261021_v002.docx`)와 대조함.
+- 2026-10-22 검토 v2(Codex 1차 반박 + 사용자 시선 원칙 = 여자 몸 위주·남주에게 반하는 여자는 가끔) → **v3 = `06_reviews/15_reign_predators_office_review_v3.md` + `군림_포식자의 오피스_1-50화_대본 검토_v3.docx`**(Codex 2차 의견 반영): 13화 문·약 계획 경로·녹음 전송 = '고치면 분명해지는 곳'으로 격하 · 6화 서희 V.O는 남편 비교를 살리고 허리 지문 추가(「…남편 손은 한 번도 이렇게 뜨거웠던 적이 없었는데.」) · 러닝타임 70분 기준 유지.
 - 트랙: phase_p (플랫폼 기획안 — Vigloo 제출본)
 - 장르: 남성향 오피스 신분 역전·섹슈얼 · AI실사 · 발화 KR · 타깃 KR 20-40 남성 · 레퍼런스 SarosTV <신생>
 - 원안 정본: `15_reign_predators_office_p0_source.md` (사용자 러프 verbatim · EP1~8 완비 · 유료 구간 설계 위임)
