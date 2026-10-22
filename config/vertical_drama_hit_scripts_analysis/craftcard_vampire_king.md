@@ -24,7 +24,7 @@ Underneath, the metallic CLATTER of heavy chains dragging across a stone floor.
 FADE IN
 ```
 
-시각이 열리기 전에 공포음+내면 독백이 먼저 도착. 흑화면이 관객을 엘라의 눈이 되게 한다.
+시각이 열리기 전에 공포음+내면 독백이 먼저 도착. 흑화면이 시청자를 엘라의 눈이 되게 한다.
 
 ### 엔진 실연: 경매장 → "Your master." → "1억"
 
@@ -172,7 +172,7 @@ BIDDER 1        She's too skinny. She looks like she'll break in a day.
 BIDDER 2        She's just a waste of space. Why not just kill her now?
 ```
 
-구매자 없으면 현장에서 처형 — 도살용 칼이 등장. 관객이 처음 보는 건 엘라의 시체 더미다.
+구매자 없으면 현장에서 처형 — 도살용 칼이 등장. 시청자가 처음 보는 건 엘라의 시체 더미다.
 
 ---
 
@@ -211,7 +211,7 @@ SERAPHINE       You little... piece of filth! How dare you!
 LUCIAN          Don't touch my property without my permission, Seraphine.
 ```
 
-엘라가 반격하자 루시안이 막아줌 — 그러나 이유는 "물건 보호". 여기서 관객은 보호받은 기쁨과 물건 취급 당하는 굴욕을 동시에 받는다.
+엘라가 반격하자 루시안이 막아줌 — 그러나 이유는 "물건 보호". 여기서 시청자는 보호받은 기쁨과 물건 취급 당하는 굴욕을 동시에 받는다.
 
 ---
 
@@ -541,7 +541,7 @@ Underneath, the metallic CLATTER of heavy chains dragging across a stone floor.
 FADE IN
 ```
 
-흑화면 상태에서 SFX → NA → 시각 오픈. 관객이 엘라의 공포를 먼저 듣고, 시각적 지옥을 나중에 본다. AIGC에서 이 효과를 내려면 흑 프레임+오디오 클립을 첫 컷으로 배치.
+흑화면 상태에서 SFX → NA → 시각 오픈. 시청자가 엘라의 공포를 먼저 듣고, 시각적 지옥을 나중에 본다. AIGC에서 이 효과를 내려면 흑 프레임+오디오 클립을 첫 컷으로 배치.
 
 ---
 

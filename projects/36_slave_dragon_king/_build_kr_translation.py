@@ -37,6 +37,19 @@ CFG = {
         sub='작가 대본 2.0  ·  인물 설정 · 회차 개요 · 1~8화  ·  한국어 번역본',
         src='THE DRAGON PRINCESS THEY CALLED A SLAVE（2.0）.docx (중문 · 인물 설정 + 회차 개요 + 1~8화)',
     ),
+    'v3': dict(
+        cn='36_slave_dragon_king_writer_free_v3_cn.txt',
+        kr='36_slave_dragon_king_writer_free_v3_kr_body.txt',
+        md='36_slave_dragon_king_writer_free_v3_kr.md',
+        docx=f'{TITLE_KR}_작가 무료회차 최종고(1-9화)_한국어 번역본.docx',
+        sub='작가 무료회차 최종고 (10.22)  ·  인물 설정 · 1~9화  ·  한국어 번역본 (검토용 러프)',
+        src='THE DRAGON PRINCESS THEY CALLED A SLAVE（10.22）.docx (중문 · 인물 설정 + 1~9화)',
+        notes=[
+            '원고의 여왕 이름 奥蕾莉亚(오렐리아)는 원작 여왕 이름이라 번역본에서는 엘레노어로 옮겼다. 작가 원고에는 아직 그대로 남아 있다.',
+            '인물 설정은 원고 그대로 옮겼다. 원고 설정에는 "이십 년"·"북부 용족"·웨슬리가 남아 있지만, 본문은 18년 뒤이고 웨슬리가 나오지 않는다.',
+            '泥种은 "천것", 贱人은 "천한 년"으로 옮겼다. 2.0과 원문이 같은 줄은 2.0 번역을 그대로 쓰고, 바뀐 줄만 새로 옮긴 검토용 러프 번역이다.',
+        ],
+    ),
 }
 
 # 메인 워싱 — {원문 줄 번호(1부터): [그 줄 뒤에 덧붙일 한국어 줄, ...]}
@@ -46,6 +59,7 @@ PATCH_AFTER = {
         # (2026-10-14 철회) 002-1 끝 "짐승 용이 쇠사슬을 물어 끊는다" 1줄 추가 — 사용자: 짐승 용이 낑낑대며 엎드리고
         # 씬·에피가 바뀌면 시청자가 바로 메우는 논리라 불필요, 호흡만 끊음 → 작가 원고 그대로.
     },
+    'v3': {},
 }
 
 BLACK = RGBColor(0x1A, 0x1A, 0x1A)
@@ -87,7 +101,10 @@ def build(ver):
 
     # md
     with open(os.path.join(HERE, c['md']), 'w', encoding='utf-8') as f:
-        f.write(f'# 《{TITLE_KR}》 {c["sub"]}\n\n원본 = `{c["src"]}`\n\n---\n\n')
+        f.write(f'# 《{TITLE_KR}》 {c["sub"]}\n\n원본 = `{c["src"]}`\n\n')
+        for n in c.get('notes', []):
+            f.write(f'- {n}\n')
+        f.write('\n---\n\n')
         f.write('\n'.join(lines) + '\n')
 
     d = docx.Document()
@@ -124,6 +141,8 @@ def build(ver):
     t3 = para(after=14)
     t3.alignment = WD_ALIGN_PARAGRAPH.CENTER
     run(t3, c['sub'], size=10, color=GREY)
+    for n in c.get('notes', []):
+        run(para(after=3, indent=8), '· ' + n, size=9.5, color=GREY)
 
     first_ep = True
     for k in lines:
@@ -131,7 +150,7 @@ def build(ver):
         if not s_:
             continue
         if IS_EP.match(s_):
-            if not first_ep or ver == 'v2':
+            if not first_ep or ver in ('v2', 'v3'):
                 d.add_paragraph().add_run().add_break(WD_BREAK.PAGE)
             first_ep = False
             h = para(after=3, before=6, keep=True)

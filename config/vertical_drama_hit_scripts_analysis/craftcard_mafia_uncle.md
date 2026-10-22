@@ -7,7 +7,7 @@ raw = `../vertical_drama_hit_scripts/MY EX'S MAFIA UNCLE WANTS ME AS HIS BRIDE_F
 
 ## 1. 엔진 — 타이틀이 스포일러를 미리 하고, 그걸로 13화를 끈다
 
-여주는 자기가 누구랑 결혼했는지 EP14에 안다. **시청자는 타이틀에서 이미 안다.** 그래서 EP1~13 내내 엔진은 "무슨 일이 벌어질까"가 아니라 **"언제 알게 되나"** — 정보 우위를 관객에게 주고, 주인공만 모른 채 계약결혼·첫날밤·저택 입성까지 다 시켜버린다.
+여주는 자기가 누구랑 결혼했는지 EP14에 안다. **시청자는 타이틀에서 이미 안다.** 그래서 EP1~13 내내 엔진은 "무슨 일이 벌어질까"가 아니라 **"언제 알게 되나"** — 정보 우위를 시청자에게 주고, 주인공만 모른 채 계약결혼·첫날밤·저택 입성까지 다 시켜버린다.
 
 - 타이틀 회수 = EP14, 정확히 한 줄: `JULIAN: Uncle Roman? What are you doing here?` → `ROMAN: (to Hannah) Meet your new aunt.` → `HANNAH (V.O): Wait…I married my ex-boyfriend's uncle?`
 - 그 한 줄이 곧 **페이월 #2**. 타이틀이 약속한 물건을 무료 구간에서 안 준다.

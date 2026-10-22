@@ -27,7 +27,7 @@ change must be reported in advance.
 Primary screen appeal: [한 줄 — 이 작품이 파는 화면의 쾌감].
 
 - [쾌감 엔진을 제작 언어로 3-6 bullets — 무엇이 화면에서 커야 하고, 무엇이 격이고,
-  관객이 어디서 돈을 내는가. engine brief §1을 제작 시점으로 번역.]
+  시청자가 어디서 돈을 내는가. engine brief §1을 제작 시점으로 번역.]
 - [에스컬레이션의 축 — 무엇이 커지는가 (스케일이 아니라 관계적 잔혹/권위의 종류 등).]
 - [톤 명령 — 예: makjang, broad, brazen; do not make it tasteful, cool, or prestige.]
 
@@ -44,7 +44,7 @@ Primary screen appeal: [한 줄 — 이 작품이 파는 화면의 쾌감].
 
 - **On-screen title:** `[NAME / SELLING TAG]` (첫 기능 컷에서만·visual lock의 On-Screen Title Lock 목록과 1:1 일치)
 - **Core expression:** [이 캐릭터의 화면 한 줄 정의]
-- **Must read as:** [관객이 0.1초에 읽어야 하는 인상 — "X but not Y" 형식 권장]
+- **Must read as:** [시청자가 0.1초에 읽어야 하는 인상 — "X but not Y" 형식 권장]
 - **Story lock:** [있으면 — 이 캐릭터에 걸린 플롯 락 한 줄]
 - **Voice:** [말투 1-2줄 — 길이·온도·시그니처 어휘·금지 틱]
 - **Beauty/body:** [체형·미모 등급·핵심 실루엣]
