@@ -90,6 +90,7 @@
 - [selling-point-sheet-format-is-the-spec](feedback_selling_point_sheet_format_is_the_spec.md) — CD1 시트 = `[EN_AI] Selling Point_Template.xlsx` 서식이 규격 · 빌더로만.
 - **[writer-feedback-no-padding](feedback_writer_feedback_no_padding.md)** — 🚨(2026-09-10) 작가 피드백 다듬기 = 사용자 핀트 그대로·항목 안 늘림·판정 1~2문장+대안 한 줄·컷/결제 강의 0·수정 불필요한 소소 지적 0·워싱은 이야기 바뀌는 설정만.
 - **[original-writer-pitch-persuade-not-order](feedback_original_writer_pitch_persuade_not_order.md)** — (2026-10-07) 원작 작가에게 가는 리메이크 기획안 = 시키는 문서 ✗ "써 보고 싶다" ○ · 필수·금기 최소+이유 한 줄 · 중국 작가면 한중 병기 + 중문 원어민 점검.
+- **[committee-opinion-not-the-axis](feedback_committee_opinion_not_the_axis.md)** — (2026-10-22) 피칭 위원 의견은 대본 검토 근거로 크게 안 쓴다 · 축 = 사용자 방향·합의 캐논 · 원고가 합의와 다르면 작가판 칭찬보다 합의 위반부터.
 - [writer-comment-standard](feedback_writer_comment_standard.md) — 작가 코멘트 = `30_writer_feedback_standard` · AI 헛다리 필터.
 - **[reverse-transcript-trust-order](feedback_reverse_transcript_trust_order.md)** — (2026-10-16) 역대본 정리본 보완 = 숏폼 허용(대사끼리 모순·갑툭튀 = 둔다) vs AI 오독(화자·지문·번역 = 대사에 맞춰 고친다) · 대사 문구는 안 바꾼다.
 - **[episode-numbering-check](feedback_episode_numbering_check.md)** — 🚨(2026-10-08) 대본 검토 첫 단계 = 화 목록(결번·중복 표제·역순·씬 번호 앞자리·언어별 화 번호·개요↔본문·내용 혼입) · 기계 `tools/episode_number_check.py --expect N` · 결번은 docx 변환 손실부터 배제 · 보고 맨 앞에 결과.
