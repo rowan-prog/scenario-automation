@@ -1,5 +1,5 @@
 HOW TO USE
-- Generate all seven images now, one after another, IMAGE 1 to IMAGE 7, without stopping or asking me in between.
+- Generate all six images now, one after another, IMAGE 1 to IMAGE 6, without stopping or asking me in between.
 - Every image: landscape 16:9, 1536x1024.
 - Never repeat or reuse a previous image's layout, poses or outfits.
 - Images of the same character keep exactly the same face, hairstyle and body. Never give one character's face to another character. The three women must look clearly different from each other: 한세아 = black hair, 민채은 = clear light golden-beige blonde short bob (never brown), 윤서희 = dark-brown hair.
@@ -39,8 +39,8 @@ d. Black long-sleeve fitted mini dress with a deep V wrap front, a thin gold nec
 Layout: one large full-body panel on the left (about 35% of the width); six panels on the right.
 1. Large full body (left), outfit a with the jacket on and open: standing in a dark executive office at night, arms crossed, weight on one hip, chin up, looking down at the camera with a cold smirk.
 2. Outfit a without the jacket: in front of a restroom mirror in the morning, pushing her gold glasses up with one finger, deep red lips, her reflection staring straight at the camera.
-3. Outfit a with the jacket on: at the front of a bright conference room, bowing at 90 degrees, eyes looking up at the camera with a practiced, calculating smile.
-4. Outfit b: leaning over a CEO's desk to set down a cup of black coffee, looking up at the camera with a smug, knowing look.
+3. Outfit a with the jacket on: at the front of a bright conference room, seen from the side, bowing at 90 degrees, face turned toward the camera with a practiced, calculating smile.
+4. Outfit b: standing beside a CEO's desk, setting down a cup of black coffee on a saucer, a smug, knowing look at the camera.
 5. Outfit c: at an office door, hand on the handle, looking back over her shoulder while slowly taking off her gold glasses.
 6. Outfit a: sitting in the chairman's big black leather chair, legs crossed, chin resting on her hand, one stiletto dangling, a smug smirk.
 7. Outfit d: hotel corridor at night, three-quarter back view, walking toward a suite door and looking back over her shoulder.
@@ -52,14 +52,14 @@ IMAGE 2 — 한세아 (B): face and expressions
 Same woman as IMAGE 1, identical face, black hair, gold glasses and body.
 
 Layout: one large bust-up portrait on the left; a 2x4 grid of eight close-up expressions on the right. Rotate her outfits a, b and c across the panels.
-Bust-up: outfit a, leaning slightly toward the camera, one hand at her open white collar, red lips slightly parted, cat eyes locked on the viewer.
+Bust-up: outfit a, chin slightly raised, one finger adjusting her gold glasses, deep red lips, cat eyes locked on the viewer.
 Expressions:
 1. Cold, confident smirk with her chin raised.
 2. Looking down over the top of her glasses with contempt, one eyebrow raised.
 3. Shocked, eyes wide behind her glasses, lips parted — she has just recognized someone she once destroyed.
 4. Furious glare with tears in her eyes, jaw clenched — angry and refusing to back down.
 5. Cold jealousy: chin up, eyes narrowed, lips pressed tight.
-6. Flushed cheeks, biting her lower lip, eyes turned away — caught blushing.
+6. Flushed cheeks, eyes turned away — caught blushing.
 7. A smug, triumphant smile, looking down at someone who has lost.
 8. A rare soft smile with a faint blush, still proud.
 
@@ -75,19 +75,18 @@ Design concept: the soft, pretty girl of the office — soft pastel knits and fi
 Background color mood: bright modern office with a Seoul skyline view, warm daylight; warm lamp light at night.
 
 Outfits:
-a. Cream fitted ribbed-knit cardigan worn buttoned as a top with a deep V neckline, short fitted beige pencil skirt with a small slit, nude pointed pumps, ID badge on a lanyard.
-b. Light-blue fitted ribbed-knit cardigan worn buttoned as a top with a deep V neckline, short white pencil skirt, white pointed pumps, ID badge on a lanyard.
-c. Tight white blouse with the top buttons undone, short black H-line skirt, nude pumps.
+a. Cream fitted ribbed-knit cardigan worn buttoned as a top with a V neckline, short fitted beige pencil skirt with a small slit, nude pointed pumps, ID badge on a lanyard.
+b. Light-blue fitted ribbed-knit cardigan worn buttoned as a top with a V neckline, short white pencil skirt, white pointed pumps, ID badge on a lanyard.
+c. Fitted white blouse with the top two buttons open, short black H-line skirt, nude pumps.
 d. Soft pink fitted ribbed-knit long-sleeve mini dress.
-e. Fluffy soft pink cardigan slipping off one shoulder over a white lace-trim camisole.
 
 Layout: one large full-body panel on the left (about 35% of the width); six panels on the right.
 1. Large full body (left), outfit a: standing by an office window with the Seoul skyline behind her, shoulders drawn in shyly, hugging a file folder to her chest, bright eye-smile at the camera.
 2. Outfit b: sitting on the office floor among scattered papers, wiping tears with the back of her hand, big wet eyes looking up — the sweet girl everyone believes.
 3. Outfit c: at a hotel event, half-hidden by a pillar, watching someone across the room with an amused, sly smile.
-4. Outfit c: leaning over a CEO's desk to set down a black leather ledger, a bright, proud smile at the camera.
+4. Outfit c: standing at a CEO's desk, holding out a black leather ledger with both hands, a bright, proud smile at the camera.
 5. Outfit d: hotel corridor at night, three-quarter back view at a suite door, glancing back over her shoulder with a small sly smile.
-6. Outfit e: hotel suite at night, lying on her front on the bed hugging a pillow, chin on her hand, a knowing smile at the camera.
+6. Outfit d: hotel suite at night, standing by the window with a glass of wine and the Seoul night view behind her, looking back at the camera with a knowing smile.
 7. Outfit a: holding a takeout coffee cup out toward the camera with both hands, pleading eyes.
 
 
@@ -106,7 +105,7 @@ Right half — dim, warm lamp-lit room (her private face):
 5. Tears wiped away, a sly half-smile with narrowed eyes.
 6. Cold, calculating stare straight into the camera.
 7. A mocking little smile, looking down at someone she has just dumped.
-8. Flushed cheeks, a small knowing smile, looking up at the camera through her lashes.
+8. A small knowing smile, looking up at the camera through her lashes.
 
 
 ==================================================
@@ -124,7 +123,6 @@ b. White fitted sleeveless golf dress with a short pleated hem, one white golf g
 c. Grey ribbed-knit long-sleeve midi dress, fitted from chest to knees, thin black belt at the waist, a structured luxury handbag, sunglasses pushed up in her hair.
 d. Black long-sleeve dress, fitted close to her body, modest V-neck, below the knee, a single strand of pearls.
 e. Cream button-front knit dress, fitted, below the knee, sheer skin-tone stockings.
-f. Dusky-rose satin robe tied at the waist, hair still in its bun.
 
 Layout: one large full-body panel on the left (about 35% of the width); six panels on the right.
 1. Large full body (left), outfit a: hotel banquet hall under chandeliers at an art sponsorship event, standing beside an artwork, turned three-quarters to the side, gentle smile.
@@ -132,7 +130,7 @@ Layout: one large full-body panel on the left (about 35% of the width); six pane
 3. Outfit c: walking on a Seoul street outside a café in the afternoon, bag on her arm, three-quarter view.
 4. Outfit d: standing alone at the edge of a crowded party hall, holding a wine glass, three-quarter back view, looking back over her shoulder with lonely eyes.
 5. Outfit e: sitting on a sofa in her gallery office, knees together and slanted to one side, a contract and a name seal on the table in front of her, a shy, hesitant look at the camera.
-6. Outfit f: at a vanity mirror in a dim penthouse bedroom at night, putting on lipstick, a hopeful, lonely look in the mirror.
+6. Outfit d: at a vanity mirror in her dressing room at night, putting on lipstick, a hopeful, lonely look in the mirror.
 7. Outfit d: standing in the rain under a black umbrella, holding it out toward the camera as if sharing it, soft smile.
 
 
@@ -142,7 +140,7 @@ IMAGE 6 — 윤서희 (B): face and expressions
 Same woman as IMAGE 5, identical face, dark-brown hair and body.
 
 Layout: one large bust-up portrait on the left; a 2x4 grid of eight close-up expressions on the right. Rotate her outfits a, c, d and e across the panels.
-Bust-up: ivory silk blouse with small pearl buttons, her fingers on the top button, the top two buttons undone showing her collarbone, a strand of hair fallen from her bun, a shy flush on her cheeks.
+Bust-up: ivory silk blouse with small pearl buttons, the top button open at her collarbone, a strand of hair fallen from her bun, a shy flush on her cheeks.
 Expressions:
 1. Gentle, modest smile, eyes softly lowered.
 2. A bright, beaming smile of pure happiness.
@@ -152,19 +150,3 @@ Expressions:
 6. Tears running down her cheeks, both hands over her mouth in shock.
 7. Cold disgust, looking at someone she has stopped loving.
 8. Under a black umbrella in the rain, a cool, victorious smile she has never shown before.
-
-
-==================================================
-IMAGE 7 — 한세아 (C): bunny costume
-==================================================
-Same woman as IMAGE 1 and IMAGE 2, identical face, black hair, gold glasses and body.
-
-Outfit: classic black satin bunny costume — fitted black bunny suit, black bunny-ear headband, white collar with a black bow tie, white cuffs, black fishnet stockings, black stilettos. Gold glasses on.
-Setting: a luxury hotel suite dressing room at night, warm light, a full-length mirror.
-Mood: she was told to wear it and she is furious about it — arrogant, not embarrassed.
-
-Layout: one large full-body panel on the left (about 45% of the width); three panels on the right.
-1. Large full body (left): standing straight, arms crossed, chin raised, looking down at the camera with cold contempt.
-2. Walking toward the camera in her stilettos, unimpressed.
-3. Three-quarter back view in front of the full-length mirror, looking back over her shoulder.
-4. Close-up: cold look over the top of her gold glasses, bunny ears on, red lips pressed in a thin line.
