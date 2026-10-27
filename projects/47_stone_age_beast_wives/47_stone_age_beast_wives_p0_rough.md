@@ -1,4 +1,4 @@
-### [T1] The Only Man in a Stone Age Beast Girl Village
+### [T1] My Stone Age Conquest With Beast Girls
 
 **담당자** Rowan
 **상태 · 제작 등급** 제안중 A

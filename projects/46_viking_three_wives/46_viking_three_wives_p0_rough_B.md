@@ -1,4 +1,4 @@
-### [T1] Egypt's Weakest Man Got the Three Hottest Wives
+### [T1] Get Three Wives With System Power in Ancient Egypt
 
 **담당자** Rowan
 **상태 · 제작 등급** 제안중 A
