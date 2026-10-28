@@ -52,3 +52,5 @@
 - 대사: 84줄 · 평균 18.5자 · 30자+ 18% · 빠져도 되는 줄 7% — 세 작품 중 대사 가장 적음, 장황함 = 한 사람이 길게 말하는 줄. Codex 번역 = 오역 0 · 원고 오류 몰래 고침 8 · 에드리크/섭정 공작 표기.
 - 같은 날 한국어 번역본 = `One Night with the Dragon Lord - The Dragon Eggs_작가 대본(1023 · 1-8화)_한국어 번역본.docx`(빌더 `_build_kr_translation_1023.py` · Codex 번역 바탕 · 원고 328문단 1:1 · 에드리크→에드릭 78 · 섭정 공작→섭정공 · Codex가 몰래 고친 원고 오류 11곳 원고대로 되돌림 · 말풍선 53 = 명백한 오류만). 피드백 문서 8화 블록 = "바엘 강림 장면을 미리 씀"(대본에 없는 짐작) 문장 삭제 → "8화에 이긴 결과가 다 나옴 · 흑룡이 누군지 없음"으로.
 - 세 작품 명백한 오류 모음 = `C:\Users\Rowan\scenario-automation\projects\36_slave_dragon_king\세 작품 명백한 오류 모음(용의 공주 10.27 · 흑발 1026 · Dragon Eggs 1023)_10.28.docx`(28블록 · 확인급·생략·흐름 제외).
+
+- 2026-10-28 최종: 세 작품 작가 피드백을 한 docx로 = `C:\Users\Rowan\scenario-automation\projects_slave_dragon_king\세 작품 작가 피드백 최종(용의 공주 10.27 · 흑발 1026 · Dragon Eggs 1023)_10.28.docx`(10.23 고칠 곳 양식 · 종합 의견 = 사용자 초안 + 위치 · 명백한 오류만). 번역본 = 하우스 양식 docx(`tools/house_script_docx.py`).
