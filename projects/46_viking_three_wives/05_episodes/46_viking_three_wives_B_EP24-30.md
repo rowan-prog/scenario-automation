@@ -119,7 +119,7 @@ Mia's big green eyes dart left and right. Lips parted. Nervous.
 미아의 커다란 초록 눈이 좌우를 살핀다. 입술이 살짝 벌어져 있다. 긴장했다.
 
 MIA (V.O.): Luke, are you asleep?
-미아 (속마음): 주인님, 주무세요?
+미아 (속마음): 루크, 주무세요?
 
 MIA (V.O.): I can't let anyone catch me here.
 미아 (속마음): 여기 있는 거 들키면 안 돼.
@@ -155,7 +155,7 @@ Mia stops right in front of Luke and looks up.
 미아가 루크 바로 앞에 멈춰 서서 올려다본다.
 
 MIA: Luke?
-미아: 주인님?
+미아: 루크?
 
 Luke looks down at Mia.
 루크가 미아를 내려다본다.
@@ -508,11 +508,11 @@ Dark stone walls. Orange firelight, a faint blue glow behind.
 Luke, shirtless and slick with sweat, leans forward, low.
 상의를 벗은 루크가 땀에 흠뻑 젖은 채 몸을 낮게 앞으로 숙인다.
 
-[INSERT] A woman's hand presses down on a gold belt over dark linen.
-[인서트] 여자의 손이 짙은 리넨 위 금 허리띠를 꾹 누른다.
+[INSERT] A woman's hand, long nails and a gold cuff, presses down on a red linen robe.
+[인서트] 긴 손톱에 금 팔찌를 찬 여자의 손이 붉은 리넨 겉옷을 꾹 누른다.
 
-Luke turns sideways. Long black hair falls past Luke's face. The two bodies are pressed close.
-루크가 몸을 옆으로 돌린다. 긴 검은 머리카락이 루크의 얼굴 앞으로 흘러내린다. 두 몸이 바짝 붙어 있다.
+Luke turns sideways. A sleek black bob brushes past Luke's face. The two bodies are pressed close.
+루크가 몸을 옆으로 돌린다. 매끈한 검은 단발이 루크의 얼굴을 스친다. 두 몸이 바짝 붙어 있다.
 
 The fire crackles. Clay jars and cups on the mantel, straw on the floor. Nobody stands in front of the fire. Only two shadows on the wall, leaning into a kiss.
 장작이 탁탁 탄다. 선반에 진흙 단지와 잔, 바닥엔 짚. 불 앞엔 아무도 없다. 벽에 비친 그림자 둘만이 입을 맞추려 기울어진다.
@@ -520,26 +520,26 @@ The fire crackles. Clay jars and cups on the mantel, straw on the floor. Nobody 
 S#26-3. The Vizier's Palace, Great Hall / INT / NIGHT
 S#26-3. 재상의 궁, 큰 홀 / 실내 / 밤
 
-Cast: Vizier, Spy, Bearded Spy
-인물: 재상, 첩자, 턱수염 첩자
+Cast: Vizier, Curly-Haired Spy, Bearded Spy
+인물: 재상, 곱슬머리 첩자, 턱수염 첩자
 
 A wide hall with a black stone floor. Thick painted columns run deep into the dark. A round bronze fire bowl burns in the center. Torches on the walls.
 검은 돌바닥의 넓은 홀. 색칠한 굵은 기둥들이 어둠 깊숙이 늘어서 있다. 한가운데 둥근 청동 화로가 탄다. 벽에는 횃불.
 
-Two spies lie face down on the floor. One curly-haired. One bearded, in a city-guard lion breastplate. The Vizier sits on a high seat above, seen only from behind.
-첩자 둘이 바닥에 엎드려 있다. 하나는 곱슬머리, 하나는 경비대 사자 가슴받이를 입은 턱수염. 재상이 높은 자리에 앉아 있다. 뒷모습만 보인다.
+Two spies lie face down on the floor. One curly-haired, in a city-guard lion breastplate. One bearded. The Vizier sits on a high seat above, seen only from behind.
+첩자 둘이 바닥에 엎드려 있다. 하나는 경비대 사자 가슴받이를 입은 곱슬머리, 하나는 턱수염. 재상이 높은 자리에 앉아 있다. 뒷모습만 보인다.
 
 The curly-haired spy lifts up and looks up. Eyebrows high, mouth open. Scared.
 곱슬머리 첩자가 고개를 들어 위를 올려다본다. 눈썹이 치솟고, 입이 벌어져 있다. 겁에 질렸다.
 
-SPY: The Lion General didn't just take the gifts.
-첩자: 사자 장군이 선물만 받은 게 아닙니다.
+CURLY-HAIRED SPY: The Lion General didn't just take the gifts.
+곱슬머리 첩자: 사자 장군이 선물만 받은 게 아닙니다.
 
-SPY: He handed Luke the estate outside the city.
-첩자: 루크한테 성 밖 영지까지 내줬습니다.
+CURLY-HAIRED SPY: He handed Luke the estate outside the city.
+곱슬머리 첩자: 루크한테 성 밖 영지까지 내줬습니다.
 
-SPY: And they say he's going to present Luke to the pharaoh.
-첩자: 게다가 루크를 파라오께 소개하겠다는 말까지 돕니다.
+CURLY-HAIRED SPY: And they say he's going to present Luke to the pharaoh.
+곱슬머리 첩자: 게다가 루크를 파라오께 소개하겠다는 말까지 돕니다.
 
 The Vizier's face comes into the light. Silver-gray hair, short beard, a heavy gold medallion on a chain, black clothes. The face is stiff. The eyes are cold and sharp.
 재상의 얼굴이 불빛 속으로 드러난다. 은회색 머리, 짧은 수염, 묵직한 금 메달 목걸이, 검은 옷. 얼굴은 굳어 있고 눈빛은 차갑고 날카롭다.
@@ -559,8 +559,8 @@ EP.27
 S#27-1. The Vizier's Palace, Dark Hall / INT / NIGHT
 S#27-1. 재상의 궁, 어두운 홀 / 실내 / 밤
 
-Cast: Vizier, Spy
-인물: 재상, 첩자
+Cast: Vizier, Curly-Haired Spy
+인물: 재상, 곱슬머리 첩자
 
 Stone walls and steps sunk in shadow. Low, cold light. The Vizier stands in the middle of the hall. The curly-haired spy stands to the left, head bowed.
 돌벽과 계단이 어둠에 잠겨 있다. 낮고 차가운 빛. 재상이 홀 한가운데 서 있다. 곱슬머리 첩자가 왼편에 고개를 숙이고 서 있다.
@@ -586,11 +586,11 @@ VIZIER: Leave no one alive!
 The spy lifts the chin a little. Careful.
 첩자가 고개를 조금 든다. 조심스럽다.
 
-SPY: But that's the Lion General's estate.
-첩자: 하지만 거긴 사자 장군의 영지입니다.
+CURLY-HAIRED SPY: But that's the Lion General's estate.
+곱슬머리 첩자: 하지만 거긴 사자 장군의 영지입니다.
 
-SPY: If he finds out...
-첩자: 장군이 알게 되면…
+CURLY-HAIRED SPY: If he finds out...
+곱슬머리 첩자: 장군이 알게 되면…
 
 The Vizier stares the spy down. Flat. Final.
 재상이 첩자를 내려다본다. 단칼에 자른다.
@@ -745,17 +745,20 @@ Both guards haul at once. The doors groan. Almost open.
 S#28-2. Outside the Estate Gate / EXT / NIGHT
 S#28-2. 영지 정문 밖 / 실외 / 밤
 
-Cast: Vizier, Spy, Luke, Gwen, Mia, Sabrina, Lion General, Servants, Vizier's Soldiers, Spearmen
-인물: 재상, 첩자, 루크, 그웬, 미아, 사브리나, 사자 장군, 하인들, 재상의 병사들, 창병들
+Cast: Vizier, Curly-Haired Spy, Luke, Gwen, Mia, Sabrina, Lion General, Servants, Vizier's Soldiers, Spearmen
+인물: 재상, 곱슬머리 첩자, 루크, 그웬, 미아, 사브리나, 사자 장군, 하인들, 재상의 병사들, 창병들
 
 Torchlight on the sand-colored stone wall. A mob in dark clothes churns in chaos. Two servant women, mouths wide in terror, cling to each other and back away.
 모래빛 돌담 위로 횃불이 일렁인다. 검은 옷을 입은 무리가 뒤엉켜 아수라장이다. 하녀 둘이 겁에 질려 입을 벌린 채 서로 꼭 붙어 뒷걸음질 친다.
 
-SPY: Luke and the three women are all inside.
-첩자: 루크와 여자 셋 다 안에 있습니다.
+CURLY-HAIRED SPY: Luke and the three women are all inside.
+곱슬머리 첩자: 루크와 여자 셋 다 안에 있습니다.
 
-SPY: Should we take him alive and make him say where the young master is?
-첩자: 산 채로 잡아서 도련님 행방을 캐물을까요?
+CURLY-HAIRED SPY: Should we take him alive and make him say where the young master is?
+곱슬머리 첩자: 산 채로 잡아서 도련님 행방을 캐물을까요?
+
+Inside the smoke at the foot of the wall, a dark figure stands still. Listening.
+담장 밑 연기 속에 검은 형체 하나가 꼼짝 않고 서 있다. 듣고 있다.
 
 VIZIER: Leave Luke barely breathing.
 재상: 루크는 숨만 붙여 놔.
@@ -868,8 +871,8 @@ EP.29
 S#29-1. Outside the Estate Gate / EXT / NIGHT
 S#29-1. 영지 정문 밖 / 실외 / 밤
 
-Cast: Luke, Gwen, Mia, Sabrina, Vizier, Lion General, Spy, Vizier's Soldiers, Spearmen
-인물: 루크, 그웬, 미아, 사브리나, 재상, 사자 장군, 첩자, 재상의 병사들, 창병들
+Cast: Luke, Gwen, Mia, Sabrina, Vizier, Lion General, Curly-Haired Spy, Vizier's Soldiers, Spearmen
+인물: 루크, 그웬, 미아, 사브리나, 재상, 사자 장군, 곱슬머리 첩자, 재상의 병사들, 창병들
 
 (SFX) The Gatling gun ROARS.
 (효과음) 개틀링 기관총이 굉음을 낸다.
@@ -1099,14 +1102,14 @@ Mia peeks out from behind a stack of sacks and points.
 MIA: That row right there is three hundred pounds. Just the first row.
 미아: 저기 저 한 줄이 삼백 파운드예요. 맨 앞줄만요.
 
-S#30-3. Luke's Bedroom / INT / NIGHT
-S#30-3. 루크의 침실 / 실내 / 밤
+S#30-3. Luke's Bedroom, the Estate / INT / NIGHT
+S#30-3. 영지, 루크의 침실 / 실내 / 밤
 
 Cast: Luke, Mia, Sabrina, Gwen, System
 인물: 루크, 미아, 사브리나, 그웬, 시스템
 
-A small fire bowl burns on the stone floor by the wall. Warm gold light on the stone.
-벽가 돌바닥에 작은 불 화로가 탄다. 돌벽에 따뜻한 금빛.
+A small fire crackles in a bronze brazier against the wall. Gold light rolls across painted plaster and a hanging linen sheet.
+벽가의 작은 청동 화로에서 불이 탁탁 튄다. 금빛 불빛이 칠한 회벽과 걸어 둔 리넨 천 위로 일렁인다.
 
 Luke, shirtless, fit and hard now, leans back against the warm wall. Eyes closed. A big, happy smile.
 상의를 벗은, 이제 탄탄해진 루크가 따뜻한 벽에 기대 있다. 눈을 감고 있다. 활짝, 만족스럽게 웃는다.
@@ -1120,8 +1123,8 @@ In golden backlight, Sabrina, a red linen robe over the gold-and-lapis collar, l
 Gwen, high ponytail swinging, wraps both arms around Luke's neck and pulls close.
 그웬이 높은 포니테일을 흔들며 두 팔로 루크의 목을 끌어안는다.
 
-By the fire bowl, the golden kitten of light floats up, sparkling.
-불 화로 옆에서 빛으로 된 금빛 새끼 고양이가 반짝이며 떠오른다.
+By the brazier, the golden kitten of light floats up, sparkling.
+청동 화로 옆에서 빛으로 된 금빛 새끼 고양이가 반짝이며 떠오른다.
 
 [STATUS] GWEN / AFFECTION: 100
 [상태창] 그웬 / 호감도: 100

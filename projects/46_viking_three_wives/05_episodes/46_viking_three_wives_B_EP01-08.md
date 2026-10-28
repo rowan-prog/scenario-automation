@@ -700,8 +700,8 @@ REX'S MAN: Lord Rex will deal with you himself.
 Rex's Man stalks off through the crowd, red cloak snapping. The Herald stares straight ahead, stone-faced.
 렉스의 부하가 붉은 망토를 펄럭이며 군중 사이로 성큼성큼 사라진다. 관리는 굳은 얼굴로 정면만 본다.
 
-S#4-2. Luke's Hut / INT / NIGHT
-S#4-2. 루크의 오두막 / 실내 / 밤
+S#4-2. Mud-Brick Hut / INT / NIGHT
+S#4-2. 진흙 벽돌 오두막 / 실내 / 밤
 
 Cast: Luke, Mia, Sabrina, Gwen
 인물: 루크, 미아, 사브리나, 그웬
@@ -724,7 +724,7 @@ LUKE: Bear with me.
 LUKE: Where I used to live, a dog would take one look and run. But hey, at least this place has a door.
 루크: 내가 전에 살던 데는 개도 한 번 보고 도망갔어. 그래도 여긴 문은 달렸잖아.
 
-Dirt and scrapes all over Luke's face. Luke looks wiped out. Luke drops the eyes, then lifts them to Mia.
+Dirt and scrapes all over Luke's face. Luke looks wiped out. Luke drops the eyes, then lifts the eyes to Mia.
 루크의 얼굴은 흙과 상처투성이다. 녹초가 된 얼굴. 루크가 눈을 내리깔았다가 미아를 본다.
 
 [STATUS] MIA / AFFECTION: 15
@@ -799,8 +799,8 @@ Luke lifts the jar onto one hip.
 LUKE: I'll go get us something to eat.
 루크: 내가 먹을 것 좀 구해 올게.
 
-S#4-3. Luke's Hut / INT / NIGHT
-S#4-3. 루크의 오두막 / 실내 / 밤
+S#4-3. Mud-Brick Hut / INT / NIGHT
+S#4-3. 진흙 벽돌 오두막 / 실내 / 밤
 
 Cast: Mia, Sabrina, Gwen
 인물: 미아, 사브리나, 그웬
@@ -865,8 +865,8 @@ Sabrina leans back against the wall, arms crossed now, and looks up at the dark 
 SABRINA: A man with no shame will do anything.
 사브리나: 낯 두꺼운 남자는 무슨 짓이든 해.
 
-S#4-4. Outside Luke's Hut / EXT / NIGHT
-S#4-4. 루크의 오두막 밖 / 실외 / 밤
+S#4-4. Outside the Mud-Brick Hut / EXT / NIGHT
+S#4-4. 진흙 벽돌 오두막 밖 / 실외 / 밤
 
 Cast: Luke, System
 인물: 루크, 시스템
@@ -931,8 +931,8 @@ The can pyramid blinks out of the air. Luke laughs out loud, then quickly slaps 
 Moments later: two cans appear in Luke's hands. Luke pries the lids open and dumps thick stew into the clay jar over a little fire of dry reeds. A sprinkle of spice. Steam rolls up.
 잠시 후. 루크의 손에 통조림 두 개가 나타난다. 루크가 뚜껑을 비틀어 따서 마른 갈대로 지핀 작은 불 위의 진흙 항아리에 걸쭉한 스튜를 붓는다. 향신료를 툭툭. 김이 피어오른다.
 
-S#4-5. Luke's Hut / INT / NIGHT
-S#4-5. 루크의 오두막 / 실내 / 밤
+S#4-5. Mud-Brick Hut / INT / NIGHT
+S#4-5. 진흙 벽돌 오두막 / 실내 / 밤
 
 Cast: Gwen, Mia, Sabrina, Luke
 인물: 그웬, 미아, 사브리나, 루크
@@ -988,8 +988,8 @@ MIA: It smells amazing!
 EP.05
 5화
 
-S#5-1. Luke's Hut / INT / NIGHT
-S#5-1. 루크의 오두막 / 실내 / 밤
+S#5-1. Mud-Brick Hut / INT / NIGHT
+S#5-1. 진흙 벽돌 오두막 / 실내 / 밤
 
 Cast: Luke, Mia, Gwen, Sabrina
 인물: 루크, 미아, 그웬, 사브리나
@@ -1084,8 +1084,8 @@ LUKE: You've got a smart mouth.
 LUKE: Nobody can resist beef!
 루크: 소고기 앞에선 아무도 못 버텨!
 
-S#5-2. Luke's Hut / INT / NIGHT
-S#5-2. 루크의 오두막 / 실내 / 밤
+S#5-2. Mud-Brick Hut / INT / NIGHT
+S#5-2. 진흙 벽돌 오두막 / 실내 / 밤
 
 Cast: Luke, Mia, Gwen, Sabrina
 인물: 루크, 미아, 그웬, 사브리나
@@ -1132,8 +1132,8 @@ LUKE: You three take the bed.
 LUKE: I'll sleep outside!
 루크: 난 밖에서 잘게!
 
-S#5-3. Outside Luke's Hut / EXT / NIGHT
-S#5-3. 루크의 오두막 밖 / 실외 / 밤
+S#5-3. Outside the Mud-Brick Hut / EXT / NIGHT
+S#5-3. 진흙 벽돌 오두막 밖 / 실외 / 밤
 
 Cast: Luke, Gwen
 인물: 루크, 그웬
@@ -1237,8 +1237,8 @@ REX: Move!
 EP.06
 6화
 
-S#6-1. Luke's Hut / INT / NIGHT
-S#6-1. 루크의 오두막 / 실내 / 밤
+S#6-1. Mud-Brick Hut / INT / NIGHT
+S#6-1. 진흙 벽돌 오두막 / 실내 / 밤
 
 Cast: Mia, Gwen, Sabrina
 인물: 미아, 그웬, 사브리나
@@ -1285,8 +1285,8 @@ SABRINA (V.O.): He's no ordinary broke nobody.
 SABRINA (V.O.): Maybe he really could change my fate.
 사브리나 (속마음): 어쩌면, 정말 내 팔자를 바꿔 줄지도 몰라.
 
-S#6-2. Outside Luke's Hut / EXT / NIGHT
-S#6-2. 루크의 오두막 밖 / 실외 / 밤
+S#6-2. Outside the Mud-Brick Hut / EXT / NIGHT
+S#6-2. 진흙 벽돌 오두막 밖 / 실외 / 밤
 
 Cast: Luke
 인물: 루크
@@ -1327,8 +1327,8 @@ LUKE (V.O.): Those three draw way too much attention.
 LUKE (V.O.): I've got no strength. I can't protect them. I can't even protect myself.
 루크 (속마음): 나한텐 힘이 없어. 저 여자들도 못 지키고, 나 자신도 못 지켜.
 
-S#6-3. Luke's Hut / INT / NIGHT
-S#6-3. 루크의 오두막 / 실내 / 밤
+S#6-3. Mud-Brick Hut / INT / NIGHT
+S#6-3. 진흙 벽돌 오두막 / 실내 / 밤
 
 Cast: Mia, Luke, Gwen, Sabrina, System
 인물: 미아, 루크, 그웬, 사브리나, 시스템
@@ -1384,8 +1384,8 @@ LUKE: (whispering, grinning) This one. This is all I need.
 EP.07
 7화
 
-S#7-1. Luke's Hut / INT / NIGHT
-S#7-1. 루크의 오두막 / 실내 / 밤
+S#7-1. Mud-Brick Hut / INT / NIGHT
+S#7-1. 진흙 벽돌 오두막 / 실내 / 밤
 
 Cast: Luke, Mia, System
 인물: 루크, 미아, 시스템
@@ -1420,7 +1420,7 @@ MIA: (whispering to herself) He hasn't closed his eyes all night.
 MIA: (whispering) He's been getting ready to protect us.
 미아: (속삭이며) 우리를 지킬 준비를 하고 계셨던 거야.
 
-Luke slides the rifle and the three magazines deep under the workbench and throws an empty grain sack over them. Luke stays crouched there, tense, back to the room.
+Luke slides the rifle and the three magazines deep under the workbench and throws an empty grain sack on top. Luke stays crouched there, tense, back to the room.
 루크가 소총과 탄창 세 개를 작업대 밑 깊숙이 밀어 넣고 빈 곡식 자루를 덮는다. 루크가 방을 등진 채 잔뜩 긴장해 웅크리고 있다.
 
 Barefoot on the straw, Mia gets up and creeps across the room, right up behind Luke.
@@ -1444,8 +1444,8 @@ Mia leans in close, smile widening, and lays one hand softly on Luke's chest ove
 MIA: Let me make you feel good, master.
 미아: 주인님, 제가 편하게 해 드릴게요.
 
-S#7-2. Luke's Hut, by the Hearth / INT / NIGHT
-S#7-2. 루크의 오두막, 화덕 옆 / 실내 / 밤
+S#7-2. Mud-Brick Hut, by the Hearth / INT / NIGHT
+S#7-2. 진흙 벽돌 오두막, 화덕 옆 / 실내 / 밤
 
 Cast: Luke, Mia
 인물: 루크, 미아
@@ -1507,13 +1507,13 @@ SABRINA: Looks so timid. But she sure knows how to steal a man.
 Gwen says nothing. Gwen's jaw clenches, eyes locked on the gap.
 그웬은 아무 말도 없다. 그웬이 이를 꽉 문 채 틈에서 눈을 떼지 못한다.
 
-S#7-4. Luke's Hut, by the Hearth / INT / NIGHT
-S#7-4. 루크의 오두막, 화덕 옆 / 실내 / 밤
+S#7-4. Mud-Brick Hut, by the Hearth / INT / NIGHT
+S#7-4. 진흙 벽돌 오두막, 화덕 옆 / 실내 / 밤
 
 Cast: Luke, Mia
 인물: 루크, 미아
 
-The straw bed of the floor. The gray curtain hangs behind. Blue night light drifts in through the little window. Luke and Mia lie side by side, Mia curled against Luke.
+The straw spread on the floor. The gray curtain hangs behind. Blue night light drifts in through the little window. Luke and Mia lie side by side, Mia curled against Luke.
 바닥의 짚 자리. 뒤로 회색 커튼이 드리워져 있다. 작은 창으로 푸른 밤빛이 흘러든다. 루크와 미아가 나란히 누워 있고, 미아가 루크에게 몸을 붙인다.
 
 Mia rolls onto the stomach, hands braced on the straw, and looks back over one shoulder at Luke. Mia's eyes drop.
@@ -1546,8 +1546,8 @@ Sabrina lies on the back in the dark, one fist knotted in the hem of the navy dr
 Sabrina's eyes close. Sabrina's head tips back. Lips part. Sweat beads along Sabrina's hairline, under the bangs.
 사브리나의 눈이 감긴다. 고개가 뒤로 젖혀진다. 입술이 벌어진다. 앞머리 밑 이마선을 따라 땀이 맺힌다.
 
-S#7-6. Luke's Hut, the Door / INT / NIGHT
-S#7-6. 루크의 오두막, 문 / 실내 / 밤
+S#7-6. Mud-Brick Hut, the Door / INT / NIGHT
+S#7-6. 진흙 벽돌 오두막, 문 / 실내 / 밤
 
 Cast: Rex's Man
 인물: 렉스의 부하
@@ -1564,8 +1564,8 @@ REX'S MAN (O.S.): Luke! Open the door!
 EP.08 (PAYWALL)
 8화 (페이월)
 
-S#8-1. Luke's Hut / INT / NIGHT
-S#8-1. 루크의 오두막 / 실내 / 밤
+S#8-1. Mud-Brick Hut / INT / NIGHT
+S#8-1. 진흙 벽돌 오두막 / 실내 / 밤
 
 Cast: Luke, Mia, Gwen, Sabrina, Rex, Rex's Man, Spearmen, Soldiers
 인물: 루크, 미아, 그웬, 사브리나, 렉스, 렉스의 부하, 창병들, 병사들
@@ -1648,7 +1648,7 @@ Mia holds both hands to the chest and stares at Luke's back, eyes full of tears.
 MIA (V.O.): Even now... Luke is still protecting us.
 미아 (속마음): 이 지경이 됐는데도... 루크 님은 아직도 우리를 지키고 있어.
 
-Luke pulls the three clay seals out of the kilt and holds them up in the torchlight.
+Luke pulls the three clay seals out of the kilt and holds the seals up in the torchlight.
 루크가 킬트에서 진흙 인장 세 개를 꺼내 횃불 빛에 들어 보인다.
 
 LUKE: I have the marriage seals.
@@ -1726,7 +1726,7 @@ Rex looks to the soldiers and the spearmen and throws an arm forward.
 REX: Get him!
 렉스: 쳐라!
 
-The soldiers rip swords from the sheaths. The spearmen drop the spear points. All of them charge at Luke at once.
+The soldiers rip swords from the sheaths. The spearmen drop the spear points. Every soldier and spearman charges at Luke at once.
 병사들이 칼집에서 칼을 뽑는다. 창병들이 창끝을 내린다. 모두가 한꺼번에 루크에게 달려든다.
 
 LUKE: You asked for this.

@@ -167,7 +167,7 @@ REX: One word from my father, and you get skinned alive and hung on the city gat
 렉스: 우리 아버지 말 한마디면, 넌 산 채로 가죽이 벗겨져서 성문에 매달려!
 
 MIA: Luke, run! If you go now, there's still time!
-미아: 주인님, 도망쳐요! 지금 떠나면 아직 늦지 않았어요!
+미아: 루크, 도망쳐요! 지금 떠나면 아직 늦지 않았어요!
 
 Gwen steps up beside Luke, khopesh raised. Sweat shines on Gwen's face. Gwen's eyes are sharp and dead set.
 그웬이 코페시를 치켜들고 루크 옆으로 나선다. 얼굴에 땀이 번들거린다. 눈빛이 날카롭고 단호하다.
@@ -206,7 +206,7 @@ Mia looks into Luke's eyes and answers softly.
 미아가 루크의 눈을 바라보며 조용히 답한다.
 
 MIA: I trust you.
-미아: 믿어요, 주인님.
+미아: 믿어요.
 
 On the gun, two hands overlap. Mia's small hand on the grip, the blue bead bracelet on the wrist. Luke's hand closes over Mia's.
 총 위에서 두 손이 겹친다. 손잡이를 쥔 미아의 작은 손, 손목의 파란 구슬 팔찌. 루크의 손이 그 위를 감싼다.
@@ -313,8 +313,8 @@ MIA: We're dead.
 Luke holds the AK-47 low in one hand and looks down at the other palm. A small smile. Totally calm.
 루크가 한 손에 AK-47을 늘어뜨린 채 다른 손바닥을 내려다본다. 입가에 옅은 미소. 너무나 태연하다.
 
-LUKE: System. Recycle.
-루크: 시스템. 회수.
+LUKE: System. Clean this up.
+루크: 시스템. 싹 치워.
 
 In Luke's palm crouches a tiny kitten made of golden light. Gold sparks float up around it like dust in the sun.
 루크의 손바닥 위에 빛으로 된 금빛 새끼 고양이가 웅크리고 있다. 그 둘레로 금빛 불티가 햇살 속 먼지처럼 떠오른다.
@@ -454,8 +454,8 @@ Tears stream down Gwen's face. Gwen's chin lifts. Something between fear and won
 Luke opens one hand. The golden kitten of light lies curled in the palm. Luke smiles down at it.
 루크가 한 손을 편다. 빛으로 된 금빛 새끼 고양이가 손바닥에 몸을 말고 있다. 루크가 고양이를 내려다보며 웃는다.
 
-SYSTEM: System recycle.
-시스템: 시스템 회수.
+SYSTEM: Scene cleanup unlocked.
+시스템: 현장 정리 잠금 해제.
 
 SYSTEM: Instant cleanup.
 시스템: 즉시 정리.
@@ -926,7 +926,7 @@ LUKE: Keep it as clean as you can.
 루크: 최대한 깨끗하게 치워 둬.
 
 MIA: Yes.
-미아: 네, 주인님.
+미아: 네.
 
 MIA: I'll scrub it till it looks brand new.
 미아: 새집처럼 반짝반짝하게 닦아 놓을게요.
@@ -967,8 +967,8 @@ Luke stands still, face serious, warm light on one cheek. Luke's eyes land on Gw
 LUKE: And you...
 루크: 그리고 너...
 
-LUKE: Come on. Say it.
-루크: 말해 봐.
+LUKE: Here's your job.
+루크: 네가 할 일은 이거야.
 
 LUKE: You were trained like one of Pharaoh's warriors.
 루크: 너, 파라오 군대 전사처럼 훈련받았잖아.

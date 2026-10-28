@@ -1,8 +1,8 @@
 EP.17
 17화
 
-S#17-1. Luke's Hut / INT / NIGHT
-S#17-1. 루크의 오두막 / 실내 / 밤
+S#17-1. Mud-Brick Hut / INT / NIGHT
+S#17-1. 진흙 벽돌 오두막 / 실내 / 밤
 
 Cast: Luke, Gwen, Mia, Sabrina
 인물: 루크, 그웬, 미아, 사브리나
@@ -152,7 +152,7 @@ MIA: How?
 미아: 어떻게요?
 
 MIA: Are you dreaming?
-미아: 주인님, 꿈꾸시는 거 아니죠?
+미아: 꿈꾸시는 거 아니죠?
 
 Luke only grins wider. A burst of yellow, pink and purple light floods the screen and washes everything out.
 루크가 더 크게 웃기만 한다. 노랑, 분홍, 보랏빛이 화면 가득 번지며 모든 걸 하얗게 덮는다.
@@ -163,8 +163,8 @@ LUKE: You'll see tomorrow!
 EP.18
 18화
 
-S#18-1. Luke's Hut / INT / NIGHT
-S#18-1. 루크의 오두막 / 실내 / 밤
+S#18-1. Mud-Brick Hut / INT / NIGHT
+S#18-1. 진흙 벽돌 오두막 / 실내 / 밤
 
 Cast: Luke, Mia, Gwen, Sabrina, System
 인물: 루크, 미아, 그웬, 사브리나, 시스템
@@ -200,7 +200,7 @@ Mia keeps staring up, chewing on a thought.
 미아가 계속 위를 보며 무언가를 곱씹는다.
 
 MIA (V.O.): Should I sleep with him again tonight?
-미아 (속마음): 오늘 밤에도... 주인님이랑 같이 잘까?
+미아 (속마음): 오늘 밤에도... 저 사람이랑 같이 잘까?
 
 Beside Luke's head curls the System: a small golden kitten made of light, ears straight up. Only Luke can see it.
 루크 머리맡에 시스템이 웅크리고 있다. 빛으로 된 작은 금빛 새끼 고양이, 귀를 쫑긋 세웠다. 루크 눈에만 보인다.
@@ -250,8 +250,8 @@ MIA: (whispering) I need some cola too.
 Gwen pulls the bottle from Gwen's lips and turns toward Mia.
 그웬이 입에서 병을 떼고 미아 쪽으로 돌아눕는다.
 
-S#18-2. Luke's Hut / INT / DAY
-S#18-2. 루크의 오두막 / 실내 / 낮
+S#18-2. Mud-Brick Hut / INT / DAY
+S#18-2. 진흙 벽돌 오두막 / 실내 / 낮
 
 Cast: Luke, Captain
 인물: 루크, 경비대장
@@ -301,8 +301,8 @@ CAPTAIN: And I'm not a patient man.
 The Captain stares Luke down and says nothing more.
 경비대장이 루크를 내려다보며 더는 말이 없다.
 
-S#18-3. Luke's Hut / INT / DAY
-S#18-3. 루크의 오두막 / 실내 / 낮
+S#18-3. Mud-Brick Hut / INT / DAY
+S#18-3. 진흙 벽돌 오두막 / 실내 / 낮
 
 Cast: Luke, Captain, Guard 1, Guard 2, Sabrina, Gwen, Mia
 인물: 루크, 경비대장, 경비병 1, 경비병 2, 사브리나, 그웬, 미아
@@ -349,8 +349,8 @@ CAPTAIN: Gods... is this a miracle?
 EP.19
 19화
 
-S#19-1. Luke's Hut / INT / DAY
-S#19-1. 루크의 오두막 / 실내 / 낮
+S#19-1. Mud-Brick Hut / INT / DAY
+S#19-1. 진흙 벽돌 오두막 / 실내 / 낮
 
 Cast: Mia, Guard 1, Guard 2, Luke, Captain, Gwen, Sabrina
 인물: 미아, 경비병 1, 경비병 2, 루크, 경비대장, 그웬, 사브리나
@@ -481,8 +481,8 @@ CAPTAIN: Wait here. The General will come to see you himself.
 EP.20
 20화
 
-S#20-1. Luke's Hut / INT / DAY
-S#20-1. 루크의 오두막 / 실내 / 낮
+S#20-1. Mud-Brick Hut / INT / DAY
+S#20-1. 진흙 벽돌 오두막 / 실내 / 낮
 
 Cast: Luke, Mia, Gwen, Sabrina, System
 인물: 루크, 미아, 그웬, 사브리나, 시스템
