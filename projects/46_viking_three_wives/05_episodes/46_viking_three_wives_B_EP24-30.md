@@ -307,8 +307,8 @@ Luke, shirtless, is over Mia now. Eyes locked. Bodies pressed tight.
 Suddenly both push up on the arms, mouths open, and stare at the door. Frozen.
 갑자기 둘이 팔로 몸을 일으키며 입을 벌린 채 문 쪽을 본다. 그대로 굳는다.
 
-The old wooden door stands half open. Blue moonlight leaks in through the gap.
-낡은 나무 문이 반쯤 열려 있다. 문틈으로 푸른 달빛이 새어 들어온다.
+The old wooden door is open just a crack. A thin line of blue moonlight leaks through.
+낡은 나무 문이 살짝 열려 있다. 가느다란 문틈으로 푸른 달빛이 새어 들어온다.
 
 Outside stands Sabrina. Sleek black bob with bangs, sharp winged kohl, dark berry lips, the gold-and-lapis collar.
 문밖에 사브리나가 서 있다. 앞머리 있는 매끈한 검은 단발, 날카로운 날개형 콜, 짙은 베리색 입술, 금·청금석 목걸이.
@@ -373,8 +373,8 @@ SABRINA: I came to see what the man who got an estate in one day is up to.
 Sabrina walks up close and lays one finger on Luke's bare stomach.
 사브리나가 바짝 다가와 손가락 하나를 루크의 맨배에 댄다.
 
-[INSERT] A long-nailed fingertip slides slowly down Luke's hard stomach.
-[인서트] 긴 손톱 끝이 루크의 단단한 배를 천천히 타고 내려간다.
+[INSERT] A long-nailed fingertip slides slowly down Luke's bare stomach.
+[인서트] 긴 손톱 끝이 루크의 맨살 배를 천천히 타고 내려간다.
 
 Luke sits down on the straw bed. Sabrina stands over Luke, arms folded again, looking down.
 루크가 짚 침상에 앉는다. 사브리나가 다시 팔짱을 끼고 그 앞에 서서 내려다본다.
@@ -688,6 +688,9 @@ STEWARD: He knows we've joined the Lion General.
 STEWARD: He wants us all dead before word gets out.
 집사: 소문이 퍼지기 전에 우리를 다 죽이려는 겁니다.
 
+STEWARD: I've sent a rider to the Lion General.
+집사: 사자 장군께 전령을 보냈습니다.
+
 STEWARD: I'll hold the front gate.
 집사: 제가 정문을 막겠습니다.
 
@@ -701,7 +704,7 @@ GWEN: I'm staying too.
 그웬: 나도 남을 거야.
 
 GWEN: I'll stop them even if it kills me.
-그웬: 목숨을 걸고라도 막아.
+그웬: 목숨을 걸고라도 막을 거야.
 
 STEWARD: You go first!
 집사: 먼저 가십시오!
@@ -892,8 +895,8 @@ An explosion throws fire and dust high over the gate.
 The Vizier's soldiers scream. One throws down a sword and runs. Then ten. Then every soldier still standing.
 재상의 병사들이 비명을 지른다. 하나가 칼을 내던지고 달아난다. 이어서 열. 이어서 서 있던 병사 전부.
 
-Swords clatter on the ground. The curly-haired spy shoves past the Vizier and runs into the dark.
-칼들이 땅바닥에 나뒹군다. 곱슬머리 첩자가 재상을 밀치고 어둠 속으로 달아난다.
+Swords clatter on the ground. The curly-haired spy shoves past the Vizier and runs for the dark, straight into a wall of spears coming down the hill, and drops to the knees.
+칼들이 땅바닥에 나뒹군다. 곱슬머리 첩자가 재상을 밀치고 어둠 쪽으로 달아나다가, 언덕을 내려오는 창날 벽에 그대로 막혀 무릎을 꿇는다.
 
 The Lion General's spearmen sweep down from the hill, spears lowered, and close a ring of bronze around the road.
 사자 장군의 창병들이 창을 겨눈 채 언덕을 쓸고 내려와 길을 청동 창날로 빙 둘러싼다.
@@ -1015,8 +1018,8 @@ S#30-1. 영지 정문 밖 / 실외 / 밤
 Cast: Luke, Gwen, Mia, Sabrina, Lion General, Spearmen
 인물: 루크, 그웬, 미아, 사브리나, 사자 장군, 창병들
 
-The smoke thins. The Vizier lies still in the dirt. The gold medallion sits in the mud.
-연기가 옅어진다. 재상이 흙바닥에 꼼짝 않고 누워 있다. 금 메달이 진흙 속에 처박혀 있다.
+The smoke thins. Luke lowers the rifle, smoke curling from the muzzle. The Vizier lies still in the dirt. The gold medallion sits in the mud.
+연기가 옅어진다. 루크가 총구에서 연기가 피어오르는 소총을 내린다. 재상이 흙바닥에 꼼짝 않고 누워 있다. 금 메달이 진흙 속에 처박혀 있다.
 
 The Lion General looks down at the Vizier's body.
 사자 장군이 재상의 시신을 내려다본다.
@@ -1102,6 +1105,9 @@ Mia peeks out from behind a stack of sacks and points.
 MIA: That row right there is three hundred pounds. Just the first row.
 미아: 저기 저 한 줄이 삼백 파운드예요. 맨 앞줄만요.
 
+The Herald takes the reed pen and signs, hand shaking.
+관리가 갈대 펜을 받아 떨리는 손으로 서명한다.
+
 S#30-3. Luke's Bedroom, the Estate / INT / NIGHT
 S#30-3. 영지, 루크의 침실 / 실내 / 밤
 
@@ -1117,11 +1123,11 @@ Luke, shirtless, fit and hard now, leans back against the warm wall. Eyes closed
 Mia, a gold flower crown in the brown waves, presses close and kisses Luke.
 갈색 웨이브 머리에 금 꽃관을 쓴 미아가 바짝 다가와 루크에게 입을 맞춘다.
 
-In golden backlight, Sabrina, a red linen robe over the gold-and-lapis collar, leans in and kisses Luke next.
-금빛 역광 속에서, 금·청금석 목걸이 위에 붉은 리넨 겉옷을 걸친 사브리나가 다가와 이어서 루크에게 입을 맞춘다.
+In golden backlight, Sabrina, the red linen robe sliding off one shoulder, takes Luke's jaw in one hand and kisses Luke next. Slow.
+금빛 역광 속에서, 붉은 리넨 겉옷이 한쪽 어깨에서 흘러내린 사브리나가 한 손으로 루크의 턱을 잡고 이어서 입을 맞춘다. 천천히.
 
-Gwen, high ponytail swinging, wraps both arms around Luke's neck and pulls close.
-그웬이 높은 포니테일을 흔들며 두 팔로 루크의 목을 끌어안는다.
+Gwen, high ponytail swinging, slides in from the side, wraps both arms around Luke's neck and pulls Luke against Gwen's body.
+그웬이 높은 포니테일을 흔들며 옆에서 파고들어 루크의 목을 두 팔로 감싸 안고, 제 몸 쪽으로 끌어당긴다.
 
 By the brazier, the golden kitten of light floats up, sparkling.
 청동 화로 옆에서 빛으로 된 금빛 새끼 고양이가 반짝이며 떠오른다.

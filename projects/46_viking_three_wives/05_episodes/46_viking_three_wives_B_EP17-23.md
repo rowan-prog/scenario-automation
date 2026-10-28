@@ -25,8 +25,8 @@ Luke holds a fork and stares into the bowl. Gwen LEANS across and drops a thick 
 Sabrina sits with the fire at Sabrina's back. Sabrina's eyes keep moving: the small window, the door, the window again.
 사브리나는 불을 등지고 앉아 있다. 눈이 쉬지 않고 움직인다. 작은 창, 문, 다시 창.
 
-SABRINA: (smirking) They threw you around pretty good today.
-사브리나: (피식 웃으며) 오늘 훈련에서 아주 제대로 내동댕이쳐지더라.
+SABRINA: (smirking) Looks like somebody threw you around pretty good today.
+사브리나: (피식 웃으며) 오늘 아주 제대로 내동댕이쳐졌나 보네.
 
 GWEN: Eat more.
 그웬: 더 먹어.
@@ -511,8 +511,8 @@ LUKE: Then it's just a pretty gift.
 The clay hearth burns, a clay pot on its ledge, the fire painting the room warm orange. Gwen walks right up to Luke, eyes sharp. Mia stays at the table, nervous.
 흙 화덕 불이 타오르고, 화덕 턱엔 진흙 단지가 놓여 있다. 불빛이 방을 따뜻한 주황으로 물들인다. 그웬이 날 선 눈으로 루크 바로 앞까지 다가온다. 미아는 탁자에 앉은 채 긴장한다.
 
-GWEN: The food. That black weapon. The bodies that vanished right in front of my eyes. And now holy armor.
-그웬: 음식, 그 검은 무기, 내 눈앞에서 사라진 시체들. 이젠 신성한 갑옷까지.
+GWEN: The food. That black weapon. The bodies that vanished behind my back. And now holy armor.
+그웬: 음식, 그 검은 무기, 내 등 뒤에서 사라진 시체들. 이젠 신성한 갑옷까지.
 
 GWEN: Where do you get all this?
 그웬: 이런 걸 다 어디서 가져오는 거야?
@@ -589,8 +589,8 @@ GWEN: What are you doing?
 Luke keeps eyes on the outside and drops Luke's voice.
 루크가 밖에서 눈을 떼지 않고 목소리를 낮춘다.
 
-LUKE: The Lion General is coming. We have to get ready.
-루크: 사자 장군이 오고 있어. 준비해야 돼.
+LUKE: Dust on the road. The Lion General is coming. We have to get ready.
+루크: 길에 먼지가 일어. 사자 장군이 오고 있어. 준비해야 돼.
 
 Luke grips the edge of the door, still tense.
 루크가 여전히 굳은 얼굴로 문 모서리를 움켜쥔다.
@@ -908,7 +908,7 @@ Cast: Curly-Haired Spy
 인물: 곱슬머리 첩자
 
 The Curly-Haired Spy hides behind the thick trunk. Red cloak, lion breastplate. Eyes narrowed, nervous, watching the General and Luke settle the deal.
-곱슬머리 첩자가 굵은 나무 둥치 뒤에 숨어 있다. 붉은 망토, 사자 무늬 가슴받이. 눈을 가늘게 뜨고, 장군과 루크가 손잡는 모습을 초조하게 훔쳐본다.
+곱슬머리 첩자가 굵은 나무 둥치 뒤에 숨어 있다. 붉은 망토, 사자 무늬 가슴받이. 눈을 가늘게 뜨고, 장군과 루크가 거래를 매듭짓는 모습을 초조하게 훔쳐본다.
 
 CURLY-HAIRED SPY (V.O.): That kid really got the Lion General on his side!
 곱슬머리 첩자 (속마음): 저 애송이가 진짜로 사자 장군을 제 편으로 만들었어!
@@ -1033,8 +1033,8 @@ SABRINA: The more people notice this estate, the easier it is to catch us.
 Sabrina keeps gazing up, tight-faced.
 사브리나가 굳은 얼굴로 계속 위를 본다.
 
-Luke and Gwen stand face to face, very close. Luke rests one hand on Gwen's shoulder and looks down, serious.
-루크와 그웬이 아주 가까이 마주 선다. 루크가 한 손을 그웬 어깨에 얹고 진지하게 내려다본다.
+Luke and Gwen stand face to face, very close. Luke rests one hand on Gwen's shoulder and looks up into Gwen's eyes, serious.
+루크와 그웬이 아주 가까이 마주 선다. 루크가 한 손을 그웬 어깨에 얹고 진지하게 올려다본다.
 
 GWEN: And your body's still too weak.
 그웬: 그리고 네 몸은 아직 너무 약해.

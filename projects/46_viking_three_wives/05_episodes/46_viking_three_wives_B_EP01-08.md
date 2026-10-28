@@ -28,8 +28,8 @@ LUKE (V.O.): My name is Luke.
 LUKE (V.O.): I used to be a regular guy. Twenty-first century.
 루크 (속마음): 원래는 21세기의 평범한 남자였어.
 
-GWEN, sleek black ponytail swinging, wraps both arms around Luke's neck from behind and pulls Luke back against Gwen's body.
-매끈한 검은 포니테일을 흔들며 그웬이 뒤에서 루크의 목을 두 팔로 감싸 안고, 제 몸 쪽으로 끌어당긴다.
+GWEN, sleek black ponytail swinging, slides in from the side, wraps both arms around Luke's neck and pulls Luke against Gwen's body.
+매끈한 검은 포니테일을 흔들며 그웬이 옆에서 파고들어 루크의 목을 두 팔로 감싸 안고, 제 몸 쪽으로 끌어당긴다.
 
 LUKE (V.O.): Now I've got three Egyptian beauties for wives.
 루크 (속마음): 그런데 지금은 이집트 미녀 셋이 내 아내야.
@@ -100,8 +100,8 @@ The crowd roars and shoves. A BYSTANDER grins at the front, a sulking woman stuc
 Through the crowd walks Gwen. Taller than the men around. Deep bronze skin. A hard warrior's build. Sleek black hair pulled into one high ponytail with a gold ring.
 군중 사이로 그웬이 걸어 나온다. 주위 남자들보다 키가 크다. 짙은 구릿빛 피부, 단단한 전사의 몸. 매끈한 검은 생머리를 금 고리로 높게 하나로 묶었다.
 
-Bronze scale vest. Short white pleated linen skirt. Wide bronze cuffs on both upper arms. A curved bronze khopesh hangs at Gwen's hip. An iron chain CLINKS around one ankle.
-비늘 청동 조끼, 짧은 흰 리넨 주름 치마. 양 위팔의 넓은 청동 팔찌. 굽은 청동검 코페시가 허리에 걸려 있다. 한쪽 발목에서 쇠사슬이 철컹거린다.
+Bronze scale vest. Short white pleated linen skirt. Wide bronze cuffs on both upper arms. An iron chain CLINKS around one ankle.
+비늘 청동 조끼, 짧은 흰 리넨 주름 치마. 양 위팔의 넓은 청동 팔찌. 한쪽 발목에서 쇠사슬이 철컹거린다.
 
 Amber eyes lined in thick kohl. No expression at all.
 짙은 콜을 그린 호박빛 눈. 표정이 하나도 없다.
@@ -601,8 +601,8 @@ REX'S MAN: An Egyptian man gets one wife. You're spitting on tradition!
 Rex's Man steps in nose to nose with Luke, rips the sword from the sheath, and lays the blade against Luke's throat. Luke doesn't blink.
 렉스의 부하가 루크와 코가 닿을 만큼 다가서더니 칼집에서 칼을 뽑아 루크의 목에 댄다. 루크는 눈도 깜빡하지 않는다.
 
-Behind Luke, by the wall, Mia gasps. Gwen's hand twitches toward the khopesh. Sabrina only watches.
-루크 뒤 담가에서 미아가 숨을 들이켠다. 그웬의 손이 코페시 쪽으로 움찔한다. 사브리나는 지켜보기만 한다.
+Behind Luke, by the wall, Mia gasps. Gwen's chained fist clenches. Sabrina only watches.
+루크 뒤 담가에서 미아가 숨을 들이켠다. 쇠사슬에 묶인 그웬의 주먹이 꽉 쥐어진다. 사브리나는 지켜보기만 한다.
 
 REX'S MAN: What did you say?
 렉스의 부하: 뭐라고?
@@ -676,6 +676,9 @@ The Scribe steps forward and presses three small clay seals into Luke's palm, on
 The Soldier kneels and unlocks the iron chain from Gwen's ankle. Then the Soldier turns a key in Mia's cuffs. The cuffs drop into the dust.
 병사가 무릎을 꿇고 그웬의 발목 쇠사슬을 푼다. 이어서 미아의 수갑에 열쇠를 돌린다. 수갑이 먼지 위로 떨어진다.
 
+The Soldier tosses a curved bronze khopesh into the dust at Gwen's feet. Gwen snatches it up.
+병사가 굽은 청동검 코페시를 그웬의 발치 먼지 위로 던진다. 그웬이 낚아채듯 집어 든다.
+
 Mia rubs the red marks on both wrists and stares at Luke. Gwen stands up slowly, testing the free ankle, hand on the khopesh.
 미아가 두 손목의 붉은 자국을 문지르며 루크를 바라본다. 그웬이 풀린 발목을 디뎌 보며 천천히 일어선다. 한 손은 코페시 위에.
 
@@ -724,8 +727,8 @@ LUKE: Bear with me.
 LUKE: Where I used to live, a dog would take one look and run. But hey, at least this place has a door.
 루크: 내가 전에 살던 데는 개도 한 번 보고 도망갔어. 그래도 여긴 문은 달렸잖아.
 
-Dirt and scrapes all over Luke's face. Luke looks wiped out. Luke drops the eyes, then lifts the eyes to Mia.
-루크의 얼굴은 흙과 상처투성이다. 녹초가 된 얼굴. 루크가 눈을 내리깔았다가 미아를 본다.
+Dirt smeared on Luke's face, the forehead scrape still raw. Luke looks wiped out. Luke drops the eyes, then lifts the eyes to Mia.
+루크의 얼굴에 흙이 묻어 있고, 이마의 찰과상은 아직 벌겋다. 녹초가 된 얼굴. 루크가 눈을 내리깔았다가 미아를 본다.
 
 [STATUS] MIA / AFFECTION: 15
 [상태창] 미아 / 호감도: 15
@@ -745,8 +748,8 @@ LUKE (V.O.): A place like this couldn't stop even a handful of soldiers.
 LUKE (V.O.): Just get through tonight.
 루크 (속마음): 일단 오늘 밤만 버티자.
 
-Sabrina sits low on an upturned jar, head down, hands on the knees. A blue window glows over the black bob.
-사브리나가 엎어 놓은 항아리에 낮게 앉아 고개를 숙이고 두 손을 무릎에 올려놓았다. 검은 단발 위로 파란 창이 빛난다.
+Sabrina sits low on a rickety wooden stool, head down, hands on the knees. A blue window glows over the black bob.
+사브리나가 삐걱거리는 나무 의자에 낮게 앉아 고개를 숙이고 두 손을 무릎에 올려놓았다. 검은 단발 위로 파란 창이 빛난다.
 
 [STATUS] SABRINA / AFFECTION: -2
 [상태창] 사브리나 / 호감도: -2
@@ -928,8 +931,8 @@ SYSTEM: Items stored in system space.
 The can pyramid blinks out of the air. Luke laughs out loud, then quickly slaps a hand over the mouth and glances back at the hut.
 통조림 피라미드가 허공에서 깜빡 사라진다. 루크가 소리 내 웃다가 얼른 손으로 입을 막고 오두막 쪽을 돌아본다.
 
-Moments later: two cans appear in Luke's hands. Luke pries the lids open and dumps thick stew into the clay jar over a little fire of dry reeds. A sprinkle of spice. Steam rolls up.
-잠시 후. 루크의 손에 통조림 두 개가 나타난다. 루크가 뚜껑을 비틀어 따서 마른 갈대로 지핀 작은 불 위의 진흙 항아리에 걸쭉한 스튜를 붓는다. 향신료를 툭툭. 김이 피어오른다.
+Moments later: four cans appear in Luke's hands. Luke pries the lids open and dumps thick stew into the clay jar over a little fire of dry reeds. A sprinkle of spice. Steam rolls up. Luke pours it all into a huge wooden bowl.
+잠시 후. 루크의 손에 통조림 네 개가 나타난다. 루크가 뚜껑을 비틀어 따서 마른 갈대로 지핀 작은 불 위의 진흙 항아리에 걸쭉한 스튜를 붓는다. 향신료를 툭툭. 김이 피어오른다. 루크가 그걸 전부 커다란 나무 그릇에 붓는다.
 
 S#4-5. Mud-Brick Hut / INT / NIGHT
 S#4-5. 진흙 벽돌 오두막 / 실내 / 밤
@@ -1144,8 +1147,8 @@ Luke lies on an old straw mat on the dirt outside the door, both arms folded beh
 Gwen stands over Luke, hand resting on the khopesh, looking down with narrowed eyes, body tight.
 그웬이 코페시에 손을 얹은 채 루크를 내려다보고 서 있다. 가늘게 뜬 눈, 잔뜩 긴장한 몸.
 
-GWEN: You said you won't touch us?
-그웬: 우리 안 건드린다고 했지?
+GWEN: You really won't touch us?
+그웬: 정말 우리 안 건드릴 거야?
 
 Luke doesn't move. Eyes still closed. Hands still behind the head.
 루크는 꼼짝하지 않는다. 눈도 감은 채, 손도 머리 뒤에 둔 채.
@@ -1600,8 +1603,8 @@ REX: You touched that girl?
 REX: Damn it.
 렉스: 빌어먹을.
 
-REX: They were already mine.
-렉스: 다 내 손에 들어온 거였는데.
+REX: Fresh meat, already in my mouth.
+렉스: 다 잡은 고기였는데.
 
 REX: And this bastard wrecked it all!
 렉스: 이 새끼가 다 망쳐 놨어!
