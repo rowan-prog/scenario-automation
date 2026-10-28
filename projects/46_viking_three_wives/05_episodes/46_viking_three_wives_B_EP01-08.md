@@ -103,8 +103,8 @@ Through the crowd walks Gwen. Taller than the men around. Deep bronze skin. A ha
 Bronze scale vest. Short white pleated linen skirt. Wide bronze cuffs on both upper arms. A curved bronze khopesh hangs at Gwen's hip. An iron chain CLINKS around one ankle.
 비늘 청동 조끼, 짧은 흰 리넨 주름 치마. 양 위팔의 넓은 청동 팔찌. 굽은 청동검 코페시가 허리에 걸려 있다. 한쪽 발목에서 쇠사슬이 철컹거린다.
 
-Amber eyes lined in thick kohl. A faint scar on the jaw. No expression at all.
-짙은 콜을 그린 호박빛 눈. 턱의 옅은 흉터. 표정이 하나도 없다.
+Amber eyes lined in thick kohl. No expression at all.
+짙은 콜을 그린 호박빛 눈. 표정이 하나도 없다.
 
 [NAME CARD] GWEN — Warrior's Daughter
 [이름] 그웬 — 전사의 딸
