@@ -153,3 +153,8 @@
   - 영어 병기 = 칸마다 처음 나올 때(Ryan Hale · Ivy Gray · Madison · Molly · Ruby · Blackwell Casino · Las Vegas · Bride Conquest System · Eye of Truth · Death Witch · Lich Queen · Groom Hunt). 원작 중문 대본 主要人物에도 원작 영어 이름 병기.
   - 게이트: plain-reader(새 KR 칸) 9건 수정 · 중국어 원어민 검토 29건 반영(이미 고쳐 쓴 문장 대상 건 제외) · "~하지 마세요" 스윕(라이언 카드 금지문 · 필수 1 '넣지 말아 주세요' · 금기 '썩은 느낌' 삭제) · name_leak PASS(spec + docx · Groom = 원작 역할 라벨 오탐) · Word PDF 렌더 확인.
 - **레퍼런스 플랫폼 정정(사용자 같은 날):** *"왠 billbill? netshort이라고 적어 레퍼런스."* → 원작 플랫폼 = **NetShort**. bilibili.tv는 영상이 올라와 있던 곳일 뿐(위 3·23줄의 "확인된 등록처 = bilibili"는 폐기). 러프 · spec · 작가 proposal md 2종 · docx 재빌드 반영(기존 KR_CN.docx가 Word에 열려 있어 `_KR_CN_v2.docx`로 저장 = 현재 정본).
+
+## 2026-10-28 작가(중국인) 무료회차 초고(1028 · 1~8화) 인입 + 한국어 번역 + 검토
+- 원본 = `C:\Users\Rowan\Downloads\KISS THE MONSTER BRIDE OR DIE1028.docx` · 사본 = `45_horror_game_hottie_writer_free_v1_original_cn.docx` · 추출 = `_writer_free_v1_cn.txt`(368줄 · 표·텍스트박스·변경 이력 0) · 번역 = `_writer_free_v1_kr.txt`(중문 줄 번호 붙임) + `Kiss the Monster Bride or Die_작가 무료회차 초고(1028·1-8화)_한국어 번역본.docx`(하우스 양식 · 8화 (페이월) · 말풍선 10 = 인물 줄 4 · 화자 표기 2 · 오타/소품 4 · 빌더 `_build_kr_translation_1028.py`).
+- 화 목록 = 1~8화 결번·중복·순서·씬 번호 앞자리 오류 0(episode_number_check · 씬 9). 원작 이름 0(name_leak = 宾客·系统 같은 흔한 말만 걸림). 연결 장부 = 씬 9/9 · 화 경계 7/7(fresh opus 1기 + 메인 대조) → 확정 모순 0 · 확인 필요 4(1화 63·65 라이언 대사 VO 빠짐 / 4화 198 옆자리 하객이 라이언 이름을 앎 / 4화 191 라이언이 거울 힐끗 / 8화 366 거울에 밀어붙임).
+- 기획 대비 큰 차이(사용자 보고): ①신랑 찾기 게임 설정이 없음(신랑 후보가 8화 330줄에 처음 나옴) ②하객 눈의 아이비 = 썩은 시체·귀밑까지 찢어진 입(107)·귀신 얼굴(19) — 첨부 디자인과 반대 ③루비 0회(5-1 인물 줄만)·몰리 5화 부케 전달뿐·매디슨 이름 자막·외모 0 + 8화 매달리는 장면 빠짐 ④8-2 광고 직전 컷 표시 없음 + 357·360 노출 ⑤라이언 겁먹는 지문 9곳 · 4화 가터 퀘스트를 억지로 하는 톤 ⑥1960년대 라스베이거스·블랙웰 카지노 표기 0.
