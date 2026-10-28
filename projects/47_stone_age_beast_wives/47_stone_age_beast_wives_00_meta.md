@@ -49,3 +49,9 @@
 ## 2026-10-28 보니 말끝 삭제 · 작가 proposal = Codex에 맡김
 - 사용자: *"보니(hop~), 이거 hop 비직관적임 … 늑대는 아우~나 멍멍으로, 고양인 먀오~ 야옹! 하면 되는데 토끼는 흠.. 애매해. 모든 수인족이 그럴 필욘 없긴 하거던 … 바꾸거나 없는 게 나아보여."* → **보니 말끝 소리 삭제.** 말끝 = 록시 awoo~ · 코코 meow~ 둘뿐. 보니는 귀(쫑긋·납작)·코(씰룩)·발(쿵쿵)로 속마음이 들킨다. 러프 5화 「고마워… hop~」 → 「…고마워.」(귀가 쫑긋) · 비고 말끝 줄 · 히로인 설계 말투·대사 예시 3줄 고침.
 - 작가 proposal = 한국어만(중국어는 나중) · 사용자가 GPT 이미지 확정 후 캐릭터별로 직접 넣음 → Codex 지시문 = `C:\Users\Rowan\scenario-automation\projects\47_stone_age_beast_wives\47_stone_age_beast_wives_codex_proposal_지시문.md`(산출 = `_p1_proposal_spec_kr.txt` + `Vigloo AI Drama Proposal_MY STONE AGE LIFE WITH BEAST GIRLS.docx` · 인물 칸마다 `〔캐릭터 이미지 자리〕`).
+
+## 2026-10-28 원작 《I Woke Up With a Tribe of Beast Girls》 한국어 정식대본
+- 사용자: *"i woke~ 이것도 한국어 정식 대본화 필요해."* → `reference/I Woke Up With a Tribe of Beast Girls.원작 정식대본_KR.md/.docx`(50화 · 204씬 · 원작 이름 그대로 · docx = 하우스 양식 한 언어 · 변환기 `tools/formal_kr_to_house_docx.py`).
+- 인물표·용어표 = `reference/I Woke Up With a Tribe of Beast Girls_인물표.md`(sonnet 1기 전권 정독 · 에단 라벨 ~30가지 · 클로에 = 토끼 귀 사냥대장 · 미아 = 고양이족 젊은 우두머리 · 루나 = 흰 늑대 귀 · 샤론 = 여우 귀·「먀오」 · 스칼렛 = 늑대족 알파 · 오딘 = 원로 알파 · 베인(48~49)=페인(50) 추정 · 판정 못 한 것 24).
+- **🚨 화 목록: 1~50화 헤더 결번 0 · 그러나 9화 본문 = 8화와 대사 44/44 같은 구간 중복 수록 → 실제 9화 내용 없음**(10화 미아 「클로에랑 내기했다며」 = 내기 성립 장면이 9화에 있었을 것). 정식대본 9화 = 「역대본 원본 누락」 표시만. 9화 영상·자막 확보 시 채움.
+- 절차: 1차 sonnet 10기(5화씩 · 지시서 `scratchpad/47kr/00_지시서.md`) → 메인 대조로 32화 「미아랑 루나 불러와」 복원 · 48화 「스칼렛은 합병 안 받아들인다」 = 낮 장면 클로에 대사로 이동 · 37화 칭찬 화자 뒤바뀜 수정 → 1·5화에도 문답 엇갈림 확인 → 2차 opus 5기(10화씩 · 화자·문답 정합만).
