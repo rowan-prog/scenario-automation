@@ -1,12 +1,14 @@
 # -*- coding: utf-8 -*-
 """검토 보고서 md → docx (맑은 고딕). 지원: # / ## / ### 제목, 문단, '- ' 목록, '| ' 표, **굵게**.
 
-사용: py -3 _build_review_docx.py <보고서.md> <보고서.docx>
+사용: py -3 _build_review_docx.py <보고서.md> <보고서.docx> [--landscape]
+표 칸 안 줄바꿈 = '<br>'.
 """
 import re
 import sys
 
 import docx
+from docx.enum.section import WD_ORIENT
 from docx.enum.table import WD_TABLE_ALIGNMENT
 from docx.oxml import OxmlElement
 from docx.oxml.ns import qn
@@ -41,12 +43,19 @@ def shade(cell, hex_):
     tcPr.append(sh)
 
 
-def build(md, out):
+def build(md, out, landscape=False):
     lines = open(md, encoding='utf-8').read().split('\n')
     d = docx.Document()
     s = d.sections[0]
-    s.left_margin = s.right_margin = Cm(2.2)
-    s.top_margin = s.bottom_margin = Cm(1.9)
+    if landscape:   # 가로 A4 · 표가 넓은 보고서용
+        s.orientation = WD_ORIENT.LANDSCAPE
+        s.page_width, s.page_height = Cm(29.7), Cm(21.0)
+        s.left_margin = s.right_margin = Cm(1.6)
+        s.top_margin = s.bottom_margin = Cm(1.5)
+    else:
+        s.left_margin = s.right_margin = Cm(2.2)
+        s.top_margin = s.bottom_margin = Cm(1.9)
+    body_w = (s.page_width - s.left_margin - s.right_margin) / 360000   # cm
 
     def para(before=0, after=4, indent=0):
         p = d.add_paragraph()
@@ -73,11 +82,26 @@ def build(md, out):
             t = d.add_table(rows=len(rows), cols=len(rows[0]))
             t.style = 'Table Grid'
             t.alignment = WD_TABLE_ALIGNMENT.CENTER
+            # 열 너비 = 글자 수 비례(좁은 열 최소 2cm)
+            ncol = len(rows[0])
+            fixed = {'#': 0.8, '위치': 3.2}   # 번호·위치 열은 고정 너비
+            free = [c for c in range(ncol) if rows[0][c] not in fixed]
+            wt = {c: max(6, min(260, max(len(r[c]) if c < len(r) else 0 for r in rows))) for c in free}
+            rest = body_w - sum(fixed[rows[0][c]] for c in range(ncol) if c not in free)
+            ws = [fixed[rows[0][c]] if c not in free else max(2.0, rest * wt[c] / sum(wt.values())) for c in range(ncol)]
+            k_ = rest / sum(ws[c] for c in free)
+            ws = [w * k_ if c in free else w for c, w in enumerate(ws)]
+            t.autofit = False
+            for c_i, w in enumerate(ws):
+                t.columns[c_i].width = Cm(w)
             for r_i, row in enumerate(rows):
                 for c_i, val in enumerate(row):
                     cell = t.cell(r_i, c_i)
-                    cell.paragraphs[0].paragraph_format.space_after = Pt(1)
-                    runs(cell.paragraphs[0], val, size=9.5, bold_all=(r_i == 0))
+                    cell.width = Cm(ws[c_i])
+                    for k, part in enumerate(val.split('<br>')):   # 칸 안 줄바꿈
+                        p = cell.paragraphs[0] if k == 0 else cell.add_paragraph()
+                        p.paragraph_format.space_after = Pt(1)
+                        runs(p, part.strip(), size=9.5, bold_all=(r_i == 0))
                     if r_i == 0:
                         shade(cell, 'EFE6D2')
             para(after=4)
@@ -106,4 +130,4 @@ def build(md, out):
 
 
 if __name__ == '__main__':
-    build(sys.argv[1], sys.argv[2])
+    build(sys.argv[1], sys.argv[2], landscape='--landscape' in sys.argv[3:])
