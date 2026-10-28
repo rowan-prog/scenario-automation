@@ -313,8 +313,8 @@ The old wooden door stands half open. Blue moonlight leaks in through the gap.
 Outside stands Sabrina. Sleek black bob with bangs, sharp winged kohl, dark berry lips, the gold-and-lapis collar.
 문밖에 사브리나가 서 있다. 앞머리 있는 매끈한 검은 단발, 날카로운 날개형 콜, 짙은 베리색 입술, 금·청금석 목걸이.
 
-Sabrina wears a red linen robe over a white linen night dress. Sabrina's hand clutches a folded linen cloth.
-사브리나는 흰 리넨 잠옷 위에 붉은 리넨 겉옷을 걸쳤다. 손에는 접은 리넨 천을 꼭 쥐고 있다.
+Sabrina wears a red linen robe over a white linen night dress. Bare feet on the cold stone.
+사브리나는 흰 리넨 잠옷 위에 붉은 리넨 겉옷을 걸쳤다. 차가운 돌바닥에 맨발이다.
 
 Mia ducks low, both hands clapped over the mouth. Tense.
 미아가 몸을 잔뜩 낮추고 두 손으로 입을 틀어막는다. 긴장했다.
@@ -766,8 +766,8 @@ VIZIER: The three women... have all the fun you want with them. Then kill them.
 Behind the Vizier's soldiers, a line of torches comes over the hill. The Lion General's spearmen.
 재상의 병사들 뒤, 언덕 위로 횃불 줄이 넘어온다. 사자 장군의 창병들이다.
 
-Smoke rolls out of the gate. Luke walks out of the smoke, rifle resting on one shoulder, an easy smile. A black tactical vest over a bare chest, white linen kilt.
-정문에서 연기가 쏟아져 나온다. 그 연기 속에서 루크가 소총을 한쪽 어깨에 걸치고 여유롭게 웃으며 걸어 나온다. 맨가슴 위에 검은 전술 조끼, 흰 리넨 킬트.
+Smoke rolls along the foot of the wall. Luke walks out of the smoke, rifle resting on one shoulder, an easy smile. A black tactical vest over a bare chest, white linen kilt.
+담장 밑으로 연기가 밀려온다. 그 연기 속에서 루크가 소총을 한쪽 어깨에 걸치고 여유롭게 웃으며 걸어 나온다. 맨가슴 위에 검은 전술 조끼, 흰 리넨 킬트.
 
 Gwen stands before the stone wall, a Gatling gun gripped in both hands, aimed straight ahead. Eyes hard.
 그웬이 돌담 앞에 서서 두 손으로 개틀링 기관총을 들고 정면을 겨눈다. 눈빛이 매섭다.
