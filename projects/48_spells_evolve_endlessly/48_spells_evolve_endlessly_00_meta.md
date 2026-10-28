@@ -34,3 +34,9 @@
 ### 공통
 - 총 50화 · 무료 1~12화 = 원작 1~12화 화 단위 1:1(비트 순서·화 끝 자리·숫자 사다리 유지 · 행위는 새 세계 것) · 피해 숫자 사다리·3초 기록은 원작 기능 그대로 · 처치 수·라이벌 기록 시간은 조금 바꿈.
 - 산출 = `48_spells_evolve_endlessly_p0_rough_A.md` · `_p0_rough_B.md`.
+
+## 2026-10-28 러프 A·B 산출
+- 작성 = opus 2기 병렬(안마다 1기 · Part 0·A + 원작 캐논 1~12) → 메인 수정(대사 앞 화자 명시 2·3화 · 연인 첫 등장 풀네임 · "각성" 라벨 → [숨은 신급 재능 감지] · "장선 강당" → 대회관 · 잉그리드의 할아버지 · 550자 넘친 화 압축) → plain-reader(haiku) 막힘 A 21 / B 20 중 진짜만 수정: 로그라인 "비밀" → "생도들에게 몰래 벌인 약물 실험까지 폭로"(원작 결말 · 3화 초록 토닉/물약 복선과 이어짐) · 로그라인 첫머리에 능력 풀어 씀(평생 맨 납탄만 쏘는 / 평생 손도끼 던지기만 하는) · A "달아 주고" → 대신 내 주고 · A "핵" → 구슬·굴의 기록석 · A 준주 → 서부 전체/주 정부 · 책상물림 → 교실 점수 · 전신기 → 전보 기계 · 초급/최하급 통일 · B 도끼비 → 도끼 비 · 결계 → 얼음 장막 · B 9화 문장 꼬임 · B 3화 긴 문장 분할 · 두 안 7화 "천만 숙련" → 숙련도 천만. 유지 = 숙련도·승급·방어·신급(장르 기본어) · 셀링 라벨(언더독·참교육·치환 = 모델 세 편 어휘).
+- 게이트 = name_leak PASS(역대본 + 시놉시스 + --extra 한글 음차 · --allow 시스템 = 일반어 오탐) · logline_lint PASS 6/6(A 167 · B 164 확정) · 작업어 0 · 화당 A 342~550 / B 317~534 · 「」 화당 0~2.
+- 형제 대조: 무료 엔딩 A = 기록판에서 콜턴 이름이 밀려 내려감(한 끗) / B = 원작 그대로(교장 "말도 안 돼" → 빛) · 한 끗 위치 A = 12화 / B = 10화(전 여자친구 「네 자리, 잘 썼어」) → 안 겹침.
+- 작성 유닛 제목 대안(참고): A = They Called Me Tin Can, Then I Cleared It in 3 Seconds / My Plain Lead Bullets Get Ten Times Stronger / The Frontier's Worst Gunslinger Is a One-Man Army · B = The Woodcutter Rune Is Secretly God-Tier / They Called My Rune Useless, So I Set a 3-Second World Record (B의 "Weakest" 안은 금지어라 버림).
