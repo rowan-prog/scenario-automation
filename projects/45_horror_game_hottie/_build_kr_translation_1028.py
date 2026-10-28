@@ -5,7 +5,7 @@ sys.path.insert(0, r'C:\Users\Rowan\scenario-automation\tools')
 from house_script_docx import build
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-OUT = os.path.join(HERE, 'Kiss the Monster Bride or Die_작가 무료회차 초고(1028·1-8화)_한국어 번역본.docx')
+OUT = os.path.join(HERE, sys.argv[1] if len(sys.argv) > 1 else 'Kiss the Monster Bride or Die_작가 무료회차 초고(1028·1-8화)_한국어 번역본.docx')
 TITLE = 'Kiss the Monster Bride or Die(괴물 신부에게 키스하거나, 죽거나) — 작가 무료회차 초고(10.28) · 1~8화 · 한국어 번역본'
 PAYWALL_EP = 8
 
