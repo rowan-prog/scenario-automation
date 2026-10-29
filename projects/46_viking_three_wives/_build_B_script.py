@@ -110,11 +110,11 @@ def main():
         return 1 if errs else 0
     os.makedirs(OUT_DIR, exist_ok=True)
     with io.open(OUT_MD, 'w', encoding='utf-8') as f:
-        f.write('# %s\n# 시스템 파워로 아내만 셋 in 고대 이집트\n\n' % TITLE)
+        f.write('# %s\n# 시스템 파워로 아내만 셋\n\n' % TITLE)
         f.write('\n\n'.join('%s\n%s' % (en, kr) for _, en, kr, _ in items) + '\n')
     from house_script_docx import build
     build([(k, en, kr) for k, en, kr, _ in items], OUT_DOCX,
-          title='%s / 시스템 파워로 아내만 셋 in 고대 이집트' % TITLE)
+          title='%s / 시스템 파워로 아내만 셋' % TITLE)
     print(OUT_MD)
     print(OUT_DOCX)
     return 0

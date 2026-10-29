@@ -1,5 +1,5 @@
 # Get Three Wives With System Power in Ancient Egypt
-# 시스템 파워로 아내만 셋 in 고대 이집트
+# 시스템 파워로 아내만 셋
 
 EP.01
 1화
