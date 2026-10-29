@@ -1,4 +1,4 @@
-### [T1] Hate Me, My Love
+### [T1] My Fated Younger Stepbrother
 
 **담당자** Rowan
 **상태 · 제작 등급** 제안중 A

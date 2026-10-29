@@ -1,7 +1,7 @@
 # 49_noona_superstar — 메타
 
 ## 한 줄
-사내 국문 대본 《나를 미치게 하는 예쁜 누나》(가제 · Gina · 60화 · 무료 1~10화)를 미국 타깃으로 옮긴 러프 기획안. 영제 = **Hate Me, My Love**(한글 = 날 미워해줘, 내 사랑). 여성향 · 북미/글로벌 여성 20-40 · EN · AI실사 · 총 50화 · 무료 1~10화. **원작 70% 유지 · 30% 변경.** 남주 = 톱배우 → 미국 최연소 억만장자.
+사내 국문 대본 《나를 미치게 하는 예쁜 누나》(가제 · Gina · 60화 · 무료 1~10화)를 미국 타깃으로 옮긴 러프 기획안. 영제 = **My Fated Younger Stepbrother**(제안). 여성향 · 북미/글로벌 여성 20-40 · EN · AI실사 · 총 50화 · 무료 1~10화. **원작 70% 유지 · 30% 변경.** 남주 = 톱배우 → 미국 최연소 억만장자.
 (폴더명 noona_superstar = 첫 판 이름 · 그대로 둠)
 
 ## 원본
@@ -48,4 +48,7 @@
 - ~~제목 후보(대안): My Billionaire Stepbrother Will Never Forgive Me / One Last Month with My Billionaire Stepbrother~~ · 폐기 = I Dumped Him for Money… / My Billionaire Stepbrother Wants Me Back(로코 결)
 - 같은 날 2차 교체: My Billionaire Stepbrother Doesn't Know I'm Dying → **I Made Him Hate Me**. 사용자: *"stepbrother란 단어 안 쓰고, 좀 짜치는 장르 느낌도 주지말고."* (Billionaire·Stepbrother 같은 장르 딱지 단어 빼고 · 9화 「차라리 날 미워해야 해」가 그대로 제목 · "Dying"도 뺌 — 재회 때 케이트는 이미 완치 판정 상태(원작 14화 「완치 판정 받은 지 얼마나 됐다고」), 재발은 원작 51화)
 - 같은 날 3차 = **Hate Me, My Love / 날 미워해줘, 내 사랑** — 사용자 제안("이 느낌은 어때") → 사용자: *"니가 알아서 해"* → 이걸로 정함. 사유 = 미워해·내 사랑이 한 줄에 같이 있어 이야기 전체가 담김 · "My Love"로 첫눈에 로맨스로 읽힘(I Made Him Hate Me는 복수·스릴러로도 읽힘) · 케이트 목소리 · 장르 단어 0.
-- 제목 대안: I Made Him Hate Me / Hate Me, So It Won't Hurt When I'm Gone(9화 대사 그대로) / I Left Him So He Wouldn't Lose Me Too(원작 9화 「소중한 사람을 또 잃게 할 수는 없다」)
+- 같은 날 4차: Hate Me, My Love 폐기. 사용자: *"그냥 별 의미없는 대사같아서그래. hate me, my love도 미련 너무 넘치고 좀 짜쳐서 별로긴해."* (사용자 제안 "Stepbrother Who is made hate me" = 문법이 깨져 있어 바르게 하면 I Made My Stepbrother Hate Me) → **He Didn't Know I Was Dying**. 대사 같은 감정 문구 말고 상황이 읽히는 문장 · 2차 제목에서 Stepbrother·Billionaire만 빼고 과거형으로 바꿔 사실도 맞춤(떠날 때 = 「치료 안 하면 죽을 수도 있다」 · 이선은 원작 57화 편지 전까지 모름).
+- 같은 날 5차: He Didn't Know I Was Dying 폐기. 사용자: *"걍 문장이잖아"* → 제목 = 명사구(T1 모범 The Heart He Never Deserved 꼴). 완결 문장 후보(I Made My Stepbrother Hate Me · I Left Him to Hide My Cancer)도 같은 이유로 폐기. 사용자: *"타이틀이 아니라."* → **The Stepbrother I Taught to Hate Me** = 사용자 제안 "Stepbrother Who is made hate me"를 명사구로 바로잡음(일부러 미움받게 만든 의붓동생). 대안 = The Man I Taught to Hate Me(Stepbrother 없이) / The Lie I Told My Stepbrother.
+- 같은 날 6차: 사용자 방향 *"갈라져도 밀어내도 이어질 운명이"* *"드러났음 좋겠어. 2단어 내지 3단어로"* → **The Red String**(붉은 실 = 운명인 두 사람을 잇는 실, 늘어나고 엉켜도 끊어지지 않는다 · 동아시아에서 온 말이라 원작 결이 남고 미국에선 틱톡 red string theory로 익숙). 대안 = Bound to Return / Still Bound.
+- 같은 날 7차: The Red String 기각. 사용자: *"아니 전혀 안 드러나 진짜... 직역이랑, 그 의미만 살리랬냐"* (붉은 실 = 상징을 풀어야 알아듣는 말 · 이 작품 이야기가 안 보임). 이어서 사용자: *"누나물인 것도 / 의붓남동생인 것도 / 하나도 안 드러나"* → 제목에 세 가지가 다 보여야 함 = ①누나물(여주가 연상) ②의붓남동생 ③갈라져도 밀어내도 이어질 운명. → **My Fated Younger Stepbrother**(4단어 · Fated = 운명 · Younger = 연하 · Stepbrother = 의붓 · My = 여주 시점 · 사용자가 처음 좋다고 한 My Billionaire-Stepbrother 꼴에서 Billionaire 자리를 바꿈). 대안 = Fated to My Younger Stepbrother(5단어) / My Younger Stepbrother(3단어 · 운명 빠짐). "Little Stepbrother"는 미성년으로 읽힐 수 있어 안 씀.
