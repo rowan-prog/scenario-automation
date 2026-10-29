@@ -1,4 +1,4 @@
-### [T1] My Older Stepsister, Still Mine
+### [T1] Bound to Me Forever
 
 **담당자** Rowan
 **상태 · 제작 등급** 제안중 A
