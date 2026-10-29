@@ -52,3 +52,11 @@
 - 같은 날 5차: He Didn't Know I Was Dying 폐기. 사용자: *"걍 문장이잖아"* → 제목 = 명사구(T1 모범 The Heart He Never Deserved 꼴). 완결 문장 후보(I Made My Stepbrother Hate Me · I Left Him to Hide My Cancer)도 같은 이유로 폐기. 사용자: *"타이틀이 아니라."* → **The Stepbrother I Taught to Hate Me** = 사용자 제안 "Stepbrother Who is made hate me"를 명사구로 바로잡음(일부러 미움받게 만든 의붓동생). 대안 = The Man I Taught to Hate Me(Stepbrother 없이) / The Lie I Told My Stepbrother.
 - 같은 날 6차: 사용자 방향 *"갈라져도 밀어내도 이어질 운명이"* *"드러났음 좋겠어. 2단어 내지 3단어로"* → **The Red String**(붉은 실 = 운명인 두 사람을 잇는 실, 늘어나고 엉켜도 끊어지지 않는다 · 동아시아에서 온 말이라 원작 결이 남고 미국에선 틱톡 red string theory로 익숙). 대안 = Bound to Return / Still Bound.
 - 같은 날 7차: The Red String 기각. 사용자: *"아니 전혀 안 드러나 진짜... 직역이랑, 그 의미만 살리랬냐"* (붉은 실 = 상징을 풀어야 알아듣는 말 · 이 작품 이야기가 안 보임). 이어서 사용자: *"누나물인 것도 / 의붓남동생인 것도 / 하나도 안 드러나"* → 제목에 세 가지가 다 보여야 함 = ①누나물(여주가 연상) ②의붓남동생 ③갈라져도 밀어내도 이어질 운명. → **My Fated Younger Stepbrother**(4단어 · Fated = 운명 · Younger = 연하 · Stepbrother = 의붓 · My = 여주 시점 · 사용자가 처음 좋다고 한 My Billionaire-Stepbrother 꼴에서 Billionaire 자리를 바꿈). 대안 = Fated to My Younger Stepbrother(5단어) / My Younger Stepbrother(3단어 · 운명 빠짐). "Little Stepbrother"는 미성년으로 읽힐 수 있어 안 씀.
+
+## 2026-10-29 방향 전환 = 남성향 (사용자 결정)
+- 사용자: *"너 이거 남성향으로 짰음 여성향으로 짰음? 뭐가 더 쉬워보임? age gap, 연상녀. 북미시장에서."* → 내 답 = 연상녀만 보면 남성향이 쉬움 · 원작 뼈대는 여성향.
+- 사용자: *""연상 의붓누나" 컨셉으로, 남자 중심으로, 버려졌지만 여전히 그녀를 놓지 못하는, 처음엔 배신감이 컸지만 잊지 못했던 걸, 사정이 있었을 거라는 걸, 그만큼 사랑한다는 걸. 남성향으로. 어때."* → *"이게 나아보인다."*
+- = **남성향 · 이선 중심 · 연상 의붓누나.** 이선 = 버림받고 배신감이 컸지만 끝내 못 놓음 · 사정이 있었을 거라 믿음 · 그만큼 사랑함. (원작처럼 오해한 채 짓밟다 후회하는 남주 아님)
+- 지금 `_p0_rough.md`(여성향 v3 · 제목 My Fated Younger Stepbrother)는 이 방향으로 다시 짜야 함 — 사용자 지시 대기.
+- 사용자 기준 (verbatim): *"작품명, 로그라인, 각색 범위, 기준은 '90% 유지 최소 수정 / 70% 유지 일부 시퀀스 수정 / 30% 유지 무료회차 제외 대부분 각색' 이거임. 각색 방향엔 유지할 플롯, 바꿀 설정, 화수 변경(총화수 등) 개념임. 명료하게 적으면 됨. 장황할 필요 없이."*
+- → `_p0_rough.md` = 남성향 판 머리 칸(작품명 My Older Stepsister, Still Mine · 남성향 · 북미/글로벌 남성 20-40 · 키워드 #Older Woman, Forbidden Love, Billionaire · 로그라인 A형 161자 · 각색 방향 = 유지할 플롯/바꿀 설정/화수 · 각색 범위 70% 유지 · 일부 시퀀스 수정). 셀링 포인트·무료회차 줄거리는 아직 여성향 판 그대로. 여성향 v3 백업 = `49_noona_superstar_p0_rough_v3_female.md`.
