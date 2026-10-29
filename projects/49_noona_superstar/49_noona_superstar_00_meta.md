@@ -1,7 +1,7 @@
 # 49_noona_superstar — 메타
 
 ## 한 줄
-사내 국문 대본 《나를 미치게 하는 예쁜 누나》(가제 · Gina · 60화 · 무료 1~10화)를 미국 타깃으로 옮긴 러프 기획안. 영제 = **The Stepbrother I Dumped Is Now a Billionaire**(제안). 여성향 · 북미/글로벌 여성 20-40 · EN · AI실사 · 총 50화 · 무료 1~10화. **원작 70% 유지 · 30% 변경.** 남주 = 톱배우 → 미국 최연소 억만장자.
+사내 국문 대본 《나를 미치게 하는 예쁜 누나》(가제 · Gina · 60화 · 무료 1~10화)를 미국 타깃으로 옮긴 러프 기획안. 영제 = **Hate Me, My Love**(한글 = 날 미워해줘, 내 사랑). 여성향 · 북미/글로벌 여성 20-40 · EN · AI실사 · 총 50화 · 무료 1~10화. **원작 70% 유지 · 30% 변경.** 남주 = 톱배우 → 미국 최연소 억만장자.
 (폴더명 noona_superstar = 첫 판 이름 · 그대로 둠)
 
 ## 원본
@@ -44,4 +44,8 @@
 
 ## 이력
 - 2026-10-29 v1 = 원작 1~10화 1:1 미국 옮김(톱배우 유지) → v2 = "70%"를 변경 비율로 오독해 팝스타·말리부 가정부·재회 7화로 재구성(폐기) → **v3 = 70% 유지로 정정 · 원작 1~10화 1:1 + 남주 억만장자 · 제목 The Stepbrother I Dumped Is Now a Billionaire** = `49_noona_superstar_p0_rough.md`
-- 제목 후보(대안): I Dumped Him for Money. Now He's a Billionaire / My Billionaire Stepbrother Wants Me Back
+- 같은 날 제목 교체: The Stepbrother I Dumped… → **My Billionaire Stepbrother Doesn't Know I'm Dying**. 사용자: *"The Stepbrother I Dumped 이건 좀,, 로코 같아지고 좀 절절한 느낌도 있어야지 그리고 찬게 아니잖아. dumped가 아니잖아. 그리고 여주 시점이고. My Billionaire-Stepbrother 라던지 이런 타이틀이 좋아 보인다."* (케이트는 찬 게 아니라 병을 숨기려고 떠났다 · 제목은 여주 1인칭)
+- ~~제목 후보(대안): My Billionaire Stepbrother Will Never Forgive Me / One Last Month with My Billionaire Stepbrother~~ · 폐기 = I Dumped Him for Money… / My Billionaire Stepbrother Wants Me Back(로코 결)
+- 같은 날 2차 교체: My Billionaire Stepbrother Doesn't Know I'm Dying → **I Made Him Hate Me**. 사용자: *"stepbrother란 단어 안 쓰고, 좀 짜치는 장르 느낌도 주지말고."* (Billionaire·Stepbrother 같은 장르 딱지 단어 빼고 · 9화 「차라리 날 미워해야 해」가 그대로 제목 · "Dying"도 뺌 — 재회 때 케이트는 이미 완치 판정 상태(원작 14화 「완치 판정 받은 지 얼마나 됐다고」), 재발은 원작 51화)
+- 같은 날 3차 = **Hate Me, My Love / 날 미워해줘, 내 사랑** — 사용자 제안("이 느낌은 어때") → 사용자: *"니가 알아서 해"* → 이걸로 정함. 사유 = 미워해·내 사랑이 한 줄에 같이 있어 이야기 전체가 담김 · "My Love"로 첫눈에 로맨스로 읽힘(I Made Him Hate Me는 복수·스릴러로도 읽힘) · 케이트 목소리 · 장르 단어 0.
+- 제목 대안: I Made Him Hate Me / Hate Me, So It Won't Hurt When I'm Gone(9화 대사 그대로) / I Left Him So He Wouldn't Lose Me Too(원작 9화 「소중한 사람을 또 잃게 할 수는 없다」)
