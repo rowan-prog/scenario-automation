@@ -22,14 +22,23 @@ By the broken doorway, Rex's Man FREEZES — red cloak, metal brooch on the ches
 Luke grins wide, eyes locked on the doorway. Behind Luke, Mia stands stiff, face blank with shock, still clutching Luke's linen top.
 루크가 활짝 웃으며 문간을 노려본다. 루크 뒤에서 미아가 넋 나간 얼굴로 굳은 채, 아직도 루크의 리넨 상의를 움켜쥐고 있다.
 
+Rex's Man looks at the gun. Rex's Man's mouth falls open.
+렉스의 부하가 총을 본다. 입이 떡 벌어진다.
+
 Luke SLAPS the magazine tight and grips it hard.
 루크가 탄창을 탁 쳐서 단단히 움켜쥔다.
 
 REX'S MAN: (stunned) What the hell is that thing?
 렉스의 부하: (얼이 빠져) 대체 저게 뭐야?
 
+Rex's Man's confusion twists into angry disbelief.
+렉스의 부하의 당황한 얼굴이 분노 섞인 의심으로 일그러진다.
+
 REX'S MAN: Wasn't he supposed to be a nobody?
 렉스의 부하: 쓸모없는 놈이라며?
+
+REX'S MAN: How is this even possible?
+렉스의 부하: 이게 어떻게 가능해?
 
 REX'S MAN: A loser who couldn't even make it through army training, holding—
 렉스의 부하: 군대 훈련도 못 버틴 낙오자 놈 손에—
@@ -70,6 +79,9 @@ Gwen stands behind Luke, khopesh raised, lips parted, amber eyes on Luke.
 [STATUS] GWEN / AFFECTION: 58
 [상태창] 그웬 / 호감도: 58
 
+GWEN (V.O.): This man...
+그웬 (속마음): 이 남자...
+
 GWEN (V.O.): He really is different.
 그웬 (속마음): 확실히 다르긴 해.
 
@@ -78,6 +90,9 @@ Sabrina presses flat against the mud wall, gold bracelets trembling, and stares 
 
 The gunfire stops. Smoke drifts under the low ceiling. Silence, and a high ringing.
 총성이 멎는다. 낮은 천장 아래로 화약 연기가 떠돈다. 정적, 그리고 귀가 먹먹하게 울린다.
+
+On the floor, soldiers lie everywhere, not moving. Blood pools in the straw. Swords, spears and shields lie scattered. Brass casings glint in the firelight.
+바닥 여기저기에 병사들이 쓰러져 꿈쩍도 않는다. 짚 사이로 피가 고인다. 칼과 창과 방패가 흩어져 있고, 놋쇠 탄피가 불빛에 반짝인다.
 
 In the middle of the bodies, Rex scrambles up onto the knees. The white pleated tunic is splashed with the soldiers' blood. The gold brooch hangs crooked.
 시체들 한가운데서 렉스가 허겁지겁 무릎으로 일어난다. 흰 주름 튜닉에 부하들의 피가 튀어 있다. 금 브로치가 비뚤게 매달려 있다.
@@ -127,6 +142,9 @@ LUKE: Why not?
 MIA: His father is the Vizier of Egypt.
 미아: 이 사람 아버지가 이집트의 재상이에요.
 
+MIA: Part of the palace guard, the grain tax, the courts... it's all in his hands.
+미아: 근위대 일부, 곡식 세금, 재판까지... 전부 그 손에 있어요.
+
 MIA: Kill his son, and the whole city will send soldiers after us.
 미아: 그 아들을 죽이면 온 도시가 군대를 보내서 우릴 쫓을 거예요.
 
@@ -163,6 +181,9 @@ Sabrina looks at Gwen. Slowly, Sabrina's arm drops.
 SABRINA: (to Luke, grim) Gwen's right.
 사브리나: (루크에게, 굳은 얼굴로) 그웬 말이 맞아.
 
+SABRINA: If he lives, we just die faster.
+사브리나: 저놈이 살면, 우리가 더 빨리 죽을 뿐이야.
+
 Luke leans toward Mia.
 루크가 미아 쪽으로 몸을 기울인다.
 
@@ -174,6 +195,9 @@ Mia looks into Luke's eyes and answers softly.
 
 MIA: I trust you.
 미아: 믿어요.
+
+Mia stands between the others, calm now, steady, eyes forward.
+미아가 두 사람 사이에 서 있다. 이제 차분하고 흔들림 없이 앞을 본다.
 
 On the gun, two hands overlap. Mia's small hand on the grip, the blue bead bracelet on the wrist. Luke's hand closes over Mia's.
 총 위에서 두 손이 겹친다. 손잡이를 쥔 미아의 작은 손, 손목의 파란 구슬 팔찌. 루크의 손이 그 위를 감싼다.
@@ -195,6 +219,9 @@ REX: You wouldn't dare!
 
 REX: The city patrol will be here any second!
 렉스: 도시 순찰대가 곧 들이닥칠 거다!
+
+REX: None of you will get out of here alive!
+렉스: 너희 중에 살아 나갈 놈은 하나도 없어!
 
 REX: I'm the Vizier's son!
 렉스: 난 재상의 아들이야!
@@ -259,11 +286,17 @@ Finger still on the lips, Sabrina turns an ear toward the broken door. The door 
 (SFX) Far away, a horn blows. Then many feet, running closer.
 (효과음) 멀리서 뿔피리가 울린다. 이어서 여러 사람의 발소리가 뛰어오며 가까워진다.
 
+A dead soldier lies on the dirt floor, face up. Blood has pooled under the body. Two swords lie beside it.
+병사 시체 하나가 흙바닥에 반듯이 누워 있다. 그 아래로 피가 고였다. 옆에 칼 두 자루가 떨어져 있다.
+
 GWEN: It's too late.
 그웬: 이미 늦었어.
 
 GWEN: The patrol heard the noise.
 그웬: 순찰대가 소리를 들었어.
+
+MIA: We're dead.
+미아: 우린 이제 죽었어요.
 
 Luke holds the AK-47 low in one hand and looks down at the other palm. A small smile. Totally calm.
 루크가 한 손에 AK-47을 늘어뜨린 채 다른 손바닥을 내려다본다. 입가에 옅은 미소. 너무나 태연하다.
@@ -282,6 +315,9 @@ SYSTEM: Unlock condition:
 
 SYSTEM: One target's affection must be 80 or higher.
 시스템: 대상 한 명의 호감도가 80 이상이어야 합니다.
+
+LUKE (V.O.): 80 or higher?
+루크 (속마음): 80 이상?
 
 LUKE (V.O.): Who's even that close?
 루크 (속마음): 누가 벌써 그 정도야?
@@ -373,14 +409,20 @@ A fist POUNDS the busted door. Sabrina throws a shoulder against it, shoves it b
 CAPTAIN (O.S.): Open up right now! Or I'm breaking it down!
 경비대장 (소리): 당장 문 열어! 안 열면 부순다!
 
+Luke stands with the head down, AK-47 hanging from the left hand, staring into the cupped right hand.
+루크가 고개를 숙인 채 왼손엔 AK-47을 늘어뜨려 쥐고, 오므린 오른손 안을 들여다본다.
+
 GWEN (V.O.): Was I wrong about him?
 그웬 (속마음): 내가 사람을 잘못 본 걸까?
 
+GWEN: Then we fight.
+그웬: 그럼 싸우는 수밖에.
+
+GWEN: At least I won't die like a coward.
+그웬: 적어도 비겁하게 죽진 않아.
+
 Gwen plants both feet in front of the mud wall and raises the khopesh. Battle stance. Eyes sharp, lips parted.
 그웬이 진흙 벽 앞에 두 발을 박고 코페시를 치켜든다. 싸울 자세. 눈빛이 날카롭고 입술이 살짝 벌어져 있다.
-
-Luke stands with the head down, AK-47 hanging from the left hand, staring into the cupped right hand.
-루크가 고개를 숙인 채 왼손엔 AK-47을 늘어뜨려 쥐고, 오므린 오른손 안을 들여다본다.
 
 GWEN: Luke.
 그웬: 루크.
@@ -390,6 +432,9 @@ GWEN: I trust you.
 
 [STATUS] GWEN / AFFECTION: 85
 [상태창] 그웬 / 호감도: 85
+
+Tears stream down Gwen's face. Gwen's chin lifts. Something between fear and wonder fills Gwen's eyes.
+그웬의 얼굴로 눈물이 줄줄 흐른다. 그웬이 턱을 든다. 두려움과 놀라움이 뒤섞인 눈빛이다.
 
 Luke opens one hand. The golden kitten of light lies curled in the palm. Luke smiles down at it.
 루크가 한 손을 편다. 빛으로 된 금빛 새끼 고양이가 손바닥에 몸을 말고 있다. 루크가 고양이를 내려다보며 웃는다.
@@ -415,8 +460,8 @@ The three women turn to face the door. Behind the women's backs, the kitten LEAP
 A wave of golden light rolls across the floor.
 금빛 물결이 바닥을 휩쓸고 지나간다.
 
-[INSERT] Rex lies face up on the floor, the white tunic soaked red.
-[인서트] 렉스가 바닥에 반듯이 누워 있다. 흰 튜닉이 시뻘겋게 젖어 있다.
+[INSERT] Rex lies face up on the floor, a wound on the forehead, the white tunic soaked red.
+[인서트] 렉스가 바닥에 반듯이 누워 있다. 이마에 상처, 흰 튜닉이 시뻘겋게 젖어 있다.
 
 Gold sparks crawl over Rex's body. The body thins, glows, and breaks apart into light.
 금빛 불티가 렉스의 몸 위로 기어오른다. 몸이 옅어지고, 빛나고, 빛으로 부서져 흩어진다.
@@ -454,6 +499,18 @@ The dirt floor. Loose straw, a few dry leaves, a broken bit of pot. Not one body
 Mia glances back over the shoulder — and FREEZES. Hands clasped at the chest, eyes wide, mouth open.
 미아가 어깨 너머로 뒤를 돌아본다. 그대로 굳는다. 두 손을 가슴 앞에 모으고, 눈을 크게 뜨고, 입을 벌린다.
 
+MIA (V.O.): Where are the bodies?
+미아 (속마음): 시체들은 어디 갔지?
+
+MIA (V.O.): The blood?
+미아 (속마음): 피는?
+
+MIA (V.O.): Where did all those men go?
+미아 (속마음): 그 사람들 다 어디로 간 거야?
+
+MIA (V.O.): A second ago this room was full of dead men. Now it's spotless?
+미아 (속마음): 방금까지 시체로 꽉 찼던 방이, 눈 깜짝할 새 깨끗해졌다고?
+
 MIA (V.O.): Was that a miracle?
 미아 (속마음): 방금 그게 기적이었나?
 
@@ -475,6 +532,9 @@ LUKE: Looked like enemy spies from the north. They started cutting each other up
 LUKE: I thought it was an attack. I was too scared to open the door.
 루크: 쳐들어온 줄 알았습니다. 무서워서 문도 못 열었습니다.
 
+The lion on the Captain's breastplate catches the torchlight. The Captain's eyes stay nailed on Luke.
+경비대장의 가슴받이에 새긴 사자가 횃불에 번뜩인다. 경비대장의 눈은 루크에게 박혀 있다.
+
 The Captain lowers the voice.
 경비대장이 목소리를 낮춘다.
 
@@ -493,8 +553,8 @@ CAPTAIN: You've got guts.
 CAPTAIN: One man, three women.
 경비대장: 남자 하나가 여자 셋을 끼고.
 
-CAPTAIN: That's three hundred pounds of barley a month owed to the Pharaoh.
-경비대장: 파라오께 바칠 보리만 한 달에 300파운드야.
+CAPTAIN: That's thirty sacks of barley a month you owe the Pharaoh.
+경비대장: 파라오께 바칠 보리만 한 달에 서른 자루야.
 
 CAPTAIN: Go on. Let's see what you can do.
 경비대장: 어디 한번 해 봐. 지켜보지.
@@ -507,6 +567,12 @@ LUKE: No problem.
 
 LUKE: I'll work my ass off.
 루크: 죽어라 일하죠, 뭐.
+
+The Captain lets out a short laugh.
+경비대장이 짧게 웃는다.
+
+CAPTAIN: Big talk.
+경비대장: 말은 잘하네.
 
 The Captain's grin freezes. The Captain's eyes go to the dark lane outside.
 경비대장의 웃음이 굳는다. 경비대장의 눈이 문밖의 어두운 길로 향한다.
@@ -535,8 +601,11 @@ The soldiers pour past the broken doorframe and into the dark. The Captain follo
 CAPTAIN (O.S.): Stay inside. Nobody moves.
 경비대장 (소리): 안에 있어. 아무도 움직이지 마.
 
-Gwen stands by the mud wall, eyes wide. Sabrina stares at the floor.
-그웬이 진흙 벽 앞에 서서 눈을 크게 뜨고 있다. 사브리나는 바닥만 본다.
+The torches bob away down the lane and vanish into the night.
+횃불들이 흔들리며 길 저편으로 멀어지더니 밤 속으로 사라진다.
+
+Gwen stands by the mud wall, eyes wide, shocked and lost. Sabrina stares at the floor. Mia stands close to Luke, hands clasped at the chest.
+그웬이 진흙 벽 앞에 서서 눈을 크게 뜨고 있다. 놀랍고 어리둥절하다. 사브리나는 바닥만 본다. 미아는 루크 곁에 두 손을 가슴 앞에 모으고 서 있다.
 
 GWEN: Bodies, blood, those little brass things... all gone.
 그웬: 시체, 피, 그 작은 놋쇠 쪼가리들까지... 전부 없어졌어.
@@ -580,8 +649,17 @@ LUKE: I can give you all a safe life.
 Gwen narrows the eyes at Luke.
 그웬이 눈을 가늘게 뜨고 루크를 본다.
 
+GWEN: You make it sound easy.
+그웬: 말 참 쉽게 하네.
+
+GWEN: But what just happened...
+그웬: 그런데 방금 일어난 일은...
+
 GWEN: No normal man could do that.
 그웬: 보통 사람은 절대 못 해.
+
+Luke smiles, sure of it, eyes on Gwen.
+루크가 자신 있게 웃으며 그웬을 본다.
 
 LUKE: I don't believe in gods.
 루크: 난 신 같은 거 안 믿어.
@@ -594,6 +672,9 @@ Mia, in the white linen dress, moves in close to Luke's chest and looks up at Lu
 
 MIA (V.O.): I want to believe him.
 미아 (속마음): 이 사람을 믿고 싶어.
+
+MIA (V.O.): Even if it's dangerous.
+미아 (속마음): 위험하더라도.
 
 Luke looks down at Mia with an easy, cheeky grin.
 루크가 능글맞게 씩 웃으며 미아를 내려다본다.
@@ -685,6 +766,9 @@ SABRINA: Looks like poison.
 Luke laughs and waves a hand.
 루크가 웃으며 손을 내젓는다.
 
+LUKE: It's not poison.
+루크: 독 아니야.
+
 Mia picks up a bottle, tips it back and takes a big gulp. Mia FREEZES, bottle at the lips, eyes huge.
 미아가 병 하나를 집어 들고 고개를 젖혀 벌컥 마신다. 병을 입에 댄 채 그대로 굳는다. 눈이 휘둥그레진다.
 
@@ -693,6 +777,9 @@ Sabrina spins around, eyes wide.
 
 SABRINA: Mia!
 사브리나: 미아!
+
+Sabrina whips back to Luke.
+사브리나가 다시 루크에게 홱 고개를 돌린다.
 
 SABRINA: What did you give her?!
 사브리나: 쟤한테 뭘 먹인 거야?!
@@ -714,6 +801,15 @@ GWEN: It's sweet.
 
 GWEN (V.O.): Sweeter than honey. And it bites my tongue.
 그웬 (속마음): 꿀보다 달아. 혀를 톡 쏘고.
+
+Gwen looks down at the bottle and hugs it tight in both hands.
+그웬이 병을 내려다보며 두 손으로 꼭 끌어안는다.
+
+GWEN: Just one sip,
+그웬: 딱 한 모금인데,
+
+GWEN: and I feel like all these years weren't for nothing.
+그웬: 지금까지 헛살지 않았다는 생각이 들어.
 
 Mia lifts a slice of pizza to the nose and breathes in, eyes half closed, lost in it. Tears roll down Mia's cheeks.
 미아가 피자 한 조각을 코에 대고 냄새를 들이마신다. 눈을 반쯤 감고 넋을 잃는다. 미아의 뺨으로 눈물이 흘러내린다.
@@ -841,8 +937,17 @@ GWEN: Make a fist!
 GWEN: Get your weight lower!
 그웬: 중심 더 낮춰!
 
+Luke's stance wobbles apart again. Gwen frowns.
+루크의 자세가 또 흐트러진다. 그웬이 인상을 쓴다.
+
 GWEN: Stop flopping around like you've got no bones.
 그웬: 뼈 없는 것처럼 흐물거리지 좀 마.
+
+Luke finishes the move, but way too slow.
+루크가 동작을 끝까지 해내지만, 한참 느리다.
+
+GWEN: Too slow.
+그웬: 너무 느려.
 
 GWEN: Again.
 그웬: 다시.
@@ -852,6 +957,9 @@ Gwen closes in fast, hooks Luke's leg and THROWS Luke hard onto the sand. Dust b
 
 GWEN: I heard you couldn't make it through army training.
 그웬: 너, 군대 훈련도 못 버텼다며.
+
+Luke's eyes don't give up.
+루크의 눈빛이 꺾이지 않는다.
 
 GWEN: But no matter how many times I throw you, you never once say you want to quit.
 그웬: 그런데 아무리 메쳐도, 그만하겠다는 소리는 한 번도 안 하네.
@@ -880,11 +988,23 @@ GWEN: What are you doing down there?
 LUKE: Push-ups.
 루크: 팔굽혀펴기.
 
+LUKE: Works your chest,
+루크: 가슴이랑,
+
+LUKE: Shoulders,
+루크: 어깨,
+
+LUKE: And arms.
+루크: 그리고 팔 근육을 키워 줘.
+
 Gwen bends down and looks at Luke, face flat.
 그웬이 허리를 숙여 루크를 본다. 무표정이다.
 
 GWEN: No weapons.
-그웬: 무기도 없이,
+그웬: 무기도 없고,
+
+GWEN: No real training yard.
+그웬: 제대로 된 훈련장도 없이,
 
 GWEN: And you think you can train your whole body?
 그웬: 온몸을 단련하겠다고?
@@ -900,6 +1020,12 @@ Gwen's face softens a little.
 
 GWEN: Train like this, and you could build an army.
 그웬: 이렇게만 하면 군대도 길러 내겠어.
+
+LUKE: I'll teach you more later.
+루크: 나중에 더 가르쳐 줄게.
+
+Gwen keeps looking down at Luke.
+그웬이 루크를 계속 내려다본다.
 
 S#18-2. Vizier's Palace, Great Hall / INT / NIGHT
 S#18-2. 재상의 궁, 큰 홀 / 실내 / 밤

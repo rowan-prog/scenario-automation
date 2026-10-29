@@ -97,6 +97,9 @@ Cast: Mia, Gwen
 Cold blue moonlight. Mia stands with the back pressed to a thick wooden pillar, hugging a small box with metal trim tight to the chest.
 차가운 푸른 달빛. 미아가 굵은 나무 기둥에 등을 바싹 붙이고 서 있다. 금속 테를 두른 작은 상자를 가슴에 꼭 끌어안고 있다.
 
+MIA (V.O.): Luke, are you asleep?
+미아 (속마음): 루크, 주무세요?
+
 MIA (V.O.): I can't let anyone catch me here.
 미아 (속마음): 여기 있는 거 들키면 안 돼.
 
@@ -142,14 +145,17 @@ MIA: So I learned how to give an oil massage. Just for you.
 Luke takes the box and looks down at it. Then Luke gives Mia a soft smile.
 루크가 상자를 받아 내려다본다. 그러고는 미아에게 부드럽게 웃어 준다.
 
-LUKE: Aren't you sweet, my little beauty.
-루크: 기특하네, 우리 예쁜이.
+LUKE: Aren't you sweet.
+루크: 기특하네.
 
 Luke keeps smiling down at Mia.
 루크가 미아를 내려다보며 계속 웃는다.
 
 LUKE: My little beauty.
 루크: 우리 예쁜이.
+
+Mia's eyes go wide. Lips part. Joy spreads across Mia's face.
+미아가 눈을 크게 뜨고 입술을 살짝 벌린다. 얼굴에 기쁨이 번진다.
 
 EP.27
 27화
@@ -163,8 +169,8 @@ Cast: Luke, Mia
 Luke still wears the white linen robe. Mia stands very close in a white linen dress, the blue bead necklace at the throat.
 루크는 아직 흰 리넨 겉옷 차림이다. 흰 리넨 드레스에 파란 구슬 목걸이를 한 미아가 아주 가까이 서 있다.
 
-Luke turns aside and looks down at the open box. A small clay jar of oil gleams inside.
-루크가 고개를 돌려 열린 상자를 내려다본다. 안에 작은 기름 단지가 반짝인다.
+Luke turns aside and looks down at the open box. A small clay jar of oil gleams inside. Mia looks straight at Luke, calm and sure.
+루크가 고개를 돌려 열린 상자를 내려다본다. 안에 작은 기름 단지가 반짝인다. 미아는 루크를 똑바로 본다. 차분하고 자신 있다.
 
 The robe is off now. Luke's bare chest shines with oil. Mia's palms slide over Luke's chest and down the stomach.
 이제 겉옷은 벗겨져 있다. 루크의 맨가슴이 기름으로 번들거린다. 미아의 손바닥이 가슴을 지나 배로 미끄러져 내려간다.
@@ -177,6 +183,12 @@ MIA: The lady who taught me said this spot...
 
 MIA: needs a special technique.
 미아: 특별한 마사지가 필요하대요.
+
+Luke turns to look at Mia.
+루크가 고개를 돌려 미아를 본다.
+
+LUKE: What?
+루크: 뭐?
 
 MIA: She said this is how you do it.
 미아: 이렇게 하는 거래요.
@@ -301,7 +313,7 @@ Cast: Luke, Sabrina, Mia, Gwen, System
 Sabrina walks in barefoot, arms folded, and studies Luke.
 사브리나가 맨발로 팔짱을 끼고 들어와 루크를 훑어본다.
 
-Behind the wall hanging by the door, the hem of a white slip doesn't move.
+Under the wall hanging by the door, the hem of a white slip peeks out. It doesn't move.
 문 옆 벽걸이 천 아래로, 흰 슬립 자락이 꼼짝 않고 비어져 나와 있다.
 
 LUKE: What are you doing here?
@@ -336,6 +348,15 @@ SABRINA: I thought you were just a poor man with a lot of secrets.
 
 SABRINA: Now I'll admit it. I was wrong.
 사브리나: 이제 인정할게. 내가 틀렸어.
+
+Luke looks up from the straw.
+루크가 짚 위에서 올려다본다.
+
+LUKE: So?
+루크: 그래서?
+
+Sabrina stands in front of Luke, hand held out, eyes locked on Luke's.
+사브리나가 루크 앞에 서서 손을 내민 채 눈을 맞춘다.
 
 SABRINA: I'm on your side. Always.
 사브리나: 난 영원히 당신 편이야.
@@ -384,6 +405,9 @@ Sabrina whips around to Luke, red robe swinging. Mouth open. Shocked and accusin
 
 SABRINA: So this is what you meant by "not now"?
 사브리나: 당신이 말한 "때가 아니다"가 이거였어?
+
+Luke goes stiff. A flash of panic.
+루크가 굳는다. 당황한 기색이 스친다.
 
 MIA: It's not what you think!
 미아: 그런 거 아니에요!
@@ -508,8 +532,8 @@ S#29-2. 벽난로 침실 / 실내 / 밤
 Cast: Luke, Mia, System
 인물: 루크, 미아, 시스템
 
-Later that night. Mia lies with eyes closed, brown waves spread on the white sheet. Luke lies beside Mia.
-그날 밤 늦게. 미아가 흰 시트 위에 갈색 머리를 펼친 채 눈을 감고 누워 있다. 루크가 그 옆에 누워 있다.
+Later that night. Sabrina is gone. Mia lies with eyes closed, brown waves spread on the white sheet. Luke lies beside Mia.
+그날 밤 늦게. 사브리나는 가고 없다. 미아가 흰 시트 위에 갈색 머리를 펼친 채 눈을 감고 누워 있다. 루크가 그 옆에 누워 있다.
 
 Luke watches Mia and smiles softly. Tiny lights rise and float between the two.
 루크가 미아를 바라보며 부드럽게 웃는다. 둘 사이로 작은 빛 알갱이들이 떠오른다.
@@ -520,6 +544,9 @@ The golden kitten of light floats above the bed.
 SYSTEM: Stage reward claimed.
 시스템: 단계 보상을 받았습니다.
 
+The lights flash and spin.
+빛 알갱이들이 번쩍이며 맴돈다.
+
 SYSTEM: Modern arsenal unlocked.
 시스템: 현대 무기고가 열렸습니다.
 
@@ -528,6 +555,9 @@ Mia smiles without opening the eyes.
 
 MIA: (sleepy) Master...
 미아: (잠결에) 주인님…
+
+Luke keeps the soft smile and looks ahead into the dark.
+루크가 부드러운 미소를 머금은 채 어둠 너머를 바라본다.
 
 S#29-3. Fireplace Bedroom / INT / NIGHT
 S#29-3. 벽난로 침실 / 실내 / 밤
@@ -585,6 +615,12 @@ GWEN: I'll stop them even if it kills me.
 
 STEWARD: You go first!
 집사: 먼저 가십시오!
+
+STEWARD: We won't hold long.
+집사: 오래 못 버팁니다.
+
+STEWARD: You have to go now!
+집사: 지금 당장 떠나셔야 합니다!
 
 Luke keeps working on the gear. Luke doesn't look up.
 루크는 계속 장비를 챙긴다. 고개도 안 든다.

@@ -79,8 +79,8 @@ LUKE: Whatever it was, it did a clean job.
 LUKE: But it won't hold for long.
 루크: 근데 오래는 못 가.
 
-LUKE: Soon somebody will come around here asking questions.
-루크: 곧 누군가 이 근처를 캐러 올 거야.
+LUKE: Rex came out here with half his men. Soon somebody will come around asking questions.
+루크: 렉스가 부하들 끌고 여기까지 왔어. 곧 누군가 이 근처를 캐러 올 거야.
 
 MIA: Does the Vizier have an enemy?
 미아: 재상한테도 적이 있어요?
@@ -148,6 +148,9 @@ SABRINA (V.O.): Mia already got to him first.
 SABRINA (V.O.): And the way Gwen looks at him now... that's different too.
 사브리나 (속마음): 그웬이 그를 보는 눈빛도... 이젠 달라졌어.
 
+Mia keeps staring up, chewing on a thought.
+미아가 계속 위를 보며 무언가를 곱씹는다.
+
 MIA (V.O.): Should I sleep with him again tonight?
 미아 (속마음): 오늘 밤에도... 저 사람이랑 같이 잘까?
 
@@ -175,8 +178,11 @@ Luke's finger STOPS on one item. The glow is too bright to see what it is.
 LUKE (V.O.): This one.
 루크 (속마음): 이거다.
 
-Near-total darkness. Mia's eyes slowly open.
-거의 칠흑 같은 어둠. 미아가 천천히 눈을 뜬다.
+LUKE (V.O.): If the Lion General is a real warrior, he'll come see me himself.
+루크 (속마음): 사자 장군이 진짜 전사라면, 직접 날 보러 올 거야.
+
+Later. Near-total darkness. Mia's eyes slowly open.
+얼마 뒤. 거의 칠흑 같은 어둠. 미아가 천천히 눈을 뜬다.
 
 Gwen, still lying down, takes a long sip of cola. Mia turns and watches.
 그웬이 누운 채 콜라병을 들어 길게 한 모금 마신다. 미아가 고개를 돌려 그 모습을 본다.
@@ -193,8 +199,8 @@ S#20-2. 진흙 벽돌 오두막 / 실내 / 낮
 Cast: Luke, Captain
 인물: 루크, 경비대장
 
-Day three. Outside, cracked dry earth under a hard sun.
-3일째 날. 밖엔 쩍쩍 갈라진 마른 땅과 뜨거운 해.
+Day three. Through the open door, cracked dry earth under a hard sun.
+3일째 날. 열린 문 너머로 쩍쩍 갈라진 마른 땅과 뜨거운 해.
 
 Luke sits on a stack of mud bricks. Calm. Watchful.
 루크가 진흙 벽돌 더미에 앉아 있다. 차분하지만 경계하는 눈.
@@ -219,6 +225,9 @@ CAPTAIN: The General doesn't see just anyone.
 
 CAPTAIN: It had better be worth his time.
 경비대장: 시간 내실 만한 물건이어야 할 거다.
+
+CAPTAIN: And I'm not a patient man.
+경비대장: 그리고 난 참을성이 별로 없어.
 
 S#20-3. Mud-Brick Hut / INT / DAY
 S#20-3. 진흙 벽돌 오두막 / 실내 / 낮
@@ -286,6 +295,18 @@ MIA: It's so beautiful.
 GUARD 1: Not even the pharaoh's palace has armor like this.
 경비병 1: 파라오의 궁에도 이런 갑옷은 없어.
 
+GUARD 1: The gold alone could buy a whole street.
+경비병 1: 금값만 쳐도 거리 하나를 통째로 사겠다.
+
+GUARD 2: Did the sun god Ra give this armor? It has to be a gift from the gods to a hero!
+경비병 2: 태양신 라께서 내리신 갑옷인가? 신들이 영웅에게 주신 보물이 틀림없어!
+
+Guard 1 lifts a shoulder plate and turns it over, studying it.
+경비병 1이 어깨 갑옷 한 쪽을 들어 뒤집어 가며 살핀다.
+
+GUARD 1: It's so light.
+경비병 1: 엄청 가볍네.
+
 [INSERT] The sword's blade. Gold carvings run down the steel. The edge flashes.
 [인서트] 검날. 강철을 따라 금빛 문양이 새겨져 있다. 날이 번쩍인다.
 
@@ -294,6 +315,9 @@ Guard 1 holds the sword up in both hands, right in front of Guard 1's face, eyes
 
 GUARD 1: So sharp! A bronze sword could never get an edge like this!
 경비병 1: 엄청 날카로워! 청동검으론 절대 이런 날이 안 나와!
+
+GUARD 1: With holy armor like this, the General can't lose!
+경비병 1: 이런 신성한 갑옷이면 장군님은 무적이야!
 
 LUKE: It's high-manganese steel. With modern gold plating.
 루크: 그거 현대식으로 금도금한 고망간강 검이야.
@@ -306,6 +330,9 @@ The Captain takes the golden sword. The armor now lies packed in an ornate chest
 
 Luke pushes the open chest toward the Captain.
 루크가 뚜껑 열린 상자를 경비대장 앞으로 내민다.
+
+LUKE: Wood is a toy to that blade. One swing and it's in two.
+루크: 그 검 앞에선 나무 따위 장난감이야. 한 번 휘두르면 두 동강 나.
 
 LUKE: It's my family treasure. I want to give it to the Lion General. To mark our first meeting.
 루크: 우리 집안 가보야. 사자 장군한테 드리고 싶어. 첫 만남 기념으로.
@@ -364,7 +391,25 @@ Cast: Luke, Mia, Gwen, Sabrina, System
 The guards are gone. On the table: clay jars, wooden bowls, a few chunks of bread.
 경비병들은 떠났다. 탁자 위에 진흙 항아리, 나무 그릇, 빵 몇 조각.
 
-Gwen walks right up to Luke, eyes sharp. Mia sits at the table, nervous.
+Mia sits at the table, looking up, deep in thought. Luke stands in front of Mia, smiling a little.
+미아가 탁자 앞에 앉아 생각에 잠긴 얼굴로 위를 본다. 루크가 그 앞에 서서 살짝 웃는다.
+
+MIA: Giving that armor to the General is such a waste. Why didn't you keep it?
+미아: 그 갑옷을 장군한테 주다니 너무 아까워요. 주인님이 그냥 가지시지 그러셨어요?
+
+LUKE: You think that armor could stop the weapon I used before?
+루크: 그 갑옷이 내가 전에 쓴 무기를 막을 수 있을 것 같아?
+
+Mia lowers Mia's eyes.
+미아가 눈을 내리깐다.
+
+MIA: No.
+미아: 아뇨.
+
+LUKE: Then it's just a pretty gift.
+루크: 그럼 그냥 예쁜 선물일 뿐이야.
+
+Gwen walks right up to Luke, eyes sharp. Mia stays at the table, nervous.
 그웬이 날 선 눈으로 루크 바로 앞까지 다가온다. 미아는 탁자에 앉은 채 긴장한다.
 
 GWEN: The food. That black weapon. The bodies that vanished behind my back. And now holy armor.
@@ -508,14 +553,23 @@ Long curly brown hair under the lion helmet, a full beard. Behind the General co
 In the shadow of the hut's doorway, Gwen stands with arms crossed, cool eyes sizing up the new arrival.
 오두막 문간 그늘에서 그웬이 팔짱을 끼고 서서 차가운 눈으로 찾아온 사람을 훑는다.
 
+Golden greaves step onto the sand. One step. Then another.
+황금 정강이 갑옷이 모래를 밟는다. 한 걸음. 또 한 걸음.
+
 GWEN: He actually got the commander of the city guard to come all the way out here.
 그웬: 진짜로 도시 경비대 우두머리를 여기까지 직접 오게 만들었네.
+
+GWEN: That holy armor fits the General like it was made for him.
+그웬: 저 신성한 갑옷, 장군 몸에 맞춰 만든 것 같아.
 
 GWEN: Luke did it again.
 그웬: 루크가 또 해냈어.
 
 The Lion General looks down at the golden sword. The corner of the General's mouth lifts. A pleased smile.
 사자 장군이 손에 든 황금 검을 내려다본다. 입꼬리가 올라간다. 흡족한 미소.
+
+GENERAL: The armor is light and tough. The sword is sharp as a razor.
+장군: 갑옷은 가볍고 튼튼하고, 검은 면도날처럼 날카롭군.
 
 GENERAL: I like this gift.
 장군: 이 선물, 마음에 든다.
@@ -537,6 +591,12 @@ GENERAL: You said you can free Egypt from hunger. Forever.
 
 GENERAL: If you lied to me, you'll pay for it.
 장군: 날 속인 거라면, 반드시 대가를 치르게 하겠다.
+
+GENERAL: Luke.
+장군: 루크.
+
+GENERAL: Think carefully before you answer.
+장군: 대답하기 전에 잘 생각해라.
 
 Luke doesn't answer. Luke pulls the cloth off the bowl, scoops up a spoonful, and RAISES it straight to the General's mouth.
 루크는 대답하지 않는다. 그릇의 천을 걷고 한 숟갈 떠서 장군의 입 앞으로 곧장 내민다.
@@ -616,20 +676,20 @@ LUKE: This is a potato. A gift from the gods.
 LUKE: It grows in bad soil. It handles cold and drought. It's ready in three or four months.
 루크: 척박한 땅에서도 자라고, 추위랑 가뭄도 견뎌. 서너 달이면 다 커.
 
-LUKE: Even at a low guess, the first harvest gives a thousand pounds an acre.
-루크: 적게 잡아도 첫 수확에 에이커당 천 파운드는 나와.
+LUKE: Even at a low guess, one field gives fifty sacks at the first harvest.
+루크: 적게 잡아도 첫 수확에 밭 하나에서 쉰 자루는 나와.
 
-LUKE: On good land, with good care? Over two thousand.
-루크: 좋은 땅에서 잘 키우면? 이천 파운드도 넘어.
+LUKE: On good land, with good care? Over a hundred.
+루크: 좋은 땅에서 잘 키우면? 백 자루도 넘어.
 
 Two soldiers in bronze helmets stand side by side, spears planted upright.
 청동 투구를 쓴 병사 둘이 창을 앞에 세우고 나란히 서 있다.
 
-SOLDIER 1: A thousand pounds? No way!
-병사 1: 천 파운드요? 말도 안 돼요!
+SOLDIER 1: Fifty sacks? No way!
+병사 1: 쉰 자루요? 말도 안 돼요!
 
-SOLDIER 2: The best barley only gets two hundred.
-병사 2: 최상급 보리도 고작 이백 파운드인데.
+SOLDIER 2: The best barley field only gets ten.
+병사 2: 최상급 보리밭도 고작 열 자루인데.
 
 GENERAL: He hasn't lied to us yet.
 장군: 이자는 아직 우릴 속인 적이 없다.
@@ -648,6 +708,9 @@ The General tips the bowl toward the soldiers. Scraped clean.
 
 GENERAL: It's gone.
 장군: 없다.
+
+Gwen and Mia stand together. Gwen's face barely moves. Neither does Mia's.
+그웬과 미아가 나란히 서 있다. 표정이 거의 변하지 않는다.
 
 The General holds the raw potato out to Luke.
 장군이 생감자를 루크에게 내민다.
@@ -763,14 +826,26 @@ Gwen grins ear to ear, looking all around. Sabrina gazes up at the buildings, mo
 GWEN: You said you'd fix where we live. So? Did you fix it?
 그웬: 우리 살 곳 해결해 준다고 했지. 그래서? 해결했어?
 
+Gwen spreads both arms wide.
+그웬이 두 팔을 활짝 벌린다.
+
 GWEN: You fixed it.
 그웬: 해결했네.
+
+Gwen's eyes sweep across the courtyard.
+그웬의 눈이 안뜰을 훑는다.
+
+GWEN: This place is bigger than any noble's house I've ever seen.
+그웬: 여기, 내가 본 어떤 귀족 저택보다 커.
 
 Gwen looks at Luke. Gwen's face softens.
 그웬이 루크를 본다. 얼굴이 부드러워진다.
 
 GWEN: You're really something. An estate in one day.
 그웬: 너 진짜 대단하다. 하루 만에 영지라니.
+
+GWEN: I underestimated you.
+그웬: 내가 널 얕봤어.
 
 Sabrina still looks up. Sabrina's brows pull together, lips apart, tense.
 사브리나는 여전히 위를 보고 있다. 미간이 살짝 좁혀지고, 입술이 벌어진 채 긴장한 얼굴이다.
