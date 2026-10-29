@@ -9,7 +9,7 @@ import io, os, re, sys
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, os.path.join(HERE, '..', '..', 'tools'))
 EP_DIR = os.path.join(HERE, '05_episodes')
-PARTS = ['EP01-08', 'EP09-16', 'EP17-23', 'EP24-30']
+PARTS = ['EP01-10', 'EP11-18', 'EP19-25', 'EP26-30']
 TITLE = 'Get Three Wives With System Power in Ancient Egypt'
 OUT_DIR = os.path.join(HERE, '07_final')
 OUT_MD = os.path.join(OUT_DIR, TITLE + '_FINAL_v1_EN&KO.md')
@@ -69,7 +69,7 @@ def check(items):
             n = int(m.group(1))
             if not mk or int(mk.group(1)) != n:
                 errs.append('화 제목 한영 불일치: %s / %s' % (en, kr))
-            if bool(m.group(2)) != (n == 8) or (mk and bool(mk.group(2)) != (n == 8)):
+            if bool(m.group(2)) != (n == 10) or (mk and bool(mk.group(2)) != (n == 10)):
                 errs.append('페이월 표기 자리 틀림: %s / %s' % (en, kr))
             if n != ep + 1:
                 errs.append('화 번호 순서: %d 다음에 %d' % (ep, n))
