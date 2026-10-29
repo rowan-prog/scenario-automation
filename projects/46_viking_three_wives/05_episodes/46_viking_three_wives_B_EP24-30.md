@@ -173,7 +173,7 @@ Mia pushes the box toward Luke and ducks shyly.
 미아가 상자를 루크 쪽으로 내밀며 수줍게 고개를 숙인다.
 
 MIA: So I learned how to give an oil massage. Just for you.
-미아: 그래서 오일 마사지를 배워 왔어요. 주인님 해 드리려고요.
+미아: 그래서 오일 마사지를 배워 왔어요. 주인님께 해 드리려고요.
 
 Luke takes the box and looks down at it. Then Luke gives Mia a soft smile.
 루크가 상자를 받아 내려다본다. 그러고는 미아에게 부드럽게 웃어 준다.

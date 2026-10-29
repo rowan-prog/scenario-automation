@@ -122,7 +122,7 @@ Gwen leans forward, eyes fixed ahead.
 그웬이 앞으로 몸을 숙이고 한곳을 노려본다.
 
 GWEN: The men who came last night. The Captain with the red plume. Those were the Lion General's men.
-그웬: 어젯밤에 온 놈들. 붉은 깃 단 그 경비대장. 그것도 사자 장군 부하들이었어.
+그웬: 어젯밤에 온 놈들. 붉은 깃 단 그 경비대장. 전부 사자 장군 부하들이었어.
 
 LUKE: Right.
 루크: 맞아.
@@ -245,7 +245,7 @@ Mia turns Mia's head and watches Gwen drink.
 미아가 고개를 돌려 그웬이 마시는 걸 본다.
 
 MIA: (whispering) I need some cola too.
-미아: (속삭이며) 언니, 나도 콜라 좀 마셔야겠어요.
+미아: (속삭이며) 언니, 저도 콜라 좀 마셔야겠어요.
 
 Gwen pulls the bottle from Gwen's lips and turns toward Mia.
 그웬이 입에서 병을 떼고 미아 쪽으로 돌아눕는다.
@@ -998,7 +998,7 @@ Gwen grins ear to ear, looking all around. Sabrina gazes up at the buildings, mo
 그웬이 입이 귀에 걸린 채 사방을 둘러본다. 사브리나는 건물을 올려다보며 입을 벌리고 감탄한다.
 
 GWEN: You said you'd fix where we live. So? Did you fix it?
-그웬: 사는 데 해결해 준다고 했지. 그래서? 해결했어?
+그웬: 우리 살 곳 해결해 준다고 했지. 그래서? 해결했어?
 
 Gwen's mouth opens wide in a huge smile.
 그웬이 입을 크게 벌리고 환하게 웃는다.

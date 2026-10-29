@@ -158,7 +158,7 @@ Rex looks up at the muzzle over Rex's head. White tunic, gold brooch, blood spat
 렉스가 머리 위의 총구를 올려다본다. 흰 튜닉, 금 브로치, 온통 튄 핏자국. 렉스의 입꼬리가 비웃음으로 올라간다.
 
 REX: Hear that, you piece of trash?
-렉스: 들었냐, 이 천한 놈아?
+렉스: 들었냐, 이 쓰레기 같은 놈아?
 
 REX: You don't have the guts to kill me.
 렉스: 넌 날 죽일 배짱도 없어.
@@ -542,16 +542,16 @@ CAPTAIN: I asked you. What were you doing in here?
 경비대장: 내가 물었지. 여기서 뭘 하고 있었냐고.
 
 LUKE: I heard fighting outside.
-루크: 밖에서 싸우는 소리가 들렸어.
+루크: 밖에서 싸우는 소리가 들렸습니다.
 
 CAPTAIN: Who?
 경비대장: 누구?
 
 LUKE: Looked like enemy spies from the north. They started cutting each other up.
-루크: 북쪽에서 온 적국 첩자들 같았어. 자기들끼리 칼부림을 하더라고.
+루크: 북쪽에서 온 적국 첩자들 같았습니다. 자기들끼리 칼부림을 하더라고요.
 
 LUKE: I thought it was an attack. I was too scared to open the door.
-루크: 쳐들어온 줄 알았지. 무서워서 문도 못 열었어.
+루크: 쳐들어온 줄 알았습니다. 무서워서 문도 못 열었습니다.
 
 The lion on the Captain's breastplate catches the torchlight. The Captain's eyes stay nailed on Luke.
 경비대장의 가슴받이에 새긴 사자가 횃불에 번뜩인다. 경비대장의 눈은 루크에게 박혀 있다.
@@ -560,7 +560,7 @@ CAPTAIN: You're Luke?
 경비대장: 네가 루크냐?
 
 LUKE: Yeah.
-루크: 응.
+루크: 네.
 
 The Captain lowers the voice.
 경비대장이 목소리를 낮춘다.
@@ -569,7 +569,7 @@ CAPTAIN: The guy who took three women at the square today. That was you?
 경비대장: 오늘 광장에서 여자 셋을 데려간 놈. 그게 너냐?
 
 LUKE: That's me.
-루크: 나야.
+루크: 접니다.
 
 Torches burn by the doorway. The soldiers' shadows loom behind. The Captain looks Luke up and down, mouth curling into a grin.
 문간 옆에서 횃불이 탄다. 그 뒤로 병사들의 그림자가 늘어서 있다. 경비대장이 루크를 위아래로 훑어보며 입꼬리를 올린다.
@@ -590,10 +590,10 @@ Luke looks the Captain dead in the eye.
 루크가 경비대장의 눈을 똑바로 본다.
 
 LUKE: No problem.
-루크: 문제없어.
+루크: 문제없습니다.
 
 LUKE: I'll work my ass off.
-루크: 죽어라 일할 거야.
+루크: 죽어라 일하죠, 뭐.
 
 The Captain lets out a short laugh.
 경비대장이 짧게 웃는다.
@@ -611,10 +611,10 @@ Luke points out into the night.
 루크가 밤길 쪽을 가리킨다.
 
 LUKE: That way.
-루크: 저쪽.
+루크: 저쪽이요.
 
 LUKE: They were moving fast.
-루크: 엄청 빨리 뛰어가더라.
+루크: 엄청 빨리 뛰어가던데요.
 
 The Captain turns and waves at the soldiers.
 경비대장이 돌아서서 병사들에게 손짓한다.
@@ -683,13 +683,13 @@ LUKE: But if you trust me,
 루크: 그래도 날 믿어 주면,
 
 LUKE: I can give you all a safe life.
-루크: 너희 모두 편하게 살게 해 줄 수 있어.
+루크: 너희 모두 안전하게 살게 해 줄 수 있어.
 
 Gwen narrows the eyes at Luke.
 그웬이 눈을 가늘게 뜨고 루크를 본다.
 
 GWEN: A safe life?
-그웬: 편하게 산다고?
+그웬: 안전하게 산다고?
 
 GWEN: You make it sound easy.
 그웬: 말 참 쉽게 하네.

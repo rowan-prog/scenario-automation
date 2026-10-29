@@ -163,14 +163,17 @@ Luke's eyes slide to Gwen, then to Mia.
 (SFX) A soft, bright chime.
 (효과음) 맑고 부드러운 종소리.
 
-POP. A tiny golden kitten made of pure light appears in midair, right in front of Luke's face. Sparks drift off the glowing fur. The kitten blinks big gold eyes.
-퐁. 순수한 빛으로 된 작은 금빛 새끼 고양이가 루크 얼굴 바로 앞 허공에 나타난다. 빛나는 털에서 불티가 흩날린다. 새끼 고양이가 커다란 금빛 눈을 깜빡인다.
+POP. A tiny golden kitten appears in midair, right in front of Luke's face. Palm-sized and round, with huge pointed ears, big gold eyes lined in black like an Egyptian wall painting, and a tiny gold collar with a blue scarab charm. Sparks drift off the glowing fur. The kitten blinks.
+퐁. 루크 얼굴 바로 앞 허공에 작은 금빛 새끼 고양이가 나타난다. 손바닥만 한 동그란 몸, 커다란 뾰족 귀, 이집트 벽화처럼 검게 테를 두른 큰 금빛 눈, 파란 풍뎅이 장식이 달린 작은 금 목걸이. 빛나는 털에서 불티가 흩날린다. 새끼 고양이가 눈을 깜빡인다.
+
+[NAME CARD] SYSTEM — Only Luke Can See It
+[이름] 시스템 — 루크 눈에만 보인다
 
 Luke's eyes go wide. Luke's mouth drops open. Nobody else in the square even looks.
 루크의 눈이 휘둥그레진다. 입이 쩍 벌어진다. 광장의 다른 누구도 쳐다보지 않는다.
 
-SYSTEM: Suitable host detected.
-시스템: 적합한 호스트를 감지했습니다.
+SYSTEM: (chirpy) Suitable host detected.
+시스템: (명랑하게) 적합한 호스트를 감지했습니다.
 
 LUKE: What the hell is that?
 루크: 저게 대체 뭐야?
@@ -203,7 +206,7 @@ SYSTEM: Mia. Zero.
 시스템: 미아, 0.
 
 A third window opens above Sabrina, who lifts the lazy eyes and looks right through the light without seeing it.
-세 번째 창이 사브리나 위로 열린다. 사브리나가 나른한 눈을 들지만, 그 빛을 보지 못한 채 그대로 꿰뚫어 본다.
+세 번째 창이 사브리나 위로 열린다. 사브리나가 나른한 눈을 들지만, 창은 보지 못하고 빛 너머만 멍하니 바라본다.
 
 [STATUS] SABRINA / AFFECTION: 0
 [상태창] 사브리나 / 호감도: 0
@@ -1445,7 +1448,7 @@ Mia leans in close, smile widening, and lays one hand softly on Luke's chest ove
 미아가 바짝 몸을 숙이며 더 활짝 웃고, 한 손을 리넨 상의 위 루크의 가슴에 살포시 얹는다.
 
 MIA: Let me make you feel good, master.
-미아: 주인님, 제가 편하게 해 드릴게요.
+미아: 주인님, 제가 기분 좋게 해 드릴게요.
 
 S#7-2. Mud-Brick Hut, by the Hearth / INT / NIGHT
 S#7-2. 진흙 벽돌 오두막, 화덕 옆 / 실내 / 밤

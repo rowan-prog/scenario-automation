@@ -166,14 +166,17 @@ Luke's eyes slide to Gwen, then to Mia.
 (SFX) A soft, bright chime.
 (효과음) 맑고 부드러운 종소리.
 
-POP. A tiny golden kitten made of pure light appears in midair, right in front of Luke's face. Sparks drift off the glowing fur. The kitten blinks big gold eyes.
-퐁. 순수한 빛으로 된 작은 금빛 새끼 고양이가 루크 얼굴 바로 앞 허공에 나타난다. 빛나는 털에서 불티가 흩날린다. 새끼 고양이가 커다란 금빛 눈을 깜빡인다.
+POP. A tiny golden kitten appears in midair, right in front of Luke's face. Palm-sized and round, with huge pointed ears, big gold eyes lined in black like an Egyptian wall painting, and a tiny gold collar with a blue scarab charm. Sparks drift off the glowing fur. The kitten blinks.
+퐁. 루크 얼굴 바로 앞 허공에 작은 금빛 새끼 고양이가 나타난다. 손바닥만 한 동그란 몸, 커다란 뾰족 귀, 이집트 벽화처럼 검게 테를 두른 큰 금빛 눈, 파란 풍뎅이 장식이 달린 작은 금 목걸이. 빛나는 털에서 불티가 흩날린다. 새끼 고양이가 눈을 깜빡인다.
+
+[NAME CARD] SYSTEM — Only Luke Can See It
+[이름] 시스템 — 루크 눈에만 보인다
 
 Luke's eyes go wide. Luke's mouth drops open. Nobody else in the square even looks.
 루크의 눈이 휘둥그레진다. 입이 쩍 벌어진다. 광장의 다른 누구도 쳐다보지 않는다.
 
-SYSTEM: Suitable host detected.
-시스템: 적합한 호스트를 감지했습니다.
+SYSTEM: (chirpy) Suitable host detected.
+시스템: (명랑하게) 적합한 호스트를 감지했습니다.
 
 LUKE: What the hell is that?
 루크: 저게 대체 뭐야?
@@ -206,7 +209,7 @@ SYSTEM: Mia. Zero.
 시스템: 미아, 0.
 
 A third window opens above Sabrina, who lifts the lazy eyes and looks right through the light without seeing it.
-세 번째 창이 사브리나 위로 열린다. 사브리나가 나른한 눈을 들지만, 그 빛을 보지 못한 채 그대로 꿰뚫어 본다.
+세 번째 창이 사브리나 위로 열린다. 사브리나가 나른한 눈을 들지만, 창은 보지 못하고 빛 너머만 멍하니 바라본다.
 
 [STATUS] SABRINA / AFFECTION: 0
 [상태창] 사브리나 / 호감도: 0
@@ -1448,7 +1451,7 @@ Mia leans in close, smile widening, and lays one hand softly on Luke's chest ove
 미아가 바짝 몸을 숙이며 더 활짝 웃고, 한 손을 리넨 상의 위 루크의 가슴에 살포시 얹는다.
 
 MIA: Let me make you feel good, master.
-미아: 주인님, 제가 편하게 해 드릴게요.
+미아: 주인님, 제가 기분 좋게 해 드릴게요.
 
 S#7-2. Mud-Brick Hut, by the Hearth / INT / NIGHT
 S#7-2. 진흙 벽돌 오두막, 화덕 옆 / 실내 / 밤
@@ -1901,7 +1904,7 @@ Rex looks up at the muzzle over Rex's head. White tunic, gold brooch, blood spat
 렉스가 머리 위의 총구를 올려다본다. 흰 튜닉, 금 브로치, 온통 튄 핏자국. 렉스의 입꼬리가 비웃음으로 올라간다.
 
 REX: Hear that, you piece of trash?
-렉스: 들었냐, 이 천한 놈아?
+렉스: 들었냐, 이 쓰레기 같은 놈아?
 
 REX: You don't have the guts to kill me.
 렉스: 넌 날 죽일 배짱도 없어.
@@ -2285,16 +2288,16 @@ CAPTAIN: I asked you. What were you doing in here?
 경비대장: 내가 물었지. 여기서 뭘 하고 있었냐고.
 
 LUKE: I heard fighting outside.
-루크: 밖에서 싸우는 소리가 들렸어.
+루크: 밖에서 싸우는 소리가 들렸습니다.
 
 CAPTAIN: Who?
 경비대장: 누구?
 
 LUKE: Looked like enemy spies from the north. They started cutting each other up.
-루크: 북쪽에서 온 적국 첩자들 같았어. 자기들끼리 칼부림을 하더라고.
+루크: 북쪽에서 온 적국 첩자들 같았습니다. 자기들끼리 칼부림을 하더라고요.
 
 LUKE: I thought it was an attack. I was too scared to open the door.
-루크: 쳐들어온 줄 알았지. 무서워서 문도 못 열었어.
+루크: 쳐들어온 줄 알았습니다. 무서워서 문도 못 열었습니다.
 
 The lion on the Captain's breastplate catches the torchlight. The Captain's eyes stay nailed on Luke.
 경비대장의 가슴받이에 새긴 사자가 횃불에 번뜩인다. 경비대장의 눈은 루크에게 박혀 있다.
@@ -2303,7 +2306,7 @@ CAPTAIN: You're Luke?
 경비대장: 네가 루크냐?
 
 LUKE: Yeah.
-루크: 응.
+루크: 네.
 
 The Captain lowers the voice.
 경비대장이 목소리를 낮춘다.
@@ -2312,7 +2315,7 @@ CAPTAIN: The guy who took three women at the square today. That was you?
 경비대장: 오늘 광장에서 여자 셋을 데려간 놈. 그게 너냐?
 
 LUKE: That's me.
-루크: 나야.
+루크: 접니다.
 
 Torches burn by the doorway. The soldiers' shadows loom behind. The Captain looks Luke up and down, mouth curling into a grin.
 문간 옆에서 횃불이 탄다. 그 뒤로 병사들의 그림자가 늘어서 있다. 경비대장이 루크를 위아래로 훑어보며 입꼬리를 올린다.
@@ -2333,10 +2336,10 @@ Luke looks the Captain dead in the eye.
 루크가 경비대장의 눈을 똑바로 본다.
 
 LUKE: No problem.
-루크: 문제없어.
+루크: 문제없습니다.
 
 LUKE: I'll work my ass off.
-루크: 죽어라 일할 거야.
+루크: 죽어라 일하죠, 뭐.
 
 The Captain lets out a short laugh.
 경비대장이 짧게 웃는다.
@@ -2354,10 +2357,10 @@ Luke points out into the night.
 루크가 밤길 쪽을 가리킨다.
 
 LUKE: That way.
-루크: 저쪽.
+루크: 저쪽이요.
 
 LUKE: They were moving fast.
-루크: 엄청 빨리 뛰어가더라.
+루크: 엄청 빨리 뛰어가던데요.
 
 The Captain turns and waves at the soldiers.
 경비대장이 돌아서서 병사들에게 손짓한다.
@@ -2426,13 +2429,13 @@ LUKE: But if you trust me,
 루크: 그래도 날 믿어 주면,
 
 LUKE: I can give you all a safe life.
-루크: 너희 모두 편하게 살게 해 줄 수 있어.
+루크: 너희 모두 안전하게 살게 해 줄 수 있어.
 
 Gwen narrows the eyes at Luke.
 그웬이 눈을 가늘게 뜨고 루크를 본다.
 
 GWEN: A safe life?
-그웬: 편하게 산다고?
+그웬: 안전하게 산다고?
 
 GWEN: You make it sound easy.
 그웬: 말 참 쉽게 하네.
@@ -3041,7 +3044,7 @@ Gwen leans forward, eyes fixed ahead.
 그웬이 앞으로 몸을 숙이고 한곳을 노려본다.
 
 GWEN: The men who came last night. The Captain with the red plume. Those were the Lion General's men.
-그웬: 어젯밤에 온 놈들. 붉은 깃 단 그 경비대장. 그것도 사자 장군 부하들이었어.
+그웬: 어젯밤에 온 놈들. 붉은 깃 단 그 경비대장. 전부 사자 장군 부하들이었어.
 
 LUKE: Right.
 루크: 맞아.
@@ -3164,7 +3167,7 @@ Mia turns Mia's head and watches Gwen drink.
 미아가 고개를 돌려 그웬이 마시는 걸 본다.
 
 MIA: (whispering) I need some cola too.
-미아: (속삭이며) 언니, 나도 콜라 좀 마셔야겠어요.
+미아: (속삭이며) 언니, 저도 콜라 좀 마셔야겠어요.
 
 Gwen pulls the bottle from Gwen's lips and turns toward Mia.
 그웬이 입에서 병을 떼고 미아 쪽으로 돌아눕는다.
@@ -3917,7 +3920,7 @@ Gwen grins ear to ear, looking all around. Sabrina gazes up at the buildings, mo
 그웬이 입이 귀에 걸린 채 사방을 둘러본다. 사브리나는 건물을 올려다보며 입을 벌리고 감탄한다.
 
 GWEN: You said you'd fix where we live. So? Did you fix it?
-그웬: 사는 데 해결해 준다고 했지. 그래서? 해결했어?
+그웬: 우리 살 곳 해결해 준다고 했지. 그래서? 해결했어?
 
 Gwen's mouth opens wide in a huge smile.
 그웬이 입을 크게 벌리고 환하게 웃는다.
@@ -4190,7 +4193,7 @@ Mia pushes the box toward Luke and ducks shyly.
 미아가 상자를 루크 쪽으로 내밀며 수줍게 고개를 숙인다.
 
 MIA: So I learned how to give an oil massage. Just for you.
-미아: 그래서 오일 마사지를 배워 왔어요. 주인님 해 드리려고요.
+미아: 그래서 오일 마사지를 배워 왔어요. 주인님께 해 드리려고요.
 
 Luke takes the box and looks down at it. Then Luke gives Mia a soft smile.
 루크가 상자를 받아 내려다본다. 그러고는 미아에게 부드럽게 웃어 준다.
