@@ -1351,11 +1351,11 @@ LUKE (V.O.): Finally. Even with this weak body, I can protect myself now.
 구석에서 미아가 다시 벽에 기대 무릎을 끌어안고 앉아 있다. 미아의 눈이 루크의 등에 가 있다.
 In the corner, Mia sits against the wall again, hugging the knees. Mia's eyes are on Luke's back.
 
-미아: (혼잣말로 속삭이며) 밤새 한숨도 안 주무셨어.
-MIA: (whispering to herself) He hasn't closed his eyes all night.
+미아 (V.O.): 밤새 한숨도 안 주무셨어.
+MIA (V.O.): He hasn't closed his eyes all night.
 
-미아: (속삭이며) 우리를 지킬 준비를 하고 계셨던 거야.
-MIA: (whispering) He's been getting ready to protect us.
+미아 (V.O.): 우리를 지킬 준비를 하고 계셨던 거야.
+MIA (V.O.): He's been getting ready to protect us.
 
 루크가 소총과 탄창 세 개를 작업대 밑 깊숙이 밀어 넣고 빈 곡식 자루를 덮는다. 루크가 방을 등진 채 잔뜩 긴장해 웅크리고 있다.
 Luke slides the rifle and the three magazines deep under the workbench and throws an empty grain sack on top. Luke stays crouched there, tense, back to the room.
@@ -1768,14 +1768,14 @@ Luke looks down at Rex, gun in hand.
 루크: 왜 안 되는데?
 LUKE: Why not?
 
-미아: 이 사람 아버지가 이집트의 재상이에요.
-MIA: His father is the Vizier of Egypt.
+사브리나: 이 사람 아버지가 이집트의 재상이야.
+SABRINA: His father is the Vizier of Egypt.
 
-미아: 근위대 일부, 곡식 세금, 재판까지... 전부 그 손에 있어요.
-MIA: Part of the palace guard, the grain tax, the courts... it's all in his hands.
+사브리나: 근위대 일부, 곡식 세금, 재판까지... 전부 그 손에 있어.
+SABRINA: Part of the palace guard, the grain tax, the courts... it's all in his hands.
 
-미아: 그 아들을 죽이면 온 도시가 군대를 보내서 우릴 쫓을 거예요.
-MIA: Kill his son, and the whole city will send soldiers after us.
+사브리나: 그 아들을 죽이면 온 도시가 군대를 보내서 우릴 쫓을 거야.
+SABRINA: Kill his son, and the whole city will send soldiers after us.
 
 렉스가 머리 위의 총구를 올려다본다. 렉스의 입꼬리가 비웃음으로 올라간다.
 Rex looks up at the muzzle. Rex's lip curls into a sneer.
@@ -1789,7 +1789,7 @@ REX: You don't have the guts to kill me.
 렉스: 우리 아버지 말 한마디면, 넌 산 채로 가죽이 벗겨져서 성문에 매달려!
 REX: One word from my father, and you get skinned alive and hung on the city gate!
 
-미아: 루크, 도망쳐요! 지금 떠나면 아직 늦지 않았어요!
+미아: 루크 님, 도망쳐요! 지금 떠나면 아직 늦지 않았어요!
 MIA: Luke, run! If you go now, there's still time!
 
 그웬이 코페시를 치켜들고 루크 옆으로 나선다. 눈빛이 날카롭다.
@@ -2336,16 +2336,16 @@ LUKE: Breakfast.
 루크: 피자랑 콜라.
 LUKE: Pizza and cola.
 
-그웬이 탁자 위로 몸을 숙인다. 코가 피자에 닿을 듯하다. 눈이 호기심으로 반짝인다.
-Gwen bends over the table, nose almost touching the pizza, eyes full of curiosity.
 사브리나가 탁자에 앉아 피자를 보며 인상을 쓴다.
 Sabrina sits down at the table and frowns at the pizza.
+그웬이 탁자 위로 몸을 숙인다. 코가 피자에 닿을 듯하다. 눈이 호기심으로 반짝인다.
+Gwen bends over the table, nose almost touching the pizza, eyes full of curiosity.
 
-사브리나: 이것도 고기야?
-SABRINA: Is this meat too?
+그웬: 이것도 고기야?
+GWEN: Is this meat too?
 
-루크가 피자 한 조각을 집어 든다. 치즈가 길게 늘어진다. 루크가 사브리나를 보며 씩 웃는다.
-Luke picks up a slice. Cheese stretches in long strings. Luke grins at Sabrina.
+루크가 피자 한 조각을 집어 든다. 치즈가 길게 늘어진다. 루크가 그웬을 보며 씩 웃는다.
+Luke picks up a slice. Cheese stretches in long strings. Luke grins at Gwen.
 
 루크: 고기,
 LUKE: Meat.
@@ -2631,8 +2631,8 @@ Gwen keeps looking down at Luke.
 S#2. 재상의 궁, 큰 홀 / 실내 / 밤
 S#2. The Vizier's Palace, Great Hall / INT / NIGHT
 
-인물: 재상, 재상의 부하들
-CAST: Vizier, Vizier's Men
+인물: 재상, 곱슬머리 첩자, 재상의 부하들
+CAST: Vizier, Curly-Haired Spy, Vizier's Men
 밤. 어두운 홀. 연꽃 연못 옆에서 청동 화로가 낮게 탄다.
 Night. A dark hall. Bronze braziers burn low beside a lotus pool.
 재상의 부하 셋이 고개를 숙이고 나란히 서 있다. 맨 앞엔 도시 경비대의 사자 가슴받이를 한 검은 곱슬머리 사내.
@@ -2647,8 +2647,8 @@ VIZIER: A whole day.
 재상: 군 막사, 술집, 사창가, 도박장. 안 뒤진 데가 어디 있어?
 VIZIER: Barracks, taverns, brothels, gambling dens. Where haven't you looked?
 
-재상의 부하: 나리, 계속 찾고 있습니다.
-VIZIER'S MAN: My lord, we're still searching.
+곱슬머리 첩자: 나리, 계속 찾고 있습니다.
+CURLY-HAIRED SPY: My lord, we're still searching.
 
 재상: 못 찾으면 네놈들 눈을 파내겠다. 그다음엔 개처럼 코로 냄새나 맡고 다녀.
 VIZIER: If you don't find him, I'll gouge out your eyes. Then you can sniff around like dogs.
@@ -2661,11 +2661,11 @@ The Vizier steps into the brazier light. Silver-grey hair, a short beard, a gold
 [화면자막] 재상 — 이집트의 재상, 렉스의 아버지
 [SUPER] THE VIZIER — Vizier of Egypt, Rex's Father
 
-재상의 부하: 아드님께서 사라지시기 전에, 성 밖으로 나가시는 걸 본 사람이 있습니다.
-VIZIER'S MAN: Before your son went missing, he was seen heading out of the city.
+곱슬머리 첩자: 아드님께서 사라지시기 전에, 성 밖으로 나가시는 걸 본 사람이 있습니다.
+CURLY-HAIRED SPY: Before your son went missing, he was seen heading out of the city.
 
-재상의 부하: 한꺼번에 아내를 셋이나 얻은 놈과 관련이 있을지도 모릅니다. 이름이 루크랍니다!
-VIZIER'S MAN: It may have to do with a man who took three wives at once. His name is Luke!
+곱슬머리 첩자: 한꺼번에 아내를 셋이나 얻은 놈과 관련이 있을지도 모릅니다. 이름이 루크랍니다!
+CURLY-HAIRED SPY: It may have to do with a man who took three wives at once. His name is Luke!
 
 재상의 눈이 옆으로 미끄러진다. 눈빛이 날카롭게 조여든다.
 The Vizier's eyes slide sideways. The gaze sharpens.
@@ -2782,8 +2782,8 @@ LUKE: (grinning) We make him come to us.
 미아: 어떻게요?
 MIA: How?
 
-미아: 꿈꾸시는 거 아니죠?
-MIA: Are you dreaming?
+사브리나: 꿈꾸는 거 아니지?
+SABRINA: Are you dreaming?
 
 루크가 더 크게 웃기만 한다. 노랑, 분홍, 보랏빛이 화면 가득 번지며 모든 걸 하얗게 덮는다.
 Luke only grins wider. A burst of yellow, pink and purple light floods the screen and washes everything out.
@@ -2971,8 +2971,8 @@ Guard 1 holds the sword up in both hands, right in front of Guard 1's face, eyes
 경비병 1: 엄청 날카로워! 청동검으론 절대 이런 날이 안 나와!
 GUARD 1: So sharp! A bronze sword could never get an edge like this!
 
-경비병 1: 이런 신성한 갑옷이면 장군님은 무적이야!
-GUARD 1: With holy armor like this, the General can't lose!
+경비병 2: 이런 신성한 갑옷이면 장군님은 무적이야!
+GUARD 2: With holy armor like this, the General can't lose!
 
 루크 (V.O.): 현대식으로 금도금한 고망간강 검이지.
 LUKE (V.O.): High-manganese steel. With modern gold plating.
@@ -3627,8 +3627,8 @@ CAST: Mia, Gwen
 차가운 푸른 달빛. 미아가 굵은 나무 기둥에 등을 바싹 붙이고 서 있다. 금속 테를 두른 작은 상자를 가슴에 꼭 끌어안고 있다.
 Cold blue moonlight. Mia stands with the back pressed to a thick wooden pillar, hugging a small box with metal trim tight to the chest.
 
-미아 (V.O.): 루크, 주무세요?
-MIA (V.O.): Luke, are you asleep?
+미아 (V.O.): 주인님, 주무세요?
+MIA (V.O.): Master, are you asleep?
 
 미아 (V.O.): 여기 있는 거 들키면 안 돼.
 MIA (V.O.): I can't let anyone catch me here.
@@ -4070,8 +4070,8 @@ ESTATE GUARD: They're killing everyone they see!
 영지 경비병: 정문이 뚫리면 곧 본채입니다!
 ESTATE GUARD: If the gate falls, they're at the main house!
 
-집사: 재상 짓입니다.
-STEWARD: It's the Vizier.
+사브리나: 재상 짓이야.
+SABRINA: It's the Vizier.
 
 집사: 사자 장군께 전령을 보냈습니다.
 STEWARD: I've sent a rider to the Lion General.

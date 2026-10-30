@@ -213,3 +213,38 @@ r5	F7-30-파편	4211	울부짖는 바람 속에 재상이 서 있다. 은빛 머
 r5	F7-30-파편	4212	The Vizier stands in a howling wind, silver hair flying, black robes flapping, heavy gold medallion on the chest. Debris spins through the night sky.	The Vizier stands in a howling wind, silver hair flying, black robes flapping, heavy gold medallion on the chest. Dirt and shattered shield pieces kicked up by the Gatling fire whip through the night sky.
 r6	G1-30-파편	4211	울부짖는 바람 속에 재상이 서 있다. 은빛 머리가 날리고 검은 옷자락이 펄럭인다. 가슴엔 묵직한 금 메달. 개틀링이 튀긴 흙먼지와 부서진 방패 조각이 밤하늘로 휘몰아친다.	울부짖는 바람 속에 재상이 서 있다. 은빛 머리가 날리고 검은 옷자락이 펄럭인다. 가슴엔 묵직한 금 메달. 개틀링이 튀긴 흙먼지와 파편이 밤하늘로 휘몰아친다.
 r6	G1-30-파편	4212	The Vizier stands in a howling wind, silver hair flying, black robes flapping, heavy gold medallion on the chest. Dirt and shattered shield pieces kicked up by the Gatling fire whip through the night sky.	The Vizier stands in a howling wind, silver hair flying, black robes flapping, heavy gold medallion on the chest. Dirt and debris kicked up by the Gatling fire whip through the night sky.
+r7	H1-09-속마음	1354	미아: (혼잣말로 속삭이며) 밤새 한숨도 안 주무셨어.	미아 (V.O.): 밤새 한숨도 안 주무셨어.
+r7	H1-09-속마음	1355	MIA: (whispering to herself) He hasn't closed his eyes all night.	MIA (V.O.): He hasn't closed his eyes all night.
+r7	H1-09-속마음	1357	미아: (속삭이며) 우리를 지킬 준비를 하고 계셨던 거야.	미아 (V.O.): 우리를 지킬 준비를 하고 계셨던 거야.
+r7	H1-09-속마음	1358	MIA: (whispering) He's been getting ready to protect us.	MIA (V.O.): He's been getting ready to protect us.
+r7	H2-12-사브리나	1771	미아: 이 사람 아버지가 이집트의 재상이에요.	사브리나: 이 사람 아버지가 이집트의 재상이야.
+r7	H2-12-사브리나	1772	MIA: His father is the Vizier of Egypt.	SABRINA: His father is the Vizier of Egypt.
+r7	H2-12-사브리나	1774	미아: 근위대 일부, 곡식 세금, 재판까지... 전부 그 손에 있어요.	사브리나: 근위대 일부, 곡식 세금, 재판까지... 전부 그 손에 있어.
+r7	H2-12-사브리나	1775	MIA: Part of the palace guard, the grain tax, the courts... it's all in his hands.	SABRINA: Part of the palace guard, the grain tax, the courts... it's all in his hands.
+r7	H2-12-사브리나	1777	미아: 그 아들을 죽이면 온 도시가 군대를 보내서 우릴 쫓을 거예요.	사브리나: 그 아들을 죽이면 온 도시가 군대를 보내서 우릴 쫓을 거야.
+r7	H2-12-사브리나	1778	MIA: Kill his son, and the whole city will send soldiers after us.	SABRINA: Kill his son, and the whole city will send soldiers after us.
+r7	H3-12-호칭	1792	미아: 루크, 도망쳐요! 지금 떠나면 아직 늦지 않았어요!	미아: 루크 님, 도망쳐요! 지금 떠나면 아직 늦지 않았어요!
+r7	H4-16-그웬	2344	사브리나: 이것도 고기야?	그웬: 이것도 고기야?
+r7	H4-16-그웬	2345	SABRINA: Is this meat too?	GWEN: Is this meat too?
+r7	H4-16-그웬	2347	루크가 피자 한 조각을 집어 든다. 치즈가 길게 늘어진다. 루크가 사브리나를 보며 씩 웃는다.	루크가 피자 한 조각을 집어 든다. 치즈가 길게 늘어진다. 루크가 그웬을 보며 씩 웃는다.
+r7	H4-16-그웬	2348	Luke picks up a slice. Cheese stretches in long strings. Luke grins at Sabrina.	Luke picks up a slice. Cheese stretches in long strings. Luke grins at Gwen.
+r7	H5-18-첩자	2634	인물: 재상, 재상의 부하들	인물: 재상, 곱슬머리 첩자, 재상의 부하들
+r7	H5-18-첩자	2635	CAST: Vizier, Vizier's Men	CAST: Vizier, Curly-Haired Spy, Vizier's Men
+r7	H5-18-첩자	2650	재상의 부하: 나리, 계속 찾고 있습니다.	곱슬머리 첩자: 나리, 계속 찾고 있습니다.
+r7	H5-18-첩자	2651	VIZIER'S MAN: My lord, we're still searching.	CURLY-HAIRED SPY: My lord, we're still searching.
+r7	H5-18-첩자	2664	재상의 부하: 아드님께서 사라지시기 전에, 성 밖으로 나가시는 걸 본 사람이 있습니다.	곱슬머리 첩자: 아드님께서 사라지시기 전에, 성 밖으로 나가시는 걸 본 사람이 있습니다.
+r7	H5-18-첩자	2665	VIZIER'S MAN: Before your son went missing, he was seen heading out of the city.	CURLY-HAIRED SPY: Before your son went missing, he was seen heading out of the city.
+r7	H5-18-첩자	2667	재상의 부하: 한꺼번에 아내를 셋이나 얻은 놈과 관련이 있을지도 모릅니다. 이름이 루크랍니다!	곱슬머리 첩자: 한꺼번에 아내를 셋이나 얻은 놈과 관련이 있을지도 모릅니다. 이름이 루크랍니다!
+r7	H5-18-첩자	2668	VIZIER'S MAN: It may have to do with a man who took three wives at once. His name is Luke!	CURLY-HAIRED SPY: It may have to do with a man who took three wives at once. His name is Luke!
+r7	H6-19-사브리나	2785	미아: 꿈꾸시는 거 아니죠?	사브리나: 꿈꾸는 거 아니지?
+r7	H6-19-사브리나	2786	MIA: Are you dreaming?	SABRINA: Are you dreaming?
+r7	H7-21-경비병	2974	경비병 1: 이런 신성한 갑옷이면 장군님은 무적이야!	경비병 2: 이런 신성한 갑옷이면 장군님은 무적이야!
+r7	H7-21-경비병	2975	GUARD 1: With holy armor like this, the General can't lose!	GUARD 2: With holy armor like this, the General can't lose!
+r7	H8-26-호칭	3630	미아 (V.O.): 루크, 주무세요?	미아 (V.O.): 주인님, 주무세요?
+r7	H8-26-호칭	3631	MIA (V.O.): Luke, are you asleep?	MIA (V.O.): Master, are you asleep?
+r7	H9-29-사브리나	4073	집사: 재상 짓입니다.	사브리나: 재상 짓이야.
+r7	H9-29-사브리나	4074	STEWARD: It's the Vizier.	SABRINA: It's the Vizier.
+r8	I1-16-순서	2339	그웬이 탁자 위로 몸을 숙인다. 코가 피자에 닿을 듯하다. 눈이 호기심으로 반짝인다.	사브리나가 탁자에 앉아 피자를 보며 인상을 쓴다.
+r8	I1-16-순서	2340	Gwen bends over the table, nose almost touching the pizza, eyes full of curiosity.	Sabrina sits down at the table and frowns at the pizza.
+r8	I1-16-순서	2341	사브리나가 탁자에 앉아 피자를 보며 인상을 쓴다.	그웬이 탁자 위로 몸을 숙인다. 코가 피자에 닿을 듯하다. 눈이 호기심으로 반짝인다.
+r8	I1-16-순서	2342	Sabrina sits down at the table and frowns at the pizza.	Gwen bends over the table, nose almost touching the pizza, eyes full of curiosity.
