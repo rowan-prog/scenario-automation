@@ -1,0 +1,195 @@
+회차	ID	줄(그 판 기준)	바뀌기 전	바뀐 뒤
+r0a	R1-30-장군발사	4196	장군: 발사!	루크 (O.S.): 발사!
+r0a	R1-30-장군발사	4197	GENERAL: Fire!	LUKE (O.S.): Fire!
+r0a	R1-30-정문폭발	4203	재상의 병사들이 영지 정문으로 돌진한다. 양옆에 횃불이 타는 정문이 주황빛 불길을 뿜으며 터져 나간다.	재상의 병사들이 영지 정문으로 돌진한다. 그웬의 개틀링이 불을 뿜는다. 양옆에 횃불이 타는 정문 앞이 주황빛 폭발로 뒤덮이고, 병사들이 나가떨어진다.
+r0a	R1-30-정문폭발	4204	The Vizier's soldiers charge the estate gate. The gate BLOWS apart in orange fire, torches burning on both sides.	The Vizier's soldiers charge the estate gate. Gwen's Gatling gun ROARS. The ground before the torch-lit gate ERUPTS in orange fire, and soldiers go flying.
+r0a	R1-30-쇠막대기	4162	재상의 입꼬리가 비틀려 올라간다.	재상이 루크의 소총과 그웬의 개틀링을 훑어본다. 입꼬리가 비틀려 올라간다.
+r0a	R1-30-쇠막대기	4163	The Vizier's lips curl.	The Vizier eyes Luke's rifle and Gwen's Gatling gun. The Vizier's lips curl.
+r0a	R2-벽난로헤더	3738	S#2. 벽난로 침실 / 실내 / 밤	S#2. 영지, 루크의 침실 / 실내 / 밤
+r0a	R2-벽난로헤더	3928	S#2. 벽난로 침실 / 실내 / 밤	S#2. 영지, 루크의 침실 / 실내 / 밤
+r0a	R2-벽난로헤더	4011	S#2. 벽난로 침실 / 실내 / 밤	S#2. 영지, 루크의 침실 / 실내 / 밤
+r0a	R2-벽난로헤더	3739	S#2. Fireplace Bedroom / INT / NIGHT	S#2. Luke's Bedroom, the Estate / INT / NIGHT
+r0a	R2-벽난로헤더	3929	S#2. Fireplace Bedroom / INT / NIGHT	S#2. Luke's Bedroom, the Estate / INT / NIGHT
+r0a	R2-벽난로헤더	4012	S#2. Fireplace Bedroom / INT / NIGHT	S#2. Luke's Bedroom, the Estate / INT / NIGHT
+r0a	R2-벽난로헤더	3808	S#1. 벽난로 침실 / 실내 / 밤	S#1. 영지, 루크의 침실 / 실내 / 밤
+r0a	R2-벽난로헤더	3809	S#1. Fireplace Bedroom / INT / NIGHT	S#1. Luke's Bedroom, the Estate / INT / NIGHT
+r0a	R2-벽난로헤더	4041	S#3. 벽난로 침실 / 실내 / 밤	S#3. 영지, 루크의 침실 / 실내 / 밤
+r0a	R2-벽난로헤더	4042	S#3. Fireplace Bedroom / INT / NIGHT	S#3. Luke's Bedroom, the Estate / INT / NIGHT
+r0a	R2-벽난로지문	3743	벽난로에 불이 활활 탄다. 바닥엔 짚이 깔려 있다. 벽난로 가까이, 흰 리넨 시트를 덮은 낮은 짚 침상이 놓여 있다.	큰 청동 화로에 불이 활활 탄다. 바닥엔 짚이 깔려 있다. 화로 가까이, 흰 리넨 시트를 덮은 낮은 짚 침상이 놓여 있다.
+r0a	R2-벽난로지문	3744	A fire roars in the fireplace. Straw covers the floor. Near the hearth lies a low straw bed spread with white linen sheets.	A fire roars in a big bronze brazier. Straw covers the floor. Near the brazier lies a low straw bed spread with white linen sheets.
+r0a	R3-03-상인과부	459	루크 (V.O.): 상인의 과부라. 눈 높고, 머리 빠르고.	루크 (V.O.): 벌써 마이너스 1이라. 눈 높네.
+r0a	R3-03-상인과부	460	LUKE (V.O.): A merchant's widow. High standards. Sharp mind.	LUKE (V.O.): Minus one already. High standards.
+r0a	R4-30-외투	4207	울부짖는 바람 속에 재상이 서 있다. 은빛 머리가 날리고 검은 외투가 펄럭인다. 가슴엔 묵직한 금 메달. 밤하늘에 파편이 휘몰아친다.	울부짖는 바람 속에 재상이 서 있다. 은빛 머리가 날리고 검은 옷자락이 펄럭인다. 가슴엔 묵직한 금 메달. 밤하늘에 파편이 휘몰아친다.
+r0a	R4-30-외투	4208	The Vizier stands in a howling wind, silver hair flying, black coat flapping, heavy gold medallion on the chest. Debris spins through the night sky.	The Vizier stands in a howling wind, silver hair flying, black robes flapping, heavy gold medallion on the chest. Debris spins through the night sky.
+r0a	R5-29-헤더	3977	S#1. 재상의 궁, 어두운 홀 / 실내 / 밤	S#1. 재상의 궁, 큰 홀 / 실내 / 밤
+r0a	R5-29-헤더	3978	S#1. The Vizier's Palace, Dark Hall / INT / NIGHT	S#1. The Vizier's Palace, Great Hall / INT / NIGHT
+r0a	R5-29-인물	3980	인물: 재상, 곱슬머리 첩자	인물: 재상, 곱슬머리 첩자, 턱수염 첩자
+r0a	R5-29-인물	3981	CAST: Vizier, Curly-Haired Spy	CAST: Vizier, Curly-Haired Spy, Bearded Spy
+r0a	R5-29-첫지문	3982	돌벽과 계단이 어둠에 잠겨 있다. 낮고 차가운 빛. 재상이 홀 한가운데 서 있다. 곱슬머리 첩자가 왼편에 고개를 숙이고 서 있다.	청동 화로 불빛 너머로 돌벽과 계단이 어둠에 잠겨 있다. 재상이 높은 자리에서 일어나 홀 한가운데로 내려선다. 두 첩자는 여전히 바닥에 엎드려 있다.
+r0a	R5-29-첫지문	3983	Stone walls and steps sunk in shadow. Low, cold light. The Vizier stands in the middle of the hall. The curly-haired spy stands to the left, head bowed.	Beyond the bronze fire bowl, stone walls and steps sink into shadow. The Vizier rises from the high seat and steps down into the middle of the hall. The two spies still lie face down on the floor.
+r0a	R6-27-머리핀	3755	미아가 얇은 흰 리넨 슬립 하나만 걸치고 불 앞에 서 있다. 눈을 감고 웃는다. 머리핀이 갈색 웨이브 머리를 넘겨 잡고 있다.	미아가 얇은 흰 리넨 슬립 하나만 걸치고 불 앞에 서 있다. 눈을 감고 웃는다.
+r0a	R6-27-머리핀	3756	Mia stands before the fire in only the thin white linen slip, eyes closed, smiling. A hairpin holds back the brown waves.	Mia stands before the fire in only the thin white linen slip, eyes closed, smiling.
+r0a	R7-13-영어	1946	LUKE (V.O.): Who's even that close?	LUKE (V.O.): Who's already that high?
+r0a	R8-13·14-인물줄	1868	인물: 루크, 그웬, 미아, 사브리나, 경비대장 (소리)	인물: 루크, 그웬, 미아, 사브리나, 경비대장 (소리), 시스템
+r0a	R8-13·14-인물줄	2016	인물: 루크, 그웬, 미아, 사브리나, 경비대장 (소리)	인물: 루크, 그웬, 미아, 사브리나, 경비대장 (소리), 시스템
+r0a	R8-13·14-인물줄	1869	CAST: Luke, Gwen, Mia, Sabrina, Captain (O.S.)	CAST: Luke, Gwen, Mia, Sabrina, Captain (O.S.), System
+r0a	R8-13·14-인물줄	2017	CAST: Luke, Gwen, Mia, Sabrina, Captain (O.S.)	CAST: Luke, Gwen, Mia, Sabrina, Captain (O.S.), System
+r0a	T1-19-half	2751	LUKE: Rex came out here with half his men. Soon somebody will come around asking questions.	LUKE: Rex came out here with his men. Soon somebody will come around asking questions.
+r0a	T2-07-렉스헤더	1127	S#4. 재상의 궁, 렉스의 방 / 실내 / 밤	S#4. 재상의 궁, 렉스의 홀 / 실내 / 밤
+r0a	T3-18-어두운방	2634	밤. 어두운 방. 연꽃 연못 옆에서 청동 화로가 낮게 탄다.	밤. 어두운 홀. 연꽃 연못 옆에서 청동 화로가 낮게 탄다.
+r0a	T5-파라오	2167	CAPTAIN: That's thirty sacks of barley a month you owe the Pharaoh.	CAPTAIN: That's thirty sacks of barley a month you owe the pharaoh.
+r0a	T5-파라오	2515	LUKE: You were trained like one of Pharaoh's warriors.	LUKE: You were trained like one of the pharaoh's warriors.
+r0a	T4-장군화자	3206	장군: 갑옷은 가볍고 튼튼하고, 검은 면도날처럼 날카롭군.	사자 장군: 갑옷은 가볍고 튼튼하고, 검은 면도날처럼 날카롭군.
+r0a	T4-장군화자	3207	GENERAL: The armor is light and tough. The sword is sharp as a razor.	LION GENERAL: The armor is light and tough. The sword is sharp as a razor.
+r0a	T4-장군화자	3209	장군: 이 선물, 마음에 든다.	사자 장군: 이 선물, 마음에 든다.
+r0a	T4-장군화자	3210	GENERAL: I like this gift.	LION GENERAL: I like this gift.
+r0a	T4-장군화자	3215	장군: 하지만 난 신중한 사람이다.	사자 장군: 하지만 난 신중한 사람이다.
+r0a	T4-장군화자	3216	GENERAL: But I'm a careful man.	LION GENERAL: But I'm a careful man.
+r0a	T4-장군화자	3221	장군: 난 빈말을 제일 싫어한다.	사자 장군: 난 빈말을 제일 싫어한다.
+r0a	T4-장군화자	3222	GENERAL: I hate empty talk.	LION GENERAL: I hate empty talk.
+r0a	T4-장군화자	3224	장군: 네가 이집트를 굶주림에서 영원히 구할 수 있다고 했지.	사자 장군: 네가 이집트를 굶주림에서 영원히 구할 수 있다고 했지.
+r0a	T4-장군화자	3225	GENERAL: You said you can free Egypt from hunger. Forever.	LION GENERAL: You said you can free Egypt from hunger. Forever.
+r0a	T4-장군화자	3227	장군: 날 속인 거라면, 반드시 대가를 치르게 하겠다.	사자 장군: 날 속인 거라면, 반드시 대가를 치르게 하겠다.
+r0a	T4-장군화자	3228	GENERAL: If you lied to me, you'll pay for it.	LION GENERAL: If you lied to me, you'll pay for it.
+r0a	T4-장군화자	3230	장군: 루크.	사자 장군: 루크.
+r0a	T4-장군화자	3231	GENERAL: Luke.	LION GENERAL: Luke.
+r0a	T4-장군화자	3233	장군: 대답하기 전에 잘 생각해라.	사자 장군: 대답하기 전에 잘 생각해라.
+r0a	T4-장군화자	3234	GENERAL: Think carefully before you answer.	LION GENERAL: Think carefully before you answer.
+r0a	T4-장군화자	3243	장군: 무례하다!	사자 장군: 무례하다!
+r0a	T4-장군화자	3244	GENERAL: Insolence!	LION GENERAL: Insolence!
+r0a	T4-장군화자	3246	장군: 이자에게 손가락 하나라도 대는 놈은 내가 가만두지 않겠다!	사자 장군: 이자에게 손가락 하나라도 대는 놈은 내가 가만두지 않겠다!
+r0a	T4-장군화자	3247	GENERAL: Anyone who lays a finger on him answers to me!	LION GENERAL: Anyone who lays a finger on him answers to me!
+r0a	T4-장군화자	3283	장군: 놀랍군! 부드럽고 달콤한데 배까지 든든하다.	사자 장군: 놀랍군! 부드럽고 달콤한데 배까지 든든하다.
+r0a	T4-장군화자	3284	GENERAL: Amazing! Soft, sweet, and it really fills you up.	LION GENERAL: Amazing! Soft, sweet, and it really fills you up.
+r0a	T4-장군화자	3286	장군: 이게 대체 뭐냐?	사자 장군: 이게 대체 뭐냐?
+r0a	T4-장군화자	3287	GENERAL: What is this?	LION GENERAL: What is this?
+r0a	T4-장군화자	3292	장군: 감자?	사자 장군: 감자?
+r0a	T4-장군화자	3293	GENERAL: Potatoes?	LION GENERAL: Potatoes?
+r0a	T4-장군화자	3321	장군: 이자는 아직 우릴 속인 적이 없다.	사자 장군: 이자는 아직 우릴 속인 적이 없다.
+r0a	T4-장군화자	3322	GENERAL: He hasn't lied to us yet.	LION GENERAL: He hasn't lied to us yet.
+r0a	T4-장군화자	3336	장군: 없다.	사자 장군: 없다.
+r0a	T4-장군화자	3337	GENERAL: It's gone.	LION GENERAL: It's gone.
+r0a	T4-장군화자	3344	장군: 말만으로는 증거가 안 된다.	사자 장군: 말만으로는 증거가 안 된다.
+r0a	T4-장군화자	3345	GENERAL: Talk isn't proof.	LION GENERAL: Talk isn't proof.
+r0a	T4-장군화자	3347	장군: 성 밖에 내가 버려둔 영지가 하나 있다.	사자 장군: 성 밖에 내가 버려둔 영지가 하나 있다.
+r0a	T4-장군화자	3348	GENERAL: Outside the city, I have an estate I left empty.	LION GENERAL: Outside the city, I have an estate I left empty.
+r0a	T4-장군화자	3350	장군: 그 땅과 집, 일꾼들까지. 당분간 네가 써라.	사자 장군: 그 땅과 집, 일꾼들까지. 당분간 네가 써라.
+r0a	T4-장군화자	3351	GENERAL: The land, the house, the workers. Use them for now.	LION GENERAL: The land, the house, the workers. Use them for now.
+r0a	T4-장군화자	3353	장군: 먼저 감자를 길러 봐라.	사자 장군: 먼저 감자를 길러 봐라.
+r0a	T4-장군화자	3354	GENERAL: Grow these potatoes first. Show me.	LION GENERAL: Grow these potatoes first. Show me.
+r0a	T4-장군화자	3356	장군: 수확이 정말 네 말대로라면, 내가 직접 널 파라오께 데려가겠다.	사자 장군: 수확이 정말 네 말대로라면, 내가 직접 널 파라오께 데려가겠다.
+r0a	T4-장군화자	3357	GENERAL: If the harvest is what you say, I'll take you to the pharaoh myself.	LION GENERAL: If the harvest is what you say, I'll take you to the pharaoh myself.
+r0a	T4-장군화자	3359	장군: 파라오께서 큰 상을 내리실 거다. 어떠냐?	사자 장군: 파라오께서 큰 상을 내리실 거다. 어떠냐?
+r0a	T4-장군화자	3360	GENERAL: The pharaoh will reward you well. Deal?	LION GENERAL: The pharaoh will reward you well. Deal?
+r0a	T4-장군화자	4159	장군: 지금 당장 부하들 데리고 물러나면, 오늘 밤 일은 없던 걸로 해 주지.	사자 장군: 지금 당장 부하들 데리고 물러나면, 오늘 밤 일은 없던 걸로 해 주지.
+r0a	T4-장군화자	4160	GENERAL: Take your men and leave right now, and I'll act like tonight never happened.	LION GENERAL: Take your men and leave right now, and I'll act like tonight never happened.
+r0a	T4-장군화자	4180	장군: 실컷 웃어 둬.	사자 장군: 실컷 웃어 둬.
+r0a	T4-장군화자	4181	GENERAL: Go ahead and laugh.	LION GENERAL: Go ahead and laugh.
+r0a	T4-장군화자	4183	장군: 잠시 뒤에도 웃을 수 있나 보자.	사자 장군: 잠시 뒤에도 웃을 수 있나 보자.
+r0a	T4-장군화자	4184	GENERAL: Let's see if you're still laughing in a minute.	LION GENERAL: Let's see if you're still laughing in a minute.
+r0a	T4-장군화자	4186	장군: 쳐라!	사자 장군: 쳐라!
+r0a	T4-장군화자	4187	GENERAL: Kill them!	LION GENERAL: Kill them!
+r0b	A3-02-인물줄	216	인물: 루크, 그웬, 미아, 사브리나, 관리, 서기, 남자 1, 남자 2, 뚱뚱한 남자, 군중	인물: 루크, 그웬, 미아, 사브리나, 관리, 서기, 남자 1, 남자 2, 뚱뚱한 남자, 군중, 시스템
+r0b	A3-02-인물줄	217	CAST: Luke, Gwen, Mia, Sabrina, Herald, Scribe, Man 1, Man 2, Fat Man, Crowd	CAST: Luke, Gwen, Mia, Sabrina, Herald, Scribe, Man 1, Man 2, Fat Man, Crowd, System
+r0b	A7-02-영어	318	GWEN (V.O.): Now these losers get to sell me off like a slave!	GWEN (V.O.): Now I get sold off to these losers like a slave!
+r0b	A2-04·05-헤더	510	S#2. 신전 앞 광장 / 실외 / 낮	S#2. 광장 가장자리, 진흙 벽돌 담 / 실외 / 낮
+r0b	A2-04·05-헤더	511	S#2. Temple Square / EXT / DAY	S#2. Mud-Brick Wall, Edge of the Square / EXT / DAY
+r0b	A2-04·05-헤더	619	S#1. 신전 앞 광장 / 실외 / 낮	S#1. 광장 가장자리, 진흙 벽돌 담 / 실외 / 낮
+r0b	A2-04·05-헤더	620	S#1. Temple Square / EXT / DAY	S#1. Mud-Brick Wall, Edge of the Square / EXT / DAY
+r0b	A4-05-코페시	654	병사가 굽은 청동검 코페시를 그웬의 발치 먼지 위로 던진다. 그웬이 낚아채듯 집어 든다.	병사가 압수해 두었던 그웬의 굽은 청동검 코페시를 그웬의 발치 먼지 위로 던진다. 그웬이 낚아채듯 집어 든다.
+r0b	A4-05-코페시	655	The Soldier tosses a curved bronze khopesh into the dust at Gwen's feet. Gwen snatches it up.	The Soldier tosses Gwen's confiscated bronze khopesh into the dust at Gwen's feet. Gwen snatches it up.
+r0b	A8-05·06-걸상	720	사브리나가 삐걱거리는 나무 의자에 낮게 앉아 고개를 숙이고 두 손을 무릎에 올려놓았다. 검은 단발 위로 파란 창이 빛난다.	사브리나가 삐걱거리는 나무 걸상에 낮게 앉아 고개를 숙이고 두 손을 무릎에 올려놓았다. 검은 단발 위로 파란 창이 빛난다.
+r0b	A8-05·06-걸상	791	사브리나가 삐걱대는 나무 의자에 앉아 벽에 기대 다리를 꼰다. 두 손을 한쪽 무릎에 늘어뜨렸다. 베리색 입술에 차가운 미소가 걸린다.	사브리나가 삐걱대는 나무 걸상에 앉아 벽에 기대 다리를 꼰다. 두 손을 한쪽 무릎에 늘어뜨렸다. 베리색 입술에 차가운 미소가 걸린다.
+r0b	A5-11-병사멈춤	1660	Brass casings bounce across the straw floor. The torchlight shakes on the walls.	Brass casings bounce across the straw floor. The torchlight shakes on the walls.
+r0b	나머지 병사들이 우뚝 멈춰 선다.
+r0b	The rest of the soldiers stop dead.
+r0b	A1-11-미아손	1663	루크가 활짝 웃으며 문간을 노려본다. 루크 뒤에서 미아가 넋 나간 얼굴로 굳은 채, 아직도 루크의 리넨 상의를 움켜쥐고 있다.	루크가 활짝 웃으며 문간을 노려본다. 루크 뒤에서 미아가 넋 나간 얼굴로 굳은 채, 루크의 리넨 상의 자락을 움켜쥐고 있다.
+r0b	A1-11-미아손	1664	Luke grins wide, eyes locked on the doorway. Behind Luke, Mia stands stiff, face blank with shock, still clutching Luke's linen top.	Luke grins wide, eyes locked on the doorway. Behind Luke, Mia stands stiff, face blank with shock, clutching Luke's linen top.
+r0b	A6-11-라며	1676	렉스의 부하: 쓸모없는 놈이라며?	렉스의 부하: 쓸모없는 놈 아니었어?
+r0b	B3-12-미아자리	1826	미아가 두 사람 사이에 서 있다. 이제 차분하고 흔들림 없이 앞을 본다.	미아가 루크 곁에 선다. 이제 차분하고 흔들림 없이 앞을 본다.
+r0b	B3-12-미아자리	1827	Mia stands between the others, calm now, steady, eyes forward.	Mia steps in at Luke's side, calm now, steady, eyes forward.
+r0b	B6-13-사브리나	1893	사브리나: 내가 길을 열어 줄게.	사브리나: 빠져나갈 길은 내가 알아.
+r0b	B6-13-사브리나	1894	SABRINA: I'll clear the way for you.	SABRINA: I know a way out.
+r0b	B1-13-시스템	1927	루크: 시스템. 싹 치워.	루크 (V.O.): 시스템. 싹 치워.
+r0b	B1-13-시스템	1928	LUKE: System. Clean this up.	LUKE (V.O.): System. Clean this up.
+r0b	B5-14-인물줄	2016	인물: 루크, 그웬, 미아, 사브리나, 경비대장 (소리), 시스템	인물: 루크, 그웬, 미아, 사브리나, 경비대장, 시스템
+r0b	B5-14-인물줄	2017	CAST: Luke, Gwen, Mia, Sabrina, Captain (O.S.), System	CAST: Luke, Gwen, Mia, Sabrina, Captain, System
+r0b	B4-20-경비병	2863	인물: 루크, 경비대장	인물: 루크, 경비대장, 경비병 1, 경비병 2
+r0b	B4-20-경비병	2864	CAST: Luke, Captain	CAST: Luke, Captain, Guard 1, Guard 2
+r0b	B4-20-경비병	2869	경비대장이 루크 앞에 버티고 서 있다.	경비대장이 경비병 둘을 문간에 세워 두고 루크 앞에 버티고 서 있다.
+r0b	B4-20-경비병	2870	The Captain stands over Luke.	The Captain stands over Luke, two guards posted at the door behind.
+r0b	C3-21-갑옷자리	2935	빛이 가라앉는다. 허름한 오두막 한가운데서 황금 갑옷이 빛난다.	빛이 가라앉는다. 허름한 오두막 구석, 나무 받침대 위에서 황금 갑옷이 빛난다.
+r0b	C3-21-갑옷자리	2936	The light settles. In the shabby hut, the golden armor shines.	The light settles. In the corner of the shabby hut, the golden armor shines on its wooden stand.
+r0b	B2-21-고망간강	2973	루크: 그거 현대식으로 금도금한 고망간강 검이야.	루크 (V.O.): 현대식으로 금도금한 고망간강 검이지.
+r0b	B2-21-고망간강	2974	LUKE: It's high-manganese steel. With modern gold plating.	LUKE (V.O.): High-manganese steel. With modern gold plating.
+r0b	C2-22-기사	3151	검은 말을 탄 기사가 전속력으로 정면을 향해 돌진해 온다. 온몸에 황금 갑옷. 뒤로 펄럭이는 붉은 망토. 오른손엔 검. 사자 장식 투구가 얼굴을 가렸다.	검은 말을 탄 사내가 전속력으로 정면을 향해 돌진해 온다. 온몸에 황금 갑옷. 뒤로 펄럭이는 붉은 망토. 오른손엔 검. 사자 장식 투구가 얼굴을 가렸다.
+r0b	D2-25·29-집사	3409	수레 옆에서 루크가 웃으며 집사와 마주 서 있다. 흰머리, 흰 수염, 검은 옷. 수레 뒤로 사브리나의 모습이 반쯤 보인다.	수레 옆에서 루크가 웃으며 늙은 집사와 마주 서 있다. 민머리, 주름진 얼굴, 수수한 흰 리넨 옷. 수레 뒤로 사브리나의 모습이 반쯤 보인다.
+r0b	D2-25·29-집사	3410	Beside the wagon, Luke stands smiling in front of the Steward: white hair, white beard, black robe. Sabrina's figure shows half from behind the wagon.	Beside the wagon, Luke stands smiling in front of the old Steward: shaved head, lined face, plain white linen. Sabrina's figure shows half from behind the wagon.
+r0b	C6-26-형체	3564	루크 뒤 벽에는 같은 지도를 그린 큰 리넨 천이 걸려 있다. 어두운 문간에서 흰 리넨 드레스를 입은 키 큰 형체가 들어선다.	루크 뒤 벽에는 같은 지도를 그린 큰 리넨 천이 걸려 있다. 어두운 문간에서 흰 리넨 드레스를 입은 형체가 들어선다.
+r0b	C6-26-형체	3565	A big linen cloth painted with the same map hangs on the wall behind Luke. A tall figure in a white linen dress steps in from the dark doorway.	A big linen cloth painted with the same map hangs on the wall behind Luke. A figure in a white linen dress steps in from the dark doorway.
+r0b	C1-28-인물줄	3931	인물: 루크, 그웬, 미아, 사브리나	인물: 루크, 사브리나
+r0b	C1-28-인물줄	3932	CAST: Luke, Gwen, Mia, Sabrina	CAST: Luke, Sabrina
+r0b	C5-28-팔찌	3936	[INSERT] A woman's hand, long nails and a gold cuff, presses down on a red linen robe.	[INSERT] A woman's hand, long nails and gold bangles, presses down on a red linen robe.
+r0b	D2-25·29-집사	4052	흰머리에 검은 옷, 가죽 장갑을 낀 집사가 등잔을 들고 방 한가운데 서 있다. 코페시를 뽑아 든 그웬과, 금·청금석 목걸이 위에 붉은 겉옷을 걸친 사브리나가 집사 뒤로 뛰어 들어와 있다.	민머리에 흰 리넨 옷을 입은 늙은 집사가 등잔을 들고 방 한가운데 서 있다. 코페시를 뽑아 든 그웬과, 금·청금석 목걸이 위에 붉은 겉옷을 걸친 사브리나가 집사 뒤로 뛰어 들어와 있다.
+r0b	D2-25·29-집사	4053	The Steward, white hair, black clothes, leather gloves, stands in the middle of the room with a lamp. Gwen, khopesh drawn, and Sabrina, red robe over the gold-and-lapis collar, have run in behind the Steward.	The old Steward, shaved head, white linen, stands in the middle of the room with a lamp. Gwen, khopesh drawn, and Sabrina, red robe over the gold-and-lapis collar, have run in behind the Steward.
+r0b	E2-30-헤더	4125	S#2. 영지 정문 밖 / 실외 / 밤	S#2. 영지 정문 / 실외 / 밤
+r0b	E2-30-헤더	4126	S#2. Outside the Estate Gate / EXT / NIGHT	S#2. Estate Gate / EXT / NIGHT
+r0b	D1-30-화자	4159	사자 장군: 지금 당장 부하들 데리고 물러나면, 오늘 밤 일은 없던 걸로 해 주지.	루크: 지금 당장 부하들 데리고 물러나면, 오늘 밤 일은 없던 걸로 해 주지.
+r0b	D1-30-화자	4160	LION GENERAL: Take your men and leave right now, and I'll act like tonight never happened.	LUKE: Take your men and leave right now, and I'll act like tonight never happened.
+r0b	D1-30-화자	4177	장군이 팔을 쭉 뻗어 손가락으로 가리키며 이를 드러낸다.	루크가 소총 끝으로 재상을 가리킨다. 여유롭게 웃는다.
+r0b	D1-30-화자	4178	The General thrusts an arm out, finger pointing, teeth bared.	Luke points the rifle muzzle at the Vizier. An easy smile.
+r0b	D1-30-화자	4180	사자 장군: 실컷 웃어 둬.	루크: 실컷 웃어 둬.
+r0b	D1-30-화자	4181	LION GENERAL: Go ahead and laugh.	LUKE: Go ahead and laugh.
+r0b	D1-30-화자	4183	사자 장군: 잠시 뒤에도 웃을 수 있나 보자.	루크: 잠시 뒤에도 웃을 수 있나 보자.
+r0b	D1-30-화자	4184	LION GENERAL: Let's see if you're still laughing in a minute.	LUKE: Let's see if you're still laughing in a minute.
+r0b	D1-30-화자	4186	사자 장군: 쳐라!	재상: 쳐라!
+r0b	D1-30-화자	4187	LION GENERAL: Kill them!	VIZIER: Kill them!
+r0b	C4-30-미아	4193	미아가 나무 벽 앞에서 작은 기관단총을 가슴께에 쥐고 위를 올려다보며 웃는다. 흰 셔츠, 전술 조끼, 위장무늬 치마, 망사 스타킹. 손목엔 여전히 파란 구슬 팔찌.	미아가 돌담 앞에서 작은 기관단총을 가슴께에 쥐고 위를 올려다보며 웃는다. 흰 셔츠, 전술 조끼, 위장무늬 치마, 망사 스타킹. 손목엔 여전히 파란 구슬 팔찌.
+r0b	C4-30-미아	4194	Mia stands before a wooden wall, a compact submachine gun held to the chest, looking up and smiling. White shirt, tactical vest, camo skirt, fishnet stockings. Blue beads still on Mia's wrist.	Mia stands before the stone wall, a compact submachine gun held to the chest, looking up and smiling. White shirt, tactical vest, camo skirt, fishnet stockings. Blue beads still on Mia's wrist.
+r0b	E1-30-정문	4203	재상의 병사들이 영지 정문으로 돌진한다. 그웬의 개틀링이 불을 뿜는다. 양옆에 횃불이 타는 정문 앞이 주황빛 폭발로 뒤덮이고, 병사들이 나가떨어진다.	재상의 병사들이 영지 정문으로 돌진한다. 그웬의 개틀링이 불을 뿜는다. 양옆에 횃불이 타는 정문이 주황빛 불길 속에 터져 나가고, 병사들이 나가떨어진다.
+r0b	E1-30-정문	4204	The Vizier's soldiers charge the estate gate. Gwen's Gatling gun ROARS. The ground before the torch-lit gate ERUPTS in orange fire, and soldiers go flying.	The Vizier's soldiers charge the estate gate. Gwen's Gatling gun ROARS. The gate BLOWS apart in orange fire, torches burning on both sides, and soldiers go flying.
+r1	R1-04-한복판	550	루크가 광장 한복판에 얼어붙은 채 입을 벌리고 붉은 빛을 올려다본다.	루크가 담 앞에 얼어붙은 채 입을 벌리고 붉은 빛을 올려다본다.
+r1	R1-04-한복판	551	Luke stands frozen in the middle of the square, mouth open, staring up at the red light.	Luke stands frozen in front of the wall, mouth open, staring up at the red light.
+r1	R1-09-인물줄	1468	인물: 렉스의 부하	인물: 렉스의 부하 (소리)
+r1	R1-09-인물줄	1469	CAST: Rex's Man	CAST: Rex's Man (O.S.)
+r1	R1-20-여자셋	2865	인물: 루크, 경비대장, 경비병 1, 경비병 2	인물: 루크, 경비대장, 경비병 1, 경비병 2, 사브리나, 그웬, 미아
+r1	R1-20-여자셋	2866	CAST: Luke, Captain, Guard 1, Guard 2	CAST: Luke, Captain, Guard 1, Guard 2, Sabrina, Gwen, Mia
+r1	R1-20-여자셋	2872	The Captain stands over Luke, two guards posted at the door behind.	The Captain stands over Luke, two guards posted at the door behind.
+r1	구석 커튼 곁엔 사브리나, 화덕 옆엔 그웬과 미아가 말없이 서 있다.
+r1	Sabrina stands by the corner curtain; Gwen and Mia stand silent by the hearth.
+r1	R1-23-바닥	3193	황금 정강이 갑옷이 모래를 밟는다. 한 걸음. 또 한 걸음.	황금 정강이 갑옷이 돌바닥을 밟는다. 한 걸음. 또 한 걸음.
+r1	R1-23-바닥	3194	Golden greaves step onto the sand. One step. Then another.	Golden greaves step onto the stone paving. One step. Then another.
+r1	R1-24-영지	3349	사자 장군: 성 밖에 내가 버려둔 영지가 하나 있다.	사자 장군: 성 밖에 내가 안 쓰는 영지가 하나 있다.
+r1	R1-24-영지	3350	LION GENERAL: Outside the city, I have an estate I left empty.	LION GENERAL: Outside the city, I have an estate I don't use.
+r1	R1-26-키	3596	루크의 손가락이 지도 위를 미끄러진다. 그웬은 지도를 안 본다. 자신만만하게 웃으며 루크를 올려다본다. 둘 사이가 점점 좁아진다.	루크의 손가락이 지도 위를 미끄러진다. 그웬은 지도를 안 본다. 자신만만하게 웃으며 루크를 내려다본다. 둘 사이가 점점 좁아진다.
+r1	R1-26-키	3597	Luke's finger slides across the map. Gwen doesn't look at the map. Gwen looks up at Luke with a cocky, sure smile. The space between the two keeps shrinking.	Luke's finger slides across the map. Gwen doesn't look at the map. Gwen looks down at Luke with a cocky, sure smile. The space between the two keeps shrinking.
+r1	R1-30-갑옷	4132	모래빛 돌담 위로 횃불이 일렁인다. 검은 옷을 입은 무리가 뒤엉켜 아수라장이다. 하녀 둘이 겁에 질려 입을 벌린 채 서로 꼭 붙어 뒷걸음질 친다.	모래빛 돌담 위로 횃불이 일렁인다. 검은 갑옷을 입은 병사들이 뒤엉켜 아수라장이다. 하녀 둘이 겁에 질려 입을 벌린 채 서로 꼭 붙어 뒷걸음질 친다.
+r1	R1-30-갑옷	4133	Torchlight on the sand-colored stone wall. A mob in dark clothes churns in chaos. Two servant women, mouths wide in terror, cling to each other and back away.	Torchlight on the sand-colored stone wall. Soldiers in black armor churn in chaos. Two servant women, mouths wide in terror, cling to each other and back away.
+r1	R1-30-실루엣	4141	담장 밑 연기 속에 검은 형체 하나가 꼼짝 않고 서 있다. 듣고 있다.	담장 밑 연기 속에 루크의 검은 실루엣이 꼼짝 않고 서 있다. 듣고 있다.
+r1	R1-30-실루엣	4142	Inside the smoke at the foot of the wall, a dark figure stands still. Listening.	Inside the smoke at the foot of the wall, Luke's dark silhouette stands still. Listening.
+r1	R1-30-정문	4205	재상의 병사들이 영지 정문으로 돌진한다. 그웬의 개틀링이 불을 뿜는다. 양옆에 횃불이 타는 정문이 주황빛 불길 속에 터져 나가고, 병사들이 나가떨어진다.	재상의 병사들이 영지 정문 앞으로 돌진한다. 그웬의 개틀링이 불을 뿜는다. 횃불이 타는 정문 앞에서 맨 앞 대열이 주황빛 불꽃 속에 줄줄이 나가떨어진다.
+r1	R1-30-정문	4206	The Vizier's soldiers charge the estate gate. Gwen's Gatling gun ROARS. The gate BLOWS apart in orange fire, torches burning on both sides, and soldiers go flying.	The Vizier's soldiers charge toward the estate gate. Gwen's Gatling gun ROARS. In front of the torch-lit gate, the front ranks go flying in bursts of orange fire.
+r2	R2-20-경비병	2871	경비대장이 경비병 둘을 문간에 세워 두고 루크 앞에 버티고 서 있다.	경비대장이 경비병 둘을 양옆에 거느리고 루크 앞에 버티고 서 있다.
+r2	R2-20-경비병	2872	The Captain stands over Luke, two guards posted at the door behind.	The Captain stands over Luke, a guard on each side.
+r2	R2-25-무기	3489	그웬: 진짜 칼잡이 고수를 만나면, 그 신성한 무기들도 제때 널 못 구할 수 있어.	그웬: 진짜 칼잡이 고수를 만나면, 네 그 신기한 무기들도 제때 널 못 구할 수 있어.
+r2	R2-25-무기	3490	GWEN: If you run into a real master with a sword, those holy weapons might not save you in time.	GWEN: If you run into a real master with a sword, those strange weapons of yours might not save you in time.
+r2	R2-29-장비	4052	흰 리넨 킬트에 상의를 벗은 루크가 침상 끝에 앉아 몸을 앞으로 숙이고 있다. 검은 쇠 장비가 희미한 빛과 함께 루크의 손에 나타난다. 끈, 상자, 탄알. 루크가 말없이 장비를 챙긴다.	흰 리넨 킬트에 상의를 벗은 루크가 침상 끝에 앉아 몸을 앞으로 숙이고 있다. 검은 쇠 장비가 침상 위에 펼쳐져 있다. 끈, 상자, 탄알. 루크가 말없이 장비를 챙긴다.
+r2	R2-29-장비	4053	Luke, shirtless, in a white linen kilt, sits on the edge of the bed, leaning forward. Black metal gear appears in Luke's hands with a faint glow. Straps, cases, rounds. Luke sorts it all without a word.	Luke, shirtless, in a white linen kilt, sits on the edge of the bed, leaning forward. Black metal gear lies spread on the bed. Straps, cases, rounds. Luke sorts it all without a word.
+r2	R2-29-빛	4109	루크가 계속 장비를 챙긴다. 눈부신 오색 빛이 방을 가득 채운다. 분홍, 금색, 초록, 보라.	루크가 계속 장비를 챙긴다. 눈부신 오색 빛이 화면 가득 번진다. 분홍, 금색, 초록, 보라.
+r2	R2-29-빛	4110	Luke keeps sorting. A blinding burst of colored light floods the room. Pink, gold, green, violet.	Luke keeps sorting. A blinding burst of colored light floods the screen. Pink, gold, green, violet.
+r2	R2-30-재상	4166	재상이 루크의 소총과 그웬의 개틀링을 훑어본다. 입꼬리가 비틀려 올라간다.	재상이 언덕 위 횃불을 흘끗 돌아보고는, 루크의 소총과 그웬의 개틀링을 훑어본다. 입꼬리가 비틀려 올라간다.
+r2	R2-30-재상	4167	The Vizier eyes Luke's rifle and Gwen's Gatling gun. The Vizier's lips curl.	The Vizier glances back at the torches on the hill, then eyes Luke's rifle and Gwen's Gatling gun. The Vizier's lips curl.
+r3	R3-13-상의	1983	루크의 리넨 상의가 풀어헤쳐져 있다. 루크가 여자들을 보며 미소 짓는다.	루크의 리넨 상의가 비뚤게 흘러내려 있다. 루크가 여자들을 보며 미소 짓는다.
+r3	R3-13-상의	1984	Luke's linen top hangs open. Luke smiles at the women.	Luke's linen top hangs crooked. Luke smiles at the women.
+r3	R3-21-문간	3022	좁은 문간. 문틀 너머로 햇빛이 쏟아진다. 바닥엔 짚.	햇볕이 내리쬐는 좁은 오두막 문간. 문턱에 짚이 흩어져 있다.
+r3	R3-21-문간	3023	A narrow doorway. Bright sun pours in past the frame. Straw on the ground.	A narrow hut doorway in hard sunlight. Straw scattered across the threshold.
+r3	R3-22-투구	3155	검은 말을 탄 사내가 전속력으로 정면을 향해 돌진해 온다. 온몸에 황금 갑옷. 뒤로 펄럭이는 붉은 망토. 오른손엔 검. 사자 장식 투구가 얼굴을 가렸다.	검은 말을 탄 사내가 전속력으로 정면을 향해 돌진해 온다. 온몸에 황금 갑옷. 뒤로 펄럭이는 붉은 망토. 오른손엔 검. 사자 장식 투구 그늘에 얼굴이 묻혀 보이지 않는다.
+r3	R3-22-투구	3156	A rider charges straight at us at full speed on a black horse. Full golden armor. A red cloak whipping back. A sword in the right hand. A lion-crested helmet hides the face.	A rider charges straight at us at full speed on a black horse. Full golden armor. A red cloak whipping back. A sword in the right hand. The face is lost in the shadow of a lion-crested helmet.
+r4	R4-20-시스템물건	2827	루크가 한 손을 든다. 루크 위 허공으로 빛나는 물건들이 떠오른다. 진흙 항아리, 머그잔, 반짝이는 유리병이 천천히 원을 그리며 떠돈다.	루크가 한 손을 든다. 루크 눈에만 보이는 빛나는 물건들이 허공에 떠오른다. 진흙 항아리, 머그잔, 반짝이는 유리병이 천천히 원을 그리며 떠돈다.
+r4	R4-20-시스템물건	2828	Luke raises one hand. Glowing things rise into the air above Luke: a clay jar, a mug, a shining glass bottle, drifting in a slow circle.	Luke raises one hand. Glowing things only Luke can see rise into the air above Luke: a clay jar, a mug, a shining glass bottle, drifting in a slow circle.
+r4	R4-25-수레	3411	검은 말이 끄는 지붕 덮인 나무 수레가 대문 앞에 서 있다.	소 두 마리가 끄는 나무 짐수레가 대문 앞에 서 있다.
+r4	R4-25-수레	3412	A covered wooden wagon pulled by a black horse stands at the gate.	A wooden ox cart, two oxen in the yoke, stands at the gate.
+r4	R4-25-수레	3414	Beside the wagon, Luke stands smiling in front of the old Steward: shaved head, lined face, plain white linen. Sabrina's figure shows half from behind the wagon.	Beside the cart, Luke stands smiling in front of the old Steward: shaved head, lined face, plain white linen. Sabrina's figure shows half from behind the cart.
+r4	R4-25-수레	3438	The Steward grabs a huge burlap sack off the wagon with both hands.	The Steward grabs a huge burlap sack off the cart with both hands.
+r4	R4-29-정문	4070	영지 경비병: 곧 본채까지 들이닥칩니다!	영지 경비병: 정문이 뚫리면 곧 본채입니다!
+r4	R4-29-정문	4071	ESTATE GUARD: They'll hit the main house any minute!	ESTATE GUARD: If the gate falls, they're at the main house!
