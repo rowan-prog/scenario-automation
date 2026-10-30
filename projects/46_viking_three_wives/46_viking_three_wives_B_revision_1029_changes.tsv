@@ -193,3 +193,23 @@ r4	R4-25-수레	3414	Beside the wagon, Luke stands smiling in front of the old S
 r4	R4-25-수레	3438	The Steward grabs a huge burlap sack off the wagon with both hands.	The Steward grabs a huge burlap sack off the cart with both hands.
 r4	R4-29-정문	4070	영지 경비병: 곧 본채까지 들이닥칩니다!	영지 경비병: 정문이 뚫리면 곧 본채입니다!
 r4	R4-29-정문	4071	ESTATE GUARD: They'll hit the main house any minute!	ESTATE GUARD: If the gate falls, they're at the main house!
+r5	F1-14-정리	2087	병사들, 피, 칼, 창, 채찍, 놋쇠 탄피가 하나씩 금빛 먼지로 변해 떠오르다가 사라진다.	병사들, 피, 칼, 창, 방패, 떨어진 횃불, 채찍, 놋쇠 탄피가 하나씩 금빛 먼지로 변해 떠오르다가 사라진다.
+r5	F1-14-정리	2088	One by one, the soldiers, the blood, the swords, the spears, the whip and the brass casings turn into drifting gold specks and wink out.	One by one, the soldiers, the blood, the swords, the spears, the shields, the fallen torch, the whip and the brass casings turn into drifting gold specks and wink out.
+r5	F2-18-헤더	2632	S#2. Vizier's Palace, Great Hall / INT / NIGHT	S#2. The Vizier's Palace, Great Hall / INT / NIGHT
+r5	F3-19-화자	2758	루크: 하나 있지.	사브리나: 하나 있어.
+r5	F3-19-화자	2759	LUKE: One.	SABRINA: One.
+r5	F3-19-화자	2761	루크: 사자 장군. 도시 경비대를 지휘하는 사람.	사브리나: 사자 장군. 도시 경비대를 지휘하는 사람.
+r5	F3-19-화자	2762	LUKE: The Lion General. He runs the city guard.	SABRINA: The Lion General. He runs the city guard.
+r5	F3-19-화자	2764	루크: 몇 년째 재상이랑 서로 못 죽여서 안달이야.	사브리나: 몇 년째 재상이랑 서로 못 죽여서 안달이야.
+r5	F3-19-화자	2765	LUKE: For years, he and the Vizier have wanted each other dead.	SABRINA: For years, he and the Vizier have wanted each other dead.
+r5	F4-23-자리	3193	오두막 문간 그늘에서 그웬이 팔짱을 끼고 서서 차가운 눈으로 찾아온 사람을 훑는다.	오두막 문간 그늘에서 그웬이 팔짱을 끼고 서서 차가운 눈으로 찾아온 사람을 훑는다. 그 뒤 어둑한 안쪽에서 미아와 사브리나가 내다본다.
+r5	F4-23-자리	3194	In the shadow of the hut's doorway, Gwen stands with arms crossed, cool eyes sizing up the new arrival.	In the shadow of the hut's doorway, Gwen stands with arms crossed, cool eyes sizing up the new arrival. Behind Gwen, in the dim hut, Mia and Sabrina peer out.
+r5	F5-26·27-헤더	3645	S#3. 루크의 방 / 실내 / 밤	S#3. 영지 본채, 루크의 방 / 실내 / 밤
+r5	F5-26·27-헤더	3646	S#3. Luke's Room / INT / NIGHT	S#3. Estate Main House, Luke's Room / INT / NIGHT
+r5	F5-26·27-헤더	3689	S#1. 루크의 방 / 실내 / 밤	S#1. 영지 본채, 루크의 방 / 실내 / 밤
+r5	F5-26·27-헤더	3690	S#1. Luke's Room / INT / NIGHT	S#1. Estate Main House, Luke's Room / INT / NIGHT
+r5	F6-30-명령	4191	VIZIER: Kill them!	VIZIER: Get them!
+r5	F7-30-파편	4211	울부짖는 바람 속에 재상이 서 있다. 은빛 머리가 날리고 검은 옷자락이 펄럭인다. 가슴엔 묵직한 금 메달. 밤하늘에 파편이 휘몰아친다.	울부짖는 바람 속에 재상이 서 있다. 은빛 머리가 날리고 검은 옷자락이 펄럭인다. 가슴엔 묵직한 금 메달. 개틀링이 튀긴 흙먼지와 부서진 방패 조각이 밤하늘로 휘몰아친다.
+r5	F7-30-파편	4212	The Vizier stands in a howling wind, silver hair flying, black robes flapping, heavy gold medallion on the chest. Debris spins through the night sky.	The Vizier stands in a howling wind, silver hair flying, black robes flapping, heavy gold medallion on the chest. Dirt and shattered shield pieces kicked up by the Gatling fire whip through the night sky.
+r6	G1-30-파편	4211	울부짖는 바람 속에 재상이 서 있다. 은빛 머리가 날리고 검은 옷자락이 펄럭인다. 가슴엔 묵직한 금 메달. 개틀링이 튀긴 흙먼지와 부서진 방패 조각이 밤하늘로 휘몰아친다.	울부짖는 바람 속에 재상이 서 있다. 은빛 머리가 날리고 검은 옷자락이 펄럭인다. 가슴엔 묵직한 금 메달. 개틀링이 튀긴 흙먼지와 파편이 밤하늘로 휘몰아친다.
+r6	G1-30-파편	4212	The Vizier stands in a howling wind, silver hair flying, black robes flapping, heavy gold medallion on the chest. Dirt and shattered shield pieces kicked up by the Gatling fire whip through the night sky.	The Vizier stands in a howling wind, silver hair flying, black robes flapping, heavy gold medallion on the chest. Dirt and debris kicked up by the Gatling fire whip through the night sky.

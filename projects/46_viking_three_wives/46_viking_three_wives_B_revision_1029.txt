@@ -2084,8 +2084,8 @@ A wave of golden light rolls across the floor.
 [INSERT] Rex lies face up on the floor, a wound on the forehead, the white tunic soaked red.
 금빛 불티가 렉스의 몸 위로 기어오른다. 몸이 옅어지고, 빛나고, 빛으로 부서져 흩어진다.
 Gold sparks crawl over Rex's body. The body thins, glows, and breaks apart into light.
-병사들, 피, 칼, 창, 채찍, 놋쇠 탄피가 하나씩 금빛 먼지로 변해 떠오르다가 사라진다.
-One by one, the soldiers, the blood, the swords, the spears, the whip and the brass casings turn into drifting gold specks and wink out.
+병사들, 피, 칼, 창, 방패, 떨어진 횃불, 채찍, 놋쇠 탄피가 하나씩 금빛 먼지로 변해 떠오르다가 사라진다.
+One by one, the soldiers, the blood, the swords, the spears, the shields, the fallen torch, the whip and the brass casings turn into drifting gold specks and wink out.
 루크 손의 AK-47이 빛으로 녹아 사라진다. 고양이가 다시 루크의 손바닥에 내려앉는다.
 The AK-47 in Luke's hand melts into light and is gone. The kitten lands back in Luke's palm.
 정적.
@@ -2629,7 +2629,7 @@ LUKE: I'll teach you more later.
 Gwen keeps looking down at Luke.
 
 S#2. 재상의 궁, 큰 홀 / 실내 / 밤
-S#2. Vizier's Palace, Great Hall / INT / NIGHT
+S#2. The Vizier's Palace, Great Hall / INT / NIGHT
 
 인물: 재상, 재상의 부하들
 CAST: Vizier, Vizier's Men
@@ -2755,14 +2755,14 @@ LUKE: Rex came out here with his men. Soon somebody will come around asking ques
 미아: 재상한테도 적이 있어요?
 MIA: Does the Vizier have an enemy?
 
-루크: 하나 있지.
-LUKE: One.
+사브리나: 하나 있어.
+SABRINA: One.
 
-루크: 사자 장군. 도시 경비대를 지휘하는 사람.
-LUKE: The Lion General. He runs the city guard.
+사브리나: 사자 장군. 도시 경비대를 지휘하는 사람.
+SABRINA: The Lion General. He runs the city guard.
 
-루크: 몇 년째 재상이랑 서로 못 죽여서 안달이야.
-LUKE: For years, he and the Vizier have wanted each other dead.
+사브리나: 몇 년째 재상이랑 서로 못 죽여서 안달이야.
+SABRINA: For years, he and the Vizier have wanted each other dead.
 
 그웬: 어젯밤에 온 놈들. 붉은 깃 단 그 경비대장. 전부 사자 장군 부하들이었어.
 GWEN: The men who came last night. The Captain with the red plume. Those were the Lion General's men.
@@ -3190,8 +3190,8 @@ Long curly brown hair under the lion helmet, a full beard. Behind the General co
 [화면자막] 사자 장군 — 도시 경비대 지휘관
 [SUPER] THE LION GENERAL — Commander of the City Guard
 
-오두막 문간 그늘에서 그웬이 팔짱을 끼고 서서 차가운 눈으로 찾아온 사람을 훑는다.
-In the shadow of the hut's doorway, Gwen stands with arms crossed, cool eyes sizing up the new arrival.
+오두막 문간 그늘에서 그웬이 팔짱을 끼고 서서 차가운 눈으로 찾아온 사람을 훑는다. 그 뒤 어둑한 안쪽에서 미아와 사브리나가 내다본다.
+In the shadow of the hut's doorway, Gwen stands with arms crossed, cool eyes sizing up the new arrival. Behind Gwen, in the dim hut, Mia and Sabrina peer out.
 황금 정강이 갑옷이 돌바닥을 밟는다. 한 걸음. 또 한 걸음.
 Golden greaves step onto the stone paving. One step. Then another.
 
@@ -3642,8 +3642,8 @@ Gwen walks out, retying the ponytail, lips swollen, a small satisfied smile. Gwe
 미아가 멀어지는 그웬을 지켜본다. 숨을 한 번 들이쉬고, 상자를 더 꼭 끌어안고, 문 쪽으로 살금살금 다가간다.
 Mia watches Gwen go. Mia takes one breath, hugs the box tighter, and slips toward the door.
 
-S#3. 루크의 방 / 실내 / 밤
-S#3. Luke's Room / INT / NIGHT
+S#3. 영지 본채, 루크의 방 / 실내 / 밤
+S#3. Estate Main House, Luke's Room / INT / NIGHT
 
 인물: 루크, 미아
 CAST: Luke, Mia
@@ -3686,8 +3686,8 @@ Mia's eyes go wide. Lips part. Joy spreads across Mia's face.
 27화
 EP.27
 
-S#1. 루크의 방 / 실내 / 밤
-S#1. Luke's Room / INT / NIGHT
+S#1. 영지 본채, 루크의 방 / 실내 / 밤
+S#1. Estate Main House, Luke's Room / INT / NIGHT
 
 인물: 루크, 미아
 CAST: Luke, Mia
@@ -4188,7 +4188,7 @@ LUKE: Go ahead and laugh.
 LUKE: Let's see if you're still laughing in a minute.
 
 재상: 쳐라!
-VIZIER: Kill them!
+VIZIER: Get them!
 
 그웬이 정면을 노려본다. 얼굴에 땀방울이 맺힌다. 턱에 힘이 들어간다.
 Gwen stares ahead. Sweat beads on Gwen's face. Gwen's jaw tightens.
@@ -4208,8 +4208,8 @@ Under the stars, black ridgelines far off, the General's spearmen advance in tig
 The Vizier's soldiers charge toward the estate gate. Gwen's Gatling gun ROARS. In front of the torch-lit gate, the front ranks go flying in bursts of orange fire.
 검은 단발을 바람에 휘날리며, 코르셋 위에 갈색 가죽 재킷을 걸친 사브리나가 커다란 기관총을 정면으로 겨눈다. 결연하다. 금·청금석 목걸이가 번쩍인다.
 Sabrina, black bob whipping in the wind, brown leather jacket over a corset, aims a big machine gun straight ahead. Determined. The gold-and-lapis collar glints.
-울부짖는 바람 속에 재상이 서 있다. 은빛 머리가 날리고 검은 옷자락이 펄럭인다. 가슴엔 묵직한 금 메달. 밤하늘에 파편이 휘몰아친다.
-The Vizier stands in a howling wind, silver hair flying, black robes flapping, heavy gold medallion on the chest. Debris spins through the night sky.
+울부짖는 바람 속에 재상이 서 있다. 은빛 머리가 날리고 검은 옷자락이 펄럭인다. 가슴엔 묵직한 금 메달. 개틀링이 튀긴 흙먼지와 파편이 밤하늘로 휘몰아친다.
+The Vizier stands in a howling wind, silver hair flying, black robes flapping, heavy gold medallion on the chest. Dirt and debris kicked up by the Gatling fire whip through the night sky.
 재상이 위를 올려다본다. 입이 벌어져 있다. 넋이 나갔다.
 The Vizier looks up, mouth open. Stunned.
 
