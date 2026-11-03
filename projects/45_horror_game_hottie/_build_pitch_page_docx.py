@@ -15,6 +15,7 @@ sys.path.insert(0, os.path.abspath(TOOLS))
 from build_pitch_page import Doc, BLACK, GREY, ACC  # noqa: E402
 from docx.shared import Cm, Pt  # noqa: E402
 from docx.enum.text import WD_ALIGN_PARAGRAPH  # noqa: E402
+from docx.oxml import OxmlElement  # noqa: E402
 
 MD = os.path.join(HERE, '45_horror_game_hottie_02_pitch_page.md')
 OUT = os.path.join(HERE, 'Kiss the Monster Bride or Die_피칭덱.docx')
@@ -46,7 +47,7 @@ SHOT_TABLE = re.compile(r'^\[스크린샷 표: (.+) \| (.+)\]$')
 SHOT_CELLS = {
     '10/9 기준': [('rank_1009_drama.jpg', 'DataEye 해외 숏드라마 일간 · 10/9 발표(집계 10/8) · 1위'),
                 ('rank_1009_ai.jpg', 'DataEye 해외 AI 드라마 일간 · 10/9 발표(집계 10/8) · 1위')],
-    '10/13 기준': [('rank_1013_ai.jpg', 'DataEye 해외 AI 드라마 일간 · 10/13 발표(집계 10/12) · 1위 · Top 6 중 4편(1·3·5·6위)이 이 작품의 다른 언어 판')],
+    '10/13 기준': [('rank_1013_ai.jpg', 'DataEye 해외 AI 드라마 일간 · 10/13 발표(집계 10/12) · 1위 · Top 6 중 4편(1·3·5·6위)이 이 작품(원판 + 다른 언어 판 3편)')],
 }
 ATTACH = re.compile(r'^\[첨부: [^\]]+\.mp4\]$')
 IMAGE_SLOT = re.compile(r'^\[(키아트|스크린샷|이미지|캡처)')
@@ -80,6 +81,7 @@ def shot_table(doc, heads):
         hp = hc.paragraphs[0]
         hp.alignment = WD_ALIGN_PARAGRAPH.CENTER
         doc.run(hp, h, size=10, bold=True, color=BLACK)
+        hp.paragraph_format.keep_with_next = True
         cell = t.cell(1, j)
         first = True
         for fname, cap in SHOT_CELLS[h]:
@@ -93,6 +95,10 @@ def shot_table(doc, heads):
             cp.alignment = WD_ALIGN_PARAGRAPH.CENTER
             doc.run(cp, cap, size=8.5, color=GREY)
             n += 1
+    # 표가 쪽 사이에서 잘리지 않게(이미지 칸이 두 쪽에 걸쳐 반쪽만 보이는 것 방지)
+    for row in t.rows:
+        trPr = row._tr.get_or_add_trPr()
+        trPr.append(OxmlElement('w:cantSplit'))
     doc.para(space_after=6)
     return n
 

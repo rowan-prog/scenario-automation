@@ -11,7 +11,7 @@ from docx.shared import Cm  # noqa: E402
 from docx.enum.text import WD_ALIGN_PARAGRAPH  # noqa: E402
 
 MD = os.path.join(HERE, '39_baby_dragon_02_pitch_page.md')
-OUT = os.path.join(HERE, "The Vampire King's Human Nanny_피칭덱.docx")
+OUT = os.path.join(HERE, "The Vampire King's Human Nanny_피칭덱_v2.docx")
 SECTIONS = ['타이틀', '담당 CM', '기본 정보', '해당 IP 피칭 사유 (Core Expectation)',
             '주요 인물 소개', '줄거리', '트리트먼트 (1화~Paywall 화)']
 CHAR_HEAD = re.compile(r'^\S+(?: \S+)? \((남|여)(?:\s*/\s*[^)]*)?\)\s*·\s*.+$')

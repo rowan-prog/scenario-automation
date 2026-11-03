@@ -30,7 +30,7 @@ N. [S급 AI] KISS THE MONSTER BRIDE OR DIE
 
 레퍼런스작은 NetShort <Horror Game: She's a Monster, I See a Hottie>(51화). NetShort에서 오랫동안 1위. 9월 말 공개 후 10/5~10/11 주에 DataEye 해외 숏드라마 주간 3위로 바로 진입. 10월 9일 DataEye 해외 숏드라마 일간 · AI 드라마 일간 동시 1위(광고 소재 3,255건). 10월 12일 · 13일에도 AI 드라마 일간 1위를 지킴. 검증된 히트작.
 
-10월 12일 번체 중국어 · 터키어 · 한국어 판이 같은 날 AI 드라마 일간 Top 10. 10월 13일에는 Top 6 가운데 4편이 이 작품의 다른 언어 판.
+10월 13일 발표 AI 드라마 일간(10/12 집계)은 Top 6 가운데 4편이 이 작품. 원판 1위 + 번체 중국어 판 3위 · 한국어 판 5위 · 터키어 판 6위.
 
 NetShort는 'Horror Game: ~' 시리즈를 계속 냄. 같은 시리즈 여성향 <Horror Game: Seduce My Ghost Teacher or Die>도 DataEye 해외 숏드라마 주간 1위(7/27~8/2). 같은 시리즈 이번 할로윈 판도 공개 직후 바로 반응.
 
