@@ -40,8 +40,8 @@ MAX_SINGLE_QUOTES = 3         # G9
 # 이 값으로도 E5(52.9)·E9(67)은 그대로 걸린다.
 MAX_SENT_CHARS_AVG = 50
 MAX_CONNECTIVE_AVG = 0.40      # G12 (골드 0.27 실측)
-LOGLINE_MIN = 110             # G13 — 2026-09-07 하한 120→110: 09-03 E11 110자·E13 119자(A 아크형·50_logline 110~175와 정렬). 골드 173자/3문장. 실물 8건 = 108·118·131·
-LOGLINE_MAX = 220             #   162·173·200·212자. E9·E10은 로그라인 칸에 줄거리 전문을 넣어 상한 초과 = 의도된 FAIL.
+LOGLINE_MIN = 60  # 2026-11-03 피칭 로그라인 = 사내(메타데이터) 기준 아님 → 길이만 봄. 옛 값 110             # G13 — 2026-09-07 하한 120→110: 09-03 E11 110자·E13 119자(A 아크형·50_logline 110~175와 정렬). 골드 173자/3문장. 실물 8건 = 108·118·131·
+LOGLINE_MAX = 350  # 옛 값 220             #   162·173·200·212자. E9·E10은 로그라인 칸에 줄거리 전문을 넣어 상한 초과 = 의도된 FAIL.
                               #   ※ 이 축은 `50_logline_standard.md`(러프 기획안·T1 페이지 110~175자 · 2026-09-02 정정)와 다른 축 — 확정 = 표준 §8 TBD 2.
 CLIFF_DIALOGUE_MIN_RATIO = 0.5   # G11
 NOUN_ENDING_MIN_RATIO = 0.6      # G15
@@ -688,13 +688,10 @@ def gate_G13(sections):
     fails = []
     if not (LOGLINE_MIN <= n <= LOGLINE_MAX):
         fails.append(f"{n}자(기준 {LOGLINE_MIN}~{LOGLINE_MAX})")
-    if q:
-        fails.append(f"물음표 {q}개")
-    if GENRE_LABEL_ENDING_RE.search(last) or re.search(r'하기\s*시작한다[.]?$', last):
-        fails.append(f'종결 라벨/요약형 — "...{last[-24:]}"')
+    # 2026-11-03: 물음표·종결 라벨 검사는 사내 로그라인(메타데이터) 기준이라 피칭덱에선 안 봄.
     if fails:
         return "FAIL", " / ".join(fails) + f' — "{logline[:50]}..."'
-    return "PASS", f"{n}자 · 물음표 0 · 종결 정상"
+    return "PASS", f"{n}자"
 
 
 def gate_G15(sections):

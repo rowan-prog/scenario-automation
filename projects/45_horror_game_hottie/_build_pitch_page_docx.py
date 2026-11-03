@@ -41,7 +41,15 @@ GROUP = [('09_group_guests_view_doc.jpg', '히로인 넷 · 하객 눈'),
 CHAR_HEAD = re.compile(r'^(\S+(?: \S+)?) \((남|여)\s*/\s*[^)]*\)\s*·\s*.+$')
 EP_HEAD = re.compile(r'^EP\s?\d{1,2}$')
 AD_CAP = re.compile(r'^\[스크린샷: 광고 (\d) · (.+)\]$')
-PLACEHOLDER = re.compile(r'^\[(키아트|스크린샷|첨부)[^\]]*\]$')
+SHOT_TABLE = re.compile(r'^\[스크린샷 표: (.+) \| (.+)\]$')
+# 랭킹 스크린샷 = DataEye 위챗 기사 원본 차트(상단 크롭). 칸 = (파일, 캡션). 날짜 = 발표일 · 집계일은 차트 统计时间 그대로.
+SHOT_CELLS = {
+    '10/9 기준': [('rank_1009_drama.jpg', 'DataEye 해외 숏드라마 일간 · 10/9 발표(집계 10/8) · 1위'),
+                ('rank_1009_ai.jpg', 'DataEye 해외 AI 드라마 일간 · 10/9 발표(집계 10/8) · 1위')],
+    '10/13 기준': [('rank_1013_ai.jpg', 'DataEye 해외 AI 드라마 일간 · 10/13 발표(집계 10/12) · 1위 · Top 6 중 4편(1·3·5·6위)이 이 작품의 다른 언어 판')],
+}
+ATTACH = re.compile(r'^\[첨부: [^\]]+\.mp4\]$')
+IMAGE_SLOT = re.compile(r'^\[(키아트|스크린샷|이미지|캡처)')
 BLOCK = re.compile(r'^\[[^\]]+\]$')
 BOLD_LEAD = re.compile(r'^(레퍼런스 광고 \d+|무료 회차: .+|무료 회차 이후|[①②] .+)$')
 
@@ -59,6 +67,34 @@ def picture(doc, fname, caption, width=None, height=None):
     c = doc.para(space_after=8)
     c.alignment = WD_ALIGN_PARAGRAPH.CENTER
     doc.run(c, caption, size=9, color=GREY)
+
+
+def shot_table(doc, heads):
+    """[스크린샷 표: A | B] → 2칸 표. 칸마다 날짜 머리 + 원본 차트 이미지 + 캡션."""
+    t = doc.d.add_table(rows=2, cols=len(heads))
+    t.style = 'Table Grid'
+    n = 0
+    for j, h in enumerate(heads):
+        assert h in SHOT_CELLS, ('스크린샷 표 칸에 넣을 이미지 없음', h)
+        hc = t.cell(0, j)
+        hp = hc.paragraphs[0]
+        hp.alignment = WD_ALIGN_PARAGRAPH.CENTER
+        doc.run(hp, h, size=10, bold=True, color=BLACK)
+        cell = t.cell(1, j)
+        first = True
+        for fname, cap in SHOT_CELLS[h]:
+            path = os.path.join(IMG, fname)
+            assert os.path.exists(path), path
+            p = cell.paragraphs[0] if first else cell.add_paragraph()
+            first = False
+            p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+            p.add_run().add_picture(path, width=Cm(7.6))
+            cp = cell.add_paragraph()
+            cp.alignment = WD_ALIGN_PARAGRAPH.CENTER
+            doc.run(cp, cap, size=8.5, color=GREY)
+            n += 1
+    doc.para(space_after=6)
+    return n
 
 
 def main():
@@ -93,7 +129,13 @@ def main():
             picture(doc, 'ref_ad%s_capture.jpg' % m.group(1), '레퍼런스 광고 %s · %s' % m.groups(), height=Cm(9.0))
             n_img += 1
             continue
-        if PLACEHOLDER.match(s):
+        m = SHOT_TABLE.match(s)
+        if m:
+            n_img += shot_table(doc, [m.group(1).strip(), m.group(2).strip()])
+            continue
+        # 이미지 자리가 글자로 남으면 안 됨(사용자 2026-11-03) — 못 채운 자리는 빌드 실패
+        assert not IMAGE_SLOT.match(s), ('이미지 없이 자리 표시만 남음', i + 1, s)
+        if ATTACH.match(s):
             doc.body(s, color=GREY, size=10)
             continue
         if BLOCK.match(s):
