@@ -40,6 +40,7 @@ GROUP = [('09_group_guests_view_doc.jpg', '히로인 넷 · 하객 눈'),
 
 CHAR_HEAD = re.compile(r'^(\S+(?: \S+)?) \((남|여)\s*/\s*[^)]*\)\s*·\s*.+$')
 EP_HEAD = re.compile(r'^EP\s?\d{1,2}$')
+AD_CAP = re.compile(r'^\[스크린샷: 광고 (\d) · (.+)\]$')
 PLACEHOLDER = re.compile(r'^\[(키아트|스크린샷|첨부)[^\]]*\]$')
 BLOCK = re.compile(r'^\[[^\]]+\]$')
 BOLD_LEAD = re.compile(r'^(레퍼런스 광고 \d+|무료 회차: .+|무료 회차 이후|[①②] .+)$')
@@ -86,6 +87,11 @@ def main():
                     picture(doc, f, cap)
                     n_img += 1
                 group_done = True
+            continue
+        m = AD_CAP.match(s)
+        if m:
+            picture(doc, 'ref_ad%s_capture.jpg' % m.group(1), '레퍼런스 광고 %s · %s' % m.groups(), height=Cm(9.0))
+            n_img += 1
             continue
         if PLACEHOLDER.match(s):
             doc.body(s, color=GREY, size=10)
