@@ -1,0 +1,9 @@
+I_Spoke_Baby_Dragon_And_Won_Everyone_Over1	dur=64.7s	overview_step=1.35s
+I_Spoke_Baby_Dragon_And_Won_Everyone_Over2	dur=884.4s	overview_step=18.43s
+I_Spoke_Baby_Dragon_And_Won_Everyone_Over3	dur=873.3s	overview_step=18.19s
+I_Spoke_Baby_Dragon_And_Won_Everyone_Over4	dur=427.3s	overview_step=8.9s
+The_Mafia_Bosses__Max-Level_Nanny1	dur=125.7s	overview_step=2.62s
+The_Mafia_Bosses__Max-Level_Nanny2	dur=501.8s	overview_step=10.45s
+The_Mafia_Bosses__Max-Level_Nanny3	dur=523.9s	overview_step=10.92s
+The_Mafia_Bosses__Max-Level_Nanny4	dur=600.5s	overview_step=12.51s
+The_Mafia_Bosses__Max-Level_Nanny5	dur=245.3s	overview_step=5.11s

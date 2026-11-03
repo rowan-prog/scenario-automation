@@ -32,7 +32,8 @@ CORPUS_FILES = ["deck_2026-08-13.txt", "deck_2026-08-20.txt", "deck_2026-08-27.t
 # ── 게이트 임계값 (전부 상수로 분리 — 나중에 조정 가능) ──────────────────────────
 MIN_FIELD_CHARS = 30          # F1
 EP_MIN_CHARS = 130            # G3 (골드 화당 150자 실측)
-EP_MAX_CHARS = 330            # G3 — 2026-09-07 상한 180→330: 사용자 E12(09-03 제출본) 파서 실측 222~326·평균 260. 골드도 파서로는 139~318
+EP_MAX_CHARS = 450            # G3 — 2026-11-03 상한 330→450: 사용자 등재본 10-15 #1 파서 실측 333~358(61 §4-9 = 250~450). 아래는 옛 기록 ↓
+# — 2026-09-07 상한 180→330: 사용자 E12(09-03 제출본) 파서 실측 222~326·평균 260. 골드도 파서로는 139~318
 MAX_SINGLE_QUOTES = 3         # G9
 # G12 — 골드 실측이 두 갈래다: 문체 census(소제목 제외) 33.5자 / 이 파서(소제목 포함) 46.9자.
 # 기준은 이 파서로 잰 골드에 맞춘다 — 골드가 FAIL이면 게이트가 틀린 것이다.
@@ -139,9 +140,20 @@ def parse_sections(text):
         # 그 하위 필드는 항상 바로 앞줄이 맨 "- " 불릿 마커라는 게 유일한 구조적 차이라서,
         # 직전 줄이 불릿 마커면 헤더로 인정하지 않는다.
         prev_stripped = None
+        nested = 0  # 2026-11-03: 섹션 안에 든 표(시장성 칸 랭킹 스크린샷 표)의 [/TABLE]은 섹션을 닫지 않는다
         for line in lines:
             s = line.strip()
+            if s == "[TABLE]" and current_key is not None:
+                nested += 1
+                buf.append(line)
+                prev_stripped = s
+                continue
             if s == "[/TABLE]":
+                if nested > 0:
+                    nested -= 1
+                    buf.append(line)
+                    prev_stripped = s
+                    continue
                 flush()
                 current_key = None
                 buf = []
@@ -784,13 +796,16 @@ def gate_U2(sections):
 # 이 두 게이트도 '세는 것'만 센다 — 한 끗이 좋은지는 판정하지 않는다.
 ADAPTATION_RE = re.compile(r'원작(?!료)|레퍼런스|리메이크|각색')
 HANKKUT_RE = re.compile(r'^\s*(?:\*\*)?한\s?끗(?:\*\*)?\s*[:：]')
+# 2026-11-03 최신 양식(61 §4-5): 라벨 없이 두 줄 대비 = "레퍼런스작은 ~ 이야기." + "이 작품은 ~ 이야기." 쌍을 한 끗 1개로 센다.
+HANKKUT_REF_RE = re.compile(r'^\s*(?:레퍼런스작?|원작)은\s.+이야기[.]?\s*$')
+HANKKUT_OURS_RE = re.compile(r'^\s*이\s?작품은\s.+이야기[.]?\s*$')
 # 델타 소제목 = `A에서 B로: 본문` 한 줄형, 또는 불렛 머리 `- **A에서 B로**` + 아래 하위 불렛(원작/우리/이유)형 (2026-10-13 · 36번 불렛 정리)
 DELTA_HEAD_RE = re.compile(r'^\s*(?:[-•]\s+)?(?:\*\*)?([^:：*\n]{2,28}?)(?:\*\*)?\s*(?:[:：]\s*\S|$)')
 AD_LINE_RE = re.compile(r'(원작|레퍼런스)\s*(히트\s*)?광고')
 AD_LINK_RE = re.compile(r'→|\d{1,2}\s*화|EP\s?\d|유료\s*구간')
 REPORT_TONE = ["좋을 듯", "좋을것 같", "좋을 것 같", "면 좋겠", "검토", "가능할", "해 볼", "해볼",
                "추천", "로 보임", "것으로 보", "고려해 볼"]
-DELTA_HEAD_EXCLUDE = ("한 끗", "한끗", "원작 광고", "레퍼런스 광고", "우리 광고", "우리", "왜", "엔딩 훅",
+DELTA_HEAD_EXCLUDE = ("한 끗", "한끗", "원작 광고", "레퍼런스 광고", "우리 광고", "우리", "왜", "엔딩 훅", "변경", "바꿈",
                       "클리프", "로그라인", "장르", "키워드", "회차", "타겟층", "레퍼런스")
 
 
@@ -806,19 +821,24 @@ def gate_G20(sections):
         return "SKIP", "레퍼런스·원작 표기 없음(오리지널로 판정)"
     lines = text.splitlines()
     hk = [l.strip() for l in lines if HANKKUT_RE.match(l)]
+    ref_lines = [i for i, l in enumerate(lines) if HANKKUT_REF_RE.match(l)]
+    for i in ref_lines:
+        nxt = [l for l in lines[i + 1:i + 4] if l.strip()]
+        if nxt and HANKKUT_OURS_RE.match(nxt[0]):
+            hk.append(lines[i].strip() + ' / ' + nxt[0].strip())
     deltas = []
     for l in lines:
         m = DELTA_HEAD_RE.match(l)
-        if not m or HANKKUT_RE.match(l) or AD_LINE_RE.search(l[:12]):
+        if not m or HANKKUT_RE.match(l) or HANKKUT_REF_RE.match(l) or HANKKUT_OURS_RE.match(l) or AD_LINE_RE.search(l[:12]):
             continue
         head = m.group(1).strip()
         if head.startswith(DELTA_HEAD_EXCLUDE) or head.startswith('['):
             continue
-        if re.search(r'에서\s?.+로$|변형$|→|와\s?\S+$|과\s?\S+$', head):
+        if re.search(r'에서\s?.+로$|변형$|변경$|바꿈$|→|와\s?\S+$|과\s?\S+$', head):
             deltas.append(head)
     msgs = []
     if len(hk) != 1:
-        msgs.append(f"'한 끗:' 줄 {len(hk)}개(기준 1)")
+        msgs.append(f"한 끗 {len(hk)}개(기준 1 · '한 끗:' 라벨 줄 또는 '레퍼런스작은 ~ 이야기.'+'이 작품은 ~ 이야기.' 두 줄)")
     if not (2 <= len(deltas) <= 4):
         msgs.append(f"델타 소제목 {len(deltas)}개(기준 2~4)")
     if msgs:
@@ -835,7 +855,20 @@ def gate_G21(sections):
     ad_lines = [l.strip() for l in text.splitlines() if AD_LINE_RE.search(l)]
     if not ad_lines:
         return "WARN", "레퍼런스 히트 광고 변환 줄 0 (레퍼런스 광고 자료가 없으면 무시)"
-    linked = [l for l in ad_lines if AD_LINK_RE.search(l)]
+    tl = text.splitlines()
+    linked = []
+    for i, l in enumerate(tl):
+        if not AD_LINE_RE.search(l):
+            continue
+        block = [l]
+        for nl in tl[i + 1:i + 6]:
+            if AD_LINE_RE.search(nl) or nl.strip().startswith('['):
+                if nl.strip().startswith('[') and not nl.strip().startswith('[광고'):
+                    continue  # [첨부: …mp4] · [A href…] 줄은 건너뛰고 본문을 본다
+                break
+            block.append(nl)
+        if any(AD_LINK_RE.search(x) for x in block):
+            linked.append(l.strip())
     tone_hits = [w for w in REPORT_TONE if w in text]
     if tone_hits:
         return "FAIL", f"보고·제안체 {len(tone_hits)}종 — " + " ".join(tone_hits)
