@@ -85,7 +85,7 @@ FIELD_LABELS = ["타겟층", "AI실사", "AI 실사", "레퍼런스", "reference
                 "원작", "제작 방식", "Target", "타이틀"]
 
 DIALOGUE_QUOTE_RE = re.compile(r'["“][^"“”]{1,600}["”]')
-SINGLE_QUOTE_RE = re.compile(r"[‘']([^‘’']{1,300})[’']")
+SINGLE_QUOTE_RE = re.compile(r"(?<![A-Za-z])[‘']([^‘’']{1,300})[’'](?![A-Za-z])")  # 2026-11-03: 영어 축약형(Don't) 아포스트로피 제외
 HANJA_RE = re.compile(r'[一-鿿]')
 TITLE_BRACKET_RE = re.compile(r'[<《]([^<>《》]{1,80})[>》]')
 NUMBER_UNIT_RE = re.compile(r'\d+(?:[.,]\d+)?\s?(?:%|억|만|천|개|건|화|년|일|회|배|위|시간|분|초|명|원|달러)')
