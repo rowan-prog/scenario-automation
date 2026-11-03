@@ -862,6 +862,8 @@ def gate_G21(sections):
             continue
         block = [l]
         for nl in tl[i + 1:i + 6]:
+            if nl.strip().startswith('!['):
+                continue  # 핵심 장면 캡처 이미지 줄도 건너뜀
             if AD_LINE_RE.search(nl) or nl.strip().startswith('['):
                 if nl.strip().startswith('[') and not nl.strip().startswith('[광고'):
                     continue  # [첨부: …mp4] · [A href…] 줄은 건너뛰고 본문을 본다

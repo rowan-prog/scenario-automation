@@ -21,9 +21,19 @@ for ln in open(os.path.join(HERE, '45_horror_game_hottie_writer_free_v2_kr_washe
 src = [n for n, c in enumerate(cn, 1) if c.strip()]
 assert sorted(kr) == src, (set(src) ^ set(kr))
 
+# 2026-11-03 사용자 지시: 8화 라이언 VO = 살려고 → 반해서 + 반한 순간 지문 1줄. 한국어는 _kr_washed.txt, 중문은 여기서 맞춤.
+CN_FIX = {
+    368: '△莱恩无视议论，痴痴地只看着艾薇。',
+    369: '莱恩（VO）：要是错过这个女人，我恐怕到死都会后悔。',
+}
+ADD_AFTER = {
+    368: ('action', '△主观视角。一脸惊愕的艾薇美艳动人。特，艾薇微张的红唇。',
+          '라이언 시점. 놀란 얼굴의 아이비가 눈부시게 아름답다. 클로즈업. 살짝 벌어진 아이비의 붉은 입술.'),
+}
+
 items = []
 for n in src:
-    c, k = cn[n - 1].strip(), kr[n]
+    c, k = CN_FIX.get(n, cn[n - 1]).strip(), kr[n]
     if m := re.match(r'^第(\d+)集$', c):
         ep = int(m.group(1))
         if ep == PAYWALL_EP:
@@ -47,6 +57,8 @@ for n in src:
         assert re.match(r'^[^：]{1,12}[：]', c), (n, c)
         assert re.match(r'^[^:]{1,16}: ', k), (n, k)
         items.append(('dlg', c, k))
+    if n in ADD_AFTER:
+        items.append(ADD_AFTER[n])
 
 cnt = build(items, OUT, comments={}, title=TITLE)
 
