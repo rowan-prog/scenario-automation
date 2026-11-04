@@ -19,6 +19,7 @@
 - **[remake-hankkeut-twist-sources](feedback_remake_hankkeut_twist_sources.md)** — 리메이크 한끗 = 검증된 서브 레퍼런스 하나를 2~3곳에 살짝.
 - **[title-forms-and-words](feedback_title_forms_and_words.md)** — (2026-10-13) 영문 제목 = 후킹·내용 예상·매력·직관·쉬움 + 한끗이 제목에
 - **[male-target-heroine-is-not-rescued](feedback_male_target_heroine_is_not_rescued.md)** — (2026-11-04) 남성향 연상 여주 = 남주보다 센 여자 · 구조받는 여주 = 여성향 표식
+- **[aigc-intensity-above-live-action](feedback_aigc_intensity_above_live_action.md)** — 🚨(2026-11-04) AIGC = 실사 대본보다 감정·아련·쓸쓸·섹슈얼 전부 한 단계 세게 · 수단은 소리·행동·물건
 - **[female-target-can-center-girl-child](feedback_female_target_can_center_girl_child.md)** — (2026-10-07) 아이물에서 "여성향으로" = 아들 → 딸, 딸 중심으로 굴러가게
 - [no-je-pronoun-use-jagi](feedback_no_je_pronoun_use_jagi.md) — (2026-09-08) 한국어 산출물에서 '제 몸·제 아내' 같은 '제' 재귀 표현 금지
 - **[full-sentences-no-telegraphic](feedback_full_sentences_no_telegraphic.md)** — 🚨(2026-09-10) 모든 한국어 출력 = 주어·동사 있는 온전한 문장. "A는 B 한마디로"·화살표·뒤 잘라먹기 압축 금지
