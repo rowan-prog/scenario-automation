@@ -4,45 +4,46 @@
 
 ## 🥇 매 작업 진입 시 (always)
 
-- **[t1-page-exemplars-whole-learning](feedback_t1_page_exemplars_whole_learning.md)** — 🚨(2026-09-02) 로그라인·트리트먼트·러프 기획안 모델 = 현장 호평 T1 페이지 3편 `config/50_t1_page_exemplars.md`(전 작업공간). **제1원리 = 무료 8~10화 전체가 한 편의 유기적인 글, EP은 자른 자리 — 문장은 앞 문장에서, 화는 앞 화 마지막 순간에서 · 끄는 문장 = 앞뒤에 걸린 스토리 문장(독립 카피 ✗) · 판정 = 헤더 지우고 읽어도 한 편인가.** 겉모양 = 정본 2형 로그라인 110~175자·셀링 2~4 라벨·꺾이는 자리 7유형·페이지 1:1.
-- **[free-run-sells-the-title-not-family-politics](feedback_free_run_sells_the_title_not_family_politics.md)** — 🚨(2026-09-15) 무료 회차 = 제목의 원초 욕망을 화마다 한 칸 · 가족 정치·자해 모함·자백·재판·코러스 = 연극 = 유료 · 원 대본 좋은 대사 ≠ 그 무대 장면 · 1화 첫 컷 = 마지막 무료 끝 · 문장 = 묘사 0 요약체.
-- **[paywall-equals-last-free-episode](feedback_paywall_equals_last_free_episode.md)** — 🚨(2026-09-10) 페이월 = 마지막 무료회차 그 자체(무료 1~8 = 8화 엔딩이 결제 컷). "마지막 무료+1"로 세면 틀림 · 작가본이 더 길면 그 뒤는 유료.
-- **[selling-points-name-the-device](feedback_selling_points_name_the_device.md)** — 🚨(2026-09-23) 셀링 포인트 = 로그라인 되풀이·우회 문구 금지 · "무엇으로 시청자를 잡는가"를 장치 이름으로(정보 비대칭/소재 소구/감정 자극/역전 장치/시각 상품/IP 자산) · 사용자 실물 7개가 모델.
-- **[selling-point-pick-by-target-desire](feedback_selling_point_pick_by_target_desire.md)** — 🚨(2026-10-16) CD1 셀링포인트 = skill `/selling-point` · 별·MKT·페이크는 '타깃 감정을 얼마나 세게 건드리나'로만 = 성욕 / 분노·배신감·굴욕감·억울함 · 로코는 달달한 긴장감(웃음·반전 ✗) · 벗지 않고 야한 컷·마지막 화 단독 상황 놓치지 말 것 · 캐논 설명 금지 · 고르기는 모델·깊이 섞고 감별은 오류만 · 사용자 설명을 범주어로 바꾸지 말 것.
-- **[trilingual-sync-direction](feedback_trilingual_sync_direction.md)** — 🚨(2026-09-22) 3개 국어 병기 대본 = **지문은 중문 정본 · 대사는 영어 정본**. 환류·검사 모두 그 방향. 흐린 영어에 한·중을 내리지 말고 영어를 고친다.
-- **[trim-cuts-explanation-not-fun](feedback_trim_cuts_explanation_not_fun.md)** — 🚨(2026-10-06) 분량 줄이기 = 설명(되풀이·해설)을 깎고 재미 살(몸·동작·감정·아이러니)은 남긴다 · 줄인 뒤 메인이 이어 읽기 · 읽기 검사는 수정 끝난 뒤 · A·B 짝 파일 같이 · '쓴 사람만 아는 말'은 항목마다 장르·흐름으로 따로 판정(통째 넣기·통째 빼기 금지).
-- [ai-drama-fantasy-over-modern](feedback_ai_drama_fantasy_over_modern.md) — (2026-10-06) AI 제작이라 현대물보다 판타지가 먹힌다 · 어반 판타지보다 명백한 판타지 세계(왕국·궁·마차) 우선 · 기획 순위·세트 테마 가중치.
-- [hit-originals-rank-by-our-delta](feedback_hit_originals_rank_by_our_delta.md) — (2026-10-06) 히트 원작 리메이크 안끼리 '재미'로 순위 매기지 말 것 · 차이 = 내 기획 실수(고칠 목록)거나 제작 적합성·시기 · 세트 테마는 판타지 세계 안에서 푼다.
-- **[find-the-originals-point](feedback_find_the_originals_point.md)** — 🚨(2026-10-06) 히트 원작 리메이크 = 먼저 '양산형 수천 개와 다른 포인트'(주인공의 예상 깨는 반응)를 찾아 로그라인·셀링 1번·「」 대사 척추로 · 간접 화법·눈물·애원으로 무르기 금지 · 센 1화는 묶지 않는다 · ⚠️ 살리는 건 기능이지 원작 대사·소품·모티프가 아니다("레퍼런스로 삼으랬지 표절하랬냐" — 40A 실증).
-- **[set-theme-from-original-genre](feedback_set_theme_from_original_genre.md)** — 🚨(2026-10-06) 리메이크 세트 외피는 원작 스토리 '구조'(처지·관계 축·판·클라이맥스 장치)에 맞는 걸로 · 테마 메뉴 2칸씩 채우기 금지(40B 하이틴·41A 크리스마스·39B 현대 실증).
-- **[remake-follow-original-one-change](feedback_remake_follow_original_one_change.md)** — 🚨(2026-10-13) 히트 원작 리메이크 러프 = 원작 흐름·끝 자리 그대로 + 한끗 하나 · 덧댄 설정·소품·규칙·인물 = "장황·비직관·재미없음"의 원인 · 이름 ≤5 · 화당 220~380자 · 흔한 소품은 원작대로(워싱은 이름·대사 문구만)
-- **[remake-hankkeut-twist-sources](feedback_remake_hankkeut_twist_sources.md)** — (2026-10-12 · 10-13 호평 확인) 리메이크 한끗 = 검증된 서브 레퍼런스 하나를 찾아 원작 위에 살짝(41 C = Twin Matchmakers + 잘난 아들 덕보기 "아주 좋다") · 덧대는 자리 2~3곳 · 노트에 서브 레퍼런스 명기 · 지시서에 원작 예문 쓰면 유닛이 베낌 → 메인 워싱
-- **[title-forms-and-words](feedback_title_forms_and_words.md)** — (2026-10-13) 영문 제목 = 후킹·내용 예상·매력·직관·쉬움 + 한끗이 제목에 · I 문장만 내지 말 것(플랫폼 179개 중 6개) · Daddy 금지 · 장르 고유어(Wolf Prince ✗) · 원작·남의 히트작 제목 꼴 피하기
-- **[female-target-can-center-girl-child](feedback_female_target_can_center_girl_child.md)** — (2026-10-07) 아이물에서 "여성향으로" = 아들 → 딸, 딸 중심으로 굴러가게 · 어른 로맨스 키우기로 바로 가지 말 것(41 C 오독).
-- [no-je-pronoun-use-jagi](feedback_no_je_pronoun_use_jagi.md) — (2026-09-08) 한국어 산출물에서 '제 몸·제 아내' 같은 '제' 재귀 표현 금지 · '자기 몸'으로. 우회 표현('그녀 이름으로 돌리고')도 직접 말한다.
-- **[full-sentences-no-telegraphic](feedback_full_sentences_no_telegraphic.md)** — 🚨(2026-09-10) 모든 한국어 출력 = 주어·동사 있는 온전한 문장. "A는 B 한마디로"·화살표·뒤 잘라먹기 압축 금지. 채팅 답장도 같다.
+- **[t1-page-exemplars-whole-learning](feedback_t1_page_exemplars_whole_learning.md)** — 🚨 로그라인·트리트먼트·러프 모델 = `config/50_t1_page_exemplars.md`
+- **[free-run-sells-the-title-not-family-politics](feedback_free_run_sells_the_title_not_family_politics.md)** — 🚨 무료 = 제목의 원초 욕망을 화마다 한 칸 · 가족 정치·재판·코러스 = 유료.
+- **[paywall-equals-last-free-episode](feedback_paywall_equals_last_free_episode.md)** — 🚨(2026-09-10) 페이월 = 마지막 무료회차 그 자체(무료 1~8 = 8화 엔딩이 결제 컷). "마지막 무료+1"로 세면 틀림
+- **[selling-points-name-the-device](feedback_selling_points_name_the_device.md)** — 🚨(2026-09-23) 셀링 포인트 = 로그라인 되풀이·우회 문구 금지
+- **[selling-point-pick-by-target-desire](feedback_selling_point_pick_by_target_desire.md)** — 🚨 CD1 = `/selling-point` · 타깃 감정(성욕·분노·굴욕) 세기로만 고른다 · 캐논 설명 금지.
+- **[trilingual-sync-direction](feedback_trilingual_sync_direction.md)** — 🚨(2026-09-22) 3개 국어 병기 대본 = **지문은 중문 정본
+- **[trim-cuts-explanation-not-fun](feedback_trim_cuts_explanation_not_fun.md)** — 🚨 분량 줄이기 = 설명을 깎고 재미 살(몸·감정·아이러니)은 남긴다.
+- [ai-drama-fantasy-over-modern](feedback_ai_drama_fantasy_over_modern.md) — (2026-10-06) AI 제작이라 현대물보다 판타지가 먹힌다 · 어반 판타지보다 명백한 판타지 세계(왕국·궁·마차) 우선
+- [hit-originals-rank-by-our-delta](feedback_hit_originals_rank_by_our_delta.md) — (2026-10-06) 히트 원작 리메이크 안끼리 '재미'로 순위 매기지 말 것
+- **[find-the-originals-point](feedback_find_the_originals_point.md)** — 🚨 리메이크 = 양산형과 다른 원작 포인트부터 찾아 척추로 · 살리는 건 기능이지 원작 대사·소품 아님.
+- **[set-theme-from-original-genre](feedback_set_theme_from_original_genre.md)** — 🚨(2026-10-06) 리메이크 세트 외피는 원작 스토리 '구조'(처지·관계 축·판·클라이맥스 장치)에 맞는 걸로
+- **[remake-follow-original-one-change](feedback_remake_follow_original_one_change.md)** — 🚨(2026-10-13) 히트 원작 리메이크 러프 = 원작 흐름·끝 자리 그대로 + 한끗 하나
+- **[remake-hankkeut-twist-sources](feedback_remake_hankkeut_twist_sources.md)** — 리메이크 한끗 = 검증된 서브 레퍼런스 하나를 2~3곳에 살짝.
+- **[title-forms-and-words](feedback_title_forms_and_words.md)** — (2026-10-13) 영문 제목 = 후킹·내용 예상·매력·직관·쉬움 + 한끗이 제목에
+- **[male-target-heroine-is-not-rescued](feedback_male_target_heroine_is_not_rescued.md)** — (2026-11-04) 남성향 연상 여주 = 남주보다 센 여자 · 구조받는 여주 = 여성향 표식
+- **[female-target-can-center-girl-child](feedback_female_target_can_center_girl_child.md)** — (2026-10-07) 아이물에서 "여성향으로" = 아들 → 딸, 딸 중심으로 굴러가게
+- [no-je-pronoun-use-jagi](feedback_no_je_pronoun_use_jagi.md) — (2026-09-08) 한국어 산출물에서 '제 몸·제 아내' 같은 '제' 재귀 표현 금지
+- **[full-sentences-no-telegraphic](feedback_full_sentences_no_telegraphic.md)** — 🚨(2026-09-10) 모든 한국어 출력 = 주어·동사 있는 온전한 문장. "A는 B 한마디로"·화살표·뒤 잘라먹기 압축 금지
 - [no-ai-korean-jargon](feedback_no_ai_korean_jargon.md) — 한국어 출력 시 AI jargon·작업어 금지·카톡 톤 (룰 5).
 - [token-diet-70-percent](feedback_token_diet_70_percent.md) — agent 최소·1 pass+수술·보고는 경로+한 줄.
 - [fable-structure-only-pipeline-self-sufficient](feedback_fable_structure_only.md) — 파이프라인 = opus/sonnet/haiku 자급 · Fable = 구조 개정 1회성 · subagent fable 0.
 - [agent-orchestration-tier-map](feedback_agent_orchestration_tier_map.md) — 발견=opus·수렴/추출=sonnet·기계+naive-proxy=haiku·집필/수술=opus. 본문 `20_review` §7.
-- [occasion-hopping-space-economy](feedback_occasion_hopping_space_economy.md) — "TV드라마" 판정 3중 원인(행사 순회·net-zero 라운드·쿨슬롭 레지스터) + 컨테이너 법칙(한 공간·한 시간대 9~10화). 기계 = pacing_lint·register_census.
+- [occasion-hopping-space-economy](feedback_occasion_hopping_space_economy.md) — "TV드라마" 판정 3중 원인(행사 순회·net-zero 라운드·쿨슬롭 레지스터) + 컨테이너 법칙
 - [price-defines-the-spec](feedback_price_defines_the_spec.md) — 가격이 규격을 정한다: 고급감·완성도로 경쟁하면 자동 패배 · 넷플릭스가 못 파는 것 · 락인은 첫 씬(컷>첫 씬>1화 엔딩>마지막 무료).
 - [budget-proportional-to-output](feedback_budget_proportional_to_output.md) — 절차 크기 = 산출물 크기. 러프 기획안 agent ≤2·80k·3분 / 로그라인 ≤2·40k·2분. 상한표 `WORKFLOW_MAP` §0-1.
-- [logline-catalog-slot-corpus](feedback_logline_catalog_slot_corpus.md) — 로그라인은 하나(러프 기획안 = T1 페이지). ⚠️ 여기 45~70자 규격은 09-02 폐기 — 시행착오 기록(엔진 한 줄 = 사용자 문장 · 반려 시 모델 실물부터).
-- [three-readers-rewind-zero-gate](feedback_three_readers_rewind_zero_gate.md) — 독자 3종(꼼꼼/대충/이해 못 함) · 되감기 0은 룰이 아니라 게이트 = `/plain-gate`(haiku) · skill 10종.
+- [logline-catalog-slot-corpus](feedback_logline_catalog_slot_corpus.md) — 로그라인은 하나(러프 기획안 = T1 페이지). ⚠️ 여기 45~70자 규격은 09-02 폐기 — 시행착오 기록(엔진 한 줄 = 사용자 문장
+- [three-readers-rewind-zero-gate](feedback_three_readers_rewind_zero_gate.md) — 독자 3종(꼼꼼/대충/이해 못 함) · 되감기 0은 룰이 아니라 게이트 = `/plain-gate`(haiku)
 - [fix-by-deleting-not-explaining](feedback_fix_by_deleting_not_explaining.md) — 이해 안 되는 자리 = 설명 덧대지 말고 없앤다("니 논문 써서 재미 없는 거야").
-- **[adaptation-rename-entire-cast](feedback_adaptation_rename_entire_cast.md)** — 🚨🚨 절대 규칙(2026-09-14 사용자) 원작·레퍼런스·역대본 이름은 어떤 모드에서도 하나도 안 남긴다 · 지시 없어도 매번 짚는다 · 게이트 = `tools/name_leak_check.py` PASS(docx 포함) + 조사 재검사 · 29번 사고 2회(09-10 반쯤 고침 → 09-14 외부 AI가 다시 잡음).
+- **[adaptation-rename-entire-cast](feedback_adaptation_rename_entire_cast.md)** — 🚨🚨 원작·레퍼런스 이름 0
 - [names-must-survive-ai-dubbing](feedback_names_must_survive_ai_dubbing.md) — 인명·사명 4검사(흔한가/발음 경로 하나/동음 상용어 없나/첫소리 갈리나).
 - [proposal-prose-five-checks](feedback_proposal_prose_five_checks.md) — 기획 프로즈 5검사(초등 어휘·은유 동사 0·누가 누구에게·능력 한 줄·출처 발명 0) + 교정마다 반대편 벽으로 튀지 말 것(모델 옆에 놓고 맞춘다).
-- **[proposal-form-fields-are-one-liners](feedback_proposal_form_fields_are_one_liners.md)** — 🚨(2026-09-04) 기획안 표에서 문장으로 쓰는 칸 = 로그라인·줄거리·캐릭터·트리트먼트뿐. 나머지(사이다훅·세계관·필수·금기) = 한 줄 목록 · 트리트먼트 재탕·수필 마무리·설계 설명·부연 = 삭제 대상. **금기 = 트리트먼트에 이미 있으면 빼고, 공백·표기·원작 오염·문체만 적는다.**
-- [meeting-doc-is-corpus-supplement](feedback_meeting_doc_is_corpus_supplement.md) — (2026-09-07) 미팅 문서 실물이 하나 더 오면 = 같은 양식 데이터 보완: 코퍼스 추가 → 실제 근거·숫자 추출 → 어긋난 임계값만 재보정. 새 규칙 발명·AI식 논리/발명 숫자 금지.
+- **[proposal-form-fields-are-one-liners](feedback_proposal_form_fields_are_one_liners.md)** — 🚨 기획안 표에서 문장 칸 = 로그라인·줄거리·캐릭터·트리트먼트뿐 · 나머지 한 줄 목록.
+- [meeting-doc-is-corpus-supplement](feedback_meeting_doc_is_corpus_supplement.md) — (2026-09-07) 미팅 문서 실물이 하나 더 오면 = 같은 양식 데이터 보완: 코퍼스 추가 → 실제 근거·숫자 추출 → 어긋난 임
 - [proposal-is-the-writers-spec](feedback_proposal_is_the_writers_spec.md) — 기획안 = 외부 작가의 스펙. 발송 전 `20_review` §1③ 통과 증명 없이 발송 금지.
 - [viewer-omniscience-four-channels](feedback_viewer_omniscience_four_channels.md) — 인물은 몰라도 시청자는 관계·목표·정체를 첫 행동 전에 안다. 채널 4(네임카드/밀담/VO/회상). 미스터리화 = 추리극.
 - [paid-vertical-structure-first](feedback_paid_vertical_structure_first.md) — 판정 순서 = 엔진 → 구조 7항 → 붕괴 3축 → 서사 → 라인. 무료 8화 = 사건 1개.
 - [episode-opening-gate](feedback_episode_opening_gate.md) — 무료런 각 화 첫 △ = 앞 화 끊긴 동작의 다음 프레임(IG 실측) · 컷이 팔리는 3요건. 기계 `opening_lint.py`.
-- [rough-proposal-is-a-pitch-doc](feedback_rough_proposal_is_a_pitch_doc.md) — 설계도·지문체 금지 · 트리트먼트 문장의 일(구경꾼·몸·계단·앞으로 심기) · 동선·카메라 걷어내기 · 연결성 5항. ⚠️ 스캔 표·셀링 5·한 문단·`?!`는 09-02 폐기.
+- [rough-proposal-is-a-pitch-doc](feedback_rough_proposal_is_a_pitch_doc.md) — 설계도·지문체 금지 · 트리트먼트 문장의 일(구경꾼·몸·계단·앞으로 심기) · 동선·카메라 걷어내기
 - [rebut-from-our-own-text-first](feedback_rebut_from_our_own_text_first.md) — 외부 지적엔 수정안 전에 "우리 두 곳이 서로를 부정하는가"를 원문으로 검증. 채택 목록을 내가 확정해 내밀지 말 것.
-- [audit-must-pass-hit-scripts-first](feedback_audit_must_pass_hit_scripts_first.md) — 검수 잣대를 히트작에 먼저 대본다. 지적 4분류(A 캐논·B 엔진 = 낸다 / C 조건부 / D 나노 정합 = 버린다). `_hit_audit.py`.
+- [audit-must-pass-hit-scripts-first](feedback_audit_must_pass_hit_scripts_first.md) — 검수 잣대를 히트작에 먼저 대본다. 지적 4분류(A 캐논·B 엔진 = 낸다 / C 조건부 / D 나노 정합 = 버린다)
 - [cliff-types-are-mostly-not-danger](feedback_cliff_types_are_mostly_not_danger.md) — 히트작 50화 클리프 전수: 물리 위기 6개뿐 · 관계 한 칸 13 · 대사 비중 77%.
 - [hit-script-event-count-measured](feedback_hit_script_event_count_measured.md) — 50화물 = 사건 2~5개·한 사건 12~41화 · 세는 법 = 인과. `10_writing` §C-1 숫자 충돌 = 개정 안건.
 - [no-abstract-evasive-writing](feedback_no_abstract_evasive_writing.md) — 추상어·회피어·검열문으로 핵심 회피 금지(대사+지문+트리트먼트+기획 프로즈).
@@ -52,35 +53,7 @@
 
 ## 🥈 장르·단계 트리거
 
-### 집필 보편 (10_writing에 통합 — 상세 예문 필요 시)
-- [translation-proof-no-cinema](feedback_translation_proof_no_cinema_2026_06_10.md) · [easy-dopamine-over-logic](feedback_easy_dopamine_over_logic.md) · [no-theater-tone](feedback_no_theater_tone.md) · [vertical-dialogue-forward-show-limited](feedback_vertical_dialogue_forward_show_limited.md) · [ai-dub-tone-independent-dialogue](feedback_ai_dub_tone_independent_dialogue.md)
-- [english-vertical-hit-dialogue-tone](feedback_english_vertical_hit_dialogue_tone.md) — 북미 히트작 대사 톤(감정 = form). · [protagonist-not-villain-voice](feedback_protagonist_not_villain_voice.md) — 주인공 악녀톤 금지. · [vertical-name-card-format](feedback_vertical_name_card_format.md) — 풀네임+직함 1-2단어.
-- [aigc-prompt-script-writing](feedback_aigc_prompt_script_writing.md) · [claude-voice-bias-vertical-failure](feedback_claude_voice_bias_vertical_failure.md) · [real-human-speech-01s-test](feedback_real_human_speech_01s_test.md) · [panic-begging-form-not-content](feedback_panic_begging_form_not_content.md) · [compound-tone-parentheticals](feedback_compound_tone_parentheticals.md) · [tense-variation-required](feedback_tense_variation_required.md)
-- [vertical-structure-hit-script-lesson](feedback_vertical_structure_hit_script_lesson.md) · [humiliation-violence-standard](feedback_humiliation_violence_standard.md) · [vertical-regret-man](feedback_vertical_regret_man.md)(후회남: 속음은 진짜·후회는 너무 늦게) · [ep1-full-deck-engine-demo](feedback_ep1_full_deck_engine_demo.md)(EP1 = 패 선포+엔진 실연)
-- [vertical-no-admin-power](feedback_vertical_no_admin_power.md) · [vertical-no-metaphor-dodging](feedback_vertical_no_metaphor_dodging.md) · [t4-sex-scene-standard](feedback_t4_sex_scene_standard.md) · [male-conquest-female-psyche-dual-subject](feedback_male_conquest_female_psyche_dual_subject.md)(정복 = 남주 / 심리 = 여주)
-- **[female-gaze-vs-porn-boundary](feedback_female_gaze_vs_porn_boundary.md)** — 고수위 여성향에서 포르노 판정 = 수위가 아니라 '받는 쪽 반응이 화면에 있나' + 화 절단면에서 여주가 침묵하나 · 구조가 맞으면 마커 몇 줄은 안 건드린다(감사는 전편, **수정 기본값 0건**).
-- **[female-gaze-beast-self-restraint](feedback_female_gaze_beast_self_restraint.md)** — 🚨(2026-09-16) 여성향 짐승미 = 남주가 스스로 참다 못 참고 터지는 것 · 여주가 빌게 하거나 조련·허락하면 "통제되는 개" = 매력 하락 · 조련 짜임은 관능소설이지 숏폼 아님 · 보강 전에 장면 도착점부터 읽는다.
-- [emotion-to-action-aigc-writing](feedback_emotion_to_action_aigc_writing.md) · [flashback-source-ep-tag](feedback_flashback_source_ep_tag.md) · [setup-before-payoff-5ep-minimum](feedback_setup_before_payoff_5ep_minimum.md) · [paywall-declaration-timing](feedback_paywall_declaration_timing.md) · [iloveyou-budget-3-max](feedback_iloveyou_budget_3_max.md) · [pregnancy-engine-birth-late](feedback_pregnancy_engine_birth_late.md) · [final-episode-natural-ending](feedback_final_episode_natural_ending.md)
-- [screen-rhythm-v3-blocks](feedback_screen_rhythm_v3_blocks.md) · [female-gaze-camera-polish](feedback_female_gaze_camera_polish.md) · [spoken-english-native-polish](feedback_spoken_english_native_polish.md) · [master-platform-safe-dual-version](feedback_master_platform_safe_dual_version.md) · [vertical-protagonist-voice-ownership](feedback_vertical_protagonist_voice_ownership.md)
-- [props-minimization](feedback_props_minimization.md) · [character-name-diversity](feedback_character_name_diversity.md) · [episode-scene-count](feedback_episode_scene_count.md) · [per-episode-runtime-gate](feedback_per_episode_runtime_gate.md)(각 화 ≥1분)
-
-### 매출·시장 baseline
-- [paid-vertical-master](feedback_paid_vertical_master.md) · [demon-lord-failure-postmortem](feedback_demon_lord_failure_postmortem.md) · [na-vertical-ad-creative-principles](feedback_na_vertical_ad_creative_principles.md)(자기 장르 안에서만 권위) · [ad-hook-novelty-over-proven-trope](feedback_ad_hook_novelty_over_proven_trope.md)(주장된 히트 ≠ 증거)
-- [blockbuster-structural-insights](feedback_blockbuster_structural_insights.md) · [hit-library-v2](feedback_hit_library_v2_2026_05_19.md) · [hit-script-analysis-frame](feedback_hit_script_analysis_frame.md) · [conversion-runway-writing](feedback_conversion_runway_writing.md) · [unified-writing-flow](feedback_unified_writing_flow.md)
-
-### 다크 로맨스·romantasy
-- [dark-romance-relationship-centered-v2-3](feedback_dark_romance_relationship_centered_v2_3.md) · [mythology-as-borrowed-flavor](feedback_mythology_as_borrowed_flavor.md) · [monster-romance-not-dark-romance](feedback_monster_romance_not_dark_romance.md) · [monster-romance-double-information-asymmetry](feedback_monster_romance_double_information_asymmetry.md)
-- [dark-romance-high-explicit-4-prescriptions](feedback_dark_romance_high_explicit_4_prescriptions.md) · [dark-romance-v2-5-v13-lessons](feedback_dark_romance_v2_5_v13_lessons.md) · [dangerous-sweet-cage-insights](feedback_dangerous_sweet_cage_insights.md) · [dark-romantasy-paid-vertical-v3-diagnosis](feedback_dark_romantasy_paid_vertical_v3_diagnosis.md)
-
-### VFX 남성향
-- [vfx-male-power-fantasy-engine](feedback_vfx_male_power_fantasy_engine.md) · [male-ntr-line-betrayal-fuel](feedback_male_ntr_line_betrayal_fuel.md)(NTR 화면화 = 이탈 폭탄)
-
-### 피칭 (phase_2)
-- `config/pitch_references/MASTER_DATASET.md` · `config/evaluators.md` §17 · [pitch-master](feedback_pitch_master.md) · [pitch-pass-fail-inference](feedback_pitch_pass_fail_inference.md) · [committee-b-persuasion](feedback_committee_b_persuasion.md) · [pitch-treatment-density](feedback_pitch_treatment_density.md) · [pitch-skip-virtual-vote](feedback_pitch_skip_virtual_vote.md)
-
-### 검토·LOCK (20_review에 통합 — 배경)
-- [pov-speaker-utterance-not-error](feedback_pov_speaker_utterance_not_error.md)(화자 POV 우선) · [lock-fix-volume-writing-diagnostic](feedback_lock_fix_volume_writing_diagnostic.md) · [lock-class-sweep-not-oneoff](feedback_lock_class_sweep_not_oneoff.md)(클래스 grep 전수) · [lock-exhaustive-line-audit](feedback_lock_exhaustive_line_audit.md)
-- [voice-lint-gate-pass](feedback_voice_lint_gate_pass.md) · [agent-roster-orchestration](feedback_agent_roster_orchestration.md) · [fresh-eyes-full-inspection](feedback_fresh_eyes_full_inspection.md) · [self-evaluation-pitfalls](feedback_self_evaluation_pitfalls.md) · [persona-system-v2](feedback_persona_system_v2_2026_05_19.md) · [revision-meta-principles](feedback_revision_meta_principles.md) · [pre-final-writing-principles](feedback_pre_final_writing_principles.md)
+- [index-genre-triggers](index_genre_triggers.md) — 집필 보편(대사 톤·후회남·수위·네임카드)·매출 baseline·다크 로맨스·VFX 남성향·피칭·검토 LOCK 배경 메모리 묶음 · 해당 장르·단계 진입 시 연다.
 
 ## 🥉 작업 방식
 
@@ -88,22 +61,22 @@
 - [no-appearance-rating-in-proposal](feedback_no_appearance_rating_in_proposal.md) — 기획안에서 빼는 건 생김새 스펙뿐.
 - [rechecked-episodes-are-new-manuscript](feedback_rechecked_episodes_are_new_manuscript.md) — 회수본은 기검수 회차도 처음 보는 원고로 · diff부터.
 - [selling-point-sheet-format-is-the-spec](feedback_selling_point_sheet_format_is_the_spec.md) — CD1 시트 = `[EN_AI] Selling Point_Template.xlsx` 서식이 규격 · 빌더로만.
-- **[writer-feedback-no-padding](feedback_writer_feedback_no_padding.md)** — 🚨(2026-09-10) 작가 피드백 다듬기 = 사용자 핀트 그대로·항목 안 늘림·판정 1~2문장+대안 한 줄·컷/결제 강의 0·수정 불필요한 소소 지적 0·워싱은 이야기 바뀌는 설정만.
-- **[original-writer-pitch-persuade-not-order](feedback_original_writer_pitch_persuade_not_order.md)** — (2026-10-07) 원작 작가에게 가는 리메이크 기획안 = 시키는 문서 ✗ "써 보고 싶다" ○ · 필수·금기 최소+이유 한 줄 · 중국 작가면 한중 병기 + 중문 원어민 점검.
-- **[committee-opinion-not-the-axis](feedback_committee_opinion_not_the_axis.md)** — (2026-10-22) 피칭 위원 의견은 대본 검토 근거로 크게 안 쓴다 · 축 = 사용자 방향·합의 캐논 · 원고가 합의와 다르면 작가판 칭찬보다 합의 위반부터.
-- **[offline-agreements-exist](feedback_offline_agreements_exist.md)** — (2026-10-22) 사용자↔작가 화상 미팅 합의는 문서에 없다 · 문서만 보고 "합의됐다/작가가 바꿨다" 단정 금지 · 역할 배정은 정했는지부터 묻는다.
+- **[writer-feedback-no-padding](feedback_writer_feedback_no_padding.md)** — 🚨(2026-09-10) 작가 피드백 다듬기 = 사용자 핀트 그대로·항목 안 늘림·판정 1~2문장+대안 한 줄·컷/결제 강의 0·수정
+- **[original-writer-pitch-persuade-not-order](feedback_original_writer_pitch_persuade_not_order.md)** — (2026-10-07) 원작 작가에게 가는 리메이크 기획안 = 시키는 문서 ✗ "써 보고 싶다" ○
+- **[committee-opinion-not-the-axis](feedback_committee_opinion_not_the_axis.md)** — (2026-10-22) 피칭 위원 의견은 대본 검토 근거로 크게 안 쓴다 · 축 = 사용자 방향·합의 캐논
+- **[offline-agreements-exist](feedback_offline_agreements_exist.md)** — (2026-10-22) 사용자↔작가 화상 미팅 합의는 문서에 없다 · 문서만 보고 "합의됐다/작가가 바꿨다" 단정 금지
 - [writer-comment-standard](feedback_writer_comment_standard.md) — 작가 코멘트 = `30_writer_feedback_standard` · AI 헛다리 필터.
-- **[reverse-transcript-trust-order](feedback_reverse_transcript_trust_order.md)** — (2026-10-16) 역대본 정리본 보완 = 숏폼 허용(대사끼리 모순·갑툭튀 = 둔다) vs AI 오독(화자·지문·번역 = 대사에 맞춰 고친다) · 대사 문구는 안 바꾼다.
-- **[episode-numbering-check](feedback_episode_numbering_check.md)** — 🚨(2026-10-08) 대본 검토 첫 단계 = 화 목록(결번·중복 표제·역순·씬 번호 앞자리·언어별 화 번호·개요↔본문·내용 혼입) · 기계 `tools/episode_number_check.py --expect N` · 결번은 docx 변환 손실부터 배제 · 보고 맨 앞에 결과.
-- **[approved-text-still-gets-fixed](feedback_approved_text_still_gets_fixed.md)** — (2026-10-07) 통과본·확정본도 틀린 표현·정합 오류는 고친다(제작 승인 ≠ 동결) · 원본과 파생 문서 같이 · 사건이 바뀌는 수정만 먼저 묻는다.
+- **[reverse-transcript-trust-order](feedback_reverse_transcript_trust_order.md)** — (2026-10-16) 역대본 정리본 보완 = 숏폼 허용(대사끼리 모순·갑툭튀 = 둔다) vs AI 오독
+- **[episode-numbering-check](feedback_episode_numbering_check.md)** — 🚨(2026-10-08) 대본 검토 첫 단계 = 화 목록(결번·중복 표제·역순·씬 번호 앞자리·언어별 화 번호·개요↔본문·내용 혼입)
+- **[approved-text-still-gets-fixed](feedback_approved_text_still_gets_fixed.md)** — (2026-10-07) 통과본·확정본도 틀린 표현·정합 오류는 고친다(제작 승인 ≠ 동결) · 원본과 파생 문서 같이
 - [pushback-user-contradiction](feedback_pushback_user_contradiction.md) — 확정 엔진·앞선 지시·원작과 충돌하면 반박 짚고 집행(진성 충돌만).
-- **[adaptation-fix-original-weakness](feedback_adaptation_fix_original_weakness.md)** — 🚨(2026-09-23) 히트작 각색 = 원작 약점부터 진단해 그 축을 보강(34번: 고수위 외 후킹 부재 → 관계·모욕·배신·굴욕·사이다 고쳐 쓰기) · 분량은 같이 다이어트.
-- **[differentiate-wording-keep-function](feedback_differentiate_wording_keep_function.md)** — 🚨(2026-09-23) 원작 대사 차별화 = 문구만 바꾸고 기능(비유·회수·폭로 순서·세기·놀람)은 살린다 · 밋밋해지면 실패(34번 v33·v34 → v61 20곳 복구).
+- **[adaptation-fix-original-weakness](feedback_adaptation_fix_original_weakness.md)** — 🚨(2026-09-23) 히트작 각색 = 원작 약점부터 진단해 그 축을 보강
+- **[differentiate-wording-keep-function](feedback_differentiate_wording_keep_function.md)** — 🚨(2026-09-23) 원작 대사 차별화 = 문구만 바꾸고 기능(비유·회수·폭로 순서·세기·놀람)은 살린다
 - [writer-reference-draft-mode-learn-loop](feedback_writer_reference_draft_mode_learn_loop.md) · [transplant-intensity-not-actions](feedback_transplant_intensity_not_actions.md)(세계 치환 = 강도는 원작 이상·행위는 재발명) · [adaptation-conservative-no-forced-rewrites](feedback_adaptation_conservative_no_forced_rewrites.md)(verbatim 계승 · 억지 변경 금지)
 - [version-anchor-commit](feedback_version_anchor_commit.md) · [bulk-script-verify-strict](feedback_bulk_script_verify_strict.md) · [docx-conversion-drops-table-textbox-text](feedback_docx_conversion_drops_table_textbox_text.md) · [speaker-tag-roster-mismatch](feedback_speaker_tag_roster_mismatch.md) · [external-korean-script-review-belt](feedback_external_korean_script_review_belt.md) · [script-file-zero-meta](feedback_script_file_zero_meta.md)
 - **[path-discipline](feedback_path_discipline.md) — 사용자에게 경로는 언제나 절대경로.**
 - [no-ask-autonomous](feedback_no_ask_autonomous.md) · [meta-trust-and-verify](feedback_meta_trust_and_verify.md) · [script-english-only](feedback_script_english_only.md) · [question-alarm](feedback_question_alarm.md) · [web-research-policy](feedback_web_research_policy.md) · [external-ai-input-handling](feedback_external_ai_input_handling.md) · [external-ai-evaluation-individual-validity](feedback_external_ai_evaluation_individual_validity.md)
-- [내 프로즈 디폴트 = 추상·완곡 세탁](my-prose-defaults-abstract-euphemistic.md) — 관념어·완곡 동사가 내 기본값. 판정 = 그 동사를 그림으로 그리면 맞는 그림인가. (10-13) "대사의 자리를 남주에게 줌"·"짓밟는 손을 바꿈" 번역투 금지 = 사람 주어 + 일상 동사 · 원작 대비는 불렛 원작/우리/이유.
+- [내 프로즈 디폴트 = 추상·완곡 세탁](my-prose-defaults-abstract-euphemistic.md) — 관념어·완곡 동사가 내 기본값. 판정 = 그 동사를 그림으로 그리면 맞는 그림인가.
 
 ## 작품 특수
 - [program-codes](reference_program_codes.md) — 작품별 프로그램 코드(CD1 필수 칸 · G20) · 16·18·24.
