@@ -125,3 +125,10 @@
 - 사용자: 가로 표 문서 읽기·복붙 불가 → `40_silver_angel_writer_feedback_1026.md` + `그가 버린 흑발의 연인_작가 피드백(1026 · 1-20화)_10.28.docx`(블록 39 = 재미 3 · 대사 24 · 오류 12). 기존 지적 중 버림 = 13화 불 못 끄는 이유(13화에 규칙 대사 있음) · 10화 想要起身(생략) · 1화 OS+등장 대사 합치기(되풀이 아님). 새로 = 7·10화 卫兵 · 7·8화 다이앤 인물 줄 · 19화 피 닦기 두 번. 인용 127줄 원고 대조 불일치 0.
 
 - 2026-10-28 최종: 세 작품 작가 피드백을 한 docx로 = `C:\Users\Rowan\scenario-automation\projects_slave_dragon_king\세 작품 작가 피드백 최종(용의 공주 10.27 · 흑발 1026 · Dragon Eggs 1023)_10.28.docx`(10.23 고칠 곳 양식 · 종합 의견 = 사용자 초안 + 위치 · 명백한 오류만). 번역본 = 하우스 양식 docx(`tools/house_script_docx.py`).
+
+## 2026-11-05 · 제작 참고 어셋 생성 지시서 (Codex · GPT Image)
+- 산출 = `C:\Users\Rowan\scenario-automation\projects\40_silver_angel\40_silver_angel_p2_asset_prompts.md` · 기준 = 최종고 `C:\Users\Rowan\Downloads\_The Black-Haired Love He Threw Away_Script.docx`(50화).
+- 캐릭터 시트 15장(올리비아·가브리엘·데미안·제나·다이앤 × 시안 3 · 얼굴형·머리·의상 전부 다르게) + 배경 6장(서약식장·공작 저택 연회장·백란 저택 응접실 × 2).
+- 사용자 지시: 지난 시안(Downloads `ChatGPT 이미지 2026년 11월 5일 오후 09_06_03-1~10-6.png`) = 못생김(제일 심각)·기괴함·다 닮음 · 아줌마·아저씨 얼굴이라 역겨움 → 예쁘고 섹시하고, 잘생기고 섹시하고, 누가 봐도 젊게.
+- 화면 나이: 올리비아 22 · 제나 20 · 데미안 24 · 가브리엘 25 · 다이앤 32로 보이게(엄마 역이어도). 공작은 이번에 뺐다.
+- 캐논 정정: 가브리엘 눈 = 보라빛(최종고 "purple-black eyes … violet-black"). 이 meta의 예전 "금색 눈"은 폐기.
